@@ -372,7 +372,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
 
 - Following previous work, we prompt GPT-4 as a judge to evaluate the model's output based on the golden answer and the question's requirements from three aspects: *Accuracy*, *Hallucinations*, and *Completeness*, scoring from 0 to 100. For a detailed prompt, please refer to our paper. 
 - We design two indicators: (1) **_Avg Scores_**: the average value of scores given by GPT-4 for all questions; (2) **_Perfect Rate_**: the proportion of cases scoring 100 out of the total cases. The latter is a more stringent evaluation metric compared to the former.
-- We set `temperature = 0` to eliminate randomness and keep other hyper-parameters default. For API-Based LLMs, we directly utilize the official API for testing. Since the Kimi-Chat-200k currently does not provide an interface, we manually input content on the web. As for open-source models, we conduct experiments on a server with 8$\times$A100 80GB.
+- We set `temperature = 0` to eliminate randomness and keep other hyper-parameters default. For API-Based LLMs, we directly utilize the official API for testing. Since the Kimi-Chat-200k currently does not provide an interface, we manually input content on the web. As for open-source models, we conduct experiments on a server with 8 $\times$ A100 80GB.
 
 ## Evaluate long-context LLMs
 The code is currently being refined, and we plan to release the evaluation code and benchmark within the next one or two weeks. If you encounter any issues, please feel free to contact me at wangminzheng2023@ia.ac.cn.
