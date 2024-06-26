@@ -4,7 +4,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
 > *Please find more details of this work in our paper.*
 
 ![Overview of Loong](assets/main_fig.jpg)
-> Showcase of four evaluation tasks in Loong (<$\mathtt{di}$>...</$\mathtt{di}$> marks the content of the i-th document). a) *Spotlight Locating*: Locate the evidences. b) *Comparison*: Locate and compare the evidences. c) *Clustering*: Locate and cluster the evidences into groups. d) *Chain of Reasoning*: Locate and reasoning along a logical chain.
+> Showcase of four evaluation tasks in Loong (\<di>...\</di> marks the content of the i-th document). (a) *Spotlight Locating*: Locate the evidences. (b) *Comparison*: Locate and compare the evidences. (c) *Clustering*: Locate and cluster the evidences into groups. (d) *Chain of Reasoning*: Locate and reasoning along a logical chain.
 
 ## Leaderboard
 <table>
@@ -375,7 +375,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
 - We set `temperature = 0` to eliminate randomness and keep other hyper-parameters default. For API-Based LLMs, we directly utilize the official API for testing. Since the Kimi-Chat-200k currently does not provide an interface, we manually input content on the web. As for open-source models, we conduct experiments on a server with 8 $\times$ A100 80GB.
 
 ## Evaluate long-context LLMs
-The code is currently being refined, and we plan to release the evaluation code and benchmark within the next one or two weeks. If you encounter any issues, please feel free to contact me at wangminzheng2023@ia.ac.cn.
+`[2024-06-25]` The code is currently being refined, and we plan to release the evaluation code and benchmark within the next one or two weeks. If you encounter any issues, please feel free to contact me at wangminzheng2023@ia.ac.cn.
 
 ## Citation
 ```
