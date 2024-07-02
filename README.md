@@ -420,7 +420,7 @@ sh run.sh
 
 **Things To Know**
 - We provide a complete evaluation process:  
-`step1_data_load.py` Data loading  
+`step1_load_data.py` Data loading  
 `step2_model_generate.py` Model generation  
 `step3_model_evaluate.py` GPT-4 evaluation    
 `step4_cal_metric.py` Result statistics  
