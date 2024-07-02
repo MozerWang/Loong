@@ -1,0 +1,2045 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+x QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended March 31, 2024
+
+OR
+
+¨ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from               to               
+
+
+
+Cepton, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+
+
+                  Delaware                                    001-39959                                   27-2447291
+
+      (State or other jurisdiction of                 (Commission File Number)                         (I.R.S. Employer
+
+       incorporation or organization)                                                               Identification Number)
+
+
+
+
+
+                        399 West Trimble Road                                                       95131
+
+                        San Jose, California
+
+              (Address of principal executive offices)                                           (Zip Code)
+
+Registrant’s telephone number, including area code: 408-459-7579
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+               Title of each class                         Trading Symbol(s)             Name of each exchange on which registered
+
+    Common stock, par value $0.00001 per share                    CPTN                          The Nasdaq Stock Market LLC
+
+Redeemable warrants, exercisable for common stock                CPTNW                          The Nasdaq Stock Market LLC
+
+    at an exercise price of $115.00 per share,
+
+                    subject to
+
+                    adjustment
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No ¨
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes x No ¨
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. 
+
+
+
+
+
+
+
+
+
+Large accelerated filer               ¨                                           Accelerated filer                      ¨
+
+Non-accelerated filer                 x                                           Smaller reporting company              x
+
+                                                                                  Emerging growth company                x
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No x
+
+As of May 1, 2024, 15,920,917 shares of common stock, par value $0.00001, of the registrant were issued and outstanding.
+
+
+
+
+
+
+
+
+
+
+
+Cautionary Note Regarding Forward-Looking Statements
+
+
+
+This Quarterly Report on Form 10-Q (the “Report”) includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). All statements other than statements of historical or current fact included in this Report are forward-looking statements. Forward-looking statements may be identified by the use of words such as “estimate,” “plan,” “project,” “forecast,” “intend,” “will,” “expect,” “anticipate,” “believe,” “seek,” “target,” “designed to” or other similar expressions that predict or imply future events or trends or that are not statements of historical matters. In addition, any statements that refer to projections, forecasts or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. The Company cautions readers of this Report that these forward-looking statements are subject to risks and uncertainties, most of which are difficult to predict and many of which are beyond the Company’s control, that could cause the actual results to differ materially from the expected results. These factors include the information set forth in Part II, Item 1A, of this Report under the heading “Risk Factors”, which we encourage you to carefully read. Forward-looking statements include, but are not limited to, statements regarding estimates and forecasts of financial and performance metrics, projections of market opportunity and market share, anticipated recoveries related to our cancelled General Motors (“GM”) series production award with Koito Manufacturing Co., Ltd (“Koito”), potential benefits and the commercial attractiveness to its customers of the Company’s products and services, expectations regarding our new series production award, including potential payments relating to the new series production award, the potential success of the Company’s marketing and expansion strategies, the potential for the Company to achieve design awards, and statements regarding the potential transaction with Koito. These statements are based on various assumptions, whether or not identified in this Report, and on the current expectations of the Company’s management and are not predictions of actual performance. These forward-looking statements are provided for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a guarantee, an assurance, a prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and will differ from assumptions. You are therefore cautioned not to place undue reliance on such statements. Any forward-looking statement speaks only as of the date on which it is made, and we undertake no obligation to update any forward-looking statement to reflect events or circumstances after the date on which the statement is made or to reflect the occurrence of unanticipated events, except as required by law.
+
+i
+
+
+
+
+
+Cepton, Inc.
+
+Quarterly Report on Form 10-Q
+
+Table of Contents
+
+
+
+                                                                                                                           Page No.
+
+
+
+PART I. FINANCIAL INFORMATION
+
+
+
+Item 1.      Financial Statements (Unaudited)                                                                                  1
+
+
+
+             Condensed Consolidated Balance Sheets                                                                             1
+
+
+
+             Condensed Consolidated Statements of Operations and Comprehensive Income (Loss)                                   2
+
+
+
+             Condensed Consolidated Statements of Convertible Preferred Stock and Stockholders’ Equity (Deficit)               3
+
+
+
+             Condensed Consolidated Statements of Cash Flows                                                                   4
+
+
+
+             Notes to Condensed Consolidated Financial Statements (Unaudited)                                                  6
+
+
+
+Item 2.      Management’s Discussion and Analysis of Financial Condition and Results of Operations                            22
+
+
+
+Item 3.      Quantitative and Qualitative Disclosures About Market Risk                                                       31
+
+
+
+Item 4.      Controls and Procedures                                                                                          31
+
+
+
+PART II. OTHER INFORMATION
+
+
+
+Item 1.      Legal Proceedings                                                                                                33
+
+
+
+Item 1A.     Risk Factors                                                                                                     33
+
+
+
+Item 2.      Unregistered Sales of Equity Securities and Use of Proceeds                                                      33
+
+
+
+Item 3.      Defaults Upon Senior Securities                                                                                  33
+
+
+
+Item 4.      Mine Safety Disclosures                                                                                          33
+
+
+
+Item 5.      Other Information                                                                                                34
+
+
+
+Item 6.      Exhibits                                                                                                         34
+
+
+
+SIGNATURES                                                                                                                     36
+
+ii
+
+
+
+
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. Financial Statements (Unaudited)
+
+CEPTON, INC. AND SUBSIDIARIES
+
+Condensed Consolidated Balance Sheets
+
+(In thousands, except share data)
+
+(unaudited)
+
+
+
+                                                                                                                                   March 31,            December 31,
+
+                                                                                                                                     2024                   2023
+
+ASSETS
+
+Current assets:
+
+Cash and cash equivalents                                                                                                    $           49,218    $            50,406 
+
+Short-term investments                                                                                                                         —                   5,969 
+
+Accounts receivable, net of allowance for credit losses of $0 and $0, respectively                                                         5,078                   3,625 
+
+Inventories                                                                                                                                1,861                   2,396 
+
+Prepaid expenses and other current assets                                                                                                  2,236                   1,253 
+
+Total current assets                                                                                                                      58,393                  63,649 
+
+Property and equipment, net                                                                                                                1,346                   1,450 
+
+Restricted cash                                                                                                                            1,283                   1,283 
+
+Other assets                                                                                                                               9,614                  10,067 
+
+Total assets                                                                                                                 $           70,636    $            76,449 
+
+LIABILITIES, CONVERTIBLE PREFERRED STOCK AND STOCKHOLDERS’ EQUITY (DEFICIT)
+
+Current liabilities:
+
+Accounts payable                                                                                                             $            1,668    $             1,128 
+
+Operating lease liabilities, current                                                                                                       1,953                   1,875 
+
+Accrued expenses and other current liabilities                                                                                             4,136                   4,066 
+
+Total current liabilities                                                                                                                  7,757                   7,069 
+
+Warrant liability                                                                                                                             50                      43 
+
+Earnout liability                                                                                                                             93                      93 
+
+Operating lease liabilities, non-current                                                                                                   8,186                   8,720 
+
+Total liabilities                                                                                                                         16,086                  15,925 
+
+Commitments and contingencies (Note 17)
+
+Convertible preferred stock:                                                                                                                                             
+
+Convertible preferred stock – Par value $0.00001 per share – 5,000,000 shares authorized at March 31, 2024 and December 31,               98,891                  98,891 
+
+ 2023; 100,000 shares issued and outstanding at March 31, 2024 and December 31, 2023 (aggregate liquidation preference of
+
+ $105.2 million and $104.1 million at March 31, 2024 and December 31,
+
+ 2023)
+
+Stockholders’ equity (deficit):                                                                                                                                          
+
+Common stock – Par value $0.00001 per share – 35,000,000 shares authorized at March 31, 2024 and December 31, 2023;                            —                       — 
+
+ 15,920,917 and 15,861,494 shares issued and outstanding at March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Additional paid-in capital                                                                                                                97,446                  96,583 
+
+Accumulated other comprehensive loss                                                                                                        (349)                   (345)
+
+Accumulated deficit                                                                                                                     (141,438)               (134,605)
+
+Total stockholders’ equity (deficit)                                                                                                     (44,341)                (38,367)
+
+Total liabilities, convertible preferred stock and stockholders' equity (deficit)                                            $           70,636    $            76,449 
+
+See accompanying notes to the condensed consolidated financial statements
+
+1
+
+
+
+
+
+CEPTON, INC. AND SUBSIDIARIES
+
+Condensed Consolidated Statements of Operations and Comprehensive Income (Loss)
+
+(In thousands, except share and per share data) 
+
+(unaudited)
+
+
+
+                                                                                                            Three Months Ended
+
+                                                                                                                March 31,
+
+                                                                                                         2024               2023
+
+Lidar sensor and prototype revenue                                                                $          1,141   $          1,240 
+
+Development revenue                                                                                            805                245 
+
+Total revenue                                                                                                1,946              1,485 
+
+
+
+Lidar sensor and prototype cost of revenue                                                                   1,211              1,448 
+
+Development cost of revenue                                                                                    311                111 
+
+Total cost of revenue                                                                                        1,522              1,559 
+
+Gross profit (loss)                                                                                            424                (74)
+
+
+
+Operating expenses:
+
+Research and development                                                                                     5,654              7,238 
+
+Selling, general and administrative                                                                          6,264              6,731 
+
+Total operating expenses                                                                                    11,918             13,969 
+
+Operating loss                                                                                             (11,494)           (14,043)
+
+Other income (expense):
+
+Gain on change in fair value of earnout liability                                                                —                762 
+
+(Loss) gain on change in fair value of warrant liability                                                        (7)                94 
+
+Foreign currency transaction loss, net                                                                          (1)              (750)
+
+Loss on extinguishment of debt                                                                                   —             (1,123)
+
+Other income, net                                                                                            4,022                 19 
+
+Interest income, net                                                                                           654                299 
+
+Loss before income taxes                                                                                    (6,826)           (14,742)
+
+Provision for income taxes                                                                                      (7)                 — 
+
+
+
+Net loss                                                                                          $         (6,833)  $        (14,742)
+
+
+
+Net loss per share, basic                                                                         $          (0.43)  $          (0.94)
+
+Net loss per share, diluted                                                                       $          (0.43)  $          (0.94)
+
+Weighted-average common shares, basic                                                                   15,888,267         15,677,956 
+
+Weighted-average common shares, diluted                                                                 15,888,267         15,677,956 
+
+
+
+Net loss                                                                                          $         (6,833)  $        (14,742)
+
+Other comprehensive income (loss), net of tax:                                                                                         
+
+Changes in unrealized gain on available-for-sale securities                                                      6                 17 
+
+Foreign currency translation adjustments                                                                       (10)                20 
+
+Total other comprehensive (loss) income, net of tax                                                             (4)                37 
+
+Comprehensive loss                                                                                $         (6,837)  $        (14,705)
+
+See accompanying notes to the condensed consolidated financial statements
+
+2
+
+
+
+
+
+CEPTON, INC. AND SUBSIDIARIES
+
+Condensed Consolidated Statements of Convertible Preferred Stock and Stockholders’ Equity (Deficit)
+
+(In thousands, except share and per share data)
+
+(unaudited)
+
+
+
+
+
+
+
+                                            Convertible                          Common                    Additional          Accumulated Other           Accumulated        Total Stockholders’
+
+                                          Preferred Stock                         Stock                     Paid-in              Comprehensive               Deficit                 Equity
+
+                                                                                                            Capital                  Loss                                          (Deficit)
+
+                                      Shares         Amount            Shares          Amount
+
+Balance — December 31, 2023            100,000    $    98,891        15,861,494                    $        96,583    $               (345)    $         (134,605)   $           (38,367)
+
+Exercise of stock options and                —               —            59,423              —                                                                                            — 
+
+ release of Restricted Stock Units
+
+ (RSUs)
+
+Stock-based compensation expense             —               —                 —              —                926                                                                      926 
+
+Payments of employee taxes related           —               —                 —              —                (63)                       —                       —                    (63)
+
+ to vested restricted stock
+
+ units
+
+Unrealized gain on                           —               —                 —              —                                            6                                              6 
+
+ available-for-sale
+
+ investments
+
+Cumulative translation adjustment            —               —                 —              —                                          (10)                                           (10)
+
+Net loss                                     —               —                 —              —                                                                (6,833)                (6,833)
+
+Balance — March 31, 2024               100,000    $    98,891        15,920,917    $         —    $        97,446    $               (349)    $         (141,438)   $           (44,341)
+
+
+
+
+
+                                            Convertible                          Common                    Additional          Accumulated Other           Accumulated        Total Stockholders’
+
+                                          Preferred Stock                         Stock                     Paid-in              Comprehensive               Deficit                 Equity
+
+                                                                                                            Capital                  Loss                                          (Deficit)
+
+                                      Shares          Amount            Shares          Amount
+
+Balance — December 31, 2022                  —    $         —         15,674,781    $         —    $        88,058    $               (366)    $          (86,059)   $             1,633 
+
+Issuance of convertible preferred      100,000          98,891                  —              —                  —                        —                       —                      — 
+
+ stock, net of transaction
+
+ costs
+
+Exercise of stock options and                —               —              9,638              —                  8                        —                       —                      8 
+
+ release of
+
+ RSUs
+
+Stock-based compensation expense             —               —                  —              —              2,280                        —                       —                  2,280 
+
+Unrealized gain on                           —               —                  —              —                  —                       17                       —                     17 
+
+ available-for-sale
+
+ investments
+
+Cumulative translation adjustment            —               —                  —              —                  —                       20                       —                     20 
+
+Net loss                                     —               —                  —              —                  —                        —                 (14,742)               (14,742)
+
+Balance — March 31, 2023               100,000    $    98,891         15,684,419    $         —    $        90,346    $               (329)    $         (100,801)   $           (10,784)
+
+See accompanying notes to the condensed consolidated financial statements
+
+3
+
+
+
+
+
+CEPTON, INC. AND SUBSIDIARIES
+
+Condensed Consolidated Statements of Cash Flows
+
+(In thousands)
+
+(unaudited)
+
+
+
+                                                                                                            Three Months Ended
+
+                                                                                                                March 31,
+
+                                                                                                         2024              2023
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+
+Net loss                                                                                           $        (6,833)  $       (14,742)
+
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+Depreciation and amortization                                                                                  103               110 
+
+Stock-based compensation                                                                                       926             2,289 
+
+Amortization of right-of-use asset                                                                             416               382 
+
+Amortization (accretion), other                                                                                (25)              107 
+
+Gain on change in fair value of earnout liability                                                                —              (762)
+
+Loss (gain) on change in fair value of warrant liability                                                         7               (94)
+
+Foreign currency transaction loss, net                                                                           1               750 
+
+Loss from extinguishment of debt                                                                                 —             1,123 
+
+Changes in operating assets and liabilities:                                                                                          
+
+Accounts receivable, net                                                                                    (1,453)              260 
+
+Inventories                                                                                                    534              (453)
+
+Prepaid expenses and other current assets                                                                     (983)              513 
+
+Other long-term assets                                                                                          37               181 
+
+Accounts payable                                                                                               541              (680)
+
+Accrued expenses and other current liabilities                                                                  71               502 
+
+Operating lease liabilities                                                                                   (457)               89 
+
+Net cash used in operating activities                                                                       (7,115)          (10,425)
+
+
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+
+Purchases of property and equipment                                                                              —              (556)
+
+Purchases of short-term investments                                                                              —           (37,806)
+
+Proceeds from maturities of short-term investments                                                           6,000             3,700 
+
+Net cash provided by (used in) investing activities                                                          6,000           (34,662)
+
+
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+
+Proceeds from convertible preferred stock, net of transaction costs                                              —            99,884 
+
+Repayment of Koito secured term loan                                                                             —           (45,220)
+
+Payments of employee taxes related to vested restricted stock units                                            (63)                — 
+
+Proceeds from issuance of common stock options                                                                   —                 8 
+
+Net cash (used in) provided by financing activities                                                            (63)           54,672 
+
+
+
+Effect of exchange rate changes on cash                                                                        (10)              434 
+
+
+
+Net (decrease) increase in cash, cash equivalents and restricted cash                                       (1,188)           10,019 
+
+Cash, cash equivalents and restricted cash, beginning of period                                             51,689            34,518 
+
+Cash, cash equivalents and restricted cash, end of period                                          $        50,501   $        44,537 
+
+
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION                                                                                      
+
+Cash paid for interest                                                                             $             —   $            63 
+
+Cash paid for income taxes                                                                         $            10   $             — 
+
+
+
+4
+
+
+
+
+
+
+
+SUPPLEMENTAL DISCLOSURES OF NON-CASH INVESTING AND FINANCING INFORMATION                                                              
+
+Right-of-use assets obtained in exchange for operating lease liabilities                            $            —   $        11,190 
+
+See accompanying notes to the condensed consolidated financial statements
+
+5
+
+
+
+
+
+CEPTON, INC. AND SUBSIDIARIES
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) (
+
+Note 1. Description of Business and Summary of Significant Accounting Policies
+
+Description of Business
+
+Cepton, Inc., and its wholly owned subsidiaries, (collectively, the “Company”) formerly known as Growth Capital Acquisition Corp. (“GCAC”), was originally incorporated in Delaware on January 4, 2010, under the name PinstripesNYS, Inc. GCAC changed its name to Growth Capital Acquisition Corp. on February 14, 2020. GCAC was a special purpose acquisition company formed for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or other similar business combination with one or more target businesses. On February 2, 2021, the Company consummated its initial public offering (the “IPO”), following which its shares began trading on the Nasdaq Stock Market (“Nasdaq”). On August 4, 2021, GCAC entered into a Business Combination Agreement (as amended, the “Merger Agreement”) with Cepton Technologies, Inc. (“Legacy Cepton”) and GCAC Merger Sub Inc., a wholly owned subsidiary of GCAC. On February 10, 2022 (the “Closing Date”), the transactions contemplated by the Merger Agreement (the “Business Combination”) were consummated. In connection with the closing of the Business Combination, GCAC changed its name to Cepton, Inc. and its shares and public warrants began trading on Nasdaq under the symbols “CPTN” and “CPTNW”, respectively. As a result of the Business Combination, Cepton, Inc. became the owner, directly or indirectly, of all of the equity interests of Legacy Cepton and its subsidiaries. Contemporaneously with the execution of the Merger Agreement, GCAC entered into subscription agreements with certain investors (the “PIPE Investors”), pursuant to which the PIPE Investors agreed to purchase an aggregate of 5,950,000 shares of common stock at a purchase price of $10.00 per share, or an aggregate purchase price of $59.5 million (the “PIPE Investment”).
+
+The Company provides state-of-the-art, intelligent, lidar-based solutions for a range of markets such as automotive, smart cities, smart spaces, and smart industrial applications. The Company’s patented lidar technology enables reliable, scalable, and cost-effective solutions that deliver near- or long-range, high resolution 3D perception for smart applications. The Company is headquartered in San Jose, California, USA. 
+
+Basis of Presentation and Principles of Consolidation 
+
+The condensed consolidated financial statements are unaudited and have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”). The condensed consolidated financial statements include the accounts of the Company’s wholly owned subsidiaries in Canada, Germany and other locations. All intercompany balances and transactions have been eliminated in consolidation. The condensed consolidated financial statements include all adjustments considered necessary by management to fairly state the results of operations, financial position and cash flows. The accompanying interim unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and related notes thereto for the year ended December 31, 2023 included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2023.
+
+The accompanying condensed consolidated financial statements have been prepared assuming the Company will continue as a going concern. As of March 31, 2024, the Company had cash and cash equivalents of $49.2 million and an accumulated deficit of $141.4 million. During the three months ended March 31, 2024, the Company incurred an operating loss of $11.5 million and had negative cash flows from operating activities of $7.1 million. 
+
+The Company is subject to risks and uncertainties frequently encountered by early-stage companies including, but not limited to, the uncertainty of successfully developing its products, securing certain contracts, building its customer base, successfully executing its business and marketing strategy and hiring appropriate personnel. 
+
+To date, the Company has been funded primarily by equity financings (including the Preferred Stock, as defined in Note 10), convertible promissory notes, and the net proceeds received through the Business Combination, PIPE Investment, and private placements of the Legacy Cepton convertible preferred stock. Failure to generate sufficient revenues, achieve planned gross margins and operating profitability, control operating costs, or secure additional funding may require the Company to modify, delay, or abandon some of its planned future expansion or development, or to otherwise enact operating cost reductions available to management, which could have a material adverse effect on the Company’s business, operating results, financial condition, and ability to achieve its intended business objectives.
+
+On September 7, 2023, the Company’s stockholders approved a one-for-ten reverse stock split of the Company’s issued common stock (the “Reverse Stock Split”) and a corresponding reduction in the total number of shares of common stock the Company is authorized to issue (the “Authorized Shares Reduction”). On September 18, 2023, the Company filed with 
+
+6
+
+
+
+
+
+the Secretary of State of the State of Delaware a Certificate of Amendment to its Second Amended and Restated Certificate of Incorporation to effect the Reverse Stock Split and Authorized Shares Reduction. The Reverse Stock Split and Authorized Shares Reduction became effective on September 21, 2023 (the “Effective Date”). The par value of the Company’s common stock was not adjusted as a result of the Reverse Stock Split. All of the Company’s share numbers, per share amounts, and related stockholders’ equity (deficit) balances presented herein have been retroactively adjusted to reflect the Reverse Stock Split. In addition, the exercise prices, conversion rates and other terms of the Company’s securities that adjusted pursuant to their terms as a result of the Reverse Stock Split have been presented after giving effect to such adjustments.
+
+Concentration of Risk 
+
+Financial instruments that subject the Company to concentrations of credit risk consist primarily of cash and cash equivalents and accounts receivable. The Company maintains a substantial portion of its cash and cash equivalents in money market funds. Management believes that the financial institutions that hold its cash and cash equivalents are financially sound and, accordingly, represent minimal credit risk. Deposits held with banks may exceed the amount of federal insurance limits provided on such deposits.
+
+As of March 31, 2024 and December 31, 2023, one and three customers each accounted for more than 10% of accounts receivable. 
+
+Customers with revenue equal to or greater than 10% of total revenue for the periods indicated were as follows:
+
+
+
+                                                                                                          Three Months Ended
+
+                                                                                                              March 31,
+
+                                                                                                      2024                2023
+
+Customer A                                                                                                  67  %              58  %
+
+Customer B                                                                                                  21  %                 N/A
+
+Customer C                                                                                                     N/A              21  %
+
+Customer D                                                                                                     N/A              11  %
+
+Use of Estimates
+
+The preparation of the condensed consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Significant items subject to such estimates and assumptions include, but are not limited to, inventory valuation and reserves, warranty reserves, valuation allowance for deferred tax assets, valuation of earnout and warrant liabilities, stock-based compensation, useful lives of property, plant and equipment, income tax uncertainties, and other loss contingencies. The Company evaluates its estimates and assumptions on an ongoing basis using historical experience and other factors and adjusts those estimates and assumptions when facts and circumstances dictate. Actual results could differ from those estimates, and such differences could be material to the Company’s condensed consolidated financial condition and results of operations. 
+
+Product Warranties 
+
+The Company typically provides a one-year warranty on its products. Estimated future warranty costs are accrued and charged to cost of goods sold in the period that the related revenue is recognized. These estimates are derived from historical data and trends of product reliability and costs of repairing and replacing defective products. The Company periodically assesses the adequacy of its recorded warranty liabilities and adjusts the amounts as necessary. Through March 31, 2024, there were immaterial changes to the accrued warranty liability which was recorded in accrued expenses and other current liabilities on the condensed consolidated balance sheet. 
+
+Recently Issued Accounting Pronouncements 
+
+In November 2023, the Financial Accounting Standards Board (“FASB”) issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which requires an enhanced disclosure of significant segment expenses on an annual and interim basis. This guidance will be effective for the annual periods beginning the year ended December 31, 2024, and for interim periods beginning January 1, 2025. Early adoption is permitted. Upon adoption, 
+
+7
+
+
+
+
+
+the guidance should be applied retrospectively to all prior periods presented in the financial statements. The Company is currently evaluating the impact of adopting this new pronouncement on its condensed consolidated financial statements disclosures.
+
+Note 2. Basic and Diluted Net Income (Loss) Per Share
+
+The Company follows the two-class method when computing net income (loss) per common share when shares are issued that meet the definition of participating securities. The Company was in a net loss position for the three months ended March 31, 2024 and March 31, 2023, respectively. The Company considers its convertible preferred stock outstanding as of March 31, 2024 to be participating as holders of such securities have non-forfeitable dividend rights in the event of the declaration of a dividend for shares of common stock. When the Company is in a net loss position, the net loss attributable to common stockholders is not allocated to the convertible preferred stock under the two-class method as these securities do not have a contractual obligation to share in losses. Basic net income (loss) per share is computed by dividing net income (loss) attributable to common stockholders by the weighted-average number of shares of the Company’s common stock outstanding. When there is a net loss attributable to common stockholders, potentially dilutive common stock equivalents have been excluded from the calculation of diluted net loss per share attributable to common stockholders as their effect is anti-dilutive.
+
+The following table presents reconciliations of the denominators of basic and diluted net income (loss) per share:
+
+
+
+                                                                                                Three Months Ended
+
+                                                                                                    March 31,
+
+                                                                                       2024                          2023
+
+Denominator:
+
+Weighted-average common shares outstanding – Basic                                          15,888,267                    15,677,956 
+
+Stock options to purchase common stock and RSUs                                                      —                             — 
+
+Weighted-average common shares outstanding – Diluted                                        15,888,267                    15,677,956 
+
+
+
+The following common stock equivalents were excluded from the computation of diluted net income (loss) per share for the periods presented because including them would have been antidilutive:
+
+
+
+                                                                                                Three Months Ended
+
+                                                                                                    March 31,
+
+                                                                                       2024                          2023
+
+Stock options to purchase common stock and RSUs                                              1,554,037                     1,612,565 
+
+Preferred shares on an as-converted basis                                                    4,069,346                     3,900,897 
+
+Total                                                                                          5,623,383                     5,513,462
+
+As of March 31, 2024 and 2023, 1,300,000 Earnout Shares (as defined in Note 13) were excluded from the table above because the shares are considered contingently issuable and the required common share price milestones were not achieved as of March 31, 2024 and 2023. As of March 31, 2024 and 2023, 13,800,000 common stock warrants (which are exercisable for an aggregate of 1,380,000 shares of common stock) were excluded from the table above as no shares were issuable under the treasury stock method of computing diluted earnings per share.
+
+8
+
+
+
+
+
+Note 3. Revenue
+
+The Company disaggregates its revenue from contracts with customers by country of domicile based on the shipping location of the customer. Total revenue disaggregated by country of domicile was as follows (dollars in thousands):
+
+
+
+                                                                                Three Months Ended March 31,
+
+                                                                        2024                                     2023
+
+                                                           Revenue          % of Revenue          Revenue          % of Revenue
+
+Revenue by country of domicile:
+
+Japan                                                 $         1,328                 68   % $         1,036                 70   %
+
+United States                                                     586                 30   %             115                  8   %
+
+China                                                              25                  1   %             317                 21   %
+
+Other                                                               7                  1   %              17                  1   %
+
+Total                                                 $         1,946                100   % $         1,485                100   %
+
+
+
+As of March 31, 2024 and December 31, 2023, the Company had $0.4 million and $0.4 million of contract liabilities included in accrued expenses and other current liabilities, respectively, and no contract assets.
+
+Note 4. Fair Value Measurement
+
+The following tables summarize the Company’s assets and liabilities measured at fair value on a recurring basis, by level, within the fair value hierarchy (in thousands):
+
+
+
+                                                                                           March 31, 2024
+
+                                                                  Level 1           Level 2           Level 3            Total
+
+Assets:
+
+Cash equivalents:
+
+Money market fund                                            $       37,431   $             —   $             —   $       37,431 
+
+Total cash equivalents                                       $       37,431   $             —   $             —   $       37,431 
+
+Short-term investments:
+
+Total short-term investments                                 $            —   $             —   $             —   $            — 
+
+Total assets measured at fair value                          $       37,431   $             —   $             —   $       37,431 
+
+
+
+Liabilities:
+
+Warrant liability                                            $            —   $            50   $             —   $           50 
+
+Earnout liability                                                          —                 —                93                93 
+
+Total liabilities measured at fair value                     $            —   $            50   $            93   $          143 
+
+9
+
+
+
+
+
+
+
+                                                                                          December 31, 2023
+
+                                                                   Level 1           Level 2           Level 3            Total
+
+Assets:
+
+Cash equivalents:
+
+Money market fund                                             $       33,562   $            —   $             —   $       33,562 
+
+Total cash equivalents                                        $       33,562   $            —   $             —   $       33,562 
+
+Short-term investments:
+
+Commercial paper                                              $            —   $        5,969   $             —   $        5,969 
+
+Total short-term investments                                  $            —   $        5,969   $             —   $        5,969 
+
+Total assets measured at fair value                           $       33,562   $        5,969   $             —   $       39,531 
+
+
+
+Liabilities:
+
+Warrant liability                                             $            —   $           43   $             —   $           43 
+
+Earnout liability                                                           —                 —                93                93 
+
+Total liabilities measured at fair value                      $            —   $           43   $            93   $          136 
+
+Cash equivalents consist primarily of money market funds with original maturities of three months or less at the time of purchase, and the carrying amount is a reasonable estimate of fair value. Short-term investments consist of investment securities with original maturities greater than three months but less than twelve months and are included as current assets in the condensed consolidated balance sheets. For short-term investments, the fair value as of March 31, 2024 and December 31, 2023 approximates amortized cost basis.
+
+Because the transfer of Private Placement Warrants to non-permitted transferees would result in the Private Placement Warrants having substantially the same terms as the Public Warrants, the Company determined that the fair value of each Private Placement Warrant is consistent with that of a Public Warrant. Accordingly, the Private Placement Warrants are classified as Level 2 financial instruments under warrant liability.
+
+The value of the earnout liability is classified as Level 3 under the fair value hierarchy because it has been valued based on significant inputs not observable in the market. There was no change in Level 3 liabilities related to earnout liability measured at fair value for three months ended March 31, 2024.
+
+Note 5. Inventories
+
+Inventories consisted of the following as of March 31, 2024 and December 31, 2023 (in thousands):
+
+
+
+                                                                                                      March 31,        December 31,
+
+                                                                                                        2024               2023
+
+Raw materials                                                                                     $         1,023   $          1,182 
+
+Work-in-process                                                                                                781                 876 
+
+Finished goods                                                                                                  57                 338 
+
+Total inventories                                                                                 $         1,861   $          2,396 
+
+Inventories are carried and depicted above at the lower of cost or net realizable value. Write-downs were $0.2 million for the three months ended March 31, 2024. Write-downs were immaterial for the three months ended March 31, 2023.
+
+10
+
+
+
+
+
+Note 6. Prepaid Expenses and Other Current Assets
+
+Prepaid expenses and other current assets consisted of the following as of March 31, 2024 and December 31, 2023 (in thousands):
+
+
+
+                                                                                                     March 31,        December 31,
+
+                                                                                                       2024               2023
+
+Prepaid insurance                                                                                $         1,219   $            365 
+
+Other prepaid expenses                                                                                        941                 737 
+
+Other current assets                                                                                           76                 151 
+
+Total prepaid expenses and other current assets                                                  $         2,236   $          1,253 
+
+Note 7. Property and Equipment, Net
+
+Property and equipment, net, consisted of the following as of March 31, 2024 and December 31, 2023 (in thousands):
+
+
+
+                                                                                                      March 31,        December 31,
+
+                                                                                                        2024               2023
+
+Machinery and equipment                                                                           $         2,326   $          2,326 
+
+Automobiles                                                                                                     45                  45 
+
+Leasehold improvements                                                                                         235                 235 
+
+Computer and equipment                                                                                         116                 116 
+
+Total property and equipment                                                                                 2,722               2,722 
+
+Less: accumulated depreciation and amortization                                                             (1,376)             (1,272)
+
+Total property and equipment, net                                                                 $         1,346   $          1,450 
+
+Depreciation and amortization expenses related to property and equipment was $0.1 million for the three months ended March 31, 2024 and 2023.
+
+Note 8. Accrued Expenses and Other Current Liabilities
+
+Accrued expenses and other current liabilities consisted of the following as of March 31, 2024 and December 31, 2023 (in thousands):
+
+
+
+                                                                                                     March 31,        December 31,
+
+                                                                                                       2024               2023
+
+Accrued payroll                                                                                  $         1,342   $            878 
+
+Accrued expenses and taxes                                                                                  2,432               2,798 
+
+Deferred revenue                                                                                              351                 367 
+
+Warranty reserve                                                                                               11                  23 
+
+Total accrued expenses and other current liabilities                                             $         4,136   $          4,066 
+
+As of March 31, 2024 and December 31, 2023, accrued expenses and taxes includes a $2.2 million accrual related to contractual liabilities arising from the series production award cancellation.
+
+Note 9. Debt
+
+Secured Term Loan Agreement with Koito
+
+
+
+On October 27, 2022, the Company entered into an Investment Agreement (the “Investment Agreement”) with Koito (See Note 10). Concurrently with the execution of the Investment Agreement, the Company entered into a Secured Term Loan Agreement with Koito to borrow Japanese Yen ¥5.8 billion (approximately $39.4 million) (the “Secured Term Loan Agreement”). The loan accrued interest at a rate equal to 1.0% per annum and was payable at maturity. The Secured Term Loan Agreement entered into with Koito was a related party transaction issued at a below market interest rate. Amortization of the debt discount, in accordance with the effective interest method, was recorded as interest expense in the 
+
+11
+
+
+
+
+
+accompanying condensed consolidated statement of operations and comprehensive income (loss). The loan was set to mature on the earlier of three business days after the closing of the transactions contemplated by the Investment Agreement and the date on which the Investment Agreement is terminated in accordance with its terms. On November 7, 2022, the Company borrowed Japanese Yen ¥5.8 billion (approximately $39.4 million) under the Secured Term Loan Agreement. Obligations under the Secured Term Loan Agreement were secured by interests in substantially all of the Company’s assets, including all patents. The agreement contained customary affirmative and negative covenants. On January 24, 2023, the Company repaid all outstanding principal and accrued interest under the Secured Term Loan Agreement.
+
+During the three months ended March 31, 2023, the Company recognized $0.3 million in interest expense in connection with the borrowings under the Secured Term Loan Agreement. Additionally, the Company recognized a $0.8 million foreign currency transaction loss on repayment using the applicable exchange rate on January 24, 2023 and a $1.1 million loss on extinguishment of debt.
+
+Note 10. Convertible Preferred Stock
+
+Convertible Preferred Stock with Koito
+
+On October 27, 2022, the Company entered into the Investment Agreement with Koito pursuant to which, among other things, at the closing of the transactions, and based on the terms and subject to the conditions set forth therein, the Company issued and sold to Koito, 100,000 shares of Series A Convertible Preferred Stock, par value $0.00001 per share (the “Preferred Stock”), for a purchase price of $100.0 million (the “Initial Liquidation Preference”). The issuance and sale of the Preferred Stock and related matters were approved by the Company’s stockholders on January 11, 2023, and the Preferred Stock was issued to Koito on January 19, 2023. In connection with the issuance of the Preferred Stock, the Company incurred direct and incremental expenses of $1.1 million, comprised of transaction fees, and financial advisory and legal expenses, which reduced the carrying value of the Preferred Stock.
+
+As of March 31, 2024, the Company had authorized 5,000,000 shares of preferred stock, each with a par value of $0.00001. As of March 31, 2024, there were 100,000 shares of preferred stock issued and outstanding.
+
+Dividend Provisions
+
+The Preferred Stock ranks senior to the Company’s common stock with respect to payment of dividends and rights on the distribution of assets on any liquidation, dissolution or winding up of the affairs of the Company and ranks junior to all secured and unsecured indebtedness. The Preferred Stock has an Initial Liquidation Preference of $100.0 million, representing an aggregate Liquidation Preference (as defined below) of $100.0 million upon issuance. At the Company’s election, the Preferred Stock carries a 4.25% per annum dividend if paid in kind or a 3.25% per annum dividend if paid in cash, in each case payable quarterly in arrears. Holders of the Preferred Stock are entitled to the dividends regardless of whether the dividends are declared by the Company’s board of directors. Such dividends shall accrue and compound quarterly in arrears from the date of issuance of the shares. The Preferred Stock is also entitled to fully participate in any dividends paid to the holders of common stock in cash, in stock or otherwise, on an as-converted basis.
+
+Liquidation Rights
+
+In the event of any Liquidation, holders of the Preferred Stock are entitled to receive an amount per share equal to the greater of (1) the Initial Liquidation Preference per share plus any accrued or declared but unpaid dividends on such shares (the “Liquidation Preference”) or (2) the amount payable if the Preferred Stock were converted into common stock. The Preferred Stock will have distribution and liquidation rights senior to all other equity interests of the Company. As of March 31, 2024, the Liquidation Preference of the Preferred Stock was $105.2 million.
+
+Conversion Feature
+
+The Preferred Stock may be converted, at any time in whole or in part at the option of the holder, beginning on January 19, 2024, into shares of the Company’s common stock equal to the quotient obtained by dividing the sum of the Liquidation Preference by the conversion price of $25.85 (the “Conversion Price”).
+
+Anti-Dilution Provisions
+
+The Conversion Price of the Preferred Stock has customary anti-dilution provisions for stock splits, stock dividends, sales of shares through a tender or exchange offer, including under the Purchase Agreement with Lincoln Park (each as defined in Notes 10 and 11), subject to customary exceptions for issuances pursuant to current or future equity-based incentive plans or arrangements (including upon the exercise of employee stock options).
+
+12
+
+
+
+
+
+Optional Redemption
+
+The Company has the option, upon 30 days’ advance notice, to (A) repurchase all (but not less than all) of the outstanding Preferred Stock held by Koito or a Permitted Transferee (as defined in the Investment Agreement) on or after the second anniversary of the closing occurring after the end of the applicable fiscal year for which the Company has recorded positive net income, if the Company has recorded positive net income pursuant to GAAP in its audited financial statements for any fiscal year the end date of which falls after the fifth anniversary of the closing and (B) all or any portion of the outstanding Preferred Stock not held by Koito or a Permitted transferee any time after the seventh anniversary of the closing. 
+
+Fundamental Change Put Right
+
+Upon occurrence of a fundamental change event, each holder of outstanding shares of the Preferred Stock has the right to require the Company to repurchase any or all of their Preferred Stock at a purchase price per share equal to the Liquidation Preference or in lieu of a repurchase, elect to convert the Preferred Stock into the Company’s common stock equal to the quotient obtained by dividing 110% of the Liquidation Preference by the Conversion Price.
+
+A fundamental change is defined as either the direct or indirect sale, or other disposition of all or substantially all assets of the Company and its subsidiaries to any third party or the consummation of any transaction, the result of which is that any third party or group of third parties become the beneficial owner of more than 50% of the voting power of the Company. Solely with respect to shares held by Koito, the definition of a fundamental change is expanded to include agreements entered by the Company to issue equity exceeding 10% of the Company’s common stock, or any strategic alliance partnership, or joint venture agreement to a third party deemed to be a competitor with Koito (subject to certain exceptions).
+
+Note 11. Stockholders’ Equity (Deficit)
+
+Common Stock
+
+Holders of common stock were entitled to one vote per share, and to receive dividends when, as and if declared by the board of directors, and, upon liquidation or dissolution, were entitled to receive all assets available for distribution to stockholders. The holders had no preemptive or other subscription rights and there were no redemption or sinking fund provisions with respect to such shares.
+
+As of March 31, 2024, the Company had authorized 35,000,000 shares of common stock, each with a par value of $0.00001. As of March 31, 2024, there were 15,920,917 shares of common stock issued and outstanding.
+
+Lincoln Park Transaction
+
+On November 24, 2021, Legacy Cepton entered into a Purchase Agreement with Lincoln Park Capital LLC (“Lincoln Park”), pursuant to which Lincoln Park has agreed to purchase up to $100.0 million of common stock (subject to certain limitations contained in the Purchase Agreement) from time to time over a 36-month period (the “Purchase Agreement”) after the consummation of the Business Combination and certain other conditions set forth in the Purchase Agreement. The Company may, from time to time and at its sole discretion, direct Lincoln Park to purchase common stock in accordance with daily dollar thresholds as determined within the Purchase Agreement. The purchase price per share for common stock will be the lower of: (i) the lowest trading price for shares of common stock on the market in which it is listed, on the applicable purchase date and (ii) the average of the three (3) lowest closing sale price for common stock during the ten (10) consecutive business days ending on the business day immediately preceding such purchase date. In consideration for entering into the Purchase Agreement, the Company issued, as a commitment fee, 5,000 shares of common stock to Lincoln Park on the date of the closing of the Business Combination and subsequently an additional 15,000 shares of common stock 180 days after the date of the closing of the Business Combination. 
+
+No shares were sold under the Purchase Agreement in 2024 or 2023.
+
+Note 12. Stock-Based Compensation
+
+Equity Incentive Plans
+
+On July 5, 2016, Legacy Cepton adopted the 2016 Stock Plan (the “2016 Plan”) under which 4,800,000 shares of Legacy Cepton’s common stock were reserved for issuance to employees, nonemployee directors, consultants, and advisors. As a result of the Business Combination, the Company no longer grants new incentive awards under the 2016 Plan and there were no shares reserved or available for future issuance under the 2016 Plan. Incentive awards existing under the 2016 Plan 
+
+13
+
+
+
+
+
+immediately prior to the Business Combination were converted into options to receive shares of common stock through application of the Exchange Ratio (“Post Conversion Awards”). 
+
+On February 10, 2022, the Company adopted the 2022 Stock Plan (the “2022 Plan”) under which 1,512,314 shares of the Company’s common stock, were reserved for issuance to employees, nonemployee directors, consultants, and advisors. Per the terms of the 2022 Plan, in the event any Post Conversion Awards issued and outstanding under the 2016 Plan are cancelled, terminated, or expire, said number of shares will be made available for issuance under the 2022 Plan. The share limit shall automatically increase on the first trading day in January of every calendar year during the term of the 2022 Plan, by an amount equal to the lesser of (i) two percent (2%) of the total number of shares of common stock issued and outstanding on December 31 of the immediately preceding calendar year or (ii) such number of shares of common stock as may be established by the board of directors. As of March 31, 2024, there were 2,143,038 shares of common stock reserved for issuance under the 2022 Plan. 
+
+Incentive Stock Options and Nonqualified Stock Options
+
+Stock options generally vest over four years, subject to a service condition, with 25% of the awarded stock options vesting on the first anniversary of the grant date and the remaining 75% vesting monthly over the remaining 36 months. The options expire ten years from grant date.
+
+A summary of the Company’s employee and nonemployee stock option activities for the three months ended March 31, 2024 is presented below:
+
+
+
+                                                          Shares            Weighted             Weighted             Aggregate
+
+                                                                             Average             Average              Intrinsic
+
+                                                                            Exercise            Remaining              Value 
+
+                                                                             Price               Contract          (in thousands)
+
+                                                                                                  Term 
+
+                                                                                                (in years)
+
+Outstanding as of December 31, 2023                          1,258,483   $         19.22                      4.5 $            767 
+
+Granted                                                              —   $             — 
+
+Exercised                                                            —   $             — 
+
+Expired/Forfeited                                             (152,810)  $         36.34 
+
+Outstanding as of March 31, 2024                             1,105,673   $         16.86                     4.78 $            637 
+
+Exercisable as of March 31, 2024                             1,026,554   $         14.44                     4.60 $            637 
+
+Vested and expected to vest as of March 31, 2024             1,105,673   $         16.86                     4.78 $            637 
+
+As of March 31, 2024, there was $2.0 million of unrecognized stock-based compensation expense related to unvested stock options expected to be recognized over a weighted-average period of 1.1 years. The Company recognizes forfeitures as they occur.
+
+14
+
+
+
+
+
+Restricted Stock Units (“RSUs”)
+
+Each RSU represents a right to receive one share of the Company’s common stock when the RSU vests. RSUs generally vest over a period of one to four years, subject to a service condition. The fair value of RSU is equal to the fair value of the Company’s common stock on the date of grant. 
+
+A summary of the Company’s RSU activities for the three months ended March 31, 2024 is presented below:
+
+
+
+                                                                                                      Shares          Weighted Grant
+
+                                                                                                                         Date Fair
+
+                                                                                                                           Value
+
+Outstanding as of December 31, 2023                                                                       608,029   $          16.36 
+
+Granted                                                                                                     8,000   $           2.62 
+
+Released                                                                                                  (82,951)  $          12.10 
+
+Forfeited                                                                                                 (84,714)  $          20.17 
+
+Outstanding as of March 31, 2024                                                                          448,364   $          16.19 
+
+As of March 31, 2024, there was $4.6 million of unrecognized stock-based compensation expense related to unvested RSUs expected to be recognized over a weighted-average period of 1.7 years. The total intrinsic value of RSUs outstanding at March 31, 2024 was $1.2 million. The Company recognizes forfeitures as they occur.
+
+Performance-based Stock units
+
+In 2022, the Company granted 12,300 performance-based stock units (“PSUs”) under the 2022 Plan, with 6,600 PSUs in the first tranche and 5,700 PSUs in the second tranche. Each grant consisted of two market-based vesting tranches, with the first tranche to vest if, at the close of regular trading for 20 trading days out of any period of 30 consecutive trading days, either (i) the closing price of the Company’s common stock exceeds $150.00 per share or (ii) the Company’s market capitalization exceeds $2.1 billion; and the second tranche to vest if, at the close of regular trading for 20 trading days out of any period of 30 consecutive trading days, either (i) the closing price of the Company's common stock exceeds $175.00 per share or (ii) the Company’s market capitalization exceeds $2.5 billion, provided in each case that the applicable stock price or market capitalization goal must be achieved no later than February 10, 2025 for the applicable tranche to vest, and provided further that the vesting of each tranche is subject to the grantee’s continued employment with the Company through the day on which the applicable goal is achieved.
+
+The fair value of the PSUs at valuation date was determined using a Monte Carlo valuation model that utilizes significant assumptions, including expected volatility, dividend yield, stock price as of the valuation date, market capitalization targets and the corresponding share price targets necessary for each tranche of PSUs to vest, expected life, and risk-free rate.
+
+The fair value of the PSUs at valuation date was $0.1 million with weighted-average grant date fair value of $0.98, amortizing over a derived service period of 21 and 22 months for each tranche, respectively. During the three months ended March 31, 2024, 5,600 PSUs were cancelled.
+
+Stock-Based Compensation
+
+For the three months ended March 31, 2024 and 2023, the Company recorded stock-based compensation expense as follows (in thousands):
+
+
+
+                                                                                                            Three Months Ended
+
+                                                                                                                March 31,
+
+                                                                                                         2024              2023
+
+Cost of revenue                                                                                    $           11   $            60 
+
+Research and development expense                                                                               788              1,177 
+
+Selling, general and administrative expense                                                                    127              1,052 
+
+Total stock-based compensation expense                                                             $          926   $         2,289 
+
+15
+
+
+
+
+
+For the three months ended March 31, 2024 and 2023, the Company capitalized $11 thousand and $51 thousand, respectively, of stock-based compensation expense into inventory. There were no modifications during the three months ended March 31, 2024 or 2023.
+
+Note 13. Earnout Liability
+
+In addition to the shares issued upon closing of the Business Combination (see Note 1), additional contingent shares (“Earnout Shares”) are payable to each holder of common stock and/or options receiving consideration in the Business Combination, in the amounts set forth below:
+
+
+
+(a)        If the closing price of the Company’s common stock equals or exceeds $150.00 per share for any 20 trading days within any
+
+            consecutive 30-trading day period that occurs after February 10, 2022 and on or prior to February 10, 2025, the Company
+
+            will issue to each holder of common stock that is entitled to Earnout Shares a number of shares of common stock equal to
+
+            such holder’s pro rata portion of 700,000
+
+            shares.
+
+
+
+
+
+(b)        If the closing price of the Company’s common stock equals or exceeds $175.00 per share for any 20 trading days within any
+
+            consecutive 30-trading day period that occurs after February 10, 2022 and on or prior to February 10, 2025, the Company
+
+            will issue to each holder of common stock that is entitled to Earnout Shares a number of shares of common stock equal to
+
+            such holder’s pro rata portion of 600,000
+
+            shares.
+
+The Company concluded the Earnout Shares meet the criteria for liability classification due to the existence of contingent settlement provisions that could result in holders receiving differing amounts of shares depending on the Company’s stock price or the price paid in a change of control. Because the settlement is not solely determined by the share price of the Company (that is, the share price observed in or implied by a qualifying change-in-control event), but also by the occurrence of a qualifying change-in-control event, this causes the Earnout Shares to not be indexed to the Company’s own shares, resulting in liability classification. Upon the closing of the Business Combination, the Company recorded these instruments as liabilities on the condensed consolidated balance sheet at fair value and will recognize subsequent changes in fair value in earnings at each reporting date. The fair value of the earnout liability was determined using a Monte Carlo valuation model that utilizes significant assumptions, including expected volatility, expected term, and risk-free rate, to determine the probability of achieving the common share price milestones. 
+
+The following table summarizes the assumptions used in estimating the fair value of the earnout liability at each of the relevant dates:
+
+
+
+                                                                                                March 31,            December 31,
+
+                                                                                                   2024                  2023
+
+Stock price                                                                                $          2.78    $            3.14 
+
+Expected volatility                                                                                   117.0  %             117.0   %
+
+Risk-free interest rate                                                                                5.32  %              5.32   %
+
+Expected term (in years)                                                                                    1.0                    1.2
+
+Expected dividend yield                                                                                   0  %                 0   %
+
+Stock price: the stock price was based on the closing price as of the valuation date.
+
+Expected volatility: the volatility rate was determined using the historical volatility of the Company’s stock price, corresponding to the expected term of the awards.
+
+Risk-free interest rate: The risk-free interest rate is based on the U.S. Treasury yield curve in effect at the time of issuance for zero-coupon U.S. Treasury notes with maturities corresponding to the expected three-year term of the earnout period.
+
+Expected term: The expected term is the remaining term of the three-year earnout period.
+
+Expected dividend yield: The expected dividend rate is zero as the Company currently has no history or expectation of declaring dividends in the foreseeable future.
+
+As of March 31, 2024, the balance of the earnout liability was approximately $0.1 million. For the three months ended March 31, 2024, there were no gain or loss in the condensed consolidated statement of operations and comprehensive 
+
+16
+
+
+
+
+
+income (loss) for the change in fair value of the earnout liability. For the three months ended March 31, 2023, the Company recorded a gain of $0.8 million in the condensed consolidated statement of operations and comprehensive income (loss) for the change in fair value of the earnout liability.
+
+Note 14. Warrants
+
+Common Stock Warrants Assumed in Business Combination
+
+As part of GCAC’s IPO, 8,625,000 Public Warrants were sold. The terms of outstanding warrants and equity-based awards (including exercise price and number of shares issuable thereunder) were proportionately adjusted to reflect the Reverse Stock Split. The as-adjusted terms of the Public Warrants provide that every ten shares of common stock that could have been purchased pursuant to the exercise of warrants prior to the Effective Date represent one share of common stock that may be purchased pursuant to such warrants following the Effective Date. The exercise price for each warrant following the Effective Date equals the product of 10 multiplied by the exercise price prior to the Effective Date; accordingly, the exercise price for the Company’s warrants is $115.00 per share, subject to adjustments. The Public Warrants may be exercised only for a whole number of shares of common stock. The Public Warrants will expire five years after the completion of the Business Combination, or earlier upon redemption or liquidation. The Public Warrants are listed on Nasdaq under the symbol “CPTNW”.
+
+The Company may redeem the Public Warrants when exercisable, in whole and not in part, at a price of $0.01 per warrant, so long as the Company provides not less than 30 days’ prior written notice of redemption to each warrant holder, and only if the reported last sale of common stock equals or exceeds $180.00 per share for any 20 trading days within a 30-trading day period ending on the third trading day prior to the date the Company sends the notice of redemption to the warrant holders.
+
+Simultaneously with GCAC’s IPO, GCAC consummated a private placement of 5,175,000 Private Placement Warrants with the Sponsor. The Private Placement Warrants are identical to the Public Warrants, including with respect to the Reverse Stock Split adjustments described above, except that the Private Placement Warrants are non-redeemable so long as they are held by the initial purchasers or such purchaser’s permitted transferees. If the Private Placement Warrants are held by someone other than the initial purchasers or their permitted transferees, the Private Placement Warrants will be redeemable by the Company and exercisable by such holders on the same basis as the Public Warrants.
+
+The Company concluded the Private Placement Warrants meet the criteria for liability classification due to the existence of a settlement provision that adjusts the settlement amount based on who the holder of the warrant is (i.e., permitted vs. non-permitted transferees). This provision causes the Private Placement Warrants to not be indexed to the Company’s own shares, resulting in liability classification. Upon consummation of the Business Combination, the fair value of the Private Placement Warrants was recorded at a value of approximately $2.6 million. The fair value of the Private Placement Warrants was immaterial on March 31, 2024. For the three months ended March 31, 2024 the Company recorded an immaterial loss in the condensed consolidated statement of operations and comprehensive income (loss) for the change in fair value of the liability. For the three months ended March 31, 2023, the Company recorded an immaterial gain in the condensed consolidated statement of operations and comprehensive income (loss) for the change in fair value of the liability.
+
+Note 15. Income Taxes
+
+The Company’s provision for income taxes was immaterial for each of the three months ended March 31, 2024 and 2023. The difference between the Company’s effective income tax rate and the U.S. federal statutory rate is primarily attributable to unrecognized U.S. federal and state tax benefits because of a full valuation allowance that the Company has established against its federal and state deferred tax assets and foreign tax rate differential from U.S. federal statutory rate. The fair value remeasurement of the earnout and warrant liabilities have no impact to U.S. federal and state net operating loss. The Company continues to maintain a full valuation allowance against the U.S. federal and state deferred tax assets.
+
+The Company conducts its business globally and its operating income is subject to varying rates of tax in the U.S., Canada, Germany, and other locations. Consequently, the Company’s effective tax rate is dependent upon the geographic distribution of its earnings or losses and the tax laws and regulations in each geographical region.
+
+Due to historical losses in the U.S., the Company has a full valuation allowance on its U.S. federal and state deferred tax assets. Management continues to evaluate the realizability of deferred tax assets and the related valuation allowance. If management’s assessment of the deferred tax assets or the corresponding valuation allowance were to change, the Company would record the related adjustment to income during the period in which management makes the determination.
+
+17
+
+
+
+
+
+The Company is subject to income taxes in the U.S. federal, state, and various foreign jurisdictions. Tax regulations within each jurisdiction are subject to the interpretation of the related tax laws and regulations and require significant judgment to apply. All of the Company’s tax years will remain open for examination by the federal and state tax authorities for three and four years, respectively, from the date of utilization of the net operating loss or research and development tax credits. The Company does not have any tax audits or other issues pending.
+
+Note 16. Leases
+
+The Company leases office and manufacturing facilities under non-cancelable operating leases expiring at various dates through April 2028. The Company’s lease agreements do not contain any material terms and conditions of residual value guarantees or material restrictive covenants.
+
+The Company determines if an arrangement is or contains a lease at inception. Operating leases are included in other assets and operating lease liabilities in the Company’s condensed consolidated balance sheets.
+
+Right-of-use assets represent the Company’s right to use an underlying asset for the lease term and lease liabilities represent the Company’s obligation to make lease payments arising from the lease. Operating lease right-of-use assets and liabilities are recognized at the commencement date based on an amount equal to the present value of lease payments over the lease term. The Company’s leases do not provide an implicit rate; therefore, the Company uses an incremental borrowing rate based on the information available at the commencement date in determining the present value of lease payments. The Company uses the implicit rate when it is readily determinable. The Company elected the package of practical expedients permitted under the transition guidance within the new standard, which among other things, allowed it to carry forward existing lease classification and to exclude leases with original terms of one year or less. Further, the Company elected to combine lease and non-lease components for all asset classes. Variable lease payments are defined as payments made for the right to use an asset that vary because of changes in facts or circumstances occurring after the commencement date, other than the passage of time. Any variable lease components are expensed as incurred. The operating lease right-of-use assets also include adjustments related to prepaid or deferred lease payments and lease incentives. The Company’s lease terms may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise that option. Operating lease expense for lease payments is recognized on a straight-line basis over the lease term.
+
+The components of lease expense for the three months ended March 31, 2024 and 2023 were as follows (in thousands):
+
+
+
+                                                                                                    Three Months Ended
+
+                                                                                                         March 31,
+
+                                                                                              2024                      2023
+
+Operating lease cost                                                               $                    800   $                  665 
+
+Variable lease cost                                                                                      204                       205 
+
+Total operating lease cost                                                         $                  1,004   $                  870 
+
+Supplemental cash flow information for the three months ended March 31, 2024 and 2023 related to leases was as follows (in thousands):
+
+
+
+                                                                                                    Three Months Ended
+
+                                                                                                        March 31,
+
+                                                                                             2024                       2023
+
+Cash paid for amounts included in the measurement of lease liabilities:
+
+Cash paid for operating leases included in operating activities                   $                   817   $                    199 
+
+Right of use assets obtained in exchange for lease obligations:
+
+Operating leases                                                                  $                     —   $                 11,190 
+
+18
+
+
+
+
+
+Supplemental balance sheet information related to leases was as follows (in thousands):
+
+
+
+                                                                                       March 31, 2024            December 31, 2023
+
+Operating lease right-of-use assets                                              $                  9,586   $                  10,038 
+
+Operating lease liabilities:
+
+Operating lease liabilities, current                                             $                  1,953   $                   1,875 
+
+Operating lease liabilities, non-current                                                            8,186                       8,720 
+
+Total operating lease liabilities                                                $                 10,139   $                  10,595 
+
+The operating lease right-of-use assets were recorded in other assets in the condensed consolidated balance sheets.
+
+Weighted-average remaining term and discount rates were as follows (term in years):
+
+
+
+                                                                                  March 31, 2024               December 31, 2023
+
+Weighted-average remaining lease term                                                              4.02                            4.27
+
+Weighted-average discount rate                                                                14.48  %                      14.48   %
+
+Maturities of lease liabilities were as follows (in thousands):
+
+
+
+Year Ending December 31,
+
+2024                                                                                                                  $         2,432 
+
+2025                                                                                                                             3,318 
+
+2026                                                                                                                             3,324 
+
+2027                                                                                                                             3,368 
+
+Thereafter                                                                                                                         847 
+
+Total undiscounted lease payments                                                                                     $        13,289 
+
+
+
+Present value adjustment for minimum lease commitments                                                                          (3,150)
+
+Net lease liabilities                                                                                                 $        10,139 
+
+Note 17. Commitments and Contingencies
+
+Legal Proceedings
+
+From time to time, the Company may be involved in various legal claims, litigation and other matters that arise in the normal course of its operations. Although there can be no assurances and the outcome of these matters is currently not determinable, the Company currently believes that none of these claims, actions or proceedings are likely to have a material adverse effect on the Company’s financial position.
+
+The Company records accruals for its outstanding legal proceedings, investigations or claims when it is probable that a liability will be incurred, and the amount of loss can be reasonably estimated. The Company evaluated developments in legal proceedings, investigations or claims that could affect the amount of any accrual, as well as any developments that would result in a loss contingency to become both probable and reasonably estimable. There were no material accruals for loss contingencies associated with such legal claims, actions or litigation as of March 31, 2024 and December 31, 2023.
+
+Contract Manufacturer Loss Contingencies
+
+As a result of the December 2023 cancellation of the series production award, the Company cancelled production contracts with certain contract manufacturers. This led to the Company’s receipt of project loss claims from contract manufacturers. The project loss claims include item costs for which the Company believes it is not liable based on contractual rights and obligations created by legal agreements with the contract manufacturers. The Company believes that a loss from these specific item costs is reasonably possible but not probable, and as a result no accrual has been made. As of March 31, 2024, the Company estimates the reasonably possible range of loss to be from zero to approximately $1.3 million. The Company will continue to assess the situation with its contract manufacturers and will update its position as needed.
+
+19
+
+
+
+
+
+Other Contingencies
+
+As a result of the GM series production award cancellation, the Company sent a claim to Koito seeking recovery of a significant amount in project losses. The claim covers costs associated with materials, tooling, engineering, and other related project costs. The Company is seeking recovery during 2024; however a formal recovery timeline and total amount have not been agreed to and are unknown at this time. As of March 31, 2024, the Company recognized a $4.0 million realizable gain related to cost recovery in other income, net in the condensed consolidated statement of operations and comprehensive income (loss), and subsequently received a cash payment in April 2024. The remaining portion of the cost recovery claim was uncertain and the amount was neither estimable, realized nor realizable. 
+
+Note 18. Related Party Transactions
+
+Investment Agreement and Investor Rights Agreement with Koito
+
+On October 27, 2022, the Company entered into the Investment Agreement with Koito pursuant to which, among other things, at the closing of the transactions, and based on the terms and subject to the conditions set forth therein, the Company issued and sold to Koito 100,000 shares of Preferred Stock for a purchase price of $100.0 million. The issuance and sale of the Preferred Stock and related matters were approved by the Company’s stockholders on January 11, 2023, and the Preferred Stock issued to Koito on January 19, 2023. See Note 10 for further information. At the closing of the issuance of the Preferred Stock, the Company and Koito entered into the Investor Rights Agreement (the “Investor Rights Agreement”), pursuant to which, among other things, the Company ensured that two designees of Koito sat on the Company’s board of directors immediately following the issuance of the Preferred Stock. The Investor Rights Agreement also provides for certain investor consent, preemptive, registration, and termination rights, which contain certain provisions that limit the Company’s ability to access additional sources of funding without Koito’s consent. 
+
+Secured Term Loan Agreement with Koito
+
+Concurrently with the execution of the Investment Agreement, the Company entered into a Secured Term Loan Agreement with Koito to borrow Japanese Yen ¥5.8 billion (approximately $39.4 million). On January 24, 2023, the Company repaid all outstanding principal and accrued interest under the Secured Term Loan Agreement. See Note 9 for further information.
+
+Koito Letter of Intention
+
+On December 21, 2023, the Company received a non-binding indication of interest from Koito to acquire (the “Proposed Transaction”) 100% of the outstanding shares of the Company not already owned by Koito or certain other potential rollover participants including Dr. Jun Pei, Cepton’s President and Chief Executive Officer (collectively, the “Rollover Participants”). Koito has stated in the indication of interest that the terms of any potential agreement between Cepton and Koito would be contingent on certain conditions, including, in particular, satisfactory completion of due diligence review, rollover by the Rollover Participants, retention of key employees, negotiation and agreement of transaction structure and transaction documents, approval of the Proposed Transaction by the board of directors of Koito, and approval by a simple majority vote of the outstanding shares of Cepton. The Company’s Board of Directors, through a special committee thereof, is evaluating Koito’s indication of interest within the context of the ongoing review of various alternatives and in consultation with any financial and legal advisors it may retain.
+
+During the three months ended March 31, 2024, the Company incurred $1.6 million of transaction costs related to the Proposed Transaction, which were recorded in selling, general and administrative expenses in the condensed consolidated statement of operations and comprehensive income (loss). 
+
+Transactions with Koito
+
+Koito is an automotive tier 1 partner and investor of the Company and sales to Koito were $1.3 million and $0.9 million (67% and 58% of our total revenue) for the three months ended March 31, 2024 and 2023, respectively. The accounts receivable balance from Koito was $4.7 million as of March 31, 2024. This balance is inclusive of the receivable balance from realizable gain on GM project cancellation recoveries, as described in Note 17. As of December 31, 2023, the accounts receivable balance from Koito was $2.1 million. 
+
+In December 2023, Koito informed the Company that GM, which had awarded Koito the series production award, had decided to re-scope its advanced driver assistance systems (“ADAS”) product offerings and, as a result, Koito cancelled all outstanding purchase orders to the Company that relate to the GM series production award. As is customary when an 
+
+20
+
+
+
+
+
+automotive program changes, the Company submitted a project investment cost recovery claim related to the cancellation. See Note 17 for further information.
+
+Note 19. Segments
+
+The Company conducts its business in one operating segment that develops and produces lidar sensors for use in automotive and smart infrastructure industries. The Company’s Chief Executive Officer is the chief operating decision maker (“CODM”). The CODM allocates resources and makes operating decisions based on financial information presented on a consolidated basis, accompanied by disaggregated information about sales and gross margin by product group. The profitability of the Company’s product group is not a determining factor in allocating resources and the CODM does not evaluate profitability below the level of the consolidated company. Long-lived assets of the Company located in its country of domicile, the United States, are approximately 100%.
+
+Note 20. Subsequent Events
+
+The Company has evaluated subsequent events from the balance sheet date through May 14, 2024, the issuance date of the condensed consolidated financial statements.
+
+Engineering Services Contract
+
+In March 2024, the Company, alongside its tier 1 partner, Koito, was notified of a new series production by a global original equipment manufacturer (“OEM”), which will utilize the Company’s near-range lidar. In May 2024, the Company entered into an engineering services contract with Koito to support customer-specific product development and program execution efforts for this new OEM. See Part II, “Item 5. Other Information” in this Report for additional information.
+
+
+
+21
+
+
+
+
+
+
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Unless otherwise indicated, references in this section to “we,” “our,” “us,” and “Cepton” generally refer to Cepton Technologies, Inc. and its consolidated subsidiaries prior to the Business Combination and to Cepton, Inc. and its consolidated subsidiaries after giving effect to the Business Combination. The following discussion and analysis of our results of operations and financial condition should be read in conjunction with the condensed consolidated financial statements included in this Report. This discussion contains forward-looking statements based upon our current expectations, estimates and projections that involve risks and uncertainties. Actual results could differ materially from those anticipated in these forward-looking statements due to, among other considerations, the matters discussed under “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” herein.
+
+Certain amounts that appear in this Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) may not sum due to rounding. Percentage amounts included in this MD&A have not in all cases been calculated on the basis of such rounded figures, but on the basis of such amounts prior to rounding. For this reason, percentage amounts in this MD&A may vary from those obtained by performing the same calculations using the figures in our condensed consolidated financial statements included elsewhere in this Report. Terms used but not defined in this MD&A shall have the meanings ascribed to such terms in this Report.
+
+On September 18, 2023, we filed with the Secretary of State of the State of Delaware a Certificate of Amendment to our Certificate of Incorporation to effect the Reverse Stock Split (as described in Note 1 to the condensed consolidated financial statements in this Report). The historical share and per share information included herein have been adjusted to reflect the Reverse Stock Split.
+
+Business Overview
+
+Cepton is focused on the deployment of high performance, mass-market lidar solutions to deliver safety and autonomy across the automotive and smart infrastructure markets. By adopting our solutions, our customers can enable safety and autonomy applications across a broad range of end-markets including our primary market, advanced driver assistance systems (“ADAS”) in consumer and commercial vehicles, which we believe represents not just the largest market opportunity for lidar applications over the next decade, but also the market with the best potential for near term mass-market commercialization.
+
+Since the inception of our company in 2016, building lidars for broad market adoption has been our guiding principle. Mass-market deployment guided not just our end-market focus, but also our product design choices, our areas of technological innovation, and our approach to manufacturing, and our go-to-market strategy and partnerships. To pursue mass-market adoption, our value proposition has focused on developing a lidar that achieves high performance with automotive grade reliability at competitive prices. Our thesis was that lidar would gain broad based adoption only when solutions strike the right balance across three key facets of performance, cost and reliability.
+
+As a Silicon Valley-based company led by recognized technical experts in the optical field, technology innovation is at the core of our company. We developed a comprehensive lidar platform consisting of proprietary components including our breakthrough scanning and imaging technology and our system-on-a-chip lidar engine application-specific integrated circuit, a portfolio of automotive-grade and industrial-grade long-range and near-range lidars, a software layer enabling the integration of automotive functions, and feature rich perception software capabilities.
+
+Market Conditions
+
+The global economy, including the financial and credit markets, has recently experienced and continues to experience significant volatility and disruptions including increases in inflation rates, the ongoing conflict in Ukraine and the Middle East, rising fuel prices, rising interest rates, declines in consumer confidence, declines in economic growth, and uncertainty about economic stability. The severity and duration of the impact of broader macroeconomic conditions on our business is dynamic and cannot be predicted.
+
+For more information on our operations and risks related to our macroeconomic environment, please see the section titled “Risk Factors”.
+
+GM Project Cancellation and Koito Letter of Intention
+
+
+
+22
+
+
+
+
+
+On December 11, 2023, Koito informed us that GM has decided to re-scope its ADAS product offerings and, as a result, all outstanding purchase orders from Koito to us that relate to the GM series production award have been cancelled. As is customary when an automotive program changes, we submitted a project investment cost recovery claim related to the cancellation. See Note 18 to our condensed consolidated financial statements included elsewhere in this Report for further information.
+
+
+
+On December 21, 2023, we received a non-binding indication of interest from Koito to acquire (the “Proposed Transaction”) 100% of the outstanding shares of the Company not already owned by Koito or certain other potential rollover participants including Dr. Jun Pei, Cepton’s President and Chief Executive Officer (collectively, the “Rollover Participants”). Koito has stated in the indication of interest that the terms of any potential agreement between Cepton and Koito would be contingent on certain conditions, including, in particular, satisfactory completion of due diligence review, rollover by the Rollover Participants, retention of key employees, negotiation and agreement of transaction structure and transaction documents, approval of the Proposed Transaction by the board of directors of Koito, and approval by a simple majority vote of the outstanding shares of Cepton.
+
+
+
+Our Board of Directors, through a special committee thereof, is currently evaluating Koito’s indication of interest within the context of the ongoing review of various alternatives and in consultation with any financial and legal advisors it may retain. No assurance can be given that a definitive transaction with respect to Koito’s indication of interest or any other potential transaction will eventually be consummated.
+
+During the three months ended March 31, 2024, we incurred $1.6 million of transaction costs related to the Proposed Transaction.
+
+New Series Production
+
+
+
+In March 2024, we, alongside our tier 1 partner, Koito, were notified of a new series production by a global OEM, which will utilize our near-range lidar. On May 9, 2024, we entered into an engineering services contract with Koito to support customer-specific product development and program execution efforts for this new OEM. The contract contemplates approximately $10.0 million in fees, payable to us during the quarter ending June 30, 2024 upon achievement of the applicable milestones. 
+
+Key Factors Affecting Our Operating Results
+
+We believe that our future performance and success depends, to a substantial extent, on our ability to capitalize on the following opportunities, which in turn is subject to significant risks and challenges, including those discussed below and in Part II, Item 1A of this Report under the heading “Risk Factors”.
+
+Series Production Awards in the Automotive Market
+
+An important part of our mission is to deploy high performance, mass-market lidar in the automotive market. Within the automotive market, we believe that passenger car ADAS applications represent the largest opportunity but also have the most stringent requirements for reliability, cost, and performance. Major automotive OEMs typically undergo several years of planning, technology selection, and vehicle integration work before introducing new and important technologies in their vehicle offerings. We anticipate that lidar, as a new sensor that improves safety and enhances autonomy, will undergo the same technology introduction and validation process as similar technologies in the past, such as anti-lock braking systems or stability control systems. The number of vehicle platforms and vehicle models that will be equipped with lidar will depend on OEM product planning, vehicle integration, and marketing schedules. Once a lidar supplier is chosen, the number of awarded vehicle platforms and vehicle models is likely to increase over time. This is because the development efforts of integrating lidar into the OEM’s product offerings is leveraged across multiple vehicle classes and platforms to maximize the OEM’s return on investment.
+
+Adoption of Lidar Solutions in Automotive and Smart Infrastructure Markets
+
+In an endless pursuit of safety and product differentiation, many leading automotive OEMs have decided to include lidar in their next generation of vehicles for increased safety and higher levels of autonomy. The speed of lidar adoption depends on many factors, including sensor performance, reliability, and cost, as well as the time it takes to win large series production awards. Large automotive series production awards usually take a number of years to secure but once awarded, the production award typically covers the entire duration of a typical vehicle model period of five to seven years for consumer vehicles. In the case of trucking applications, the production period of a typical model may exceed seven years in many cases. We are currently engaged in discussions with all of the top 10 global automotive OEMs based on vehicle 
+
+23
+
+
+
+
+
+production volume rankings from 2019 according to IHS Markit, a leading independent third-party industry analytics and information provider. 
+
+While lidar adoption in the automotive market may take multiple years to materialize, the smart infrastructure market could adopt lidar solutions at a more rapid pace. Applications within smart infrastructure vary widely from tolling to security, to delivery and logistics. These applications are typically project based and require certain levels of customization to deliver an end-to-end solution. To address opportunities in this market, we partner with system integrators who leverage our lidar hardware as well as our Helius® perception software to provide solutions unique to each opportunity. We expect to grow our system integrator partnership network to further drive the adoption of lidar in smart infrastructure applications.
+
+We expect our revenue to increase as lidar adoption increases in the automotive and smart infrastructure markets; however, the rate of adoption may vary due to many factors, including but not limited to competing technologies, time to market, changes in macroeconomic conditions, including rising inflation and interest rates, geopolitical conflicts and tensions, any of which may impact the pace and magnitude of lidar adoption and our revenues. 
+
+Product Cost and Margins
+
+To drive mass-market adoption of lidar in automotive applications, product cost must be controlled. As such, cost is one of the primary design criteria that we focused on from the very beginning. Design choices were carefully evaluated to create products with the best overall balance between performance, reliability, and cost. Working with our partners, we expect to continue driving costs down as volumes increase and we achieve higher margin unit economics in the future.
+
+In the smart infrastructure space, the average selling price of a lidar solution may be higher than that in the automotive space due to a number of reasons, such as unit volume, level of customization, and additional software content. At the same time, the cost of production is also higher due to lower production volumes and higher levels of system integration requirements.
+
+Due to the impact of supply chain shortages and increased lead time for some of our products, there has been a significant mismatch between supply and demand, giving rise to product shortages for us and our customers, making our demand forecast more uncertain. We have continued to make efforts in broadening our supply base to support our growth and better serve customer demand. Recent market conditions discussed above have strained global supply chains and could result in a shortage of key materials that our suppliers require to satisfy our needs. We expect supply constraints for some of our products to persist in the near future. We have placed orders for certain supplies in advance of our historical lead times, paid premiums to secure future supply and capacity, and may need to continue to do so in the future. Placing orders in advance of our historical lead times to secure supply in a constrained environment may result in excess inventory, cancellation penalties, or other charges if there is a partial or complete reduction in long-term demand for our products. These actions may also increase our product costs and decrease gross margin, in addition to increased overall costs as a result of rising inflation. Increased costs for components, logistics and other supply chain expenses, driven in part by inflation and supply chain shortages, have negatively impacted, and may continue to negatively impact, our gross margin and operating margin. 
+
+If we cannot generate our expected revenues, margins or income from operations, we may be required to raise additional debt or equity capital, which may not be available or may only be available on terms that are onerous to our stockholders. 
+
+End Market Concentration
+
+We believe that the automotive market represents a large portion of the total addressable market and large global automotive OEMs represent the majority of unit volume demand as well as leaders in active safety and autonomy. To drive mass-market commercialization of our lidar solutions, we have focused on top automotive OEMs and are currently engaged with all of the top 10 global automotive OEMs. Series production awards from top OEMs tend to be large and long-term in nature. While we continue to expand our system integrator partnership network to address opportunities in the smart infrastructure markets, program awards tend to be smaller and short-term in nature as compared to those in the automotive end-markets. As such, we expect a large portion of our future revenue to come from the automotive end-market.
+
+24
+
+
+
+
+
+Components of Results of Operations
+
+Revenue
+
+Revenue is primarily derived from the sale of components and licensing of our technologies to tier 1 suppliers for mass market ADAS applications in the automotive market, the sale of lidar sensors directly to end-user customers in the smart infrastructure market, and engineering development arrangements of our lidar products for customers. Our lidar sensors are used in applications such as advanced driver assistance systems, autonomous vehicles, and intelligent transportation systems. Our customers include leading OEMs and suppliers within the automotive and smart infrastructure industries. 
+
+We categorize our revenue as (1) lidar sensor and prototype revenue and (2) development revenue.
+
+
+
+Lidar sensor and prototype revenue is primarily derived from the sale of components and license of technologies to tier 1 suppliers for mass market ADAS applications in the automotive market and the sale of lidar sensors directly to end-user customers in the smart infrastructure markets. We expect lidar sensor and prototype revenue to decrease in the near future due to the cancellation of the GM series production award. Beyond that, we anticipate lidar sensor and prototype revenue growth as we continue to form strategic partnerships and as the primary source of revenue shifts from prototype sales to sales of commercialized production-ready lidar sensors in the foreseeable future thereafter.
+
+
+
+Development revenue represents arrangements with tier 1 suppliers focused on the specific customization of our proprietary lidar capabilities to the customers’ applications, typically involving development of customized software for producing or operating lidar sensor prototypes for those customers. The timing of revenue recognition for development contracts is determined for each performance obligation based on the unique facts and circumstances within each development arrangement, which generally results in recognition at a point in time. This assessment is made at the outset of the arrangement for each performance obligation. We anticipate development revenue to increase in the near term due to the engineering services contract with Koito to support a major global OEM series production award. Overall, we anticipate development revenue to grow in the foreseeable future as we engage with customers in OEM development projects.
+
+Cost of Revenue
+
+Cost of revenue includes the manufacturing cost of our lidar sensors and components, which primarily consists of personnel-related costs directly associated with our manufacturing organization, and amounts paid to our third-party contract manufacturers and vendors. Our cost of revenue also includes cost of component inventory, product testing costs, an allocated portion of overhead costs, warranty expense, excess and obsolete inventory, and shipping costs. Development cost of revenue includes personnel-related costs incurred in the completion of the development projects. Increased costs for components, logistics and other supply chain expenses, driven in part by inflation and supply chain shortages, have negatively impacted, and may continue to negatively impact, our cost of revenue. We anticipate lidar sensor and prototype cost of revenue to decrease in the near future due to the cancellation of the GM series production award. We anticipate development cost of revenue to increase in the near term due to the engineering services contract with Koito to support a major global OEM series production award. Overall, we anticipate cost of revenue to increase in absolute dollars as we grow our sales in the foreseeable future.
+
+Gross Margin
+
+Our gross margin in future periods will depend on a variety of factors including market conditions that may impact our pricing and sales volume; product mix changes between established products and new products; excess and obsolete inventories; our cost structure for manufacturing operations, including third-party manufacturers, relative to volume; and margin on development revenue projects. Our gross margin varies by product. We expect our gross margins to fluctuate over time, depending on the factors described above. Increased costs for components, logistics and other supply chain expenses, driven in part by inflation and supply chain shortages, have negatively impacted, and may continue to negatively impact, our gross margin.
+
+Operating Expenses
+
+Research and Development Expenses
+
+Research and development expenses consist primarily of personnel-related costs, material expenses, permits, licenses, and professional services costs directly associated with our research and development activities. The remainder primarily relates to the allocated portion of overhead costs. Our research and development efforts are focused on enhancing and 
+
+25
+
+
+
+
+
+developing additional functionality for our existing products and on new product development, including new releases and upgrades to our lidar sensors. We expense research and development costs as incurred. We expect our research and development expenses to decrease in the near term, and then increase in absolute dollars as we increase our investment in ASIC and software development to broaden the capabilities of our solutions and introduce new products and features.
+
+Selling, General and Administrative Expenses
+
+Our selling, general and administrative expenses consist primarily of personnel-related costs, professional services costs, and advertising expenses directly associated with our sales and general and administrative activities. The remainder primarily relates to the allocated portion of overhead costs. We expect our selling expenses to decrease in the near term, and then increase in absolute dollars over time in the future to support our expected growth as we hire additional sales personnel, increase our marketing activities, grow our domestic and international operations, and build brand awareness. We expect our general and administrative expenses to be flat in the near term, and then increase in absolute dollars over time in the future as we expect to increase the size of our general and administrative function for the growth of our business.
+
+Gain (Loss) on Change in Fair Value of Earnout and Warrant Liabilities
+
+The change in fair value of earnout and warrant liabilities consists of the change in fair value of earnout and warrant liabilities assumed in connection with the Business Combination as well as the change in fair value of other warrant liability. We expect continued financial statement volatility from the fair value adjustments at the end of each reporting period or until the Earnout Shares are issued upon the attainment of common share price milestones or through the exercise of the warrants.
+
+Foreign Currency Transaction Loss, Net
+
+We incur transaction gains and losses resulting from transactions denominated in currencies other than the functional currency of the Company. In 2023, we incurred foreign currency transaction losses resulting from the repayment of the Secured Term Loan with Koito (the “Secured Term Loan”), which was denominated in Japanese Yen.
+
+Loss on Extinguishment of Debt
+
+Loss on extinguishment of debt represents the loss associated with the repayment of the Secured Term Loan in 2023.
+
+Other Income, Net
+
+Other income, net consists primarily of a realizable gain from recoveries of GM series production award cancellation in 2024. For 2023, this amount was immaterial.
+
+Interest Income, Net
+
+Interest income, net consists primarily of interest earned on our cash equivalents and short-term investments. In 2023 only, it also included interest expense from our debt financing. These amounts will vary based on our cash, cash equivalents and short-term investment balances, and also with market interest rates.
+
+Provision for Income Taxes
+
+Our provision for income taxes consists of federal, state, and foreign current and deferred income taxes. Any changes in the United States and foreign taxation of our business activities may increase our overall provision for income taxes in the future.
+
+We have a full valuation allowance for net deferred tax assets, including federal and state net operating loss carryforwards and research and development credit carryforwards. We expect to maintain this valuation allowance until it becomes more likely than not that the benefit of our federal and state deferred tax assets are realizable by way of expected future taxable income.
+
+We believe that we have adequately reserved for our uncertain tax positions, although we can provide no assurance that the final outcome of these matters will not be materially different. To the extent that the final outcome of these matters is different than the amounts recorded, such differences will affect the provision for income taxes in the period in which such determination is made and could have a material impact on our financial condition and results of operations.
+
+26
+
+
+
+
+
+Results of Operations for the Three Months Ended March 31, 2024 and 2023
+
+The results of operations presented below should be reviewed in conjunction with the condensed consolidated financial statements and notes included elsewhere in this Report. The following table sets forth our condensed consolidated results of operations data for the periods presented:
+
+
+
+                                                                    Three Months Ended               Change             Change
+
+                                                                         March 31,                     $                  %
+
+                                                                  2024             2023
+
+                                                                  (dollars in thousands)
+
+Lidar sensor and prototype revenue                          $        1,141   $        1,240   $          (99)               (8 %)
+
+Development revenue                                                     805               245               560                     NM
+
+Total revenue                                               $        1,946   $        1,485   $          461                31 %
+
+
+
+Lidar sensor and prototype cost of revenue                            1,211             1,448              (237)              (16 %)
+
+Development cost of revenue                                             311               111               200                     NM
+
+Total cost of revenue                                                 1,522             1,559               (37)               (2 %)
+
+Gross profit (loss)                                                     424               (74)              498                     NM
+
+
+
+Operating expenses:
+
+Research and development                                              5,654             7,238            (1,584)              (22 %)
+
+Sales, general, and administrative                                    6,264             6,731              (467)               (7 %)
+
+Total operating expenses                                             11,918            13,969            (2,051)              (15 %)
+
+Operating loss                                                      (11,494)          (14,043)            2,549               (18 %)
+
+Other income (expenses):
+
+Gain on change in fair value of earnout liability                         —               762              (762)             (100 %)
+
+(Loss) gain on change in fair value of warrant liability                 (7)               94              (101)                    NM
+
+Foreign currency transaction loss, net                                   (1)             (750)              749              (100 %)
+
+Loss on extinguishment of debt                                            —            (1,123)            1,123              (100 %)
+
+Other income, net                                                     4,022                19             4,003                     NM
+
+Interest income, net                                                    654               299               355                     NM
+
+Loss before income taxes                                             (6,826)          (14,742)            7,916               (54 %)
+
+
+
+Provision for income taxes                                               (7)                —                (7)                    NM
+
+Net loss                                                    $       (6,833)  $      (14,742)  $        7,909               (54 %)
+
+
+
+
+
+NA: Not applicable
+
+NM: Not meaningful (greater than 100% change or otherwise)
+
+Comparison of the three months ended March 31, 2024 and 2023
+
+Revenue
+
+Lidar sensor and prototype revenue decreased by $0.1 million, or 8%, to $1.1 million for the three months ended March 31, 2024, from $1.2 million for the three months ended March 31, 2023. The decrease was driven by a $0.5 million decrease in sales of custom lidar products due to the GM project cancellation, which was partially offset by a $0.2 million increase in lidar sales volume and a $0.2 million increase from higher average selling prices of our regular lidar products.
+
+Development revenue increased by $0.6 million, to $0.8 million for the three months ended March 31, 2024, from $0.2 million for the three months ended March 31, 2023. The increase relates to the timing and revenue associated with individual milestones achieved by the Company for development projects.
+
+27
+
+
+
+
+
+Cost of Revenue
+
+Lidar sensor and prototype cost of revenue decreased by $0.2 million, or 16%, to $1.2 million for the three months ended March 31, 2024, from $1.4 million for the three months ended March 31, 2023. The decrease resulted primarily from product mix changes whereby the Company manufactured and sold lower-cost lidar sensors and prototypes during the three months ended March 31, 2024 compared to the three months ended March 31, 2023.
+
+Development cost of revenue increased by $0.2 million, to $0.3 million for the three months ended March 31, 2024, from $0.1 million for the three months ended March 31, 2023. The increase was driven by increased development work during the three months ended March 31, 2024 compared to the development work performed during the three months ended March 31, 2023.
+
+Operating Expenses
+
+Research and development expense decreased by $1.6 million, or 22%, to $5.7 million for the three months ended March 31, 2024, from $7.2 million for the three months ended March 31, 2023, resulting primarily from a $1.2 million decrease in personnel related costs and a $0.6 million decrease in materials costs, partially offset by a $0.2 million increase in engineering services costs. 
+
+Sales, general and administrative expense decreased by $0.4 million, or 7%, to $6.3 million for the three months ended March 31, 2024, from $6.7 million for the three months ended March 31, 2023, resulting primarily from $1.8 million decrease in personnel related costs, partially offset by $1.6 million of non-recurring transaction expenses related to the Proposed Transaction.
+
+Gain (loss) on change in fair value of earnout and warrant liabilities
+
+The earnout liability was assumed in connection with the Business Combination. The change in fair value of the earnout liability decreased by $0.8 million. This is primarily due to a larger decrease in the Company’s common stock price during the three months ended March 31, 2023 compared to the three months ended March 31, 2024. 
+
+The change in fair value of the warrant liability decreased by $0.1 million. This is primarily due to a larger decrease in the Company’s common share price for the three months ended March 31, 2023 compared to the three months ended March 31, 2024. 
+
+Foreign currency transaction loss, net
+
+The decrease in foreign currency transaction loss was driven by the repayment of the Secured Term Loan with Koito, which was denominated in Japanese Yen, during the three months ended March 31, 2023. There were no foreign currency denominated transactions during the three months ended March 31, 2024.
+
+Loss on extinguishment of debt
+
+There were no losses on extinguishment of debt during the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, when the Secured Term Loan with Koito term was repaid and extinguished.
+
+Other Income, net 
+
+Other income, net increased by $4.0 million for the three months ended March 31, 2024 due to a gain related to recoveries from the GM series production award cancellation that became realizable during the quarter. The cancellation of the GM series production award occurred during the fourth quarter of 2023.
+
+Interest Income, net 
+
+Interest income, net increased by $0.4 million, to $0.7 million for the three months ended March 31, 2024, from $0.3 million for the three months ended March 31, 2023, primarily due to increased interest income from the investment and deposit of cash received from the issuance of Preferred Stock to Koito in 2023.
+
+Income Taxes 
+
+Our provision for income taxes remained consistent for the three months ended March 31, 2024 and 2023. We provided a full valuation allowance on our net U.S. federal and state deferred tax assets for the three months ended March 31, 2024 
+
+28
+
+
+
+
+
+and 2023. For both reporting periods, we had U.S. federal and state tax-effected net operating loss carryforwards available to reduce future taxable income, of which post-2017 federal net operating loss will be carried forward indefinitely and pre-2017 federal net operating loss carryover and state net operating loss carryover will expire on varying dates.
+
+Liquidity and Capital Resources 
+
+Sources of Liquidity 
+
+As of March 31, 2024, we had cash and cash equivalents totaling $49.2 million. We believe that our current cash position will be sufficient to satisfy our foreseeable liquidity needs and capital expenditure requirements, including for at least the next twelve months.
+
+On October 27, 2022, we entered into an Investment Agreement with Koito (the “Investment Agreement”), pursuant to which, among other things, at the closing of the transactions, and based on the terms and subject to the conditions set forth therein, we issued and sold to Koito, 100,000 shares of Series A Convertible Preferred Stock, par value $0.00001 per share (the “Preferred Stock”), for a purchase price of $100.0 million. The issuance and sale of the Preferred Stock and related matters were approved by our stockholders on January 11, 2023, and the Preferred Stock was issued to Koito on January 19, 2023. The Preferred Stock is convertible, beginning on January 19, 2024, into shares of our common stock at an approximate initial conversion price of $25.85 per share (subject to adjustment).
+
+We have incurred negative cash flows from operating activities and significant operating losses in the past as reflected in our accumulated deficit of $141.4 million as of March 31, 2024. During the three months ended March 31, 2024, we had negative cash flows from operating activities of $7.1 million. Although much of the negative cash flow resulted from expenses for research and development projects and administrative expenses to support growth of the Company, we expect to continue to invest in research and development and generate operating losses in the future. In addition, our future capital requirements will depend on many factors, including our lidar sales volume (including if we have major customer wins or series production award wins), development project revenue, the timing and extent of spending to support our research and development efforts in lidar technology, the expansion of sales and marketing activities, market adoption of new and enhanced products and features, and increased spending due to inflation and supply chain shortages. If we are required to raise additional funds by issuing equity securities, dilution to stockholders would result. Any equity securities issued may also provide for rights, preferences, or privileges senior to those of common stockholders. For example, the Preferred Stock issued to Koito is ranked more senior to our common stock in the event of liquidation and includes other rights and preferences senior to those of our common stock. In addition, the Preferred Stock is convertible into shares of our common stock and, upon conversion, will result in dilution to our stockholders. If we raise funds by issuing debt securities, these debt securities would have rights, preferences, and privileges senior to those of common stockholders. Our ability to raise additional funds through the issuance of debt or equity securities may be subject to Koito’s consent pursuant to the Investor Rights Agreement. For information regarding our cash requirements from lease obligations, see Note 16 to the condensed consolidated financial statements included elsewhere in this Report.
+
+In December 2023, Koito informed Cepton that GM had decided to re-scope its ADAS product offerings and, as a result, all outstanding purchase orders from Koito to Cepton that relate to the GM series production award have been cancelled. As is customary when an automotive program changes, we submitted a project investment cost recovery claim related to the cancellation to Koito and realized $4.0 million of cost recovery during the three months ended March 31, 2024. The timing and amount of recovery, if any, of the remaining portion of our cost recovery claim is uncertain and unknown at this time. See Note 17 to the condensed consolidated financial statements included elsewhere in this Report.
+
+We are subject to risks and uncertainties frequently encountered by early-stage companies including, but not limited to, the uncertainty of successfully developing products, securing certain contracts, building a customer base, successfully executing business and marketing strategies, and hiring appropriate personnel. 
+
+To date, we have been funded primarily by equity financings (including the Preferred Stock), convertible promissory notes, and the net proceeds we received through the Business Combination, PIPE Investment, and private placements of the Legacy Cepton convertible preferred stock. Failure to generate sufficient revenues, achieve planned gross margins and operating profitability, control operating costs, or secure additional funding may require us to modify, delay, or abandon some of our planned future expansion or development, or to otherwise enact operating cost reductions available to management, which could have a material adverse effect on our business, operating results, financial condition, and ability to achieve our intended business objectives.
+
+29
+
+
+
+
+
+Cash Flow Summary — Three Months Ended March 31, 2024 and 2023
+
+
+
+                                                                                                            Three Months Ended
+
+                                                                                                                March 31,
+
+                                                                                                         2024               2023
+
+                                                                                                         (dollars in thousands) 
+
+Net cash provided by (used in):
+
+Operating activities                                                                              $        (7,115)  $       (10,425)
+
+Investing activities                                                                                         6,000            (34,662)
+
+Financing activities                                                                                           (63)            54,672 
+
+Operating Activities 
+
+During the three months ended March 31, 2024, our operating activities used $7.1 million in cash. We recorded net loss of $6.8 million; however, this was offset by $1.4 million of non-cash expenses primarily consisting of stock-based compensation expense of $0.9 million, amortization of right-of-use assets of $0.4 million, and depreciation and amortization of $0.1 million. During the three months ended March 31, 2024, changes in our operating assets and liabilities reduced net cash by $1.7 million. The changes in operating assets and liabilities were primarily resulting from a $1.5 million increase in accounts receivable mainly due to a $4.0 million receivable from the GM project cancellation recoveries, a $1.0 million increase in prepaid expenses and other current assets due to prepaid director and officer’s insurance and a $0.5 million decrease in lease liabilities. The changes in operating assets and liabilities were partially offset by a $0.5 million increase in accounts payable due to timing of payments, and a $0.5 million decrease in inventory.
+
+During the three months ended March 31, 2023, our operating activities used $10.4 million in cash. We recorded net loss of $14.7 million; however, this was offset by $3.9 million of non-cash income and expenses consisting primarily of stock-based compensation expense of $2.3 million, loss on extinguishment of debt of $1.1 million, foreign currency transaction loss of $0.8 million, and amortization of right-of-use assets of $0.4 million. These non-cash income items were partially offset by gains from the change in fair value of earnout and warrant liabilities of $0.9 million. During the three months ended March 31, 2023, we generated net cash of $0.4 million from changes in our operating assets and liabilities resulting primarily from a $0.5 million decrease in prepaid expenses and other current assets due to collection of a payroll tax receivable, a $0.5 million increase in accrued expenses and other current liabilities due to timing of payments, a $0.3 million decrease in accounts receivable, and a $0.2 million decrease in other long-term assets driven by a return of rent security deposits to the Company. These were offset by a $0.7 million decrease in accounts payable due to timing of payments, and a $0.5 million increase in inventory.
+
+Investing Activities 
+
+During the three months ended March 31, 2024, our investing activities generated $6.0 million of cash from proceeds from maturities of short-term investments. 
+
+During the three months ended March 31, 2023, our investing activities used $34.7 million of cash, resulting primarily from purchases of short-term investments of $37.8 million and purchases of property and equipment of $0.6 million, partially offset by proceeds from maturities of short-term investments of $3.7 million.
+
+Financing Activities 
+
+During the three months ended March 31, 2024, our financing activities used $0.1 million of cash from payment of employee taxes on RSU vesting.
+
+During the three months ended March 31, 2023, our financing activities provided $54.7 million of cash consisting primarily of $99.9 million of net proceeds from the issuance of Preferred Stock to Koito, partially offset by the repayment of $45.2 million of short-term debt to Koito.
+
+Critical Accounting Policies and Estimates 
+
+We prepare our condensed consolidated financial statements in accordance with U.S. GAAP. The preparation of these condensed consolidated financial statements requires us to make estimates, assumptions and judgments that can significantly impact the amounts we report as assets, liabilities, revenue, costs and expenses and the related disclosures. We 
+
+30
+
+
+
+
+
+base our estimates on historical experience and other assumptions that we believe are reasonable under the circumstances. Our actual results could differ significantly from these estimates under different assumptions and conditions. A discussion of the accounting policies that management considers critical in that they involve significant management judgments and assumptions, require estimates about matters that are inherently uncertain and because they are important for understanding and evaluating our reported financial results is included in Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2023. There have been no material changes to our critical accounting policies.
+
+Emerging Growth Company Status 
+
+Section 102(b)(1) of the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”) exempts emerging growth companies from being required to comply with new or revised financial accounting standards until private companies are required to comply with the new or revised financial accounting standards. The JOBS Act provides that a company can choose not to take advantage of the extended transition period and comply with the requirements that apply to non-emerging growth companies, and any such election to not take advantage of the extended transition period is irrevocable. 
+
+We are an “emerging growth company” as defined in Section 2(a) of the Securities Act of 1933, as amended, and have elected to take advantage of the benefits of the extended transition period for new or revised financial accounting standards, although we may decide to early adopt such new or revised accounting standards to the extent permitted by such standards. This may make it difficult or impossible to compare our financial results with the financial results of another public company that is either not an emerging growth company or is an emerging growth company that has chosen not to take advantage of the extended transition period exemptions because of the potential differences in accounting standards used. 
+
+Subject to certain conditions set forth in the JOBS Act, if, as an emerging growth company, we intend to rely on such exemptions, we are not required to, among other things: (i) provide an auditor’s attestation report on our system of internal controls over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act; (ii) provide all of the compensation disclosure that may be required of non-emerging growth public companies under the Dodd-Frank Wall Street Reform and Consumer Protection Act; (iii) comply with any requirement that may be adopted by the Public Company Accounting Oversight Board regarding mandatory audit firm rotation or a supplement to the auditor’s report providing additional information about the audit and the financial statements (auditor discussion and analysis); and (iv) disclose certain executive compensation-related items such as the correlation between executive compensation and performance and comparisons of the Chief Executive Officer’s compensation to median employee compensation. 
+
+We will remain an emerging growth company until the earlier of: (1) the last day of the fiscal year (a) ending December 31, 2026, (b) in which we have total annual gross revenue of at least $1.235 billion, or (c) in which we are deemed to be a large accelerated filer, which means the market value of our common stock that is held by non-affiliates exceeds $700 million as of the end of the prior fiscal year’s second fiscal quarter; and (2) the date on which we have issued more than $1.0 billion in non-convertible debt during the prior three-year period. References herein to “emerging growth company” shall have the meaning associated with it in the JOBS Act. 
+
+Recent Accounting Pronouncements 
+
+See Note 1 to our condensed consolidated financial statements included elsewhere in this Report for recently adopted accounting pronouncements and recently issued accounting pronouncements not yet adopted as of the date of this Report.
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+
+There have been no material changes to our market risk exposures or management of market risk from those disclosed in Quantitative and Qualitative Disclosures About Market Risk included under Part II, Item 7A in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+Item 4. Controls and Procedures 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this Report. 
+
+31
+
+
+
+
+
+Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost benefit relationship of possible controls and procedures. 
+
+As discussed elsewhere in this Report, we completed the Business Combination on February 10, 2022. Prior to the consummation of the Business Combination, we were a private company with limited accounting personnel and other resources with which to address our internal control over financial reporting. Based on the evaluation of our disclosure controls and procedures as of the end of the period covered by this Report, our management concluded that our disclosure controls and procedures were not effective as of such date because of the material weaknesses in our internal control over financial reporting identified as of December 31, 2021 that continued to exist with respect to our internal control over financial reporting as of March 31, 2024: 
+
+•We did not maintain a sufficient complement of resources with an appropriate level of accounting knowledge and experience commensurate with the financial reporting requirements for a public company, in particular with respect to technical accounting knowledge regarding the accounting for certain non-standard transactions.
+
+We cannot assure you that additional significant deficiencies or material weaknesses in our internal control over financial reporting will not be identified in the future. Any failure to maintain or implement required new or improved controls, or to implement our remediation plans or any difficulties we encounter in our implementation thereof, could result in additional significant deficiencies or material weaknesses or result in material misstatements in our financial statements. If we are unable to assert that our internal control over financial reporting is effective, or if our independent registered public accounting firm is unable to express an opinion as to the effectiveness of our internal control over financial reporting when required, lenders and investors may lose confidence in the accuracy and completeness of our financial reports.
+
+This material weakness, if not remediated, could result in misstatements of accounts or disclosures that would result in a material misstatement to the annual consolidated financial statements or the interim condensed consolidated financial statements that would not be prevented or detected.
+
+Our management anticipates that our internal control over financial reporting will not be effective until the above material weakness is remediated. If our remediation of this material weakness is not effective, or we experience additional material weaknesses in the future or otherwise fail to maintain an effective system of internal control over financial reporting in the future, the accuracy and timing of our financial reporting may be adversely affected, we may be unable to maintain compliance with securities law requirements regarding timely filing of periodic reports in addition to the Nasdaq listing requirements, investors may lose confidence in our financial reporting, and the price of our common stock may decline as a result. In addition, we may be unable to sell shares of common stock to Lincoln Park pursuant to the Purchase Agreement at prices we consider to be reasonable or at all, we may be unable to borrow funds from banking institutions on acceptable terms or at all, and we may face restricted access to various sources of financing in the future.
+
+We will continue to evaluate our accounting and financial staffing needs in light of the material weakness described above. While we have made progress to enhance our internal control over financial reporting and will continue to devote effort in control remediation, additional time is required to complete implementation and to assess and ensure the sustainability of these procedures. Accordingly, the material weakness cannot be considered remediated until the applicable controls operate for a sufficient period of time and management has concluded, through testing, that these controls are operating effectively.
+
+Changes in Internal Control Over Financial Reporting 
+
+Other than the remediation steps taken above, there were no changes in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) or 15d-15(d) of the Exchange Act during the quarter ended March 31, 2024 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+32
+
+
+
+
+
+PART II – OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+From time to time, the Company may be involved in various legal claims, litigation and other matters that arise in the normal course of its operations. Although there can be no assurances and the outcome of these matters is not determinable, the Company currently believes that none of these claims, actions or proceedings are likely to have a material adverse effect on the Company’s financial position.
+
+Item 1A. Risk Factors
+
+In addition to the other information set forth in this Report, you should carefully consider the risk factors described in Part I, “Item 1A. Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, which could materially affect our business, financial condition and/or operating results. The risks described in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially and adversely affect our business, financial condition and/or operating results. Other than risks disclosed herein, there have not been any material changes in the Risk Factors as previously disclosed in our Annual Report on Form 10-K for the year ended December 31, 2023.
+
+We were recently awarded a series production award, alongside Koito; however, our business prospects, results of operations and financial condition could be materially and adversely affected if the development or the launch plans in which our products are expected to be deployed are significantly scaled back, delayed or terminated.
+
+
+
+Our growth plans are substantially dependent on series production awards through Koito. Sales to Koito have historically accounted for a significant portion of our total revenue. In March 2024, we were notified of a series production award, alongside Koito, for our near-range lidar. The terms of this series production award are not final, and may change over time. If this customer terminates, significantly alters or delays this series production award, and/or alters its relationship with us or with Koito in a manner that is adverse to us, our business would be materially adversely affected.
+
+
+
+In May 2024, we entered into an engineering services contract with Koito to support customer-specific product development and program execution efforts for this new OEM. See Part II, “Item 5. Other Information” in this Report for more information. While we expect to achieve the applicable milestones and receive the related payments from Koito specified therein, there can be no assurance that we will be able to timely achieve the applicable milestones under this engineering services contract or any future arrangements relating to this new series production award. If we fail to achieve the applicable milestones or for any other reason realize fewer engineering services fees than we expect, our results of operations and financial condition could be materially and adversely affected.
+
+
+
+We, alongside Koito, were previously awarded a series production award for which the OEM delayed and then decided to re-scope its ADAS product offerings. As a result, Koito cancelled all outstanding purchase orders it had issued to us. If we are unable to maintain our relationship with Koito or the terms of our arrangements with Koito with respect to this new series production award differ from our expectations, including with respect to volume, pricing and timing, or Koito were to cancel all or a portion of the engineering services contract referred to above, then our business and prospects would be materially adversely affected. 
+
+
+
+There can be no assurance that we will be able to maintain our relationship with Koito, secure orders from this customer for our near-range lidar or recognize the benefits of the engineering services contract referred to above, and the occurrence of one or more of these risks could materially adversely affect our business prospects, results of operations and financial condition and could cause our stock price to decline.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+None.
+
+Item 3. Defaults Upon Senior Securities and Use of Proceeds 
+
+None.
+
+Item 4. Mine Safety Disclosures
+
+Not applicable.
+
+33
+
+
+
+
+
+Item 5. Other Information
+
+Engineering Services Contract
+
+
+
+In March 2024, we, alongside our tier 1 partner, Koito, were notified of a new series production award by a global OEM, which will utilize our near-range lidar. On May 9, 2024, we entered into an engineering services contract with Koito to support customer-specific product development and program execution efforts for this new OEM. The contract contemplates approximately $10.0 million in fees, payable to us during the quarter ending June 30, 2024 upon achievement of the applicable milestones. We have the right to terminate our obligation to provide these engineering services to Koito following substantial completion of specific milestones. The contract also contemplates potential additional engineering services fees thereafter, subject to our and Koito’s entry into one or more additional agreements and satisfaction of any agreed upon milestones relating thereto. 
+
+
+
+Insider Trading Arrangements
+
+
+
+During the quarter ended March 31, 2024, none of our officers or directors adopted or terminated any contract, instruction or written plan for the purchase or sale of our securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or constituted a “non- Rule 10b5-1 trading arrangement.”
+
+Item 6. Exhibits
+
+
+
+Exhibit No.            Description
+
+2.1                    Business Combination Agreement, dated as of August 4, 2021, by and among GCAC, Merger Sub and Cepton
+
+                        (incorporated by reference to Exhibit 2.1 to the Registration Statement on Form S-1 filed by the Company on
+
+                        February 11,
+
+                        2022).
+
+2.2                    Amendment to Business Combination Agreement, dated as of January 21, 2022, by and among GCAC, Merger Sub and
+
+                        Cepton (incorporated by reference to Exhibit 2.2 to the Registration Statement on Form S-1 filed by the
+
+                        Company on February 11,
+
+                        2022).
+
+3.1                    Second Amended and Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1 to the
+
+                        Registration Statement on Form S-1 filed by the Company on February 11,
+
+                        2022).
+
+3.2                    Certificate of Amendment to the Second Amended and Restated Certificate of Incorporation (incorporated by
+
+                        reference to Exhibit 3.1 to the Current Report on Form 8-K filed by the Company on September 18,
+
+                        2023).
+
+3.3                    Amended and Restated Bylaws (incorporated by reference to Exhibit 3.2 to the to the Current Report on Form 8-K
+
+                        filed by the Company on February 10,
+
+                        2022).
+
+3.4                    Certificate of Designations of Series A Convertible Preferred Stock, par value $0.00001, of Cepton, Inc., dated
+
+                        January 18, 2023 (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed by the
+
+                        Company on January 24,
+
+                        2023).
+
+10.1*#                 Engineering ServicesContract, dated May 9, 2024 with Koito Manufacturing Co., Ltd
+
+31.1*                  Certification of the Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities
+
+                        Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+                        2002.
+
+31.2*                  Certification of the Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities
+
+                        Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+                        2002.
+
+32.1*                  Certification of the Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+
+                        Section 906 of the Sarbanes-Oxley Act of
+
+                        2002.
+
+32.2*                  Certification of the Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+
+                        Section 906 of the Sarbanes-Oxley Act of
+
+                        2002.
+
+101.INS*               Inline XBRL Instance Document.
+
+101.SCH*               Inline XBRL Taxonomy Extension Schema Document.
+
+101.CAL*               Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+
+101.DEF*               Inline XBRL Taxonomy Extension Definition Linkbase Document.
+
+101.LAB*               Inline XBRL Taxonomy Extension Label Linkbase Document.
+
+34
+
+
+
+
+
+
+
+101.PRE*               Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+
+104*                   Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+
+
+
+
+
+       *Filed herewith.
+
+       #As permitted by Regulation S-K, Item 601(b)(10)(iv) of the Securities Exchange Act of 1934, as amended, certain confidential
+
+         portions of this exhibit have been redacted from the publicly filed
+
+         document
+
+
+
+
+
+35
+
+
+
+
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+
+
+                                                           CEPTON, INC.
+
+
+
+Date: May 14, 2024                                                      /s/ Jun Pei
+
+                                                           Name:        Jun Pei
+
+                                                           Title:       President and Chief Executive Officer
+
+                                                                        (Principal Executive Officer)
+
+
+
+Date: May 14, 2024                                                      /s/ Dong (Dennis) Chang
+
+                                                           Name:        Dong (Dennis) Chang
+
+                                                           Title:       Interim Chief Financial Officer
+
+                                                                        (Principal Financial and Accounting Officer)
+
+36

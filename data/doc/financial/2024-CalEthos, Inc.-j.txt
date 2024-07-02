@@ -1,0 +1,1789 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+(Mark One)
+
+ 
+
+☒    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+      
+
+     For the quarterly period ended March 31, 2024
+
+      
+
+☐    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+      
+
+     For the transition period from __________ to __________
+
+ 
+
+Commission File No. 000-50331
+
+ 
+
+CalEthos, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                              Nevada                                                            98-0371433
+
+                   (State or other jurisdiction                                              (I.R.S. Employer
+
+                of incorporation or organization)                                          Identification No.)
+
+                                                                                                     
+
+                       11753 Willard Avenue                                                       92782
+
+                        Tustin, California
+
+             (Address of Principal Executive Offices)                                           (Zip Code)
+
+ 
+
+(714) 352-5315
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated filer,” “accelerated filer,” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+☐     Large accelerated filer                                      ☐     Accelerated filer
+
+☒     Non-accelerated filer                                        ☒     Smaller reporting company
+
+                                                                   ☐     Emerging growth company
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): Yes ☐ No ☒`
+
+ 
+
+As of May 10, 2024, there were 25,230,540 outstanding shares of the registrant’s common stock, par value $0.001 per share.
+
+ 
+
+ 
+
+ 
+
+                                                                    
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                                PAGE
+
+Cautionary Note Regarding Forward Looking Statements                                                                             ii
+
+                                                                                                                                  
+
+PART I       FINANCIAL INFORMATION                                                                                                
+
+Item 1.      Financial Statements (unaudited)                                                                                   iii
+
+             Condensed Consolidated Balance Sheets as of March 31, 2024 (unaudited) and December 31, 2023                        1
+
+             Condensed Consolidated Statements of Operations for the three months ended March 31, 2024 and 2023 (unaudited)      2
+
+             Condensed Consolidated Statements of Changes in Stockholders’ Equity for the three months ended March 31, 2024      3
+
+              and 2023
+
+              (unaudited).
+
+             Condensed Consolidated Statements of Cash Flows for the three months ended March 31, 2024 and 2023 (unaudited)      4
+
+             Notes to the Interim Unaudited Financial Statements                                                                 5
+
+Item 2.      Management’s Discussion and Analysis of Financial Condition and Results of Operations                               13
+
+Item 3.      Quantitative and Qualitative Disclosures about Market Risk                                                          19
+
+Item 4.      Controls and Procedures                                                                                             19
+
+                                                                                                                                  
+
+PART II      OTHER INFORMATION                                                                                                    
+
+Item 1.      Legal Proceedings                                                                                                   20
+
+Item 1A.     Risk Factors                                                                                                        20
+
+Item 2.      Unregistered Sales of Equity Securities and Use of Proceeds                                                         20
+
+Item 3.      Default Upon Senior Securities                                                                                      20
+
+Item 4.      Mine Safety Disclosures                                                                                             20
+
+Item 5.      Other Information                                                                                                   20
+
+Item 6.      Exhibits                                                                                                            20
+
+             Signatures                                                                                                          21
+
+ 
+
+                                                                   i
+
+ 
+
+ 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+ 
+
+Certain information set forth in this Quarterly Report on Form 10-Q, including in Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and elsewhere herein, with respect to our financial condition, results of operations and business that are not historical facts are “forward-looking statements”. Forward-looking statements can be identified by the use of forward-looking terminology, such as “anticipate”, “believe”, “expect”, “plan”, “intend”, “seek”, “estimate”, “project”, “could”, “may” or the negative thereof or other variations thereon, or by discussions of strategy that involve risks and uncertainties. Management wishes to caution the reader of the forward-looking statements that any such statements that are contained in this report reflect our current beliefs with respect to future events and involve known and unknown risks, uncertainties and other factors, including, but not limited to, economic, competitive, regulatory, technological, key employees, and general business factors affecting our operations, markets, growth, services, products and other factors, some of which are described in this report and some of which are discussed in our other filings with the Securities and Exchange Commission. These forward-looking statements are only estimates or predictions. No assurances can be given regarding the achievement of future results, as actual results may differ materially as a result of risks facing our company, and actual events may differ from the assumptions underlying the statements that have been made regarding anticipated events.
+
+ 
+
+Important factors to consider in evaluating any forward-looking statements include:
+
+ 
+
+               ●    our ability to finance and complete the design and construction of our proposed data center operation;
+
+                     
+
+               ●    our ability to implement our business plan;
+
+                     
+
+               ●    our ability to attract key personnel;
+
+                     
+
+               ●    our ability to operate profitably;
+
+                     
+
+               ●    our ability to efficiently and effectively finance our operations;
+
+                     
+
+               ●    inability to achieve future sales levels or other operating results;
+
+                     
+
+               ●    inability to raise additional financing for working capital;
+
+                     
+
+               ●    inability to efficiently manage our operations;
+
+                     
+
+               ●    the inability of management to effectively implement our strategies and business plans;
+
+                     
+
+               ●    the unavailability of funds for capital expenditures and/or general working capital;
+
+                     
+
+               ●    the fact that our accounting policies and methods are fundamental to how we report our financial condition and
+
+                     results of operations, and they may require management to make estimates about matters that are inherently
+
+                     uncertain;
+
+                     
+
+               ●    deterioration in general or regional economic conditions;
+
+                     
+
+               ●    changes in U.S. GAAP or in the legal, regulatory and legislative environments in the markets in which we operate;
+
+                     
+
+               ●    adverse state or federal legislation or regulation that increases the costs of compliance, or adverse findings by
+
+                     a regulator with respect to existing
+
+                     operations;
+
+ 
+
+These risk factors should be considered in connection with any subsequent written or oral forward-looking statements that we or persons acting on our behalf may issue. All written and oral forward looking statements made in connection with this report that are attributable to our company or persons acting on our behalf are expressly qualified in their entirety by these cautionary statements. Given these uncertainties, we caution investors not to unduly rely on our forward-looking statements. We do not undertake any obligation to review or confirm analysts’ expectations or estimates or to release publicly any revisions to any forward-looking statements to reflect events or circumstances after the date of this report or to reflect the occurrence of unanticipated events, except as required by applicable law or regulation.
+
+ 
+
+Notwithstanding the above, Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), expressly state that the safe harbor for forward-looking statements does not apply to companies that issue penny stock. If, as now, we are considered to be an issuer of penny stock, the safe harbor for forward-looking statements may not apply to us at certain times.
+
+ 
+
+Throughout this report, unless otherwise designated, the terms “we,” “us,” “our,” “the Company” and “our company” refer to CalEthos, Inc., a Nevada corporation. All amounts are in U.S. Dollars, unless otherwise indicated.
+
+ 
+
+                                                                   ii
+
+ 
+
+ 
+
+PART I - FINANCIAL INFORMATION
+
+ 
+
+Item 1:        Financial Statements
+
+ 
+
+CalEthos, Inc.
+
+For the Three Months Ended March 31, 2024
+
+ 
+
+Index to the Condensed Consolidated Financial Statements
+
+ 
+
+Contents                                                                                                                      Page (s)
+
+                                                                                                                                  
+
+Condensed Consolidated Balance Sheets as of March 31, 2024 (unaudited) and December 31, 2023                                     1
+
+                                                                                                                                  
+
+Unaudited Condensed Consolidated Statements of Operations for the three months ended March 31, 2024 and 2023                     2
+
+                                                                                                                                  
+
+Unaudited Condensed Consolidated Statements of Stockholders’ Equity for the three months ended March 31, 2024 and 2023           3
+
+                                                                                                                                  
+
+Unaudited Condensed Consolidated Statements of Cash Flows for the three months ended March 31, 2024 and 2023                     4
+
+                                                                                                                                  
+
+Notes to the Unaudited Condensed Consolidated Financial Statements                                                               5
+
+ 
+
+                                                                  iii
+
+ 
+
+ 
+
+CalEthos, Inc.
+
+Condensed Consolidated Balance Sheet
+
+ 
+
+                                                                                       March 31, 2024           December 31, 2023    
+
+                                                                                         (Unaudited)                                 
+
+Assets                                                                                                                             
+
+Current assets                                                                                                                     
+
+Cash and cash equivalents                                                          $              809,000   $              308,000 
+
+Prepaid and other current expenses                                                                 10,000                   10,000 
+
+Total current assets                                                                              819,000                  318,000 
+
+Data center costs                                                                               2,758,000                2,262,000 
+
+Total assets                                                                       $            3,577,000   $            2,580,000 
+
+                                                                                                                                   
+
+Liabilities and stockholders’ equity                                                                                               
+
+Current liabilities                                                                                                                
+
+Accounts payable and accrued expenses                                              $              399,000   $              670,000 
+
+Convertible promissory notes, net                                                                       -                  341,000 
+
+Notes payable, net of discount                                                                    683,000                   11,000 
+
+Total current liabilities                                                                       1,082,000                1,022,000 
+
+                                                                                                                                   
+
+Stockholders’ equity                                                                                                               
+
+Series A convertible preferred stock, par value $0.001, 3,600,000 shares                                -                        - 
+
+ authorized; no shares issued and
+
+ outstanding
+
+Preferred stock, par value $0.001, 100,000,000 shares authorized, no shares                             -                        - 
+
+ issued and
+
+ outstanding
+
+Common stock par value $0.001: 100,000,000 shares authorized; 25,230,540 and                       25,000                   24,000 
+
+ 24,345,598 shares issued and
+
+ outstanding
+
+Additional paid-in capital                                                                     28,760,000               20,807,000 
+
+Other comprehensive income                                                                          6,000                    9,000 
+
+Stock subscription receivable                                                                      (2,000)                  (2,000)
+
+Accumulated deficit                                                                           (26,294,000)             (19,280,000)
+
+Total stockholders’ equity                                                                      2,495,000                1,558,000 
+
+                                                                                                                                   
+
+Total liabilities and stockholders’ equity                                         $            3,577,000   $            2,580,000 
+
+ 
+
+See the accompanying notes to these unaudited condensed consolidated financial statement.
+
+ 
+
+                                                                   1
+
+ 
+
+ 
+
+CalEthos, Inc.
+
+Unaudited Condensed Consolidated Statements of Operations
+
+For the Three Months Ended March 31,
+
+ 
+
+                                                                                            2024                      2023           
+
+Revenues                                                                           $                    -   $                    - 
+
+                                                                                                                                   
+
+Operating Expenses                                                                                                                 
+
+Professional fees                                                                                 143,000                   89,000 
+
+Equity-based compensation                                                                         121,000                        - 
+
+General and administrative expenses                                                                 9,000                    8,000 
+
+Payroll and related expense                                                                        19,000                        - 
+
+Total operating expense                                                                           292,000                   97,000 
+
+                                                                                                                                   
+
+Loss from operations                                                                             (292,000)                 (97,000)
+
+                                                                                                                                   
+
+Other income (expenses)                                                                                                            
+
+Interest income                                                                                     5,000                   14,000 
+
+Financing costs                                                                                  (259,000)                (116,000)
+
+Loss on extinguishment of debt                                                                 (6,468,000)                       - 
+
+Total other expenses                                                                           (6,722,000)                (102,000)
+
+                                                                                                                                   
+
+Loss before provision for income taxes                                                         (7,014,000)                (199,000)
+
+Provision for income taxes                                                                              -                        - 
+
+                                                                                                                                   
+
+Net loss                                                                                       (7,014,000)                (199,000)
+
+                                                                                                                                   
+
+Net loss per share - Basic and Diluted                                                              (0.28)                   (0.01)
+
+                                                                                                                                   
+
+Weighted Average common shares outstanding - Basic and Diluted                                 24,827,291               24,495,621 
+
+                                                                                                                                   
+
+Comprehensive (loss) income                                                                                                        
+
+Net loss                                                                                       (7,014,000)                (199,000)
+
+Foreign currency translation gain (loss)                                                           (3,000)                   2,000 
+
+Comprehensive loss                                                                 $           (7,017,000)  $             (197,000)
+
+ 
+
+                                                                   2
+
+ 
+
+ 
+
+CalEthos, Inc.
+
+Unaudited Condensed Consolidated Statements of Stockholders’ Equity 
+
+For the Three Months Ended March 31, 2024 and 2023
+
+ 
+
+                  Series A      Preferred Stock     Common Stock      Additional      Stock          Other         Accumulated      Total      
+
+                 convertible                                            Paid-in    Subscription   Comprehensive                  Stockholders
+
+                       
+
+               preferred stock
+
+               Shares   Amount   Shares   Amount     Shares     Amount     Capital     Receivable    Income (Loss)      Deficit        Equity     
+
+Balance            -  $     -      -  $     -   24,345,598  $24,000   20,807,000  $     (2,000) $         9,000  $ (19,280,000) $  1,558,000 
+
+ December 31,
+
+ 2023
+
+Equity-based       -        -      -        -            -        -      445,000             -                -              -       445,000 
+
+ compensation
+
+Shares issued      -        -      -        -      884,942    1,000    6,927,000             -                -              -     6,928,000 
+
+ for
+
+ extinguishmen
+
+t of
+
+ debt
+
+Warrant            -        -      -        -            -        -      581,000             -                -              -       581,000 
+
+ issued with
+
+ notes
+
+ payable
+
+Foreign            -        -      -        -            -        -            -             -           (3,000)             -        (3,000)
+
+ currency
+
+ translation
+
+ income
+
+ (loss)
+
+Net income         -        -      -        -            -        -            -             -                -     (7,014,000)   (7,014,000)
+
+Balance,           -  $     -      -  $     -   25,230,540  $25,000  $28,760,000  $     (2,000) $         6,000  $ (26,294,000) $  2,495,000 
+
+ March 31,
+
+ 2024
+
+ 
+
+              Series A      Preferred Stock     Common Stock      Additional       Stock            Other         Accumulated       Total      
+
+             convertible                                            Paid-in     Subscription    Comprehensive                   Stockholders’
+
+                   
+
+           preferred stock
+
+           Shares    Amount   Shares    Amount     Shares      Amount     Capital      Receivable         Income          Deficit       (Deficit)    
+
+Balance          -  $      -        -  $      -   24,495,621  $ 24,000   11,480,000  $      (2,000) $         5,000  $ (14,650,000) $  (3,143,000)
+
+ December
+
+ 31,
+
+ 2022
+
+Foreign          -         -        -         -            -         -            -              -            2,000              -          2,000 
+
+ currency
+
+ translati
+
+on income
+
+ (loss)
+
+Net income       -         -        -         -            -         -            -              -                -       (199,000)      (199,000)
+
+Balance,         -  $      -        -  $      -   24,495,621  $ 24,000  $11,480,000  $      (2,000) $         7,000  $ (14,849,000) $  (3,340,000)
+
+ March
+
+ 31,
+
+ 2023
+
+ 
+
+See the accompanying notes to these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   3
+
+ 
+
+ 
+
+CalEthos, Inc.
+
+Unaudited Condensed Consolidated Statements of Cashflow 
+
+For the Three Months Ended March 31,
+
+ 
+
+                                                                                            2024                      2023           
+
+Cash Flows From Operating Activities                                                                                               
+
+Net loss                                                                           $           (7,014,000)  $             (199,000)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                        
+
+Amortization of note payable discounts                                                            253,000                        - 
+
+Fair value of equity-based compensation                                                           121,000                        - 
+
+Loss on extinguishment of debt                                                                  6,468,000                        - 
+
+Changes in operating assets and liabilities                                                                                        
+
+Prepaid expenses and other current assets                                                               -                    4,000 
+
+Accounts payable and accrued expenses                                                             (40,000)                 124,000 
+
+Net Cash Used in Operating Activities                                                            (212,000)                 (71,000)
+
+                                                                                                                                   
+
+Cash Flows From Investing Activities                                                                                               
+
+Project development cost                                                                         (286,000)                       - 
+
+Other assets                                                                                            -                  (84,000)
+
+Net Cash Used in Investing Activities                                                            (286,000)                 (84,000)
+
+                                                                                                                                   
+
+Cash Flows From Financing Activities                                                                                               
+
+Cash proceeds for issuances of notes payable                                                    1,000,000                        - 
+
+Net Cash Provided by Financing Activities                                                       1,000,000                        - 
+
+                                                                                                                                   
+
+Effect of exchange rate changes on cash and cash equivalents                                       (1,000)                   1,000 
+
+Net increase (decrease) in Cash                                                                   501,000                 (154,000)
+
+Cash, Beginning of Period                                                                         308,000                2,067,000 
+
+Cash, End of Period                                                                $              809,000   $            1,913,000 
+
+                                                                                                                                   
+
+Supplemental disclosure of cash flow information:                                                                                  
+
+Cash paid for interest                                                             $                    -   $                    - 
+
+Cash paid for income taxes                                                         $                    -   $                    - 
+
+                                                                                                                                   
+
+Non-cash investing and financing activities                                                                                        
+
+Relative fair value of warrants issued with note payable                           $              581,000   $                    - 
+
+Capitalized interest – project development cost                                                     7,000                        - 
+
+Accrued Expense – project development cost                                                         72,000                        - 
+
+Equity-based compensation capitalized                                              $              324,000   $                    - 
+
+ 
+
+See the accompanying notes to these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   4
+
+ 
+
+ 
+
+Note 1 – Organization and Accounting Policies
+
+ 
+
+ORGANIZATION AND ACCOUNTING POLICIES
+
+CalEthos, Inc. (the “Company” or “we”) was incorporated on March 20, 2002 under the laws of the State of Nevada.
+
+ 
+
+The Company is implementing its plan to build a clean-energy-powered data center operation using the latest energy-efficient building materials and cooling technologies and to provide wholesale colocation services to enterprise IT and hyperscale customers. In addition, the Company may acquire assets and all or part of other companies operating in the high-density computing industry or invest in or joint venture with other more-established companies already in the industry that would add value to the Company’s business strategy.
+
+ 
+
+As of July 2022, the Company’s board of directors resolved to focus exclusively on developing a clean-energy-powered data center.
+
+ 
+
+Korean entity
+
+ 
+
+On November 5, 2021, AIQ System Inc. (“AIQ”) was incorporated in Seoul, Republic of Korea. AIQ is authorized to issue 3 million shares of common stock. At the date of incorporation, 10,000 shares were issued to the Company for 100,000,000 Korean Won, or approximately $89,000, for 100% ownership of AIQ. As of July 2022, AIQ was placed into a dormant state of operations.
+
+ 
+
+Basis of Presentation
+
+ 
+
+The accompanying Condensed Consolidated Financial Statements and notes thereto are unaudited. The unaudited interim financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) and pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”). Certain information and note disclosures normally included in the Company’s annual financial statements have been condensed or omitted. The December 31, 2023 condensed consolidated balance sheet data was derived from audited financial statements but does not include all disclosures required by GAAP. These interim unaudited condensed consolidated financial statements, in the opinion of management, reflect all normal recurring adjustments necessary for a fair presentation of the financial position, results of operations and cash flows for the interim three-month periods ended March 31, 2024 and 2023. The results for the three months ended March 31, 2024 are not necessarily indicative of the results to be expected for the full year ending December 31, 2024 or for any future period.
+
+ 
+
+These unaudited Condensed Consolidated Financial Statements should be read in conjunction with the Company’s audited Consolidated Financial Statements and the notes thereto for the year ended December 31, 2023, included in the Company’s annual report on Form 10-K filed with the SEC on April 9, 2024.
+
+ 
+
+Principles of Consolidation
+
+ 
+
+The consolidated financial statements include the accounts of the Company and its wholly owned subsidiary from the formation date. All material intercompany transactions and balances have been eliminated in consolidation.
+
+ 
+
+Going Concern and Liquidity
+
+ 
+
+The Company incurred a net loss of approximately $7,014,000 for the three months ended March 31, 2024, had an accumulated deficit of approximately $26,294,000 as of March 31, 2024 and had no recurring revenue from operations. The Company has financed its activities principally through debt and equity financing and shareholder contributions. Management expects to incur additional losses and cash outflows in the foreseeable future in connection with its operating activities. These conditions raise substantial doubt about the Company’s ability to continue as a going concern for one year from the issuance of these consolidated financial statements.
+
+ 
+
+The Company’s consolidated financial statements have been presented on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business.
+
+ 
+
+                                                                   5
+
+ 
+
+ 
+
+The Company is subject to a number of risks similar to those of other similar stage companies, including dependence on key individuals; successful development, marketing and branding of services; the uncertainty of product development and generation of revenues; dependence on outside sources of financing; risks associated with research and development; dependence on third-party suppliers and collaborators; protection of intellectual property; and competition with larger, better-capitalized companies. Ultimately, the attainment of profitable operations is dependent on future events, including obtaining adequate financing to fund the Company’s operations and generating a level of revenues adequate to support the Company’s cost structure.
+
+ 
+
+The Company will need to raise debt or equity financing in the future in order to continue its operations and achieve its growth targets. However, there can be no assurance that such financing will be available in sufficient amounts and on acceptable terms, when and if needed, or at all. The precise amount and timing of the funding needs cannot be determined accurately at this time, and will depend on a number of factors, including the development of the Company’s data center campus development, approvals for construction permits, construction times, delivery of critical equipment, market demand for the Company’s wholesale colocation data center services, the timing of customer commitments for data center space, the management of working capital, and payment terms and conditions for purchase of the Company’s services. The Company believes its cash balances and cash flow from operations will not be sufficient to fund its operations and growth for the next twelve months from the issuance date of these financial statements. If the Company is unable to raise additional funding from investors or through other avenues, it may not be able to continue as a going concern. The accompanying unaudited consolidated financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern.
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenue and expenses during the reporting periods.
+
+ 
+
+Foreign Currency Translation
+
+ 
+
+The financial statements of foreign subsidiaries, for which the functional currency is the local currency, are translated into U.S. dollars using the exchange rate at the consolidated balance sheet date for assets and liabilities and a weighted-average exchange rate during the year for revenue, expenses, gains and losses. Translation adjustments are recorded as other comprehensive income (loss) within shareholders’ equity (deficit). Gains or losses from foreign currency transactions are recognized in the consolidated statements of operations.
+
+ 
+
+Fair Value Measurement
+
+ 
+
+Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants as of the measurement date. Applicable accounting guidance provides an established hierarchy for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that the most observable inputs be used when available. Observable inputs are inputs that market participants would use in valuing the asset or liability and are developed based on market data obtained from sources independent of the Company. Unobservable inputs are inputs that reflect the Company’s assumptions about the factors that market participants would use in valuing the asset or liability. There are three levels of inputs that may be used to measure fair value:
+
+ 
+
+               Level 1 -    Observable inputs that reflect quoted prices (unadjusted) for identical assets or liabilities in active
+
+                             markets.
+
+               Level 2 -    Other inputs that are directly or indirectly observable in the marketplace.
+
+               Level 3 -    Unobservable inputs which are supported by little or no market activity.
+
+ 
+
+The fair value hierarchy also requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.
+
+ 
+
+                                                                   6
+
+ 
+
+ 
+
+As of and for the three months ended March 31, 2024, the Company had no assets or liabilities that require fair value measurement. 
+
+ 
+
+Cash and Cash Equivalents
+
+ 
+
+The Company considers all highly liquid investments with maturities of three months or less at the time of purchase to be cash equivalents. Cash and cash equivalents are recorded at cost, which approximates their fair value. The Company maintains its cash and cash equivalents in banks insured by the Federal Deposit Insurance Corporation (“FDIC”) in accounts that at times may be in excess of the federally insured limit of $250,000 per bank. The Company minimizes this risk by placing its cash deposits with major financial institutions. As of March 31, 2024 and December 31, 2023, the Company had approximately $552,000 and $22,000, respectively, in excess of the federal insurance limit, respectively.
+
+ 
+
+Prepaid Expense
+
+ 
+
+Prepaid expenses are assets held by the Company that are expected to be realized and consumed within twelve months after the reporting period.
+
+ 
+
+Data Center Cost
+
+ 
+
+Data center cost is stated at cost, which includes the cost incurred to complete phase I of the Company’s data center development plan. Phase I costs include the option payment for the land and the cost of consulting firms to provide power and connectivity assessments, feasibility studies, engineering plans, and project benchmarking. Data center cost also includes internal cost such as payroll-related cost and debt interest cost.
+
+ 
+
+In accordance with ASC 360-10-35, the Company reviews the carrying amounts of data center cost when events or changes in circumstances indicate the assets may not be recoverable. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss, if any. Where it is not possible to estimate the recoverable amount of an individual asset, the Company estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+
+ 
+
+The recoverable amount is the higher of fair value less costs of disposal and value in use. In assessing value in use, the estimated future cash flows to be derived from continuing use of the asset or cash-generating unit are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset. Fair value less costs of disposal is the amount obtainable from the sale of an asset or cash-generating unit in an arm’s length transaction between knowledgeable, willing parties, less the cost of disposal. When a binding sale agreement is not available, fair value less costs of disposal is estimated using a discounted cash flow approach with inputs and assumptions consistent with those of a market participant. If the recoverable amount of an asset or cash-generating unit is estimated to be less than its carrying amount, the carrying amount of the cash-generating unit is reduced to its recoverable amount. An impairment loss is recognized immediately in net income.
+
+ 
+
+As of March 31, 2024, there have been no circumstances to indicate the asset may not be recoverable.
+
+ 
+
+Related Parties
+
+ 
+
+The Company follows Financial Accounting Standards Board’s (“FASB”) Accounting Standards Codification (“ASC”) section 850-10 for the identification of related parties and disclosure of related-party transactions.
+
+ 
+
+                                                                   7
+
+ 
+
+ 
+
+Pursuant to ASC section 850-10-20, the related parties include (a.) affiliates of the Company (“Affiliate” means, with respect to any specified Person, any other Person that, directly or indirectly through one or more intermediaries, controls, is controlled by or is under common control with such Person, as such terms are used in and construed under Rule 405 under the Securities Act); (b.) entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option of ASC section 825–10–15, to be accounted for by the equity method by the investing entity; (c.) trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management; (d.) principal owners of the Company; (e.) management of the Company; (f.) other parties with which the Company may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests; and (g.) other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+ 
+
+The consolidated financial statements shall include disclosures of material related party transactions, other than compensation arrangements, expense allowances, and other similar items in the ordinary course of business. However, disclosure of transactions that are eliminated in the preparation of consolidated or combined financial statements is not required in those statements. The disclosures shall include: (a.) the nature of the relationship(s) involved; (b.) a description of the transactions, including transactions to which no amounts or nominal amounts were ascribed, for each of the periods for which income statements are presented, and such other information deemed necessary to an understanding of the effects of the transactions on the financial statements; (c.) the dollar amounts of transactions for each of the periods for which income statements are presented and the effects of any change in the method of establishing the terms from that used in the preceding period; and (d.) amounts due from or to related parties as of the date of each balance sheet presented and, if not otherwise apparent, the terms and manner of settlement.
+
+ 
+
+Commitments and Contingencies
+
+ 
+
+The Company follows ASC section 450-20 to report accounting for contingencies. Certain conditions may exist as of the date the consolidated financial statements are issued, which may result in a loss to the Company, but which will only be resolved when one or more future events occur or fail to occur. The Company assesses such contingent liabilities, and such assessment inherently involves an exercise of judgment. In assessing loss contingencies related to legal proceedings that are pending against the Company or un-asserted claims that may result in such proceedings, the Company evaluates the perceived merits of any legal proceedings or un-asserted claims as well as the perceived merits of the amount of relief sought or expected to be sought therein.
+
+ 
+
+If the assessment of a contingency indicates that it is probable that a material loss has been incurred and the amount of the liability can be estimated, then the estimated liability would be accrued in the Company’s consolidated financial statements. If the assessment indicates that a potential material loss contingency is not probable but is reasonably possible, or is probable but cannot be estimated, then the nature of the contingent liability, and an estimate of the range of possible losses, if determinable and material, would be disclosed.
+
+ 
+
+Loss contingencies considered remote are generally not disclosed unless they involve guarantees, in which case the guarantees would be disclosed.
+
+ 
+
+Stock-Based Compensation
+
+ 
+
+The Company accounts for its stock-based compensation under ASC 718, “Compensation – Stock Compensation” using the fair value based method. Under this method, compensation cost is measured at the grant date based on the value of the award and is recognized over the service period, which is usually the vesting period. This guidance establishes standards for the accounting for transactions in which an entity exchanges it equity instruments for goods or services. It also addresses transactions in which an entity incurs liabilities in exchange for goods or services that are based on the fair value of the entity’s equity instruments or that may be settled by the issuance of those equity instruments.
+
+ 
+
+The Company uses the fair value method for equity instruments granted to non-employees and use the BSM model for measuring the fair value of options. The stock based fair value compensation is determined as of the date of the grant (measurement date) and is recognized over the vesting periods.
+
+ 
+
+                                                                   8
+
+ 
+
+ 
+
+Earnings Per Share
+
+ 
+
+The Company uses ASC 260, “Earnings Per Share” for calculating the basic and diluted earnings (loss) per share. The Company computes basic earnings (loss) per share by dividing net income (loss) by the weighted average number of common shares outstanding. Diluted earnings (loss) per share is computed based on the weighted average number of shares of common stock plus the effect of dilutive potential common shares outstanding during the period using the treasury stock method. Dilutive potential common shares include outstanding stock options and warrants and stock awards. For periods with a net loss, basic and diluted loss per share is the same, in that any potential common stock equivalents would have the effect of being anti-dilutive in the computation of net loss per share.
+
+ 
+
+Securities that could potentially dilute loss per share in the future were not included in the computation of diluted loss per share for the three months ended March 31, 2024 and 2023 because their inclusion would be anti-dilutive. Common stock equivalents amounted to 12,699,801 and 7,510,448 for the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+The Company’s management reviewed all recently-issued accounting standard updates (“ASU’s”) not yet adopted by the Company and does not believe the future adoptions of any such ASU’s may be expected to cause a material impact on the Company’s consolidated financial condition or the results of its operations.
+
+ 
+
+Note 2 – Data Center Costs
+
+ 
+
+DATA CENTER COSTS
+
+On March 30, 2023, the Company signed an option agreement to acquire 80 acres of commercially-zoned land in Imperial County, California (the “Option”) for $3,360,000 (“Purchase Price”). The Option expires in September 2024. The Company paid a non-refundable deposit of $84,000 on the signing of the Option, which has been recognized as other assets in the consolidated balance sheet. The Company is required to deposit an additional $84,000 into escrow (“Escrow Funds”) within 10 days after the execution of the purchase agreement. As of the issuance of these consolidated financial statements, the escrow had not been set up. Once the escrow is set up, the Company will deposit the $84,000. If the Company does not exercise the Option by September 2024, the Escrow Funds will be returned to the Company.
+
+ 
+
+The Purchase Price is payable with a cash payment of $1,680,000 and the issuance of 840,000 shares of the Company’s common stock (the “Purchase Shares”). At the closing of the purchase (“Closing Date”), if the stock is trading at a value less than $1.00 per share, the Company is required to issue a promissory note in the amount of $840,000, payable on the third anniversary of the closing date, with an interest rate equal to the Secured Overnight Financing Rate plus 2.0%.
+
+ 
+
+If the Purchase Shares are issued at the Closing Date, the Company has agreed to repurchase the Purchase Shares (the “Put Option”) under specific circumstances. However, the Put Option expires if the Company’s common stock trades above $2.00 per share for 120 consecutive days. If the Company’s common stock trades below $2.00 per share for 10 consecutive days, the Holder has the option for the Company to repurchase the Purchase Shares for $2.00 per share.
+
+ 
+
+As of March 31, 2024, the Company has incurred costs of approximately $2,758,000 for the development of the Data Center, which includes approximately $203,000 of capitalized interest related to the convertible promissory notes and other accrued expense of $72,000.
+
+ 
+
+Note 3 – Notes Payable
+
+ 
+
+NOTES PAYABLE
+
+Notes payable transactions for the three months ended March 31, 2024 are summarized as follows:
+
+ 
+
+SCHEDULE OF NOTES PAYABLE
+
+                                                                                                             March 31, 2024     
+
+     Balance, beginning of the period                                                                     $             11,000 
+
+     Additions                                                                                                       1,000,000 
+
+     Balance, end of the period                                                                           $          1,011,000 
+
+     Discount                                                                                                                  
+
+     Balance, beginning of the period                                                                                        – 
+
+     Additions                                                                                            $            581,000 
+
+     Amortization                                                                                                      253,000 
+
+     Balance, end of the period                                                                                        328,000 
+
+     Net carrying amount                                                                                  $            683,000 
+
+ 
+
+                                                                   9
+
+ 
+
+ 
+
+In February 2024, the Company issued a promissory note in the principal amount of $1,000,000 that bears interest at the rate of 10% per annum and matures on May 30, 2024. It also issued a five-year warrant to purchase up to 200,000 shares of common stock with an initial exercise price of $0.50 per share (“Finance Warrant”).
+
+ 
+
+In accordance with ASC 470 - Debt, the Company has allocated the $1,000,000 of cash proceeds on a relative fair value to the Note Payable and the Finance warrant. The Finance Warrant was valued using the Black Scholes option pricing model for a total fair value of approximately $1,389,000 based on a 2.5-year term, volatility of 159% , a risk-free equivalent yield of 4.1%, and a stock price of $7.21. The Finance Warrant was ascribed a relative fair value of approximately $581,000.
+
+ 
+
+Interest expense on these notes payable amounted to $9,000 and $2,000 for the three months ended March 31, 2024 and 2023, respectively, of which approximately $5,000 and nil were capitalized as data center development cost, respectively.
+
+ 
+
+Note 4 – Convertible Promissory Notes
+
+ 
+
+CONVERTIBLE PROMISSORY NOTES
+
+Convertible promissory notes transactions for the three months ended March 31, 2024 are summarized as follows:
+
+ 
+
+SCHEDULE OF CONVERTIBLE PROMISSORY NOTES
+
+     Balance, beginning of the period                                                                     $            341,000 
+
+     Additions                                                                                                               – 
+
+     Conversion                                                                                                       (341,000)
+
+     Balance, end of the period                                                                                              - 
+
+ 
+
+In December 2023, the Company offered each of the Convertible Promissory Note holders (“Holders”) to convert, without a time limit, the principal and interest into the Company’s common stock at a price ranging from $0.51 to $0.54 per share. During the three months ended March 31, 2024, the Company converted principal and interest of approximately $341,000 and $119,000, respectively, (total of $460,000) for 884,942 shares of the Company’s common stock with a fair market value of approximately $6,928,000 as of the date of conversions. As the terms of the conversion were not in accordance with the original conversion feature, the Holders did not provide any concession to the Company, and there was not an inducement to the Holders to convert. As the offer did not have a time limit, the Company has accounted for the conversion in accordance with ASC 470-50-40-4. The difference between the fair value of the consideration paid of approximately $6,928,000 and the liability of $460,000 was approximately $6,468,000, which was accounted for as a loss on liability settlement. The loss on the settlement was recorded as a loss on extinguishment of debt on the statement of operations for the three months ended March 31, 2024.
+
+ 
+
+Interest expense on these notes payable amounted to $4,000 and $114,000 for the three months ended March 31, 2024 and 2023, respectively, of which $2,000 and nil were capitalized as data center development cost, respectively.
+
+ 
+
+Note 5 – Commitments and Contingencies
+
+ 
+
+COMMITMENTS AND CONTINGENCIES
+
+Litigation
+
+ 
+
+From time to time, the Company may become subject to legal proceedings, claims and litigation arising in the ordinary course of business. The Company is not currently a party to any material legal proceedings, nor is the Company aware of any pending or threatened litigation that would have a material adverse effect on the Company’s business, operating results, cash flows or financial condition should such litigation be resolved unfavorably.
+
+ 
+
+                                                                   10
+
+ 
+
+ 
+
+Employment Agreement
+
+ 
+
+Chief Operating Officer
+
+ 
+
+In June 2023, the Company executed an employment agreement (“Employment Agreement”) to employ an individual to be the Company’s President and Chief Operating Officer (“Executive” or “COO”). As compensation for services rendered, the Executive will be paid a base salary of $250,000 per annum. The Executive’s base salary may be increased as certain milestones are met, such as 1) when the necessary governmental permits are granted to start construction of the Data Center, 2) once the Data Center is operational and at least 25% of the planned MW’s of collation capacity is leased. Also, at the discretion of the Company, following each calendar year of continued employment, the Executive shall be eligible to receive a discretionary bonus of up to fifty percent (50%) of Executive’s base salary during the first year of employment, up to seventy-five percent (75%) of Executive’s then-current base salary during the second year of employment, and up to one-hundred percent (100%) of Executive’s then-current base salary during Executive’s third year of employment (the “Bonus”). Payment of the Bonus will be based on achieving certain goals and performance criteria established by the Company. In addition, the Executive was granted options to purchase 600,000 and 1,900,000 shares of the Company’s common stock (see Note 7 – Stockholders Deficit) for further information.
+
+ 
+
+The Employment Agreement also provides for certain severance benefits upon termination by the Company without “cause” or by the Executive for good reason. In the event of a termination by the Company without cause or by the Executive for good reason after the first full year of employment, the Executive would be entitled to (i) continued payment of the base salary for the lesser of six months or the remaining term of the Employment Agreement, subject to the Executive signing a timely and effective separation agreement containing a release of all claims against the Company and other customary terms; provided, however, that if such termination is between the 91st day and the end of the first year of employment, the Executive will be entitled to a pro-rata portion of such payment.
+
+ 
+
+Vice President of Data Center Development
+
+ 
+
+On March 1, 2024, the Company hired an individual as vice president of data center development with an annual salary of $225,000. The salary increases to $240,000 and $250,000 on the 1st and 2nd-anniversary dates, respectively. Also, the individual is eligible for an annual bonus of up to 25%, 35%, and 40% of the annual salary for the 1st, 2nd and 3rd calendar years, respectively.
+
+ 
+
+Note 6 – Stockholders Deficit
+
+ 
+
+ STOCKHOLDERS DEFICIT
+
+Stock option grant activity for the three months ended March 31, 2024, was as follows:
+
+ 
+
+SCHEDULE OF STOCK OPTION ACTIVITIES
+
+                                          Number of         Weighted           Weighted          Weighted          Aggregate     
+
+                                           Options       Average Strike        Average         Average Grant       Intrinsic 
+
+                                                           Price/Share        Remaining             Date         Value per share
+
+                                                                             Contractual              
+
+                                                                             Term (Years)     Fair Value/Share
+
+Balance, December 31, 2023                   6,854,000   $          0.53             7.00   $           0.51   $          0.44 
+
+Granted                                              -                 -                -                  -                 - 
+
+Forfeited                                            –                 –                –                  –                 – 
+
+Exercised                                            –                 –                –                  –                 – 
+
+Expired                                              -                 -                -                  -                 - 
+
+Balance, March 31, 2024                      6,854,000              0.53             7.00               0.51              5.97 
+
+Vested and exercisable, March 31, 2024       1,654,000              0.54             7.00               0.52              5.96 
+
+Unvested, March 31, 2024                     5,200,000   $          0.52             7.00   $           0.50   $          5.98 
+
+ 
+
+                                                                   11
+
+ 
+
+ 
+
+Warrant grant activity for the three months ended March 31, 2024, was as follows:
+
+ 
+
+SCHEDULE OF WARRANTS ACTIVITY
+
+                                          Number of         Weighted           Weighted          Weighted          Aggregate     
+
+                                            Shares       Average Strike        Average         Average Grant       Intrinsic 
+
+                                                           Price/Share        Remaining          Date Fair            Value
+
+                                                                             Contractual        Value/Share
+
+                                                                             Term (Years)
+
+Balance, December 31, 2023                   5,645,801   $          1.84             3.00   $           1.49   $             - 
+
+Granted                                        200,000              0.50              4.9               6.95              6.00 
+
+Forfeited                                            -                 -                –                  –                 – 
+
+Exercised                                            -                 –                –                  –                 – 
+
+Expired                                              -                 -                -                  -                 - 
+
+Balance, March 313, 2024                     5,845,801              0.56              4.7               1.80              5.94 
+
+Vested and exercisable, March 31, 2024       5,845,801              0.56              4.7               1.80              5.94 
+
+Unvested, March 31, 2024                             –   $             –                –   $              –   $             – 
+
+ 
+
+In February 2024, the Company inadvertently issue 100,000 shares of the Company’s common stock. As of the issuance of these condensed consolidated financial statements, the 100,000 shares are in the process to be returned to the Company.
+
+ 
+
+Note 7 – Subsequent Events
+
+ 
+
+SUBSEQUENT EVENTS
+
+The Company evaluated all events that occurred after the balance sheet date through the date the financial statements were issued to determine if they must be reported. The management determined there are no reportable events except for the following.
+
+ 
+
+On April 1, 2024, the Company finalized an offer letter for the employment of a Chief Strategy and Development Office. The individual will be paid an annual salary of $250,000 with an increase to $275,000 and $300,000 on the first and second anniversary dates, respectively, with a first-year bonus of up to 50% of the base salary. The bonus will be determined at the sole discretion of the Company management. Also, the issuance of 1,000,000 stock options with performance-based vesting.
+
+ 
+
+                                                                   12
+
+ 
+
+ 
+
+Item 2.        Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ 
+
+The following discussion should be read in conjunction with our financial statements and related notes thereto included elsewhere in this Quarterly Report on Form 10-Q and the financial statements and related notes thereto in our Annual Report on Form 10-K for the year ended December 31, 2023.
+
+ 
+
+This discussion contains certain forward-looking statements that involve risks and uncertainties. Our actual results and the timing of certain events could differ materially from those discussed in these forward-looking statements as a result of certain factors, including, but not limited to, those set forth herein and elsewhere in this Quarterly Report and in our other filings with the Securities and Exchange Commission. See “Cautionary Note Regarding Forward Looking Statements.”
+
+ 
+
+Plan of Operations
+
+ 
+
+We are in the early stages of implementing our plan for the construction and operation of clean-energy-powered data centers to lease to large enterprise information technology (IT) customers that are creating or addressing the growing demand for AI, Cloud and High-Performance Computing (HPC) digital services. In planning for our initial data centers, we are in discussions with several large companies that would lease all or part of the data center campus, with the intention of cultivating long-term strategic relationships with them once they become our customers and providing them with solutions for their data center facilities and IT infrastructure requirements. We initially intend to provide clean-energy-powered wholesale colocation space with flexibility for customers to scale for future growth. As currently contemplated, our offerings will provide clean energy power, flexibility, reliability and security delivered through a tailored, customer-service-focused platform that will be designed to foster long-term relationships.
+
+ 
+
+As of the filing of this Report, we have completed Phase I and entered into Phase II of our data center development plans. In the initial phase of our project, we signed an option agreement on March 30, 2023 to acquire 80 acres of commercially-zoned land in Imperial County, California that is surrounded by nearby geothermal power plants and solar farms. We believe this site is a unique location in that it will provide us with a rare opportunity to acquire commercially-zoned land on which we can combine nearby direct clean geothermal/solar energy with a 24/7 data center operation. We believe 100% clean-energy-powered data centers are an important element in the ability of the U.S. to meet its carbon neutral climate goals and for hyperscale and enterprise IT companies to meet their shareholder and customer commitments to have an ESG-compliant, clean digital footprint before 2030. As a result, we believe the availability of nearby clean energy for our Imperial County site will provide us a significant competitive advantage in the marketplace.
+
+ 
+
+In Phase I of our development plan, which we completed in December 2023, we contracted with leading data center advisory firms to complete site, power and connectivity assessments, feasibility studies, engineering plans and project benchmarking. Phase I of our plan included:
+
+ 
+
+          ●    Engaging HDR Engineering, Inc., a global professional services firm specializing in architecture,             
+
+                engineering, environmental and construction services (“HDR Engineering”), to complete a site assessment,
+
+                project feasibility study, and the initial shovel-ready site development plan for our Imperial County
+
+                site.
+
+                                                                                                                             
+
+          ●    Engaging ZGlobal, Inc., a power engineering and energy solutions firm (“ZGlobal”), to assess all available    
+
+                power and transmission routes in the immediate area of the site and to develop a plan to access power from
+
+                close by geothermal and solar producers via Behind-The-Meter, Off-Take and Power Purchase Agreements
+
+                directly and through agreements with the local grid
+
+                operator.
+
+                                                                                                                             
+
+          ●    Engaging American Dark Fiber, Inc., a provider of dark fiber connectivity to municipalities, carriers,        
+
+                anchor institutions, content developers, data-center operators, and other sophisticated private network
+
+                users, to develop a robust fiber-based infrastructure that will provide multiple diverse geographic routes
+
+                of connectivity to our data center
+
+                site.
+
+                                                                                                                             
+
+          ●    Engaging Linesight, a construction consultancy services firm (“Linesight”), to provide cost benchmarking of   
+
+                initial design concepts, and to assist with desktop pre-qualification of architect-engineering firms and
+
+                construction
+
+                managers.
+
+ 
+
+                                                                   13
+
+ 
+
+ 
+
+At the end of December 2023, we started Phase II of our data center development plan. Phase II includes hiring additional staff and consultants to complete environmental, health and safety and cyber security procedures and to develop a set of data center operating procedures to meet customer pre-qualification requirements. During this phase, we will also develop requests for proposals (RFPs) and contract packages for contracting an engineering/design firm and general contractor. In addition, we will ramp up our operating staff to support the infrastructure and buildings design processes and the development of building plans and the permit packages. We will also undertake and complete utility studies, transmission planning, substation design and the next level of geotechnical testing.
+
+ 
+
+Over the next few months, we plan to complete our negotiations with the local grid operator to deliver geothermal and solar power to our Imperial County site directly from local producers and to have selected and contracted our architect/engineering firm and general contractor. In addition, we expect that it will take three to six months to complete the necessary customer pre-qualifications and basic infrastructure plans that are required to negotiate a letter of intent with a customer that will lease all or a substantial portion of our planned data center capacity. We are currently in discussions with a number of companies that are interested in leasing wholesale colocation space under a long-term lease and we are entertaining build-to-suit arrangements with a number of potential customers. Based upon the current interest we have received from potential customers, we expect that we will have a letter of intent completed to lease all or a substantial portion of our planned data center capacity by the end of the third quarter of 2024.
+
+ 
+
+Based on receiving a letter of intent and considering current design requirements for higher power rack density by wholesale colocation customers, we now contemplate starting the design process in collaboration with a customer sometime in the third quarter of 2024 and to have plans and permit packages completed by the end of 2024. If those components of Phase II are completed as planned, we would then start the initial phase of construction in January 2025.
+
+ 
+
+It is anticipated that we will incur significant expenses in the implementation of our business plan as described herein, and that we will require substantial financing to complete the development and construction of the planned data center operation. A failure to obtain this necessary capital when required on acceptable terms, or at all, could force us to delay, limit, reduce or terminate our development plans, any commercialization efforts and any other operations. We may not be able to secure financing on favorable terms, or at all, to meet our future capital needs. In addition, even if we are able to obtain sufficient funding to commence our business operations, we may need to pursue additional financing in the future to make expenditures and/or investments to support the growth of our business. In addition, we may require additional capital to pursue our business objectives and respond to new competitive pressures, pay extraordinary expenses or fund our growth, including through acquisitions. Additional funding, however, may not be available when required on terms that are acceptable to us, or at all. If we are unable to obtain adequate financing or financing on terms satisfactory to us when it is required, our ability to commence and grow our proposed business operations, to support our business and to respond to business challenges could be significantly limited.
+
+ 
+
+We currently have only limited capital with which to pay these anticipated expenses. To fund our business plan going forward, we intend to raise funds from investors by issuing common stock, preferred stock and/or debt securities.
+
+ 
+
+                                                                   14
+
+ 
+
+ 
+
+Results of Operations for the three months ended March 31, 2024 and 2023
+
+ 
+
+The table summarizes the results of operations for the three months ended March 31,
+
+ 
+
+                                                                                                           Change                  
+
+                                                       2024                2023               Dollar            Percentage     
+
+Revenues                                         $               -   $               -   $               -                   -%
+
+                                                                                                                               
+
+Operating Expenses                                                                                                             
+
+Professional fees                                          143,000              89,000              54,000                60.7 
+
+Equity-based compensation (gain)                           121,000                   -             121,000               100.0 
+
+General and administrative                                   9,000               8,000               1,000                12.5 
+
+Payroll and related cost                                    19,000                   -              19,000               100.0 
+
+Total operating expenses (income)                $         292,000   $          97,000   $         195,000               201.0%
+
+                                                                                                                               
+
+Other (expenses) income                                                                                                        
+
+Interest income                                  $           5,000   $          14,000   $          (9,000)              (64.3)%
+
+Financing costs                                           (259,000)           (116,000)            375,000               323.3 
+
+Loss on extinguishment of debt                          (6,468,000)                  -           6,468,000               100.0 
+
+Total other expense                              $      (6,722,000)  $        (102,000)  $       6,834,000             6,700.0%
+
+ 
+
+Revenue
+
+ 
+
+For the years ended December 31, 2023 and 2022, we had no revenues.
+
+ 
+
+Operating Expenses
+
+ 
+
+Professional fees
+
+ 
+
+Our professional fees increased to $143,000 for the three months ended March 31, 2024 from $89,000 for the three months ended March 31, 2023. The increase of approximately $54,000 was attributable to a (i) an increase in our legal fees of approximately $48,000, (ii) an increase in our audit fees of approximately $4,000 and (iii) an additional $2,000 increase in other professional fees.
+
+ 
+
+                                                                   15
+
+ 
+
+ 
+
+Equity-based compensation
+
+ 
+
+Our equity-based compensation for the three months ended March 31, 2024 was approximately $121,000 as compared to nil for the three months ended March 31, 2023. For the three months ended March 31, 2023, we did not have any employees or related equity-based compensation. For the three months ended March 31, 2024, our total equity-based compensation was approximately $445,000, of which approximately $324,000 was capitalized as data center development cost. We expect our equity-based compensation to increase over the remainder of 2024 as we add additional employees to our staff in connection with our continuing development activities.
+
+ 
+
+Payroll and related expenses
+
+ 
+
+Payroll and related costs increased to $19,000 for the three months ended March 31, 2024, compared to nil for the three months ended March 31, 2023. For the three months ended March 31, 2023, we did not have employees. Our first employee, our Chief Operating Officer, was hired in March 2023, and our second employee, our Vice President of Data Center Development, was hired in February 2024. For the three months ended March 31, 2024, our total payroll-related cost for our employees was approximately $90,000, of which approximately $71,000 was capitalized as data center development cost. We expect our payroll and related costs to increase over the remainder of 2024 as we add additional employees to our staff in connection with our continuing development activities.
+
+ 
+
+Financing costs
+
+ 
+
+Our financing cost for the three months ended March 31, 2024 increased to $259,000 compared to $116,000 for the three months ended March 31, 2023. The 2023 financing cost was associated with the default interest related to the convertible debentures outstanding during the three months ended March 31, 2023. The 2024 financing cost consisted of the $253,000 for the amortization of debt discount related to our notes payable.
+
+ 
+
+Loss on extinguishment of debt
+
+ 
+
+In December 2023, we requested the holders of our outstanding convertible promissory notes to convert such promissory notes into shares of our common stock. The book value of the promissory notes and accrued interest for the conversions, during the three months ended March 31, 2024, was approximately $459,000, and the fair value of the common stock was approximately $6,927,000, resulting in a loss on settlement of approximately $6,468,000.
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+Working Capital
+
+ 
+
+                                                                                       As of March 31,         As of December 31,    
+
+                                                                                            2024                      2023
+
+Current assets                                                                     $              819,000   $              318,000 
+
+Current liabilities                                                                            (1,082,000)              (1,022,000)
+
+Working deficit                                                                    $             (263,000)  $             (704,000)
+
+ 
+
+Our working capital deficit decreased from a $704,000 deficit as of December 31, 2023 to a deficit of $263,000 as of March 31, 2024 for a total change of $441,000. The increase in our working capital was due to an increase in our cash and cash equivalents. Although we had a $271,000 decrease in our accounts payable and accrued expenses, our notes payable increased, net of discounts, by $672,000.
+
+ 
+
+                                                                   16
+
+ 
+
+ 
+
+Cash Flows
+
+ 
+
+                                                                                          For the Three months ended March 31,        
+
+                                                                                            2024                      2023           
+
+Net cash used in operating activities                                              $             (212,000)  $              (71,000)
+
+Net cash used in investing activities                                                            (286,000)                 (84,000)
+
+Net cash provided by financing activities                                                       1,000,000                        - 
+
+Effect of exchange rate changes                                                                    (1,000)                   1,000 
+
+Change in cash during the period                                                                  501,000                 (154,000)
+
+Cash, beginning of period                                                                         308,000                2,067,000 
+
+Cash, end of period                                                                $              809,000   $            1,913,000 
+
+ 
+
+Cash flows from operations
+
+ 
+
+Cash used in operating activities increased to approximately $212,000 in for the three months ended March 31, 2024 from approximately $71,000 for the three months ended March 31, 2023, which was predominantly related to the increase in our expenditures for filing fees, legal fees, transfer agent fees and consulting fees paid during the year.
+
+ 
+
+Cash flow from investing
+
+ 
+
+Our cash used for investing activities increased to approximately $286,000 for the three months ended March 31, 2024 from approximately $84,000 for the three months ended March 31, 2023. The primary use of cash was for expenditures for the development of our data center.
+
+ 
+
+Cash flows from financing
+
+ 
+
+Our cash provided by financing activities increased to approximately $1,000,000 for the three months ended March 31, 2024 from approximately nil for the three months ended March 31, 2023. The increase of $1,000,000 was due to the issuance of a promissory note in the amount of $1,000,000.
+
+ 
+
+Liquidity and Material Cash Requirements
+
+ 
+
+Even though we experienced negative cash flows from operations of approximately $212,000 for the three-month period ended March 31, 2024, as a result of our private placement of a promissory note in the principal amount of $1,000,000 in February 2024, we had cash and cash equivalents of approximately $809,000 at March 31, 2024. The promissory note we issued in February 2024 matures on May 30, 2024. We expect to be able to refinance that note prior to its maturity. However, if we are unable to do so, we believe we will be able to negotiate an extension of the maturity date of such note as the holder of that note is a director of the Company.
+
+ 
+
+It is anticipated that we will incur expenses in the implementation of the business plan described above, and such expenses will require substantial financing to complete the development of the property for a data center operation and to achieve our goals. We currently have only limited capital with which to pay these anticipated expenses. To fund our business plan going forward, we intend to raise funds from investors by issuing common stock, preferred stock and/or debt securities. We are currently in discussions with several potential funding sources. However, there can be no assurance we will be able to successfully raise additional funds when required, if at all.
+
+ 
+
+The failure to obtain this necessary capital when needed on acceptable terms, or at all, could force us to delay, limit, reduce or terminate our development plans, any commercialization efforts or other operations. We may not be able to secure financing on favorable terms, or at all, to meet our future capital needs. In addition, even if we are able to obtain sufficient funding to commence our business operations, we may need to pursue additional financing in the future to make expenditures and/or investments to support the growth of our business and may require additional capital to pursue our business objectives and respond to new competitive pressures, pay extraordinary expenses or fund our growth, including through acquisitions. Additional funds, however, may not be available when we need them on terms that are acceptable to us, or at all. If we are unable to obtain adequate financing or financing on terms satisfactory to us when we require it, our ability to commence our proposed business operations, to continue to grow and support our business and to respond to business challenges could be significantly limited.
+
+ 
+
+                                                                   17
+
+ 
+
+ 
+
+Going Concern
+
+ 
+
+The unaudited financial statements included in this Report have been prepared on a going concern basis, which implies that our company will continue to realize its assets and discharge its liabilities and commitments in the normal course of business. We are presently in the development stage and, apart from our cash balances, have only limited assets. Our company has not generated revenues in the last two fiscal years, has never paid any dividends and is unlikely to pay dividends or generate earnings in the immediate or foreseeable future. The continuation of our company as a going concern is dependent upon: (i) continued financial support from our shareholders; (ii) the ability of our company to continue raising necessary debt or equity financing to achieve its operating objectives; and (iii) our ability to acquire assets and establish a business or merge or otherwise acquire business opportunities.
+
+ 
+
+Our independent auditors included an explanatory paragraph in their report on our financial statements for the year ended December 31, 2023 regarding concerns about our ability to continue as a going concern. In addition, our financial statements contain further note disclosures in this regard. The implementation of our business plan is dependent upon our ability to continue raising sufficient new capital from equity or debt markets in order to fund our on-going operating losses and real estate acquisition activities. The issuance of additional equity securities could result in a significant dilution in the equity interests of our current stockholders.
+
+ 
+
+Application of Critical Accounting Policies
+
+ 
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying disclosures of our company. Although these estimates are based on management’s knowledge of current events and actions that our company may undertake in the future, actual results may differ from such estimates.
+
+ 
+
+Principles of Consolidation
+
+ 
+
+The consolidated financial statements include the accounts of our company and our wholly-owned subsidiary from the formation date. All material intercompany transactions and balances have been eliminated in consolidation.
+
+ 
+
+Foreign Currency Translation
+
+ 
+
+The financial statements of our foreign subsidiary, for which the functional currency is the local currency, are translated into U.S. dollars using the exchange rate at the consolidated balance sheet date for assets and liabilities and a weighted-average exchange rate during the year for revenue, expenses, gains and losses. Translation adjustments are recorded as other comprehensive income (loss) within shareholders’ equity (deficit). Gains or losses from foreign currency transactions are recognized in the consolidated statements of operations.
+
+ 
+
+Debt and Debt Discounts
+
+ 
+
+In accordance with ASC 470-20, Debt with Conversion and Other Options, we first allocate the cash proceeds of the notes between the notes and any warrants on a relative fair value basis. Proceeds are then allocated to the conversion feature.
+
+ 
+
+We account for debt discounts originating in connection with conversion features that remain embedded in the related notes in accordance with ASC 470-20. These costs are classified on the balance sheet as a direct deduction from the debt liability. We amortize these costs over the term of our debt agreements as financing cost in the consolidated statement of operations and comprehensive loss.
+
+ 
+
+Stock-Based Compensation
+
+ 
+
+We account for our stock-based compensation under ASC 718, “Compensation – Stock Compensation” using the fair value based method. Under this method, compensation cost is measured at the grant date based on the value of the award and is recognized over the service period, which is usually the vesting period. This guidance establishes standards for the accounting for transactions in which an entity exchanges it equity instruments for goods or services. It also addresses transactions in which an entity incurs liabilities in exchange for goods or services that are based on the fair value of the entity’s equity instruments or that may be settled by the issuance of those equity instruments.
+
+ 
+
+                                                                   18
+
+ 
+
+ 
+
+We use the fair value method for equity instruments granted to non-employees and use the BSM model for measuring the fair value of options. The stock-based fair value compensation is determined as of the date of the grant (measurement date) and is recognized over the vesting periods.
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+Our management reviewed all recently issued accounting standard updates (“ASU’s”) not yet adopted by our company and does not believe the future adoptions of any such ASU’s may be expected to cause a material impact on our consolidated financial condition or the results of our operations.
+
+ 
+
+Off-Balance Sheet Arrangements
+
+ 
+
+We have no significant off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial position, revenues and expenses, results of operations, liquidity, capital expenditures or capital resources that are material to stockholders.
+
+ 
+
+Item 3.        Quantitative and Qualitative Disclosures about Market Risk
+
+ 
+
+Not required under Regulation S-K for smaller reporting companies.
+
+ 
+
+Item 4.        Controls and Procedures.
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+As of the end of the period covered by this Report, our Chief Executive Officer and Chief Financial Officer (our “Certifying Officers”), conducted evaluations of our disclosure controls and procedures. As defined under Sections 13a - 15(e) and 15d - 15(e) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), the term “disclosure controls and procedures” means controls and other procedures of an issuer that are designed to ensure that information required to be disclosed by the issuer in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission (“SEC”). Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer’s management, including the Certifying Officers, to allow timely decisions regarding required disclosures.
+
+ 
+
+Based on their evaluation, the Certifying Officers concluded that, as of March 31, 2024, our disclosure controls and procedures were not effective.
+
+ 
+
+The material weakness related to internal control over financial reporting that was identified at March 31, 2024 was that we did not have sufficient personnel staffing in our accounting and financial reporting department. As a result, we were not able to achieve adequate segregation of duties and were not able to provide for adequate review of the financial statements.
+
+ 
+
+This control deficiency could result in a reasonable possibility that material misstatements of the financial statements will not be prevented or detected on a timely basis. However, our management believes that the material weakness identified does not result in the restatement of any previously reported financial statements or any other related financial disclosure, and management does not believe that the material weakness had any effect on the accuracy of our financial statements included as part of this Quarterly Report.
+
+ 
+
+We will continue to monitor and evaluate the effectiveness of our disclosure controls and procedures and our internal controls over financial reporting on an ongoing basis and are committed to taking action and implementing additional enhancements or improvements, as necessary and as funds allow.
+
+ 
+
+Changes in internal control over financial reporting.
+
+ 
+
+There were no changes in our internal control over financial reporting that occurred during the quarter ended March 31, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+ 
+
+Limitations on the Effectiveness of Internal Controls
+
+ 
+
+Readers are cautioned that our management does not expect that our disclosure controls and procedures or our internal control over financial reporting will necessarily prevent all fraud and material error. An internal control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within our control have been detected. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any control design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate.
+
+ 
+
+                                                                   19
+
+ 
+
+ 
+
+PART II - OTHER INFORMATION
+
+ 
+
+Item 1.        Legal Proceedings
+
+ 
+
+We know of no material active or pending legal proceeding against our company, nor are we involved as a plaintiff in any material proceeding or pending litigation.
+
+ 
+
+Item 1A.       Risk Factors
+
+ 
+
+We are a small reporting company, as defined by Rule 12b-2 of the Exchange Act, and are not required to provide the information under this item.
+
+ 
+
+Item 2.        Unregistered Sales of Equity Securities and Use of Proceeds
+
+ 
+
+Sales of Unregistered Securities
+
+ 
+
+There have been no sales of unregistered securities within the period covered by this report that would be required to be disclosed pursuant to Item 701 of Regulation S-K.
+
+ 
+
+Repurchases of Shares or of Company Equity Securities
+
+ 
+
+None.
+
+ 
+
+Item 3.        Default Upon Senior Securities
+
+ 
+
+None.
+
+ 
+
+Item 4.        Mine Safety Disclosures.
+
+ 
+
+Not applicable.
+
+ 
+
+Item 5.        Other Information
+
+ 
+
+None
+
+ 
+
+Item 6.        Exhibits
+
+ 
+
+The following documents are filed as a part of this report or incorporated herein by reference:
+
+ 
+
+Exhibit                                                               Description
+
+Number
+
+                  
+
+3.1              Restated Articles of Incorporation.
+
+                  
+
+31.1             Certification of the Chief Executive Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted
+
+                  pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+                  2002.
+
+                  
+
+31.2             Certification of the Chief Financial Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted
+
+                  pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+                  2002.
+
+                  
+
+32.1             Certifications of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+
+                  of the Sarbanes-Oxley Act of
+
+                  2002.
+
+                  
+
+32.2             Certifications of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+
+                  of the Sarbanes-Oxley Act of
+
+                  2002.
+
+                  
+
+101.INS          Inline XBRL Instance Document.
+
+                  
+
+101.SCH          Inline XBRL Taxonomy Extension Schema Document.
+
+                  
+
+101.CAL          Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+
+                  
+
+101.DEF          Inline XBRL Taxonomy Extension Definition Linkbase Document.
+
+                  
+
+101.LAB          Inline XBRL Taxonomy Extension Label Linkbase Document.
+
+                  
+
+101.PRE          Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+
+                  
+
+104              Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+
+ 
+
+                                                                   20
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+Date: May 15, 2024                                                  CalEthos, Inc.
+
+                                                                     
+
+                                                                    By:   /s/ Michael Campbell
+
+                                                                          Name: Michael Campbell
+
+                                                                          Title: Chief Executive Officer
+
+                                                                           
+
+                                                                    By:   /s/ Dean S Skupen
+
+                                                                          Name: Dean S Skupen
+
+                                                                          Title: Chief Financial Officer
+
+ 
+
+                                                                   21

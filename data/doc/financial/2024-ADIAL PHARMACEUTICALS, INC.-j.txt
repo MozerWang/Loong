@@ -1,0 +1,1835 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024
+
+ 
+
+or
+
+ 
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from ___________ to ___________
+
+ 
+
+Commission File Number: 001-38323
+
+ 
+
+ADIAL PHARMACEUTICALS, INC.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+                             Delaware                                                           82-3074668
+
+                  State or Other Jurisdiction of                                             I.R.S. Employer
+
+                  Incorporation or Organization                                             Identification No.
+
+                                                                                                     
+
+                   4870 Sadler Road, Suite 300                                                    23060
+
+                         Glend Allen, VA
+
+              Address of Principal Executive Offices                                             Zip Code
+
+ 
+
+(804) 487-8196
+
+Registrant’s Telephone Number, Including Area Code
+
+ 
+
+Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+            Title of each class                           Trading Symbol(s)                Name of each exchange on which registered
+
+               Common Stock                                     ADIL                                        NASDAQ
+
+  
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes ☒  No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes ☒  No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer ☐                                                        Accelerated filer ☐
+
+Non-accelerated filer ☒                                                          Smaller reporting company ☒
+
+                                                                                 Emerging growth company ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).  Yes ☐  No ☒ 
+
+ 
+
+Number of shares of common stock outstanding as of May 13, 2024 was 4,233,308.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ADIAL PHARMACEUTICALS, INC.
+
+ 
+
+NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+ 
+
+This Quarterly Report on Form 10-Q contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). In particular, statements contained in this Quarterly Report on Form 10-Q, including but not limited to, statements regarding the sufficiency of our cash, our ability to finance our operations and business initiatives and obtain funding for such activities; our future results of operations and financial position, business strategy and plan prospects, or costs and objectives of management for future acquisitions, are forward looking statements. These forward-looking statements relate to our future plans, objectives, expectations and intentions and may be identified by words such as “may,” “will,” “should,” “expects,” “plans,” “anticipates,” “intends,” “targets,” “projects,” “contemplates,” “believes,” “seeks,” “goals,” “estimates,” “predicts,” “potential” and “continue” or similar words. Readers are cautioned that these forward-looking statements are based on our current beliefs, expectations and assumptions and are subject to risks, uncertainties, and assumptions that are difficult to predict, including those identified below, under Part II, Item lA. “Risk Factors” and elsewhere in this Quarterly Report on Form 10-Q and those risks identified under Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2023 filed with the Securities and Exchange Commission (the “SEC”) on April 1, 2024 (“2023 Form 10-K”). Therefore, actual results may differ materially and adversely from those expressed, projected or implied in any forward-looking statements. We undertake no obligation to revise or update any forward-looking statements for any reason.
+
+ 
+
+NOTE REGARDING COMPANY REFERENCES
+
+ 
+
+Throughout this Quarterly Report on Form 10-Q, “Adial,” the “Company,” “we,” “us” and “our” refer to Adial Pharmaceuticals, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+FORM 10-Q
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                              Page
+
+                                                     PART I-FINANCIAL INFORMATION                                                
+
+Item l.      Condensed Consolidated Unaudited Financial Statements                                                              1
+
+             Consolidated Balance Sheets as of March 31, 2024 and December 31, 2023                                             1
+
+             Consolidated Statements of Operations for the three months ended March 31, 2024 and 2023                           2
+
+             Consolidated Statements of Shareholders’ Equity for the three months ended March 31, 2024 and 2023                 3
+
+             Consolidated Statements of Cash Flows for the three months ended March 31, 2024 and 2023                           4
+
+             Notes to the Unaudited Condensed Consolidated Financial Statements                                                 5
+
+Item 2.      Management’s Discussion and Analysis of Financial Condition and Results of Operations                             15
+
+Item 3.      Quantitative and Qualitative Disclosures About Market Risk                                                        20
+
+Item 4.      Controls and Procedures                                                                                           20
+
+                                                                                                                                 
+
+                                                       PART II-OTHER INFORMATION                                                 
+
+Item 1.      Legal Proceedings                                                                                                 21
+
+Item 1A.     Risk Factors                                                                                                      21
+
+Item 2.      Unregistered Sales of Equity Securities and Use of Proceeds                                                       22
+
+Item 3.      Defaults Upon Senior Securities                                                                                   22
+
+Item 4.      Mine Safety Disclosures                                                                                           22
+
+Item 5.      Other Information                                                                                                 22
+
+Item 6.      Exhibits                                                                                                          22
+
+SIGNATURES                                                                                                                     23
+
+ 
+
+i
+
+ 
+
+ 
+
+PART I - FINANCIAL INFORMATION
+
+ 
+
+Item 1. Condensed Consolidated Unaudited Financial Statements
+
+ 
+
+ADIAL PHARMACEUTICALS, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+
+ 
+
+                                                                                                        March 31,      December 31,  
+
+                                                                                                           2024            2023
+
+                                               ASSETS                                                                                
+
+Current Assets:                                                                                                                      
+
+Cash and cash equivalents                                                                             $    5,025,110  $    2,827,082 
+
+Prepaid research and development                                                                              36,000               — 
+
+Prepaid expenses and other current assets                                                                    275,356         371,597 
+
+Total Current Assets                                                                                       5,336,466       3,198,679 
+
+                                                                                                                                     
+
+Intangible assets, net                                                                                         3,772           3,913 
+
+Equity method investment                                                                                   1,344,143       1,534,013 
+
+Total Assets                                                                                          $    6,684,381  $    4,736,605 
+
+                                                                                                                                     
+
+                                LIABILITIES AND STOCKHOLDERS’ EQUITY                                                                 
+
+Current Liabilities:                                                                                                                 
+
+Accounts payable                                                                                      $      177,468  $      103,325 
+
+Accounts payable, related party                                                                                    —          24,062 
+
+Accrued expenses                                                                                             375,263         477,747 
+
+Accrued expenses, related party                                                                               10,000          47,942 
+
+Total Current Liabilities                                                                                    562,731         653,076 
+
+Total Liabilities                                                                                     $      562,731  $      653,076 
+
+                                                                                                                                     
+
+Commitments and contingencies – see Note 9                                                                                           
+
+                                                                                                                                     
+
+Stockholders’ Equity                                                                                                                 
+
+Preferred Stock, 5,000,000 shares authorized with a par value of $0.001 per share, 0 shares                        —               — 
+
+ outstanding at March 31, 2024 and December 31,
+
+ 2023
+
+Common Stock, 50,000,000 shares authorized with a par value of $0.001 per share,  4,054,861 and                4,054           1,663 
+
+ 1,663,421 shares issued and outstanding at March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Additional paid in capital                                                                                81,392,028      72,879,738 
+
+Accumulated deficit                                                                                      (75,274,432)    (68,797,872)
+
+Total Stockholders’ Equity                                                                                 6,121,650       4,083,529 
+
+Total Liabilities and Stockholders’ Equity                                                            $    6,684,381  $    4,736,605 
+
+  
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+1
+
+ 
+
+  
+
+ADIAL PHARMACEUTICALS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+
+ 
+
+                                                                                                          For the Three Months Ended   
+
+                                                                                                                  March 31,            
+
+                                                                                                            2024           2023      
+
+Operating Expenses:                                                                                                                  
+
+Research and development expenses                                                                       $     454,278  $     365,616 
+
+General and administrative expenses                                                                         1,390,744      1,903,159 
+
+Total Operating Expenses                                                                                    1,845,022      2,268,775 
+
+                                                                                                                                     
+
+Loss From Operations                                                                                       (1,845,022)    (2,268,775)
+
+                                                                                                                                     
+
+Other Income (Expense)                                                                                                               
+
+Interest income                                                                                                22,801         28,892 
+
+Inducement expense                                                                                         (4,464,427)             — 
+
+Losses from equity method investment                                                                         (189,870)             — 
+
+Other expenses                                                                                                    (42)             — 
+
+Total other income (expense)                                                                               (4,631,538)        28,892 
+
+                                                                                                                                     
+
+Loss Before Provision For Income Taxes                                                                     (6,476,560)    (2,239,883)
+
+Provision for income taxes                                                                                          —              — 
+
+Loss from Continuing Operations                                                                            (6,476,560)    (2,239,883)
+
+Loss from discontinued operations, net of taxes                                                                     —       (665,953)
+
+Net Loss                                                                                                $  (6,476,560) $  (2,905,836)
+
+                                                                                                                                     
+
+Loss per share from continuing operations, basic and diluted                                            $       (2.19) $       (2.12)
+
+Income (Loss) per share from discontinued operations, basic and diluted                                 $           —          (0.63)
+
+Net loss per share, basic and diluted                                                                   $       (2.19) $       (2.75)
+
+Weighted average shares, basic and diluted                                                                  2,953,913      1,058,542 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+2
+
+ 
+
+ 
+
+ADIAL PHARMACEUTICALS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+
+(UNAUDITED)
+
+ 
+
+                                                          Common Stock             Additional      Accumulated           Total       
+
+                                                                                    Paid In                          Shareholders’
+
+                                                     Shares         Amount         Capital          Deficit            Equity       
+
+Balance, December 31, 2023                            1,663,421  $      1,663  $   72,879,738  $   (68,797,872) $      4,083,529 
+
+Equity-based compensation - stock option expense              —             —         177,003                —           177,003 
+
+Equity-based compensation - stock issuances to                —             —          48,987                —            48,987 
+
+ consultants and
+
+ employees
+
+Exercise of warrants                                  2,391,440         2,391       3,821,873                —         3,824,264 
+
+Inducement expense                                            —             —       4,464,427                —         4,464,427 
+
+Net loss                                                      —             —               —       (6,476,560)       (6,476,560)
+
+Balance, March 31, 2024                               4,054,861  $      4,054  $   81,392,028  $   (75,274,432) $      6,121,650 
+
+  
+
+                                                          Common Stock             Additional      Accumulated           Total       
+
+                                                                                    Paid In                          Shareholders’
+
+                                                     Shares         Amount         Capital          Deficit            Equity       
+
+Balance, December 31, 2022                            1,067,491  $      1,067  $   66,949,958  $   (63,674,531) $      3,276,494 
+
+Equity-based compensation – stock option expense              —             —         397,442                —           397,442 
+
+Equity-based compensation – vesting of stock                  —             —          62,135                —            62,135 
+
+ issuances to consultants and
+
+ employees
+
+Sale of common stock, net of transaction costs           73,144            73         609,540                —           609,613 
+
+Net loss                                                      —             —               —       (2,905,836)       (2,905,836)
+
+Balance, March 31, 2023                               1,140,635  $      1,140  $   68,019,075  $   (66,580,367) $      1,439,848 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+3
+
+ 
+
+ 
+
+ADIAL PHARMACEUTICALS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+
+ 
+
+                                                                                                          For the Three Months Ended   
+
+                                                                                                                  March 31,
+
+                                                                                                            2024           2023      
+
+CASH FLOWS FROM OPERATING ACTIVITIES:                                                                                                
+
+Loss from operations                                                                                    $  (6,476,560) $  (2,239,883)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                          
+
+Equity-based compensation                                                                                     225,990        459,577 
+
+Warrant exercise inducement expense                                                                         4,464,427              — 
+
+Amortization of intangible assets                                                                                 141            141 
+
+Losses from equity method investment                                                                          189,870              — 
+
+Changes in operating assets and liabilities:                                                                                         
+
+Prepaid expenses and other current assets                                                                      96,241        126,085 
+
+Prepaid research and development                                                                              (36,000)             — 
+
+Accrued expenses                                                                                             (102,484)       183,721 
+
+Accrued expenses, related party                                                                               (37,942)      (153,980)
+
+Accounts payable                                                                                               74,143         86,367 
+
+Accounts payable, related party                                                                               (24,062)             — 
+
+Net cash used in continuing operating activities – continuing operations                                   (1,626,236)    (1,537,972)
+
+Net cash used in discontinued operations                                                                            —       (760,841)
+
+Net cash used in operating activities                                                                      (1,626,236)    (2,298,813)
+
+                                                                                                                                     
+
+CASH FLOWS FROM FINANCING ACTIVITIES:                                                                                                
+
+Sale of common stock, net of expenses                                                                               —        609,613 
+
+Proceeds of warrant exercises, net of expenses                                                              3,824,264              — 
+
+Net cash provided by financing activities – continuing operations                                           3,824,264        609,613 
+
+                                                                                                                                     
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                                                        2,198,028     (1,689,200)
+
+                                                                                                                                     
+
+CASH AND CASH EQUIVALENTS-BEGINNING OF PERIOD                                                               2,827,082      4,001,794 
+
+                                                                                                                                     
+
+CASH AND CASH EQUIVALENTS-END OF PERIOD                                                                 $   5,025,110  $   2,312,594 
+
+                                                                                                                                     
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:                                                                                    
+
+Interest paid                                                                                           $           —  $           — 
+
+Income taxes paid                                                                                       $           —  $           — 
+
+  
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+4
+
+ 
+
+ 
+
+ADIAL PHARMACEUTICALS, INC.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+1 — DESCRIPTION OF BUSINESS
+
+ 
+
+Adial Pharmaceuticals, Inc. (“Adial”) was converted from a limited liability company formed on November 23, 2010 in the Commonwealth of Virginia under the name ADial Pharmaceuticals, LLC, to a corporation and reincorporated in Delaware on October 1, 2017. Adial is presently engaged in the development of medications for the treatment or prevention of addictions and related disorders.
+
+ 
+
+Adial’s wholly owned subsidiary, Purnovate, Inc. (“Purnovate”), was formed on January 26, 2021 to acquire Purnovate, LLC, an entity formed in December of 2019. Purnovate was a drug development company with a platform focused on developing drug candidates for non-opioid pain reduction and other diseases and disorders potentially targeted with adenosine analogs that are selective, potent, stable, and soluble. On January 27, 2023, the Company entered into an option agreement for the acquisition of Purnovate’s assets and business with Adovate, LLC (“Adovate”), a Virginia limited liability company that was formed and majority owned by a then director of the Company and then CEO of Purnovate and was therefore a related party. On May 8, 2023, Adovate sent a letter to the Company exercising its option effective May 16, 2023 for the purchase of the assets and business of the Company’s wholly owned subsidiary, Purnovate and made payment of the $450,000 in fees due on exercise. Effective June 30, 2023, Adovate issued to the Company the equity stake in Adovate due on exercise of the option agreement. On August 17, 2023, a Bill of Sale, Assignment and Assumption Agreement (“Bill of Sale”) was executed between Purnovate and Adovate, transferring the Purnovate assets to Adovate, effective as of June 30, 2023. On August 17, 2023, Purnovate and Adovate also entered into a Letter Agreement which stated that Adovate acquired the assets of Purnovate effective as of June 30, 2023, pursuant to the Bill of Sale. On September 18, 2023, the parties executed a final acquisition agreement which memorialized the terms of the sale of the Purnovate assets to Adovate pursuant to the Option Agreement and Bill of Sale. See Note 4 for additional information.
+
+ 
+
+In June of 2022, the Company released data from its ONWARD™ Phase 3 pivotal trial of its compound AD04 (“AD04”) for the treatment of Alcohol Use Disorder. Both the U.S. Food and Drug Administration (“FDA”) have indicated they will accept heavy-drinking-day based endpoints as a basis for approval for the treatment of Alcohol Use Disorder rather than the previously required abstinence-based endpoints. Key patents have been issued in the United States, the European Union, and other jurisdictions for which the Company has exclusive license rights. The active ingredient in AD04 is ondansetron, a serotonin-3 antagonist. Due to its mechanism of action, AD04 has the potential to be used for the treatment of other addictive disorders, such as Opioid Use Disorder, obesity, smoking, and other drug addictions.
+
+ 
+
+2 — GOING CONCERN AND OTHER UNCERTAINTIES
+
+ 
+
+These unaudited condensed consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America (“GAAP”), which contemplate continuation of the Company as a going concern. The Company is in a development stage and has incurred losses each year since inception. Based on the current development plans for AD04 in both the U.S. and international markets and other operating requirements, the Company does not believe that the existing cash and cash equivalents are sufficient to fund operations for the next twelve months following the filing of these unaudited condensed consolidated financial statements. The Company has a significant accumulated deficit, incurred recurring losses, and needs to raise additional funds to sustain its operations. These factors raise substantial doubt about the Company’s ability to continue as a going concern.
+
+ 
+
+Based on the recently announced results of its ONWARD Phase 3 trial, the Company has completed and publicly reported meetings with the FDA and various European national authorities to discuss the appropriate next steps towards the expeditious development of AD04 and to seek product approval. The Company has sold its Purnovate programs to a company formed for that purpose, reducing the Company’s operating expenses. In March of 2024, the Company received net proceeds of approximately $3.8 million from the exercise of warrants. Nonetheless, the Company will require additional capital to continue operating and development of AD04. There is no certainty that the Company will be able to access additional capital on acceptable terms, if at all, to continue operations after whatever funds are received from the buyer are expended. If unable to access sufficient capital, the Company would be required to delay, scale back or eliminate some or all of its research and development programs or delay its approach to commercialization of AD04, which would likely have a material adverse effect on the Company and its financial statements.
+
+ 
+
+5
+
+ 
+
+ 
+
+Other Uncertainties 
+
+ 
+
+Generally, the industry in which the Company operates subjects the Company to a number of other risks and uncertainties that can affect its operating results and financial condition. Such factors include, but are not limited to: the timing, costs and results of clinical trials and other development activities versus expectations; the ability to obtain regulatory approval to market product candidates; the ability to manufacture products successfully; competition from products sold or being developed by other companies; the price of, reimbursement of, and demand for, Company products once approved; the ability to negotiate favorable licensing or other manufacturing and marketing agreements for its products.
+
+ 
+
+3 — BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of these unaudited condensed consolidated financial statements in conformity with GAAP requires Company management to make estimates and assumptions the affect the amounts of assets and liabilities at the date of these consolidated financial statements and the reported amounts of expenses during the reporting period. Actual results might differ from these estimates.
+
+ 
+
+Significant items subject to such estimates and assumptions include accruals associated with third party providers supporting clinical trials and income tax asset realization.
+
+ 
+
+Basis of Presentation and Principals of Consolidation
+
+ 
+
+The accompanying unaudited interim condensed consolidated financial statements have been prepared in accordance with GAAP as determined by the Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) for interim financial information and with the instructions to Form 10-Q of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by GAAP for complete financial statements. In the opinion of management, these unaudited interim condensed consolidated financial statements reflect all adjustments, which include only normal recurring adjustments necessary for the fair statement of the balances and results of operations for the periods presented. The interim operating results are not necessarily indicative of results that may be expected for any subsequent period. These unaudited condensed financial statements should be read in conjunction with the audited financial statements for the year ended December 31, 2023, included in the 2023 Form 10-K, filed with the Securities and Exchange Commission on April 1, 2024. The unaudited condensed consolidated financial statements represent the consolidation of the Company and its subsidiary in conformity with GAAP. All intercompany transactions have been eliminated in consolidation.
+
+ 
+
+Reverse Stock Split
+
+ 
+
+On August 4, 2023, the Company effected a reverse stock split of its outstanding shares of common stock, trading on Nasdaq under the symbol ADIL, at a ratio of 1-for-25. The shares authorized for issue under the Company’s charter remained 50,000,000 common stock. All references to common stock, stock warrants to purchase common stock, stock options to purchase common stock, share data, per share data and related information contained in these unaudited condensed financial statements have been retrospectively adjusted to reflect the effect of the Reverse Stock Split for all periods presented.
+
+ 
+
+Basic and Diluted Loss per Share
+
+ 
+
+Basic and diluted loss per share are computed based on the weighted-average outstanding shares of common stock, which are all voting shares. Diluted net loss per share is computed giving effect to all proportional shares of common stock, including stock options, restricted stock, and warrants to the extent dilutive. Basic net loss per share was the same as diluted net loss per share for the three months ended March 31, 2024 and 2023, as the inclusion of all potential common shares outstanding would have an anti-dilutive effect.
+
+ 
+
+6
+
+ 
+
+ 
+
+The total potentially dilutive common shares that were excluded for the three month periods ended March 31, 2024 and 2023 were as follows:
+
+ 
+
+                                                                                                                 Potentially           
+
+                                                                                                               Dilutive Common 
+
+                                                                                                             Shares Outstanding 
+
+                                                                                                                  March 31,
+
+                                                                                                            2024           2023      
+
+Warrants to purchase common shares                                                                          4,201,568        491,151 
+
+Common Shares issuable on exercise of options                                                                 357,194        172,679 
+
+Unvested restricted stock awards                                                                               23,330         36,666 
+
+Total potentially dilutive Common Shares excluded                                                           4,582,092        700,496 
+
+ 
+
+Cash and Cash Equivalents
+
+ 
+
+The Company considers all highly liquid investments with original maturities of three months or less to be cash equivalents. At times, the Company’s cash balances may exceed the current insured amounts under the Federal Deposit Insurance Corporation. At March 31, 2024, the Company exceeded FDIC insurance limits by approximately $2.1 million and held approximately $2.7 million in non-FDIC insured cash equivalent accounts. Included in cash equivalents are money market investments with original maturity dates when purchased less than ninety days and are carried at fair value. Unrealized gain or loss are included in the interest income and are immaterial to the financial statements. At December 31, 2023, the exceeded FDIC insurance limits by approximately $927,000 and held approximately $1.6 million in non-FDIC insured cash equivalent accounts.
+
+ 
+
+Equity Method Investments
+
+ 
+
+The Company utilizes the equity method to account for investments when it possesses the ability to exercise significant influence, but not control, over the operating and financial decisions of the investee.
+
+ 
+
+Equity method investments are measured at cost minus impairment, if any, plus or minus the Company’s proportionate share of the equity method investee’s income or loss. The proportionate share of the income or loss from equity method investments is recognized on a lag.
+
+ 
+
+Currently the Company is not obligated to make additional capital contributions for its equity method investments, and therefore only records losses up to the amount of its total investment, inclusive of any other investments in and loans to the investee, which are not accounted for as equity method investments.
+
+ 
+
+Warrants
+
+ 
+
+The Company accounts for stock warrants as either equity instruments, derivative liabilities, or liabilities in accordance with ASC 480, Distinguishing Liabilities from Equity (“ASC 480”) and ASC 815-40 Contracts in Entity’s Own Equity (“ASC 815-40”), depending on the specific terms of the warrant agreement.
+
+ 
+
+Fair Value Measurements
+
+ 
+
+FASB ASC 820, Fair Value Measurement, (“ASC 820”) defines fair value as the price that would be received to sell an asset or paid to transfer a liability (an exit price) in an orderly transaction between market participants at the reporting date. The methodology establishes consistency and comparability by providing a fair value hierarchy that prioritizes the inputs to valuation techniques into three broad levels, which are described below:
+
+ 
+
+          ●    Level 1 inputs are quoted market prices in active markets for identical assets or liabilities (these are observable
+
+                market
+
+                inputs).
+
+ 
+
+          ●    Level 2 inputs are inputs other than quoted prices included within Level 1 that are observable for the asset or
+
+                liability (includes quoted market prices for similar assets or identical or similar assets in markets in which there
+
+                are few transactions, prices that are not current or prices that vary
+
+                substantially).
+
+ 
+
+          ●    Level 3 inputs are unobservable inputs that reflect the entity’s own assumptions in pricing the asset or liability
+
+                (used when little or no market data is
+
+                available).
+
+ 
+
+7
+
+ 
+
+ 
+
+The fair value of cash and cash equivalents and accounts payable approximate their carrying value due to their short-term maturities.
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280), Improvements to Reportable Segment Disclosures. This Update improves reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. The amendments in this Update are effective for fiscal years beginning after December 15, 2023. Early adoption of the amendments is permitted. The Company is in the process of evaluating the impact of this new guidance on its consolidated financial statements.
+
+ 
+
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740), Improvements to Income Tax Disclosures. This Update enhances the transparency and usefulness of income tax disclosures, particularly in the rate reconciliation table and disclosures about income taxes paid. The guidance also eliminates certain existing requirements related to uncertain tax positions and unrecognized deferred tax liabilities. The amendments in this Update are effective for annual periods beginning after December 15, 2024. Early adoption of the amendments is permitted for annual financial statements that have not yet been issued. The Company is in the process of evaluating the impact of this new guidance on its consolidated financial statements.
+
+ 
+
+4 — DISCONTINUED OPERATIONS
+
+ 
+
+The business of the Company’s wholly owned subsidiary, Purnovate, was sold during the year ended December 31, 2023. As a result, all the assets and liabilities and the operating results of Purnovate, Inc. have been classified as discontinued operations.
+
+ 
+
+Income from discontinued operations, net of tax for the three months ended March 31, 2023 are as follows:
+
+ 
+
+                                                                                                                           For Three   
+
+                                                                                                                             Months
+
+                                                                                                                             Ended
+
+                                                                                                                           March 31,   
+
+                                                                                                                             2023
+
+Operating Expenses:                                                                                                                    
+
+Research and development expenses                                                                                        $     310,819 
+
+General and administrative expenses                                                                                            341,134 
+
+Total Operating Expenses                                                                                                       651,953 
+
+                                                                                                                                       
+
+Loss From Operations                                                                                                          (651,953)
+
+                                                                                                                                       
+
+Other Income (Expense)                                                                                                                 
+
+Interest expense                                                                                                               (14,000)
+
+Total other income (expense)                                                                                                   (14,000)
+
+                                                                                                                                       
+
+Loss before provision for income taxes                                                                                                 
+
+Income tax benefit (expense)                                                                                                  (665,953)
+
+                                                                                                                                       
+
+Loss from discontinued operations, net of tax                                                                                 (665,953)
+
+ 
+
+5 — EQUITY METHOD INVESTMENTS
+
+ 
+
+On June 30, 2023, Adovate issued to the Company a 19.9% equity stake in Adovate as part of consideration owed upon the exercise of Adovate’s option to purchase the business and assets of the Company’s wholly owned subsidiary, Purnovate, Inc.
+
+ 
+
+In accordance with ASC 810, the Company determined that Adovate does not qualify as a variable interest entity, nor does the Company have a controlling financial interest in Adovate. The Company has influence over, but does not control, Adovate through its equity interest in Adovate. The Company has determined that the equity it owns is in-substance common stock. The Company is not the primary beneficiary as it does not have the power to direct the activities of Adovate that most significantly impact Adovate’s economic performance. Accordingly, the Company does not consolidate the financial statements of Adovate with those of the Company.
+
+ 
+
+8
+
+ 
+
+ 
+
+The Company recorded the initial investment in Adovate of $1,727,897 in “Equity method investments” on its consolidated balance sheet. Due to the timing and availability of Adovate’s financial information, the Company is recording its proportionate share of losses from Adovate on a one quarter lag basis. Adovate’s summary balance sheet information as of December 31 and September 30, 2023 is below:
+
+ 
+
+                                                                                                        December 31,   September 30, 
+
+                                                                                                            2023           2023
+
+Current Assets                                                                                          $     456,191  $     524,318 
+
+Non-current assets                                                                                      $   3,348,018  $   3,368,533 
+
+Current liabilities                                                                                     $     631,940  $     813,371 
+
+Non-current liabilities                                                                                 $     563,785  $     521,592 
+
+ 
+
+Results for Adovate’s operations in the three months ended December 31, 2023 are summarized below:
+
+ 
+
+Revenues                                                                                                                 $           — 
+
+Costs and expenses                                                                                                            (894,649)
+
+Loss from operations                                                                                                          (894,649)
+
+Other loss                                                                                                                     (79,724)
+
+Net loss                                                                                                                 $    (974,373)
+
+ 
+
+The Company held a weighted average of 19.49% of Adovate’s equity in the three months ended December 31, 2023. The Company recognized an expense of $189,870, classified as other income (expense), against the carrying amount of the equity method investment, representing the Company’s portion of Adovate operating loss for the from issuance to September 30, 2023. At March 31, 2024, the Company held 15.4% of Adovate’s outstanding equity.
+
+ 
+
+Activity recorded for the Company’s equity method investment in Adovate in the three months ended March 31, 2024 is summarized in the following table:
+
+ 
+
+Equity investment carrying amount at January 1, 2024                                                                     $   1,534,013 
+
+Portion of operating losses recognized                                                                                        (189,870)
+
+Equity investment carrying amount at March 31, 2024                                                                      $   1,344,143 
+
+ 
+
+At March 31, 2024, the Company’s maximum exposure to loss through its equity method investment is limited to the value of its equity.
+
+ 
+
+6 — ACCRUED EXPENSES
+
+ 
+
+Accrued expenses consist of the following:
+
+ 
+
+                                                                                                         March 31,     December 31,  
+
+                                                                                                            2024           2023
+
+Clinical research organization services and clinical consulting services                                $      96,662  $           — 
+
+Employee compensation                                                                                         196,118        421,365 
+
+Pre-clinical and manufacturing expenses                                                                        76,667         50,566 
+
+Legal and consulting services                                                                                   5,816          5,816 
+
+Total accrued expenses                                                                                  $     375,263  $     477,747 
+
+ 
+
+7 — RELATED PARTY TRANSACTIONS 
+
+ 
+
+In January 2011, the Company entered into an exclusive, worldwide license agreement with The University of Virginia Patent Foundation d/b/a the University of Virginia Licensing and Ventures Group (the “UVA LVG”) for rights to make, use or sell licensed products in the United States based upon patents and patent applications made and held by UVA LVG (the “UVA LVG License”). The Company is required to pay compensation to the UVA LVG, as described in Note 9. A certain percentage of these payments by the Company to the UVA LVG may then be distributed to the Company’s former Chairman of the Board and Chief Medical Officer in his capacity as inventor of the patents by the UVA LVG in accordance with their policies at the time.
+
+ 
+
+9
+
+ 
+
+ 
+
+On July 1, 2023, the Company executed a shared services agreement with Adovate, Inc., in which the Company holds a significant equity stake (see Note 5), for sharing of the efforts of certain Adovate employee time and use of Adovate office space and equipment. At March 31, 2024, the Company had recognized $3,529 of accrued expense associated with this agreement. In the three months ended March 31, 2024 and 2023, the Company recognized $3,529 and zero dollars, respectively, in expenses associated with this agreement.
+
+ 
+
+See Note 9 for related party vendor, consulting, and lease agreements.
+
+ 
+
+8 — SHAREHOLDERS’ EQUITY
+
+  
+
+Standby Equity Purchase Agreement
+
+ 
+
+On May 31, 2023, the Company entered into an Equity Purchase Agreement with Alumni Capital, LLC (“Alumni”). This agreement constituted a standby equity purchase agreement (a “SEPA”). Pursuant to the SEPA, the Company has the right, but not the obligation, to sell to Alumni up to $3,000,000 of newly issued shares, subject to increase to $10,000,000 at the option of the Company, at the Company’s request at any time during the commitment period, which commenced on May 31, 2023 and will end on the earlier of (i) December 31, 2024, or (ii) the date on which Alumni shall have made payment of advances requested by the Company totaling up to the commitment amount of $3,000,000. Each sale the Company requests under the SEPA (a “Purchase Notice”) may be for a number of shares of common stock with an aggregate value of up to $500,000, and up to $2,000,000 provided certain conditions concerning the average daily trading value are met. The SEPA provides for shares to be sold to Alumni at 95% of the lowest daily volume weighted average price during the three days after a Purchase Notice is issued to Alumni. The Company determined that the SEPA contains put option elements and forward share issuance elements that fail to meet equity classification under ASC 815-40, Contracts in an Entity’s Own Equity; the put option is recorded at fair value at inception and each reporting date thereafter. Forward contracts to issue shares created on the occurrence of a Purchase Notice will be measured at fair value, with changes in fair value recognized in net loss upon closing of the Purchase Notice and sale of the Company’s stock.
+
+ 
+
+Upon the Company’s entry into and subject to the terms and conditions set forth in the SEPA, 7,983 shares of common stock were issued to Alumni as consideration for its irrevocable commitment to purchase shares of common stock, pursuant to the SEPA, as shown in the consolidated statement of shareholders’ equity. The fair value of these shares of $51,901 was recorded under other expenses.
+
+ 
+
+On August 3, 2023, 20,550 shares of common stock were sold under the terms of the SEPA for cash proceeds $140,330.
+
+ 
+
+Common Stock Issuances
+
+ 
+
+On February 13, 2024, pre-funded warrants for the purchase of 184,000 shares of common stock were exercised for total proceeds of $184.
+
+ 
+
+On February 14, 2024, pre-funded warrants for the purchase of 789,000 shares of common stock were exercised for total proceeds of $789. After this exercise, no pre-funded warrants remained outstanding.
+
+ 
+
+On March 1, 2024, warrants for the purchase of 268,440 shares of common stock with an exercise fee of $2.82 per share were exercised for total gross proceeds of $756,732.
+
+ 
+
+On March 1, 2024, the Company entered into a warrant inducement agreement with a certain holder of the Company’s warrants to purchase shares of the Company’s common stock issued in a private placement offering that closed on October 24, 2023. Pursuant to the inducement agreement, the holder of the existing warrants agreed to exercise for cash the existing warrants to purchase up to approximately 1,150,000 shares of common stock, at an exercise price of $2.82 per share. The transactions contemplated by the inducement agreement closed on March 6, 2024. The Company received aggregate gross proceeds of approximately $3.5 million, before deducting placement agent fees and other expenses payable by the Company. Net proceeds of this transaction were estimated to be approximately $3.1 million.
+
+ 
+
+10
+
+ 
+
+ 
+
+In consideration of the holder’s immediate exercise of the existing warrants and the payment of $0.125 per warrant in accordance with the inducement agreement, the Company issued unregistered Series C warrants to purchase 2,300,000 shares of common stock (200% of the number of shares of common stock issued upon exercise of the Existing Warrants) to the holder of existing warrants. The shares underlying these warrants were registered for sale on April 12, 2024 and the registrations statement registering the shares underlying these warrants was declared effective on April 19, 2024. The fair value per warrant was determined to be $2.066 per warrant, resulting in an expense of issuance of $1.94 per warrant as excess fair value over the $0.125 paid, or $4,464,427 in total inducement expense, classified under other income (expenses).
+
+ 
+
+2017 Equity Incentive Plan
+
+ 
+
+On October 9, 2017, the Company adopted the Adial Pharmaceuticals, Inc. 2017 Equity Incentive Plan (the “2017 Equity Incentive Plan”); which became effective on July 31, 2018. Initially, the aggregate number of shares of the Company’s common stock that may be issued pursuant to stock awards under the 2017 Equity Incentive Plan was 70,000 shares. On September 29, 2023, by a vote of the shareholders, the number of shares issuable under the 2017 Equity Incentive Plan was increased to 500,000. At March 31, 2024 the Company had issued and outstanding 138,527 shares and 353,908 options to purchase shares of our common stock under the 2017 Equity Incentive Plan, as well as 3,286 options to purchase shares of common stock that were issued before the 2017 Equity Incentive Plan was adopted, leaving 7,565 available for issue.
+
+ 
+
+Stock Options
+
+ 
+
+The following table provides the stock option activity for the three months ended March 31, 2024 and year ended December 31, 2023:
+
+ 
+
+                                                                         Total         Weighted        Weighted        Weighted    
+
+                                                                        Options         Average        Average         Average
+
+                                                                      Outstanding      Remaining       Exercise       Fair Value
+
+                                                                                         Term           Price          at Issue
+
+                                                                                        (Years)
+
+Outstanding December 31, 2023                                               152,194           7.02  $        48.00  $        36.72 
+
+Issued                                                                      205,000           3.00            1.35            1.14 
+
+Outstanding March 31, 2024                                                  357,194           8.61  $        21.23  $        16.30 
+
+Outstanding March 31, 2024, vested and exercisable                          124,117           6.35  $        54.26  $        41.26 
+
+ 
+
+At March 31, 2024, the total intrinsic value of the outstanding options was zero dollars.
+
+ 
+
+The Company used the Black Scholes valuation model to determine the fair value of the options issued, using the following key assumptions for the three months ended March 31, 2024:
+
+ 
+
+                                                                                                                          March 31,   
+
+                                                                                                                            2024
+
+Fair Value per Share                                                                                                    $        1.35 
+
+Expected Term                                                                                                              5.75 years 
+
+Expected Dividend                                                                                                       $           — 
+
+Expected Volatility                                                                                                            111.89%
+
+Risk free rate                                                                                                                   4.23%
+
+ 
+
+No options to purchase shares of common stock we granted during the three months ended March 31, 2023.
+
+ 
+
+11
+
+ 
+
+ 
+
+During the three months ended March 31, 2024, 205,000 options to purchase shares of common stock were granted at a fair value of $232,812, an approximate weighted average fair value of $1.14 per option, to be amortized over a service a weighted average period of 3.0 years. As of March 31, 2024, $746,346 in unrecognized compensation expense will be recognized over a dollar weighted remaining service period of 1.78 years.
+
+ 
+
+The components of stock-based compensation expense included in the Company’s Statements of Operations for the three months ended March 31, 2024 and 2023 are as follows:
+
+ 
+
+                                                                                                             Three months ended        
+
+                                                                                                                  March 31,
+
+                                                                                                            2024           2023      
+
+Research and development options expense                                                                $      16,734  $      48,913 
+
+Total research and development expenses                                                                        16,734         48,913 
+
+General and administrative options and warrants expense                                                       160,269        348,529 
+
+Stock issued to consultants and employees                                                                      48,987         62,135 
+
+Total general and administrative expenses                                                                     209,256        410,664 
+
+Total stock-based compensation expense                                                                  $     225,990  $     459,577 
+
+ 
+
+Stock Warrants
+
+ 
+
+The following table provides the activity in warrants for the three months ended March 31, 2024 and the year ended December 31, 2023.
+
+ 
+
+                                                                         Total        Weighted        Weighted        Average     
+
+                                                                        Warrants       Average        Average        Intrinsic
+
+                                                                                      Remaining       Exercise         Value
+
+                                                                                        Term           Price
+
+                                                                                       (Years)
+
+Outstanding December 31, 2023                                            4,224,008           3.31* $         7.76  $         0.43 
+
+Issued                                                                   2,369,000                           2.84                 
+
+Exercised                                                               (2,391,440)                $         1.67                 
+
+Outstanding March 31, 2024                                               4,201,568           2.82  $         8.45  $         0.01 
+
+ 
+
+*    As the 973,000 pre-funded warrants outstanding on December 31, 2023 did not expire, they have been excluded from this calculation.
+
+ 
+
+During the three months ended March 31, 2024, 2,391,440 warrants to purchase shares of common stock were exercised for total gross proceeds of $4,000,974. No warrants were exercised in the three months ended March 31, 2023.
+
+ 
+
+9 — COMMITMENTS AND CONTINGENCIES
+
+ 
+
+License with University of Virginia Patent Foundation
+
+ 
+
+In January 2011, the Company entered into an exclusive, worldwide license agreement with the University of Virginia Patent Foundation, dba UVA Licensing and Ventures Group (“UVA LVG”) for rights to make, use or sell licensed products in the United States based upon the ten separate patents and patent applications made and held by UVA LVG.
+
+ 
+
+12
+
+ 
+
+ 
+
+As consideration for the rights granted in the UVA LVG License, the Company is obligated to pay UVA LVG yearly license fees and milestone payments, as well as a royalty based on net sales of products covered by the patent-related rights. More specifically, the Company paid UVA LVG a license issue fee and is obligated to pay UVA LVG (i) annual minimum royalties of $40,000 commencing in 2017; (ii) a $20,000 milestone payments upon dosing the first patient under a Phase 3 human clinical trial of a licensed product, $155,000 upon the earlier of the completion of a Phase 3 trial of a licensed product, partnering of a licensed product, or sale of the Company, $275,000 upon acceptance of an NDA by the FDA, and $1,000,000 upon approval for sale of AD04 in the U.S., Europe or Japan; as well as (iii) royalties equal to a 2% and 1% of net sales of licensed products in countries in which a valid patent exists or does not exist, respectively, with royalties paid quarterly. In the event of a sublicense to a third party, the Company is obligated to pay royalties to UVA LVG equal to a percentage of what the Company would have been required to pay to UVA LVG had it sold the products under sublicense ourselves. In addition, the Company is required to pay to UVA LVG 15% of any sublicensing income. A certain percentage of these payments by the Company to the UVA LVG may then be distributed to the Company’s former Chairman of the Board who currently serves as the Company’s Chief Medical Officer in his capacity as inventor of the patents by the UVA LVG in accordance with their policies at the time.
+
+ 
+
+The license agreement may be terminated by UVA LVG upon sixty (60) days written notice if the Company breaches its obligations thereunder, including failing to make any milestone, failure to make required payments, or the failure to exercise diligence to bring licensed products to market. In the event of a termination, the Company will be obligated to pay all amounts that accrued prior to such termination. The Company is required to use commercially reasonable efforts to achieve the goals of submitting a New Drug Application to the FDA for a licensed product by December 31, 2024 and commencing commercialization of an FDA approved product by December 31, 2025. If the Company were to fail to use commercially reasonable effort and fail to meet either goal, the licensor would have the right to terminate the license.
+
+ 
+
+The term of the license continues until the expiration, abandonment or invalidation of all licensed patents and patent applications, and following any such expiration, abandonment or invalidation will continue in perpetuity on a royalty-free, fully paid basis.
+
+ 
+
+During both the three month periods ended March 31, 2024 and 2023, the Company recognized $10,000 minimum license royalty expenses under this agreement. At both March 31, 2024 and 2023, total accrued royalties and fees due to UVA LVG were $10,000 and $50,000, respectively, shown on balance sheet as accrued expenses, related party.
+
+ 
+
+Grant Incentive Plan – Related Party
+
+ 
+
+On April 1, 2018, the board of directors approved and then revised, respectively, a grant incentive plan to provide incentive for Bankole A. Johnson, the Company’s Chief Medical Officer and a related party, to secure grant funding for the Company. Under the Grant Incentive Plan, the Company will make a cash payment to the Dr. Johnson each year based on the grant funding received by us in the preceding year in an amount equal to 10% of the first $1 million of grant funding received and 5% of grant funding received in the preceding year above $1 million. Amounts to be paid to the Dr. Johnson be paid as follows: 50% in cash and 50% in stock. As of March 31, 2024, no grant funding that would result in a payment to the Dr. Johnson had been obtained.
+
+ 
+
+Consulting Agreement – Related Party
+
+ 
+
+On March 24, 2019, the Company entered into a consulting agreement (the “Consulting Agreement”) with Dr. Bankole A. Johnson, who at the time of the agreement was serving as the Chairman of the Board of Directors, for his service as Chief Medical Officer of the Company. The Consulting Agreement had a term of three years, unless terminated by mutual consent or by the Company for cause. Dr. Johnson resigned as Chairman of the Board of Directors at the time of execution of the consulting agreement. Under the terms of the Consulting Agreement, Dr. Johnson’s annual fee of $375,000 per year is paid twice per month. On September 8, 2022, Dr. Johnson’s consulting agreement was amended to increase his annual compensation to $430,000 annually and to pay him series of bonuses in cash and shares on the occurrence of certain milestones. The Company recognized $108,700 in compensation expense in both the three month periods ended March 31, 2024 and 2023. The agreement was terminated effective May 17, 2024. See Note 10.
+
+ 
+
+13
+
+ 
+
+ 
+
+Consulting Agreement – Related Party
+
+ 
+
+On October 24, 2022, the Company entered into a Master Services Agreement (the “MSA”) with Abuwala & Company, LLC, dba as Orbytel, for provision of strategic consulting services. Orbytel made it known that it intended to utilize the services of the Keswick Group, LLC as a subcontractor in the provision of these services. Tony Goodman, a director of Company, is the founder and principal of Keswick Group, LLC, therefore Orbytel was considered a related party. Statement of work #1 (“SOW #1”), executed with the MSA, committed the Company to $209,250 in payments. The Company did not recognize any expense under SOW#1 during the three months ended March 31, 2024. During the three months ended March 31, 2023, the Company recognized $57,750, under SOW #1.
+
+ 
+
+Consulting Agreement – Related Party
+
+ 
+
+On March 15, 2023, the Company entered into a Master Services Agreement (the “MSA”) with the Keswick Group, LLC for provision of consulting services. Tony Goodman, a director, is the founder and principal of Keswick Group. Under the terms of this agreement, the Keswick Group is to be paid $22,000 per month for its services for a period of one year from execution of the MSA. On Jan 17, 2024, the Company amended the consulting agreement with Tony Goodman and Keswick Group for SOW#2. The amendment outlined the appointment of Mr. Goodman as Chief Operating Officer of Adial. Under the terms of the amended agreement, Keswick Group is to be paid $25,000 per month for the role of Chief Operating Officer including carry over duties from SOW#1. In the three months ended March 31, 2024 and 2023, the Company recognized $73,620 and $18,333 in expenses, respectively, associated with this agreement.
+
+ 
+
+Other Consulting and Vendor Agreements
+
+ 
+
+The Company has entered into a number of agreements and work orders for future consulting, clinical trial support, and testing services, with terms ranging between 12 and 36 months. These agreements, in aggregate, commit the Company to approximately $150 thousand in future cash.
+
+ 
+
+Litigation
+
+ 
+
+The Company is subject, from time to time, to claims by third parties under various legal disputes. The defense of such claims, or any adverse outcome relating to any such claims, could have a material adverse effect on the Company’s liquidity, financial condition, and cash flows. As of March 31, 2024, the Company did not have any pending legal actions.
+
+ 
+
+10 — SUBSEQUENT EVENTS
+
+ 
+
+On April 10, 2024, the Company provided Dr. Bankole A. Johnson with notice of the termination of the Company’s consulting agreement with Dr. Johnson. The termination is effective May 17, 2024. As a result of the termination of the Consulting Agreement, effective as of May 17, 2024, Dr. Johnson will no longer serve as the Company’s Chief Medical Officer. On April 24, the Company and Dr. Johnson executed a severance agreement providing for Dr. Johnson’s continued service as a consultant on an hourly basis as needed, a severance payment, and for certain payments on the occurrence of milestones.
+
+ 
+
+On April 18, 2024, the Company entered into an At the Market Offering Agreement (the “ATM Agreement”) with H.C. Wainwright & Co., LLC (the “Sales Agent” or “Wainwright”) providing for the sale by the Company of its shares of common stock, from time to time, through the Sales Agent, with certain limitations on the amount of Common Stock that may be offered and sold by the Company as set forth in the ATM Agreement. The aggregate market value of the shares of Common Stock eligible for sale under the ATM Prospectus Supplement was $4,283,650 which is based on the limitations of such offerings under SEC regulations.
+
+ 
+
+The ATM Agreement provides that the Company will pay the Sales Agent commissions for its services in acting as agent in the sale of shares of Common Stock pursuant to the ATM Agreement. The Sales Agent will be entitled to compensation at a fixed commission rate of 3.0% of the gross proceeds from the sale of shares of Common Stock pursuant to the ATM Agreement. The Offering of shares of Common Stock pursuant to the ATM Agreement will terminate upon the earlier of (i) the sale of all shares of Common Stock subject to the ATM Agreement; or (ii) termination of the ATM Agreement by the Company as permitted therein.
+
+ 
+
+On April 22, 2024, the Company sold 178,447 shares of common stock through the ATM agreement at an average price of $2.2129 per share, for net proceeds of $382,250 after placement fees and expenses.
+
+ 
+
+On May 9, 2024, the Company executed a statement of work with Dr. Vince Clinical Research, LLC for the performance of clinical research services for the Company. This statement of work commits the Company to approximately $1.4 million in payments, to be made on the occurrence of certain performance milestones.
+
+ 
+
+14
+
+ 
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+ 
+
+The following discussion and analysis is intended as a review of significant factors affecting our financial condition and results of operations for the periods indicated. The discussion should be read in conjunction with our unaudited consolidated financial statements and the notes presented herein included in this Form 10-Q and the audited financial statements and the other information set forth in the Annual Report on Form 10-K for the year ended December 31, 2023 that we filed with the SEC on April 1, 2024 (the “2023 Form 10-K”). ln addition to historical information, the following Management’s Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements that involve risks and uncertainties including, but not limited to, those set forth below under “Risk Factors” and elsewhere herein, and those identified under Part I, Item 1A of the 2023 Form 10-K. Our actual results could differ significantly from those anticipated in these forward-looking statements as a result of certain factors discussed herein and any other periodic reports filed and to be filed with the Securities and Exchange Commission (“SEC”).
+
+ 
+
+Overview
+
+ 
+
+We are a clinical-stage biopharmaceutical company focused on the development of therapeutics for the treatment or prevention of addiction and related disorders. Our investigational new drug candidate, AD04, is being developed as a therapeutic agent for the treatment of alcohol use disorder (“AUD”). AD04 was recently investigated in a Phase 3 clinical trial, designated the ONWARD trial, for the potential treatment of AUD in subjects with certain target genotypes, which were identified using our companion diagnostic genetic test. Based on our analysis of the subgroup data from the ONWARD trial, we are now focused on completing the clinical development program for AD04 in the specified genetic subgroups to meet regulatory requirements primarily in the U.S. and secondarily in Europe/UK.
+
+ 
+
+In January 2021, we expanded our portfolio in the field of addiction with the acquisition of Purnovate, LLC via a merger into our wholly owned subsidiary, Purnovate, Inc. (“Purnovate”) and in January 2023, we entered into an option agreement with Adovate LLC (“Adovate”), pursuant to which we granted to Adovate an exclusive option for Adovate or its designated affiliate to acquire all of the assets of Purnovate and to assume related liabilities and expenses. (Our then-CEO was a significant equity holder in Purnovate, LLC, so this was considered a related party transaction.) On May 8, 2023, Adovate sent a letter exercising its option effective May 16, 2023 and made payment of the $450,000 in fees due on exercise. Effective June 30, 2023, Adovate issued to us the equity stake in Adovate due on exercise of the option agreement. On August 17, 2023, a Bill of Sale, Assignment and Assumption Agreement (“Bill of Sale”) was executed between Purnovate and Adovate, transferring the Purnovate assets to Adovate, effective as of June 30, 2023. On August 17, 2023, Purnovate and Adovate also entered into a letter agreement acknowledging that Adovate acquired the assets of Purnovate effective as of June 30, 2023, pursuant to the Bill of Sale.
+
+ 
+
+We have devoted the vast majority of our resources to development efforts relating to AD04, including preparation for and conducting clinical trials, providing general and administrative support for these operations and protecting our intellectual property.
+
+ 
+
+We currently do not have any products approved for sale and we have not generated any significant revenue since our inception. From our inception through the date of our 2023 Annual Report on Form 10-K, we have funded our operations primarily through the private and public placements of debt, equity securities, and an equity line.
+
+ 
+
+Our current cash and cash equivalents are not expected to be sufficient to fund operations for the twelve months from the date of filing our 2023 Annual report on Form 10-K, based our current projections.
+
+ 
+
+15
+
+ 
+
+ 
+
+We have incurred net losses in each year since our inception, including net losses of approximately $6.5 million and $5.1 million for the three months ended March 31, 2024 and year ended December 31, 2023, respectively. We had accumulated deficits of approximately $75 million and $68.8 million as of March 31, 2024 and December 31, 2023, respectively. All of our operating losses in the three months ended March 31, 2024 resulted from costs incurred in continuing operations, including costs in connection with our continuing research and development programs, from general and administrative costs associated with our operations, and from financing costs.
+
+ 
+
+We will not generate revenue from product sales unless and until we successfully complete development and obtain marketing approval for AD04, which we expect will take a number of years and is subject to significant uncertainty. We do not believe our current cash and equivalents will be sufficient to fund our operations for the next twelve months from the filing of these financial statements.
+
+ 
+
+Until such time, if ever, as we can generate substantial revenue from product sales, we expect to finance our operating activities through a combination of equity offerings, debt financings, government or other third-party funding, commercialization, marketing and distribution arrangements and other collaborations, strategic alliances and licensing arrangements. However, we may be unable to raise additional funds or enter into such other arrangements when needed on favorable terms or at all. Our failure to raise capital or enter into such other arrangements as and when needed would have a negative impact on our financial condition and our ability to develop AD04.
+
+ 
+
+Recent Developments
+
+  
+
+Financial Developments
+
+ 
+
+On March 1, 2024, we entered into a warrant inducement agreement (the “Inducement Agreement”) with a certain holder (the “Holder”) of our warrants (the “Existing Warrants”) to purchase shares of our common stock, par value $0.001 per share (the “common stock”), issued in a private placement offering that closed on October 24, 2023. Pursuant to the Inducement Agreement, the Holder of the Existing Warrants agreed to exercise for cash the Existing Warrants to purchase up to approximately 1,150,000 shares of common stock, at an exercise price of $2.82 per share. The transactions contemplated by the Inducement Agreement closed on March 6, 2024. We received aggregate gross proceeds of approximately $3.5 million, before deducting placement agent fees and other expenses payable by us. Net proceeds of this transaction were approximately $3.1 million.
+
+ 
+
+In consideration of the Holder’s immediate exercise of the Existing Warrants and the payment of $0.125 per New Warrant (as such term is defined below) in accordance with the Inducement Agreement, we issued unregistered Series C Warrants (the “New Warrants”) to purchase 2,300,000 shares of common stock (200% of the number of shares of common stock issued upon exercise of the Existing Warrants) (the “New Warrant Shares”) to the Holder of Existing Warrants.
+
+ 
+
+On March 1, 2024, warrants to purchase 268,440 warrants to purchase shares for common stock for an exercise price of $2.82 per share were exercised for gross proceeds of approximately $757 thousand.
+
+ 
+
+On April 18, 2024, we entered into an At the Market Offering Agreement (the “ATM Agreement”) with H.C. Wainwright & Co., LLC (the “Sales Agent” or “Wainwright”) providing for sale of our shares of common stock, from time to time, through the Sales Agent, with certain limitations on the number of shares of common stock that may be offered and sold by us as set forth in the ATM Agreement. The aggregate market value of the shares of Common Stock eligible for sale under the ATM Prospectus Supplement was $4,283,650 which is based on the limitations of such offerings under SEC regulations. The ATM Agreement provides that we will pay the Sales Agent commissions for its services in acting as agent in the sale of shares of common stock pursuant to the ATM Agreement. The Sales Agent will be entitled to compensation at a fixed commission rate of 3.0% of the gross proceeds from the sale of shares of common stock pursuant to the ATM Agreement. The Offering of shares of common stock pursuant to the ATM Agreement will terminate upon the earlier of (i) the sale of all shares of Common Stock subject to the ATM Agreement; or (ii) termination of the ATM Agreement by us as permitted therein.
+
+ 
+
+16
+
+ 
+
+ 
+
+Results of operations for the three months ended March 31, 2024 and 2023 (rounded to nearest thousand) 
+
+ 
+
+The following table sets forth the components of our statements of operations in dollars for the periods presented:
+
+ 
+
+                                                                                         For the Three Months Ended        Change     
+
+                                                                                                 March 31,
+
+                                                                                            2024            2023         (Decrease)   
+
+Research and development expenses                                                      $     454,000  $     366,000  $      88,000 
+
+General and administrative expenses                                                        1,391,000      1,903,000       (512,000)
+
+Total Operating Expenses                                                                   1,845,000      2,269,000       (424,000)
+
+                                                                                                                                   
+
+Loss From Operations                                                                      (1,845,000)    (2,269,000)       424,000 
+
+                                                                                                                                   
+
+Inducement expense                                                                        (4,465,000)             —     (4,465,000)
+
+Losses from equity method investment                                                        (190,000)             —       (190,000)
+
+Interest income                                                                               23,000         29,000         (6,000)
+
+Total other income (expenses)                                                             (4,632,000)        29,000     (4,661,000)
+
+                                                                                                                                   
+
+Income (loss) from continuing operations                                               $  (6,477,000)    (2,240,000)    (4,237,000)
+
+Loss from discontinued operations, net of tax                                                      —       (666,000)       666,000 
+
+Net loss                                                                                  (6,477,000)    (2,906,000)    (3,571,000)
+
+ 
+
+Research and development (“R&D”) expenses
+
+ 
+
+Research and development expenses increased by approximately $88,000 (24%) in the three months ended March 31, 2024 compared to the three months ended March 31, 2023. This change was due to increased use of drug development planning consultants by approximately $140,000, chemistry and manufacturing expenses by approximately $39,000, and for R&D directed personnel salaries by approximately $40,000. These increases were partially offset by decreased expense of regulatory consultants of approximately $77,000 and direct clinical trial expenses of approximately $24,000. These changes were the result of the completion of data analysis and other follow up activity associated with our recent ONWARD trial and the ramp up of planning for the next steps in the development of our drug candidate, AD04. The non-cash expense of equity compensation for R&D directed personnel also decreased by approximately $32,000, due to completion of vesting of options grants from previous periods and decreased use of equity compensation by our Board.
+
+ 
+
+General and administrative expenses (“G&A”) expenses
+
+ 
+
+General and administrative expenses decreased by approximately $512,000 (27%) in the three months ended March 31, 2024 compared to the three months ended March 31, 2023. The three months ended March 31, 2024 saw substantial decreases in expense in several areas, including the salaries of G&A directed personnel and cash director compensation of approximately $134,000, corporate legal expenses of approximately $49,000, direct patent expenses of approximately $41,000, travel expenses of approximately $37,000, as well as other, more modest decreases in G&A expense. These reductions were primarily the reassignment of executives from away from management of the Company to management of Purnovate, as well as completion of negotiations for the sale of Purnovate in 2023, which entailed considerable legal and executive effort. The non-cash expense of equity compensation for R&D directed personnel also decreased by approximately $125,000, due to completion of vesting of options grants from previous periods and decreased use of equity compensation by our Board.
+
+ 
+
+Losses from Equity Method Investment
+
+ 
+
+The expense recognized to the change in the value of our equity method investment in Adovate, LLC increased by approximately $190,000 in the three months ended March 31, 2024 compared to the three months ended March 31, 2023. This increase is entirely due to the fact that this investment was only acquired in June of 2023.
+
+ 
+
+Total Other income (expenses)
+
+ 
+
+Total other income (expenses), excluding the losses from the equity method investment, decreased by approximately $4,471,000. This was almost entirely due to the one-time, non-cash inducement expense of issuing warrants to the holder of existing warrants to induce the existing warrants exercise during the three months ended March 31, 2024.
+
+ 
+
+17
+
+ 
+
+ 
+
+Loss from discontinued operations, net of tax
+
+ 
+
+The loss from discontinued operations, net of tax, decreased by approximately $666,000 (100%) in the three months ended March 31, 2024 compared to the three months ended March 31, 2023. This decrease is wholly due to the fact that the business of Purnovate, Inc., the activities of which are now classified as discontinued, was sold in 2023 and all activity ceased.
+
+ 
+
+Liquidity and Capital Resources at March 31, 2024
+
+ 
+
+Our principal liquidity needs have historically been working capital, R&D, patent costs and personnel costs. We expect these needs to continue to increase in the near term as we engage in clinical trials and develop and eventually commercialize our compound, if approved by regulatory authorities. Over the next several years, we expect to increase our R&D expenses as we undergo clinical trials to demonstrate the safety and efficacy of our lead product candidate. To date, we have funded our operations primarily with the proceeds from our initial and secondary public offerings, and, to a lesser extent, private placements and our equity line, as well as other equity financings, warrant exercises, and the issuance of debt securities prior to that. On July 31, 2018, we closed our initial public offering.
+
+ 
+
+During the three months ended March 31, 2024, our primary sources of funding was the exercise of previously issued warrants.
+
+ 
+
+On March 1, 2024, warrants to purchase 268,440 shares of common stock for an exercise price of $2.82 per share were exercised for gross proceeds of approximately $757 thousand.
+
+ 
+
+On March 1, 2024, we entered into the Inducement Agreement pursuant to which the Holder of the Existing Warrants exercised for cash the Existing Warrants to purchase up to approximately 1,150,000 shares of common stock, at an exercise price of $2.82 per share. The transactions contemplated by the Inducement Agreement closed on March 6, 2024 and we received aggregate gross proceeds of approximately $3.5 million, before deducting placement agent fees and other expenses payable by us. Net proceeds of this transaction were approximately $3.1 million.
+
+ 
+
+On April 22, 2024, we sold 178,447 shares of common stock through our ATM agreement at an average price of $2.2129 per share, for net proceeds of $382,250 after placement fees and expenses.
+
+ 
+
+We intend to use the additional $4.2 million in funding received from warrant exercises and ATM sales to accelerate the development of AD04. Our current cash and cash equivalents are not expected to be sufficient to fund operations for the twelve months from the date of filing this Quarterly Report on Form 10-Q and are only anticipated to be sufficient to fund our needs into the first quarter of 2025, based on our current projections. Therefore, despite the funding we have recently received, we will need to engage in additional fundraising in the near term as we carry out our development plans.
+
+ 
+
+If we are successful in raising additional funds, under our accelerated development plans, we expect to use approximately $4.9 million in cash during the twelve months ended March 31, 2025 for both AD04 development costs and general corporate expenses. Since we expect to have entirely expended our current cash on hand after the beginning of 2025, we will not be able to fully implement our accelerated development plans without additional financing. We do not have any fixed commitments of financing and there can be no assurance that we will be able to meet the conditions for continued sales pursuant to the ATM Agreement. In addition, there is no assurance that funds could be raised on acceptable terms to continue our operations and AD04 development projects before we have expended our current cash on hand.
+
+ 
+
+We will require additional financing as we continue to execute our overall business strategy, including two additional Phase 3 trials for AD04 that are currently expected to require $8-12 million each in direct expenses, and up to $5 million in additional other development expenses. These estimates may change based on upcoming discussions with regulatory authorities and final trial designs. Our liquidity may be negatively impacted as a result of research and development cost increases in addition to general economic and industry factors. Our continued operations will depend on our ability to raise additional capital through various potential sources, such as equity and/or debt financings, grant funding, strategic relationships, or out-licensing in order to complete its subsequent clinical trial requirements for AD04. Management is actively pursuing financing and other strategic plans but can provide no assurances that such financing or other strategic plans will be available on acceptable terms, or at all. Without additional funding, we will be required to delay, scale back or eliminate some or all of its research and development programs, which would likely have a material adverse effect on us and our financial statements.
+
+ 
+
+18
+
+ 
+
+ 
+
+If we raise additional funds by issuing equity securities or convertible debt, our shareholders will experience dilution. Debt financing, if available, would result in increased fixed payment obligations and may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends. If we raise additional funds through collaboration and licensing arrangements with third parties, it may be necessary to relinquish valuable rights to our products, future revenue streams or product candidates or to grant licenses on terms that may not be favorable to us. We cannot be certain that additional funding will be available on acceptable terms, or at all. Any failure to raise capital in the future could have a negative impact on our financial condition and our ability to pursue our business strategies.
+
+ 
+
+Cash flows
+
+ 
+
+                                                                                                            For the Three Months      
+
+                                                                                                              Ended March 31,
+
+(rounded to nearest thousand)                                                                               2024            2023      
+
+Provided by (used in)                                                                                                                 
+
+Operating activities – continuing operations                                                           $  (1,626,000) $  (1,538,000)
+
+Discontinued operations                                                                                            —       (761,000)
+
+Financing activities                                                                                       3,824,000        610,000 
+
+Net increase (decrease) in cash and cash equivalents                                                   $   2,198,000  $  (1,689,000)
+
+ 
+
+Net cash used in operating activities – continuing operations
+
+ 
+
+Cash used in operating activities during the three months ended March 31, 2024 increased by approximately $88,000 when compared to the three months ended March 31, 2023. This increase differed by approximately $512,000 from the decrease in loss from operations of approximately $424,000 when comparing the same two periods, and was due to two factors: use of approximately $272,000 more cash to pay existing operating liabilities and accrued expenses, and approximately $234,000 of the decrease in operating expense being non-cash reduction in equity compensation expense.
+
+ 
+
+Net cash used in discontinued operations
+
+ 
+
+Cash used in discontinued operations ceased entirely by the three months ended March 31, 2024, as the business of Purnovate, the operations of which are classified as discontinued, was sold in 2023.
+
+  
+
+Net cash provided by financing activities
+
+ 
+
+Cash provided by financing activities increased by approximately $3,214,000 in the three months ended March 31, 2024 compared to the three months ended March 31, 2023. During the three months ended March 31, 2024, we completed a large induced exercise of previously registered warrants, whereas, in the three months ended March 31, 2023, our fundraising activity was limited to a small, shelf offering.
+
+ 
+
+Off-balance sheet arrangements
+
+ 
+
+We do not have any off-balance sheet arrangements.
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+See Note 3 to the unaudited condensed consolidated financial statements for a discussion of recent accounting pronouncements, if any.
+
+ 
+
+Critical Accounting Estimates
+
+ 
+
+Our discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements. These consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States, or GAAP. The preparation of these consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, and expenses. We evaluate these estimates and judgments on an ongoing basis. We base our estimates on our historical experience and on various other assumptions that we believe to be reasonable under the circumstances. These estimates and assumptions form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Our actual results and experiences may differ materially from these estimates. We did not identify any critical accounting estimates. Our significant accounting policies are more fully described in Note 3 to our financial statements included with this report.
+
+ 
+
+19
+
+ 
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk.
+
+ 
+
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and is not required to provide the information required under this item.
+
+  
+
+Item 4. Controls and Procedures.
+
+ 
+
+Disclosure Controls and Procedures
+
+ 
+
+We have adopted and maintain disclosure controls and procedures that are designed to provide reasonable assurance that information required to be disclosed in the reports filed under the Exchange Act, such as this Quarterly Report on Form 10-Q, is collected, recorded, processed, summarized and reported within the time periods specified in the rules of the SEC. Our disclosure controls and procedures are also designed to ensure that such information is accumulated and communicated to management to allow timely decisions regarding required disclosure. We have identified material weaknesses in our internal controls over financial reporting. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of our financial statements will not be prevented or detected on a timely basis. The material weaknesses identified to date include (i) lack of formal risk assessment under COSO framework: (ii) policies and procedures which are not adequately documented; (iii) lack of proper approval processes, review processes and documentation for such reviews; (iv) insufficient GAAP experience regarding complex transactions and ineffective review processes over period end financial disclosure and reporting; (v) deficiencies in the risk assessment, design and policies and procedures over information technology general controls; and (vi) insufficient segregation of duties.
+
+ 
+
+Due to the material weaknesses in internal control over financial reporting as described below, our Chief Executive Officer and our Chief Financial Officer concluded that, as of the end of the period covered by this report, our disclosure controls and procedures were not effective.
+
+ 
+
+Notwithstanding the material weaknesses described above, our management, including the Chief Executive Officer and Chief Financial Officer, has concluded that unaudited condensed consolidated financial statements, and other financial information included in this quarterly report, fairly present in all material respects our financial condition, results of operations, and cash flows as of and for the periods presented in this quarterly report.
+
+ 
+
+Remediation Plan for Existing Material Weakness
+
+ 
+
+Management continues to take steps to remediate the weaknesses described above. Management has engaged consulting services to ameliorate those material weaknesses stemming from its small number of personnel, in particular consultants with significant GAAP experience and IT security experts. Management is committed to additional remediation steps, including formal risk assessment, improved documentation the Company’s controls, and redesign of inadequate approval processes, as resources permit.
+
+ 
+
+Changes in Internal Control
+
+ 
+
+There has been no change in our internal control procedures over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act) that occurred during our fiscal quarter ended March 31, 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+ 
+
+20
+
+ 
+
+ 
+
+PART II–OTHER INFORMATION
+
+ 
+
+Item 1. Legal Proceedings.
+
+ 
+
+From time to time, we may become involved in legal proceedings or be subject to claims arising in the ordinary course of our business. We are not presently a party to any legal proceedings that, if determined adversely to us, would individually or taken together have a material adverse effect on our business, operating results, financial condition or cash flows. Regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources and other factors.
+
+ 
+
+Item 1A. Risk Factors.
+
+ 
+
+Investing in our securities involves a high degree of risk. You should consider carefully the following risks, together with all the other information in this Quarterly Report on Form 10-Q, including our condensed consolidated financial statements and notes thereto. If any of the following risks actually materializes, our operating results, financial condition and liquidity could be materially adversely affected. As a result, the trading price of our common stock could decline and you could lose part or all of your investment. The following information updates, and should be read in conjunction with, the information disclosed in Part I, Item 1A, “Risk Factors,” contained in our 2023 Form 10-K. Except as disclosed below, there have been no material changes from the risk factors disclosed in our 2023 Form 10-K.
+
+ 
+
+We have incurred losses from our continuing operations every year and quarter since our inception and anticipate that we will continue to incur losses from our continuing operations in the future.
+
+ 
+
+We are a clinical stage biotechnology pharmaceutical company that is focused on the discovery and development of medications for the treatment of addictions and related disorders of AUD in patients with certain targeted genotypes. We have a limited operating history. Investment in biopharmaceutical product development is highly speculative because it entails substantial upfront capital expenditures and significant risk that any potential product candidate will fail to demonstrate adequate effect or an acceptable safety profile, gain regulatory approval and become commercially viable. We have no products approved for commercial sale and have not generated any revenue from product sales to date, and we continue to incur significant research and development and other expenses related to our ongoing operations. To date, we have not generated positive cash flow from operations, revenues, or profitable operations, nor do we expect to in the foreseeable future. As of March 31, 2024, we had an accumulated deficit of approximately $75 million and as of December 31, 2023, we had an accumulated deficit of approximately $68.8 million. Our current cash and cash equivalents are not expected to be sufficient to fund operations for the twelve months from the date of filing this Quarterly Report on Form 10-Q and are only anticipated to be sufficient to fund our needs into the first quarter of 2025, based our current projections. Therefore, despite the funding we have recently received, we will need to engage in additional fundraising in the near term as we carry out our development plans. We do not have any fixed commitments of financing and there can be no assurance that we will be able to meet the conditions for continued sales pursuant to the ATM Agreement. In addition, there is no assurance that funds could be raised before we have expended our current cash on hand on acceptable terms to continue our operations and AD04 development projects.
+
+ 
+
+Even if we succeed in commercializing our product candidate or any future product candidates, we expect that the commercialization of our product will not begin until 2026 or later, we will continue to incur substantial research and development and other expenditures to develop and market additional product candidates and will continue to incur substantial losses and negative operating cash flow. We may encounter unforeseen expenses, difficulties, complications, delays and other unknown factors that may adversely affect our business. The size of our future net losses will depend, in part, on the rate of future growth of our expenses and our ability to generate revenue. Our prior losses and expected future losses have had and will continue to have an adverse effect on our shareholders’ equity and working capital.
+
+ 
+
+Our independent registered public accounting firm has expressed doubt about our ability to continue as a going concern as do our notes to financial statements included in this Quarterly Report on Form 10-Q.
+
+ 
+
+The report of our independent registered public accounting firm contains a note stating that the accompanying financial statements have been prepared assuming we will continue as a going concern. During the three months ended March 31, 2024, we incurred a net loss of $6.5 million and used $1.6 million of cash in operations. During the year ended December 31, 2023, we incurred a net loss of $5.1 million and used cash in operations of $6.8 million. Losses have principally occurred as a result of the research and development efforts coupled with no operating revenue. The notes to the unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q state that we do not believe that the existing cash and cash equivalents are sufficient to fund operations for the next twelve months following the filing of this Quarterly Report on Form 10-Q and our significant accumulated deficit, recurring losses, and needs to raise additional funds to sustain its operations raise substantial doubt about our ability to continue as a going concern
+
+ 
+
+Even if we succeed in commercializing our product candidate or any future product candidates, we expect that the commercialization of our product will not begin until 2026 or later, we will continue to incur substantial research and development and other expenditures to develop and market additional product candidates and will continue to incur substantial losses and negative operating cash flow.
+
+ 
+
+21
+
+ 
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+ 
+
+(a) Unregistered Sales of Equity Securities
+
+ 
+
+We did not sell any equity securities during the three months ended March 31, 2024 in transactions that were not registered under the Securities Act other than as disclosed in our filings with the SEC.
+
+ 
+
+(b) Use of Proceeds
+
+ 
+
+Not applicable.
+
+ 
+
+(c) Issuer Purchases of Equity Securities
+
+ 
+
+Not applicable.
+
+ 
+
+Item 3. Defaults Upon Senior Securities.
+
+ 
+
+None.
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+ 
+
+Not applicable.
+
+ 
+
+Item 5. Other Information.
+
+ 
+
+During the three months ended March 31, 2024, no director or officer of the Company adopted or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+
+ 
+
+Item 6. Exhibits
+
+ 
+
+The exhibit index set forth below is incorporated by reference in response to this Item 6.
+
+ 
+
+1.1          At the Market Offering Agreement, dated April 18, 2024, by and between Adial Pharmaceuticals, Inc. and H.C. Wainwright &
+
+              Co., LLC (Incorporated by reference to Exhibit 1.1 to the Company’s Current Report on Form 8-K, File No. 001-38323,
+
+              filed with the Securities and Exchange Commission on April 18,
+
+              2024)
+
+2.1          Final Acquisition Agreement, dated September 18, 2023, by and between Adovate LLC and Adial Pharmaceuticals, Inc.
+
+              (Incorporated by reference to Exhibit 2.3 to the Company’s Current Report on Form 8-K, File No. 001-38323, filed with
+
+              the Securities and Exchange Commission on September 21,
+
+              2023).
+
+3.1          Certificate of Incorporation of Adial Pharmaceuticals, Inc. (Incorporated by reference to Exhibit 3.3 to the Company’s
+
+              Registration Statement on Form S-1, File No. 333-220368, filed with the Securities and Exchange Commission on September
+
+              7,
+
+              2017).
+
+3.2          Amended and Restated Bylaws of Adial Pharmaceuticals, Inc., dated February 22, 2022 (Incorporated by reference to Exhibit
+
+              3.3 to the Company’s Annual Report on Form 10-K, File No. 001-38323, filed with the Securities and Exchange Commission
+
+              on March 28,
+
+              2022).
+
+3.3          Certificate of Amendment to Certificate of Incorporation of Adial Pharmaceuticals, Inc. (Incorporated by reference to
+
+              Exhibit 3.1 to the Company’s Current Report on Form 8-K, File No. 001-38323, filed with the Securities and Exchange
+
+              Commission on August 4,
+
+              2023).
+
+4.1          Form of New Warrant (Incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K, File No.
+
+              001-38323, filed with the Securities and Exchange Commission on March 6,
+
+              2024).
+
+4.2          Form of Placement Agent Warrant (Incorporated by reference to Exhibit 4.2 to the Company’s Current Report on Form 8-K,
+
+              File No. 001-38323, filed with the Securities and Exchange Commission on March 6,
+
+              2024).
+
+10.1         Statement of Work #2 to Master Services Agreement between Adial Pharmaceuticals, Inc. and The Kenswick Group, LLC, dated
+
+              March 15, 2023 (Incorporated by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K, File No.
+
+              001-38323, filed with the Securities and Exchange Commission on January 18,
+
+              2024).
+
+10.2         Form of Warrant Inducement Agreement dated March 1, 2024 by and between Adial Pharmaceuticals, Inc. and Holder.
+
+              (Incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K, File No. 001-38323, filed with
+
+              the Securities and Exchange Commission on March 6,
+
+              2024).
+
+10.3         Separation Agreement between Adial Pharmaceuticals, Inc. and Dr. Bankole Johnson, dated April 22, 2024 (Incorporated by
+
+              reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K, File No. 001-38323, filed with the Securities and
+
+              Exchange Commission on April 26,
+
+              2024)
+
+31.1*        Certification by principal executive officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of
+
+              1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+              2002.
+
+31.2*        Certification by principal financial officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of
+
+              1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+              2002.
+
+32.1*        Certification by principal executive officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of
+
+              the Sarbanes-Oxley Act of
+
+              2002.
+
+32.2*        Certification by principal financial officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of
+
+              the Sarbanes-Oxley Act of
+
+              2002.
+
+101.INS*     Inline XBRL Instance Document
+
+101.SCH*     Inline XBRL Taxonomy Extension Schema Document
+
+101.CAL*     Inline XBRL Taxonomy Extension Calculation Linkbase Document
+
+101.DEF*     Inline XBRL Taxonomy Extension Definition Linkbase Document
+
+101.LAB*     Inline XBRL Taxonomy Extension Label Linkbase Document
+
+101.PRE*     Inline XBRL Taxonomy Extension Presentation Linkbase Document
+
+104          Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)
+
+ 
+
+*     Filed herewith
+
+ 
+
+22
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+                                                                                 ADIAL PHARMACEUTICALS, INC.
+
+                                                                                         
+
+                                                                                 By:    /s/ Cary J. Claiborne
+
+                                                                                                                     
+
+                                                                                 Name:  Cary J. Claiborne
+
+                                                                                 Title: President and Chief Executive Officer
+
+                                                                                        (Principal Executive Officer)
+
+                                                                                         
+
+                                                                                 By:    /s/ Joseph Truluck
+
+                                                                                 Name:  Joseph Truluck
+
+                                                                                 Title: Chief Financial Officer
+
+                                                                                        (Principal Financial Officer and 
+
+                                                                                        Principal Accounting Officer)
+
+ 
+
+Dated: May 14, 2024
+
+ 
+
+ 
+
+23
+
+ 
+
+ 
+
+2.12 2.19 0.63 2.19 2.75 1058542 2953913 false --12-31 Q1 0001513525 0001513525 2024-01-01 2024-03-31 0001513525 2024-05-13 0001513525 2024-03-31 0001513525 2023-12-31 0001513525 2023-01-01 2023-03-31 0001513525 us-gaap:CommonStockMember 2023-12-31 0001513525 us-gaap:AdditionalPaidInCapitalMember 2023-12-31 0001513525 us-gaap:RetainedEarningsMember 2023-12-31 0001513525 us-gaap:CommonStockMember 2024-01-01 2024-03-31 0001513525 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-03-31 0001513525 us-gaap:RetainedEarningsMember 2024-01-01 2024-03-31 0001513525 us-gaap:CommonStockMember 2024-03-31 0001513525 us-gaap:AdditionalPaidInCapitalMember 2024-03-31 0001513525 us-gaap:RetainedEarningsMember 2024-03-31 0001513525 us-gaap:CommonStockMember 2022-12-31 0001513525 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 0001513525 us-gaap:RetainedEarningsMember 2022-12-31 0001513525 2022-12-31 0001513525 us-gaap:CommonStockMember 2023-01-01 2023-03-31 0001513525 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-03-31 0001513525 us-gaap:RetainedEarningsMember 2023-01-01 2023-03-31 0001513525 us-gaap:CommonStockMember 2023-03-31 0001513525 us-gaap:AdditionalPaidInCapitalMember 2023-03-31 0001513525 us-gaap:RetainedEarningsMember 2023-03-31 0001513525 2023-03-31 0001513525 adil:PurnovateIncMember 2023-05-16 2023-05-16 0001513525 us-gaap:CommonStockMember 2023-08-04 0001513525 us-gaap:CashEquivalentsMember 2024-03-31 0001513525 us-gaap:SegmentDiscontinuedOperationsMember 2023-01-01 2023-03-31 0001513525 adil:Equity1Member 2023-06-30 0001513525 adil:Equity1Member 2023-12-31 0001513525 2023-09-30 2023-09-30 0001513525 adil:Equity1Member 2024-03-31 0001513525 us-gaap:EquityMethodInvestmentsMember 2023-12-31 0001513525 us-gaap:EquityMethodInvestmentsMember 2023-09-30 0001513525 us-gaap:EquityMethodInvestmentsMember 2024-01-01 2024-03-31 0001513525 us-gaap:EquityMethodInvestmentsMember 2024-03-31 0001513525 us-gaap:RelatedPartyMember 2024-03-31 0001513525 srt:MinimumMember adil:AlmuniCapitalLLCMember 2023-05-31 2023-05-31 0001513525 srt:MaximumMember adil:AlmuniCapitalLLCMember 2023-05-31 2023-05-31 0001513525 2023-05-31 2023-05-31 0001513525 2023-05-31 0001513525 adil:AlmuniCapitalLLCMember 2024-01-01 2024-03-31 0001513525 us-gaap:CommonStockMember 2023-08-03 2023-08-03 0001513525 adil:AlmuniCapitalLLCMember 2024-02-13 2024-02-13 0001513525 adil:AlmuniCapitalLLCMember 2024-02-14 2024-02-14 0001513525 adil:AlmuniCapitalLLCMember 2024-03-01 2024-03-01 0001513525 adil:AlmuniCapitalLLCMember 2024-03-01 0001513525 2024-03-01 2024-03-01 0001513525 us-gaap:WarrantMember us-gaap:CommonStockMember 2024-03-31 0001513525 adil:AlmuniCapitalLLCMember us-gaap:CommonStockMember 2024-01-01 2024-03-31 0001513525 us-gaap:WarrantMember 2024-01-01 2024-03-31 0001513525 us-gaap:WarrantMember 2024-03-31 0001513525 adil:EquityincentivePlanMember 2024-01-01 2024-03-31 0001513525 2023-09-01 2023-09-29 0001513525 adil:EquityincentivePlanMember 2024-03-31 0001513525 adil:AlmuniCapitalLLCMember adil:EquityincentivePlanMember 2024-01-01 2024-03-31 0001513525 adil:AdialPharmaceuticalsIncMember adil:EquityincentivePlanMember 2024-01-01 2024-03-31 0001513525 2023-01-01 2023-12-31 0001513525 us-gaap:WarrantMember adil:AlmuniCapitalLLCMember 2024-01-01 2024-03-31 0001513525 us-gaap:EmployeeStockOptionMember 2023-12-31 0001513525 us-gaap:EmployeeStockOptionMember 2023-01-01 2023-12-31 0001513525 us-gaap:EmployeeStockOptionMember 2024-01-01 2024-03-31 0001513525 us-gaap:EmployeeStockOptionMember 2024-03-31 0001513525 adil:ResearchAndDevelopmentOptionsExpenseMember 2024-01-01 2024-03-31 0001513525 adil:ResearchAndDevelopmentOptionsExpenseMember 2023-01-01 2023-03-31 0001513525 us-gaap:ResearchAndDevelopmentExpenseMember 2024-01-01 2024-03-31 0001513525 us-gaap:ResearchAndDevelopmentExpenseMember 2023-01-01 2023-03-31 0001513525 adil:GeneralAndAdministrativeOptionsExpenseMember 2024-01-01 2024-03-31 0001513525 adil:GeneralAndAdministrativeOptionsExpenseMember 2023-01-01 2023-03-31 0001513525 adil:StockAndWarrantsIssuedToConsultantsAndEmployeesMember 2024-01-01 2024-03-31 0001513525 adil:StockAndWarrantsIssuedToConsultantsAndEmployeesMember 2023-01-01 2023-03-31 0001513525 us-gaap:GeneralAndAdministrativeExpenseMember 2024-01-01 2024-03-31 0001513525 us-gaap:GeneralAndAdministrativeExpenseMember 2023-01-01 2023-03-31 0001513525 us-gaap:WarrantMember 2023-12-31 0001513525 us-gaap:WarrantMember 2023-01-01 2023-12-31 0001513525 us-gaap:RelatedPartyMember 2023-03-31 0001513525 adil:DrJohnsonMember 2018-04-01 2018-04-01 0001513525 adil:DrJohnsonMember 2018-04-01 0001513525 2018-04-01 2018-04-01 0001513525 2018-04-01 0001513525 2022-09-08 2022-09-08 0001513525 adil:DrBankoleAJohnsonMember 2024-01-01 2024-03-31 0001513525 adil:DrBankoleAJohnsonMember 2023-01-01 2023-03-31 0001513525 2022-10-24 0001513525 adil:MasterServicesAgreementLLCMember 2023-01-01 2023-03-31 0001513525 2023-03-01 2023-03-15 0001513525 srt:MinimumMember 2024-01-01 2024-03-31 0001513525 srt:MaximumMember 2024-01-01 2024-03-31 0001513525 us-gaap:SubsequentEventMember 2024-04-18 2024-04-18 0001513525 us-gaap:SubsequentEventMember 2024-04-22 2024-04-22 0001513525 us-gaap:SubsequentEventMember 2024-04-22 0001513525 srt:ScenarioForecastMember adil:DrVinceClinicalResearchLLCMember 2024-05-09 xbrli:shares iso4217:USD iso4217:USD xbrli:shares xbrli:pure

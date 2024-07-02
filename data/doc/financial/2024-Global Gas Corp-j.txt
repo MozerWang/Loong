@@ -1,0 +1,1969 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+(Mark One)
+
+☒ QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024
+
+ 
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from ______________ to ______________
+
+ 
+
+Commission File Number 001-39819
+
+ 
+
+GLOBAL GAS CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                             Delaware                                                           85-1617911
+
+                 (State or other jurisdiction of                                              (IRS Employer
+
+                  incorporation or organization)                                           Identification No.)
+
+ 
+
+                     99 Wall Street, Suite 436                                                      10005
+
+                         New York, New York
+
+              (Address of principal executive offices)                                           (Zip Code)
+
+ 
+
+(917) 327-0437
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+N/A
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+            Title of each class                           Trading Symbol(s)                Name of each exchange on which registered
+
+  Class A common Stock, par value $0.0001                       HGAS                              The Nasdaq Stock Market LLC
+
+                    per
+
+                   share
+
+                                                                                                                
+
+ Warrants, each whole warrant exercisable                       HGASW                             The Nasdaq Stock Market LLC
+
+   for one share of Class A common stock,
+
+  each at an exercise price of $11.50 per
+
+                   share
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act:
+
+ 
+
+Large accelerated filer ☐                                           Accelerated filer ☐
+
+Non-accelerated filer ☒                                             Smaller reporting company ☒
+
+                                                                    Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☒ No ☐
+
+ 
+
+As of May 13, 2024, there were 5,428,256 shares of the registrant’s Class A common stock, par value $0.0001 per share, issued and outstanding, and 2,700,000 shares of the registrant’s Class B common stock, par value $0.0001 per share, issued and outstanding.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                               Page
+
+Part 1 - Financial Information                                                                                                    
+
+                                                                                                                                  
+
+Item 1.     Condensed Consolidated Financial Statements (Unaudited)                                                              
+
+                                                                                                                                 
+
+            Condensed Consolidated Balance Sheets as of March 31, 2024 (Unaudited) and December 31, 2023                        1
+
+                                                                                                                                 
+
+            Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2024 and the Period from       2
+
+             February 16, 2023 (inception) to March 31, 2023
+
+             (Unaudited)
+
+                                                                                                                                 
+
+            Condensed Consolidated Statements of Changes in Stockholders’ Deficit for the Three Months Ended March 31,          3
+
+             2024 and the Period from February 16, 2023 (inception) to March 31, 2023
+
+             (Unaudited)
+
+                                                                                                                                 
+
+            Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2024 and the Period from       4
+
+             February 16, 2023 (inception) to March 31, 2023
+
+             (Unaudited)
+
+                                                                                                                                 
+
+            Notes to Condensed Consolidated  Financial Statements (Unaudited)                                                   5
+
+                                                                                                                                 
+
+Item 2.     Management’s Discussion and Analysis of Financial Condition And Results of Operations                               18
+
+                                                                                                                                 
+
+Item 3.     Quantitative and Qualitative Disclosures About Market Risk                                                          26
+
+                                                                                                                                 
+
+Item 4.     Controls And Procedures                                                                                             26
+
+                                                                                                                                 
+
+Part II - Other Information                                                                                                      27
+
+                                                                                                                                  
+
+Item 1.     Legal Proceedings                                                                                                   27
+
+                                                                                                                                 
+
+Item 5.     Other Information                                                                                                   27
+
+                                                                                                                                 
+
+Item 6.     Exhibits                                                                                                            27
+
+                                                                                                                                 
+
+Signatures                                                                                                                       28
+
+ 
+
+i
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+ 
+
+                                                                                                          March 31,     December 31,  
+
+                                                                                                             2024           2023
+
+Assets                                                                                                   (Unaudited)                  
+
+Current assets                                                                                                                        
+
+Cash                                                                                                    $     286,522  $      62,362 
+
+Prepaid expenses                                                                                               49,583            583 
+
+Marketable securities                                                                                               -      1,120,966 
+
+Total Current Assets                                                                                          336,105      1,183,911 
+
+TOTAL ASSETS                                                                                            $     336,105  $   1,183,911 
+
+                                                                                                                                     
+
+Liabilities and stockholders’ deficit                                                                                                
+
+Current liabilities                                                                                                                  
+
+Accounts payable – related party                                                                        $     124,867  $     124,867 
+
+Accounts payable and accrued expenses                                                                         182,999      1,086,212 
+
+Advances – related party                                                                                        2,352          2,352 
+
+Promissory notes – related parties                                                                            273,950        273,950 
+
+Total Current Liabilities                                                                                     584,168      1,487,381 
+
+Derivative warrant liabilities                                                                                540,350        431,200 
+
+TOTAL LIABILITIES                                                                                           1,124,518      1,918,581 
+
+                                                                                                                                     
+
+Commitments and contingencies (note 9)                                                                                               
+
+                                                                                                                                     
+
+Stockholders’ deficit                                                                                                                
+
+Preferred stock, $0.0001 par value; 1,000,000 shares authorized; zero shares issued or outstanding as               -              - 
+
+ of March 31, 2024 and December 31,
+
+ 2023
+
+Class A common stock, $0.0001 par value; 380,000,000 shares authorized; 5,428,256 shares issued or                543            543 
+
+ outstanding as of March 31, 2024 and December 31,
+
+ 2023
+
+Class B common stock, $0.0001 par value; 20,000,000 shares authorized; 2,700,000 and 4,300,000 shares             270            430 
+
+ issued or outstanding as March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Subscription receivable                                                                                    (2,483,141)    (2,608,141)
+
+Additional paid-in capital                                                                                  2,172,834      2,172,674 
+
+Accumulated deficit                                                                                          (478,919)      (300,176)
+
+Total stockholders’ deficit                                                                                  (788,413)      (734,670)
+
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY                                                              $     336,105  $   1,183,911 
+
+ 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+ 
+
+1
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS
+
+(UNAUDITED) 
+
+ 
+
+                                                                                                        For the Three     For the    
+
+                                                                                                        Months Ended       Period
+
+                                                                                                          March 31,         from
+
+                                                                                                                       February 16,
+
+                                                                                                                           2023 
+
+                                                                                                                        (inception)
+
+                                                                                                                             to
+
+                                                                                                                         March 31,
+
+                                                                                                            2024           2023      
+
+                                                                                                                                     
+
+Operating Expenses:                                                                                                                  
+
+General and administrative                                                                              $      77,159  $          42 
+
+Start up costs                                                                                                      -            574 
+
+Loss from operations                                                                                          (77,159)          (616)
+
+                                                                                                                                     
+
+Other expenses, net:                                                                                                                 
+
+Interest income                                                                                                 7,566              - 
+
+Change in fair value of derivative warrant liabilities                                                       (109,150)             - 
+
+Total other expenses, net                                                                                    (101,584)             - 
+
+                                                                                                                                     
+
+Net loss                                                                                                $    (178,743) $        (616)
+
+                                                                                                                                     
+
+Weighted average number of Class A common stock outstanding, basic and diluted                              5,428,256              - 
+
+Net loss per Class A common stock, basic and diluted                                                    $       (0.02) $           - 
+
+Weighted average number of Class B common stock outstanding, basic and diluted                              3,825,275      4,300,000 
+
+Net loss per Class B common stock, basic and diluted                                                    $       (0.02) $       (0.00)
+
+ 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+ 
+
+2
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ (DEFICIT) EQUITY
+
+(UNAUDITED)
+
+ 
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 
+
+ 
+
+                                     Common Stock                                      Additional                            Total       
+
+                            Class A                  Class B           Subscription       Paid-in       Accumulated       Stockholders’   
+
+                       Shares       Amount       Shares       Amount      Receivable        Capital         Deficit            Deficit      
+
+Balance – December     5,428,256  $     543     4,300,000  $      430        (2,608,141) $  2,172,674  $       (300,176) $        (734,670)
+
+ 31,
+
+ 2023
+
+Forfeiture of                  —          —    (1,600,000)       (160)                —           160                 —                  — 
+
+ Class B common
+
+ stock
+
+Proceeds from                  —          —             —           —           125,000             —                 —            125,000 
+
+ forward purchase
+
+ agreement
+
+ shares
+
+Net loss                       —          —             —           —                               —          (178,743)          (178,743)
+
+Balance – March        5,428,256  $     543     2,700,000  $      270        (2,483,141) $  2,172,834  $       (478,919) $        (788,413)
+
+ 31,
+
+ 2024
+
+ 
+
+FOR THE PERIOD FROM FEBRUARY 16, 2023 (INCEPTION) TO MARCH 31, 2023 
+
+ 
+
+                                 Members’                    Common Stock                  Additional                           Total       
+
+                               Contribution         Class A               Class B             Paid-in       Accumulated      Stockholders’   
+
+                                  Amount        Shares     Amount      Shares       Amount       Capital         Deficit           Deficit      
+
+Balance – February 16, 2023  $             —        —  $       —             —  $       —  $          —  $             —  $              — 
+
+ (inception),
+
+Members’ Contribution of              12,500        —          —             —          —             —                —            12,500 
+
+ Capital
+
+Merger Recapitalization              (12,500)       —          —     4,300,000        430        12,070                —                 — 
+
+ (Note
+
+ 4)
+
+Net loss                                   —        —          —             —          —             —             (616)             (616)
+
+Balance – March 31, 2023                   —        —  $       —     4,300,000  $     430  $     12,070  $          (616) $        (11,884)
+
+ 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+ 
+
+3
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+
+(UNAUDITED)
+
+ 
+
+                                                                                                       For the Three  For the Period 
+
+                                                                                                       Months Ended        from
+
+                                                                                                         March 31,     February 16,
+
+                                                                                                                           2023
+
+                                                                                                                        (inception)
+
+                                                                                                                            to
+
+                                                                                                                             
+
+                                                                                                                        March 31,
+
+                                                                                                           2024            2023      
+
+Cash Flows from Operating Activities:                                                                                                
+
+Net loss                                                                                               $    (178,743)           (616)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                          
+
+Interest on marketable securities                                                                             (7,566)              - 
+
+Change in fair value of derivative warrant liabilities                                                       109,150               - 
+
+Changes in operating assets and liabilities:                                                                                         
+
+Prepaid expenses                                                                                             (49,000)              - 
+
+Accounts payable and accrued expenses                                                                       (903,213)             42 
+
+Net cash used in operating activities                                                                     (1,029,372)           (574)
+
+                                                                                                                                     
+
+Cash Flows from Investing Activities:                                                                                                
+
+Proceeds from sale of marketable securities                                                                1,128,532               - 
+
+Net cash provided by investing activities                                                                  1,128,532               - 
+
+                                                                                                                                     
+
+Cash Flows from Financing Activities:                                                                                                
+
+Capital contribution from Members                                                                                  -          12,500 
+
+Advances – related party                                                                                           -             574 
+
+Proceeds from forward purchase agreement                                                                     125,000               - 
+
+Net cash provided by financing activities                                                                    125,000          13,074 
+
+                                                                                                                                     
+
+Net change in cash                                                                                           224,160          12,500 
+
+Cash, beginning of period                                                                                     62,362               - 
+
+Cash, end of period                                                                                    $     286,522  $       12,500 
+
+ 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+ 
+
+4
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+1. ORGANIZATION AND BUSINESS OPERATIONS
+
+ 
+
+Global Gas Corporation, a Delaware corporation (the “Company,” “Global Gas”), is a nascent pure-play hydrogen and carbon recovery project developer and industrial gas supplier. Global Gas intends to offer customers reliable, low-carbon and clean hydrogen, pure carbon dioxide, and other gases generated from a variety of feedstocks. Global Gas’ planned activities involve (i) the sourcing, identification, evaluation and vetting of offtake customers seeking to purchase industrial gases, (ii) the securing of local feedstocks, equipment, and utilities, (iii) the planning and management of projects and (iv) the structuring and financing of projects. Global Gas targets both privately- and publicly funded hydrogen development and selected carbon recovery projects, including projects supported by local-, county-, state-, and national-level governments in North America, Western Europe, and Great Britain.
+
+ 
+
+Global Gas intends to serve traditional industrial gas customers and is particularly focused on plans to serve the rapidly growing hydrogen-as-energy-carrier market for use in hydrogen fuel-cell powered vehicles. Global Gas’ growth strategy is based on its developing ability to place modular generation, recovery, storage, and dispense solutions in closer geographic proximity to end customers — onsite in many cases — and its developing ability to produce and sell multiple outputs from a single feedstock input. Additionally, governments at all levels in North America and Western Europe have and are deploying substantial incentives to mitigate the impact of climate change and to decarbonize their economies. Global Gas believes it is well-placed to benefit as a developer of projects eligible for several of these incentives, such as the hydrogen tax production credits and the investment tax credits made available in the United States through the Inflation Reduction Act of 2022 (the “IR Act”).
+
+ 
+
+Business Combination
+
+ 
+
+On December 21, 2023 (the “Closing Date”), Global Gas Corporation (formerly known as Dune Acquisition Corporation) (prior to the Effective Time (as defined below), “Dune” and after the Effective Time, the “Company”), consummated the previously-announced business combination pursuant to that certain Unit Purchase Agreement, dated May 14, 2023 (as amended on August 22, 2023 and as further amended on November 24, 2023, the “Purchase Agreement”), by and among Dune, Global Gas Holdings LLC, a Delaware limited liability company and direct, wholly-owned subsidiary of Dune (“Holdings”), Global Hydrogen Energy LLC, a Delaware limited liability company (“Global Hydrogen”), and William Bennett Nance, Jr., Sergio Martinez and Barbara Guay Martinez (collectively, the “Sellers”), the equity holders of Global Hydrogen. William Bennett Nance, Jr., the Founder and Chief Executive Officer of Global Hydrogen, was also a director of Dune and, as of the Effective Time, is now the Chief Executive Officer and a director of the Company.
+
+ 
+
+In connection with the closing of such business combination, the registrant changed its name from Dune Acquisition Corporation to Global Gas Corporation, and on December 22, 2023, the Company’s Class A Common Stock (as defined below) and warrants began trading on The Nasdaq Capital Market (“Nasdaq”) under the new trading symbols “HGAS” and “HGASW,” respectively.
+
+ 
+
+In accordance with the terms and subject to the conditions of the Purchase Agreement and the other transactions contemplated thereby (the “Business Combination”), at the closing of the Business Combination (the “Closing”) on December 21, 2023, (a) Dune contributed to Holdings all of its assets (excluding its interests in Holdings and the aggregate amount of cash proceeds required to satisfy redemptions by Dune’s public stockholders (“Stockholder Redemptions”)), and in exchange therefor, Holdings issued to Dune a number of common equity units of Holdings (“Holdings Common Units”) which equal the number of total shares of Class A common stock, par value $0.0001 per share (“Class A Common Stock”), of Dune issued and outstanding immediately after the Closing (giving effect to all Stockholder Redemptions) (such transactions, the “SPAC Contribution”) and (b) immediately after the SPAC Contribution, the Sellers transferred, conveyed, assigned and delivered all of the limited liability company equity interests of Global Hydrogen (“Global Hydrogen Units”) to Holdings in exchange for shares of Class B voting non-economic common stock, par value $0.0001 per share (“Class B Common Stock”), of Dune and Holdings Common Units (together with the SPAC Contribution, the “Combination Transactions”), as a result of which, (i) each issued and outstanding Global Hydrogen Unit immediately prior to the Combination Transactions is now held by Holdings, (ii) each Seller received an aggregate number of Holdings Common Units and shares of Class B Common Stock, in each case, equal to the number of Global Hydrogen Units held by such Seller, multiplied by the applicable exchange ratio, and (iii) Dune changed its name to Global Gas Corporation and the Company became the publicly traded reporting company. The effective time of the Business Combination on the Closing Date is referred to as the “Effective Time.”
+
+ 
+
+The Business Combination was accomplished through what is commonly referred to as an “Up-C” structure, which is often used by partnerships and limited liability companies undertaking an initial public offering. The “Up-C” structure allowed the Sellers, who became equity holders of Holdings upon the consummation of the Combination Transactions, to retain their equity ownership in Holdings, an entity that is classified as a partnership for United States federal income tax purposes, in the form of Holdings Common Units after the Closing, and provides potential future tax benefits for both the Company and Holdings’ equity holders (other than the Company) when they ultimately exchange their Holdings Common Units.
+
+ 
+
+5
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+In accordance with the terms and subject to the conditions of the Purchase Agreement, at the Closing, the issued and outstanding Global Hydrogen Units of each Seller were transferred, conveyed, assigned and delivered in exchange for (i) a number of shares of Class B Common Stock equal to the product of (x) the number of Global Hydrogen Units held by such Seller and (y) the exchange ratio determined by dividing (A) the quotient of $43,000,000 divided by the number of Global Hydrogen Units issued and outstanding immediately prior to the Closing by (B) $10.00 per share and (ii) a number of Holdings Common Units equal to the number of shares of Class B Common Stock received by such Seller pursuant to clause (i) hereof.
+
+ 
+
+The Business Combination was accounted for as a reverse recapitalization in accordance with GAAP. Under this method of accounting, although Dune acquired all of the outstanding equity interests of Global Hydrogen in the Business Combination, Dune was treated as the “acquired” company and Global Hydrogen was treated as the accounting acquirer for financial statement reporting purposes. Accordingly, the Business Combination was treated as the equivalent of Global Hydrogen issuing stock for the net assets of Dune, accompanied by a recapitalization. The net assets of Dune were stated at historical cost, with no goodwill or other intangible assets recorded. Operations prior to the Business Combination were those of Global Hydrogen. See Note 4, “Recapitalization.”
+
+ 
+
+In connection with the Business Combination, on December 1, 2023, Dune and Global Hydrogen entered into a forward purchase agreement (the “Forward Purchase Agreement”) with each of Meteora Strategic Capital, LLC (“MSC”), Meteora Capital Partners, LP (“MCP”) and Meteora Select Trading Opportunities Master, LP (“MSTO” and, collectively with MSC and MCP, the “Meteora Entities”) for an OTC Equity Prepaid Forward Transaction. Pursuant to the terms of the Forward Purchase Agreement, on the Closing Date, the Sellers purchased 258,934 shares of Dune Class A Common Stock (the “Recycled Shares”) directly from the redeeming stockholders of Dune. Also on the Closing Date, the Company paid to the Sellers a prepayment amount of $2.6 million required under the Forward Purchase Agreement directly from the trust account and transferred to the Sellers 939,614 shares of Dune Class A Common Stock (the “Share Consideration”). See Note 7, “Stockholders Equity” for more details about the Forward Purchase Agreement.
+
+ 
+
+In connection with the Forward Purchase Agreement, Dune entered into a subscription agreement (the “Subscription Agreement”) with the Meteora Entities. Pursuant to the Subscription Agreement, the Meteora Entities agreed to subscribe for and purchase, and Dune agreed to issue and sell to the Meteora Entities, on the Closing Date, 681,220 shares of Class A Common Stock in the aggregate (the “PIPE Shares”). Pursuant to the Subscription Agreement, the Company gave certain registration rights to the Meteora Entities with respect to the PIPE Shares. The sale of the PIPE Shares was consummated concurrently with the Closing.
+
+ 
+
+On March 4, 2024, Global Gas entered into forfeiture agreements (the “Forfeiture Agreements”) with each of Sergio Martinez, Barbara Guay Martinez and William Bennett Nance, Jr., pursuant to which such individuals forfeited an aggregate of 1,600,000 shares of Class B Common Stock (collectively, the “Forfeitures”). After the Forfeitures, the Sellers continue to hold an aggregate of 2,700,000 shares of Class B Common Stock.
+
+ 
+
+The rights of holders of our Class A Common Stock and Warrants are governed by our second amended and restated certificate of incorporation (the “Amended and Restated Charter”), our amended and restated bylaws (the “Amended and Restated Bylaws”) and the Delaware General Corporation Law (the “DGCL”), and in the case of the Public Warrants and Private Placement Warrants, the Warrant Agreement dated as of December 17, 2020, between the Company and Continental Stock Transfer & Trust Company (“Continental”), as warrant agent.
+
+ 
+
+On May 14, 2023, Dune, Dune Acquisition Holdings LLC, a Delaware limited liability company (the “Sponsor”), and each of the Sellers entered into a lock-up agreement (the “Lock-up Agreement”), which became effective as of the Closing. Under the Lock-up Agreement, the Sponsor and the Sellers agreed to certain restrictions on transfer with respect to the shares of Company common stock and private placement warrants they hold as of the Closing, which restrictions amend and supersede the restrictions on transfer the Sponsor agreed to in that certain letter agreement, dated December 17, 2020, entered into by and among Dune, the Sponsor and Dune’s officers and directors in connection with Dune’s initial public offering (the “IPO”). The restrictions on transfer contained in the Lock-up Agreement apply to the Sellers and the existing equity holders of the Sponsor, and: (i) end, with respect to shares of Company common stock, on the earlier of twelve (12) months after (and excluding) the Closing Date and the date on which the Company completes a liquidation, merger, capital stock exchange, reorganization, bankruptcy or other similar transaction that results in all of the shares of Company common stock being converted into cash, securities or other property; and (ii) ended, with respect to the Company’s private placement warrants, thirty (30) days after the Closing Date. 
+
+ 
+
+6
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+On the Closing Date, in connection with the Business Combination, the Company, Holdings and the Sellers entered into an Exchange Agreement (the “Exchange Agreement”), pursuant to which the Sellers have the right from time to time following the Closing, on the terms and conditions contained in the Exchange Agreement, to exchange their Holdings Common Units together with their shares of Class B Common Stock for, at the option of the Company, shares of Class A Common Stock or cash.
+
+ 
+
+2. LIQUIDITY AND GOING CONCERN
+
+ 
+
+Going Concern
+
+ 
+
+Since inception, the Company’s primary sources of liquidity have been cash flows from contributions from a member and a related party. The Company had $286,522 in cash, a working capital deficit of $248,063, and an accumulated deficit of $478,919 as of March 31, 2024.
+
+ 
+
+The Company’s future capital requirements will depend on many factors, including the Company’s revenue growth rate, the timing and extent of spending to support further sales and marketing and research and development efforts. In order to finance these opportunities, the Company will need to raise additional financing. While there can be no assurances, the Company intends to raise such capital through issuances of additional equity raises. If additional financing is required from outside sources, the Company may not be able to raise it on terms acceptable to the Company or at all. If the Company is unable to raise additional capital when desired, the Company’s business, results of operations and financial condition would be materially and adversely affected. 
+
+ 
+
+As a result of the above, in connection with the Company’s assessment of going concern considerations in accordance with Financial Accounting Standard Board’s (“FASB”) ASC Subtopic 205-40, “Going Concern,” management has determined that the Company’s liquidity condition raises substantial doubt about the Company’s ability to continue as a going concern through twelve months from the date these condensed consolidated financial statements are available to be issued. These condensed consolidated financial statements do not include any adjustments relating to the recovery of the recorded assets or the classification of the liabilities that might be necessary should the Company be unable to continue as a going concern.
+
+ 
+
+3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+
+Basis of accounting
+
+ 
+
+The unaudited condensed consolidated financial statements of the Company have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) for interim financial information and the instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, our unaudited condensed consolidated financial statements do not include all the information and footnotes required by GAAP for complete financial statements. Normal and recurring adjustments considered necessary for a fair statement of the results for the interim periods, in the opinion of the Company’s management, have been included. Operating results for the three months ended March 31, 2024, are not necessarily indicative of the results that may be expected for the year ending December 31, 2024. The accompanying unaudited condensed consolidated financial statements and related footnote disclosures should be read in conjunction with the consolidated financial statements and notes thereto included in our Form 10-K for the fiscal year ended December 31, 2023, which was filed with the U.S. Securities and Exchange Commission (the “SEC”) on April 1, 2024 (the “2023 Form 10-K”).
+
+ 
+
+Principles of consolidation
+
+ 
+
+These unaudited condensed consolidated financial statements include the accounts of the Company, all wholly owned and majority-owned subsidiaries in which the Company has a controlling voting interest and, when applicable, variable interest entities in which the Company has a controlling financial interest or is the primary beneficiary. Investments in affiliates where the Company does not exert a controlling financial interest are not consolidated.
+
+ 
+
+All significant intercompany transactions and balances have been eliminated upon consolidation.
+
+ 
+
+7
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+Emerging Growth Company
+
+ 
+
+The Company is an “emerging growth company,” as defined in Section 2(a) of the Securities Act, as modified by the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”), and it may take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies including, but not limited to, not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act of 2002, reduced disclosure obligations regarding executive compensation in its periodic reports and proxy statements, and exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved.
+
+ 
+
+Further, Section 102(b)(1) of the JOBS Act exempts emerging growth companies from being required to comply with new or revised financial accounting standards until private companies (that is, those that have not had a Securities Act registration statement declared effective or do not have a class of securities registered under the Exchange Act) are required to comply with the new or revised financial accounting standards. The JOBS Act provides that an emerging growth company can elect to opt out of the extended transition period and comply with the requirements that apply to non-emerging growth companies but such an election to opt out is irrevocable. The Company has elected not to opt out of such extended transition period, which means that when a standard is issued or revised and it has different application dates for public or private companies, the Company, as an emerging growth company, can adopt the new or revised standard at the time private companies adopt the new or revised standard.
+
+ 
+
+This may make comparison of the Company’s condensed consolidated financial statements with those of another public company that is neither an emerging growth company nor an emerging growth company that has opted out of using the extended transition period difficult or impossible because of the potential differences in accounting standards used.
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of the accompanying condensed consolidated financial statements in conformity with GAAP requires management to make certain estimates and assumptions that affect the reported amounts and disclosures of assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Estimates are adjusted to reflect actual experience when necessary. Significant accounting estimates included in these financial statements are the determination of the fair value of the warrant liabilities and marketable securities. Such estimates may be subject to change as more current information becomes available and accordingly, the actual results could differ significantly from those estimates.
+
+ 
+
+Concentration of credit risk
+
+ 
+
+Financial instruments that potentially subject the Company to concentration of credit risk consist of cash accounts in a financial institution which, at times, may exceed the Federal Deposit Insurance Corporation coverage limit of $250,000, and investments held in the trust account. Any loss incurred or a lack of access to such funds could have a significant adverse impact on the Company’s financial condition, results of operations, and cash flows.
+
+ 
+
+Business Combinations
+
+ 
+
+The Company evaluates whether acquired net assets should be accounted for as a business combination or an asset acquisition by first applying a screen test to determine whether substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or group of similar identifiable assets. If so, the transaction is accounted for as an asset acquisition. If not, the Company applies its judgement to determine whether the acquired net assets meets the definition of a business by considering if the set includes an acquired input, process, and the ability to create outputs. 
+
+ 
+
+The Company accounts for business combinations using the acquisition method when it has obtained control. The Company measures goodwill as the fair value of the consideration transferred including the fair value of any non-controlling interest recognized, less the net recognized amount of the identifiable assets acquired and liabilities assumed, all measured at their fair value as of the acquisition date. Transaction costs, other than those associated with the issuance of debt or equity securities, that the Company incurs in connection with a business combination are expensed as incurred.
+
+ 
+
+Any contingent consideration (“Earnout liabilities”) is measured at fair value at the acquisition date. For contingent consideration that does not meet all the criteria for equity classification, such contingent consideration is required to be recorded at its initial fair value at the acquisition date, and on each balance sheet date thereafter. Changes in the estimated fair value of liability-classified contingent consideration are recognized on the consolidated statements of operations in the period of change.
+
+ 
+
+When the initial accounting for a business combination has not been finalized by the end of the reporting period in which the transaction occurs, the Company reports provisional amounts. Provisional amounts are adjusted during the measurement period, which does not exceed one year from the acquisition date. These adjustments, or recognition of additional assets or liabilities, reflect new information obtained about facts and circumstances that existed at the acquisition date that, if known, would have affected the amounts recognized at that date.
+
+ 
+
+8
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+Cash and cash equivalents
+
+ 
+
+Cash is comprised of cash in the bank which is subject to an insignificant risk of changes in value. The Company considers all short-term investments with an original maturity of three months or less when purchased to be cash equivalents. At March 31, 2024 and December 31, 2023, cash amounted to $527 and $62,362, respectively. At March 31, 2024 and December 31, 2023, cash equivalents amounted to $285,995 and $0, respectively.
+
+ 
+
+Marketable securities
+
+ 
+
+The Company held investment securities in mutual funds primarily in U.S. government securities. Since all of the Company’s permitted investments consist of treasury securities, fair values of its investments are determined by Level 1 inputs utilizing quoted market prices (unadjusted) in active markets for identical assets.
+
+ 
+
+Earnings on these securities are included in interest income on marketable securities in the consolidated statement of operations and are automatically reinvested. The fair value of these securities was determined using quoted market prices in active markets for identical assets. At March 31, 2024 and December 31, 2023, marketable securities amounted to $0 and $1,120,966, respectively.
+
+ 
+
+Fair value measurements
+
+ 
+
+Fair value is defined as the exit price, or the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants as of the measurement date. The authoritative guidance establishes a hierarchy for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that the most observable inputs be used when available. Observable inputs are from sources independent of the Company. Unobservable inputs reflect the Company’s assumptions about the factors market participants would use in valuing the asset or liability developed based upon the best information available in the circumstances. The categorization of financial assets and liabilities within the valuation hierarchy is based upon the lowest level of input that is significant to the fair value measurement. The hierarchy is broken down into three levels:
+
+ 
+
+     ●    Level 1: Inputs are quoted prices in active markets for identical assets or liabilities.
+
+           
+
+     ●    Level 2: Inputs include quoted prices for similar assets or liabilities in active markets, quoted prices for identical or
+
+           similar assets or liabilities in markets that are not active, and inputs (other than quoted prices) that are observable for
+
+           the asset or liability, either directly or
+
+           indirectly.
+
+           
+
+     ●    Level 3: Inputs are unobservable for the asset or liability.
+
+ 
+
+The carrying amounts of certain financial instruments, such as cash equivalents, marketable securities, accounts payable and accrued liabilities, approximate fair value due to their relatively short maturities. The fair value of debt instruments for which the Company has not elected fair value accounting is based on the present value of expected future cash flows and assumptions about the then-current market interest rates as of the reporting period and the creditworthiness of the Company. All of the Company’s debt is carried on the consolidated balance sheet on a historical cost basis net of unamortized discounts and premiums because the Company has not elected the fair value option of accounting. 
+
+ 
+
+Warrants
+
+ 
+
+The Company reviews the terms of warrants to purchase its common stock to determine whether warrants should be classified as liabilities or stockholders’ deficit in its condensed consolidated balance sheets. In order for a warrant to be classified in stockholders’ deficit, the warrant must be (i) indexed to the Company’s equity and (ii) meet the conditions for equity classification.
+
+ 
+
+If a warrant does not meet the conditions for stockholders’ deficit classification, it is carried on the condensed consolidated balance sheets as a warrant liability measured at fair value, with subsequent changes in the fair value of the warrant recorded in other non-operating losses (gains) in the condensed consolidated statements of operations. If a warrant meets both conditions for equity classification, the warrant is initially recorded, at its relative fair value on the date of issuance, in stockholders’ deficit in the consolidated balance sheets, and the amount initially recorded is not subsequently remeasured at fair value.
+
+ 
+
+9
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+Income taxes
+
+ 
+
+The Company follows the asset and liability method of accounting for income taxes under FASB ASC 740, which requires an asset and liability approach to financial accounting and reporting for income taxes. Deferred tax assets and liabilities are recognized for the estimated future tax consequences attributable to differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that included the enactment date. Valuation allowances are established, when necessary, to reduce deferred tax assets to the amount expected to be realized.
+
+ 
+
+FASB ASC 740 prescribes a recognition threshold and a measurement attribute for the financial statement recognition and the measurement of tax positions taken or expected to be taken in a tax return. For those benefits to be recognized, a tax position must be more likely than not to be sustained upon examination by taxing authorities. The Company recognizes accrued interest and penalties related to unrecognized tax benefits as income tax expense. The Company is currently not aware of any issues under review that could result in significant payments, accruals or material deviation from its position. The Company is subject to income tax examinations by major taxing authorities since inception.
+
+ 
+
+Recent Accounting Pronouncements Not Yet Adopted
+
+ 
+
+In June 2022, the FASB issued ASU 2022-03, “Fair Value Measurement (Topic 820): Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions,” which clarifies that contractual sale restrictions are not considered in measuring fair value of equity securities and requires additional disclosures for equity securities subject to contractual sale restrictions. The standard is effective for public companies for fiscal years beginning after December 15, 2023. Early adoption is permitted. This accounting standard update is not expected to have a material impact on our consolidated financial statements as the amendments align with our existing policy.
+
+ 
+
+In November 2023, the FASB issued ASU 2023-07, “Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures,” which will add required disclosures of significant expenses for each reportable segment, as well as certain other disclosures to help investors understand how the chief operating decision maker (“CODM”) evaluates segment expenses and operating results. The new standard will also allow disclosure of multiple measures of segment profitability if those measures are used to allocate resources and assess performance. The amendments will be effective for public companies for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. Early adoption is permitted. We are currently evaluating the impact of this accounting standard update on our consolidated financial statements.
+
+ 
+
+In December 2023, the FASB issued ASU 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures,” which requires disaggregated information about a reporting entity’s effective tax rate reconciliation as well as information on income taxes paid. The standard is intended to benefit investors by providing more detailed income tax disclosures that would be useful in making capital allocation decisions. The standard will be effective for public companies for fiscal years beginning after December 15, 2024. Early adoption is permitted. We are currently evaluating the impact of this accounting standard update on our consolidated financial statements.
+
+ 
+
+4. RECAPITALIZATION
+
+ 
+
+As discussed in Note 1, “Organization and Business Operations”, the Business Combination was consummated on December 21, 2023, which, for accounting purposes, was treated as the equivalent of Global Hydrogen issuing stock for the net assets of Dune, accompanied by recapitalization. Under this method of accounting, Dune was treated as the acquired company for financial accounting and reporting purposes under GAAP.
+
+ 
+
+10
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+Transaction Proceeds
+
+ 
+
+Upon closing of the Business Combination, the Company received gross proceeds of $4.4 million from the Business Combination, offset by total transaction costs and other fees totaling of $3.2 million. The following table reconciles the elements of the Business Combination to the consolidated statements of cash flows and the consolidated statement of changes in stockholders’ equity for the period ended December 31, 2023:
+
+ 
+
+Cash-trust and cash, net of redemptions                                                                                  $   4,447,404 
+
+Less: transaction costs, loans and advisory fees, paid                                                                        (614,040)
+
+Less: fees paid in connection with the forward purchase agreement                                                           (2,608,141)
+
+Net proceeds from the Business Combination                                                                                   1,225,223 
+
+Less: Derivative warrant liabilities                                                                                          (539,000)
+
+Less: liabilities assumed                                                                                                   (1,155,075)
+
+Less: others, net                                                                                                               21,858 
+
+Reverse recapitalization, net                                                                                            $    (446,994)
+
+ 
+
+The number of shares of Common Stock issued immediately following the consummation of the Business Combination were:
+
+ 
+
+Dune Class A common stock, outstanding prior to the Business Combination                                                     5,494,554 
+
+Less: Redemption of Dune Class A common stock                                                                                 (747,518)
+
+Business Combination shares                                                                                                  4,747,036 
+
+Global Hydrogen shares, Class B                                                                                                681,220 
+
+PIPE investor shares, Class A                                                                                                4,300,000 
+
+Common Stock immediately after the Business Combination                                                                      9,728,256 
+
+ 
+
+The number of Global Hydrogen shares was determined as follows:
+
+ 
+
+                                                                                                           Global          Global     
+
+                                                                                                           Hydrogen       Hydrogen
+
+                                                                                                            units       Shares after
+
+                                                                                                                         conversion
+
+                                                                                                                           ratio
+
+Class B Common Stock                                                                                           12,500      4,300,000 
+
+ 
+
+Redemption
+
+ 
+
+Prior to the closing of the Business Combination, certain Dune public shareholders exercised their right to redeem certain of their outstanding shares for cash, resulting in the redemption of 747,518 shares of Dune Class A common stock for an aggregate payment of $7,507,825.
+
+ 
+
+Public and private placement warrants
+
+ 
+
+The 8,625,000 Public Warrants issued in the IPO the (“Public Placement Warrants) and 4,850,000 warrants issued in connection with private placement at the time of the IPO (the “Private Placement Warrants”) remained outstanding and became warrants of the Company (see Note 7).
+
+ 
+
+5. ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+
+ 
+
+The following table summarizes other accrued expenses:
+
+ 
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+Accounting and Consulting                                                                               $      30,000  $      34,505 
+
+Legal Fees                                                                                                     39,038         35,000 
+
+Transaction costs(1)                                                                                          112,561      1,016,707 
+
+Other                                                                                                           1,400              - 
+
+                                                                                                        $     182,999  $   1,086,212 
+
+ 
+
+(1)  Accounts payable and accrued expenses assumed in business combination
+
+ 
+
+11
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+6. RELATED PARTY TRANSACTIONS
+
+ 
+
+Advances – Related party
+
+ 
+
+From February 16, 2023 (inception) to December 31, 2023, a member advanced the Company a total of $852 to cover start-up and other operating costs. These amounts are due on demand. At March 31, 2024 and December 31, 2023, the balance of $2,352 of advances – related party includes $852 of start-up and other expenses and $1,500 of reimbursable expenses to an affiliate as discussed below.
+
+ 
+
+Accounts payable - related party
+
+ 
+
+Commencing on the date that the Dune’s securities were first listed on Nasdaq and ending on the consummation of Dune’s Business Combination, Dune was obligated to pay the Sponsor a total of $10,000 per month for office space, secretarial and administrative services provided to members of the Company’s management team. As of March 31, 2024 and December 31, 2023, the Company had $110,000 outstanding for these services in connection with such agreement due to related parties within Accounts payable – related party on the accompanying consolidated balance sheets.
+
+ 
+
+Prior to the consummation of the Business Combination, Dune agreed to reimburse its Sponsor, officers and directors, or any of their respective affiliates for any out-of-pocket expenses incurred in connection with activities on its behalf such as identifying potential target businesses and performing due diligence on suitable business combinations. As of March 31, 2024 and December 31, 2023, there was $14,867 included in accounts payable – related party and $1,500 included in due to a related party on the accompanying consolidated balance sheet related to reimbursement of such expenses.
+
+ 
+
+Promissory Note – Related Party
+
+ 
+
+On June 21, 2023, the Company entered into an unsecured promissory note (the “Note”) with an affiliate pursuant to which the affiliate agreed to loan the Company up to an aggregate principal amount of $250,000 for working capital purposes and to pay expenses related to the Business Combination. The Note is non-interest bearing and was payable on the earlier of the Closing Date or December 31, 2023. The Note is not convertible. As of March 31, 2024 and December 31, 2023, there were $103,950 outstanding under the Note. On the Closing Date, the Company and affiliate amended the Note to (i) defer the maturity date of the Note to June 30, 2024 and (ii) limit the principal amount available under the Note to $103,950. All other terms and conditions of the Note remain unchanged.
+
+ 
+
+On June 21, 2023, the Company issued an unsecured promissory note (the “Sponsor Note”) to the Sponsor, which provided for borrowings from time to time of up to an aggregate of $300,000 that was allowed to be drawn by the Company and used for working capital purposes and to pay expenses related to the Business Combination. The Sponsor Note does not bear interest and was payable on the earlier of December 31, 2023 and the Closing Date. The Sponsor Note is subject to customary events of default, the occurrence of any of which automatically triggers the unpaid principal balance of the Sponsor Note and all other sums payable with regard to the Sponsor Note to become immediately due and payable. As of March 31, 2024 and December 31, 2023, the Company had borrowed $170,000 under the Sponsor Note. On the Closing Date, the Company and affiliate amended the Sponsor Note to (i) defer the maturity date of the Sponsor Note to June 30, 2024 and (ii) limit the principal amount available under the Sponsor Note to $170,000. All other terms and conditions of the Sponsor Note remain unchanged.
+
+ 
+
+Employment Agreement Amendment
+
+ 
+
+On March 4, 2024, Global Hydrogen entered into an employment agreement amendment (the “Employment Agreement Amendment”) with William Bennet Nance, Jr., the Chief Executive Officer and Founder of Global Hydrogen and a director of the Company. Pursuant to the Employment Agreement Amendment, Mr. Nance’s compensation was restructured to entitle him to contingent payments (“Gross Profit Payments”) equal to 15% of the Gross Profit (as defined in the Employment Agreement Amendment) of the Company, determined in accordance with U.S. generally accepted accounting principles, up to a maximum amount of $250,000 on an annualized basis, less applicable taxes and withholdings, in lieu of the base salary he had previously been entitled to. The Employment Agreement Amendment also made conforming changes to Mr. Nance’s employment agreement, such that (i) the change in his compensation structure effected by the Employment Agreement Amendment shall not constitute “good reason” for Mr. Nance to terminate his employment with Global Hydrogen, other subsidiaries of the Company or the Company itself, and (ii) if Mr. Nance’s employment is terminated by him for good reason, or by the Company without cause (and not due to death or disability), Mr. Nance shall be entitled to consideration updated to include any earned but unpaid Gross Profit Payments through the date of termination. The Employment Agreement Amendment also shortened the restricted period during which certain non-competition and non-solicitation provisions of Mr. Nance’s original employment agreement shall remain in effect.
+
+ 
+
+12
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+7. STOCKHOLDERS’ EQUITY
+
+ 
+
+Preferred Stock – The Company is authorized to issue 1,000,000 shares of preferred stock, par value $0.0001 per share, with such designations, voting and other rights and preferences as may be determined from time to time by the Board. As of March 31, 2024 and December 31, 2023, there were no shares of preferred stock issued and outstanding.
+
+ 
+
+Class A Common Stock – The Company is authorized to issue 380,000,000 shares of Class A common stock with a par value of $0.0001 per share. As of March 31, 2024 and December 31, 2023, there were 5,428,256 Class A common stock issued and outstanding.
+
+ 
+
+Class B Common Stock – The Company is authorized to issue 20,000,000 shares of Class B common stock with a par value of $0.0001 per share. As of March 31, 2024 and December 31, 2023, there were 2,700,000 and 4,300,000 shares of Class B common stock issued and outstanding, respectively.
+
+ 
+
+Voting Rights
+
+ 
+
+The holders of the Company’s Common Stock possess all voting power for the election of our directors and all other matters requiring stockholder action and will at all times vote together as one class on all matters submitted to a vote of the stockholders of the Company. Holders of the Company’s Common Stock is entitled to one vote per share on matters to be voted on by stockholders and have the right to cumulate votes in the election of directors. 
+
+ 
+
+Dividend Rights
+
+ 
+
+The holders of the Company’s Class A Common Stock are entitled to receive such dividends and other distributions as declared by the Board, equally on a per share basis. Dividends will not be declared or paid on the Company’s Class B Common Stock and the holders of shares of the Company’s Class B Common Stock shall have no right to receive dividends in respect of such shares of the Company’s Class B Common Stock.
+
+ 
+
+Liquidation, Dissolution and Winding Up
+
+ 
+
+In the event of any voluntary or involuntary liquidation, dissolution or winding-up of the Company, after payment or provision for payment of the debts and other liabilities of the Company, and subject to the rights of the holders of shares of the Company’s preferred stock in respect thereof, the holders of shares of the Company’s Class A Common Stock will be entitled to receive all of the remaining assets of the Company available for distribution to its stockholders, ratably in proportion to the number of shares of the Company’s Class A Common Stock held by them. The holders of shares of the Class B Common Stock, as such, will not be entitled to receive any assets of the Company’s in the event of any voluntary or involuntary liquidation, dissolution or winding up of the affairs of the Company.
+
+ 
+
+Warrants
+
+ 
+
+As part of the IPO, Dune issued warrants to third party investors where each whole warrant entitles the holder to purchase one share of Class A common stock at a price of $11.50 per share. Simultaneously with the closing of the IPO, Dune completed the private placement of 4,850,000 private placement warrants at a price of $1.00 per private placement warrant which allows the holder to purchase one share of the Company’s Class A common stock at a price of $11.50 per share. At March 31, 2024 and December 31, 2023, there were 8,625,000 Public Warrants and 4,850,000 Private Placement warrants outstanding.
+
+ 
+
+These warrants expire on the fifth anniversary of the Business Combination or earlier upon redemption or liquidation and are exercisable commencing 30 days after the Business Combination, provided that the Company has an effective registration statement under the Securities Act covering the shares of common stock issuable upon exercise of the warrants and a current prospectus relating to them is available (or the Company permits holders to exercise their warrants on a cashless basis under the circumstances specified in the warrant agreement) and registered, qualified or exempt from registration under the securities, or blue sky, laws of the state of residence of the holder.
+
+  
+
+Forward Purchase Agreement
+
+ 
+
+As discussed in Note 1, in connection with the Business Combination, on December 1, 2023, Dune and Global Hydrogen entered into a forward purchase agreement (the “Forward Purchase Agreement”) with each of (i) Meteora Strategic Capital, LLC (“MSC”), (ii) Meteora Capital Partners, LP (“MCP”) and (iii) Meteora Select Trading Opportunities Master, LP (“MSTO” and, collectively with MSC and MCP, the “Seller”) for an OTC Equity Prepaid Forward Transaction. For purposes of the Forward Purchase Agreement, Dune is referred to as the “Counterparty” prior to the consummation of the Business Combination, while Global Gas Corporation is referred to as the “Counterparty” after the consummation of the Business Combination. Capitalized terms used herein but not otherwise defined shall have the meanings ascribed to such terms in the Forward Purchase Agreement.
+
+ 
+
+13
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+The Company accounts for the forward purchase agreement for as a derivative in accordance with Accounting Standards Codification (“ASC”) 815, “Derivatives and Hedging”, and presented in equity at March 31, 2024 and December 31, 2023 on the consolidated balance sheet.
+
+ 
+
+On February 5, 2024, the Company and the Seller entered into an amendment to the Forward Purchase Agreement (the “Amendment”). The Amendment amends the section of the Forward Purchase Agreement regarding a Prepayment Shortfall by providing that the Company has the option, at its sole discretion, at any time up to 45 days prior to the Valuation Date, to request up to $5 million in Prepayment Shortfall via twenty separate written requests to Seller in the amount of $250,000 each (each, an “Additional Shortfall Request”), provided that at the time of any Additional Shortfall Request (i) Seller has recovered 110% of the prior Additional Shortfall Request, if any, via Shortfall Sales and (ii) the VWAP Price over the five trading days prior to such Additional Shortfall Request multiplied by the then current Number of Shares less Shortfall Sale Shares held by Seller is at least 2.625 times greater than such Additional Shortfall Request. In addition, the Amendment amends the section of the Forward Purchase Agreement regarding Prepayment Shortfall Consideration by eliminating the 180-day period following a Trade Date before Seller may commence selling Recycled Shares and by permitting such sales without payment by Seller of any Early Termination Obligation until such time as the proceeds from such sales equal 110% (instead of 100% as originally provided in the Forward Purchase Agreement) of the Prepayment Shortfall. Finally, the Amendment amends the section of the Forward Purchase Agreement regarding Share Consideration by amending the holding period to equal the earlier of (i) Seller recovering 110% of the first Additional Shortfall Request and (ii) the three-month anniversary of the Business Combination (as defined in the Forward Purchase Agreement) (instead of just a three-month holding period). 
+
+ 
+
+Pursuant to the terms of the Forward Purchase Agreement, the Seller intended, but was not obligated, to purchase up to 950,000 shares minus the Share Consideration Shares (as defined below) (the “Maximum Number of Shares”) of Class A common stock, par value $0.0001 per share, of Dune (“Dune Class A Common Stock”) substantially concurrently with the closing of the Business Combination, less the number of shares of Dune Class A Common Stock purchased by Seller separately from third parties through a broker in the open market (“Recycled Shares”) prior to the closing of the Business Combination. Seller shall not be required to purchase an amount of Dune Class A Common Stock such that following such purchase, the Seller’s ownership would exceed 9.9% of the total Dune Class A Common Stock outstanding immediately after giving effect to such purchase, unless Seller, at its sole discretion, waives such 9.9% ownership limitation. The Number of Shares subject to the Forward Purchase Agreement is subject to reduction following a termination of the Forward Purchase Agreement with respect to such shares of Dune Class A Common Stock as described under “Optional Early Termination” in the Forward Purchase Agreement. Seller intended to purchase Dune Class A Common Stock pursuant to its FPA Funding Amount PIPE Subscription Agreement (as defined below) and from third parties (other than Counterparty) through a broker in the open market (other than through Counterparty).
+
+ 
+
+The Forward Purchase Agreement provides that Seller would be paid directly an aggregate cash amount (the “Prepayment Amount”) equal to the product of (i) the Number of Shares as set forth in each Pricing Date Notice and (ii) the redemption price per share (the “Initial Price”) as defined in Section 9.2(a) of Dune’s Amended and Restated Charter, less (iii) an amount in US dollars equal to 0.5% of the product of the Recycled Shares and the Initial Price paid by Seller to Counterparty on the Prepayment Date (which amount shall be netted from the Prepayment Amount) (the “Prepayment Shortfall”).
+
+ 
+
+The Counterparty would pay to Seller the Prepayment Amount required under the Forward Purchase Agreement directly from the Counterparty’s trust account maintained by Continental Stock Transfer & Trust Company holding the net proceeds of the sale of the units in the Counterparty’s initial public offering and the sale of private placement warrants (the “Trust Account”) no later than the earlier of (a) one business day after the date of the Business Combination closing (the “Closing Date”) and (b) the date any assets from the Trust Account are disbursed in connection with the Business Combination, except that to the extent the Prepayment Amount payable to a Seller is to be paid from the purchase of Additional Shares by such Seller pursuant to the terms of its FPA Funding Amount PIPE Subscription Agreement, such amount will be netted against such proceeds, with such Seller being able to reduce the purchase price for the Additional Shares by the Prepayment Amount. For the avoidance of doubt, any Additional Shares purchased by a Seller will be included in the Number of Shares for its respective Forward Purchase Agreement for all purposes, including for determining the Prepayment Amount.
+
+ 
+
+In addition to the Prepayment Amount, the Counterparty will pay directly from the Trust Account, on the Prepayment Date, an amount equal to the product of (x) up to 80,000 (with such final amount to be determined by Seller in its sole discretion via written notice to Counterparty) and (y) the Initial Price. The Shares purchased with the Share Consideration (the “Share Consideration Shares”) will be incremental to the Maximum Number of Shares, will not be included in the Number of Shares in the Transaction and will be subject to a three-month holding period.
+
+ 
+
+14
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+The reset price (the “Reset Price”) will be $10.00; provided, however, that the Reset Price will be reduced immediately to any lower price at which the Counterparty sells, issues or grants any Dune Class A Common Stock or securities convertible or exchangeable into Dune Class A Common Stock (excluding any secondary transfers) (a “Dilutive Offering”), then the Reset Price shall be modified to equal such reduced price as of such date (subject to certain customary exceptions).
+
+ 
+
+From time to time and on any date following the Trade Date (any such date, an “OET Date”), Seller may, in its absolute discretion, terminate its Forward Purchase Agreement in whole or in part by providing written notice to the Counterparty (the “OET Notice”), by the later of (a) the fifth business day following the OET Date and (b) no later than the next Payment Date following the OET Date (which shall specify the quantity by which the Number of Shares shall be reduced (such quantity, the “Terminated Shares”)); provided that “Terminated Shares” includes only such quantity of Shares by which the Number of Shares is to be reduced and included in an OET Notice and does not include any other Share sales, Shortfall Sale Shares or sales of Shares that are designated as Shortfall Sales (which designation can be made only up to the amount of Shortfall Sale proceeds), any Share Consideration sales or any other Shares, whether or not sold, which shares will not be included in any OET Notice when calculating the number of Terminated Shares. The effect of an OET Notice shall be to reduce the Number of Shares by the number of Terminated Shares specified in such OET Notice with effect as of the related OET Date. As of each OET Date, the Counterparty shall be entitled to an amount from the Seller, and the Seller shall pay to the Counterparty an amount, equal to the product of (x) the number of Terminated Shares and (y) the Reset Price in respect of such OET Date, except that no such amount will be due to Counterparty upon any Shortfall Sale. The payment date may be changed within a quarter at the mutual agreement of the parties.
+
+ 
+
+From time to time and on any date following the Trade Date (any such date, a “Shortfall Sale Date”) Seller may, in its absolute discretion, at any sales price, sell Shortfall Sale Shares, and in connection with such sales, Seller shall provide written notice to Counterparty (the “Shortfall Sale Notice”) no later than the later of (a) the fifth business day following the Shortfall Sale Date and (b) the first Payment Date after the Shortfall Sale Date, specifying the quantity of the Shortfall Sale Shares and the allocation of the Shortfall Sale proceeds. Seller shall not have any Early Termination Obligation in connection with any Shortfall Sales. The Counterparty covenants and agrees for a period of at least sixty (60) business days (commencing on the Prepayment Date or if an earlier Registration Request is submitted by Seller on the Registration Statement Effective Date) not to issue, sell or offer or agree to sell any Shares, or securities or debt that is convertible, exercisable or exchangeable into Shares, including under any existing or future equity line of credit, until the Shortfall Sales equal the Prepayment Shortfall; provided, however, that the Forward Purchase Agreement does not prohibit the issuance of any securities issued, assumed or issuable in connection with the Business Combination.
+
+ 
+
+Unless and until the proceeds from Shortfall Sales equal 100% of the Prepayment Shortfall, in the event that the product of (x) the difference between (i) the number of Shares as specified in the Pricing Date Notice(s), less (ii) any Shortfall Sale Shares as of such measurement time, multiplied by (y) the VWAP Price, is less than (z) the difference between (i) the Prepayment Shortfall, less (ii) the proceeds from Shortfall Sales as of such measurement time (the “Shortfall Variance”), then the Counterparty, as liquidated damages in respect of such Shortfall Variance, at its option shall within five (5) business days either:
+
+ 
+
+     (A)  pay in cash an amount equal to the Shortfall Variance; or
+
+ 
+
+     (B)  issue and deliver to Seller such number of additional Shares that are equal to (1) the Shortfall Variance, divided by (2) 90%
+
+           of the VWAP Price (the “Shortfall Variance
+
+           Shares”).
+
+ 
+
+The Forward Purchase Agreement matures on, and the “Valuation Date” will be, the earliest to occur of (a) three (3) years after of the Closing Date, (b) the date specified by a Seller in a written notice to be delivered to the Counterparty at a Seller’s discretion (which Valuation Date shall not be earlier than the day such notice is effective) after the occurrence of any of (v) a Shortfall Variance Registration Failure, (w) a VWAP Trigger Event, (x) a Delisting Event, (y) a Registration Failure or (z) unless otherwise specified therein, upon any Additional Termination Event, and (c) the date specified by Seller in a written notice to be delivered to Counterparty at Seller’s sole discretion (which Valuation Date shall not be earlier than the day such notice is effective).
+
+ 
+
+15
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+On the Cash Settlement Payment Date, which is the tenth business day following the last day of the Valuation Period commencing on the Valuation Date, a Seller shall pay the Counterparty a cash amount equal to either: (1) in the event that the Valuation Date is determined by clause (c) of the Valuation Date definition, a cash amount equal to (A) the Number of Shares as of the Valuation Date, multiplied by (B) the closing price per share of the Dune Class A Common Stock on the business day immediately preceding the Valuation Date, or (2) (A) the Number of Shares as of the Valuation Date less the number of Unregistered Shares, multiplied by (B) the volume-weighted daily VWAP Price over the Valuation Period. The Settlement Amount Adjustment is equal to (1) the Maximum Number of Shares as of the Valuation Date multiplied by (2) $1.50 per share, and the Settlement Amount Adjustment will be automatically netted from the Settlement Amount. If the Settlement Amount Adjustment exceeds the Settlement Amount, the Counterparty will pay the Seller in Dune Class A Common Stock or, at the Counterparty’s election, in cash.
+
+ 
+
+Seller has agreed to waive any redemption rights under the Amended and Restated Charter with respect to any Dune Class A Common Stock purchased through the FPA Funding Amount PIPE Subscription Agreement and any Recycled Shares in connection with the Business Combination. Such waiver may reduce the number of Dune Class A Common Stock redeemed in connection with the Business Combination, and such reduction could alter the perception of the potential strength of the Business Combination. The Forward Purchase Agreement has been structured, and all activity in connection with such agreement has been undertaken, to comply with the requirements of all tender offer regulations applicable to the Business Combination, including Rule 14e-5 under the Securities Exchange Act of 1934, as amended. Seller cannot tender any shares in any public tender offer for a period of eight months after the Closing Date.
+
+ 
+
+On December 1, 2023, Dune entered into a subscription agreement (the “FPA Funding Amount PIPE Subscription Agreement”) with the Seller. Pursuant to the FPA Funding Amount PIPE Subscription Agreement, the Seller party thereto agreed to subscribe for and purchase, and Dune agreed to issue and sell to the Seller, on the Closing Date, an aggregate number of shares of Dune Class A Common Stock equal to the Maximum Number of Shares less the Recycled Shares in connection with the Forward Purchase Agreement (subject to the 9.9% ownership limitation described above).
+
+ 
+
+Forfeiture Agreements
+
+ 
+
+On March 4, 2024, the Company entered into the Forfeiture Agreements with certain holders of the Company’s Class B common stock. Pursuant to the Forfeiture Agreements, such holders forfeited an aggregate of 1,600,000 shares (the “Forfeited Shares”) in exchange for consideration previously received. After the Forfeitures pursuant to the Forfeiture Agreements, the Sellers continue to hold an aggregate of 2,700,000 shares of the Company’s Class B common stock.
+
+ 
+
+8. FAIR VALUE MEASUREMENTS
+
+ 
+
+We account for certain assets and liabilities at fair value and classify these assets and liabilities within the fair value hierarchy (Level 1, Level 2, or Level 3).
+
+ 
+
+Assets, Liabilities and Equity subject to fair value measurements are as follows:
+
+ 
+
+                                                                                            As of March 31, 2024                       
+
+                                                                          Level 1        Level 2        Level 3         Total     
+
+                                                                                                                                  
+
+Liabilities                                                                                                                       
+
+Derivative warrant liabilities – public                                      345,860              -              -        345,860 
+
+Derivative warrant liabilities – private placement                           194,490              -              -        194,490 
+
+Total liabilities                                                      $     540,350  $           -  $           -  $     540,350 
+
+ 
+
+16
+
+ 
+
+ 
+
+GLOBAL GAS CORPORATION
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+                                                                                           As of December 31, 2023                     
+
+                                                                          Level 1        Level 2         Level 3         Total     
+
+Assets                                                                                                                             
+
+Marketable Securities                                                  $   1,120,966              -  $           -  $   1,120,966 
+
+                                                                                                                                  
+
+Liabilities                                                                                                                       
+
+Derivative warrant liabilities – public                                      276,000              -              -        276,000 
+
+Derivative warrant liabilities – private placement                           155,200              -              -        155,200 
+
+Total liabilities                                                      $     431,200  $           -  $           -  $     431,200 
+
+ 
+
+Warrant liabilities
+
+ 
+
+The public warrants are separately listed and traded in an active market, the public warrants have been measured at fair value utilizing their listed trading price. The estimated fair value of private placement warrants as of March 31, 2024 and December 31, 2023 was based on the fair value of the public warrants.
+
+ 
+
+For the three months ended March 31, 2024, the Company recognized an expense from an increase in the fair value of liabilities of approximately $109,150 presented as a change in fair value of derivative warrant liabilities in the accompanying condensed consolidated statements of operations.
+
+ 
+
+9. COMMITMENTS AND CONTINGENCIES
+
+ 
+
+Litigation
+
+ 
+
+In the normal course of business, the Company may become involved in various lawsuits and legal proceedings. While the ultimate results of these matters cannot be predicted with certainty, management does not expect them to have a material adverse effect on the financial position or results of operations of the Company.
+
+ 
+
+10. SUBSEQUENT EVENTS
+
+ 
+
+Subsequent events have been evaluated through May 13, 2024, which represents the date the condensed consolidated financial statements were available to be issued, and no events have occurred through that date that would impact the condensed consolidated financial statements.
+
+ 
+
+17
+
+ 
+
+  
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+ 
+
+The following “Management’s Discussion and Analysis of Financial Condition and Results of Operations” should be read in conjunction with our unaudited condensed consolidated financial statements for the three months ended March 31, 2024 and 2023, our audited consolidated financial statements as of the year ended December 31, 2023, and other information included elsewhere in this report. This discussion includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). We have based these forward-looking statements on our current expectations and projections about future events. These forward-looking statements are subject to known and unknown risks, uncertainties and assumptions about us that may cause our actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by such forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “may,” “should,” “could,” “would,” “expect,” “plan,” “anticipate,” “believe,” “estimate,” “continue,” or the negative of such terms or other similar expressions. Such statements include, but are not limited to, possible business combinations and the financing thereof, and related matters, as well as all other statements other than statements of historical fact included herein. Factors that might cause or contribute to such a discrepancy include, but are not limited to, those described in our other Securities and Exchange Commission (“SEC”) filings.
+
+ 
+
+Unless the context otherwise requires, references in this “Management’s Discussion and Analysis of Financial Condition and Results of Operations” to “we,” “us,” “our” and “the Company” generally refer to Global Hydrogen in in the present tense or Global Gas from and after the Business Combination.
+
+ 
+
+Cautionary Note Regarding Forward-Looking Statements
+
+ 
+
+This report contains certain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (the “PSLRA”). Forward-looking statements may be identified by the use of words such as “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “possible,” “potential,” “predict,” “project,” “should,” “would,” “will,” “shall,” “seek,” “result,” “become,” “target” or other similar expressions that predict or indicate future events or trends or that are not statements of historical matters, but the absence of these words does not mean a statement is not forward looking. Indications of, and guidance or outlook on, future earnings, dividends or financial position or performance are also forward looking statements. These forward-looking statements include, but are not limited to: (1) references with respect to the anticipated benefits of the proposed Business Combination and anticipated closing timing; (2) the anticipated capitalization and enterprise value of the combined company following the consummation of the proposed Business Combination; (3) current and future potential commercial and customer relationships; and (4) anticipated demand for Global Gas’ product and service offerings.
+
+ 
+
+These forward-looking statements involve significant risks and uncertainties that could cause the actual results to differ materially, and potentially adversely, from those expressed or implied in the forward-looking statements. Forward-looking statements are predictions, projections and other statements about future events that are based on current expectations and assumptions and, as a result, are subject to risks and uncertainties. Most of these factors are outside the Company’s control and are difficult to predict. Factors that may cause such differences include, but are not limited to: (i)  risks relating to the uncertainty of the projected financial information with respect to Global Hydrogen; (ii) the impact of the COVID-19 pandemic on Global Hydrogen’s business; (iii) the inability to maintain the listing of the Company’s shares on The Nasdaq Capital Market (“Nasdaq”); (iv) the ability to recognize the anticipated benefits of the Business Combination, which may be affected by, among other things, competition, the ability of Global Hydrogen to grow and manage growth profitably, sell and expand its product and service offerings, implement its growth strategy and retain its key employees; (v) risks relating to Global Hydrogen’s operations and business, including the combined company’s ability to raise financing, hire employees, secure supplier, customer and other commercial contracts, obtain licenses and information technology and protect itself against cybersecurity risks; (vi) intense competition and competitive pressures from other companies worldwide in the industries in which the combined company will operate; (vii) litigation and the ability to adequately protect the combined company’s intellectual property rights; (viii) costs related to the Business Combination; (ix) changes in applicable laws or regulations; and (x) the possibility that Global Hydrogen may be adversely affected by other economic, business and/or competitive factors.
+
+ 
+
+These forward-looking statements should not be relied upon as representing the Company’s assessments as of any date subsequent to the date of this report. Accordingly, undue reliance should not be placed upon the forward-looking statements.
+
+ 
+
+18
+
+ 
+
+ 
+
+Global Gas Corporation is a nascent pure-play hydrogen and carbon recovery project developer and industrial gas supplier that has commenced initial operations and is building a growing project development pipeline. Potential projects are added to the project development pipeline only after Global Hydrogen has met with the potential customer, discussed the scope of the project and discussed the project’s feasibility, preliminary sizing and design. Since its inception, Global Hydrogen has worked to establish relationships in the form of channel checks with non-exclusive independent equipment suppliers and discussions with vendors, but the Company has not yet generated any revenue or reached final terms with any paying customers or suppliers. As we expand our operations, we intend to offer potential customers reliable, low-carbon and clean hydrogen, pure carbon dioxide, and other gases generated from a variety of feedstocks. We intend for our operations to include (i) the sourcing, identification, evaluation and vetting of offtake customers seeking to purchase industrial gases, (ii) the securing of local feedstocks, equipment, and utilities, (iii) the planning and management of projects and (iv) the structuring and financing of our projects. We intend to offer our customers attractive pricing as we select and secure local, often waste, feedstock, and plan to deploy established industrial gas generation, storage, compression, and dispensing technologies in our projects. On each planned project, we seek to sell multiple gas products, sourced from a single feedstock, for offtake to customers. We also intend to utilize and bring to market secondary offtake products such as oxygen. Global Hydrogen is currently a minority-owned business and we are targeting both privately- and publicly-funded hydrogen development and selected carbon recovery projects, including projects supported by local, county, state, and national-level governments in North America, Western Europe, and Great Britain.
+
+ 
+
+In selecting feedstock to generate industrial gases, we will primarily target renewable waste and will need to seek arrangements with owners of renewable waste feedstock, such as wastewater treatment plants, landfills, food waste processing facilities, and agricultural farms, to access their renewable waste feedstock. In addition to generating industrial gases from renewable waste feedstock, we plan to generate gases from non-renewable sources including pipeline natural gas. We will need to seek arrangement with owners of such non-renewable feedstock. On projects where a non-renewable, or high greenhouse gas output, energy source is used, as well as on selected other projects where such technology is required to produce clean hydrogen, we may deploy carbon recovery technology — more commonly known as carbon capture technology. 
+
+ 
+
+On the hydrogen side, we serve traditional industrial gas customers, and are particularly focused on plans to serve the rapidly growing hydrogen-as-energy-carrier market, comprising heavy duty hauling transportation operators such as transit bus agencies, long haul truck fleet operators, truck leasing operators, and refuse collection truck operators, many of whom are considering deploying hydrogen fuel cell powertrain vehicles to decarbonize their fleets which currently runs almost exclusively on diesel. On the carbon dioxide side, we target both traditional industrial users of the gas, including food & beverage grade users such as brewers and beverage bottlers requiring carbonation, as well as emerging users such as the producers of green building materials.
+
+ 
+
+Our growth strategy is based on developing our ability to place modular generation, recovery, storage, and dispensing solutions in closer geographic proximity to our end customers — onsite in many cases — and our ability to produce and sell multiple outputs from a single feedstock input. We hope that these plans, if successfully carried out, will allow us to produce clean hydrogen and carbon dioxide at a net cost normally seen only in larger scale plants and which supports competitive market prices for our end products. Additionally, governments at all levels in North America and Western Europe have and are deploying substantial incentives to mitigate the impact of climate change and to decarbonize their economies. We believe we are well-placed to benefit as a developer of projects eligible for several of these incentives, such as the hydrogen tax production credits and the investment tax credits made available in the United States through the Inflation Reduction Act of 2022.
+
+ 
+
+Global Gas has not yet generated any revenue and anticipates generating revenue from the sale of systems and equipment to customers in 2023 or 2024. Global Hydrogen management actively reviews its project development pipeline and activity with potential customers. Potential projects are added to the project development pipeline only after Global Hydrogen has met with the potential customer, discussed the scope of the project and discussed the project’s feasibility, preliminary sizing and design. Management has determined that its projections are reasonable based on its review and status of its potential projects. Global Hydrogen has not yet successfully closed on any project, and recently Global Hydrogen’s projections were revised to reflect the loss of an originally-forecast systems and equipment project which was expected to close in the third quarter of 2023.
+
+ 
+
+19
+
+ 
+
+ 
+
+Global Hydrogen is headquartered in New York, New York and its corporate website is globalhydrogen.co. Global Hydrogen’s website and the information contained on, or that can be accessed through, such website is not deemed to be incorporated by reference in, and is not considered part of, this proxy statement.
+
+ 
+
+While Global Hydrogen does not have significant past operating history, Global Hydrogen’s management is aware that the future operating results and future financial condition of Global Hydrogen may be different than our past operating results and financial condition. Major factors that will have a material impact on future financial results and condition include whether Global Hydrogen will be able to sign contracts with customers and suppliers necessary to undertake the business plan. Even if such contracts are signed, our business plan is complex and there are many factors which could impact our operating results and financial condition including delays in projects, volatility in the price of our raw materials and products, and volatility in the demand for our services and products.
+
+ 
+
+Recent Developments
+
+ 
+
+Recent events impacting our business are as follows:
+
+ 
+
+Business Combination
+
+ 
+
+On May 14, 2023, the Company, entered into a Unit Purchase Agreement (the “Purchase Agreement”), by and among Global Gas Holdings LLC, a Delaware limited liability company and a direct, wholly owned subsidiary of Dune (“Holdings”), Dune Acquisition Corporation, a Delaware corporation (“Dune”).
+
+ 
+
+In accordance with the terms and subject to the conditions of the Purchase Agreement, at the closing of the Business Combination (the “Closing”), (a) Dune will contribute to Holdings all of its assets (excluding its interests in Holdings and the aggregate amount of cash proceeds required to satisfy any redemptions by Dune’s public stockholders (“Dune Stockholder Redemptions”)), and in exchange therefore, Holdings will issue to Dune a number of common equity units of Holdings (“Holdings Common Units”) which will equal the number of total shares of Dune’s Class A common stock, par value $0.0001 per share (“Dune Class A Common Stock”), issued and outstanding immediately after the Closing (taking into account any equity financing agreements entered into by Dune between the signing date of the Purchase Agreement and the Closing and giving effect to all Dune Stockholder Redemptions) (such transactions, the “SPAC Contribution”) and (b) immediately after the SPAC Contribution, the members of the Company will transfer, convey, assign and deliver all of the limited liability company equity interests of the Company (“Company Units”) to Holdings in exchange for shares of Dune’s Class B voting non-economic common stock, par value $0.0001 per share (“Dune Class B Common Stock” and, together with Dune Class A Common Stock, “Dune Common Stock”), and Holdings Common Units (together with the SPAC Contribution, the “Combination Transactions”), as a result of which, (i) each issued and outstanding Company Unit immediately prior to the Combination Transactions will be held by Holdings, (ii) each Seller will receive an aggregate number of Holdings Common Units and shares of Dune Class B Common Stock equal to the number of Company Units held by such Seller, multiplied by the Company Exchange Ratio (as defined below), and (iii) Dune will change its name to Global Gas Corporation (“New Global Hydrogen”) and New Global Hydrogen will be the publicly traded reporting company in an “Up-C” Structure (clauses (i) through (iii) collectively, and together with the Combination Transactions and the other transactions contemplated by the Purchase Agreement, being referred to collectively hereafter as the “Transactions”). 
+
+  
+
+On December 21, 2023 (the “Closing “), the Business Combination was consummated. In connection with the closing of such Business Combination, the Company changed its name to Global Gas Corporation, and on December 22, 2023, the Company’s Class A Common Stock (as defined below) and warrants began trading on The Nasdaq Capital Market (“Nasdaq”) under the new trading symbols of “HGAS” and “HGASW,” respectively.
+
+ 
+
+20
+
+ 
+
+ 
+
+In accordance with the terms and subject to the conditions of the Purchase Agreement and the other transactions contemplated thereby (the “Business Combination”), at the closing of the Business Combination on December 21, 2023, (a) Dune contributed to Holdings all of its assets (excluding its interests in Holdings and the aggregate amount of cash proceeds required to satisfy redemptions by Dune’s public stockholders (“Stockholder Redemptions”)), and in exchange therefore, Holdings issued to Dune a number of common equity units of Holdings (“Holdings Common Units”) which equal the number of total shares of Class A common stock, par value $0.0001 per share (“Class A Common Stock”), of Dune issued and outstanding immediately after the Closing (giving effect to all Stockholder Redemptions) (such transactions, the “SPAC Contribution”) and (b) immediately after the SPAC Contribution, the Sellers transferred, conveyed, assigned and delivered all of the limited liability company equity interests of Global Hydrogen (“Global Hydrogen Units”) to Holdings in exchange for shares of Class B voting non-economic common stock, par value $0.0001 per share (“Class B Common Stock”), of Dune and Holdings Common Units (together with the SPAC Contribution, the “Combination Transactions”), as a result of which, (i) each issued and outstanding Global Hydrogen Unit immediately prior to the Combination Transactions is now held by Holdings, (ii) each Seller received an aggregate number of Holdings Common Units and shares of Class B Common Stock, in each case, equal to the number of Global Hydrogen Units held by such Seller, multiplied by the applicable exchange ratio, and (iii) Dune changed its name to Global Gas Corporation and the Company became the publicly traded reporting company. The effective time of the Business Combination on the Closing Date is referred to as the “Effective Time.”
+
+ 
+
+The Business Combination was accomplished through what is commonly referred to as an “Up-C” structure, which is often used by partnerships and limited liability companies undertaking an initial public offering. The “Up-C” structure allowed the Sellers, who became equity holders of Holdings upon the consummation of the Combination Transactions, to retain their equity ownership in Holdings, an entity that is classified as a partnership for United States federal income tax purposes, in the form of Holdings Common Units after the Closing, and provides potential future tax benefits for both the Company and Holdings’ equity holders (other than the Company) after the Closing when they ultimately exchange their Holdings Common Units.
+
+ 
+
+In accordance with the terms and subject to the conditions of the Purchase Agreement, at the Closing, the issued and outstanding Global Hydrogen Units of each Seller were transferred, conveyed, assigned and delivered in exchange for (i) a number of shares of Class B Common Stock equal to the product of (x) the number of Global Hydrogen Units held by such Seller and (y) the exchange ratio determined by dividing (A) the quotient of $43,000,000 divided by the number of Global Hydrogen Units issued and outstanding immediately prior to the Closing by (B) $10.00 per share and (ii) a number of Holdings Common Units equal to the number of shares of Class B Common Stock received by such Seller pursuant to clause (i) hereof.
+
+ 
+
+The Business Combination was accounted for as a reverse recapitalization in accordance with GAAP. Under this method of accounting, although Dune acquired all of the outstanding equity interests of Global Hydrogen in the Business Combination, Dune was treated as the “acquired” company and Global Hydrogen was treated as the accounting acquirer for financial statement reporting purposes. Accordingly, the Business Combination was treated as the equivalent of Global Hydrogen issuing stock for the net assets of Dune, accompanied by a recapitalization. The net assets of Dune were stated at historical cost, with no goodwill or other intangible assets recorded. Operations prior to the Business Combination were those of Global Hydrogen. 
+
+ 
+
+Employment Agreement
+
+ 
+
+On March 4, 2024, Global Hydrogen entered into an employment agreement amendment (the “Employment Agreement Amendment”) with William Bennet Nance, Jr. Pursuant to the Employment Agreement Amendment, Mr. Nance’s compensation was restructured to entitle him to contingent payments (“Gross Profit Payments”) equal to 15% of the Gross Profit (as defined in the Employment Agreement Amendment) of the Company, determined in accordance with U.S. generally accepted accounting principles, up to a maximum amount of $250,000 on an annualized basis, less applicable taxes and withholdings, in lieu of the base salary he had previously been entitled to. The Employment Agreement Amendment also made conforming changes to Mr. Nance’s employment agreement, such that (i) the change in his compensation structure effected by the Employment Agreement Amendment shall not constitute “good reason” for Mr. Nance to terminate his employment with Global Hydrogen, other subsidiaries of the Company or the Company itself, and (ii) if Mr. Nance’s employment is terminated by him for good reason, or by the Company without cause (and not due to death or disability), Mr. Nance shall be entitled to consideration updated to include any earned but unpaid Gross Profit Payments through the date of termination. The Employment Agreement Amendment also shortened the restricted period during which certain non-competition and non-solicitation provisions of Mr. Nance’s original employment agreement shall remain in effect.
+
+ 
+
+21
+
+ 
+
+ 
+
+Forfeiture Agreements
+
+ 
+
+Also on March 4, 2024, the Company entered into Forfeiture Agreements” with certain holders of the Company’s Class B common stock, including Mr. Nance. Pursuant to the Forfeiture Agreements, such holders forfeited an aggregate of 1,600,000 Forfeited Shares in exchange for consideration previously received. After the forfeitures of the Forfeited Shares pursuant to the Forfeiture Agreements, such holders continue to hold an aggregate of 2,700,000 shares of the Company’s Class B common stock.
+
+ 
+
+Results of Operations
+
+ 
+
+As of March 31, 2024, the Company has not generated any revenue. As of March 31, 2024, the Company’s expenses have been related to initial operations and efforts to source materials for future projects and to undertake conversations with potential customers.
+
+ 
+
+The following table sets forth our condensed consolidated statement of operations for the three months ended March 31, 2024 and the period from February 16, 2023 (inception) to March 31, 2023, and the dollar and percentage change between the two periods:
+
+ 
+
+                                                                        For the     For the Period                                
+
+                                                                         Three            from
+
+                                                                         Months      February 16, 
+
+                                                                         Ended           2023
+
+                                                                       March 31,    (inception) to 
+
+                                                                                       March 31,
+
+                                                                         2024            2023          $ Change       % Change    
+
+Costs and expenses:                                                                                                               
+
+General and administrative                                           $      77,159  $           42  $      77,117         183612%
+
+Start up costs                                                                   0             574           (574)          (100%)
+
+Total costs and expenses                                                    77,159             616         76,543          12426%
+
+Operating loss                                                             (77,159)           (616)       (76,543)         12426%
+
+                                                                                                                                 
+
+Other income (expense):                                                                                                          
+
+Interest income                                                              7,566               -          7,566            NM* 
+
+Change in fair value of warrants liabilities                              (109,150)              -       (109,150)           NM* 
+
+Loss before income taxes                                                  (178,743)           (616)      (178,127)        183612%
+
+Income tax expense                                                               -               -              -              - 
+
+Net (loss) income                                                    $    (178,743) $         (616) $    (178,127)         28917%
+
+ 
+
+ 
+
+ NM*   - Percentage change not meaningful
+
+ 
+
+General and administrative expenses
+
+ 
+
+General and administrative expenses increased by $77,117 for the three months ended March 31, 2024 compared to the period from February 16, 2023 (inception) to March 31, 2023, primarily related to franchise tax expense, legal fees and listing fees.
+
+ 
+
+Start-up costs
+
+ 
+
+Start-up cost of $574 was incurred at inception of the Company for the period from February 16, 2023 (inception) to March 31, 2023.
+
+ 
+
+Interest income
+
+ 
+
+For the three months ended March 31, 2024, the Company earned $7,566 of interest income on marketable securities.
+
+ 
+
+Change in fair value of warrants liabilities
+
+ 
+
+The change in fair value of warrant liabilities of $109,150 is recognized into expense for the three months ended March 31, 2024.
+
+ 
+
+22
+
+ 
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+Since inception, the Company’s primary sources of liquidity have been cash flows from contributions from a member and a related party. The Company had $286,522 in cash, a working capital deficit of $248,063, and an accumulated deficit of $478,919 as of March 31, 2024.
+
+ 
+
+The Company intends to operate with its current cash on hand. In the future, the Company may borrow money and sell equity to finance its operations. As the Company has a limited operating history, its liquidity and capital resources may change substantially from past results.
+
+ 
+
+The Company’s future capital requirements will depend on many factors, including the Company’s revenue growth rate, the timing and extent of spending to support further sales and marketing and research and development efforts. In order to finance these opportunities, the Company will need to raise additional financing. While there can be no assurances, the Company intends to raise such capital through issuances of additional equity raises. If additional financing is required from outside sources, the Company may not be able to raise it on terms acceptable to the Company or at all. If the Company is unable to raise additional capital when desired, the Company’s business, results of operations and financial condition would be materially and adversely affected.
+
+ 
+
+As a result of the above, in connection with the Company’s assessment of going concern considerations in accordance with Financial Accounting Standard Board’s (“FASB”) ASC Subtopic 205-40, “Going Concern,” management has determined that the Company’s liquidity condition raises substantial doubt about the Company’s ability to continue as a going concern through twelve months from the date these consolidated financial statements are available to be issued. These consolidated financial statements do not include any adjustments relating to the recovery of the recorded assets or the classification of the liabilities that might be necessary should the Company be unable to continue as a going concern.
+
+ 
+
+Cash flows for the three months ended March 31, 2024 and the period from February 16, 2023 (inception) to December 31, 2023.
+
+ 
+
+The following table summarizes cash flows from operating, investing and financing activities for the three months ended March 31, 2024 and the period from February 16, 2023 (inception) to March 31, 2023:
+
+ 
+
+                                                                                                       For the three      For the     
+
+                                                                                                        months ended    period from
+
+                                                                                                            March       February 16,
+
+                                                                                                             31,            2023
+
+                                                                                                            2024         (inception)
+
+                                                                                                                             to
+
+                                                                                                                         March 31,
+
+                                                                                                                            2023
+
+Net cash used in operating activities                                                                  $  (1,029,372) $         (574)
+
+Net cash provided by investing activities                                                              $   1,128,532  $            - 
+
+Net cash provided by financing activities                                                              $     125,000  $       13,074 
+
+ 
+
+Cash flows from operating activities
+
+ 
+
+Net cash used in operating activities for the three months ended March 31, 2024 was $1,029,372, primarily related to the net loss for the period and decrease in accounts payable and accrued expenses.
+
+ 
+
+Net cash used in operating activities for the period from February 16, 2023 (inception) to March 31, 2023 was $574, primarily related to the net loss for the period.
+
+ 
+
+Cash flows from investing activities
+
+ 
+
+Net cash provided by investing activities during the three months ended March 31, 2024 was $1,128,532 related to proceeds from redemption of marketable securities partially offset by purchase of marketable securities.
+
+ 
+
+Cash flows from financing activities
+
+ 
+
+Net cash provided by financing activities during the three months ended March 31, 2024 was $125,000, consisting of the proceeds received from forward purchase agreement contract.
+
+ 
+
+Net cash provided by financing activities during the period from February 16, 2023 (inception) to March 31, 2023 was $13,074, consisting primarily of capital contribution from members.
+
+ 
+
+23
+
+ 
+
+ 
+
+Critical Accounting Estimates
+
+ 
+
+The preparation of our consolidated financial statements in conformity with GAAP requires management to make judgments, estimates and assumptions that impact the amounts reported in our consolidated financial statements and accompanying notes that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered relevant. Actual results may differ from these estimates.
+
+ 
+
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognized in the period in which the estimate is revised, if the revision affects only that period, or in the period of the revision and future periods, if the revision affects both current and future periods.
+
+ 
+
+A summary of our significant accounting policies is included in Note 3, “Summary of significant accounting policies” to the accompanying unaudited condensed consolidated financial statements. Certain of our accounting policies are considered critical, as these policies require significant, difficult or complex judgments by management, often requiring the use of estimates about the effects of matters that are inherently uncertain. Our critical policies are summarized in Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023.
+
+ 
+
+Fair Value Measurement 
+
+ 
+
+We determine the fair value of financial assets and liabilities using the fair value hierarchy established in Accounting Standards Codification (“ASC”) Topic 820, Fair Value Measurement (“ASC 820”). ASC 820 identifies fair value as the exchange price, or exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. The hierarchy describes three levels of inputs that may be used to measure fair value, as follows:
+
+ 
+
+     ●    Level 1: Inputs are quoted prices in active markets for identical assets or liabilities.
+
+           
+
+     ●    Level 2: Inputs include quoted prices for similar assets or liabilities in active markets, quoted prices for identical or
+
+           similar assets or liabilities in markets that are not active, and inputs (other than quoted prices) that are observable for
+
+           the asset or liability, either directly or
+
+           indirectly.
+
+           
+
+     ●    Level 3: Inputs are unobservable for the asset or liability.
+
+ 
+
+Management uses valuation techniques in measuring the fair value of financial instruments, where active market quotes are not available.
+
+ 
+
+Warrants
+
+ 
+
+The Company reviews the terms of warrants to purchase its common stock to determine whether warrants should be classified as liabilities or stockholders’ deficit in its condensed consolidated balance sheets. In order for a warrant to be classified in stockholders’ deficit, the warrant must be (i) indexed to the Company’s equity and (ii) meet the conditions for equity classification.
+
+ 
+
+If a warrant does not meet the conditions for stockholders’ deficit classification, it is carried on the condensed consolidated balance sheets as a warrant liability measured at fair value, with subsequent changes in the fair value of the warrant recorded in other non-operating losses (gains) in the condensed consolidated statements of operations. If a warrant meets both conditions for equity classification, the warrant is initially recorded, at its relative fair value on the date of issuance, in stockholders’ deficit in the consolidated balance sheets, and the amount initially recorded is not subsequently remeasured at fair value.
+
+ 
+
+24
+
+ 
+
+ 
+
+Business Combinations
+
+ 
+
+The Company evaluates whether acquired net assets should be accounted for as a business combination or an asset acquisition by first applying a screen test to determine whether substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or group of similar identifiable assets. If so, the transaction is accounted for as an asset acquisition. If not, the Company applies its judgement to determine whether the acquired net assets meets the definition of a business by considering if the set includes an acquired input, process, and the ability to create outputs.
+
+ 
+
+The Company accounts for business combinations using the acquisition method when it has obtained control. The Company measures goodwill as the fair value of the consideration transferred including the fair value of any non-controlling interest recognized, less the net recognized amount of the identifiable assets acquired and liabilities assumed, all measured at their fair value as of the acquisition date. Transaction costs, other than those associated with the issuance of debt or equity securities, that the Company incurs in connection with a business combination are expensed as incurred.
+
+ 
+
+Any contingent consideration (“Earnout liabilities”) is measured at fair value at the acquisition date. For contingent consideration that does not meet all the criteria for equity classification, such contingent consideration is required to be recorded at its initial fair value at the acquisition date, and on each balance sheet date thereafter. Changes in the estimated fair value of liability-classified contingent consideration are recognized on the consolidated statements of operations in the period of change.
+
+ 
+
+When the initial accounting for a business combination has not been finalized by the end of the reporting period in which the transaction occurs, the Company reports provisional amounts. Provisional amounts are adjusted during the measurement period, which does not exceed one year from the acquisition date. These adjustments, or recognition of additional assets or liabilities, reflect new information obtained about facts and circumstances that existed at the acquisition date that, if known, would have affected the amounts recognized at that date.
+
+ 
+
+Income taxes
+
+ 
+
+The Company follows the asset and liability method of accounting for income taxes under FASB ASC 740, which requires an asset and liability approach to financial accounting and reporting for income taxes. Deferred tax assets and liabilities are recognized for the estimated future tax consequences attributable to differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that included the enactment date. Valuation allowances are established, when necessary, to reduce deferred tax assets to the amount expected to be realized.
+
+ 
+
+FASB ASC 740 prescribes a recognition threshold and a measurement attribute for the financial statement recognition and the measurement of tax positions taken or expected to be taken in a tax return. For those benefits to be recognized, a tax position must be more likely than not to be sustained upon examination by taxing authorities. The Company recognizes accrued interest and penalties related to unrecognized tax benefits as income tax expense. The Company is currently not aware of any issues under review that could result in significant payments, accruals or material deviation from its position. The Company is subject to income tax examinations by major taxing authorities since inception.
+
+ 
+
+New Accounting Pronouncements
+
+ 
+
+Recently Issued Accounting Standards
+
+ 
+
+The Company is expected to be an “emerging growth company” as defined in Section 2(a) of the Securities Act of 1933, as amended, (the “Securities Act”), as modified by the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”). The JOBS Act provides that an emerging growth company can take advantage of an extended transition period for complying with new or revised accounting standards. Thus, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. The Company has elected to take advantage of the extended transition period to comply with new or revised accounting standards and to adopt certain of the reduced disclosure requirements available to emerging growth companies. As a result of the accounting standards election, the Company will not be subject to the same implementation timeline for new or revised accounting standards as other public companies that are not emerging growth companies which may make comparison of the Company’s consolidated condensed financial statements to those of other public companies more difficult.
+
+ 
+
+25
+
+ 
+
+ 
+
+For the impact of recently issued accounting pronouncements on the Company’s unaudited condensed consolidated financial statements, see Note 3 to the unaudited condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q and incorporated herein by reference.
+
+ 
+
+Intellectual Property
+
+ 
+
+Global Hydrogen does not currently hold material intellectual property beyond certain logos and domain names assigned to the Company by William Bennett Nance, Jr.
+
+ 
+
+Government Regulation
+
+ 
+
+Global Hydrogen plans to own and operate hydrogen generation plants and to sell the resulting industrial gas. In many jurisdictions, hydrogen, oxygen, and other gases we will produce and sell, may be classified as fuel or controlled substances, and as such we may be required to obtain relevant licensing to produce, store, and sell such substances. We intend to acquire such licenses on a project by project and jurisdiction by jurisdiction basis.
+
+ 
+
+Some of these gas generation plants we build or own may be in jurisdictions where CO2 emissions are subject to government regulation. When we produce hydrogen thermochemically, we will typically deploy carbon recovery systems to significantly reduce — below relevant jurisdictional limits — or eliminate the CO2 emissions which otherwise would be released to the atmosphere.
+
+ 
+
+The construction of facilities that produce hydrogen will require compliance with government regulation, including local zoning and permitting requirements, such requirements will depend on the jurisdiction of each project.
+
+ 
+
+The distribution of hydrogen, carbon dioxide, and oxygen will require compliance with certain regulatory federal and state regimes and will depend on the relevant jurisdictions.
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+ 
+
+Not required for smaller reporting companies.
+
+ 
+
+Item 4. Controls and Procedures.
+
+ 
+
+Inherent Limitations on Effectiveness of Controls and Procedures
+
+ 
+
+In designing and evaluating our disclosure controls and procedures, management recognizes that any disclosure controls and procedures or internal controls and procedures, no matter how well-conceived and operated, can provide only reasonable, not absolute, assurance of achieving the desired objectives of the control system. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+We maintain “disclosure controls and procedures,” as defined in Rules 13a-15I and 15d-15(e) under the Securities Exchange Act of 1934, as amended, or the Exchange Act, that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to the Company’s management, including its chief executive officer and chief financial officer, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+
+ 
+
+Our management, with the participation of our chief executive officer and our chief financial officer, evaluated the effectiveness of our disclosure controls and procedures as of March 31, 2024. Based on the evaluation of our disclosure controls and procedures as of March 31, 2024, our chief executive officer and chief financial officer concluded that, as of such date, our disclosure controls and procedures were effective at the reasonable assurance level.
+
+ 
+
+26
+
+ 
+
+ 
+
+PART II - OTHER INFORMATION
+
+ 
+
+Item 1. Legal Proceedings.
+
+ 
+
+We do not consider any claims, lawsuits, or proceedings that are currently pending against Global Gas, individually or in the aggregate, to be material to our business or likely to result in a material adverse effect on our future operating results, financial condition, or cash flows. From time to time, we may be subject to various claims, lawsuits, and other legal and administrative proceedings that may arise in the ordinary course of business. Some of these claims, lawsuits, and other proceedings may range in complexity and result in substantial uncertainty; it is possible that they may result in damages, fines, penalties, non-monetary sanctions, or relief.
+
+ 
+
+Item 5. Other Information
+
+ 
+
+During the quarter ended March 31, 2024, (i) no director or officer adopted or terminated any “Rule 10b5-1 trading arrangement,” as defined in Item 408(a) of Regulation S-K intending to satisfy the affirmative defense conditions of Rule 10b5–1(c) nor “non-Rule 10b5-1 trading arrangement,” as defined in Item 408(a) of Regulation S-K; and (ii) the Company did not adopt or terminate any Rule 10b5-1 trading arrangement..
+
+ 
+
+Item 6. Exhibits
+
+ 
+
+The following exhibits are filed as part of, or incorporated by reference into, this Report.
+
+ 
+
+Exhibit No.  Description
+
+              
+
+31.1         Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+              
+
+31.2         Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+              
+
+32           Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+              
+
+101          Financial statements from the Quarterly Report on Form 10-Q of Global Gas Corporation Inc. for the quarter ended March
+
+              31, 2024, formatted in XBRL: (i) Condensed Consolidated Balance Sheets, (ii) Condensed Consolidated Statements of
+
+              Operations, (iii) Condensed Consolidated Statement of Changes in Stockholders’ Equity, (iv) Condensed Consolidated
+
+              Statement of Cash Flows and (v) Notes to Unaudited Condensed Consolidated Financial Statements, as blocks of text and in
+
+              detail.
+
+              
+
+101.INS      Inline XBRL Instance Document
+
+              
+
+101.SCH      Inline XBRL Taxonomy Extension Schema Document
+
+              
+
+101.CAL      Inline XBRL Taxonomy Extension Calculation Linkbase Document
+
+              
+
+101.DEF      Inline XBRL Taxonomy Extension Definition Linkbase Document
+
+              
+
+101.LAB      Inline XBRL Taxonomy Extension Label Linkbase Document
+
+              
+
+101.PRE      Inline XBRL Taxonomy Extension Presentation Linkbase Document
+
+              
+
+104          Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+27
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of Section 13 or 15 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized on the 13 day of May, 2024.
+
+ 
+
+                                                                                 GLOBAL GAS CORPORATION
+
+                                                                                       
+
+May 13, 2024                                                                     By:  /s/ William Bennett Nance, Jr.
+
+                                                                                      William Bennett Nance, Jr.
+
+                                                                                      Chief Executive Officer, Secretary and Director
+
+                                                                                       
+
+ May 13, 2024                                                                    By:  /s/ Shachi Shah
+
+                                                                                      Shachi Shah.
+
+                                                                                      Chief Financial Officer
+
+ 
+
+ 
+
+28
+
+ 
+
+--12-31 5428256 0.02 3825275 4300000 0.00 0.02 false Q1 0001817232 0001817232 2024-01-01 2024-03-31 0001817232 hgas:ClassACommonStockParValue00001PerShareMember 2024-01-01 2024-03-31 0001817232 hgas:WarrantsEachWholeWarrantExercisableForOneShareOfClassACommonStockEachAtAnExercisePriceOf1150PerShareMember 2024-01-01 2024-03-31 0001817232 us-gaap:CommonClassAMember 2024-05-13 0001817232 us-gaap:CommonClassBMember 2024-05-13 0001817232 2024-03-31 0001817232 2023-12-31 0001817232 us-gaap:RelatedPartyMember 2024-03-31 0001817232 us-gaap:RelatedPartyMember 2023-12-31 0001817232 us-gaap:CommonClassAMember 2024-03-31 0001817232 us-gaap:CommonClassAMember 2023-12-31 0001817232 us-gaap:CommonClassBMember 2024-03-31 0001817232 us-gaap:CommonClassBMember 2023-12-31 0001817232 2023-02-16 2023-03-31 0001817232 us-gaap:CommonClassAMember 2024-01-01 2024-03-31 0001817232 us-gaap:CommonClassAMember 2023-02-16 2023-03-31 0001817232 us-gaap:CommonClassBMember 2024-01-01 2024-03-31 0001817232 us-gaap:CommonClassBMember 2023-02-16 2023-03-31 0001817232 us-gaap:CommonClassAMember us-gaap:CommonStockMember 2023-12-31 0001817232 us-gaap:CommonClassBMember us-gaap:CommonStockMember 2023-12-31 0001817232 hgas:SubscriptionReceivableMember 2023-12-31 0001817232 us-gaap:AdditionalPaidInCapitalMember 2023-12-31 0001817232 us-gaap:RetainedEarningsMember 2023-12-31 0001817232 us-gaap:CommonClassAMember us-gaap:CommonStockMember 2024-01-01 2024-03-31 0001817232 us-gaap:CommonClassBMember us-gaap:CommonStockMember 2024-01-01 2024-03-31 0001817232 hgas:SubscriptionReceivableMember 2024-01-01 2024-03-31 0001817232 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-03-31 0001817232 us-gaap:RetainedEarningsMember 2024-01-01 2024-03-31 0001817232 us-gaap:CommonClassAMember us-gaap:CommonStockMember 2024-03-31 0001817232 us-gaap:CommonClassBMember us-gaap:CommonStockMember 2024-03-31 0001817232 hgas:SubscriptionReceivableMember 2024-03-31 0001817232 us-gaap:AdditionalPaidInCapitalMember 2024-03-31 0001817232 us-gaap:RetainedEarningsMember 2024-03-31 0001817232 hgas:MembersContributionMember 2023-02-16 0001817232 us-gaap:CommonClassAMember us-gaap:CommonStockMember 2023-02-16 0001817232 us-gaap:CommonClassBMember us-gaap:CommonStockMember 2023-02-16 0001817232 us-gaap:AdditionalPaidInCapitalMember 2023-02-16 0001817232 us-gaap:RetainedEarningsMember 2023-02-16 0001817232 2023-02-16 0001817232 hgas:MembersContributionMember 2023-02-17 2023-03-31 0001817232 us-gaap:CommonClassAMember us-gaap:CommonStockMember 2023-02-17 2023-03-31 0001817232 us-gaap:CommonClassBMember us-gaap:CommonStockMember 2023-02-17 2023-03-31 0001817232 us-gaap:AdditionalPaidInCapitalMember 2023-02-17 2023-03-31 0001817232 us-gaap:RetainedEarningsMember 2023-02-17 2023-03-31 0001817232 2023-02-17 2023-03-31 0001817232 hgas:MembersContributionMember 2023-03-31 0001817232 us-gaap:CommonClassAMember us-gaap:CommonStockMember 2023-03-31 0001817232 us-gaap:CommonClassBMember us-gaap:CommonStockMember 2023-03-31 0001817232 us-gaap:AdditionalPaidInCapitalMember 2023-03-31 0001817232 us-gaap:RetainedEarningsMember 2023-03-31 0001817232 2023-03-31 0001817232 2023-02-15 0001817232 hgas:BusinessCombinationMember us-gaap:CommonClassAMember 2024-03-31 0001817232 hgas:BusinessCombinationMember us-gaap:CommonClassBMember 2024-03-31 0001817232 hgas:GlobalHydrogenMember 2024-03-31 0001817232 hgas:ForwardPurchaseAgreementMember us-gaap:CommonClassAMember 2024-01-01 2024-03-31 0001817232 hgas:PurchaseAgreementMember us-gaap:CommonClassAMember 2024-01-01 2024-03-31 0001817232 us-gaap:CommonClassAMember hgas:PIPEMember 2024-01-01 2024-03-31 0001817232 us-gaap:CommonClassBMember 2024-03-04 2024-03-04 0001817232 us-gaap:CommonClassBMember 2024-03-04 0001817232 us-gaap:CashEquivalentsMember 2024-03-31 0001817232 us-gaap:CashEquivalentsMember 2023-12-31 0001817232 2024-05-31 0001817232 hgas:TransactionProceedsMember 2024-01-01 2024-03-31 0001817232 hgas:TransactionProceedsMember 2024-03-31 0001817232 hgas:PublicWarrantsMember 2024-03-31 0001817232 hgas:PrivatePlacementWarrantsMember 2024-03-31 0001817232 2023-02-16 2023-12-31 0001817232 hgas:GlobalHydrogenSharesClassBMember 2024-03-31 0001817232 hgas:PIPEInvestorSharesClassAMember 2024-03-31 0001817232 hgas:GlobalHydrogenUnitsMember us-gaap:CommonClassBMember 2024-01-01 2024-03-31 0001817232 hgas:GlobalHydrogenSharesAfterConversionRatioMember us-gaap:CommonClassBMember 2024-01-01 2024-03-31 0001817232 us-gaap:RelatedPartyMember 2024-03-31 0001817232 2023-06-21 2023-06-21 0001817232 2023-06-21 0001817232 hgas:SponsorMember 2024-03-31 0001817232 2024-03-04 2024-03-04 0001817232 us-gaap:RelatedPartyMember 2023-12-31 0001817232 us-gaap:CommonClassAMember us-gaap:IPOMember 2024-03-31 0001817232 hgas:PrivatePlacementWarrantsMember 2023-12-31 0001817232 2024-02-05 2024-02-05 0001817232 hgas:PurchaseAgreementMember 2024-02-05 2024-02-05 0001817232 hgas:FPAFundingAmountPIPESubscriptionAgreementMember 2023-12-01 0001817232 us-gaap:FairValueInputsLevel1Member hgas:PublicMember 2024-03-31 0001817232 us-gaap:FairValueInputsLevel2Member hgas:PublicMember 2024-03-31 0001817232 us-gaap:FairValueInputsLevel3Member hgas:PublicMember 2024-03-31 0001817232 hgas:PublicMember 2024-03-31 0001817232 us-gaap:FairValueInputsLevel1Member us-gaap:PrivatePlacementMember 2024-03-31 0001817232 us-gaap:FairValueInputsLevel2Member us-gaap:PrivatePlacementMember 2024-03-31 0001817232 us-gaap:FairValueInputsLevel3Member us-gaap:PrivatePlacementMember 2024-03-31 0001817232 us-gaap:PrivatePlacementMember 2024-03-31 0001817232 us-gaap:FairValueInputsLevel1Member 2024-03-31 0001817232 us-gaap:FairValueInputsLevel2Member 2024-03-31 0001817232 us-gaap:FairValueInputsLevel3Member 2024-03-31 0001817232 us-gaap:FairValueInputsLevel1Member 2023-12-31 0001817232 us-gaap:FairValueInputsLevel2Member 2023-12-31 0001817232 us-gaap:FairValueInputsLevel3Member 2023-12-31 0001817232 us-gaap:FairValueInputsLevel1Member hgas:PublicMember 2023-12-31 0001817232 us-gaap:FairValueInputsLevel2Member hgas:PublicMember 2023-12-31 0001817232 us-gaap:FairValueInputsLevel3Member hgas:PublicMember 2023-12-31 0001817232 hgas:PublicMember 2023-12-31 0001817232 us-gaap:FairValueInputsLevel1Member us-gaap:PrivatePlacementMember 2023-12-31 0001817232 us-gaap:FairValueInputsLevel2Member us-gaap:PrivatePlacementMember 2023-12-31 0001817232 us-gaap:FairValueInputsLevel3Member us-gaap:PrivatePlacementMember 2023-12-31 0001817232 us-gaap:PrivatePlacementMember 2023-12-31 xbrli:shares iso4217:USD iso4217:USD xbrli:shares xbrli:pure

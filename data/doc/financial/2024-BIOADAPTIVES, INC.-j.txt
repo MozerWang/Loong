@@ -1,0 +1,1771 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+Form 10-Q
+
+ 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024
+
+ 
+
+Commission File Number 000-54949
+
+ 
+
+  
+
+
+
+ 
+
+                         BioAdaptives Inc.
+
+       (Exact name of registrant as specified in its charter)
+
+  
+
+                      Delaware                                                      46-2592228
+
+          (State or other jurisdiction of                               (IRS Employer Identification No.)
+
+           incorporation or organization)                                                
+
+                                                                                         
+
+    2620 Regatta Drive, Suite 102, Las Vegas, NV                                      89128
+
+      (Address of principal executive offices)                                      (Zip Code)
+
+   
+
+(702) 659-8829
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+N/A
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+
+☒ Yes     ☐ NO
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). ☒ Yes     ☐ NO
+
+ 
+
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non- accelerated filer, or a small reporting company. See the definitions of “large accelerated filer”, “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+ 
+
+Large accelerated filer           ☐                      Accelerated filer                 ☐
+
+Non-Accelerated filer             ☒                      Smaller reporting Company         ☒
+
+Emerging Growth Company           ☐                                                         
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act)  ☐YES     ☒ NO
+
+ 
+
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+
+ 
+
+1,174,774,530 common shares issued and outstanding as of May 17th, 2024.
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+Form 10-Q
+
+ 
+
+Table of Contents
+
+ 
+
+PART I – FINANCIAL INFORMATION                                                                                                        
+
+Item 1.Financial Statements                                                                                                         3 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of operations                                      14 
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk                                                                 20 
+
+Item 4. Controls and Procedures                                                                                                    20 
+
+                                                                                                                                      
+
+PART II – OTHER INFORMATION                                                                                                        22 
+
+Item 1. Legal Proceedings                                                                                                          22 
+
+Item 1A. Risk Factors                                                                                                              22 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds                                                                23 
+
+Item 3. Defaults Upon Senior Securities                                                                                            23 
+
+Item 4. Mine Safety Disclosure                                                                                                     23 
+
+Item 5. Other Information                                                                                                          23 
+
+Item 6. Exhibits                                                                                                                   24 
+
+Signature                                                                                                                          25 
+
+ 
+
+ 
+
+                                                                   2
+
+
+
+Table of Contents
+
+ 
+
+BIOADAPTIVES, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(UNAUDITED)
+
+ 
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+                                                                                                                                     
+
+                                                ASSETS                                                                               
+
+Current Assets:                                                                                                                      
+
+Cash                                                                                                    $      19,595  $      60,776 
+
+Inventory                                                                                                      18,572         15,281 
+
+Security deposit                                                                                                2,500          2,500 
+
+Prepaid expense                                                                                                     -         10,000 
+
+Total Current Assets                                                                                           40,667         88,557 
+
+                                                                                                                                     
+
+License and patent, net                                                                                        18,000         15,441 
+
+TOTAL ASSETS                                                                                            $      58,667  $     103,998 
+
+                                                                                                                                     
+
+                                 LIABILITIES AND STOCKHOLDERS' DEFICIT                                                               
+
+Current Liabilities:                                                                                                                 
+
+Accounts payable and accrued liabilities                                                                      450,986        443,579 
+
+Derivative liabilities                                                                                      1,084,801        977,872 
+
+Current portion of convertible notes - net of discount of $8,387 and $52,592                                  314,103        321,658 
+
+Note payable - related party                                                                                    6,660          7,520 
+
+Total Current Liabilities                                                                                   1,856,550      1,750,629 
+
+                                                                                                                                     
+
+Total Liabilities                                                                                           1,856,550      1,750,629 
+
+                                                                                                                                     
+
+Stockholders' Deficit:                                                                                                               
+
+Preferred stock, ($0.0001 par value, 10,000,000 shares authorized;                                                                   
+
+Series A Preferred Stock 4,000,000 shares designated; 3,350,000 and 2,850,000 issued and outstanding              335            285 
+
+ as of March 31,2024 and December 31, 2023
+
+  respectively
+
+Series B Preferred Stock 5,000,000 shares designated; 2,900,000 and 2,250,000 share issued and                    290            225 
+
+ outstanding as of March 31,2024 and December 31, 2023,
+
+ respectively
+
+Common stock ($0.0001 par value, 1,250,000,000 shares authorized; 1,154,770,641 and 895,760,225 shares        115,477         89,576 
+
+ issued and outstanding as of March 31,2024 and December 31, 2023, and 10,000 issuable,
+
+ respectively)
+
+Additional paid-in capital                                                                                  6,656,867      6,527,428 
+
+Accumulated deficit                                                                                        (8,570,852)    (8,264,145)
+
+Total Stockholders' Deficit                                                                                (1,797,883)    (1,646,631)
+
+TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT                                                             $      58,667  $     103,998 
+
+ 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+
+ 
+
+ 
+
+                                                                   3
+
+
+
+Table of Contents
+
+ 
+
+BIOADAPTIVES, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+ (UNAUDITED)
+
+ 
+
+                                                                                                       Three months period ended      
+
+                                                                                                               March 31,              
+
+                                                                                                         2024              2023       
+
+                                                                                                                                      
+
+Revenues                                                                                           $        11,994  $         3,376 
+
+Cost of revenue                                                                                              8,393            1,396 
+
+Gross Profit                                                                                                 3,601            1,980 
+
+                                                                                                                                    
+
+Operating Expenses                                                                                                                  
+
+General and administrative                                                                                  31,672           12,036 
+
+Professional fees                                                                                           19,820            8,250 
+
+Amortization of license and patent                                                                           1,941              669 
+
+Total Operating Expenses                                                                                    53,433           20,955 
+
+                                                                                                                                    
+
+Loss from operations                                                                                       (49,832)         (18,975)
+
+                                                                                                                                    
+
+Other Income (Expense)                                                                                                              
+
+Unrealized gain (loss) on marketable securities                                                                  -              (10)
+
+Interest expense                                                                                           (54,615)         (51,063)
+
+Change in fair value of derivative liabilities                                                            (202,260)        (217,139)
+
+Loss on settlement of debt                                                                                       -                - 
+
+Total Other Expense                                                                                       (256,875)        (268,212)
+
+                                                                                                                                    
+
+Loss before income taxes                                                                                  (306,707)        (287,187)
+
+                                                                                                                                    
+
+Net Loss                                                                                           $      (306,707) $      (287,187)
+
+                                                                                                                                    
+
+Net Loss Per Common Share:                                                                                                          
+
+Basic and Diluted                                                                                  $         (0.00) $         (0.00)
+
+                                                                                                                                    
+
+Weighted Average Number of Common Shares Outstanding:                                                                               
+
+Basic and Diluted                                                                                      980,260,314      267,434,761 
+
+ 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+
+ 
+
+ 
+
+                                                                   4
+
+
+
+Table of Contents
+
+ 
+
+BIOADAPTIVES, INC.
+
+CONSOLIDATED STATEMENT OF STOCKHOLDERS’ DEFICIT
+
+For the Three months ended March 31, 2024, and 2023
+
+ (UNAUDITED)
+
+ 
+
+                                                                                                 Additional                                    
+
+               Series A Preferred       Series B Preferred             Common stock             paid-in       Accumulated                   
+
+                      stock                    stock
+
+                Shares       Amount       Shares       Amount         Shares          Amount       capital         Deficit           Total     
+
+                                                                                                                                               
+
+Balance,        2,850,000  $     285     2,250,000  $     225        895,760,225  $   89,576  $  6,527,428  $    (8,264,145) $ (1,646,631)
+
+ December
+
+ 31,
+
+ 2023
+
+                                                                                                                                          
+
+Series A          500,000         50             -          -                  -           -         1,450                -         1,500 
+
+ preferred
+
+ stock
+
+ issued for
+
+ license
+
+ fee
+
+Series B                -          -       500,000         50                  -           -         2,950                -         3,000 
+
+ preferred
+
+ stock
+
+ issued for
+
+ license
+
+ fee
+
+Series B                -          -       150,000         15                  -           -         1,485                -         1,500 
+
+ preferred
+
+ stock
+
+ issued for
+
+ settlement
+
+ of
+
+ debt
+
+Common                  -          -             -          -        259,010,416      25,901       123,554                -       149,455 
+
+ stock
+
+ issued for
+
+ conversion
+
+ of
+
+ debt
+
+Net loss                -          -             -          -                  -           -             -         (306,707)     (306,707)
+
+ for the
+
+ period
+
+Balance,        3,350,000  $     335     2,900,000  $     290      1,154,770,641  $  115,477  $  6,656,867  $    (8,570,852) $ (1,797,883)
+
+ March 31,
+
+ 2024
+
+ 
+
+                                                                                  Additional                                    
+
+                          Series A Preferred stock           Common stock             paid-in       Accumulated                   
+
+                            Shares        Amount        Shares         Amount       capital         Deficit           Total     
+
+                                                                                                                                
+
+Balance, December 31,       1,600,000  $      160      252,554,765  $  25,255  $  6,074,763  $    (7,551,679) $ (1,451,501)
+
+ 2022
+
+                                                                                                                           
+
+Common stock issued for             -           -      132,382,517     13,239        94,797                -       108,036 
+
+ conversion of
+
+ debt
+
+Debts forgiveness -                 -           -                -          -             -                -             - 
+
+ related
+
+ party
+
+Net loss for the period             -           -                -          -             -         (287,187)     (287,187)
+
+Balance, March 31, 2023     1,600,000  $      160      384,937,282  $  38,494  $  6,169,560  $    (7,838,866) $ (1,630,652)
+
+ 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+
+ 
+
+ 
+
+                                                                   5
+
+
+
+Table of Contents
+
+ 
+
+BIOADAPTIVES, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOW
+
+ (UNAUDITED)
+
+ 
+
+                                                                                                              Three months ended       
+
+                                                                                                                  March 31,            
+
+                                                                                                            2024           2023      
+
+CASH FLOWS FROM OPERATING ACTIVITIES                                                                                                 
+
+Net loss                                                                                                $    (306,707) $    (287,187)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                          
+
+Change in fair value of derivative liabilities                                                                202,260        217,139 
+
+Amortization of license and patent                                                                              1,941            669 
+
+Amortization of debt discount                                                                                  44,205         40,233 
+
+Unrealized loss on investments in marketable securities                                                             -             10 
+
+Changes in operating assets and liabilities:                                                                                         
+
+Inventory                                                                                                      (3,291)         4,134 
+
+Prepaid expense and other current assets                                                                       10,000              - 
+
+Accounts payable and accrued liabilities                                                                       10,411          5,541 
+
+Due to related party                                                                                                -              - 
+
+Net Cash Used in Operating Activities                                                                         (41,181)       (19,461)
+
+                                                                                                                                     
+
+Net change in cash                                                                                            (41,181)       (19,461)
+
+Cash at beginning of period                                                                                    60,776         25,405 
+
+Cash at end of period                                                                                   $      19,595  $       5,944 
+
+                                                                                                                                     
+
+SUPPLEMENTAL CASH FLOW INFORMATION:                                                                                                  
+
+Cash paid for income taxes                                                                              $           -  $           - 
+
+Cash paid for interest                                                                                  $           -  $           - 
+
+                                                                                                                                     
+
+NON-CASH INVESTING AND FINANCING ACTIVITIES                                                                                          
+
+Derivative liability recognized as debt discount                                                        $           -  $      35,000 
+
+Issuance of common stock for conversion of debt                                                         $     149,455  $     108,036 
+
+Issuance Series A preferred stock for license fee                                                       $       1,500  $           - 
+
+Issuance Series B preferred stock for license fee                                                       $       3,000  $           - 
+
+ 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+
+ 
+
+ 
+
+                                                                   6
+
+
+
+Table of Contents
+
+ 
+
+BIOADAPTIVES, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+(UNAUDITED)
+
+ 
+
+1. DESCRIPTION OF BUSINESS AND HISTORY
+
+ 
+
+Description of business
+
+ 
+
+BioAdaptives, Inc. (“BioAdaptives” or the “Company”) was incorporated in Delaware on April 19, 2013, under the name Apex 8, Inc. Shortly afterwards, the Company’s control person sold his interest; new owners appointed management and changed its name to BioAdaptives, Inc. BioAdaptives’ core business is to investigate, market and distribute natural plant, algal and mushroom-based products and medical devices that improve health and wellness for humans and animals, with an emphasis on pain relief, anti-viral function, and anti-aging properties.
+
+ 
+
+The Company’s corporate office is located at 2620 Regatta Drive, Suite 102, Las Vegas, NV 89128.
+
+ 
+
+2. SUMMARY OF SIGNIFICANT POLICIES
+
+ 
+
+Basis of Presentation
+
+ 
+
+The accompanying unaudited interim financial statements of the Company have been prepared in accordance with accounting principles generally accepted in the United States of America and the rules of the Securities and Exchange Commission and should be read in conjunction with the audited financial statements and notes thereto contained in the Company’s most recent Annual Financial Statements filed with the SEC on Form 10K. In the opinion of management, all adjustments, consisting of normal recurring adjustments necessary for a fair presentation of financial position and the results of operations for the interim period presented, have been reflected herein. The results of operations for the interim period are not necessarily indicative of the results to be expected for the full year. Notes to the financial statements that would substantially duplicate the disclosures contained in the audited financial statements for the most recent fiscal period, as reported in the Form 10K filed with SEC on April 10, 2024, have been omitted.
+
+ 
+
+Use of estimates
+
+ 
+
+The preparation of consolidated financial statements in conformity with US GAAP requires the Company to make estimates and judgments that affect the reported amounts of assets and liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities. These estimates and judgments are based on historical information, information that is currently available to the Company, and on various other assumptions that the Company believes to be reasonable under the circumstances. Actual results could differ from those estimates.
+
+ 
+
+Derivative Financial Instruments
+
+ 
+
+The Company does not use derivative instruments to hedge exposures to cash flow, market or foreign currency risks. We evaluate all of our financial instruments to determine if such instruments are derivatives or contain features that qualify as embedded derivatives. For derivative financial instruments that are accounted for as liabilities, the derivative instrument is initially recorded at its fair value and is then re-valued at each reporting date, with changes in the fair value reported in the statements of operations. For stock-based derivative financial instruments, the Company used a Black Scholes valuation model to value the derivative instruments at inception and on subsequent valuation dates. The classification of derivative instruments, including whether such instruments should be recorded as liabilities or as equity, is evaluated at the end of each reporting period. Derivative liabilities are classified in the balance sheet as current or non-current based on whether or not net-cash settlement or conversion of the instrument could be required within 12 months of the balance sheet date.
+
+ 
+
+Earnings (loss) per share
+
+ 
+
+Basic earnings (loss) per common share is computed by dividing net income (loss) available to common shareholders by the weighted-average number of shares of common stock outstanding during the period. Diluted earnings per common share is computed by dividing income available to common shareholders by the weighted-average number of shares of common stock outstanding during the period increased to include the number of additional shares of common stock that would have been outstanding if potentially dilutive securities had been issued.
+
+ 
+
+ 
+
+                                                                   7
+
+
+
+Table of Contents
+
+ 
+
+For the three months ended March 31, 2024 and 2023, the following common stock equivalents were excluded from the computation of diluted net loss per share as the result of the computation was anti-dilutive.
+
+ 
+
+                                                                                                   March 31,           March 31,      
+
+                                                                                                      2024                2023        
+
+                                                                                                    (Shares)            (Shares)      
+
+Series A Preferred Stock                                                                              16,750,000                  - 
+
+Series B Preferred Stock                                                                              29,000,000                  - 
+
+Convertible notes                                                                                  1,809,481,655      1,236,501,457 
+
+Total                                                                                              1,855,231,655      1,236,501,457 
+
+ 
+
+3. GOING CONCERN
+
+ 
+
+The accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The Company has incurred losses since inception and had an accumulated deficit of $8,570,852, and a working capital deficit of $1,815,883 as of March 31, 2024. The Company requires capital for its contemplated operational and marketing activities. The Company’s ability to raise additional capital through the future issuances of common stock is unknown. Obtaining additional financing, successful development of the Company’s contemplated plan of operations, and the transition, ultimately, to profitable operations are necessary for the Company to continue operations. The ability to successfully resolve these factors raises substantial doubt about the Company’s ability to continue as a going concern. The consolidated financial statements of the Company do not include any adjustments that may result from the outcome of these aforementioned uncertainties.
+
+ 
+
+In order to mitigate the risk related with this uncertainty, the Company plans to issue additional shares of common stock for cash and services during the next 12 months.
+
+ 
+
+4. ACCOUNTS PAYABLE AND ACCRUED LIABILITIES
+
+ 
+
+Accounts payable and accrued liabilities aa of March 31, 2024 and December 31, 2023 consists of the following:
+
+ 
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+Accounts payable                                                                                        $       3,283  $       3,283 
+
+Accrued salary                                                                                                300,000        300,000 
+
+Accrued interest                                                                                              146,684        139,277 
+
+Accrued liabilities                                                                                             1,019          1,019 
+
+                                                                                                        $     450,986  $     443,579 
+
+ 
+
+ 
+
+                                                                   8
+
+
+
+Table of Contents
+
+ 
+
+5. CONVERTIBLE NOTES
+
+ 
+
+Convertible notes as of March 31, 2024 and December 31, 2023 consist of the following:
+
+ 
+
+                                                                                                          March 31.    December 31,  
+
+                                                                                                            2024           2023      
+
+Convertible Notes - originated in April 2018                                                            $      95,000  $      95,000 
+
+Convertible Notes - originated in June 2018                                                                   166,000        166,000 
+
+Convertible Notes - originated in October 2018                                                                 50,000         50,000 
+
+Convertible Notes - issued fiscal year 2023                                                                    16,790         63,250 
+
+Total convertible notes payable                                                                               327,790        374,250 
+
+                                                                                                                                     
+
+Less: Unamortized debt discount                                                                                (8,387)       (52,592)
+
+Total convertible notes                                                                                       319,403        321,658 
+
+                                                                                                                                     
+
+Less: current portion of convertible notes                                                                    319,403        321,658 
+
+Long-term convertible notes                                                                             $           -  $           - 
+
+ 
+
+For the three months ended March 31, 2024 and 2023, the interest expense on convertible notes was $10,361 and $10,746, respectively. As of March 31, 2024 and December 31, 2023, the accrued interest was $145,953 and $137,955[DI3] , respectively.
+
+ 
+
+The Company recognized amortization expense related to the debt discount of $44,205 and $40,233 for the three months ended March 31, 2024 and 2023, respectively, which is included in interest expense in the statements of operation.
+
+ 
+
+Conversion
+
+ 
+
+During the three months ended March 31, 2024, the Company converted notes with principal amounts of $51,760 and accrued interest of $2,364 into 259,010,416 shares of common stock. The corresponding derivative liability at the date of conversion of $95,331 was credited to additional paid in capital.
+
+ 
+
+Convertible Notes – Issued during the year ended December 31, 2018
+
+ 
+
+During the year ended December 31, 2018, the Company issued a total principal amount of $426,000 in convertible notes for cash proceeds of $426,000. The convertible notes were also provided with a total of 107,000 common shares valued at $22,210. The terms of these convertible notes are summarized as follows:
+
+ 
+
+      ·     Term two years;
+
+             
+
+      ·     Annual interest rates 12%;
+
+             
+
+      ·     Convertible at the option of the holders at any time
+
+             
+
+      ·     Conversion prices are based on 50% discount to market value for the common stock based on a 4-week weekly average of the
+
+             closing
+
+             price.
+
+ 
+
+Convertible Notes - Issued during the year ended December 31, 2023
+
+ 
+
+During the year ended December 31, 2023, the Company issued a total principal amount of $94,500 in convertible notes for cash proceeds of $80,000. The terms of convertible notes are summarized as follows:
+
+ 
+
+      ·     Term one year;
+
+             
+
+      ·     Annual interest rates 10%;
+
+             
+
+      ·     Convertible at any time
+
+             
+
+      ·     Conversion prices are based on 39% discount to the lowest trading price during the 20-trading day period ending on the
+
+             latest complete training day prior to the conversion
+
+             date.
+
+ 
+
+ 
+
+                                                                   9
+
+
+
+Table of Contents
+
+ 
+
+6. DERIVATIVE LIABILITIES
+
+ 
+
+The Company analyzed the conversion option for derivative accounting consideration under ASC 815, Derivatives and Hedging, and hedging, and determined that the instrument should be classified as a liability since the conversion option becomes effective at issuance resulting in there being no explicit limit to the number of shares to be delivered upon settlement of the above conversion options. The Company accounts for warrants as a derivative liability due to there being no explicit limit to the number of shares to be delivered upon settlement of all conversion options.
+
+ 
+
+Fair Value Assumptions Used in Accounting for Derivative Liabilities.
+
+ 
+
+ASC 815 requires us to assess the fair market value of derivative liability at the end of each reporting period and recognize any change in the fair market value as other income or expense item.
+
+ 
+
+The Company determined our derivative liabilities to be a Level 3 fair value measurement and used the Black-Scholes pricing model to calculate the fair value as of March 31, 2024. The Black-Scholes model requires six basic data inputs: the exercise or strike price, time to expiration, the risk-free interest rate, the current stock price, the estimated volatility of the stock price in the future, and the dividend rate. Changes to these inputs could produce a significantly higher or lower fair value measurement. The fair value of each convertible note is estimated using the Black-Scholes valuation model.
+
+ 
+
+For the three months ended March 31, 2024 and year ended December 31, 2023, the estimated fair values of the liabilities measured on a recurring basis are as follows:
+
+ 
+
+                                                                                                   Three months       Year ended     
+
+                                                                                                       ended
+
+                                                                                                          
+
+                                                                                                     March 31.       December 31,    
+
+                                                                                                       2024              2023        
+
+Expected term                                                                                          0.22- 0.46         0.18- 1.00 
+
+                                                                                                            years              years
+
+                                                                                                                                    
+
+Expected average volatility                                                                           231% - 294%        141% - 288% 
+
+Expected dividend yield                                                                                         -                  - 
+
+Risk-free interest rate                                                                             5.25% - 5.48%      4.76% - 5.53% 
+
+ 
+
+The following table summarizes the changes in the derivative liabilities during the three months ended March 31, 2024.
+
+ 
+
+                                 Fair Value Measurements Using Significant Observable Inputs (Level 3)                                  
+
+                                                                                                                                       
+
+Balance - December 31, 2023                                                                                              $     977,872 
+
+                                                                                                                                       
+
+Settled on issuance of common stock                                                                                            (95,331)
+
+Loss on change in fair value of the derivative                                                                                 202,260 
+
+Balance - March 31, 2024                                                                                                 $   1,084,801 
+
+ 
+
+The aggregate loss on derivatives during the three months ended March 31, 2024 and 2023 was as follows.
+
+ 
+
+                                                                                                             Three months ended        
+
+                                                                                                                  March 31.            
+
+                                                                                                            2024           2023      
+
+Day one loss due to derivative liabilities on convertible notes                                         $           -  $       1,363 
+
+Loss on change in fair value of the derivative liabilities                                                    202,260        215,776 
+
+                                                                                                        $     202,260  $     217,139 
+
+ 
+
+ 
+
+                                                                   10
+
+
+
+Table of Contents
+
+ 
+
+7. STOCKHOLDERS’ EQUITY
+
+ 
+
+Preferred Stock
+
+ 
+
+On January 24, 2022, the Board of Directors of the Company’s, approved for an increase in the number of authorized shares of the Company’s preferred stock from 5,000,000 shares to 10,000,000 shares.
+
+ 
+
+The Company is authorized to issue 10,000,000 shares of $0.0001 par value preferred stock, of which 4,000,000 have been designated as Series A Preferred Stock and 5,000,000 have been designated as Series B Preferred Stock.
+
+ 
+
+Series A Preferred Stock
+
+ 
+
+On February 6, 2020, the Company established its Series A Preferred Stock, par value $0.001, by filing a Certificate of Designation with the Delaware Secretary of State. The Company’s board exercised “blank check” authority to establish classes of preferred stock without approval by shareholders under provision of its original Articles of Incorporation and has designated 4,000,000 shares of Series A Preferred Stock.
+
+ 
+
+The Company may use the Series A Preferred Stock for purpose of asset acquisition or in satisfaction of recognized debt; they are not otherwise available for sale. The Series A Preferred Stock have enhanced voting privileges under certain circumstances; the collective right to appoint elect one director, at the Holders’ option; and conversion-to-common rights at a 5:1 ratio.
+
+ 
+
+During the three months ended March 31, 2024, the Company issued 500,000 shares of Series A Preferred Stock valued at $1,500 for license fee.
+
+ 
+
+There are 3,350,000 and 2,850,000 shares of Series A shares issued as of March 31, 2024 and December 31, 2023, respectively.
+
+ 
+
+Series B Preferred Stock
+
+ 
+
+On January 24, 2022, the Company established its Series B Preferred Stock, par value $0.0001, by filing a Certificate of Designation with the Delaware Secretary of State. The Company’s board exercised “blank check” authority to establish classes of preferred stock without approval by shareholders under provision of its original Articles of Incorporation and has designated 5,000,000 shares of Series B Preferred Stock.
+
+ 
+
+The Company may use the Series B Preferred Stock for purpose of asset acquisition or in satisfaction of recognized debt; they are not otherwise available for sale. The Series B Preferred Stock have enhanced voting privileges (100:1); the collective right to appoint elect one director, at the Holders’ option; and conversion-to-common rights at a 10:1 ratio.
+
+ 
+
+During the three months ended March 31, 2024, the Company issued 500,000 shares of Series B Preferred Stock valued at $3,000 for license fee.
+
+ 
+
+During the three months ended March 31, 2024, the Company issued 150,000 shares of Series B Preferred Stock valued at $1,500 for settlement of note payable – related party.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, 2,900,000 and 2,250,000 shares of Series B Preferred Stock are issued and outstanding, respectively.
+
+ 
+
+Common Stock
+
+ 
+
+The Company is authorized to issue 1,250,000,000 shares of $0.0001 par value common stock.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, there were 1,154,770,000 and 895,760,225 shares of the Company’s common stock issued and outstanding, respectively. In addition, as of March 31, 2024 and December 31, 2023, there were 10,000 shares of the Company’s common stock issuable.
+
+ 
+
+Fiscal year 2024
+
+ 
+
+During the three months ended March 31, 2024, the Company issued 259,010,416 shares of common stock valued at $149,455 for conversion of debt.
+
+ 
+
+ 
+
+                                                                   11
+
+
+
+Table of Contents
+
+ 
+
+Warrant
+
+ 
+
+On February 6, 2022, in conjunction with purchase of patent, the Company granted 1,000,000 shares for period of two years with exercise price of $0.006 per share. The fair value of granted shares at the issuance date was $5,429. The Company recorded warrant as additional paid-in-capital. In February 2024, 1,000,000 warrants were expired.
+
+ 
+
+The estimated fair values of the warrant are as follows:
+
+ 
+
+                                                                                                                        Year Ended   
+
+                                                                                                                       December 31,  
+
+                                                                                                                            2022
+
+Expected term                                                                                                             2.00 years 
+
+Expected average volatility                                                                                                      235%
+
+Expected dividend yield                                                                                                            - 
+
+Risk-free interest rate                                                                                                         1.31%
+
+ 
+
+8. RELATED PARTY TRANSACTIONS
+
+ 
+
+Notes payable – related party
+
+ 
+
+During the three months ended March 31, 2024 and 2023, the Company repaid notes payable to a related party of $0 and $0 and recognized interest of $49 and $84, respectively.
+
+ 
+
+During the three months ended March 31, 2024, the Company issued 150,000 shares of Series B preferred stock to settle note payable of $860 and accrued interest of $640. 
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the Company recorded notes payable - related party of $4,284 and $5,144 and accrued interest of $728 and $1,320, respectively. The note is a 4% interest bearing promissory note that the term is 1 year.
+
+ 
+
+Employee agreements
+
+ 
+
+During the year ended December 31, 2022, the Company accrued salary related to employment agreement in 2022 of $133,334. As of March 31, 2024 and December 31, 2023, the Company owes a salary of $300,000.
+
+ 
+
+9. LICENSE AND PATENT
+
+ 
+
+As of March 31, 2024 and December 31, 2023, License and patent consist of the following:
+
+ 
+
+                                                                                                          March 31,     December 31,  
+
+                                                                                                            2024            2023      
+
+License                                                                                                 $      24,500  $      20,000 
+
+Patent                                                                                                              -          5,429 
+
+                                                                                                               24,500         25,429 
+
+Accumulated amortization                                                                                       (6,500)        (9,988)
+
+                                                                                                        $      18,000  $      15,441 
+
+ 
+
+ 
+
+                                                                   12
+
+
+
+Table of Contents
+
+ 
+
+The term of licenses is a range from 1 to 3 years for certain products. The Company agrees to pay a royalty on sales of the Products during the term of licensee’s equivalent to 2 – 5% of gross product sales amounts (“GPSA”).  Such royalty shall be payable only after the Licensor attains a GPSA of $20,000 to $30,000 in any calendar month and shall be payable on the entire GPSA for such period.
+
+ 
+
+For the three months ended March 31, 2024 and 2023, the Company recorded amortization expense of $1,941 and $669 respectively.
+
+ 
+
+The following table outlines the estimated future amortization expense related to intangible assets held as of March 31, 2024:
+
+ 
+
+Year Ending December 31,                                                                                                               
+
+2024 - remaining 9 months                                                                                                $       7,875 
+
+2025                                                                                                                             7,125 
+
+2026                                                                                                                             3,000 
+
+Thereafter                                                                                                                           - 
+
+                                                                                                                         $      18,000 
+
+ 
+
+10. COMMITMENTS AND CONTINGENCIES
+
+ 
+
+Short term Leases 
+
+ 
+
+The Company has not entered into any long-term leases, contracts or commitments. In November, 2023, the Company leased an office which the term is month to month. For the three months ended March 31,2024, the Company incurred rent expense of $954. The Company recorded security deposit of $2,500 as of March 31, 2024 and December 31, 2023.
+
+ 
+
+11. SUBSEQUENT EVENTS
+
+ 
+
+In April, the Company decided to expand its work in the medical device and health AI sphere and  took over the total inventory of the Lung Flute (aka the Lung Cleanser) about 100,000 units at very favorable pricing.  It expects to expend its effort in working with distributions to the medical communities, pharmacies, gyms, athletic clubs and senior communities both in United States and internationally.  On May 3rd, 2024, the SEC charged Auditor BF Borgers and permanently suspended them from practicing as accountants on SEC filings, effective as of that date. As a result, the Company has been actively working on engaging a new PCAOB auditor for its SEC work and expects to be filing an 8K on this imminently.
+
+ 
+
+ 
+
+                                                                   13
+
+
+
+Table of Contents
+
+ 
+
+Item 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+FORWARD LOOKING STATEMENTS
+
+ 
+
+This current report contains forward-looking statements. These statements relate to future events or our future financial performance. In some cases, you can identify forward-looking statements by terminology such as “may”, “should”, “expects”, “plans”, “anticipates”, “believes”, “estimates”, “predicts”, “potential” or “continue” or the negative of these terms or other comparable terminology. These statements are only predictions and involve known and unknown risks, uncertainties and other factors that may cause our or our industry’s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward- looking statements. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend to update any of the forward-looking statements to conform these statements to actual results.
+
+ 
+
+Our unaudited financial statements are stated in United States Dollars (US$) and are prepared in accordance with United States Generally Accepted Accounting Principles. The following discussion should be read in conjunction with our financial statements and the related notes that appear elsewhere in this quarterly report. The following discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed below and elsewhere in this quarterly report.
+
+ 
+
+Our financial statements are stated in United States Dollars (US$) and are prepared in accordance with United States Generally Accepted Accounting Principles.
+
+ 
+
+In this quarterly report, unless otherwise specified, all dollar amounts are expressed in United States dollars and all references to “common shares” refer to the common shares in our capital stock. As used in this quarterly report, the terms “we”, “us”, “our”, “Company” and "BioAdaptives" mean BioAdaptives Inc., unless otherwise indicated.
+
+ 
+
+1.OUR BUSINESS
+
+ 
+
+Overview
+
+ 
+
+BioAdaptives’ core business is to investigate, market and distribute natural plant- and algal-based products and medical devices that improve health and wellness for humans and animals, with an emphasis on pain relief, anti-viral function, and anti-aging properties.
+
+ 
+
+Effective November 15, 2021, the Company entered into a marketing agreement for an FDA-cleared Class II medical device, the Lung Flute™.  In April 2024, The Company negotiated with the sole owner of the product to assume their existing stock and their rights to all future activities on this item. It intends to actively expand its sales efforts beyond the direct sale effort of its Lung Cleanser to expand to the medical communities, pharmacies, gyms, athletic clubs, and senior communities both in US and Internationally.  The Company is also exploring agreements with other medical device manufacturers; the owners of intellectual property relating to medical devices and processes; and marketing companies associated with these manufacturers and owners.
+
+ 
+
+The Company’s current products include dietary supplements using natural ingredients and proprietary methods of optimizing the availability of nutrients in foods and beverages. The human products are designed to aid memory, cognition and focus; assist in sleep and fatigue reduction; provide pain relief and healing; and improve overall emotional and physical wellness.  The science behind our human products has proven to be effective for performance enhancement and pain relief for horses and dogs as well as providing improvements in appearance.  
+
+ 
+
+Our current product line for humans includes PluriPain®, PrimiLungs™,SleepEZ™, MindNMemory™, Cell Rejuven™ and ProteinNMore™ .  We also market the Lung Flute™ and PrimiLungs™ product in our Lung Armor™ packaging, emphasizing the anti-viral properties of the nutraceutical and general respiratory health benefits from use of the device. Pluripain® is a fast acting long lasting all-natural pain relief formulation.  MindnMemory™ is a nootropic formulation that enhances memory, focus, mental clarity and endurance; PrimiSleep™ is a natural soporific that aids relaxation and sleep quality.  Cell Rejuven™ increases Energy and Mobility and resistance to stress, activates primitive cells, improves wound healing and promotes hair and nail growth. ProteinNMore™ aids in Rapidly building lean bulk muscle, promotes muscle contractility and strength as well as helps in improving blood flow. We acquired the licenses for these products during 2021 and 2022 and have commenced marketing activities for these products. 
+
+ 
+
+Our animal products include Canine All-in-One™ and Equine All-in-One products for dogs and horses. These formulations evolved from Canine Regen® and Equine Regen® to trainers, horse owners and boarding stables.  Anecdotal and testimonial reports are that the equine products provide significant relief from exercise induced pulmonary haemorrhaging, as well as improved coat and mane appearance and hoof health.  
+
+ 
+
+ 
+
+                                                                   14
+
+
+
+Table of Contents
+
+ 
+
+Effective February 2, 2022, the Company acquired the exclusive option to purchase U.S. Patent No. 9,783,432B (the “Patent”), covering technology used in enhancing the capability of water to hold significantly larger amounts of oxygen. The Agreement also allows the Company a two-year license to use the technology covered by the Patent, including for further development of oxygenated water products for consumers.  The Agreement was more fully discussed in the Company’s Form 8-K filed on February 6, 2022.  As a result, The Company formed a wholly-owned subsidiary, MORO2, Inc. to study the feasibility of this technology. Unfortunately, after spending two years’ effort seeking a co-packer to manufacture a test run of this product, no co-packer could be located.  As a result, it declined the option to purchase this technology and returned the unit to the inventor.
+
+ 
+
+The Company signed a dealer’s agreement with Pixcelcando out of Europe for their AI Body Composition Analysis technology for US distribution.  It is currently carrying out free trial offers to interested parties before its major launching effort in the 2nd and 3rd quarters 2024.
+
+ 
+
+While we continue to investigate and acquire nutraceutical products for humans and animals, all of our current activities are reliant on marketing and distributing products developed and owned by others. We do not own the formulations for our key products and manufacture and market them under an agreement with the developer that requires payment of a royalty and license agreement We are reliant on direct and indirect sales of the line of human products and the All-in-One animal products for revenues, along with Lung Armor™, none of which has produced any significant revenue yet.  We have very limited experience in marketing and have yet to develop reliable sales expectations and forecasting.
+
+ 
+
+Market and Marketing
+
+ 
+
+We market our science-based, quality nutraceuticals to a broad base of the population in the U.S., and are exploring marketing prospects in Asia, Australasia, the Middle East, and Europe. The Company’s current target markets also include equine and canine companion animals and equine competitors in the U.S., Australasia and the Middle East.
+
+During 2023, we undertook direct mailing, use of social media, trade advertising and existing connections to create awareness about our human and animal products’ benefits.  We are developing affiliate marketing opportunities and recognize that a broader campaign using direct mail, and traditional advertising along with social media and more contemporary marketing tools is necessary.
+
+ 
+
+We are pursuing scientific surveys and other testing to demonstrate the usefulness of our products.  While we do not anticipate developing testing protocols suitable for FDA approvals, we expect anecdotal and testimonial reports that will be useful in our marketing efforts.  The Company is currently continuing participating in a survey involving the use of PluriPain® by patients suffering from Gadolinium Deposition Disease (“GDD”).  The survey, conducted by in collaboration with a research team resident affiliated with at Stanford University, is on-going and has produced  early promising results, with 60% of a small subject population reporting significant relief.  We have undertaken preliminary steps toward developing a survey/research protocol for use of the Lung Flute™ by long-term tobacco smokers and persons regularly exposed to second-hand tobacco smoke.  We expect to continue these explorations in 2Q, 2024.
+
+ 
+
+Our products have not changed, except for refinements and improvements, and we will continue to emphasize the unique qualities, use and function of our nutraceuticals.  We intend to create market share in our target demographic by (i) emphasizing the benefits of our proprietary algal-based, all-natural, stimulant-free, non-GMO ingredients that combine with proven Traditional Chinese Medicine and Ayurvedic botanicals into science-based formulations, (ii) investigating additional products in response to market demand and testing, and (iii) utilizing our marketing operation to act as its sales and distribution arm to seek additional channels for sales coverage.  
+
+  
+
+As noted above, we entered into licensing agreements for the MindnMemory™ product during 2022.  While the product is all-natural botanical formulations, as our other nutraceutical products, they represent a departure from our existing product lines because they are targeted to specific markets:  MindnMemory™ is a nootropic, intended to improve memory, enhances focus, mental clarity. endurance and mental acuity; our initial marketing efforts are oriented toward e-gamers and seniors.  
+
+ 
+
+ 
+
+                                                                   15
+
+
+
+Table of Contents
+
+ 
+
+The Lung Flute™, especially when used with PrimiLungs™, shows promise.  The device is an FDA-cleared Class II medical device that employs user-generated acoustic waves to loosen lung secretions for expulsion.  In short, the device helps users clear their lungs.  In conjunction with the anti-viral function of PrimiLungs™, the Lung Armor™ package presents great opportunities in view of current fears of an endemic viral environment. Samples of this device were shipped to Poland for consideration for hospital use. With the Companies expanded interest in this area, we expect greater sales activities will take place in the last two quarters of 2024.
+
+ 
+
+In addition, we have started the use of a formulation of PluriPain® targeted toward the symptoms of pre-menstrual syndrome and menstrual pain.  Anecdotal and testimonial reports have long noted that users obtain relief from these symptoms with use of the PluriPain® product, and we have made adjustments and additions to the formulation to target these symptoms.  Early reports regarding “PluriPain-PMS” are promising, and we expect marketing efforts to emphasize the usefulness of the new products. We are hoping that a topical pain relief product to be added to this line.
+
+ 
+
+With regard to animal products, in 2020, the Company formed the Livestock Impact Division, which entered into a business relationship with Livestock Impact, Inc.  We also entered into a Marketing and Licensing Agreement with the owners of these products providing us with exclusive rights to market these products. The President of the Division is Bruce Colclasure, a National Cutting Horse Association champion who owns and operates the Flying C Bar Ranch and is the breeder and trainer of over 80 NCHA champion cutting horses.  Mr. Colclasure uses and endorses our Equine All-in-One™, Equine All-in One™ Plus and Equine All-in-One™ Extreme products and provides valuable feedback and testimonials regarding its function.  In addition, a high-performance formulation of our All-in-One product has been and is used by quarter horse trainers at facilities in Oklahoma and New Mexico, with excellent results.  We used these results in our marketing efforts in 2023 and to expand our outreach program in 2024  In 2023  we continued a marketing affiliate outreach program, directly contacting the principals of horse clubs and associations, offering discounts, samples and other inducements, seeking to develop “product champion” and “maven” relationships.  We have contacted principals in organizations with thousands of members and many more thousands of horses.  We have distributed samples and marketing materials to over 40 principals and influencers in regional and breed-specific equine associations and received good feedback from these marketing initiatives.  quarter.  Our expectation is that the use of the samples by these principals will demonstrate improvements in appearance and performance and that they will, in turn, recommend the product to their members. The Company appointed an exclusive Distributor for its equine line of products in the 3rd Q 2023 and  is actively working with them to expand the marketing effort in 2024.
+
+ 
+
+The Company believes that the population growth in the seasoned and geriatric demographic cohort presents a unique opportunity. The World Health Organization has stated that the 60 years and over population segment will more than double from 11% to over 22% between 2000 and 2050, with the absolute number of people aged 60 and over expected to increase to 2 billion within the same period. The Company also recognizes the rising buying power and interests of the Millennials in wellness products and their choice of communication medium being social media and internet. It intends to establish a major focus to capture the anticipated growth in this sector.  We believe that our social media promotion program will eventually gain traction and generate revenues, and we are actively seeking a workable, efficient formula to grow consumer engagement and product sales.
+
+ 
+
+The Company believes that international sales represent a significant future growth opportunity as aging population growth outside North America exceeds 1 billion people. The Company plans to aggressively pursue international sales by adding salespeople to its marketing effort, including use of social media, developing a network in high-growth APAC regions, and continuing its efforts to register products and trademarks in attractive foreign markets.
+
+ 
+
+Manufacturing
+
+ 
+
+All of the Company’s nutraceutical products are considered dietary supplements or natural foods, and we carefully avoid making health, drug or disease cure claims that could trigger regulatory compliance issues and affect our ability to market BioAdaptives products. Our active ingredients are all plant-, - or algal-based and sourced worldwide from reputable suppliers who employ stringent compliance and sustainable agriculture practices.
+
+ 
+
+ 
+
+                                                                   16
+
+
+
+Table of Contents
+
+ 
+
+BioAdaptives actively investigates new products, techniques and novel applications of existing products or technology in our research. The Company’s research work has centered on investigations of all-natural supplement formulations that activate primitive cells, including stem cells and their derivatives, and natural ingredients that encourage stem cell proliferation. In 2022, the Company started a line of products utilizing both algae and mushrooms.
+
+ 
+
+With regard to medical devices, we have in April 2024 purchased the LungFlute™ from the sole US affiliated with the patent holder.  We do not expect to develop any direct capability to manufacture medical devices for numerous reasons, including a lack of capital and the fact that amortized cost of such facilities, if we were to construct or acquire them, is generally far higher compared to the cost of purchase of a finished product.  As noted above, it is our intention to operate primarily as a marketing company, developing consumer markets for nutraceutical products and medical devices that we license or market for others.  
+
+ 
+
+Employees
+
+ 
+
+In 2024, The Company has 3 full-time non-executive employees and 2 part-time employees.  We retain hourly labor on an as-needed basis and professional consultants to operate our business. The management of the Company expects to continue use of outside consultants, attorneys, and accountants, as necessary, so long as it is seeking and evaluating business opportunities. The need for additional employees, and their availability, will be addressed in connection with the decision whether or not to acquire or participate in specific business opportunities.
+
+ 
+
+2.  LIQUITITY AND CAPITAL RESOURCES:
+
+ 
+
+Liquidity -- Financial Performance –  Three Months Ended March 31 2024 and 2023
+
+ 
+
+We had a net loss of $306;707 for the three-month period ended March 31 2024, which was $19,520 more than the net loss of $287.187 for the three-month period ended March 31 2023. The change in our results is mainly due to the Change in other income (Expenses) and general &Administration expenses.
+
+ 
+
+The following table summarizes key items of comparison and their related increase (decrease) for the Three-month periods ended March 31, 2024, and 2023:
+
+ 
+
+                                                                                            2024           2023          Changes    
+
+Revenue                                                                                        11,994          3,376          8,618 
+
+Cost of Sales                                                                                   8,393          1,396         (6,997)
+
+Operation Expenses                                                                             53,433         20,955        (32,478)
+
+Other income (expenses)                                                                      (256,875)      (268,212)        11,337 
+
+Net Income (loss)                                                                            (306,707)      (287,187)       (19,520)
+
+                                                 
+
+Revenue
+
+ 
+
+Our revenues have been derived entirely from product sales. It reflects a mixture predominantly through wholesale of LiveStock Impact, Inc products and the retail of a small amount of BioAdaptives human supplements.  Because of the wholesale element, margins for products are much tighter than previously when all sales were through retail web sales.
+
+ 
+
+Cost of Sales
+
+ 
+
+Our cost of sales is primarily derived from contract manufacturing expenses and shipping and handling expenses related to customer fulfillment.  We also expense marketing expenses, which includes the cost of samples or products provided for promotional purposes and website content development.  We have contracted for consulting services relating to website and product label redesign and another web sales outreach campaign, and we expect expenses to accrue for such services in 3rd.Q 2024, and beyond.
+
+ 
+
+ 
+
+                                                                   17
+
+
+
+Table of Contents
+
+ 
+
+Operation Expenses 
+
+ 
+
+Our general, administrative and professional fees are largely attributable to office, rent, advertising, consultants and transfer agent, legal, accounting and audit fees related to our reporting requirements as a public company as well as stock-based compensation for officers, directors and consultants, as well as amortization of license and patent.
+
+ 
+
+Other Income (Expense)
+
+ 
+
+The Company recorded interest expenses of $54,615  and $ 51,063 for the Three months ended March 31, 2024 and 2023.
+
+ 
+
+Net Loss
+
+ 
+
+As a result of our operating expenses the Company reported a net loss of ($306,707)  and ( $ 287,187)  for the three months ended March 31, 2024 and 2023.
+
+ 
+
+Capital Resources – Balance Sheet and Cash Flows
+
+ 
+
+Our balance sheet as of March 31, 2024 , reflects current assets of $40,667 , including cash in the amount of $19,595 .  We currently meet cash requirements by infusions of cash from issuance of notes to finance partners, through RegA subscriptions and advances from shareholders. Most of these notes have conversion features that require accounting for derivative liabilities. We are hopeful that future Reg. A+ offerings will help to reduce our financing costs but can provide no assurances as to whether our offering will be successful.  
+
+ 
+
+Working Capital (Deficiency)   
+
+ 
+
+                                                                                         March 31,       March 31,        Change
+
+                                                                                            2024,           2023,
+
+
+
+Current Assets                                                                                40,667         10,719         29,948
+
+Current Liabilities                                                                        1,856,550      1,643,691       (212,859)
+
+Working Capital (Deficiency)                                                              (1,797,883)    (1,630,652)      (167,231)
+
+ 
+
+Cash Flows
+
+ 
+
+                                                                                              Three Months Ended                      
+
+                                                                                                   March 31                           
+
+                                                                                            2024           2023          Change     
+
+Cash provided by (used in) Operating Activities                                               (41,181)       (19,401)       (21,720)
+
+ Cash provided by (used in) Financing Activities                                                    0              0              0 
+
+Net Increase (Decrease) In Cash During Period                                                  19,595          5,944         13,651 
+
+ 
+
+Net cash provided (used) by operating activities during the three months ended March 31, 2024, was $ 41,181 an increase of $ 21,720  from net cash used of $19,401 in operating activities during the three months ended March 31,  2023.
+
+ 
+
+ 
+
+                                                                   18
+
+
+
+Table of Contents
+
+ 
+
+Cash Flows from Financing Activities 
+
+ 
+
+Net cash provided by financing activities during the three months ended March 21 2024 was $ 0.00 , similar to3   net cash provided in financing activities during the three months ended March 31,2023 of $0.00.
+
+ 
+
+As of March 31, 2024, we have insufficient cash to operate our business at the current level for the next twelve months and insufficient cash to achieve our business goals. The success of our business plan beyond the next 12 months is contingent upon us obtaining additional financing. We intend to fund operations through debt and/or equity financing arrangements, which may be insufficient to fund our capital expenditures, working capital, or other cash requirements. We do not have any formal commitments or arrangements for the sales of stock or the advancement or loan of funds at this time. There can be no assurance that such additional financing will be available to us on acceptable terms, or at all.
+
+ 
+
+Critical Accounting Estimates -- Going Concern
+
+ 
+
+We are required to provide qualitative and quantitative information necessary to understand any critical accounting estimations, including uncertainties associated with such estimates.  Our critical accounting estimates, as well as the financial statements contained in this report, are all reliant on the assumption that we will continue as a going concern, which contemplates our ability to generate sufficient cash flows from operations and financing activities necessary to continue in business by employing our assets and satisfying our liabilities in the normal course of business.  
+
+ 
+
+On March 31, 2024, we had $19,595 of cash on-hand and an accumulated deficit of $8,570,852 , and as noted throughout this report and our financial statements and notes thereto, our independent auditors expressed their substantial doubt as to our ability to continue as a going concern as of December 31, 2023. We anticipate incurring significant losses in the future. We do not have an established source of revenue sufficient to cover our operating costs. Our ability to continue as a going concern is dependent upon our ability to successfully compete, operate profitably and/or raise additional capital through other means. If we are unable to reverse our losses, we will have to discontinue operations.
+
+ 
+
+Because our business plan relies on marketing products we license from others, our capital requirements are generally limited to general operations and administration, including the costs of continuing as a public company, and our variable costs scale up or down based on our actual sales.  We believe that increasing our marketing expenses will be critical to establishing sales sufficient to cover our expenses and, if possible, generate a profit.  We anticipate using our existing financing operations to do so, which will almost certainly require either the issuance of equity or increases in existing levels of debt or, most likely, both. 
+
+ 
+
+Management's plans include the raising of capital through the equity markets to fund future operations, seeking additional acquisitions, and generating revenue through our business. However, even if we do raise sufficient capital to support our operating expenses and generate adequate revenues, there can be no assurances that the revenue will be sufficient to enable us to develop business to a level where we will generate profits and positive cash flows from operations. These matters raise substantial doubt about our ability to continue as a going concern. These financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts or amounts and classification of liabilities that might result from this uncertainty.
+
+ 
+
+Off-Balance Sheet Arrangements
+
+ 
+
+We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, and capital expenditures or capital resources that are material to stockholders.
+
+ 
+
+Critical Accounting Policies
+
+ 
+
+Our financial statements are based on the application of accounting principles generally accepted in the United States ("US GAAP"). US GAAP requires the use of estimates; assumptions, judgments and subjective interpretations of accounting principles that have an impact on the assets, liabilities, revenue, and expense amounts reported. These estimates can also affect supplemental information contained in our external disclosures including information regarding contingencies, risk and financial condition. We believe our use of estimates and underlying accounting assumptions adhere to US GAAP and are consistently and conservatively applied that we believe to be reasonable under the circumstances. Actual results may differ materially from these estimates under different assumptions or conditions. We continue to monitor significant estimates made during the preparation of our financial statements.
+
+ 
+
+ 
+
+                                                                   19
+
+
+
+Table of Contents
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+The Company has evaluated recent pronouncements through Accounting Standards Updates ("ASU") and believes that none of them will have a material impact on the Company's financial position, results of operations or cash flows.
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+ 
+
+As a “smaller reporting company,” we are not required to provide the information required by this Item.
+
+ 
+
+Item 4. Controls and Procedures
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+As required by Rule 13a-15 under the Securities Exchange Act of 1934, we have carried out an evaluation of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this quarterly report, March 31, 2024.  This evaluation was carried out under supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer.
+
+ 
+
+Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in our reports filed or submitted under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported, within the time periods specified in the Securities and Exchange Commission's rules and forms. Disclosure controls and procedures include controls and procedures designed to ensure that information required to be disclosed in our company's reports filed under the Securities Exchange Act of 1934 is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure.
+
+ 
+
+Based upon that evaluation, including our Chief Executive Officer and Chief Financial Officer, we have concluded that our disclosure controls and procedures were ineffective as of the end of the period covered by this report due to a material weakness in our internal control over financial reporting, which is described below.
+
+ 
+
+Management's Report on Internal Control over Financial Reporting
+
+ 
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Securities Exchange Act of 1934). Management has assessed the effectiveness of our internal control over financial reporting as of September 30, 2023, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. As a result of this assessment, management concluded that, as of September 30, 2023, our internal control over financial reporting was not effective. Our management identified the following material weaknesses in our internal control over financial reporting, which are indicative of many small companies with small staff: (i) inadequate segregation of duties and effective risk assessment. and (ii) insufficient written policies and procedures for accounting and financial reporting with respect to the requirements and application of both US GAAP and SEC guidelines.
+
+ 
+
+ 
+
+                                                                   20
+
+
+
+Table of Contents
+
+ 
+
+We plan to take steps to enhance and improve the design of our internal control over financial reporting. During the period covered by this quarterly report on Form 10-Q, we have not been able to remediate the material weaknesses identified above. To remediate such weaknesses, we hope to implement the following changes during our fiscal year ending December 31, 2024: (i) appoint additional qualified personnel to address inadequate segregation of duties and ineffective risk management; and (ii) adopt sufficient written policies and procedures for accounting and financial reporting. The remediation efforts set out in (i) and (ii) are largely dependent upon our securing additional financing to cover the costs of implementing the changes required. If we are unsuccessful in securing such funds, remediation efforts may be adversely affected in a material manner.
+
+ 
+
+To a certain extent, the size of our operation provides inherent checks and balances relative to internal controls:  Because of our limited staff size and the integration of our executives and directors in operations, the prospect for significant internal control failures resulting in unreliable financial statements or worse is remote.  Regardless, we recognize the importance of multiple layers of reporting and controls and are working toward improving our capabilities.  
+
+ 
+
+Changes in Internal Control over Financial Reporting
+
+ 
+
+There was no change in the Company's internal control over financial reporting that occurred during the Company's most recently completed fiscal quarter that has materially affected, or is reasonably likely to materially affect, the Company's internal control over financial reporting.
+
+ 
+
+ 
+
+                                                                   21
+
+
+
+Table of Contents
+
+ 
+
+PART II - OTHER INFORMATION
+
+ 
+
+Item 1. Legal Proceedings
+
+ 
+
+At this time, we know of no pending legal proceedings to which we are a party, either individually or in the aggregate. We are from time-to-time, during the normal course of our business operations, subject to various litigation claims and legal disputes. There are no such claims or disputes pending at this time and we have not been notified of any possible claims or disputes.  
+
+ 
+
+Item 1A. Risk Factors
+
+ 
+
+As a “smaller reporting company”, we are not required to provide the information required by this Item.
+
+ 
+
+Covid-19 Pandemic Impact and Risk
+
+ 
+
+At this time, it is not possible to fully assess the impact of the COVID-19 pandemic on the Company’s operations and capital requirements. While we have noted that economic headwinds have eased generally, our business is impacted by numerous other influences.  Business activities from 1Q 2020 onward were substantially curtailed:  Our key executives were unable to travel, which impacted on our financing operations.  Consumer demand was generally down in our target markets, even though we offer products that are generally considered to promote health.  We delayed much of our marketing activity due to travel, funding and perceived demand issues.  We re-launched our marketing efforts during 1Q 2022, but these have slowed to gain traction. The other factors impeding the growth of our business have significantly changed:  travel restrictions have eased, and our finance partners have cash for investments or debt issuance.  Consumer demand for our products, however, has not increased significantly.  We believe this has more to do with poor reception to our marketing initiatives and the fact that we operate in a crowded market space, with several better-known and capitalized competitors.The CDC reports that US children and adults should remain vigilant to new mutations of the COVID-19 virus, and that the pandemic will likely continue to impact groups that comprise our intended consumers.  Should the pandemic reignite, the Company may be faced with the same headwinds we saw during 2021, which may adversely affect the Company’s ability to (i) retain employees and consultants; (ii) obtain additional financing on terms acceptable to the Company, if at all; (iii) delay regulatory submissions and approvals, if required; (iv) delay, limit or preclude the Company from securing manufacturing sites, partnerships or marketing agreements; (v) delay, limit or preclude the Company from achieving technology or product development goals, milestones, or objectives; and (vi) preclude or delay entry into joint venture or partnership arrangements. The occurrence of any one or more of such events may affect the Company’s ability to execute its business plan. During 2Q 2022, the Company commenced sponsorship of a COVID Long Hauler Survey, providing funding for scientific uses and samples of our pain, pulmonary and sleep products to participants.  While we do not (and cannot) make any manner of drug-type or treatment claims regarding disease, the Company has received anecdotal reports that certain combinations of our products provide relief from certain long-term COVID symptoms, including brain fog, persistent pain, and sleep disruptions.  Although we are careful not to make any COVID-related claims in our marketing materials, we intend to pursue this survey for general scientific purposes to determine additional uses for our products and has continue to support covid related testings.
+
+The Company’s priority and commitment is to the health and security of its team members, their families and its partners through this unprecedented pandemic.
+
+ 
+
+ 
+
+                                                                   22
+
+
+
+Table of Contents
+
+ 
+
+The Company has no insight into what would happen if COVID is to affect the economy again with its possible resurgence.
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+ 
+
+We issued equity securities during this reporting period to satisfy our convertible notes:
+
+ 
+
+1800 DIAGONAL LENDING, LLC                                                                                   44,583,333     01/13/2024
+
+1800 DIAGONAL LENDING, LLC                                                                                   31,927,083     01/04/2024
+
+1800 DIAGONAL LENDING, LLC                                                                                   48,500,000     03/26/2024
+
+1800 DIAGONAL LENDING, LLC                                                                                   48,500,000     03/27/2024
+
+1800 DIAGONAL LENDING, LLC                                                                                   37,000,000     03/27/2024
+
+1800 DIAGONAL LENDING, LLC                                                                                   48,500,000     03/28/2024
+
+Total                                                                                                         259,010,4   
+
+                                                                                                                     16
+
+ 
+
+There is only 1 tranche from the current conversion of this note and there are no such notes outstanding after this last tranche.
+
+.
+
+Item 3. Defaults Upon Senior Securities 
+
+ 
+
+The Company has no senior securities, but has outstanding instruments previously characterized as unsecured convertible debentures. These instruments are not senior to any other Company obligation. The Company arranged extension and forbearance agreements with the holders of the 12% Debentures, which were issued in 2018 and were due at various times in 2020. Our agreement called for the extension of these obligations on the same terms until December 31, 2021, in exchange for current interest payments and delivery of 280,000 shares of its common stock (total). We are currently in default on these obligations but are working on an alternative resolution.
+
+ 
+
+Item 4. Mine Safety Disclosures
+
+ 
+
+Not applicable.
+
+ 
+
+Item 5. Other Information
+
+ 
+
+Nothing to add.
+
+ 
+
+ 
+
+                                                                   23
+
+
+
+Table of Contents
+
+ 
+
+Item 6. Exhibits
+
+ 
+
+31.1      Section 302 Certification by the Principal Executive Officer
+
+           
+
+31.2      Section 302 Certification by the Principal Financial Officer
+
+           
+
+32.1      Section 906 Certification by the Principal Executive Officer
+
+           
+
+32.2      Section 906 Certification by the Principal Financial Officer
+
+  
+
+ 
+
+                                                                   24
+
+
+
+Table of Contents
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+                                                                        BioAdaptives Inc.                               
+
+                                                                        (Registrant)                                    
+
+                                                                                                                        
+
+Dated: May 17, 2024                                                     /s/ Dr. Edward E. Jacobs, M.D.                  
+
+                                                                        Dr. Edward E. Jacobs, M.D.                      
+
+                                                                        Chief Executive Officer                         
+
+                                                                                                                        
+
+                                                                        /s/ Robert W. Ellis                             
+
+                                                                        Robert W. Ellis                                 
+
+                                                                        Principal Financial Officer                     
+
+  
+
+ 
+
+                                                                   25

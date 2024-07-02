@@ -1,0 +1,2993 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES ACT OF 1934
+
+ 
+
+For the period ended March 31, 2024
+
+ 
+
+OR
+
+ 
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES ACT OF 1934
+
+ 
+
+For the transition period from ___________to ____________
+
+ 
+
+Commission File Number 001-41452
+
+ 
+
+
+
+ 
+
+GREENWAVE TECHNOLOGY SOLUTIONS, INC.
+
+(Exact name of business as specified in its charter)
+
+ 
+
+                             Delaware                                                           46-2612944
+
+                 (State or other jurisdiction of                                             (I.R.S. Employer
+
+                  incorporation or organization)                                           Identification No.)
+
+                                                                                                     
+
+            4016 Raintree Rd, Ste 300, Chesapeake, VA                                             23321
+
+             (Address of principal executive offices)                                           (Zip code)
+
+ 
+
+(800) 966-1432
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+                 Title of each class                      Trading Symbol(s)          Name of each exchange on which registered
+
+       Common Stock, $0.001 par value per share                 GWAV                        The Nasdaq Stock Market, LLC
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer           ☐                                 Accelerated filer                 ☐
+
+Non-accelerated filer             ☒                                 Smaller reporting company         ☒
+
+Emerging growth company           ☐                                                                    
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+ 
+
+As of May 20, 2024, there were 639,663,407 shares of the registrant’s common stock issued and outstanding.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+                                                         
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+PART I. FINANCIAL INFORMATION                                                                                                     
+
+          ITEM 1.        Financial Statements                                                                                    
+
+                         Condensed Consolidated Balance Sheets as of March 31, 2024 (unaudited) and December 31, 2023           1
+
+                         Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2024 and 2023     2
+
+                          (unaudited)
+
+                         Condensed Consolidated Statements of Stockholders’ Equity for the Three Months Ended March 31,         3
+
+                          2024 and 2023
+
+                          (unaudited)
+
+                         Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2024 and 2023     5
+
+                          (unaudited)
+
+                         Notes to Condensed Consolidated Financial Statements (unaudited)                                       6
+
+          ITEM 2.        Management’s Discussion and Analysis of Financial Condition and Results of Operations                  28
+
+          ITEM 3.        Quantitative and Qualitative Disclosures About Market Risk                                             33
+
+          ITEM 4.        Controls and Procedures                                                                                33
+
+                                                                                                                                 
+
+PART II. OTHER INFORMATION                                                                                                        
+
+          ITEM 1.        Legal Proceedings                                                                                      35
+
+          ITEM 1A.       Risk Factors                                                                                           35
+
+          ITEM 2.        Unregistered Sales of Equity Securities and Use of Proceeds                                            35
+
+          ITEM 3.        Defaults Upon Senior Securities                                                                        35
+
+          ITEM 4.        Mine Safety Disclosures                                                                                35
+
+          ITEM 5.        Other Information                                                                                      35
+
+          ITEM 6.        Exhibits                                                                                               37
+
+          SIGNATURES                                                                                                             38
+
+ 
+
+                                                                   i
+
+
+
+                                                         
+
+ 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+ 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, (the “Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended, (the “Exchange Act”) that are based on our management’s beliefs and assumptions and on information currently available to management, and which statements involve substantial risk and uncertainties. All statements contained in this Quarterly Report on Form 10-Q other than statements of historical fact, including statements regarding our future operating results and financial position, our business strategy and plans, market growth and trends, and objectives for future operations are forward-looking statements. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as “may,” “will,” “should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “potential,” or “continue” or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans or intentions.
+
+ 
+
+These statements are not guarantees of future performance and involve risks, uncertainties and assumptions that are difficult to predict. Therefore, actual outcomes and results may, and are likely to, differ materially from what is expressed or forecasted in the forward-looking statements due to numerous factors, including those set forth in “Item 1A. Risk Factors” in our Annual Report on Form 10-K, and our other filings with SEC. These risks and uncertainties include, among other things:
+
+ 
+
+     ●    Changing conditions in global markets including the impact of sanctions and tariffs, quotas and other trade actions and
+
+           import restrictions which may adversely affect our operating results, financial condition and cash
+
+           flows.
+
+     ●    Changes in the availability or price of inputs such as raw materials and end-of-life vehicles which could reduce our sales.
+
+     ●    Significant decreases in scrap metal prices which may adversely impact our operating results.
+
+     ●    Imbalances in supply and demand conditions in the global steel industry which may reduce demand for our products.
+
+     ●    Impairment of long-lived assets and equity investments which may adversely affect our operating results.
+
+     ●    Governmental agencies’ refusal to grant or renew our licenses and permits, thus restricting our ability to operate.
+
+ 
+
+Compliance with existing and future climate change and greenhouse gas emission laws and regulations which may adversely impact our operating results.
+
+ 
+
+You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this Quarterly Report on Form 10-Q. Any forward-looking statements speak only as of the date on which they are made, and we disclaim any obligation to publicly update or release any revisions to these forward-looking statements, whether as a result of new information, future events or otherwise, after the date of this Quarterly Report on Form 10-Q or to reflect the occurrence of unanticipated events, except as required by applicable law.
+
+ 
+
+                                                                   ii
+
+
+
+                                                         
+
+ 
+
+GREENWAVE TECHNOLOGY SOLUTIONS, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+ 
+
+                                                                                          March 31,               December 31,       
+
+                                                                                            2024                      2023           
+
+                                                                                         (Unaudited)                                 
+
+                                                                                                                                     
+
+                                     ASSETS                                                                                        
+
+Current assets:                                                                                                                    
+
+Cash                                                                               $              713,218   $            1,546,159 
+
+Inventories                                                                                       400,219                  200,428 
+
+Accounts receivable                                                                               943,245                  646,413 
+
+Prepaid expenses                                                                                  162,667                  296,761 
+
+Total current assets                                                                            2,219,349                2,689,761 
+
+                                                                                                                                   
+
+Property and equipment, net                                                                    22,596,251               23,495,440 
+
+Operating lease right of use assets, net - related party                                           78,842                  103,822 
+
+Operating lease right of use assets, net                                                        1,219,921                  198,558 
+
+Licenses, net                                                                                  15,955,500               16,487,350 
+
+Intellectual property, net                                                                      1,518,000                1,669,800 
+
+Customer List, net                                                                              1,679,250                1,735,225 
+
+Security deposit                                                                                   31,892                   31,893 
+
+                                                                                                                                   
+
+Total assets                                                                       $           45,299,005   $           46,411,849 
+
+                                                                                                                                   
+
+                 LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)                                                                    
+
+                                                                                                                                   
+
+Current liabilities:                                                                                                               
+
+Bank overdraft                                                                     $              298,264   $              118,763 
+
+Accounts payable and accrued expenses                                                           5,122,300                6,100,449 
+
+Accrued payroll and related expenses                                                            4,009,213                4,089,836 
+
+Factoring, net of unamortized debt discount of $1,347,230 and $-, respectively                  2,231,731                        - 
+
+Non-convertible notes payable, current portion, net of unamortized debt discount                2,751,628                2,623,561 
+
+ of $754,863 and $500,250,
+
+ respectively
+
+Convertible notes payable, current portion, net of unamortized debt discount of                 6,756,732                8,065,494 
+
+ $3,237,544 and $3,934,506,
+
+ respectively
+
+Due to related parties                                                                          1,166,940                2,070,402 
+
+Operating lease obligations, current portion - related party                                       83,430                  111,240 
+
+Operating lease obligations, current portion                                                      288,212                   89,731 
+
+Total current liabilities                                                                      22,708,450               23,269,476 
+
+                                                                                                                                   
+
+Operating lease obligations, less current portion                                                 929,394                   94,943 
+
+Related party note payable                                                                      7,218,350               17,218,350 
+
+Convertible notes payable, net of unamortized debt discount of $1,438,908 and                   3,002,992                4,032,747 
+
+ $1,967,253,
+
+ respectively
+
+Non-convertible notes payable, net of unamortized debt discount of $1,597,247                   5,828,294                6,250,481 
+
+ and $1,965,113,
+
+ respectively
+
+Total liabilities                                                                              39,687,480               50,865,997 
+
+                                                                                                                                   
+
+Commitments and contingencies (See Note 11)                                                             -                        - 
+
+                                                                                                                                   
+
+Stockholders’ equity (deficit):                                                                                                    
+
+Preferred stock - 10,000,000 shares authorized:                                                                                    
+
+Preferred stock - Series D, $0.001 par value, $10,000 stated value, 1,000 and 0                         1                        - 
+
+ shares authorized; 1,000 and 0 shares to be issued,
+
+ respectively
+
+Common stock, $0.001 par value, 1,200,000,000 and 500,000,000 shares authorized;                   43,865                   16,964 
+
+ 43,864,860 and 16,964,336 shares issued and outstanding,
+
+ respectively
+
+Common stock to be issued, 241,373 and 0 shares, respectively                                         241                        - 
+
+Subscription receivable                                                                           (67,923)                       - 
+
+Additional paid in capital                                                                    434,962,276              391,395,045 
+
+Accumulated deficit                                                                          (429,326,935)            (395,866,157)
+
+Total stockholders’ equity (deficit)                                                            5,611,525               (4,454,148)
+
+                                                                                                                                   
+
+Total liabilities and stockholders’ equity (deficit)                               $           45,299,005   $           46,411,849 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   1
+
+
+
+                                                         
+
+ 
+
+GREENWAVE TECHNOLOGY SOLUTIONS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Unaudited)
+
+ 
+
+                                                                                          For the Three Months Ended March 31,        
+
+                                                                                            2024                      2023           
+
+                                                                                                                                     
+
+Revenues                                                                           $            8,504,777   $            9,043,422 
+
+                                                                                                                                   
+
+Cost of Revenues                                                                                5,240,516                4,316,811 
+
+                                                                                                                                   
+
+Gross Profit                                                                                    3,264,261                4,726,611 
+
+                                                                                                                                   
+
+Operating Expenses:                                                                                                                
+
+Advertising                                                                                         2,374                    5,522 
+
+Payroll and related expense                                                                     1,738,028                1,951,259 
+
+Rent, utilities and property maintenance ($192,720 and $672,557, respectively,                    443,872                1,023,709 
+
+ to
+
+ related-party)
+
+Hauling and equipment maintenance                                                                 601,562                1,250,717 
+
+Depreciation and amortization expense                                                           1,638,815                1,268,853 
+
+Consulting, accounting and legal                                                                  612,271                  273,073 
+
+Stock based compensation for services                                                             288,900                        - 
+
+Stock Compensation                                                                                 20,833                        - 
+
+Other general and administrative expenses                                                         729,330                  888,654 
+
+Total Operating Expenses                                                                        6,075,985                6,661,787 
+
+                                                                                                                                   
+
+Loss From Operations                                                                           (2,811,724)              (1,935,176)
+
+                                                                                                                                   
+
+Other Income (Expense):                                                                                                            
+
+Interest expense and amortization of debt discount                                             (2,194,229)              (2,165,504)
+
+Other gain (loss)                                                                                   1,351                        - 
+
+Equity issued for warrant inducement                                                           (3,029,927)                       - 
+
+Shares issued for Financing                                                                       (52,183)                       - 
+
+Gain on conversion of convertible notes                                                            24,198                        - 
+
+Gain on settlement of non-convertible notes payable and advances                                        -                   75,005 
+
+Total Other Expense                                                                            (5,250,790)              (2,090,499)
+
+                                                                                                                                   
+
+Net Loss Before Income Taxes                                                                   (8,062,514)              (4,025,675)
+
+                                                                                                                                   
+
+Provision for Income Taxes (Benefit)                                                                    -                        - 
+
+                                                                                                                                   
+
+Net Loss                                                                                       (8,062,514)              (4,025,675)
+
+                                                                                                                                   
+
+Deemed dividend for the reduction of exercise price of warrants                                (1,444,324)                       - 
+
+Deemed dividend for the reduction of the conversion price of a debt note                      (23,953,940)                       - 
+
+                                                                                                                                   
+
+Net Loss Available to Common Stockholders                                          $          (33,460,778)  $           (4,025,675)
+
+                                                                                                                                   
+
+Net Loss Per Common Share:                                                                                                         
+
+Basic                                                                              $                (0.39)  $                (0.36)
+
+Diluted                                                                            $                (0.39)  $                (0.36)
+
+                                                                                                                                   
+
+Weighted Average Common Shares Outstanding:                                                                                        
+
+Basic                                                                                          20,858,437               11,209,142 
+
+Diluted                                                                                        20,858,437               11,209,142 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   2
+
+
+
+                                                         
+
+ 
+
+GREENWAVE TECHNOLOGY SOLUTIONS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (DEFICIT)
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024
+
+(Unaudited) 
+
+ 
+
+                Preferred Stock                                                                                                               
+
+                Series D to be         Common Stock         Common Stock       Subscription     Additional      Accumulated                  
+
+                     Issued                                  to be Issued                          Paid
+
+               Shares    Amount       Shares      Amount     Shares    Amount      Receivable      In Capital        Deficit          Total     
+
+                                                                                                                                                
+
+Balance at            -  $      -     16,964,336  $ 16,964          -  $       -  $            -  $  391,395,045  $ (395,866,157) $  (4,454,148)
+
+ December 31,
+
+ 2023
+
+Exchange of       1,000  $      1              -         -          -          -               -  $    9,999,999               -  $  10,000,000 
+
+ non-convertib
+
+le note into
+
+ shares of
+
+ Series D
+
+ Preferred
+
+Common stock          -         -     10,864,690  $ 10,865          -  $       -  $            -  $    2,031,677               -  $   2,042,542 
+
+ issued for
+
+ the
+
+ conversion
+
+ of
+
+ convertible
+
+ debt
+
+ notes
+
+Common stock          -         -     16,035,834  $ 16,036    241,373  $     241  $      (67,923) $    2,818,464               -  $   2,766,818 
+
+ issued for
+
+ the exercise
+
+ of warrants
+
+ for
+
+ cash
+
+Stock based           -         -              -         -          -          -               -  $      288,900               -  $     288,900 
+
+ compensation
+
+Equity issued         -         -              -         -          -          -               -  $    3,029,927               -  $   3,029,927 
+
+ for warrant
+
+ inducement
+
+Deemed                -         -              -         -          -          -               -  $   23,953,940  $  (23,953,940)             - 
+
+ dividend for
+
+ the
+
+ reduction of
+
+ the
+
+ conversion
+
+ price of a
+
+ debt
+
+ note
+
+Deemed                -         -              -         -          -          -               -  $    1,444,324  $   (1,444,324)             - 
+
+ dividend for
+
+ the
+
+ reduction of
+
+ the exercise
+
+ price of
+
+ warrants
+
+Net loss              -         -              -         -          -          -               -               -  $   (8,062,514) $  (8,062,514)
+
+Balance at        1,000  $      1     43,864,860  $ 43,865    241,373  $     241  $      (67,923) $  434,962,276  $ (429,326,935) $   5,611,525 
+
+ March 31,
+
+ 2024
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   3
+
+
+
+                                                         
+
+ 
+
+GREENWAVE TECHNOLOGY SOLUTIONS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (DEFICIT)
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2023
+
+(Unaudited) 
+
+ 
+
+                                                                                                                                  
+
+                               Preferred Stock             Common Stock         Additional Paid     Accumulated                    
+
+                                   Series Z
+
+                             Shares      Amount       Shares        Amount       In Capital         Deficit           Total      
+
+                                                                                                                                 
+
+Balance at December 31,          322  $        -      10,962,319  $  10,962  $   377,595,618  $   (362,269,015) $   15,337,565 
+
+ 2022
+
+Issuance of common stock         (72)          -         288,494  $     289  $          (288)                -  $            1 
+
+ upon conversion of Series
+
+ Z
+
+ Preferred
+
+Net loss                           -           -               -          -                -  $     (4,025,675) $   (4,025,675)
+
+Balance at March 31, 2023        250  $        -      11,250,813  $  11,251  $   377,595,330  $   (366,294,690) $   11,311,891 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   4
+
+
+
+                                                         
+
+ 
+
+GREENWAVE TECHNOLOGY SOLUTIONS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASHFLOWS
+
+(Unaudited) 
+
+ 
+
+                                                                                          For the Three Months Ended March 31,        
+
+                                                                                            2024                      2023           
+
+                                                                                                                                     
+
+Cash flows from operating activities:                                                                                              
+
+Net loss                                                                           $           (8,062,514)  $           (4,025,675)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                        
+
+Depreciation and amortization of intangible assets                                              1,638,815                1,268,853 
+
+Amortization of right of use assets, net - related-party                                           24,980                  602,404 
+
+Amortization of right of use assets, net                                                           48,935                   43,226 
+
+Interest and amortization of debt discount                                                      2,194,229                1,861,971 
+
+Gain on conversion of debt                                                                        (24,198)                       - 
+
+Gain (loss) on settlement of non-convertible notes payable and advances                                 -                  (75,005)
+
+Stock based compensation for services                                                             288,900                        - 
+
+Stock based compensation                                                                           20,833                          
+
+Equity issued for warrant inducement                                                            3,029,927                        - 
+
+Shares issued for Financing                                                                        52,183                        - 
+
+Changes in operating assets and liabilities:                                                                                       
+
+Changes in due to related party                                                                  (903,462)                 529,693 
+
+Inventories                                                                                      (199,791)                (303,826)
+
+Accounts receivable                                                                              (296,832)                (144,269)
+
+Prepaid expenses                                                                                  113,261                  (42,262)
+
+Security deposit                                                                                        -                  (25,000)
+
+Accounts payable and accrued expenses                                                          (1,649,694)                 812,188 
+
+Accrued payroll and related expenses                                                              328,781                  (36,649)
+
+Principal payments made on operating lease liability - related-party                              (39,791)                (574,454)
+
+Principal payments made on operating lease liability                                              (25,385)                 (95,160)
+
+Net cash used in operating activities                                                          (3,460,823)                (203,965)
+
+                                                                                                                                   
+
+Cash flows from investing activities:                                                                                              
+
+Purchases of property and equipment                                                                     -                 (712,335)
+
+Net cash used in investing activities                                                                   -                 (712,335)
+
+                                                                                                                                   
+
+Cash flows from financing activities:                                                                                              
+
+Proceeds from warrant exercises                                                                 2,574,679                        - 
+
+Repayment of convertible notes                                                                 (1,497,083)                       - 
+
+Proceeds from issuance of non-convertible notes payable                                                 -                1,000,000 
+
+Bank overdrafts                                                                                   179,501                        - 
+
+Repayment of a non-convertible notes payable                                                     (456,776)                (519,543)
+
+Proceeds from factoring                                                                         2,843,950                1,876,109 
+
+Repayments of factoring                                                                        (1,016,389)              (1,985,985)
+
+Net cash provided by financing activities                                                       2,627,882                  370,581 
+
+                                                                                                                                   
+
+Net increase (decrease) in cash                                                                  (832,941)                (545,719)
+
+                                                                                                                                   
+
+Cash, beginning of year                                                                         1,546,159                  821,804 
+
+Cash, end of year                                                                  $              713,218   $              276,085 
+
+                                                                                                                                   
+
+Supplemental disclosures of cash flow information:                                                                                 
+
+Cash paid during period for interest                                               $              309,170   $               20,646 
+
+Cash paid during period for taxes                                                  $                    -   $                    - 
+
+                                                                                                                                   
+
+Supplemental disclosure of non-cash investing and financing activities:                                                            
+
+Deemed dividend for conversion price reduction of note                             $           23,953,940   $                    - 
+
+Factoring proceeds utilized for payoff of factoring liabilities                    $                    -   $            5,004,393 
+
+Equipment purchased by issuance of non-convertible notes payable                   $                    -   $            2,840,958 
+
+Deemed dividend for exercise price reduction of warrants                           $            1,444,324   $                    - 
+
+Exchange of notes to Series D Preferred                                            $           10,000,000   $                    - 
+
+Increase in right of use assets and operating lease liabilities                    $            1,070,298   $              199,466 
+
+Common shares issued upon conversion of Series Z Preferred                         $                    -   $                  289 
+
+Common shares issued upon conversion of convertible notes and accrued interest     $            2,066,740   $                    - 
+
+Advance utilized for equipment purchases                                           $                    -   $            1,193,380 
+
+Legal fees paid out of warrant exercise                                            $              139,955   $                    - 
+
+Advance for asset                                                                  $                    -   $              162,000 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   5
+
+
+
+                                                         
+
+ 
+
+GREENWAVE TECHNOLOGY SOLUTIONS, INC.
+
+Notes to Condensed Consolidated Financial Statements
+
+March 31, 2024 (Unaudited)
+
+ 
+
+NOTE 1 – NATURE OF OPERATIONS AND BASIS OF PRESENTATION
+
+ 
+
+Overview
+
+ 
+
+Greenwave Technology Solutions, Inc. (“Greenwave”, the “Company”, “we”, “us” or “ours”) was incorporated in the State of Delaware on April 26, 2013 as a technology platform developer under the name MassRoots, Inc. The Company sold its social media assets in October 2021 and has discontinued all operations related to this business. On September 30, 2021, we closed our acquisition of Empire Services, Inc. (“Empire”), which operates 13 metal recycling facilities in Virginia and North Carolina. The acquisition was effective October 1, 2021 upon the effectiveness of the Certificate of Merger in Virginia.
+
+ 
+
+In December 2022, we began offering hauling services to corporate clients. We haul sand, dirt, asphalt, metal, and other materials in a fleet of approximately 50 trucks which we own, manage, and maintain.
+
+ 
+
+The accompanying condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”) for financial information and pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”). Our condensed consolidated financial statements include the accounts of Empire Services, Inc., Liverman Metal Recycling, Inc., Empire Staffing, LLC, Scrap App, Inc., and Greenwave Elite Sports Facility, Inc., our wholly owned subsidiaries. All intercompany transactions were eliminated during consolidation.
+
+ 
+
+Basis of Presentation
+
+ 
+
+The interim unaudited condensed consolidated financial statements included herein have been prepared by the Company, without audit, pursuant to the rules and regulations of the SEC. In the opinion of the Company’s management, all adjustments (consisting of normal recurring adjustments and reclassifications and non-recurring adjustments) necessary to present fairly the Company’s results of operations for the three months ended March 31, 2024 and 2023, its cash flows for the three months ended March 31, 2024 and 2023, and its financial position as of March 31, 2024 have been made. The results of operations for such interim periods are not necessarily indicative of the operating results to be expected for the full year.
+
+ 
+
+Certain information and disclosures normally included in the notes to the annual consolidated financial statements have been condensed or omitted from these interim unaudited condensed consolidated financial statements. Accordingly, these interim unaudited condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 as filed with the SEC on April 16, 2024 (the “Annual Report”). The December 31, 2023 balance sheet is derived from those statements.
+
+ 
+
+NOTE 2 – GOING CONCERN AND MANAGEMENT’S LIQUIDITY PLANS
+
+ 
+
+As of March 31, 2024, the Company had cash of $713,218 and a working capital deficit (current liabilities in excess of current assets) of $(20,489,101). The accumulated deficit as of March 31, 2024 was $(429,326,935). These conditions raise substantial doubt about the Company’s ability to continue as a going concern for one year from the issuance of the consolidated financial statements.
+
+ 
+
+If the Company raises additional funds by issuing equity securities, its stockholders would experience dilution. Additional debt financing, if available, may involve covenants restricting its operations or its ability to incur additional debt. Any additional debt financing or additional equity that the Company raises may contain terms that are not favorable to it or its stockholders and require significant debt service payments, which diverts resources from other activities. The Company’s ability to raise additional capital will be impacted by market conditions and the price of the Company’s common stock.
+
+ 
+
+                                                                   6
+
+
+
+                                                         
+
+ 
+
+Accordingly, the accompanying unaudited condensed consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities in the normal course of business for one year from the date the condensed consolidated financial statements are issued. The carrying amounts of assets and liabilities presented in the unaudited condensed consolidated financial statements do not necessarily purport to represent realizable or settlement values. The unaudited condensed consolidated financial statements do not include any adjustments that might result should the Company be unable to continue as a going concern.
+
+ 
+
+NOTE 3 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+
+Principles of Consolidation
+
+ 
+
+The unaudited condensed consolidated financial statements include the accounts of Greenwave Technology Solutions, Inc. and its wholly owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Significant estimates include estimates used in the calculation of stock-based compensation, payroll tax liabilities with interest and penalties, deemed dividends, allowance for doubtful accounts, assumptions used in right-of-use and lease liability calculations, valuations and impairments of goodwill and intangible assets acquired in business combination, estimated useful life of long-lived assets and finite life tangible assets, and the valuation allowance related to deferred tax assets. Actual results may differ from these estimates.
+
+ 
+
+Fair Value of Financial Instruments
+
+ 
+
+The Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Subtopic 825-10, “Financial Instruments” (“ASC 825-10”) requires disclosure of the fair value of certain financial instruments. The estimated fair value of certain financial instruments, including cash, accounts payable and accrued liabilities are carried at historical cost basis, which approximates their fair value because of the short-term maturity of these instruments. All other significant financial assets, financial liabilities and equity instruments of the Company are either recognized or disclosed in the condensed consolidated financial statements together with other information relevant for making a reasonable assessment of future cash flows, interest rate risk and credit risk.
+
+ 
+
+The Company follows ASC 825-10, which permits entities to choose to measure many financial instruments and certain other items at fair value.
+
+ 
+
+Cash
+
+ 
+
+For purposes of the condensed consolidated statements of cash flows, the Company considers highly liquid investments with an original maturity of three months or less to be cash equivalents. As of March 31, 2024 and December 31, 2023, the Company had no cash equivalents. The Company maintains its cash in banks insured by the Federal Deposit Insurance Corporation in accounts that at times may be in excess of the federally insured limit of $250,000 per bank. The Company minimizes this risk by placing its cash deposits with major financial institutions. As of March 31, 2024 and December 31, 2023, the uninsured balances amounted to $505,707 and $1,267,659, respectively.
+
+ 
+
+                                                                   7
+
+
+
+                                                         
+
+ 
+
+Accounts Receivable
+
+ 
+
+Accounts receivable represent amounts primarily due from customers on product and other sales. These accounts receivable, which are reduced by an allowance for credit losses, are recorded at the invoiced amount and do not bear interest. The Company delivers shipments of scrap metal to customers and typically receives payment within 45 days of delivery.
+
+ 
+
+The Company evaluates the collectability of its accounts receivable based on a combination of factors, including the aging of customer receivable balances, the financial condition of the Company’s customers, historical collection rates, and economic trends. Management uses this evaluation to estimate the amount of customer receivables that may not be collected in the future and records a provision for expected credit losses. Accounts are written off when all efforts to collect have been exhausted. As of March 31, 2024 and December 31, 2023, the accounts receivable balances amounted to $943,245 and $646,413, respectively.
+
+ 
+
+Property and Equipment, net
+
+ 
+
+We state property and equipment at cost or, if acquired through a business combination, fair value at the date of acquisition. We calculate depreciation and amortization using the straight-line method over the estimated useful lives of the assets, except for our leasehold improvements, which are depreciated over the shorter of their estimated useful lives or their related lease term. Upon the sale or retirement of assets, the cost and related accumulated depreciation are removed from our accounts and the resulting gain or loss is credited or charged to income. We expense costs for repairs and maintenance when incurred. Our property and equipment is pledged as collateral for certain factoring advances and promissory notes, see Note 8 – Factoring Advances and Non-Convertible Notes.
+
+ 
+
+Cost of Revenue
+
+ 
+
+The Company’s cost of revenue consists primarily of the costs of purchasing metal from its suppliers, direct costs of providing hauling costs to customers, and cost of other revenue, including sand.
+
+ 
+
+Related Party Transactions
+
+ 
+
+Parties are considered related to the Company if the parties, directly or indirectly, through one or more intermediaries, control, are controlled by, or are under common control with the Company. Related parties also include principal owners of the Company, its management, members of the immediate families of principal owners of the Company and its management and other parties with which the Company may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests. The Company discloses all related party transactions. See Note 17 – Related Party Transactions.
+
+ 
+
+Leases
+
+ 
+
+The Company accounts for its leases under ASC 842, Leases. Under this guidance, arrangements meeting the definition of a lease are classified as operating or financing leases and are recorded on the condensed consolidated balance sheet as both a right of use asset and lease liability, calculated by discounting fixed lease payments over the lease term at the rate implicit in the lease or the Company’s incremental borrowing rate. Lease liabilities are increased by interest and reduced by payments each period, and the right of use asset is amortized over the lease term. For operating leases, interest on the lease liability and the amortization of the right of use asset result in straight-line rent expense over the lease term. Variable lease expenses, if any, are recorded when incurred.
+
+ 
+
+In calculating the right of use asset and lease liability, the Company elected to combine lease and non-lease components. The Company excluded short-term leases having initial terms of 12 months or less from the new guidance as an accounting policy election and recognizes rent expense on a straight-line basis over the lease term. See Note 12 – Leases.
+
+ 
+
+                                                                   8
+
+
+
+                                                         
+
+ 
+
+Commitments and Contingencies
+
+ 
+
+From time to time, we may become involved in various lawsuits and legal proceedings, which arise in the ordinary course of business. Litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm our business. Except as set forth below, we are currently not aware of any such legal proceedings or claims that will have, individually or in the aggregate, a material adverse effect on our business, financial condition or operating results. See Note 13 – Commitments and Contingencies.
+
+ 
+
+Revenue Recognition
+
+ 
+
+The Company recognizes revenue when services are realized or realizable and earned, less estimated future doubtful accounts.
+
+ 
+
+The Company’s revenues are accounted for under ASC Topic 606, “Revenue From Contracts With Customers” (“ASC 606”) and generally do not require significant estimates or judgments based on the nature of the Company’s revenue streams. The sales prices are generally fixed at the point of sale and all consideration from contracts is included in the transaction price. The Company’s contracts do not include multiple performance obligations or material variable consideration.
+
+ 
+
+In accordance with ASC 606, the Company recognizes revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services. The Company recognizes revenue in accordance with that core principle by applying the following:
+
+ 
+
+(i)  Identify the contract(s) with a customer;
+
+ 
+
+(ii) Identify the performance obligation in the contract;
+
+      
+
+(iii)Determine the transaction price;
+
+      
+
+(iv) Allocate the transaction price to the performance obligations in the contract; and
+
+      
+
+(v)  Recognize revenue when (or as) the Company satisfies a performance obligation.
+
+ 
+
+The Company primarily generates revenue by purchasing scrap metal from businesses and retail suppliers, processing it, and selling the ferrous and non-ferrous metals to clients.
+
+ 
+
+The Company realizes revenue upon the fulfillment of its performance obligations to customers.
+
+ 
+
+Inventories
+
+ 
+
+Although we ship the ferrous and non-ferrous metals we purchase from suppliers multiple times per day, we do maintain inventories. We calculate the value of the inventories we do carry, which consist of processed and unprocessed scrap metal (ferrous and nonferrous), used and salvaged vehicles, and supplies, based on the net realizable value or the cost of the inventories, whichever is less. We calculate the value of the inventory based on the first-in-first-out (FIFO) methodology. We calculate the value of finished products based on their net realizable value as their cost basis is not readily available. The value of our inventories was $400,219 and $ 200,428, respectively, as of March 31, 2024 and December 31, 2023. See Note 5 – Inventories.
+
+ 
+
+Advertising
+
+ 
+
+The Company charges the costs of advertising to expense as incurred. Advertising costs were $2,374 and $5,522 for the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+                                                                   9
+
+
+
+                                                         
+
+ 
+
+Stock-Based Compensation
+
+ 
+
+Stock-based compensation expense is measured at the grant date fair value of the award and is expensed over the requisite service period. For stock-based awards to employees, non-employees and directors, the Company calculates the fair value of the award on the date of grant using the Black-Scholes option pricing model. Determining the fair value of stock-based awards at the grant date under this model requires judgment, including estimating volatility, employee stock option exercise behaviors and forfeiture rates. The assumptions used in calculating the fair value of stock-based awards represent the Company’s best estimates, but these estimates involve inherent uncertainties and the application of management’s judgment.
+
+ 
+
+Income Taxes
+
+ 
+
+The Company follows ASC Subtopic 740-10, “Income Taxes” (“ASC 740-10”) for recording the provision for income taxes. Deferred tax assets and liabilities are computed based upon the difference between the financial statement and income tax basis of assets and liabilities using the enacted marginal tax rate applicable when the related asset or liability is expected to be realized or settled. Deferred income tax expenses or benefits are based on the changes in the asset or liability during each period.
+
+ 
+
+If available evidence suggests that it is more likely than not that some portion or all of the deferred tax assets will not be realized, a valuation allowance is required to reduce the deferred tax assets to the amount that is more likely than not to be realized. Future changes in such valuation allowance are included in the provision for deferred income taxes in the period of change. Deferred income taxes may arise from temporary differences resulting from income and expense items reported for financial accounting and tax purposes in different periods.
+
+ 
+
+Convertible Instruments
+
+ 
+
+U.S. GAAP requires companies to bifurcate conversion options from their host instruments and account for them as freestanding derivative financial instruments according to certain criteria. The criteria include circumstances in which (a) the economic characteristics and risks of the embedded derivative instrument are not clearly and closely related to the economic characteristics and risks of the host contract, (b) the hybrid instrument that embodies both the embedded derivative instrument and the host contract is not re-measured at fair value under otherwise applicable generally accepted accounting principles with changes in fair value reported in earnings as they occur, and (c) a separate instrument with the same terms as the embedded derivative instrument would be considered a derivative instrument. An exception to this rule is when the host instrument is deemed to be conventional, as that term is described under ASC 480, “Distinguishing Liabilities From Equity.”
+
+ 
+
+Deemed Dividend
+
+ 
+
+The Company records, when necessary, deemed dividends for: (i) warrant price protection, based on the difference between the fair value of the warrants immediately before and after the repricing (inclusive of any full ratchet provisions); (ii) the exchange of preferred shares for convertible notes, based on the amount of the face value of the convertible notes in excess of the carrying value of the preferred shares; (iii) the settlement of warrant provisions, based on the fair value of the common shares issued; and (iv) amortization of discount on preferred stock resulting from recognition of a beneficial conversion feature.
+
+ 
+
+Issuance of Debt Instruments With Detachable Stock Purchase Warrants
+
+ 
+
+Proceeds from the issuance of a debt instrument with stock purchase warrants (detachable call options) are allocated to the two elements based on the relative fair values of the debt instrument without the warrants and of the warrants themselves at time of issuance. The portion of the proceeds allocated to the warrants are recorded as additional paid-in capital. The remainder of the proceeds are allocated to the debt instrument portion of the transaction. Such issuances generally result in a discount (or, occasionally, a reduced premium) relative to the debt instrument, which is amortized to interest expense using the effective interest rate method.
+
+ 
+
+                                                                   10
+
+
+
+                                                         
+
+ 
+
+Environmental Remediation Liability
+
+ 
+
+The operations of the Company, like those of other companies in its industry, are subject to various domestic and foreign environmental laws and regulations. These laws and regulations not only govern current operations and products, but also impose potential liability on the Company for past operations. Management expects environmental laws and regulations to impose increasingly stringent requirements upon the Company and the industry in the future. Management believes that the Company conducts its operations in compliance with applicable environmental laws and regulations and has implemented various programs designed to protect the environment and promote continued compliance.
+
+ 
+
+The Company continuously assesses its potential liability for remediation-related activities and adjusts its environmental-related accruals as information becomes available upon which more accurate costs can be reasonably estimated and as additional accounting guidelines are issued. As of March 31, 2024 and December 31, 2023, the Company had accruals reported on the balance sheet as current liabilities of $0 and $0, respectively, as the Company had paid all civil penalties and completed all remediation activities required under the Virginia DEQ Consent Order dated June 30, 2021. See Note 13 —Commitments and Contingencies.
+
+ 
+
+Actual costs incurred may vary from the accrued estimates due to the inherent uncertainties involved including, among others, the nature and magnitude of the wastes involved, the various technologies that can be used for remediation and the determination of acceptable remediation with respect to a particular site. Additionally, costs for environmental-related activities may not be reasonably estimable and therefore would not be included in our current liabilities.
+
+ 
+
+Management believes these contingent environmental-related liabilities have been resolved.
+
+ 
+
+Long-Lived Assets
+
+ 
+
+The Company reviews its property and equipment and any identifiable intangibles for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. The test for impairment is required to be performed by management at least annually. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to the future undiscounted operating cash flow expected to be generated by the asset. If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the asset exceeds the fair value of the asset. Long-lived assets to be disposed of are reported at the lower of carrying amount or fair value less costs to sell. Intangible assets are stated at cost and reviewed annually to examine any impairments, usually assuming an estimated useful life of five to ten years. When retired or otherwise disposed, the related carrying value and accumulated depreciation are removed from the respective accounts and the net difference less any amount realized from disposition, is reflected in earnings. The estimated useful lives of the Intellectual Property, Customer List, and Licenses assumed in the Empire acquisition is 5 years, 10 years, and 10 years, respectively. See Note 7 – Amortization of Intangible Assets.
+
+ 
+
+Factoring Agreements
+
+ 
+
+We have entered into factoring agreements with various financial institutions to receive cash for our future revenues. These transactions are treated as a debt instrument and are accounted for as a liability because the Company makes weekly payments towards the balance and fees. We utilize factoring arrangements as an integral part of our financing for working capital. Any change in the availability of these factoring arrangements could have a material adverse effect on our financial condition. As of March 31, 2024 and December 31, 2023, the Company owed $2,231,731 and $0, net debt discounts of $1,347,230 and $0, respectively for factoring advances. See Note 8 – Factoring Advances and Non-Convertible Notes Payable.
+
+ 
+
+                                                                   11
+
+
+
+                                                         
+
+ 
+
+Segment Reporting
+
+ 
+
+Operating segments are defined as components of an enterprise for which separate financial information is available and evaluated regularly by the Chief Financial Officer, or decision-making group, in deciding the method to allocate resources and assess performance. The Company currently has one reportable segment for financial reporting purposes, which represents the Company’s core business.
+
+ 
+
+Net Earnings (Loss) Per Common Share
+
+ 
+
+The Company computes earnings (loss) per common share under ASC Subtopic 260-10, Earnings Per Share. Net loss per common share is computed by dividing net loss by the weighted average number of shares of common stock outstanding during the period. Diluted earnings per share, if presented, would include the dilution that would occur upon the exercise or conversion of all potentially dilutive securities into common stock using the “treasury stock” and/or “if converted” methods, as applicable.
+
+ 
+
+The computation of basic and diluted income (loss) per share, for the three months ended March 31, 2023 and 2023 excludes potentially dilutive securities when their inclusion would be anti-dilutive, or if their exercise prices were greater than the average market price of the common stock during the period.
+
+ 
+
+Potentially dilutive securities are as follows:
+
+SCHEDULE OF POTENTIALLY DILUTIVE SECURITIES EXCLUDED FROM THE COMPUTATION OF BASIC AND DILUTED NET LOSS PER SHARE 
+
+                                                                                March 31,              March 31,       
+
+                                                                                   2024                   2023
+
+Common shares issuable upon conversion of convertible notes                          92,067,453                      - 
+
+Options to purchase common shares                                                        92,166                 92,166 
+
+Warrants to purchase common shares                                                   32,723,490              9,756,876 
+
+Common shares issuable upon conversion of preferred stock                            49,019,608              1,013,500 
+
+Total potentially dilutive shares                                                   173,902,717             10,862,542 
+
+ 
+
+                                                                   12
+
+
+
+                                                         
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+There are various updates recently issued, most of which represented technical corrections to the accounting literature or application to specific industries and are not expected to have a material impact on the Company’s financial position, results of operations or cash flows.
+
+ 
+
+NOTE 4 – CONCENTRATIONS OF RISK
+
+ 
+
+Accounts Receivable
+
+ 
+
+The Company has a concentration of credit risk with its accounts receivable balance. At March 31, 2024, seven certain large customers individually accounted for $167,479, $139,090, $132,983, $109,774, $84,363, $69,186, $61,544, or 18%, 15%, 14%, 12%, 9%, 7%, and 7%, respectively. At December 31, 2023, six certain large customers individually accounted for $154,090, $95,510, $95,219, $62,057, $59,932, and $54,007, or 23.84%, 14.78%, 14.74%, 9.60%, 9.27%, and 8.35%, respectively.
+
+ 
+
+Customer Concentrations
+
+ 
+
+The Company has a concentration of customers. For the three months ended March 31, 2024, two customers individually accounted for $5,688,064 and $478,248, or approximately 67% and 6% of our revenues, respectively. For the three months ended March 31, 2023, two customers individually accounted for $5,200,126 and $536,624, or
+
+approximately 58% and 6% of our revenues, respectively.
+
+ 
+
+The Company’s sales are concentrated in the Virginia and northeastern North Carolina markets.
+
+ 
+
+NOTE 5 – INVENTORIES
+
+ 
+
+Inventories as of March 31, 2024 and December 31, 2023 consisted of the following:
+
+ 
+
+SCHEDULE OF INVENTORIES
+
+                                                                                March 31,              December 31,      
+
+                                                                                   2024                    2023
+
+Processed and unprocessed scrap metal                                      $            400,219   $            200,428 
+
+Finished products                                                                             -                      - 
+
+Inventories                                                                $            400,219   $            200,428 
+
+ 
+
+                                                                   13
+
+
+
+                                                         
+
+ 
+
+NOTE 6 – PROPERTY AND EQUIPMENT
+
+ 
+
+Property and equipment as of March 31, 2024 and December 31, 2023 is summarized as follows:
+
+ 
+
+SCHEDULE OF PROPERTY AND EQUIPMENT
+
+                                                                                March 31,              December 31,      
+
+                                                                                   2024                    2023
+
+Machinery and Equipment                                                    $         18,028,893   $         18,028,893 
+
+Furniture and Fixtures                                                                    6,128                  6,128 
+
+Land                                                                                    980,129                980,129 
+
+Buildings                                                                               724,170                724,170 
+
+Vehicles                                                                              7,149,919              7,149,919 
+
+Leaseholder Improvements                                                              1,862,593              1,862,593 
+
+Subtotal                                                                             28,751,832             28,751,832 
+
+                                                                                                                       
+
+Less accumulated depreciation                                                        (6,155,581)            (5,256,392)
+
+Property and equipment, net                                                $         22,596,251   $         23,495,440 
+
+ 
+
+Depreciation expense for the three months ended March 31, 2024 and 2023 was $899,190 and $529,228, respectively
+
+ 
+
+NOTE 7 – AMORTIZATION OF INTANGIBLE ASSETS
+
+ 
+
+All of the Company’s current identified intangible assets were assumed upon consummation of the Empire acquisition on October 1, 2021. Identified intangible assets consisted of the following at the dates indicated below:
+
+ 
+
+SCHEDULE OF INTANGIBLE ASSETS
+
+                                                                            March 31, 2024                                   
+
+                                                           Gross            Accumulated           Carrying           Estimated
+
+                                                         carrying           amortization            value            remaining
+
+                                                          amount                                                    useful life
+
+Intellectual Property                                $       3,036,000   $      (1,518,000)  $       1,518,000      2.75 years
+
+Customer List                                                2,239,000            (559,750)          1,679,250      7.75 years
+
+Licenses                                                    21,274,000          (5,318,500)         15,955,500      7.75 years
+
+Total intangible assets, net                         $      26,549,000   $      (7,396,250)  $      19,152,750           
+
+ 
+
+                                                                           December 31, 2023                            Remaining
+
+                                                      Gross carrying        Accumulated           Carrying           estimated
+
+                                                          amount            amortization            value           useful life
+
+Intellectual Property                                $       3,036,000   $      (1,366,200)  $       1,669,800       3 years
+
+Customer List                                                2,239,000            (503,775)          1,735,225       8 years
+
+Licenses                                                    21,274,000          (4,786,650)         16,487,350       8 years
+
+Total intangible assets, net                         $      26,549,000   $      (6,656,625)  $      19,892,375    
+
+ 
+
+Amortization expense for intangible assets was $739,625 and $739,625 for the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+Total estimated amortization expense for our intangible assets for the years 2024 through 2028 is as follows:
+
+ 
+
+SCHEDULE OF AMORTIZATION EXPENSES FOR INTANGIBLE ASSETS
+
+Year ended December 31,                                                                                                                
+
+2024 (remaining)                                                                                               $            2,218,875 
+
+2025                                                                                                                        2,958,500 
+
+2026                                                                                                                        2,806,700 
+
+2027                                                                                                                        2,351,300 
+
+2028                                                                                                                        2,351,300 
+
+Thereafter                                                                                                                  6,466,075 
+
+ 
+
+                                                                   14
+
+
+
+                                                         
+
+ 
+
+NOTE 8 – FACTORING ADVANCES AND NON-CONVERTIBLE NOTES PAYABLE
+
+ 
+
+Factoring Advances
+
+ 
+
+On February 1, 2024, the Company entered into a revenue factoring advance in the principal amount of $1,340,000 for a purchase price of $970,000. There was an origination fee of $30,000. There were cash proceeds of $970,000 during the three months ended March 31, 2024. The Company’s Chief Executive Officer was personally liable for this factoring advance. The Company was required to make weekly payments in the amount $25,800 through January 2025. The advance matured on January 23, 2025. There was amortization of debt discount of $60,656 during the three months ended March 31, 2024. The Company made cash repayments of $206,400 during the three months ended March 31, 2024. As of March 31, 2024, the revenue factoring advance had a balance of $824,256, net an unamortized debt discount of $309,344. In April 2024, the Company settled the advance for $400,000. The advance is retired.
+
+ 
+
+On February 7, 2024, the Company entered into a revenue factoring advance in the principal amount of $822,000 for a purchase price of $572,950. There was an origination fee of $27,050. There were cash proceeds of $572,950 during the three months ended March 31, 2024. The Company’s Chief Executive Officer was personally liable for this factoring advance. The Company was required to make weekly payments in the amount $30,444 through August 2024. The advance matured on August 31, 2024. There was amortization of debt discount of $64,075 during the three months ended March 31, 2024. The Company made cash repayments of $243,556 during the three months ended March 31, 2024. As of March 31, 2024, the revenue factoring advance had a balance of $393,469, net an unamortized debt discount of $184,975. In May 2024, the Company settled the advance for $400,000. The advance is retired.
+
+ 
+
+On February 29, 2024, the Company entered into a revenue factoring advance in the principal amount of $559,600 for a purchase price of $376,000. There was an origination fee of $24,000. There were cash proceeds of $376,000 during the three months ended March 31, 2024. The Company’s Chief Executive Officer was personally liable for this factoring advance. The Company was required to make weekly payments in the amount $25,436 through July 2024. The advance matured on July 15, 2024. There was amortization of debt discount of $41,545 during the three months ended March 31, 2024. The Company made cash repayments of $97,745 during the three months ended March 31, 2024. As of March 31, 2024, the revenue factoring advance had a balance of $319,800, net an unamortized debt discount of $142,055.
+
+ 
+
+On March 7, 2024, the Company entered into a revenue factoring advance in the principal amount of $1,499,000 for a purchase price of $700,000. There was an origination fee of $300,000. There were cash proceeds of $700,000 during the three months ended March 31, 2024. The Company’s Chief Executive Officer was personally liable for this factoring advance. The Company was required to make weekly payments in the amount $125,000 through June 2024. The advance matured on June 6, 2024. There was amortization of debt discount of $208,435 during the three months ended March 31, 2024. The Company made cash repayments of $375,000 during the three months ended March 31, 2024. As of March 31, 2024, the revenue factoring advance had a balance of $533,435, net an unamortized debt discount of $590,565.
+
+ 
+
+On March 7, 2024, the Company entered into a revenue factoring advance in the principal amount of $374,750 for a purchase price of $225,000. There was an origination fee of $25,000. There were cash proceeds of $225,000 during the three months ended March 31, 2024. The Company’s Chief Executive Officer was personally liable for this factoring advance. The Company was required to make weekly payments in the amount $23,422 through July 2024. The advance matured on July 7, 2024. There was amortization of debt discount of $29,459 during the three months ended March 31, 2024. The Company made cash repayments of $93,688 during the three months ended March 31, 2024. As of March 31, 2024, the revenue factoring advance had a balance of $160,771, net an unamortized debt discount of $120,291.
+
+ 
+
+The remaining advances are for Simple Agreements for Future Tokens, entered into with accredited investors issued pursuant to an exemption from the registration requirements of the Securities Act of 1933, as amended, by virtue of Section 4(a)(2) thereof and/or Regulation D thereunder in 2018. As of March 31, 2024 and December 31, 2023, the Company owed $85,000 for Simple Agreements for Future Tokens.
+
+ 
+
+                                                                   15
+
+
+
+                                                         
+
+ 
+
+Non-Convertible Notes Payable
+
+ 
+
+On April 11, 2022, the Company entered into a vehicle financing agreement with GM Financial for the purchase of a vehicle for use by the Company’s Chief Executive Officer in the principal amount of $74,186. GM Financial financed $65,000 of the purchase price of the vehicle and the Company was required to make a $10,000 down payment. There was a $2,400 rebate applied to the purchase price. The Company is required to make 60 monthly payments of $1,236. During the three months ended March 31, 2024 and 2023, the Company made $5,679 and $3,267 in payments towards the financing agreement, respectively. There was amortization of debt discount of $447 and $442 during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the financing agreement had a balance of $29,280 and $34,312, net an unamortized debt discount of $5,651 and $6,298, respectively.
+
+ 
+
+On April 21, 2022, the Company entered into a secured promissory note in the principal amount of $964,470 for the financing and installation of a piece of equipment in the amount $750,000. The Company is required to make monthly payments in the amount $6,665 through October 2022 and monthly payments of $19,260 until October 2026. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on October 21, 2026. During the three months ended March 31, 2024 and 2023, the Company made $31,192 and $56,115 in payments towards the note, respectively. There was amortization of debt discount of $9,508 and $11,741 during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a balance of $434,245 and $455,929 net an unamortized debt discount of $97,589 and $107,097, respectively.
+
+ 
+
+On September 1, 2022, the Company entered into a Deed of Trust note for the purchase of land and buildings. The note has a principal amount of $600,000, bears an interest rate of 6.5%, and matures on September 1, 2032. The Company is required to make monthly payments of $4,476 until September 1, 2032, when the remaining principal and accrued interest becomes due. The Company made principal payments of $4,564 and $4,214 during the three months ended March 31, 2024 and 2023, respectively. The Company made interest payments of $8,865 and $9,214 during the years ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a principal balance of $574,663 and $579,227 and accrued interest of $3,070 and $2,991 respectively.
+
+ 
+
+On September 1, 2022, the Company entered into a Deed of Trust note for the purchase of land and buildings. The note has a principal amount of $600,000, bears an interest rate of 6.5%, and matures on September 1, 2032. The Company is required to make monthly payments of $4,476 until September 1, 2032, when the remaining principal and accrued interest becomes due. The Company made principal payments of $4,564 and $4,214 during the three months ended March 31, 2024 and 2023, respectively. The Company made interest payments of $8,865 and $9,214 during the years ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a principal balance of $574,663 and $579,227 and accrued interest of $2,904 and $2,991, respectively.
+
+ 
+
+On September 14, 2022, the Company entered into a secured promissory note in the principal amount of $2,980,692 for a purchase price of $2,505,000. The note is secured by certain assets of the Company. The Company is required to make monthly payments in the amount $82,797 through September 2025. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on September 14, 2025. There was amortization of debt discount of $25,048 and $39,509 during the three months ended March 31, 2024 and 2023, respectively. There were payments of $135,197 and $248,391 towards the note during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a balance of $1,158,644 and $1,268,792 net an unamortized debt discount of $146,436 and $171,484, respectively.
+
+ 
+
+On November 28, 2022, the Company entered into a secured promissory note in the principal amount of $1,539,630 for a purchase price of $1,078,502. The note is secured by certain assets of the Company. The Company is required to make monthly payments in the amount of $10,410 through March 2023 and then monthly payments in the amount of $20,950 through March 2029. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on March 5, 2029. There was amortization of debt discount of $16,939 and $18,048 during the three months ended March 31, 2024 and 2023, respectively. There were payments of $33,978 and $19,515 during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a balance of $780,388 and $797,427 net an unamortized debt discount of $335,065 and $352,005, respectively.
+
+ 
+
+                                                                   16
+
+
+
+                                                         
+
+ 
+
+On November 28, 2022, the Company entered into a secured promissory note in the principal amount of $1,560,090 for a purchase price of $1,092,910. The note is secured by certain assets of the Company. The Company is required to make monthly payments in the amount of $10,630 through March 2023 and then monthly payments in the amount of $21,225 through March 2029. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on March 5, 2029. There was amortization of debt discount of $17,187 and $18,285 during the three months ended March 31, 2024 and 2023. respectively. There were payments of $34,424 and $21,260 during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a balance of $788,712 and $805,949 net an unamortized debt discount of $339,976 and $357,164, respectively.
+
+ 
+
+On November 28, 2022, the Company entered into a secured promissory note in the principal amount of $1,597,860 for a purchase price of $1,119,334. The note is secured by certain assets of the Company. The Company is required to make monthly payments in the amount of $10,860 through March 2023 and then monthly payments in the amount of $21,740 through March 2029. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on March 5, 2029. There was amortization of debt discount of $17,520 and $18,729 during the three months ended March 31, 2024 and 2023, respectively. There were payments of $35,460 and $21,270 during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 202, the note had a balance of $810,554 and $827,495 net an unamortized debt discount of $346,549 and $364,069 , respectively.
+
+ 
+
+On December 15, 2022, the Company entered into a secured promissory note in the principal amount of $1,557,435 for a purchase price of $1,093,380. The note is secured by certain assets of the Company. The Company is required to make monthly payments in the amount of $10,585 through March 2023 and then monthly payments in the amount of $21,190 through March 2029. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on March 15, 2029. There was amortization of debt discount of $16,916 and $18,302 during the three months ended March 31, 2024 and 2023, respectively. There were payments of $34,341 and $21,170 during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a balance of $790,475 and $807,900, net an unamortized debt discount of $336,452 and $353,367, respectively.
+
+ 
+
+On January 10, 2023, the Company entered into a secured promissory note in the principal amount of $1,245,018 for a purchase price of $1,021,500. The note is secured by certain assets of the Company. There were cash proceeds of $1,000,000. The Company is required to make monthly payments in the amount of $10,365 through March 2023 and then monthly payments in the amount of $34,008 through March 2026. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on March 10, 2026. There was amortization of $16,261 and $15,288 during the three months ended March 31, 2024 and 2023, respectively. There were payments of $55,146 and $10,365 during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a balance of $609,359 and $648,244, net an unamortized debt discount of $126,693 and $142,954, respectively.
+
+ 
+
+On January 12, 2023, the Company entered into a secured promissory note in the principal amount of $1,185,810 for a purchase price of $832,605. The note is secured by certain assets of the Company. There were non-cash proceeds of $832,605 used to purchase equipment. The Company is required to make monthly payments in the amount of $8,030 through April 2023 and then monthly payments in the amount of $16,135 through April 2028. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on April 12, 2028. There was amortization of debt discount of $16,172 and $14,187 during three months ended March 31, 2024 and 2023, respectively. There were payments of $13,078 and $8,030 during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a balance of $623,970 and $620,876, net an unamortized debt discount of $261,779 and $277,951, respectively.
+
+ 
+
+On February 23, 2023, the Company entered into a secured promissory note in the principal amount of $822,040 for a purchase price of $628,353. The note is secured by certain assets of the Company. There were non-cash proceeds of $628,253 used to purchase equipment. The Company is required to make monthly payments in the amount of $6,370 through June 2023 and then monthly payments in the amount of $16,595 through June 2027. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on June 23, 2027. There was amortization of debt discount of $772 and $4,043 during three months ended March 31, 2024 and 2023, respectively. There were payments of $38,804 and $16,595 during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a balance of $476,209 and $514,241, net an unamortized debt discount of $10,007 and $10,779, respectively.
+
+ 
+
+                                                                   17
+
+
+
+                                                         
+
+ 
+
+On February 24, 2023, the Company entered into a secured promissory note in the principal amount of $1,186,580 for a purchase price of $832,605. The note is secured by certain assets of the Company. There were non-cash proceeds of $832,605 used to purchase equipment. The Company is required to make monthly payments in the amount of $9,185 through June 2023 and then monthly payments in the amount of $23,955 through June 2027. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on June 24, 2027. There was amortization of debt discount of $21,548 and $6,189 during the three months ended March 31, 2024 and 2023, respectively. There were payments of $26,884 and $0 during the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, the note had a balance of $655,425 and $660,761, net an unamortized debt discount of $279,412 and $300,960, respectively.
+
+ 
+
+On April 12, 2023, the Company entered into a secured promissory note in the principal amount of $317,415 for a purchase price of $219,676. The note is secured by certain assets of the Company. There were non-cash proceeds of $219,676 used to purchase equipment. The Company is required to make monthly payments in the amount of $2,245 through August 2023 and then monthly payments in the amount of $4,315 through July 2027. The note bears an interest rate of 10.6%, is secured by certain assets of the Company, and matures on July 12, 2029. There were payments of $3,466 during the three months ended March 31, 2024. There was amortization of debt discount of $3,137 during the three months ended March 31, 2024. As of March 31, 2024 and December 31, 2023, the note had a balance of $183,334 and $183,663, net an unamortized debt discount of $66,501 and $69,638, respectively.
+
+ 
+
+On July 31, 2023, the Company entered into a secured promissory note with an entity controlled by the Company’s Chief Executive Officer in the principal amount of $17,218,350. The note was for the purchase of certain equipment from an entity controlled by the Company’s Chief Executive Officer and is secured by such equipment. There were non-cash proceeds of $17,218,350 used to purchase equipment. The note is junior to the senior secured debt entered into by the Company on the same date. The note matures on July 31, 2043 and accrues interest at 7% per annum. The note requires interest-only payments until the senior secured debt is fully satisfied. The Company made payments of $0 and $291,440 towards the principal and interest, respectively, during the three months ended March 31, 2024. On March 29, 2024, the holder of the note exchanged $10,000,000 in principal for 1,000 shares of Series D Preferred Stock (see Note 14 – Stockholders’ Equity). As of March 31, 2024 and December 31, 2023, the note had a balance of $7,218,350 and $17,218,350, respectively.
+
+ 
+
+The following table details the current and long-term principal due under non-convertible notes as of March 31, 2024.
+
+ SCHEDULE OF CURRENT AND LONG TERM PRINCIPAL DUE UNDER NONCONVERTIBLE NOTE
+
+                                                                                 Principal               Principal       
+
+                                                                                 (Current)              (Long Term)
+
+GM Financial (Issued April 11, 2022)                                       $             18,546   $             16,385 
+
+Non-Convertible Note (Issued March 8, 2019)                                                   -                  5,000 
+
+Deed of Trust Note (Issued September 1, 2022)                                            53,712                520,951 
+
+Deed of Trust Note (Issued September 1, 2022)                                            53,712                520,951 
+
+Equipment Finance Note (Issued April 21, 2022)                                          231,120                300,714 
+
+Equipment Finance Note (Issued September 14, 2022)                                      993,564                311,516 
+
+Equipment Finance Note (Issued November 28, 2022)                                       251,400                864,054 
+
+Equipment Finance Note (Issued November 28, 2022)                                       254,700                873,989 
+
+Equipment Finance Note (Issued November 28, 2022)                                       260,880                896,224 
+
+Equipment Finance Note (Issued December 15, 2022)                                       254,280                872,646 
+
+Equipment Finance Note (Issued January 10, 2023)                                        408,096                327,956 
+
+Equipment Finance Note (Issued January 12, 2023)                                        193,620                692,129 
+
+Equipment Finance Note (Issued February 24, 2023)                                       287,460                647,377 
+
+Equipment Finance Note (Issued February 23, 2023)                                       193,620                292,595 
+
+Equipment Finance Note (Issued April 12, 2023)                                           51,780                198,055 
+
+Related-party Equipment Note (Issued July 31, 2023)                                           -              7,218,350 
+
+SAFTs                                                                                         -                 85,000 
+
+Debt Discount                                                                          (754,863)            (1,597,247)
+
+Total Principal of Non-Convertible Notes                                   $          2,751,627   $         13,046,645 
+
+ 
+
+                                                                   18
+
+
+
+                                                         
+
+ 
+
+Total principal payments due on non-convertible notes for 2024 through 2028 and thereafter is as follows:
+
+ SCHEDULE OF PRINCIPAL PAYMENTS DUE ON NON-CONVERTIBLE NOTES
+
+Year ended December 31,                                                                                                   
+
+2024 (remaining)                                                                                    $          2,629,867 
+
+2025                                                                                                           3,528,100 
+
+2026                                                                                                           1,530,119 
+
+2027                                                                                                             809,342 
+
+2028                                                                                                             785,128 
+
+Thereafter                                                                                                     8,867,826 
+
+ 
+
+NOTE 9 – ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the Company owed accounts payable and accrued expenses of $5,122,300 and $6,100,449, respectively. These are primarily comprised of payments to vendors, accrued interest on debt, and accrued legal bills.
+
+ 
+
+SCHEDULE OF ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+
+                                                                                         March 31,                December 31,       
+
+                                                                                            2024                      2023
+
+Accounts Payable                                                                   $            1,908,575   $            1,884,973 
+
+Credit Cards                                                                                       26,639                    1,756 
+
+Accrued Interest                                                                                2,165,705                2,074,016 
+
+Accrued Expenses                                                                                1,021,381                2,139,704 
+
+Total Accounts Payable and Accrued Expenses                                        $            5,122,300   $            6,100,449 
+
+ 
+
+NOTE 10 – ACCRUED PAYROLL AND RELATED EXPENSES
+
+ 
+
+The Company is delinquent in filing its payroll taxes, primarily related to stock compensation awards in 2016 and 2017, but also including payroll for 2018, 2019, 2020, and 2021. As of March 31, 2024 and December 31, 2023, the Company owed payroll tax liabilities, including penalties, of $4,009,213 and $4,089,836 , respectively, to federal and state taxing authorities. The actual liability may be higher or lower due to interest or penalties assessed by federal and state taxing authorities.
+
+ 
+
+NOTE 11 – CONVERTIBLE NOTES PAYABLE
+
+ 
+
+On July 3, 2023, the Company closed a bridge financing in the principal amount of $1,031,250 for a purchase price of $825,000 with certain accredited investors. The bridge notes matured on July 31, 2023 and were personally guaranteed by the Company’s Chief Executive Officer. The bridge notes were exchanged into the senior secured offering which closed on July 31, 2023 and are retired.
+
+ 
+
+On July 31, 2023, the Company entered into a Purchase Agreement with certain institutional investors as purchasers whereby, the Company sold, and the investors purchased, approximately $15,000,000, which consisted of approximately $13,188,750 in cash and $1,031,250 of existing debt of the Company which was exchanged for the notes and warrants issued in this offering in principal amount of senior secured convertible notes and warrants and $500,000 in notes issued as commission. The transaction closed on August 1, 2023. The Senior Notes were issued with an original issue discount of 16.67%, do not bear interest, unless in the event of an event of default, in which case the notes bear interest at the rate of 18% per annum until such default has been cured, and mature after 24 months, on July 31, 2025. The aggregate principal amount of the notes is $18,000,000. The Company will pay to the Investors an aggregate of $1,000,000 per month beginning on the last business day of the sixth (6th) full calendar month following the issuance thereof. The Senior Notes are convertible into shares of the Company’s common stock, par value $0.001 per share (“Common Stock”), at a conversion price per share of $1.50, subject to adjustment under certain circumstances described in the Senior Notes. There is a 125% conversion premium for any principal converted to shares of common stock. In occurrence of an event of default, until such event of default has been cured, the Holder may, at the Holder’s option, convert all, or any part of, the Conversion Amount (into shares of Common Stock at a conversion rate equal to the quotient of (x) the Redemption Premium of the Conversion Amount, divided by (y) the greater of (A) 90% of the lowest VWAP of the Common Stock for the three (3) Trading Days immediately preceding the delivery or deemed delivery of the applicable Conversion Notice, and (B) the lesser of (1) 80% of the VWAP of the Common Stock as of the Trading Day immediately preceding the delivery or deemed delivery of the applicable Conversion Notice, and (2) 80% of the price computed as the quotient of (x) the sum of the VWAPs of the Common Stock for each of the three (3) Trading Days with the lowest VWAP of the Common Stock during the fifteen (15) consecutive Trading Day period ending and including the Trading Day immediately preceding the delivery or deemed delivery of the applicable Conversion Notice, divided by (y) three (3) and (II) the floor price of $0.196. To secure its obligations thereunder and under the Purchase Agreement, the Company has granted a security interest over substantially all of its assets to the collateral agent for the benefit of the Investors, pursuant to a security agreement and a related trademark security agreement. The Company has the option to redeem the Senior Notes at a 10% redemption premium. There is a 125% change in control redemption premium. The maturity date of the Senior Notes also may be extended by the holders under circumstances specified therein. The Company estimated the fair value of the warrants using the Black-Scholes Pricing Model based on the following assumptions: (1) dividend yield of 0%, (2) expected volatility of 93%, (3) risk-free interest rate of 5.06% and (4) expected life of 5.01 years.
+
+ 
+
+                                                                   19
+
+
+
+                                                         
+
+ 
+
+During the three months ended March 31, 2024, there was amortization of debt discount of $1,225,307. During the three months ended March 31, 2024, the Company made cash payments of $1,497,083 on the principal of the convertible notes. During the three months ended March 31, 2024, holders converted $2,066,740 of principal into 10,864,690 shares of common stock with a fair value of $2,031,677 (see Note 14 – Stockholder’s Equity). The Company realized a $24,198 gain on conversion of notes during the three months ended March 31, 2024.
+
+ 
+
+On March 18, 2024, the Company obtained the waiver of the following covenants from holders of the notes: (i) until September 30, 2024, the Available Cash Test covenant contained in Section 14(t)(i) of the Notes; (ii) the right to receive the Amortization Amount for the next four (4) consecutive Amortization Dates immediately following the date of the waiver, with the aggregate of such Amortization Amounts now instead being due on the Maturity Date; and (iii) notwithstanding anything to the contrary set forth in the Notes, through and including the sixtieth (60) calendar day following the date of the waiver, (A) if the average closing price on the Eligible Market of the Common Stock on the three (3) most recent Trading Days is less than $0.25, the Holder cannot convert the Note into Common Stock and (B) if the average closing price on the Eligible Market of the Common Stock on the three (3) most recent Trading Days is $0.25 or greater, there shall be no limitations as to the amount of the Note that may be converted into Common Stock.
+
+ 
+
+On March 18, 2024, as a result of the Company’s warrant inducement, the conversion price of the Senior Notes was reduced from $1.02 to $0.196 per share. During the three months ended March 31, 2024, the Company credited additional paid in capital $23,953,940 for a deemed dividend for the triggering of certain price protection provisions in its senior secured debt. The Company estimated the fair value of the deemed dividend using the Black-Scholes Pricing Model based on the following assumptions: (1) dividend yield of 0%, (2) expected volatility of 93%, (3) risk-free interest rate of 5.06%, and (4) expected life of 1.37 years.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the carrying value of the convertible notes was $9,759,725 and $12,098,241, net of unamortized debt discount of $4,676,452 and $5,901,759, respectively.
+
+ 
+
+As of March 31, 2024, the current and non-current portions of the note are $6,756,732 and $3,002,992, net unamortized debt discounts of $3,237,544 and $1,438,908, respectively.
+
+ 
+
+As of December 31, 2023, the current and non-current portions of the note are $8,065,494 and $4,032,747 net unamortized debt discounts of $3,394,506 and $1,967,253, respectively.
+
+ 
+
+The maturity date of the convertible notes outstanding at March 31, 2024 is:
+
+ 
+
+SCHEDULE OF MATURITY DATES OF CONVERTIBLE NOTES
+
+Maturity Date                                                    Principal       
+
+                                                                 Balance Due
+
+2024                                                         $        5,000,000 
+
+2025                                                         $        9,436,177 
+
+Total Principal Outstanding                                  $       14,436,177 
+
+ 
+
+                                                                   20
+
+
+
+                                                         
+
+ 
+
+NOTE 12 – LEASES
+
+ 
+
+Property Leases (Operating Leases)
+
+ 
+
+The Company leases its facilities and certain automobiles under operating leases which expire on various dates through 2025. The Company determines if an arrangement is a lease at inception and whether it is a finance or operating leases. Right of Use (“ROU”) assets represent the Company’s right to use an underlying asset for the lease term and lease liabilities represent the obligation to make lease payments from the lease. Operating lease ROU assets and liabilities are recognized at the commencement date of the lease based on the present value of lease payments over the lease term. When readily determinable, the Company uses the implicit rate in determining the present value of lease payments. The ROU asset also includes any fixed lease payments, including in-substance fixed lease payments and excludes lease incentives. Lease expense for lease payments is recognized on a straight-line basis over the lease term. Lease term is determined at lease commencement and includes any non-cancellable period for which the Company has the right to use the underlying asset, together with any options to extend that the Company is reasonably certain to exercise.
+
+ 
+
+Upon effectiveness of the acquisition of Empire on October 1, 2021, the Company assumed $30,699 in ROU assets and $31,061 in lease liabilities for an office lease. Under the terms of the lease, Empire is required to pay $1,150 per month and increasing by 3% on April 1st of every year beginning on April 1, 2022. The lease had an expiration date of March 31, 2024 and Empire was required to make a security deposit of $1,150. The Company does not have an option to extend the lease. The Company cannot sublease the office under the lease agreements. The Company did not renew the lease.
+
+ 
+
+On October 11, 2021, Empire entered into leasing agreements with a company owned by the Chief Executive Officer of Empire for the leasing of the Company’s Virginia Beach metal recycling location. Under the terms of the leases, Empire is required to pay $9,677 for the prorated first month and $15,000 per month for the facilities beginning November 1, 2021 and increasing by 3% on January 1st of every year thereafter. The lease had an expiration date of January 1, 2024 and the Company has two options to extend the leases by 5 years per option. In the event the Company does not exercise the options, the leases will continue on a month-to-month basis. The Company cannot sublease any of the properties under the lease agreements. The Company terminated the lease on August 1, 2023.
+
+ 
+
+On January 24, 2022, the Company entered into leasing agreements for 3,521 square feet of office space commencing upon the completion of tenant improvements which was expected to be on April 1, 2022 but shall be no later than May 1, 2022 (“Commencement Date”). Under the terms of the leases, the Company is required to pay $3,668 for the first twelve months of the lease and increasing by approximately 3% every 12 months thereafter until the expiration of the lease. The lease is for a period of five years from the Commencement Date and the Company was required to make a security deposit of $3,668. The Company does not have an option to extend the lease. The Company cannot sublease any of the office space under the lease agreement.
+
+ 
+
+                                                                   21
+
+
+
+                                                         
+
+ 
+
+Effective February 1, 2022, the Company entered into an office space/land lease agreement with an entity owned by the Chief Executive Officer of Greenwave for the leasing of the Company’s Fairmont metal scrap yard located at 406 Sandy Street, Fairmont, NC 28340. Under the terms of the lease, the Company is required to pay $8,000 per month for the facility beginning February 1, 2022 and increasing by 3% on January 1, 2023. The lease had an expiration of January 1, 2024 and the Company has two options to extend the lease by 5 years per option. The Company also has the option to extend the term of the lease for an additional year for the next 5 years upon the same terms and conditions. In the event the Company does not exercise the options, the lease will continue on a month-to-month basis. The Company cannot sublease the property under the lease agreement. The Company terminated the lease on August 1, 2023.
+
+ 
+
+Effective October 13, 2022, the Company entered into an office space/land lease agreement for the leasing of 900 Broad Street, Suite C, Portsmouth, VA 23707. Under the terms of the lease, the Company is required to pay $4,300 per month for the facility beginning November 1, 2022 and increasing by 3% on January 1, 2023. The lease expires on December 31, 2027 and the Company has two options to extend the lease by 5 years per option. The Company also has the option to extend the term of the lease for an additional year for the next 5 years upon the same terms and conditions. In the event the Company does not exercise the options, the lease will continue a month-to-month basis. The Company cannot sublease the property under the lease agreement.
+
+ 
+
+Effective January 1, 2023, the Company entered into an office space/land lease agreement with an entity owned by the Chief Executive Officer of Greenwave for the leasing of the Company’s Chesapeake facility located at 101 Freeman Ave, Chesapeake, VA 23324. Under the terms of the lease, the Company is required to pay $9,000 per month for the facility beginning January 1, 2023 and increasing by 3% on January 1, 2024. The lease expires on January 1, 2025 and the Company has two options to extend the lease by 5 years per option. The Company also has the option to extend the term of the lease for an additional year for the next 5 years upon the same terms and conditions. In the event the Company does not exercise the options, the lease will continue on a month-to-month basis. The Company cannot sublease the property under the lease agreement.
+
+ 
+
+On July 31, 2023, the Company terminated the leases for 12 scrap yards. There was a gain on termination of lease of $108,863 during the year ended December 31, 2023. Since August 1, 2023, the Company has been renting the land underlying 13 scrap yards from an entity controlled by the Company’s Chief Executive Officer, including the lease for the Chesapeake location described above, for an aggregate rent of $54,970 per month.
+
+ 
+
+On March 15, 2024, the Company entered into leasing agreements for a scrap yard located at 3030 E 55th Street, Cleveland, OH 44127. Under the terms of the lease, the Company is required to pay $17,000 from March 1, 2024 to February 28, 2025; $23,000 from March 1, 2025 to February 28, 2026; $24,000 from March 1, 2026 to February 28, 2027; $25,000 from March 1, 2027 to February 28, 2028; $25,750 from March 1, 2028 and increasing by the greater of 3% and the CPI every 12 months thereafter until the expiration of the lease. The lease is for a period of five years, include two options to extend for five years each, and the Company was required to make a security deposit of $17,000. The Company has the option to purchase the property for $3,277,000 until February 28, 2024.
+
+ 
+
+Automobile Leases (Operating Leases)
+
+ 
+
+Upon effectiveness of the acquisition of Empire on October 1, 2021, the Company assumed $26,804 in ROU assets and $18,661 in lease liabilities for an automobile lease. Under the terms of the lease, Empire is required to pay $750 per month until the lease expires on February 18, 2025 and the Company does not have an option to renew or extend. The Company is responsible for any damage to the automobile under the terms of the lease.
+
+ 
+
+Upon effectiveness of the acquisition of Empire on October 1, 2021, the Company assumed $34,261 in ROU assets and $27,757 in lease liabilities for an automobile lease. Under the terms of the lease, Empire is required to pay $650 per month until the lease expires on February 15, 2026 and the Company does not have an option to renew or extend. The Company is responsible for any damage to the automobile under the terms of the lease.
+
+ 
+
+On April 1, 2021, Empire entered into a lease agreement for the leasing of certain equipment. Under the terms of the lease, Empire is required to pay $2,700 per month thereafter for a period of 24 months. The lease expired on March 31, 2023 and the Company does not have an option to renew or extend. The Company is responsible to any damage to the equipment under the terms of the lease.
+
+ 
+
+                                                                   22
+
+
+
+                                                         
+
+ 
+
+On December 23, 2021, Empire entered into a lease agreement for the leasing of an automobile. Under the terms of the lease, Empire was required to pay $18,000 for the first month and $1,000 per month thereafter for 60 months. The lease expires on December 23, 2025 and the Company does not have an option to renew or extend. The Company is responsible to any damage to the automobile under the terms of the lease.
+
+ 
+
+On July 1, 2022, Empire entered into a lease agreement for the leasing of certain equipment. Under the terms of the lease, Empire was required to pay $2,930 per month thereafter for a period of 24 months. The lease expires on July 31, 2024 and the Company does not have an option to renew or extend. The Company is responsible to any damage to the equipment under the terms of the lease.
+
+ 
+
+ROU assets and liabilities consist of the following:
+
+ 
+
+SCHEDULE OF ASSETS AND LIABILITIES
+
+                                                                                         March 31,                December 31,       
+
+                                                                                            2024                      2023
+
+ROU assets – related party                                                         $               78,842   $              103,822 
+
+ROU assets                                                                                      1,219,921                  198,558 
+
+Total ROU assets                                                                                1,298,763                  302,380 
+
+                                                                                                                                   
+
+Current portion of lease liabilities – related party                               $               83,430   $              111,240 
+
+Current portion of lease liabilities                                                              288,212                   89,731 
+
+Long term lease liabilities, net of current portion                                               929,394                   94,943 
+
+Total lease liabilities                                                            $            1,301,036   $              295,914 
+
+ 
+
+Aggregate minimum future commitments under non-cancellable operating leases and other obligations at March 31, 2024 were as follows:
+
+ 
+
+SCHEDULE OF NON CANCELABLE OPERATING LEASES AND OTHER OBLIGATIONS
+
+Year ended December 31,                                                                                                                
+
+2024 (remaining)                                                                                               $              298,019 
+
+2025                                                                                                                          331,545 
+
+2026                                                                                                                          336,476 
+
+2027                                                                                                                          312,448 
+
+2028                                                                                                                          307,500 
+
+2029                                                                                                                           77,250 
+
+Total Minimum Lease Payments                                                                                   $            1,663,238 
+
+Less: Imputed Interest                                                                                         $             (362,202)
+
+Present Value of Lease Payments                                                                                $            1,301,036 
+
+Less: Current Portion                                                                                          $             (371,642)
+
+Long Term Portion                                                                                              $              929,394 
+
+ 
+
+The Company leases its facilities, automobiles, and offices under operating leases which expire on various dates through 2024. Rent expense related to these leases is recognized based on the payment amount charged under the lease. Rent expense for the three months ended March 31, 2024 and 2023 was $279,419 and $747,778, respectively. At March 31, 2024, the leases had a weighted average remaining lease term of 4years and a weighted average discount rate of 10%.
+
+ 
+
+NOTE 13 – COMMITMENTS AND CONTINGENCES
+
+ 
+
+From time to time, we may become involved in various lawsuits and legal proceedings, which arise in the ordinary course of business. Litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm our business. Except as set forth below, we are currently not aware of any such legal proceedings or claims that will have, individually or in the aggregate, a material adverse effect on our business, financial condition or operating results.
+
+ 
+
+                                                                   23
+
+
+
+                                                         
+
+ 
+
+NOTE 14 – STOCKHOLDERS’ EQUITY
+
+ 
+
+Preferred Stock
+
+ 
+
+The Company is authorized to issue 10,000,000 shares of blank check preferred stock, par value $0.001 per share.
+
+ 
+
+Series D
+
+ 
+
+On March 29, 2024, the Company authorized the issuance of 1,000 shares of Series D Preferred Stock, par value $0.001 per share (the “Series D”). The Series D has a $10,000 stated value per share. The Series D is convertible into the Company’s common stock at $0.204 per share, subject to adjustment as set forth therein, except the Preferred Stock is not convertible until such time as the currently outstanding senior secured indebtedness of the Company has been satisfied in full. In addition, the Company has the right to redeem the Series D in cash or shares of its Common Stock.
+
+ 
+
+On March 29, 2024, the Company entered into an exchange agreement with DWM Properties LLC (“DWM”), whereby the Company and DWM agreed to exchange $10,000,000 of that certain Secured Promissory Note, dated July 31, 2023, to be issued by the Company to the DWM for shares of the Company’s newly created Series D. 
+
+ 
+
+As of March 31, 2024, there were 1,000 shares of Series D to be issued.
+
+ 
+
+Common Stock
+
+ 
+
+The Company is authorized to issue 1,200,000,000 shares of common stock, par value $0.001 per share.
+
+ 
+
+During the three months ended March 31, 2024, the Company issued 16,035,834 shares of common stock and had 241,373 shares to be issued for the exercise of warrants for cash proceeds of $2,574,679, payment of legal fees $139,955, along with subscription receivable of $67,923. The Company issued extra shares with a value of $52,183. The Company contributed $2,818,464 to additional paid in capital for these exercises.
+
+ 
+
+During the three months ended March 31, 2024, the Company issued 10,864,690 shares of common stock for the conversion of debt in the principal amount of $2,066,740 with a fair value of $2,031,677. The Company realized a $24,198 gain on conversion. The Company contributed $2,031,677 to additional paid in capital for these conversions.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, there were 43,864,860 and 16,964,336, respectively, shares of common stock issued and outstanding. As of March 31, 2024 and December 31, 2023, there were 241,373 and 0, respectively, shares of common stock to be issued.
+
+ 
+
+Additional Paid in Capital
+
+ 
+
+During the three months ended March 31, 2024, the Company credited additional paid in capital $288,900 for the fair value of warrants issued as commission for its warrant inducement. The Company estimated the fair value of the warrants using the Black-Scholes Pricing Model based on the following assumptions: (1) dividend yield of 0%, (2) expected volatility of 122.93%, (3) risk-free interest rate of 4.21%, and (4) expected life of 5 years.
+
+ 
+
+During the three months ended March 31, 2024, the Company credited additional paid in capital $3,029,927 for the fair value of warrants issued for its warrant inducement. The Company estimated the fair value of the warrants using the Black-Scholes Pricing Model based on the following assumptions: (1) dividend yield of 0%, (2) expected volatility of 123.05%, (3) risk-free interest rate of 4.22%, and (4) expected life of 5 years.
+
+ 
+
+During the three months ended March 31, 2024, the Company credited additional paid in capital $23,943,940 for a deemed dividend for the triggering of certain price protection provisions in its senior secured debt. The Company estimated the fair value of the deemed dividend using the Black-Scholes Pricing Model based on the following assumptions: (1) dividend yield of 0%, (2) expected volatility of 93%, (3) risk-free interest rate of 5.06%, and (4) expected life of 1.37 years.
+
+ 
+
+During the three months ended March 31, 2024, the Company credited additional paid in capital $1,444,324 for a deemed dividend for the reduction in the exercise price of certain warrants. The Company estimated the fair value of the deemed dividend using the Black-Scholes Pricing Model based on the following assumptions: (1) dividend yield of 0%, (2) expected volatility of 108.49%, (3) risk-free interest rate of 4.36%, and (4) expected life of 5 years.
+
+ 
+
+                                                                   24
+
+
+
+                                                         
+
+ 
+
+NOTE 15 – WARRANTS
+
+ 
+
+On March 18, 2024, the Company entered into warrant exercise inducement offer letters with the holders of its existing warrants, pursuant to which it issued 16,035,834 shares of common stock and recorded an additional 241,373 shares to be issued for cash proceeds of $2,574,679, payment of legal fees $139,955, along with subscription receivable of $67,923, and were issued new warrants to purchase 27,544,788 shares of common stock at an exercise price of $0.204 per share. On March 18, 2024, the Company realized a deemed dividend of $1,444,324 for a deemed dividend for the reduction in the exercise price. On March 18, 2024, the Company realized an expense for the issuance of new warrants for the inducement of $3,029,927.
+
+ 
+
+On March 29, 2024, the Company issued 2,700,000 warrants to purchase common stock to its financial advisor, for which it realized an expense of $288,900 for the fair value of the warrants.
+
+ 
+
+A summary of the warrant activity for the three months ended March 31, 2024 is as follows:
+
+ 
+
+SCHEDULE OF WARRANT ACTIVITY
+
+                                                       Shares             Weighted-            Weighted-            Aggregate     
+
+                                                                           Average              Average             Intrinsic
+
+                                                                           Exercise            Remaining              Value
+
+                                                                            Price             Contractual
+
+                                                                                                  Term
+
+Outstanding at December 31, 2023                         18,649,802   $             0.89                3.99   $       1,388,582 
+
+Granted                                                  30,350,895   $            0.204                                         
+
+Exercised                                               (16,277,207)  $            0.204                                         
+
+Cancelled/Exchanged                                               -                    -                                         
+
+Outstanding at March 31, 2024                            32,723,490   $            0.204                4.83   $          11,449 
+
+Exercisable at March 31, 2024                            32,723,490   $            0.204                4.83   $          11,449 
+
+ 
+
+SCHEDULE OF WARRANT EXERCISABLE
+
+        Exercise Price                       Warrants                      Weighted Avg.                      Warrants             
+
+                                            Outstanding                    Remaining Life                    Exercisable
+
+$                         0.01                          103,144                           4.34                           103,44 
+
+                         0.204                       32,620,346                           4.83                       32,620,346 
+
+                                                     32,723,490                           4.83                       32,723,490 
+
+ 
+
+The aggregate intrinsic value of outstanding stock warrants was $11,449 based on warrants with an exercise price less than the Company’s stock price of $0.121 as of March 31, 2024 which would have been received by the warrant holders had those holders exercised the warrants as of that date.
+
+ 
+
+NOTE 16 – STOCK OPTIONS
+
+ 
+
+Our stockholders approved our 2014 Equity Incentive Plan in June 2014 (the “2014 Plan”), our 2015 Equity Incentive Plan in December 2015 (the “2015 Plan”), our 2016 Equity Incentive Plan in October 2016 (“2016 Plan”), our 2017 Equity Incentive Plan in December 2016 (“2017 Plan”), our 2018 Equity Incentive Plan in June 2018 (the “2018 Plan”), our 2021 Equity Incentive Plan in September 2021 (“2021 Plan”), our 2022 Equity Incentive Plan in November 2022, and our 2023 Equity Incentive Plan in October 2023 (“2023 Plan”, and together with the 2014 Plan, 2015 Plan, 2016 Plan, 2017 Plan, 2018 Plan, 2021 Plan, and 2022 Plan, the “Plans”). The Plans are identical, except for the number of shares reserved for issuance under each. As of March 31, 2024, the Company had granted an aggregate of 490,296 securities under the Plans since inception, with 891,371 shares available for future issuances.
+
+ 
+
+                                                                   25
+
+
+
+                                                         
+
+ 
+
+The Plans provide for the grant of incentive stock options to our employees and our subsidiaries’ employees, and for the grant of stock options, stock bonus awards, restricted stock awards, performance stock awards and other forms of stock compensation to our employees, including officers, consultants and directors. The Prior Plans also provide that the grant of performance stock awards may be paid out in cash as determined by the committee administering the Prior Plans.
+
+ 
+
+Option valuation models require the input of highly subjective assumptions. The fair value of stock-based payment awards was estimated using the Black-Scholes option pricing model with a volatility figure derived from historical data. The Company accounts for the expected life of options based on the contractual life of the options.
+
+ 
+
+There were no options issued during the three months ended March 31, 2024.
+
+ 
+
+A summary of the stock option activity for the three months ended March 31, 2024 as follows:
+
+ 
+
+SCHEDULE OF STOCK OPTION ACTIVITY
+
+                                                     Shares            Weighted-           Weighted-             Aggregate        
+
+                                                                        Average             Average              Intrinsic
+
+                                                                       Exercise            Remaining               Value
+
+                                                                         Price            Contractual
+
+                                                                                             Term
+
+Outstanding at December 31, 2023                          92,166   $         148.11                3.49   $                    - 
+
+Granted                                                        -                                                                 
+
+Exercised                                                      -                                                                 
+
+Forfeiture/Cancelled                                           -                                                                 
+
+Outstanding at March 31, 2024                             92,166   $         148.11                3.24   $                    - 
+
+Exercisable at March 31, 2024                             92,166   $         148.11                3.24   $                    - 
+
+ 
+
+SCHEDULE OF STOCK OUTSTANDING AND EXERCISABLE
+
+        Exercise Price                       Number of                       Remaining                        Number of            
+
+                                              Options                      Life In Years                 Options Exercisable
+
+$                  23.00-75.00                           44,368                           4.01                           44,368 
+
+                  75.01-150.00                            6,476                           3.01                            6,476 
+
+                 150.01-225.00                            6,079                           2.37                            6,079 
+
+                 225.01-300.00                           33,133                           2.45                           33,133 
+
+                 300.01-321.00                            2,110                           2.35                            2,110 
+
+                                                         92,166                                                          92,166 
+
+ 
+
+The aggregate intrinsic value of outstanding stock options was $0, based on options with an exercise price less than the Company’s stock price of $0.121 as of March 31, 2024, which would have been received by the option holders had those option holders exercised their options as of that date.
+
+ 
+
+The fair value of all options that vested during the three months ended March 31, 2024 and 2023 was $0 and $0, respectively. Unrecognized compensation expense of $0 as of March 31, 2024 will be expensed in future periods.
+
+ 
+
+NOTE 17 – RELATED PARTY TRANSACTIONS
+
+ 
+
+Agreements with Danny Meeks and Affiliates of Danny Meeks
+
+ 
+
+On January 1, 2023, the Company entered into a lease agreement for the Company’s Chesapeake location with an entity controlled by the Company’s Chief Executive Officer. Under the terms of the lease agreement, the Company pays $9,000 per month in rent, increasing 3% on January 1st of each year. The lease expires on January 1, 2025 and the Company has two options to extend the lease by a term of five years per option. Since August 1, 2023, the Company has been renting the land underlying 13 scrap yards from an entity controlled by the Company’s Chief Executive Officer, including the lease for the Chesapeake location described above, for an aggregate rent of $54,970 per month.
+
+ 
+
+                                                                   26
+
+
+
+                                                         
+
+ 
+
+From January 1 to March 31, 2024, the Company paid rent of $192,720 to an entity controlled by the Company’s Chief Executive Officer, including the lease for the Chesapeake location and 13 scrap yards described above. As of March 31, 2024 and December 31, 2023, the Company owed $1,166,940 and $2,070,402, respectively, in accrued rent and reimbursements to an entity controlled by the Company’s Chief Executive Officer.
+
+ 
+
+On July 31, 2023, the Company entered into a Bill of Sale (the “Bill of Sale”) with DWM Properties LLC (“DWM”), an entity wholly-owned by Danny Meeks, the Company’s Chief Executive Officer, pursuant to which the Company agreed to purchase certain assets held by DWM in exchange for the issuance of a secured promissory note to DWM (the “DWM Note”) in an aggregate principal amount equal to $17,218,350. The assets included two automotive shredders and a downstream processing system with a cost basis of $7,367,500 and a fair value of $17,218,350. The Company has recorded the equipment on its financial statements at its cost basis and recognized a $9,850,850 loss on asset during the year ended December 31, 2023. The equipment was purchased in 2022. The transaction was negotiated at arms-length. The DWM Note bears interest at a rate of 7% per annum and matures on the twentieth (20th) anniversary of the issuance thereof. Interest on the DWM Note is payable on the first business day of each calendar month, provided that commencing on the first business day of the calendar month following the date on which no Senior Notes remain outstanding, the Company shall pay to DWM equal payments of interest and principal until the DWM Note is repaid in its entirety. The Company made payments of $0 and $291,440 towards the principal and interest, respectively, during the three months ended March 31, 2024. On March 29, 2024, the holder of the note exchanged $10,000,000 in principal for 1,000 shares of Series D Preferred Stock (see Note 14 – Stockholders’ Equity). As of March 31, 2024 and December 31, 2023, the note had a balance of $7,218,350 and $17,218,350, respectively.
+
+ 
+
+During the three months ended March 31, 2024, the Company provided $64,082 in hauling services to an entity controlled by the Company’s Chief Executive Officer.
+
+ 
+
+During the three months ended March 31, 2024, the Company paid an entity controlled by the Company’s Chief Executive Officer $342,319 for hauling services rendered to the Company.
+
+ 
+
+During the three months ended March 31, 2024, the Company paid entities controlled by the Company’s Chief Executive Officer $106,621 for scrap metal provided to the Company.
+
+ 
+
+NOTE 18 – SUBSEQUENT EVENTS
+
+ 
+
+The Company evaluates events that have occurred after the balance sheet date but before the unaudited condensed consolidated financial statements are issued.
+
+ 
+
+From April 1 to May 17, 2024, the Company issued 227,787 shares recorded as to be issued on March 31, 2024.
+
+ 
+
+On April 22, 2024, the Company entered into an exchange agreement with DWM Properties LLC, whereby the Company and Holder agreed to exchange the remaining $7,218,350 of that certain Secured Promissory Note, dated July 31, 2023, issued by the Company to the Holder for 61,853,899 shares of the Company’s common stock.
+
+ 
+
+On April 22, 2024, the Company entered into a securities purchase agreement pursuant to which it issued an aggregate of 45,058,612 shares of common stock and accompanying warrants to purchase up to 45,058,612 shares of Common Stock for gross proceeds of $5,258,340, before deducting the financial advisor’s fees and other estimated offering expenses.
+
+ 
+
+On May 3, 2024, the Company entered into an amendment to its senior secured convertible promissory note originally signed July 31, 2023. The amendment, among other things, changed the conversion price of the senior notes to $0.05, subject to certain circumstances described in the Senior Notes along with certain conversion price adjustment mechanism.
+
+ 
+
+On March 20, 2024, the Company and the Investors entered into a Consent and Waiver (the “March Consent and Waiver”), pursuant to which the Investors agreed, among other things, not to convert the Senior Notes until May 20, 2024 if the average closing price of the Company’s common stock on the Nasdaq Capital Market on the three (3) most recent trading days was less than $0.25 (the “Conversion Prohibition”). On May 9, 2024, the Company and the Investors entered into a Waiver Agreement (the “Waiver Agreement”), pursuant to which the Company and the Investors decided to waive the Conversion Prohibition in the March Consent and Waiver.
+
+ 
+
+On May 7, 2024, the Company received notice from the Listing Qualifications Department indicating that the bid price for the Company’s common stock had closed below $.10 per share for the 10-consecutive trading day period ended May 6, 2024 and, accordingly, the Company is subject to the previous contemplated under Nasdaq Listing Rule 5810(c)(3)(A)(iii) (the “Low Priced Stock Rule”) and subject to delisting from Nasdaq unless the Company timely requests a hearing before the Nasdaq Hearings Panel (the “Panel”). The Company requested a hearing before the Panel, which stayed any further action by Nasdaq at least until the hearing is held and the expiration of any extension period that may be granted by the Panel. The Company’s common stock will continue to trade on Nasdaq under the symbol “GWAV” pending completion of the hearing process. There can be no assurance that the Panel will grant the Company’s request for continued listing or that the Company will be able meet the continued listing requirements during any compliance period that may be granted by the Panel.
+
+ 
+
+On May 10, 2024, the Company entered into an exchange agreement with DWM Properties LLC, whereby the Company and Holder agreed to exchange 1,000 shares of the Company’s Series D Preferred Stock held by the Holder for 200,000,000 shares of the Company’s common stock.
+
+ 
+
+From May 9 to May 16, 2024, the Company issued 288,658,249 shares, and recorded an additional 16,666,667 shares to be issued, for the conversion of convertible debt in the principal amount of $12,212,997.
+
+ 
+
+On May 16, 2024, the Company entered into a securities purchase agreement pursuant to which it will issue 420,596,154 shares of common stock and accompanying warrants to purchase up to 420,596,154 shares of Common Stock for gross proceeds of $21,871,000, before deducting the financial advisor’s fees and other estimated offering expenses.
+
+ 
+
+                                                                   27
+
+
+
+                                                         
+
+ 
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+You should read the following discussion and analysis in conjunction with our condensed consolidated financial statements and related notes contained in Part I, Item 1 of this Quarterly Report. Please also refer to the note about forward-looking information for information on such statements contained in this Quarterly Report immediately preceding Part I, Item 1.
+
+ 
+
+Overview
+
+ 
+
+We were formed in April 26, 2013 as a technology platform developer under the name MassRoots, Inc. In October 2021, we changed our corporate name from “MassRoots, Inc.” to “Greenwave Technology Solutions, Inc.” We sold all of our social media assets on October 28, 2021 for cash consideration equal to $10,000 and have discontinued all operations related to our social media business. On September 30, 2021, we closed our acquisition of Empire Services, Inc. (“Empire”), which operates 13 metal recycling facilities in Virginia, North Carolina, and Ohio. The acquisition was effective October 1, 2021 upon the effectiveness of the Certificate of Merger in Virginia.
+
+ 
+
+Upon the acquisition of Empire, we transitioned into the scrap metal industry which involves collecting, classifying and processing appliances, construction material, end-of-life vehicles, boats, and industrial machinery. We process these items by crushing, shearing, shredding, separating, and sorting, into smaller pieces and categorize these recycled ferrous, nonferrous, and mixed metal pieces based on density and metal prior to sale. In cases of scrap cars, we remove the catalytic converters, aluminum wheels, and batteries for separate processing and sale prior to shredding the vehicle. We have designed our systems to maximize the value of metals produced from this process.
+
+ 
+
+We operate an automotive shredder at our Kelford, North Carolina location and a second automotive shredder at our Carrollton, Virginia location is expected to come online in the second quarter of 2024. Our shredders are designed to produce a denser product and, in concert with advanced separation equipment, more refined recycled ferrous metals, which are more valuable as they require less processing to produce recycled steel products. In totality, this process reduces large metal objects like auto bodies into baseball-sized pieces of shredded recycled metal.
+
+ 
+
+The shredded pieces are then placed on a conveyor belt under magnetized drums to separate the ferrous metal from the mixed nonferrous metal and residue, producing consistent and high-quality ferrous scrap metal. The nonferrous metals and other materials then go through a number of additional mechanical systems which separate the nonferrous metal from any residue. The remaining nonferrous metal is further processed to sort the metal by type, grade, and quality prior to being sold as products, such as zorba (mainly aluminum), zurik (mainly stainless steel), and shredded insulated wire (mainly copper and aluminum).
+
+ 
+
+One of our main corporate priorities is to open a facility with rail or deep-water port access to enable us to efficiently transport our products to domestic steel mills and overseas foundries. Because this would greatly expand the number of potential buyers of our processed scrap products, we believe opening a facility with port or rail access could result in an increase in both the revenue and profitability of our existing operations.
+
+ 
+
+Empire is headquartered in Chesapeake, Virginia and employs 131 people as of May 13, 2024.
+
+ 
+
+Products and Services
+
+ 
+
+Our main product is selling ferrous metal, which is used in the recycling and production of finished steel. It is categorized into heavy melting steel, plate and structural, and shredded scrap, with various grades of each of those categorizations based on the content, size and consistency of the metal. All of these attributes affect the metal’s value.
+
+ 
+
+We also process nonferrous metals such as aluminum, copper, stainless steel, nickel, brass, titanium, lead, alloys and mixed metal products. Additionally, we sell the catalytic converters recovered from end-of-life vehicles to processors which extract the nonferrous precious metals such as platinum, palladium and rhodium.
+
+ 
+
+We provide metal recycling services to a wide range of suppliers, including large corporations, industrial manufacturers, retail customers, and government organizations.
+
+ 
+
+Pricing and Customers
+
+ 
+
+Prices for our ferrous and nonferrous products are based on prevailing market rates and are subject to market cycles, worldwide steel demand, government regulations and policy, and supply of products that can be processed into recycled steel. Our main buyers adjust the prices they pay for scrap metal products based on market rates usually on a monthly or bi-weekly basis. We are usually paid for the scrap metal we deliver to customers within 14 days of delivery.
+
+ 
+
+Based on any price changes from our customers or our other buyers, we in turn adjust the price for unprocessed scrap we pay suppliers in order to manage the impact on our operating income and cash flows.
+
+ 
+
+The spread we are able to realize between the sales prices and the cost of purchasing scrap metal is determined by a number of factors, including transportation and processing costs. Historically, we have experienced sustained periods of stable or rising metal selling prices, which allow us to manage or increase our operating income. When selling prices decline, we adjust the prices we pay customers to minimize the impact to our operating income.
+
+ 
+
+                                                                   28
+
+
+
+                                                         
+
+ 
+
+Sources of Unprocessed Metal
+
+ 
+
+Our main sources of unprocessed metal we purchase are end-of-life vehicles, old equipment, appliances and other consumer goods, and scrap metal from construction or manufacturing operations. We acquire this unprocessed metal from a wide base of suppliers including large corporations, industrial manufacturers, retail customers, and government organizations who unload their metal at our facilities or we pick it up and transport it from the supplier’s location. Currently, our operations and main suppliers are located in the Hampton Roads and northeastern North Carolina markets. In the second quarter of 2023, we are expanding our operations by opening a metal recycling facility in Cleveland, Ohio.
+
+ 
+
+Our supply of scrap metal is influenced by the overall health of economic activity in the United States, changes in prices for recycled metal, and, to a lesser extent, seasonal factors such as severe weather conditions, which may prohibit or inhibit scrap metal collection.
+
+ 
+
+Competition
+
+ 
+
+We compete with several large, well-financed recyclers of scrap metal, steel mills which own their own scrap metal processing operations, and with smaller metal recycling companies. Demand for metal products is sensitive to global economic conditions, the relative value of the U.S. dollar, and availability of material alternatives, including recycled metal substitutes. Prices for recycled metal are also influenced by tariffs, quotas, and other import restrictions, and by licensing and government requirements.
+
+ 
+
+We aim to create a competitive advantage through our ability to process significant volumes of metal products and utilize the technology solutions, our use of processing and separation equipment, the number and location of our facilities, and the operating synergies we have been able to develop based on our experience.
+
+ 
+
+For the Three Months Ended March 31, 2024 and 2023
+
+ 
+
+                                                                        For the three months ended March 31,                        
+
+                                                       2024                2023                  $                   %         
+
+                                                                                              Change              Change
+
+Revenue                                          $       8,504,777   $       9,043,422   $        (538,645)              (5.96)%
+
+                                                                                                                               
+
+Gross Profit                                             3,264,261           4,726,611          (1,462,350)             (30.94)%
+
+                                                                                                                               
+
+Operating Expenses                                       6,075,985           6,661,787            (585,802)              (8.79)%
+
+                                                                                                                               
+
+Loss from Operations                                    (2,811,724)         (1,935,176)           (876,548)              45.30%
+
+                                                                                                                               
+
+Other Expense                                           (5,250,790)         (2,090,499)         (3,160,291)             151.17%
+
+                                                                                                                               
+
+Net Loss Available to Common Stockholders        $     (33,460,778)  $      (4,025,675)  $     (29,435,103)             731.38%
+
+ 
+
+Revenues
+
+ 
+
+For the three months ended March 31, 2024, we generated $8,504,777 in revenues, as compared to $9,043,422 during the same period in 2023, a decrease of $538,645. This decrease was primarily due a decline in metal revenue.
+
+ 
+
+Rental incomes decreased $12,290 from $42,790 to $30,500, metal revenues fell $890,641 from $7,111,026 to $6,220,385, hauling revenues grew $380,913 from $1,872,979 to $2,253,892, and miscellaneous revenue fell $16,627 from $16,627 to $0, during the three months ended March 31, 2024 as compared to the same period in 2023.
+
+ 
+
+                                                                   29
+
+
+
+                                                         
+
+ 
+
+Our cost of revenues increased to $5,240,516 for the three months ended March 31, 2024 from $4,316,811 during the same period in 2023, an increase of $923,705, primarily due to an increase in hauling costs.
+
+ 
+
+Our gross profit was $3,264,261 during the three months ended March 31, 2024, a decrease of $1,462,350 from $4,726,611 during the same period in 2023 primarily due to a decline in margins on the Company’s hauling and metal revenue.
+
+ 
+
+Operating Expenses
+
+ 
+
+For the three months ended March 31, 2024 and 2023, our operating expenses were $6,075,985 and $6,661,787 respectively, a decline of $585,802. There was a decline in payroll and related expenses of $213,231 as payroll and related expenses were $1,738,028 for the three months ended March 31, 2024 as compared to $1,951,259 for the same period in 2023 which was the result of a reducing in overtime. Advertising expense decreased by $3,148 to $2,374 for the three months ended March 31, 2024 as compared to $5,522 for the same period in 2023 as the Company focused on operations. Depreciation of fixed assets, along with amortization of intangible assets, increased by $369,962 to $1,638,815 for the three months ended March 31, 2024 from $1,268,853 in 2023 as a result of the Company acquiring more fixed assets during fiscal year 2023. There were hauling and equipment maintenance costs of $601,562 during the three months ended March 31, 2024, as compared to $1,250,717 in 2023, a decrease of $649,155, due to the Company bringing its hauling in-house. Consulting, accounting, and legal expenses increased to $612,271 during the three months ended March 31, 2024 from $273,073 during the same period in 2023, an increase of $339,198 as a result of the Company having significant corporate activity in 2024. There was a decrease in rent expenses as a result of the Company acquiring the equipment on certain properties, decreasing $579,837 from $1,023,709 during the three months ended March 31, 2023 to $443,872 during the same period in 2024. There was an equity issued for services expense of $288,900 during the three months ended March 31, 2024, as compared to $0 during the same period in 2023, an increase of $309,733 primarily related to the Company’s warrant exchange.
+
+ 
+
+Our other general and administrative expenses decreased to $729,330 for the three months ended March 31, 2024 from $888,654 for the same period in 2023, a decrease of $159,324, as a result of the Company better managing its overhead.
+
+ 
+
+The change in these expenditures resulted in our total operating expenses decreasing to $6,075,985 during the three months ended March 31, 2024 compared to $6,661,787 during the three months ended March 31, 2023, a decrease of $585,802.
+
+ 
+
+Loss from Operations
+
+ 
+
+Our loss from operations increased by $876,548 to $2,811,724 during the three months ended March 31, 2023, from $1,935,176 during the three months ended March 31, 2023 for the reasons discussed above.
+
+ 
+
+Other Expense
+
+ 
+
+During the three months ended March 31, 2024, we incurred other expenses of $(5,250,790), as compared to $(2,090,499) for the same period in 2023, a decrease of $3,160,291. There was a gain on settlement of non-convertible notes and advances of $0 and $75,005 for the three months ended March 31, 2024 and 2023, respectively. Interest expenses and amortization of debt discount decreased to $(2,194,229) during the three months ended March 31, 2024 from $(2,165,504) during the three months ended March 31, 2023. Expense for warrants issued for financing increased to $(3,082,110) during the three months ended March 31, 2024 from $0 during the three months ended March 31, 2023. Gain on conversion of convertible notes increased to $24,198 during the three months ended March 31, 2024 from $0 during the three months ended March 31, 2023. Other income increased to $1,351 during the three months ended March 31, 2024 from $0 during the three months ended March 31, 2023.
+
+ 
+
+Deemed Dividend
+
+ 
+
+During the three months ended March 31, 2024, there was a deemed dividend of $1,444,324 for the reduction of exercise price of warrants, as compared to $0 during the same period in 2023, a change of $1,444,324.
+
+ 
+
+During the three months ended March 31, 2024, there was a deemed dividend of $23,953,940 for the reduction of the conversion price of a debt note, as compared to $0 during the same period in 2023, a change of $23,953,940.
+
+ 
+
+Net Loss Available to Common Stockholders
+
+ 
+
+Our net loss was $33,460,778 during the three months ended March 31, 2024 as compared to $4,025,675 during the same period in 2023, a change of $29,435,103, for the reasons discussed above.
+
+ 
+
+                                                                   30
+
+
+
+                                                         
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+Net cash used in operating activities for the three months ended March 31, 2024 was $3,460,823 as compared to $203,965 for the three months ended March 31, 2023. For the three months ended March 31, 2024, the cash flows used in operating activities were driven by a net loss of $8,062,514, amortization of right of use assets (related-party) of $24,980, amortization of right of use assets of $48,935, depreciation and amortization of $1,638,815, decrease of due to related parties of $903,462, decrease of prepaid expenses of $113,261, a decrease of accounts payable and accrued expenses of $1,649,694, a decrease in operating lease liabilities of $25,385, a decrease in operating lease liabilities (related-party) of $39,791, stock based compensation of $309,773, equity issued for warrant inducement of $3,029,927, interest and amortization of debt discount of $2,194,229, gain on the conversion of notes of $24,198, an increase in accounts receivable of $296,832, shares issued for financing of $52,183, and increases in inventories of $199,791. For the three months ended March 31, 2023, the cash flows used in operating activities were driven by a net loss of $4,025,675, amortization of right of use assets (related-party) of $602,404, amortization of right of use assets of $43,226, depreciation and amortization of $1,268,853, accrual of due to related parties of $529,693 increase of prepaid expenses of $42,262, an increase of accounts payable and accrued expenses of $812,188, a decrease in operating lease liabilities of $95,160, a decrease in operating lease liabilities (related-party) of $574,454, a gain on the settlement of non-convertible notes and accrued interest of $75,005 interest and amortization of debt discount of $1,861,971, an increase in accounts receivable of $144,269, increases in inventories of $303,826, increase in security deposit of $25,000, and a decrease in accrued payroll of $36,649.
+
+ 
+
+Net cash used in investing activities was $0 and $712,335 for the three months ended March 31, 2024 and 2023, respectively. For the three months ended March 31, 2023, there was cash used in the purchase of equipment of $712,335.
+
+ 
+
+Net cash provided by financing activities was $2,627,882 during the three months ended March 31, 2024, as compared to $370,581 during the three months ended March 31, 2023. During the three months ended March 31, 2024, there were proceeds from warrant exercises, bank overdrafts, factoring advances of $2,574,679, $179,501 and $2,843,950, respectively, while there were repayments of factoring advances, convertible notes, and non-convertible notes of $1,016,389, $1,497,083, and $456,776, respectively. During the three months ended March 31, 2023, the Company received $1,876,109 from the issuance of factoring advances and $1,000,000 from the issuance of non-convertible notes, while utilizing $519,543 in the repayment of non-convertible notes and utilizing $1,985,985 for the repayment of factoring advances.
+
+ 
+
+Capital Resources
+
+ 
+
+As of March 31, 2024, we had cash on hand of $713,218. We currently have no external sources of liquidity such as arrangements with credit institutions that will have or are reasonably likely to have a current or future effect on our financial condition or immediate access to capital.
+
+ 
+
+Required Capital over the Next Fiscal Year
+
+ 
+
+As of March 31, 2024, the Company had cash of $713,218 and a working capital deficit (current liabilities in excess of current assets) of $(20,489,101). The accumulated deficit as of March 31, 2024 was $(429,326,935). These conditions raise substantial doubt about the Company’s ability to continue as a going concern for one year from the issuance of the unaudited condensed consolidated financial statements.
+
+ 
+
+If the Company raises additional funds by issuing equity securities, its stockholders would experience dilution. Additional debt financing, if available, may involve covenants restricting its operations or its ability to incur additional debt. Any additional debt financing or additional equity that the Company raises may contain terms that are not favorable to it or its stockholders and require significant debt service payments, which diverts resources from other activities. The Company’s ability to raise additional capital will be impacted by market conditions and the price of the Company’s common stock. The accompanying unaudited condensed consolidated financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern.
+
+ 
+
+                                                                   31
+
+
+
+                                                         
+
+ 
+
+Contractual Obligations
+
+ 
+
+Our contractual obligations are included in our notes to the condensed consolidated financial statements included in Part I, Item I of this Quarterly Report on Form 10-Q. To the extent that funds generated from our operations, together with our existing capital resources, are insufficient to meet future requirements, we will be required to obtain additional funds through equity or debt financings. No assurance can be given that any additional financing will be made available to us or will be available on acceptable terms should such a need arise.
+
+ 
+
+Recent Developments
+
+ 
+
+The Company has entered into several material agreements during the most recent fiscal quarter. References in this section to any of our contracts or other documents are not necessarily complete, and each such reference is qualified in all respects by reference to the full text of such contract or other document filed as an exhibit to the relevant Current Report on Form 8-K.
+
+ 
+
+Registered Direct Offering and Concurrent Private Placement
+
+ 
+
+On April 22, 2024, the Company and certain institutional and accredited investors entered into a securities purchase agreement (the “April Securities Purchase Agreement”) to which the Company agreed to sell to such purchasers an aggregate of 45,058,612 shares of Common Stock, in a registered direct offering, and accompanying warrants to purchase up to 45,058,612 shares of common stock in a concurrent private placement, for gross proceeds of $5,258,340, before deducting the financial advisor’s fees and other estimated offering expenses. The purchase price for each share and the accompanying warrant to purchase one share of Common Stock is $0.1167.
+
+ 
+
+The sale and offering of the Shares pursuant to the April Securities Purchase Agreement was effected as a takedown off the Company’s shelf registration statement on Form S-3 which became effective April 28, 2023. A brief description of the terms and use of proceeds along with the full text of the April Securities Purchase Agreement filed as Exhibit 10.1 can be found in the Company’s Current Report on Form 8-K filed with the SEC on April 22, 2024.
+
+ 
+
+Note Exchange
+
+ 
+
+On April 22, 2024, the Company entered into an exchange agreement with DWM Properties LLC, whereby the Company and DWM Properties LLC agreed to exchange the remaining $7,218,350 of that certain secured promissory note, dated July 31, 2023, issued by the Company to DWM Properties LLC for 61,853,899 shares of the Company’s common stock. In connection with the exchange agreement, DWM Properties LLC and the Company entered into a voting agreement stating that DWM Properties LLC will vote in favor of the approval for the issuance of the warrants and the warrant shares issuable upon exercise of the warrants. The full text of the exchange agreement and voting agreement filed as Exhibit 10.2 and Exhibit 10.3 respectively can be found in the Company’s Current Report on Form 8-K filed with the SEC on April 22, 2024.
+
+ 
+
+Amendment to Senior Secured Convertible Promissory Note
+
+ 
+
+As disclosed in the Company’s Current Report on Form 8-K filed on August 3, 2023, on July 31, 2023, Company entered into a Purchase Agreement (the “July Purchase Agreement”) with certain institutional investors as purchasers (the “Investors”). Pursuant to the July Purchase Agreement, the Company sold, and the Investors purchased, approximately $15,000,000, which consisted of approximately $13,968,750 in cash and $1,031,250 of existing debt of the Company which was exchanged for the notes and warrants issued in this offering in principal amount of senior secured convertible notes (the “Senior Notes”) and warrants. The transaction closed on August 1, 2023.
+
+ 
+
+On May 3, 2024, the Company entered into an amendment to its senior secured convertible promissory note originally signed July 31, 2023. The amendment, among other things, changed the conversion price of the senior notes to $0.05, subject to certain circumstances described in the Senior Notes along with certain conversion price adjustment mechanism. The full text of the amendment filed as Exhibit 4.1 can be found on the Company’s Current Report on Form 8-K filed with the SEC on May 3, 2024.
+
+ 
+
+                                                                   32
+
+
+
+                                                         
+
+ 
+
+Waiver Agreement
+
+ 
+
+On March 20, 2024, the Company and the Investors entered into a Consent and Waiver (the “March Consent and Waiver”), pursuant to which the Investors agreed, among other things, not to convert the Senior Notes until May 20, 2024 if the average closing price of the Company’s common stock on the Nasdaq Capital Market on the three (3) most recent trading days was less than $0.25 (the “Conversion Prohibition”). On May 9, 2024, the Company and the Investors entered into a Waiver Agreement (the “Waiver Agreement”), pursuant to which the Company and the Investors decided to waive the Conversion Prohibition in the March Consent and Waiver. The full text of the Waiver Agreement filed as Exhibit 4.1 can be found on the Company’s Current Report on Form 8-K filed with the SEC on May 9, 2024.
+
+ 
+
+Preferred Share Exchange
+
+ 
+
+On May 10, 2024, the Company entered into an exchange agreement with DWM Properties LLC, whereby the Company and DWM Properties LLC agreed to exchange agreed 1,000 shares of the Company’s Series D Preferred Stock, par value $0.001 per share, issued by the Company to DWM Properties LLC for 200,000,000 shares of the Company’s common stock. The full text of the exchange agreement filed as Exhibit 10.1 can be found in the Company’s Current Report on Form 8-K filed with the SEC on May 16, 2024.
+
+ 
+
+Notice of Delisting 
+
+ 
+
+On May 7, 2024, the Company received notice from the Listing Qualifications Department indicating that the bid price for the Company’s common stock had closed below $.10 per share for the 10-consecutive trading day period ended May 6, 2024 and, accordingly, the Company is subject to the previous contemplated under Nasdaq Listing Rule 5810(c)(3)(A)(iii) (the “Low Priced Stock Rule”) and subject to delisting from Nasdaq unless the Company timely requests a hearing before the Nasdaq Hearings Panel (the “Panel”). The Company plans to timely request a hearing before the Panel, which request will stay any further action by Nasdaq at least until the hearing is held and the expiration of any extension period that may be granted by the Panel. The Company’s common stock will continue to trade on Nasdaq under the symbol “GWAV” pending completion of the hearing process. There can be no assurance that the Panel will grant the Company’s request for continued listing or that the Company will be able meet the continued listing requirements during any compliance period that may be granted by the Panel.
+
+ 
+
+Critical Accounting Policies and Estimates
+
+ 
+
+For a discussion of our accounting policies and related items, please see the notes to the condensed consolidated financial statements, included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+
+ 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS
+
+ 
+
+As a “smaller reporting company” we are not required to provide the information required by this Item.
+
+ 
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+Pursuant to Rules 13a-15(b) and 15-d-15(b) under the Exchange Act, we carried out an evaluation, with the participation of our management, including our Chief Executive Officer (“CEO”) and Interim Chief Financial Officer (“CFO”) of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report. The term “disclosure controls and procedures,” as defined under Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized, and reported, within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company’s management, including its principal executive and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. Based upon such evaluation, our CEO and CFO concluded that our disclosure controls and procedures as of March 31, 2024 were not effective (at a reasonable assurance level) due to identified control deficiencies regarding the lack of segregation of duties and the need for a stronger internal control environment.
+
+ 
+
+To address the material weaknesses, we performed additional analysis and other post-closing procedures in an effort to ensure our financial statements included in this Quarterly Report on Form 10-Q have been prepared in accordance with generally accepted accounting principles in the U.S. Accordingly, management believes that the financial statements included in this Quarterly Report fairly present in all material respects our financial condition, results of operations and cash flows for the periods presented.
+
+ 
+
+                                                                   33
+
+
+
+                                                         
+
+ 
+
+Our principal executive officer and principal financial officer do not expect that our disclosure controls and procedures or our internal controls will prevent all error or fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Due to the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected.
+
+ 
+
+Management’s Report on Internal Control over Financial Reporting
+
+ 
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule 13a-15(f) under the Exchange Act. Our management, including our principal executive officer and principal financial officer, assessed the effectiveness of our internal control over financial reporting as of March 31, 2024. In making this assessment, our management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”) in Internal Control-Integrated Framework (issued in 2013). A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis.
+
+ 
+
+Based upon the assessments, management has concluded that as of March 31, 2024, there was a material weakness in our internal control over financial reporting due to the fact that we did not have an adequate process established to ensure appropriate levels of review of accounting and financial reporting matters, which resulted in our closing process not identifying all required adjustments and disclosures in a timely fashion.
+
+ 
+
+ 
+
+We plan to take steps to enhance and improve the design of our internal control over financial reporting. To remediate our material weaknesses, we plan to appoint additional qualified personnel with the requisite knowledge to improve the levels of review of accounting and financial reporting matters; however, such remediation efforts are largely dependent upon our securing additional financing or generating significant revenue to cover the costs of implementing the changes required.
+
+ 
+
+Until we remediate our material weakness in internal control over financial reporting such weaknesses could result in material misstatements in our financial statements not being prevented or detected.
+
+ 
+
+Inherent Limitations on Effectiveness of Controls and Procedures
+
+ 
+
+The Company’s management, including the Company’s CEO and CFO, does not expect that the Company’s internal control over financial reporting will prevent or detect all errors and all fraud. Any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objective and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+ 
+
+The Company’s CEO and CFO has identified control deficiencies regarding the lack of segregation of duties and the need for a stronger internal control environment. The small size of the Company’s accounting staff may prevent adequate controls in the future, such as segregation of duties, due to the cost/benefit of such remediation.
+
+ 
+
+Because of the above material weakness, management has concluded that we did not maintain effective internal control over financial reporting as of March 31, 2024, based on the criteria established in “Internal Control-Integrated Framework” issued by the COSO.
+
+ 
+
+This Quarterly Report does not include an attestation report of our independent registered public accounting firm regarding internal control over financial reporting. Management’s report was not subject to attestation by our independent registered public accounting firm pursuant to temporary rules of the Securities and Exchange Commission that permit us to provide only management’s report in this Quarterly Report.
+
+ 
+
+Changes in Internal Control over Financial Reporting
+
+ 
+
+During the most recent fiscal quarter, the Company began hiring additional accounting personnel to enhance its segregation of duties and establishment of procedures in an effort to ensure appropriate levels of review of accounting and financial reporting matters.
+
+ 
+
+                                                                   34
+
+
+
+                                                         
+
+ 
+
+PART II – OTHER INFORMATION
+
+ 
+
+ITEM 1. LEGAL PROCEEDINGS
+
+ 
+
+As disclosed in Note 13 – Commitments and Contingencies to the Company’s Condensed Consolidated Financial Statements, the Company is engaged in certain legal matters and there have been no material developments since March 31, 2023 with respect to our legal proceedings, except as described in Note 13 – Commitments and Contingencies. The disclosures set forth in Note 13 – Commitments and Contingencies relating to certain legal matters are incorporated herein by reference.
+
+ 
+
+ITEM 1A. RISK FACTORS
+
+ 
+
+As a “smaller reporting company,” we are not required to provide the information required by this Item 1A. Please see the Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023 as filed with the SEC on April 16, 2024.
+
+ 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+ 
+
+None.
+
+ 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+ 
+
+None.
+
+ 
+
+ITEM 4. MINE SAFETY DISCLOSURES
+
+ 
+
+Not applicable.
+
+ 
+
+ITEM 5. OTHER INFORMATION
+
+ 
+
+(a) Disclosure in lieu of reporting on a Current Report on Form 8-K.
+
+ 
+
+Item 1.01      Entry into a Material Definitive Agreement.
+
+ 
+
+Registered Direct Offering and Concurrent Private Placement 
+
+ 
+
+On May 16, 2024, we and certain institutional and accredited investors (the “Purchasers”) entered into a securities purchase agreement (the “Purchase Agreement”), pursuant to which we agreed to sell to such Purchasers an aggregate of 420,596,154 shares (the “Shares”) of our common stock (the “Common Stock”), in a registered direct offering (the “Registered Direct Offering”), and accompanying warrants to purchase up to 420,596,154 shares of Common Stock (the “Warrants”) in a concurrent private placement (the “Private Placement” and together with the Registered Direct Offering, the “Offering”), for gross proceeds of $21,871,000.06, before deducting the financial advisor’s fees and other estimated offering expenses. The purchase price for each Share and the accompanying Warrant to purchase one share of Common Stock is $0.052.
+
+ 
+
+The sale and offering of the Shares pursuant to the Purchase Agreement was effected as a takedown off our shelf registration statement on Form S-3 (File No. 333-271324), which became effective on April 28, 2023 (the “Registration Statement”), pursuant to a prospectus supplement and accompanying prospectus to be filed with the Securities and Exchange Commission (the “SEC”). The Warrants and the shares of Common Stock underlying the Warrants (“Warrant Shares”) were not offered pursuant to the Registration Statement and were offered pursuant to an exemption from the registration requirements of Section 5 of the Securities Act of 1933, as amended (the “Act”), contained in Section 4(a)(2) thereof and/or Regulation D promulgated thereunder.
+
+ 
+
+The Warrants will be exercisable on or after the date of stockholder approval and have an exercise price of $0.10 per share. The Warrants will expire five years from the date we obtains stockholder approval for the issuance of the Warrants and the Warrants Shares issuable upon exercise of the Warrants. Each Warrant is subject to anti-dilution provisions to reflect stock dividends and splits or other similar transactions, and following the approval of the Company’s stockholders, (i) exercise price provisions triggered by any intervening reverse stock splits and (ii) anti-dilution provisions relating to future issuances or deemed issuances of our Common Stock at a price per share below the then-current exercise price of the Warrants. The Warrants can be exercised on a cashless basis if there is no effective registration statement registering, or no current prospectus available for, the resale of the Warrant Shares. We have agreed to file a registration statement under the Act with the SEC, covering the resale of the Warrant Shares within 10 calendar days following the date of the Purchase Agreement and to use commercially reasonable efforts to cause the registration statement to be declared effective by the SEC within 120 days following the Closing of the Offering.
+
+ 
+
+We currently intend to use the net proceeds from the Offering to expand our metal recycling operations, bring our copper extraction system online, to pay off of our non-convertible promissory notes and for general corporate purposes. The Offering is expected to close on or about May 20, 2024.
+
+ 
+
+Dawson James Securities, Inc. (the “Financial Advisor”), is acting as the financial advisor for the Offering. We agreed to pay the Financial Advisor a cash fee equal to $777,777.77, and to reimburse the Financial Advisor for certain expenses, including legal fees and expenses of $50,000 in the aggregate. In addition, we agreed to issue to the Financial Advisor or its designees warrants (the “Financial Advisor Warrants”) to purchase up to 7,777,777 shares of Common Stock (the “Financial Advisor Warrant Shares”). The Financial Advisor Warrants have generally the same terms and conditions as the Warrants issued to the Purchasers, except that the Financial Advisor Warrants will have a term of five years from the commencement of sales and an exercise price equal to $0.125 per share.
+
+ 
+
+A copy of the form of the Purchase Agreement, the form of the Warrant and the form of the Financial Advisor Warrant are attached hereto as Exhibits 10.1, 4.1, and 4.2, respectively, and are incorporated herein by reference. The foregoing summaries of the terms of the form of the Purchase Agreement, the form of the Warrant and the form of the Financial Advisor Warrant are subject to, and qualified in their entirety by, such documents. The legal opinion of Pryor Cashman LLP relating to the legality of the issuance and sale of the Shares in the Registered Direct Offering is attached as Exhibit 5.1 to this Quarterly Report on Form 10-Q.
+
+ 
+
+Item 3.02      Unregistered Sales of Equity Securities
+
+ 
+
+The information contained above in Item 1.01 related to the Private Placement, the issuance of the Warrants, the Financial Advisor Warrants and the issuance of the Warrant Shares and the Financial Advisor Warrant Shares is hereby incorporated by reference into this Item 3.02.
+
+ 
+
+Item 5.07       Submission of Matters to a Vote of Security Holders.
+
+ 
+
+On May 20, 2024, we held our 2024 annual meeting of stockholders (the “Annual Meeting”), and a quorum for the transaction of business was present in person or represented by proxy. As of August 17, 2023, the record date for the Annual Meeting, 38,516,861 shares of our Common Stock were issued and outstanding. The holders of Common Stock voted on the following proposals, which are described in more detail in our definitive proxy statement filed with the SEC on April 11, 2024. The voting results reported below are final.
+
+ 
+
+                                                                   35
+
+
+
+ 
+
+ 
+
+Proposal 1
+
+ 
+
+The individuals listed below were elected to serve as our directors at the Annual Meeting until the next annual meeting of the stockholders or until their successors are duly elected and qualified.
+
+ 
+
+                                                 For                  Against               Abstained          Broker Non-Votes
+
+Danny Meeks                                  16,751,813                  -                  2,248,461              4,949,015
+
+Henry Sicignano III                          16,881,817                  -                  2,118,457              4,949,015
+
+Cheryl Lanthorn                              16,931,814                  -                  2,068,460              4,949,015
+
+John Wood                                    16,929,023                  -                  2,071,251              4,949,015
+
+Jason Adelman                                17,016,437                  -                  1,983,837              4,949,015
+
+ 
+
+Proposal 2
+
+ 
+
+Proposal 2 was to approve our 2024 Equity Incentive Plan and the reservation of up to 3,000,000 shares of Common Stock for issuance thereunder. This proposal was approved.
+
+ 
+
+              For                             Against                          Abstained                    Broker Non-Votes
+
+           14,506,199                        3,639,317                          854,758                         4,949,015
+
+ 
+
+Proposal 3
+
+ 
+
+Proposal 3 was to ratify the appointment of RBSM LLP as our independent registered public accounting firm for the fiscal year ending December 31, 2024. This proposal was approved.
+
+ 
+
+              For                             Against                          Abstained                    Broker Non-Votes
+
+           20,962,998                        2,050,753                          935,538                             -
+
+ 
+
+Proposal 4
+
+ 
+
+Proposal 4 was to hold an advisory vote on executive compensation. This proposal was approved.
+
+ 
+
+              For                             Against                          Abstained                    Broker Non-Votes
+
+           14,455,076                        3,728,868                          816,330                         4,949,015
+
+ 
+
+Proposal 5
+
+ 
+
+Proposal 5 was to approve the grant of discretionary authority to our Board of Directors to amend the Certificate of Incorporation to effect one or more consolidations of the issued and outstanding shares of Common Stock, pursuant to which the shares of Common Stock would be combined and reclassified into one share of Common Stock at a ratio within the range from 1-for-2 up to 1-for-150. This proposal was approved.
+
+ 
+
+              For                             Against                          Abstained                    Broker Non-Votes
+
+           16,278,782                        2,060,805                          830,009                         4,779,693
+
+ 
+
+Proposal 6
+
+ 
+
+Proposal 6 was to approve the issuance of up to an aggregate of 34,995,704 shares of our Common Stock issuable upon the exercise of warrants to purchase our Common Stock in accordance with Listing Rule 5635(d). This proposal was approved.
+
+ 
+
+              For                             Against                          Abstained                    Broker Non-Votes
+
+           14,319,010                        3,645,329                         1,035,935                        4,949,015
+
+ 
+
+                                                                   36
+
+
+
+ 
+
+ 
+
+Proposal 7
+
+ 
+
+Proposal 7 was to approve the adjournment of the Annual Meeting, if necessary or advisable, to solicit additional proxies in favor of the foregoing proposals if there are not sufficient votes to approve the foregoing proposals. This proposal was approved.
+
+ 
+
+              For                             Against                          Abstained                    Broker Non-Votes
+
+           14,760,923                        3,369,091                         1,039,582                        4,779,693
+
+ 
+
+ITEM 6. EXHIBITS
+
+ 
+
+(b) Exhibit Index
+
+ 
+
+                                                                                                  Incorporated by Reference
+
+No.                                        Description                                   Form       Filing     Exhibit      Filing
+
+                                                                                                    Number                   Date
+
+4.1*          Form of Warrant issued to Purchasers                                                                         
+
+4.2*          Form of Financial Advisor Warrant                                                                            
+
+5.1*          Opinion of Pryor Cashman LLP                                                                                 
+
+10.1*         Form of Securities Purchase Agreement between Greenwave Technology                                           
+
+               Solutions, Inc. and the Purchasers signatory
+
+               thereto
+
+23.1*         Consent of Pryor Cashman LLP (included in Exhibit 5.1)                                                       
+
+31.1*         Certification of the Chief Executive Officer pursuant to Rule                                                
+
+               13a-14(a) of the Exchange Act, as adopted pursuant to Section 302 of
+
+               the Sarbanes-Oxley Act of
+
+               2002
+
+31.2*         Certification of the Chief Financial Officer pursuant to Rule                                                
+
+               13a-14(a) of the Exchange Act, as adopted pursuant to Section 302 of
+
+               the Sarbanes-Oxley Act of
+
+               2002
+
+32.1*         Certification of the Chief Executive Officer pursuant to Rule                                                
+
+               13a-14(b) of the Exchange Act and 18 U.S.C. Section 1350, as adopted
+
+               pursuant to Section 906 of the Sarbanes-Oxley Act of
+
+               2002
+
+32.2*         Certification of the Chief Financial Officer pursuant to Rule                                                
+
+               13a-14(b) of the Exchange Act and 18 U.S.C. Section 1350, as adopted
+
+               pursuant to Section 906 of the Sarbanes-Oxley Act of
+
+               2002
+
+101.INS*      Inline XBRL Instance Document (the Instance Document does not appear                                         
+
+               in the Interactive Data File because its XBRL tags are embedded
+
+               within the Inline XBRL
+
+               document).
+
+101.SCH*      Inline XBRL Taxonomy Extension Schema Document.                                                              
+
+101.CAL*      Inline XBRL Taxonomy Extension Calculation Linkbase Document.                                                
+
+101.DEF*      Inline XBRL Taxonomy Extension Definition Linkbase Document.                                                 
+
+101.LAB*      Inline XBRL Taxonomy Extension Label Linkbase Document.                                                      
+
+101.PRE*      Inline XBRL Taxonomy Extension Presentation Linkbase Document.                                               
+
+104*          Cover Page Interactive Data File (formatted as Inline XBRL and                                               
+
+               contained in Exhibit
+
+               101).
+
+ 
+
+*    Filed or furnished herewith.
+
+      
+
++    Attachments have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company hereby undertakes to furnish copies of
+
+      such omitted materials supplementally upon request by the U.S. Securities and Exchange
+
+      Commission.
+
+      
+
+**   Agreement with management or compensatory plan or arrangement
+
+ 
+
+                                                                   37
+
+
+
+                                                         
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+                                                                    GREENWAVE TECHNOLOGY SOLUTIONS, INC.
+
+                                                                         
+
+Date: May 20, 2024                                                  By: /s/ Danny Meeks
+
+                                                                        Danny Meeks, Chief Executive Officer
+
+                                                                        (Principal Executive Officer)
+
+                                                                         
+
+Date: May 20, 2024                                                  By: /s/ Isaac Dietrich
+
+                                                                        Isaac Dietrich, Chief Financial Officer
+
+                                                                        (Principal Financial and Accounting Officer)
+
+ 
+
+                                                                   38

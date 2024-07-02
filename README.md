@@ -4,9 +4,14 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
 > *Please find more details of this work in our paper.*
 
 ![Overview of Loong](assets/main_fig.jpg)
-> Showcase of four evaluation tasks in Loong (\<di>...\</di> marks the content of the i-th document). (a) *Spotlight Locating*: Locate the evidences. (b) *Comparison*: Locate and compare the evidences. (c) *Clustering*: Locate and cluster the evidences into groups. (d) *Chain of Reasoning*: Locate and reasoning along a logical chain.
+> Showcase of four evaluation tasks in Loong (\<di>...\</di> marks the content of the i-th document). (a) *Spotlight Locating*: Locate the evidence. (b) *Comparison*: Locate and compare the evidence. (c) *Clustering*: Locate and cluster the evidence into groups. (d) *Chain of Reasoning*: Locate and reasoning along a logical chain.
 
-## Leaderboard
+## 📰News
+`[2024-07-03]` 🔥The code and benchmark are releasing. If you encounter any issues, please feel free to contact us.
+
+`[2024-06-25]` 👨‍💻The code is currently being refined, and we plan to release the evaluation code and benchmark within the next one or two weeks. If you encounter any issues, please feel free to contact me at wangminzheng2023@ia.ac.cn.
+
+## 🏆Leaderboard
 <table>
   <thead>
     <tr>
@@ -374,8 +379,59 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
 - We design two indicators: (1) **_Avg Scores_**: the average value of scores given by GPT-4 for all questions; (2) **_Perfect Rate_**: the proportion of cases scoring 100 out of the total cases. The latter is a more stringent evaluation metric compared to the former.
 - We set `temperature = 0` to eliminate randomness and keep other hyper-parameters default. For API-Based LLMs, we directly utilize the official API for testing. Since the Kimi-Chat-200k currently does not provide an interface, we manually input content on the web. As for open-source models, we conduct experiments on a server with 8 $\times$ A100 80GB.
 
-## Evaluate long-context LLMs
-`[2024-06-25]` The code is currently being refined, and we plan to release the evaluation code and benchmark within the next one or two weeks. If you encounter any issues, please feel free to contact me at wangminzheng2023@ia.ac.cn.
+## 🔧Evaluate long-context LLMs
+**Step1** Download Loong benchmark
+```shell
+git clone https://github.com/MozerWang/Loong.git
+cd Loong
+```
+
+**Step2** Create a conda environment and Install other dependencies.
+```shell
+conda create --name loong python=3.9 -y
+conda activate loong
+pip install -r requirements.txt
+```
+
+**Step3** Preparing the Model
+
+1. (**Must**) Set up your OPENAI key in config/models/gpt4.yaml
+```shell
+api_key: "Your OPENAI key"
+```
+2. If you are using API-based LLM
+```shell
+# Firstly, Set up your key in config/models/*.yaml
+api_key: "Your API key"
+```
+3. If you are using Open-sourced LLM
+```shell
+# We recommend using vLLM. And we use HTTP server that implements OpenAI’s Completions and Chat API.
+# We have provided using example for Qwen2 and GLM4. See details in Loong/src/vllm_eample.sh
+cd src
+sh vllm_example.sh
+```
+
+**Step4** Evaluate
+```shell
+cd src
+sh run.sh
+```
+
+**Things To Know**
+- We provide a complete evaluation process:
+ `step1_data_load.py` Data loading -->> `step2_model_generate.py` Model generation -->> `step3_model_evaluate.py` GPT-4 evaluation -->>  `step4_cal_metric.py` Result statistics.
+- For `step2_model_generate.py`, you can design the model generation part yourself, modifying it to use your own model's inference method. Just make sure the input and output interfaces in `Loong/src/utils/generate.py` remain consistent:
+```shell
+# Input
+generate(prompts, config, output_path, process_num, tag)
+
+# Output
+result = prompt.copy() # for prompt in prompts
+result[tag] = response_content # Your LLM's response
+with open(output_path, 'a', encoding='utf-8') as fw:
+    fw.write(json.dumps(result, ensure_ascii=False) + '\n')
+```
 
 ## Citation
 ```
@@ -386,4 +442,3 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
   journal={arXiv preprint arXiv:2406.17419},
 }
 ```
->*Disclaimer: This project is strictly for research purposes, and not an official product from Alibaba.*

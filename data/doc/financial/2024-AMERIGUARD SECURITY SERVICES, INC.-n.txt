@@ -1,0 +1,2531 @@
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+ 
+
+FORM 10-K
+
+ 
+
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the fiscal year ended December 31, 2023
+
+ 
+
+or
+
+ 
+
+☐ TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from _________ to _________
+
+ 
+
+Commission file number: 333-173039
+
+ 
+
+AMERIGUARD SECURITY SERVICES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                              Nevada                                                            99-0363866
+
+                 (State or other jurisdiction of                                              (IRS Employer
+
+                  incorporation or organization)                                           Identification No.)
+
+ 
+
+5470 W. Spruce Avenue, Suite 102
+
+Fresno, CA 93722
+
+(Address of Principal Executive Offices) (Zip Code)
+
+ 
+
+Registrant’s telephone number, including the area code: (559) 271-5984
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act: None.
+
+ 
+
+Securities registered pursuant to Section 12(g) of the Act: None.
+
+ 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐   No ☒
+
+ 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes ☐   No ☒
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such report(s)), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒   No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒   No ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+          Large accelerated filer☐                                 Accelerated filer              ☐
+
+          Non-accelerated filer  ☒                                 Smaller reporting company      ☒
+
+                                                                   Emerging growth company        ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☐
+
+ 
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐   No ☒
+
+ 
+
+The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold on June 30, 2023, or the average bid and ask price of such common equity, as of the last business day of the registrant’s most recently completed second fiscal quarter is $4,021,596.
+
+ 
+
+The number of outstanding shares of the registrant’s common stock on December 31, 2023, was 94,971,302.
+
+ 
+
+Documents Incorporated by Reference: None.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FORM 10-K ANNUAL REPORT
+
+ 
+
+FISCAL YEAR ENDED DECEMBER 31, 2023
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                               PAGE
+
+PART I                                                                                                                           
+
+                                                                                                                                 
+
+Item 1.            Business.                                                                                                    1
+
+Item 1A.           Risk Factors.                                                                                                5
+
+Item 1B.           Unresolved Staff Comments.                                                                                   5
+
+Item 1C.           Cybersecurity                                                                                                5
+
+Item 2.            Properties.                                                                                                  5
+
+Item 3.            Legal Proceedings.                                                                                           6
+
+Item 4.            Mine Safety Disclosures.                                                                                     6
+
+                                                                                                                                 
+
+PART II                                                                                                                          
+
+                                                                                                                                 
+
+Item 5.            Market for the Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity        7
+
+                    Securities.
+
+Item 6.            [Reserved].                                                                                                  7
+
+Item 7.            Management’s Discussion and Analysis of Financial Condition and Results of Operations.                       8
+
+Item 7A.           Quantitative and Qualitative Disclosures about Market Risk.                                                  11
+
+Item 8.            Financial Statements and Supplementary Data.                                                                 11
+
+Item 9.            Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.                        12
+
+Item 9A.           Controls and Procedures.                                                                                     12
+
+Item 9B.           Other Information.                                                                                           12
+
+Item 9C.           Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.                                         12
+
+                                                                                                                                 
+
+PART III                                                                                                                         
+
+                                                                                                                                 
+
+Item 10.           Directors, Executive Officers and Corporate Governance.                                                      13
+
+Item 11.           Executive Compensation.                                                                                      16
+
+Item 12.           Security Ownership of Certain Beneficial Owners and Management and Related Stockholders Matters.             17
+
+Item 13.           Certain Relationships and Related Transactions, and Director Independence.                                   17
+
+Item 14.           Principal Accountant Fees and Services.                                                                      17
+
+                                                                                                                                 
+
+PART IV                                                                                                                          
+
+                                                                                                                                 
+
+Item 15.           Exhibits, Financial Statement Schedules.                                                                     19
+
+                                                                                                                                 
+
+SIGNATURES                                                                                                                      20
+
+                                                                                                                                 
+
+EXHIBIT INDEX                                                                                                                    21
+
+                                                                                                                                  
+
+FINANCIAL STATEMENTS                                                                                                            F-1
+
+ 
+
+i
+
+ 
+
+ 
+
+FORWARD-LOOKING STATEMENTS
+
+ 
+
+The statements contained in this report with respect to our financial condition, results of operations and business that are not historical facts are “forward-looking statements”. Forward-looking statements can be identified by the use of forward-looking terminology, such as “anticipate”, “believe”, “expect”, “plan”, “intend”, “seek”, “estimate”, “project”, “could”, “may” or the negative thereof or other variations thereon, or by discussions of strategy that involve risks and uncertainties. Management wishes to caution the reader of the forward-looking statements that any such statements that are contained in this report reflect our current beliefs with respect to future events and involve known and unknown risks, uncertainties and other factors, including, but not limited to, economic, competitive, regulatory, technological, key employees, and general business factors affecting our operations, markets, growth, services, products, licenses and other factors. These forward-looking statements are only estimates or predictions. No assurances can be given regarding the achievement of future results, as actual results may differ materially as a result of risks facing our company, and actual events may differ from the assumptions underlying the statements that have been made regarding anticipated events.
+
+ 
+
+These risk factors should be considered in connection with any subsequent written or oral forward-looking statements that we or persons acting on our behalf may issue. All written and oral forward-looking statements made in connection with this report that are attributable to our company or persons acting on our behalf are expressly qualified in their entirety by these cautionary statements. Given these uncertainties, we caution investors not to unduly rely on our forward-looking statements. We do not undertake any obligation to review or confirm analysts’ expectations or estimates or to release publicly any revisions to any forward-looking statements to reflect events or circumstances after the date of this report or to reflect the occurrence of unanticipated events, except as required by applicable law or regulation.
+
+ 
+
+ii
+
+ 
+
+ 
+
+PART I
+
+ 
+
+ITEM 1. BUSINESS
+
+ 
+
+Company History
+
+ 
+
+Health Revenue Assurance Holding, Inc. (the “Company”), was incorporated in Nevada on December 13, 2010.
+
+ 
+
+The Company intended to become a provider of revenue cycle services to a broad range of healthcare providers. Offering the customers integrated solutions designed around their specific business needs, including revenue cycle data analysis, contract and outsourced coding, billing, coding and compliance audits, coding education, coding consulting, physician coding services and ICD-10 education and transition services.
+
+ 
+
+On February 10, 2012, the Company entered into an Agreement and Plan of Merger and Reorganization (the “Merger Agreement”) with Health Revenue Assurance Holdings, Inc. (formerly known as Anvex International, Inc., “HRAH”), a Nevada company, and its wholly-owned subsidiary Health Revenue Acquisition Corporation (“Acquisition Sub”), which was treated for accounting purposes as a reverse recapitalization with HRAA, considered the accounting acquirer. Each share of HRAA’s common stock was exchanged for the right to receive approximately 1,271 shares of HRAH’s common stock. Before their entry into the Merger Agreement, no material relationship existed between HRAH and Acquisition Sub or HRAA. On April 27, 2012, the Company completed a 12.98 to 1 forward stock split. On May 2, 2012, the Company changed its ticker symbol from ANVX to HRAA.
+
+ 
+
+The Company then went dormant in August 2014.
+
+ 
+
+On July 14, 2020, as a result of a custodianship in Clark County, Nevada, Case Number: A816259, Custodian Ventures LLC (“Custodian”) was appointed Custodian of the Company.
+
+ 
+
+On July 15, 2020, Custodian appointed David Lazar as the Company’s Chief Executive Officer, President, Secretary, Chief Financial Officer, Chief Executive Officer and Chairman of the Board of Directors.
+
+ 
+
+AmeriGuard Security Services, Inc. (“AmeriGuard”) was incorporated in California on November 14, 2002. The corporation was incorporated with the issuance of 1,000 common shares formerly held by Lawrence Garcia, President and CEO with 550 shares and Lillian Flores, former VP of Operations with 450 shares. On July 12, 2022, under the terms of a Settlement Agreement, Flores exchanged her 450 shares for the consideration of $3,384,950 and a promissory note in that amount secured by a stock pledge. AmeriGuard provides armed guard services as a federal contractor with licenses in 7 states and provides commercial guard services in California.
+
+ 
+
+On September 8, 2021, under the terms of a private stock purchase agreement, 10,000,000 shares of Series A-1 Preferred Stock, $0.001 par value per share (the “Shares”) of the Company, were transferred from Custodian Ventures, LLC to AmeriGuard. As a result, AmeriGuard became holder of approximately 91% of the voting rights of the issued and outstanding share capital of the Company on a fully diluted basis of the Company and became the controlling shareholder. The consideration paid for the Shares was $500,000. In connection with the transaction, David Lazar forgave the Company all debts owed to him and/or Custodian Ventures, LLC.
+
+ 
+
+On September 8, 2021, the Company accepted the resignations of David Lazar as the Company’s Chief Executive Officer, Chief Financial Officer, Treasurer, Secretary and as a Member of the Board of Directors. Effective on the same date to fill the vacancies created by Mr. Lazar’s resignations, the Company appointed Lawrence Garcia as the Company’s President, CEO, CFO, Treasurer, Secretary, and Chairman of the Board of Directors. These resignations are in connection with the consummation of the private stock purchase agreement and was not the result of any disagreement with Company on any matter relating to Company’s operations, policies or practices.
+
+ 
+
+On March 11, 2022, the Company amended its articles of incorporation to change its name to AmeriGuard Security Services, Inc. (AGSS) from Health Revenue Assurance Holdings, Inc. The name was deemed effective by FINRA on March 17, 2022.
+
+ 
+
+1
+
+ 
+
+ 
+
+On December 9, 2022, AGSS entered into the Merger Agreement. AmeriGuard became a wholly owned subsidiary of AGSS, and AGSS is the only shareholder and will continue in its existence with one owner, AGSS. Pursuant to the Share Exchange, (a) the Majority Shareholder relinquished all of his 573 AmeriGuard common shares and the Minority Shareholders relinquished all of their 67 AmeriGuard common shares, constituting all issued and outstanding shares of AmeriGuard (the “AmeriGuard Shares”), and were issued an aggregate of 80,578,125 and 9,421,875 respectively of AGSS common shares, representing 86.26% and 10.09% of the outstanding Common Stock of AGSS and (b) AmeriGuard returned the A-1 Preferred Stock of AGSS for retirement. After the issuance of the common shares, the existing 3,417,302 common shares represent 3.66% of the outstanding common stock of AGSS.
+
+ 
+
+Under the AGSS Merger Agreement, One Hundred Percent (100%) of the ownership interest of Ameriguard was exchanged for an aggregate of 90,000,000 shares of common stock of AGSS issued to the Majority Shareholders and the Minority Shareholders, in accordance with the AGSS Merger Agreement (the “AGSS Merger”). Also, as part of the AGSS Merger, Ameriguard cancelled the 10,000,000 shares of Series A-1 Preferred Stock it had purchased from Custodian Ventures, LLC. The former stockholders of Ameriguard acquired a majority of the issued and outstanding common stock as a result of the share exchange transaction. Lawrence Garcia currently owns 86.26% of the issued and outstanding voting stock of the Company and will be able to exert significant influence and control over the Company for the foreseeable future.
+
+ 
+
+We have 10,000,000 authorized and designated Series A-1 Preferred Stock which are entitled to seventy-two (72) votes per share of Series A-1 Preferred Stock on all matters on which stockholders may vote. While we currently have no such shares issued and outstanding, the voting rights afforded these Series A-1 Preferred Stock would give any future holders a disparate voting interest and allow them to potentially exert control over the actions of the Company.
+
+ 
+
+Pursuant to the terms of a settlement agreement, by and among Garcia, AmeriGuard, and Lillian Flores (“Flores”), dated July 7, 2022 (the “Settlement Agreement”), AmeriGuard repurchased the 450 common shares of Flores for a total consideration of $3,384,950 payable in five equal annual installments compounded semi-annually at a three percent rate. The initial payment on July 8, 2022, of $686,990 reduced the balance to $2,697,960. The second through fifth installment are due on December 31, 2023, through December 31, 2026.
+
+ 
+
+Prior to Merger, under the terms of a stock pledge agreement, by and among Garcia, Flores and AmeriGuard, dated July 7, 2022, 360 AmeriGuard common shares remained held in AmeriGuard treasury pledged to Flores. On Merger these pledged shares were substituted with 50,625,000 AGSS common stock of the 80,578,125 issued to Lawrence Garcia. These pledged shares are redeemed and returned to Garcia based on a stock redemption agreement, by and among Garcia, Flores and AmeriGuard, dated July 7, 2022.
+
+ 
+
+The purposes of the transactions described in this Current Report were to complete a business combination by a stock for stock merger and complete a recapitalization of the company with the result being that AmeriGuard became a wholly owned subsidiary of AGSS, and AmeriGuard’s management will be the management of AGSS.
+
+ 
+
+There was no offering with this merger. Effective immediately after the Share Exchange, the stock transfer books of AmeriGuard shall be closed.
+
+ 
+
+On October 20, 2023, the Company executed a share purchase agreement to acquire TransportUS Inc. TransportUS, Inc. was incorporated on October 24, 2018, with an S-Corp tax election. The corporation was incorporated with the issuance of 1,000 shares with no-par par value stock held by Lawrence Garcia, President and CEO. TransportUS Inc. provides human transportation services as a federal contractor, currently providing services in the state of California.
+
+ 
+
+The purchase agreement was to issue 3,000,000 common shares to Lawrence Garcia in exchange for the 1,000 shares held from TransportUS, Inc. The agreement called for the immediate issuance of 1,500,000 shares when agreement was executed with the remaining 1,500,000 shares to be issued contingent on TransportUS Inc., renewing its current transportation contract with the Veterans Administration in Long Beach California. The award of the contract is expected to occur in late March 2024.
+
+ 
+
+2
+
+ 
+
+ 
+
+Overview
+
+ 
+
+The Company manages two separate subsidiaries: Ameriguard Security Services, Inc. (“AGS”) and TransportUS, Inc. (“TUS”).
+
+ 
+
+AGS principally provides guard services for Federal, State and Local governmental entities, quasi-governmental entities and for commercial property. Guard services generated $20 million in revenues for the fiscal year ended December 31, 2023. Guard services include, providing armed and unarmed uniformed security personnel for access control, mobile patrols, traffic control, security console/system operators, fire safety directors, communication, reception, concierge and front desk/doorman operations.
+
+ 
+
+TUS provides ambulatory and non-ambulatory services for the Veterans Administration, in Long Beach CA and Central Los Angeles CA. These two contracts generate approximately $5 million in revenues annually. TUS operates approximately 40 vehicles, a mixture of sedans, minivans, and full-size vans with wheelchair lifts, along with a dispatch service available 24 hours a day, 365 days a year.
+
+ 
+
+As we continue to push growth organically as well as through acquisition, we will be able to realize a greater market share in each of these two industries.
+
+ 
+
+Corporation Information
+
+ 
+
+Our principal executive offices are currently located at 5470 W Spruce Ave Suite 102 Fresno CA 93722.
+
+ 
+
+Our website; www.ameriguardsecurity.com and www.transportus.us
+
+ 
+
+Employees
+
+ 
+
+As of December 31, 2023, AGS had 203 full-time employees, 157 of these employees are represented by collective bargaining agreements and TUS had 35 full and part-time employees. The Company considers relations with its employees to be very good.
+
+ 
+
+Our Industries
+
+ 
+
+Security
+
+ 
+
+Security guard and related services in the US is comprised of over 11,000 companies and 900,000 officers. We compete with top firms, such as Allied Universal, Securitas, G4S and Prosegur Security, which control the majority of the industry. AGS revenue at approximately $20 million in annual revenue places it in a strong competitive position.
+
+ 
+
+We believe that the top 40 companies have the resources to harness technology, to expand their business into related services other than guard services. Companies with over $50 million in revenue have, over the last 10 years, experienced steady growth while those guard companies under $20 million, the remaining 9,900 firms, have experienced declining revenues. We believe that the principal reason for this is the steady diversification of security services away from the traditional guard services to areas of utilization of technology requiring capital. Along with this, we believe that the profitability challenges below $20 million annual sales are much more difficult that above $50 million is sales, largely due to the significant economies of scale achieve at the higher revenue levels.
+
+ 
+
+The proliferation of technology while increasing efficacy in performance and inevitably lower costs in the future, the impact on the contract security industry will likely have mixed results – positive for companies who harness technology into their service delivery strategies – and negative for those companies who fail to invest in or adopt these service-enhancing capabilities. Despite the advances in the U.S. contract guarding business over recent years, there remains a question as to the industry’s viability in view of the increasing trend for integrating manned services with security systems (i.e. security video, access control and monitoring) along with the emergence of other new smart technology options and solutions (i.e. robotics, drones, cybersecurity and crowd sharing alert notification).
+
+ 
+
+3
+
+ 
+
+ 
+
+The recent merger and acquisition trend, primarily by the major national and international security organizations and fueled by investment and funding from private equity firms, is continuing. The underlying reason for this shift is less obvious and suggests an increasing number of sellers who concluded that their better option was to exit and sell rather than remain in the marketplace and try to compete and organically grow their market share.
+
+ 
+
+Despite its low barriers of entry and nominal capital requirements, the security guard business has become more challenging for the smaller owner/operator. The traditionally historic advantage of the smaller operator’s ability to offer relationship-driven customized services is no longer totally sufficient for sustainable growth – especially with the increasing regulatory challenges of the Affordable Care Act, federal and state minimum wage laws, Family Medical Leave Act and state laws (i.e. meal and rest break reporting and now, predictive scheduling).
+
+ 
+
+Even stronger local and smaller regional companies are finding it more difficult to protect their client base and grow revenues under increasing regulatory as well as competitive pressures. Larger regional and national organizations are dealing with the regulatory climate while growing market share by leveraging infrastructure, technology, economies of scale with more aggressive pricing and better service reliability. This approach appears to offer a more compelling value proposition from the client’s perspective, which seems evident by the higher client retention rates reported by the major security companies.
+
+ 
+
+However, this consolidation trend may not be inevitable for the future as newer, more tech-savvy owner/operators enter the business and recognize how to adopt best practices with a variety of sophisticated third-party software platforms and applications to help level the playing field. These include talent management and on-boarding applications to attract, hire and maintain a more skilled and reliable workforce; integrated labor management platforms to control scheduling, compliance, operations, payroll, billing and financial reporting; and state-of-the-art social media marketing applications.
+
+ 
+
+The contract security industry should now be able to more effectively capitalize on and penetrate opportunities in a $20 billion in-house market – especially for those companies who have invested and integrated technology into a more highly reliable ecosystem of protective services.
+
+ 
+
+For the foreseeable future, the U.S. manned guarding business seems likely for continued sustainable growth. While the technology/manpower ratio may shift the revenue mix going forward, based on today’s currently expanding U.S. economy, the prospects for an aggregate growth rate of four percent or more seem realistic and perhaps even conservative, especially for ownership who have prudently invested in technology enhancements to their core guarding operations.
+
+ 
+
+Providing these strategies can yield an attractive ROI, increase operating profits (EBITDA ranges of four to six percent and higher) and enterprise valuations, this industry seems not only viable but also opportune for further investment consideration.
+
+ 
+
+(The above industry data taken from https://www.nasco.org/wp-content/uploads/2021/08/2021-Bob-Perry-Contract-Security-Industry-White-Paper-1.pdf)
+
+ 
+
+Non-Emergency Medical Transportation
+
+ 
+
+The non-emergency medical transportation (NEMT) industry is a fast-growing industry. A review of multiple publications available online indicates the North American market was approximately $6.4 billion in 2022 with a compound annual growth rate of between 7.5% and 9%. This provides TUS with a market of approximately $7.6 billion in 2024. As a relatively new company, it is positioned to grow rapidly in the governmental NEMT market and is focused on expanding its market share in southern CA.
+
+ 
+
+TUS has an excellent reputation in the industry and will take advantage of this status as it bids on contracts moving forward. TUS will continue to focus on providing high quality service with our excellent staff and improving the quality of our fleet. Taking advantage of the capital markets available to AGSS, TUS will be able to enter more markets and be very competitive and profitable.
+
+ 
+
+4
+
+ 
+
+ 
+
+ITEM 1A. RISK FACTORS
+
+ 
+
+AS A SMALLER REPORTING COMPANY, WE ARE NOT REQUIRED TO PROVIDE A STATEMENT OF RISK FACTORS.
+
+ 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS.
+
+ 
+
+None.
+
+ 
+
+ITEM 1C. CYBERSECURITY.
+
+ 
+
+We have a cybersecurity risk management program intended to protect the confidentiality, integrity, and availability of our critical systems and information. Our cybersecurity risk management program is integrated into our overall enterprise risk management program, and shares common methodologies, reporting channels and governance processes that apply across the enterprise risk management program to other legal, compliance, strategic, operational, and financial risk areas.
+
+ 
+
+We have not identified risks from known cybersecurity threats, including as a result of any prior cybersecurity incidents, that have materially affected or are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition.
+
+ 
+
+Cybersecurity Governance
+
+ 
+
+Our board of directors, in considering cybersecurity risk as part of its risk oversight function, oversees management’s implementation of our cybersecurity risk management program. Our board of directors receives reports from management on our cybersecurity risks. In addition, management updates our board of directors, as necessary, regarding any material cybersecurity incidents, as well as any incidents with lesser impact potential.
+
+ 
+
+Our management team is responsible for assessing and managing our material risks from cybersecurity threats. The team has primary responsibility for our overall cybersecurity risk management program and supervises both our internal cybersecurity personnel and our retained external cybersecurity consultants. Our management team supervises efforts to prevent, detect, mitigate, and remediate cybersecurity risks and incidents through various means, which may include briefings from internal security personnel, threat intelligence and other information obtained from governmental, public or private sources, including external consultants engaged by us, and alerts and reports produced by security tools deployed in the IT environment.
+
+ 
+
+ITEM 2. PROPERTIES
+
+ 
+
+The Company’s corporate headquarters is located at 5470 W. Spruce Avenue, Suite 102, Fresno CA. The lease is currently month to month. Landlord has not indicated a desire for a new lease. Our lease payments are a total of $55,767 for the entire term (or, $4,230 per month). The Company believes that this rent expense is reasonable and comparable to the rent that would be charged to a third party.
+
+ 
+
+5
+
+ 
+
+ 
+
+ITEM 3. LEGAL PROCEEDINGS
+
+ 
+
+Involvement in Certain Legal Proceedings
+
+ 
+
+To our knowledge, during the past ten years, none of our directors, executive officers, promoters, control persons, or nominees has:
+
+ 
+
+     ●    been convicted in a criminal proceeding or been subject to a pending criminal proceeding (excluding traffic violations and
+
+           other minor
+
+           offenses)
+
+ 
+
+     ●    had any bankruptcy petition filed by or against the business or property of the person, or of any partnership, corporation
+
+           or business association of which he was a general partner or executive officer, either at the time of the bankruptcy filing
+
+           or within two years prior to that
+
+           time;
+
+ 
+
+     ●    been found by a court of competent jurisdiction in a civil action or by the Commission or the Commodity Futures Trading
+
+           Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed,
+
+           suspended, or
+
+           vacated;
+
+ 
+
+     ●    been the subject of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not
+
+           subsequently reversed, suspended or vacated (not including any settlement of a civil proceeding among private litigants),
+
+           relating to an alleged violation of any federal or state securities or commodities law or regulation, any law or regulation
+
+           respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent
+
+           injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or
+
+           removal or prohibition order, or any law or regulation prohibiting mail or wire fraud or fraud in connection with any
+
+           business entity;
+
+           or
+
+ 
+
+     ●    been the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any
+
+           self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act), any registered entity (as defined in
+
+           Section 1(a)(29) of the Commodity Exchange Act), or any equivalent exchange, association, entity or organization that has
+
+           disciplinary authority over its members or persons associated with a
+
+           member.
+
+ 
+
+As of December 31, 2023, there are three employment issues pending. The issues revolve around terminated employees alleging the Company has failed to pay minimum wages, sick pay wages, meal period violations, rest period violations wage statement violations and violation of the unfair business practices act. A lawsuit has been filed in the Fresno County Superior Court, but it is early in the process and the attorneys cannot comment on the merits at this time. The Company believes the suit has no merit and intends to resolve it before a trial, if possible.
+
+ 
+
+ITEM 4. MINE SAFETY DISCLOSURES
+
+ 
+
+Not applicable.
+
+ 
+
+6
+
+ 
+
+ 
+
+PART II
+
+ 
+
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+ 
+
+Market Information
+
+ 
+
+As of the date of this report, the Company’s common stock is quoted on OTC Markets, symbol AGSS.
+
+ 
+
+The high and low bid prices of our common stock following such date is as follows:
+
+ 
+
+Quarter Ended                                                                                               High            Low      
+
+March 31, 2023                                                                                          $        1.60  $        1.30 
+
+June 30, 2023                                                                                           $        .739  $        .699 
+
+September 30, 2023                                                                                      $         .64  $         .64 
+
+December 31, 2023                                                                                       $         .85  $         .76 
+
+ 
+
+The last reported sales price of our common stock on the OTC Markets on April 4, 2024 is $.48. 
+
+ 
+
+Authorized Capital Stock
+
+ 
+
+Our authorized capital stock consists of five hundred million (500,000,000) shares of common stock, par value $0.001 per share. Immediately after giving effect to the Merger and related transactions, there were 94,917,302 shares of our common stock issued and outstanding.
+
+ 
+
+Dividend Policy
+
+ 
+
+We have not declared or paid dividends on our common stock since our formation, and we do not anticipate paying dividends in the foreseeable future. Declaration or payment of dividends, if any, in the future, will be at the discretion of our Board of Directors and will depend on our then current financial condition, results of operations, capital requirements and other factors deemed relevant by the Board of Directors. There are no contractual restrictions on our ability to declare or pay dividend
+
+ 
+
+Holders
+
+ 
+
+As of December 31, 2023, there were 94,971,302 shares of common stock issued and outstanding, which were held by 95 stockholders of record.
+
+ 
+
+Transfer Agent
+
+ 
+
+The transfer agent for our common stock is V-Stock Transfer, and its telephone number is (727) 289-0010.
+
+ 
+
+Equity Compensation Plans
+
+ 
+
+We do not have any equity compensation plans.
+
+ 
+
+Purchases of Equity Securities by the Small Business Issuer and Affiliated Purchasers
+
+ 
+
+None.
+
+ 
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+ 
+
+Smaller reporting companies are not required to provide the information required by this Item 6.
+
+ 
+
+7
+
+ 
+
+ 
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+This Item 7 contains forward-looking statements. Forward-looking statements in this Annual Report on Form 10-K are subject to a number of risks and uncertainties, some of which are beyond our control. Our actual results, performance, prospects or opportunities could differ materially from those expressed in or implied by the forward-looking statements. Additional risks of which we are not currently aware or which we currently deem immaterial could also cause our actual results to differ, including those discussed in the section entitled “Forward-Looking Statements” included elsewhere in this Annual Report.
+
+ 
+
+Management’s Discussion and Analysis should be read in conjunction with the financial statements included in this Annual Report on Form 10-K (the “Financial Statements”). The financial statements have been prepared in accordance with generally accepted accounting policies in the United States (“GAAP”). Except as otherwise disclosed, all dollar figures included therein and in the following management discussion and analysis are quoted in United States dollars.
+
+ 
+
+The following discussion of the Company’s financial condition and the results of operations should be read in conjunction with the Financial Statements and footnotes thereto appearing elsewhere in this Report.
+
+ 
+
+The Private Securities Litigation Reform Act of 1995 provides a safe harbor for forward-looking statements. In order to comply with the terms of the safe harbor, the Company notes that in addition to the description of historical facts contained herein, this report contains certain forward-looking statements that involve risks and uncertainties as detailed herein and from time to time in the Company’s other filings with the Securities and Exchange Commission and elsewhere. Such statements are based on management’s current expectations and are subject to a number of factors and uncertainties, which could cause actual results to differ materially from those described in the forward-looking statements. These factors include, among others: (a) the Company’s fluctuations in sales and operating results; (b) regulatory, competitive and contractual risks; (c) development risks; (d) the ability to achieve strategic initiatives, including but not limited to the ability to achieve sales growth, and (e) unknown litigation.
+
+ 
+
+Corporate Structure
+
+ 
+
+As previously mentioned, on December 9, 2022, AGSS executed a reverse merger with AmeriGuard resulting in AGSS becoming the sole owner of AmeriGuard. This merger establishes AGSS as a company operating a viable guard company with annual sales of approximately $24,000,000. It also is in the position to access the capital market to generate the capital needed to begin its growth strategy of mergers and acquisitions within the security industry.
+
+ 
+
+On October 20, 2023, the Company executed a share purchase agreement to acquire TransportUS Inc. This brings the second entity under the ownership and management of AGSS. TransportUS Inc., adds an opportunity to increase revenues in the more profitable federal contracts requiring non-emergency medical transportation. As mentioned earlier, this industry is projected to grow at 9% year over year through 2032. AGSS will be a strong participant in the industry and will grow via contract awards and additional acquisitions within the industry.
+
+ 
+
+AGSS continues developing the leadership team needed for success. We have in place a CEO with 20 years of experience in our industry and has been very successful in the government contracting market. Our new CFO has 20 years of experience in improving business performance as well as organizational growth across various sectors. Our Senior Controller has over 35 years of business finance experience, the last 15 of which he has been focusing on organizational development consulting across multiple industries, and an Operations team on the east coast managing IT and our federal contracts. We have an exclusive contract with Think Equity a New York Investment Banking Firm, and we have engaged legal and SEC compliance professionals. We have a Board of Directors with Wall Street and government security experience making us well positioned to aggressively grow the business.
+
+ 
+
+8
+
+ 
+
+ 
+
+Results of Operations for the fiscal year ending December 31, 2023
+
+ 
+
+Revenues and Cost of Services
+
+ 
+
+For 2023 the Company experienced a 16.4% overall decrease in operational revenue, totaling approximately $4,800,000. The majority of the decline, approximately $4,600,000, was from the contract with the Environmental Protection Authority, EPA, that ended in May 2023. The result was only 5 months of revenue in 2023 compared to 12 months in 2022. The remaining $200,000 decline was experienced in the commercial services market, as businesses are facing declining sales and increasing costs, reduced security guard hours in 2023. Transportation services revenue increase slightly during 2023 by approximately $90,000.
+
+ 
+
+The total cost of goods sold saw a decline of approximately $3,650,000, a 14% decline as expected. This decline reflects the cost reduction due to the ending of the EPA contract, against a slight increase in direct labor costs due to the inflation rate experienced in 2023. All direct expense categories within the Cost of Services section saw a decline from 2022 due to the ending of the EPA contract. Salaries and benefits declined approximately $1,000,000, sub-contractor expenses declined approximately $2,200,000, Training and supplies expense declined approximately $134,700 and vehicle expenses declined approximately $310,000 as a result of 4 cars taken out of service.
+
+ 
+
+For the federal guard contracts, as the costs of labor increases within the unionized contract so does the revenue. For the Commercial operations there is a lag between cost increases and service rate increases. It continues to be our practice to adjust service rates annually in the month of February. Although we did increase our billing rates for new contracts during 2023, the existing companies did not see a rate increase since February 2023. Although demand for services continues to grow, the expectations of the cost of those services are out of line within the market. As AGS struggles with the cost of labor, the customers are experiencing similar cost pressures and are less willing to pay for our services. This conflict with AGS needing to raise services fees and customers needing to pay less is creating difficulty in the market. As a result, AGS has needed to shift its approach to protecting business assets for the traditional standing guard, to technology and patrol services. AGS has established a 24-hour dispatch department to monitor activity and direct patrol officers to the problem locations. Our patrol officers respond to all alarms regardless of cause within 15 minutes of activation. This is a cost effect way for businesses to have protection without the high expense of a posted guard. This is an area of service we are continuing to expand.
+
+ 
+
+Currently, we have four federal contracts continuing into 2024, that approximated 87% of our total services revenue for the year ended December 31,2023. All federal contracts are awarded with a term of 5 years, with annual renewals. At the end of each contract year the government has the option to renew, cancel or renegotiate. Our four contracts and their respective terms are as follows:
+
+ 
+
+     ●    Social Security Administration, NSC                        -    September 2022 through September 2027
+
+                                                                          Annual Revenue of approx. $3M
+
+                                                                           
+
+     ●    Social security Administration, SSC                        -    June 2022 through June 2027
+
+                                                                          Annual Revenue of approx. $5M
+
+                                                                           
+
+     ●    Social Security Administration, WBDOC                      -    June 2021 through July 2026
+
+                                                                          Annual Revenue of approx. $5.8M
+
+                                                                           
+
+     ●    Veterans Administration – Long Beach CA                    -    Feb 2019 through June 2024
+
+                                                                          Annual Revenue of approx. $4.4M
+
+ 
+
+As with all professional service industries the vast majority of expense in with direct labor and expenses associated with that labor. We are not an exception. Our direct expenses average around 91% of revenues. Total cost of services was approximately $22,300,000 in 2023 and approximately $25,900,000 in 2022.
+
+ 
+
+9
+
+ 
+
+ 
+
+Operating Expenses and Other Expense
+
+ 
+
+Operation expenses, overhead expenses, increased in 2023 over 2022 by approximately $1.2 million. The largest category of increase was in administrative salaries and related payroll expenses, of approximately $442,000. Ninety percent of this increase was due to the establishment of the required IT department and an east coast operations group (mid-2022) along with a new Human Resource department (2023). Professional services experienced an increase of approximately $167,000. A portion of this increase, $65,000, was due to the audit requirements of TransportUS Inc. prior to acquisition, the remainder due to the cost associated with a full year of quarterly filings that required professional review. Two other expense categories that experienced and increase over 2022 were Staff Training and Livescan fees. These two experienced a combined increase of approximately $180,000. This is due to the strategic decision to close a separate Training Company operating in Maryland and making it a division of AGS. This resulted in all of the operating expenses of the closed company being added to AGS normal operations. Loan interest expense also saw an increase of approximately $171,000 due to a full year of interest for the shareholder buyout loan, along with additional loan interest and borrowing fees occurred in the 4th quarter.
+
+ 
+
+Other expenses incurred a minor increase of $31,472.
+
+ 
+
+At this time, our operating structure and current level of expense can handle twice the revenue stream with minor increases to our operating overhead expenses. This allows the entire gross profit of any new contract or company acquisition to go straight to the bottom line, providing a consistent return on investment.
+
+ 
+
+Net (Loss) from Operations and Other Income
+
+ 
+
+The Company experience a significant net loss from operations of $2,440,000 for the year ending December 31, 2023, compared to a minor loss of $100,349 for the year ending December 31,2022. The cause of this loss was the gross profit margin lost due to the end of the EPA contract and the expenses increase described above. Other income increases over $2.8 million due to the Employee Retention Tax Credit received by AGS in June 2023.
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+The Company’s principal sources of liquidity include cash from operations and proceeds from long-term debt financing. During the year ended December 31, 2023, operations generated net cash decrease of $70,076 while cash used from investing activities during the same period was $192,981, with cash provided from financing activities was $686,815. The Company did not receive any proceeds from long term debt in 2023. The net decrease in cash for 2022 was approximately $346,000.
+
+ 
+
+The main source of cash from financing activities was a short-term accounts receivable loan received in December in the amount of $766,677. Financing activities usage was SBA loan payments of $74,174 and equity distributions of $5,678. The main use of cash in investing activities was office remodel expenses.
+
+ 
+
+On December 31, 2023, the Company had cash on hand of $2,166,118, with total current assets of $4,142,819.
+
+ 
+
+Moving Forward
+
+ 
+
+During the past eighteen months we have been working to get to where we are today. It has been difficult and expensive, to get to this point of being a public company with the corporate structure, systems and team that can expand our business with increasing profitability. Our current overhead expense structure has the capacity to manage two to three times the revenues from one of two strategic sources.
+
+ 
+
+10
+
+ 
+
+ 
+
+Our first source is to continue down our historical path of seeking out contracts that meet our sweet spot and bidding with hope of successful award. However, this path is time consuming and isn’t a guarantee of the growth we desire and is outside of our control.
+
+ 
+
+Our second source of growth is merger and acquisition. Now that we have the capital market available to us and our industry is positioned for long term growth, now is the time. The security industry continues to grow in opportunity, and at the same there’s a lot of consolidation occurring., We plan to be the company acquiring others and quickly doubling our revenues with one or two key acquisitions. After which we could see all the gross profit from those companies going directly to our bottom line.
+
+ 
+
+There are also potential acquisition opportunities in several other industries that could fit our business model. Those include transportation, cyber security, private security, ammunition manufacturing, and surveillance.
+
+ 
+
+Management is very positive regarding profitable operations for the next twelve months based on the following:
+
+ 
+
+     ●    Both industries that AGSS currently operates in, are growing industries.
+
+ 
+
+     ●    The security industry is somewhat recession proof.
+
+           
+
+     ●    The non-emergency transportation market is growing at an annual rate of over 7.5%.
+
+           
+
+     ●    There are over 10,000 security companies operating in our market, with 50% available for acquisition.
+
+ 
+
+     ●    Our management team, Board of Directors and supporting equity professionals can get the job done.
+
+ 
+
+     ●    We have been and will continue to be a company that is very conservative with our resources and will use every possible
+
+           dollar provide strength and good return to our
+
+           investors.
+
+ 
+
+     ●    We are in it for the long haul.
+
+ 
+
+     ●    We make profits the old fashion way, hard work. 
+
+ 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ 
+
+We are a smaller reporting company and are not required to provide the information required by this item.
+
+ 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+ 
+
+Our consolidated balance sheets, as of December 31, 2023, and 2022, and the related consolidated statements of operations and comprehensive loss, stockholders’ equity and cash flows for each of the two years in the period ended December 31, 2023, and 2022, together with the related notes and the report of our independent registered public accounting firm, are set forth on the “F” pages of this report.
+
+ 
+
+11
+
+ 
+
+ 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+ 
+
+None
+
+ 
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+We maintain disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended, or the “Exchange Act”) that are designed to ensure that information that would be required to be disclosed in the Exchange Act reports is recorded, processed, summarized and reported within the time period specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including to our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+ 
+
+As required by Rule 13a-15 under the Exchange Act, our management, including our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of December 31, 2023. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that as of December 31, 2023, our disclosure controls and procedures were effective to satisfy the objectives for which they are intended. The Company appointed an independent audit committee June 14, 2023.
+
+ 
+
+Internal Control over Financial Reporting and Attestation Report of Registered Public Accounting Firm
+
+ 
+
+This annual report does not include a report of management’s assessment regarding internal control over financial reporting (“ICFR”) or an attestation report of the Company’s independent registered public accounting firm on ICFR due to a transition period established by rules of the Securities and Exchange Commission (the “SEC”) for newly public companies. The SEC has adopted a transition period permitting a newly public company to wait until its second annual report to comply with Section 404(a) of Sarbanes-Oxley Act of 2002 (“SOX”). After that point, issuers that are emerging growth companies, or are not large, accelerated filers or accelerated filers are exempt from the requirements of SOX 404(b). As such, if the Company continues to satisfy as being an emerging growth company or other exemption standards as listed above, it will continue to be exempted from filing attestation report of the Company’s independent registered public accounting firm regarding ICFR.
+
+ 
+
+Changes in Internal Controls over Financial Reporting
+
+ 
+
+There were no changes in our internal control over financial reporting identified in connection with the evaluation required by paragraph (d) of Exchange Act Rules 13a-15 or 15d-15 that occurred during our last fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+ 
+
+ITEM 9B. OTHER INFORMATION
+
+ 
+
+None.
+
+ 
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+
+ 
+
+Not applicable.
+
+ 
+
+12
+
+ 
+
+ 
+
+PART III
+
+ 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+
+ 
+
+Set forth below is information regarding our directors and executive officers as of December 31, 2023:
+
+ 
+
+The following persons are executive officers and directors upon completion of the Merger, and hold the positions set forth opposite their respective names, including shares held.
+
+ 
+
+Name                         Age                                 Position                               Common       Percentage of 
+
+                                                                                                      shares held      Class(1)
+
+Lawrence Garcia               51      Chairman of the Board, President and Chief Executive Officer       82,078,125          86.47%
+
+                                      Chief Operating Officer, Chief Marketing Officer, Secretary,
+
+                                       Treasurer and
+
+                                       Director
+
+                                                                                                                                   
+
+Michael Goosen, CPA           62      Former Chief Financial Officer                                      2,671,875           2.81%
+
+                                                                                                                                   
+
+Douglas Anderson*             61      Director                                                            3,515,625           3.70%
+
+                                                                                                                                   
+
+Russel Honore’                76      Director                                                              562,500            .59%
+
+ 
+
+ 
+
+ (1)  Based on 94,917,302 shares of common stock outstanding as of December 31, 2023
+
+ *    Appointed December 2023
+
+ 
+
+Lawrence Garcia is the CEO and President of AmeriGuard Security Service, Inc incorporated in state of California in 2002. Lawrence is a disabled veteran of the United States Navy and of Hispanic dissent. He has led the company from a small local guard company to a national company currently managing five Federal Government armed guard contracts with annual revenue of over $24 million. Mr. Garcia has twice been named, “Businessman of the Year” in the State of California.
+
+ 
+
+Michael Goossen, CPA is the former Chief Financial Officer of AmeriGuard Security Services, Inc., a California Corporation. Michael has been a CPA since 1986, has worked in multiple industries as a CFO and CEO. During the past 20 years he has been providing small business consulting, offering CFO services and executive leadership development. Michael began working with AmeriGuard as a CFO consultant and business development strategist 3 years ago and became the full time CFO for AmeriGuard in August 2022.
+
+ 
+
+Douglas Anderson, Board Director. Mr. Anderson is the CEO of Wall Street Capital Partners and has been involved in or exposed to most aspects of corporate finance with over 20 years on Wall Street. Prior to his work in corporate finance, he served in the U.S. Marine Corps, including the elite Marine Reconnaissance Battalion. He held a Top-Secret clearance while serving operationally in the U.S. State Department at American Embassies overseas, as well as at the U.N. in New York, where he participated in Security Enhancement programs. Mr. Anderson was formally trained on Wall Street as an Underwriter. He has been interviewed and broadcast nationally and internationally, many times as an expert both on NASDAQ and at the NYSE. Mr. Anderson earned his undergraduate degree from the University of Washington and postgraduate graduate education includes executive education from Harvard in Finance and Texas A&M in Agriculture Science. Mr. Anderson has served as an Advisor, Director, public company CEO and public company Board Director over his career.
+
+ 
+
+13
+
+ 
+
+ 
+
+General Russel Honore’, Board Director. General Russel Honore is a decorated 37-year army veteran and a global authority on leadership, disaster management, and climate preparedness. At the request of the Speaker of the House, the General led Task Force 1-6 Capitol Security Review to improve Capitol security following the attacks on January 6, 2021. As the commander of Joint Task Force Katrina, he became known as the “Category 5 General” for his leadership in coordinating military relief efforts in post-hurricane New Orleans. General Honore knows that the future of our national security depends on protecting our environment, and he’s fighting for a brighter future for us all. A Louisiana native, he founded GreenARMY, a coalition of environmental experts and advocates, to protect against pollution while fighting climate change and the natural disasters it causes. During his military career, General Honore held numerous commands, including Vice Director for Operations for the Joint Chiefs of Staff and Commander of the Standing Joint Force Headquarters-Homeland Security.
+
+ 
+
+Term of Office
+
+ 
+
+Our directors are appointed to hold office until the next meeting of our shareholders or until removed from office in accordance with our bylaws.
+
+ 
+
+Family Relationships
+
+ 
+
+There are no family relationships between any of our directors or executive officers.
+
+ 
+
+Our directors do not hold any directorships in other reporting companies and does not qualify as an “independent director” under the Rules of NASDAQ, Marketplace Rule 4200(a)(15).
+
+ 
+
+To our knowledge, during the last ten years, none of our directors and executive officers (including those of our subsidiaries) have:
+
+ 
+
+     (a)  had a bankruptcy petition filed by or against any business of which such person was a general partner or executive officer
+
+           either at the time of the bankruptcy or within two years prior to that
+
+           time.
+
+ 
+
+     (b)  been convicted in a criminal proceeding or been subject to a pending criminal proceeding, excluding traffic violations and
+
+           other minor
+
+           offenses.
+
+ 
+
+     (c)  been subject to any order, judgment or decree, not subsequently reversed, suspended or vacated, of any court of competent
+
+           jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type
+
+           of business, securities or banking
+
+           activities.
+
+ 
+
+     (d)  been found by a court of competent jurisdiction (in a civil action), the SEC, or the Commodities Futures Trading Commission
+
+           to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended or
+
+           vacated.
+
+ 
+
+Director or Officer Involvement in Certain Legal Proceedings
+
+ 
+
+To our knowledge, our directors and executive officers were not involved in any legal proceedings as described in Item 401(f) of Regulation S-K in the past ten years.
+
+ 
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+ 
+
+The Company is not subject to Section 15(d) of the Securities Exchange Act Exchange Act.
+
+ 
+
+14
+
+ 
+
+ 
+
+Code of Ethics
+
+ 
+
+A code of business conduct and ethics is a written standard designed to deter wrongdoing and to promote (a) honest and ethical conduct, (b) full, fair, accurate, timely and understandable disclosure in regulatory filings and public statements, (c) compliance with applicable laws, rules and regulations, (d) the prompt reporting violation of the code and (e) accountability for adherence to the code. We are not currently subject to any law, rule or regulation requiring that we adopt a code of ethics; however, we intend to adopt one in the near future.
+
+ 
+
+Board of Directors
+
+ 
+
+All directors hold office until the next annual meeting of shareholders and until their successors have been duly elected and qualified, or until their earlier death, resignation or removal. Officers are elected by and serve at the discretion of the board.
+
+ 
+
+Our directors are reimbursed for expenses incurred by them in connection with attending board meetings and receive a monthly honorarium for serving on the board.
+
+ 
+
+Lawrence Garcia, CEO and majority Shareholder is our only non-independent director.
+
+ 
+
+Because our common stock is not currently listed on a national securities exchange, we have used the definition of “independence” of The NASDAQ Stock Market to make this determination. NASDAQ Listing Rule 5605(a)(2) provides that an “independent director” is a person other than an officer or employee of the company or any other individual having a relationship which, in the opinion of the company’s board of directors, would interfere with the exercise of independent judgment in carrying out the responsibilities of a director. The NASDAQ listing rules provide that a director cannot be considered independent if:
+
+ 
+
+     ●    the director is, or at any time during the past three years was, an employee of the Company;
+
+           
+
+     ●    the director or a family member of the director accepted any compensation from the Company in excess of $120,000 during any
+
+           period of 12 consecutive months within the three years preceding the independence determination (subject to certain
+
+           exclusions, including, among other things, compensation for board or board committee
+
+           service);
+
+           
+
+     ●    a family member of the director is, or at any time during the past three years was, an executive officer of the Company;
+
+           
+
+     ●    the director or a family member of the director is a partner in, controlling stockholder of, or an executive officer of an
+
+           entity to which the Company made, or from which the Company received, payments in the current or any of the past three
+
+           fiscal years that exceed 5% of the recipient’s consolidated gross revenue for that year or $200,000, whichever is greater
+
+           (subject to certain
+
+           exclusions);
+
+           
+
+     ●    the director or a family member of the director is employed as an executive officer of an entity where, at any time during
+
+           the past three years, any of the executive officers of the Company served on the compensation committee of such other
+
+           entity;
+
+           or
+
+           
+
+     ●    the director or a family member of the director is a current partner of the Company’s outside auditor, or at any time during
+
+           the past three years was a partner or employee of the Company’s outside auditor, and who worked on the company’s
+
+           audit.
+
+ 
+
+Compensation committee
+
+ 
+
+The board of directors established a compensation committee as required by Sarbanes-Oxley Act. The committee will make compensation recommendations to the board.
+
+ 
+
+15
+
+ 
+
+ 
+
+2024 Equity Incentive Plan
+
+ 
+
+Our Board of Directors and stockholders owning a majority of our outstanding shares plans to adopt an Equity Incentive Plan during 2024. Details of the plan will be developed with the input of the Board of Directors along with the then established compensation committee.
+
+ 
+
+Code of Ethics
+
+ 
+
+We have not adopted a code of ethics that applies to our principal executive officer, principal financial officer, principal accounting officer, or persons performing similar functions, because of the small number of persons involved in the management of the Company.
+
+ 
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+ 
+
+Executive positions and salaries:
+
+ 
+
+Name and Position                                                 Year        Salary       Bonus         Other           Total     
+
+                                                                               ($)          ($)       Compensation        ($)
+
+                                                                                                           ($)
+
+Lawrence Garcia - CEO                                             2023          188,351      50,000            21,279      259,630 
+
+                                                                  2022          146,551           -            21,279      167,830 
+
+                                                                                                                                   
+
+Michael Goosen, CPA - Former CFO                                  2023          150.000      20,000             1,038      171,038 
+
+                                                                  2022          134,250           -               650      134,900 
+
+ 
+
+Employment Agreements
+
+ 
+
+As of December 31, 2023, there are no employment agreements in place. It is the intention of ownership to rely on the recommendation of the compensation committee appointed by the Board of Directors.
+
+ 
+
+Outstanding Equity Awards at Fiscal Year-End
+
+ 
+
+There were no outstanding equity awards held by our officers as of December 31, 2023.
+
+ 
+
+Long-Term Incentive Plans and Awards
+
+ 
+
+There were no awards made to a named executive officer in fiscal 2023 and 2022 under any long-term incentive plan.
+
+ 
+
+Director Compensation
+
+ 
+
+Directors are permitted to receive fixed fees and other compensation for their services as directors. The Board of Directors has the authority to fix the compensation of directors.
+
+ 
+
+Payments to Directors totaled $120,000 for the year ended December 31, 2023, and $35,000 for the year ended December 31, 2022.
+
+ 
+
+16
+
+ 
+
+ 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+ 
+
+Beneficial ownership is determined in accordance with SEC rules and generally includes voting or investment power with respect to securities. All share ownership figures include shares of our Common Stock issuable upon securities convertible or exchangeable into shares of our Common Stock within sixty (60) days of March 20, 2024 which are deemed outstanding and beneficially owned by such person for purposes of computing his or her percentage ownership, but not for purposes of computing the percentage ownership of any other person.
+
+ 
+
+Name and Address                                                                                         Beneficial     Percentage   
+
+                                                                                                         Ownership      of Class(1)
+
+Lawrence Garcia                                                                                            80,578,125          86,26%
+
+Michael Goossen, CPA                                                                                        2,671,875           2.86%
+
+Douglas Anderson*                                                                                           3,515,625           3.76%
+
+All officers/directors as a group (3 people)                                                               86,765,625          92.88%
+
+ 
+
+ 
+
+ (1)  Based on 94,471,302 shares of common stock outstanding as of March 20, 2024.
+
+ *    Appointed on December 09, 2022.
+
+ 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.
+
+ 
+
+Related Party Transactions
+
+ 
+
+There are no related party transactions as of the fiscal year ended December 31, 2023
+
+ 
+
+Independence of the Board of Directors
+
+ 
+
+For a director to be “independent” under these standards, the Board must affirmatively determine that the director has no material relationship with us, either directly or as a partner, shareholder, or officer of an organization that has a relationship with us. Applying corporate governance standards, and all other applicable laws, rules and regulations, the Board of Directors has determined that one of our directors is independent. This does not constitute an independent board of directors.
+
+ 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+ 
+
+We were billed by BF Borgers CPA PC, our independent public accountants for the following professional services it performed for us during the fiscal year ended December 31, 2023, and 2022, as set forth in the table below:
+
+ 
+
+                                                                                                            2023           2022      
+
+Audit Fees                                                                                              $     115,500  $      59,400 
+
+Audit Related Fees                                                                                      $              $             
+
+Tax Fees                                                                                                $              $             
+
+All other fees                                                                                          $      79,500  $      44,000 
+
+TOTAL FEES                                                                                              $     195,000  $     103,400 
+
+ 
+
+17
+
+ 
+
+ 
+
+Audit Fees — This category includes the audit of our annual financial statements and services that are normally provided by the independent auditors in connection with engagements for those fiscal years.
+
+ 
+
+Audit-Related Fees — This category consists of assurance and related services by the independent auditors that are reasonably related to the performance of the audit or review of our financial statements and are not reported above under “Audit Fees”.
+
+ 
+
+Tax Fees — This category consists of professional services rendered by the Company’s independent registered public accounting firm for tax compliance and tax advice. The services for the fees disclosed under this category include tax return preparation and technical tax advice.
+
+ 
+
+All Other Fees — This category consists of fees for other miscellaneous items such as financial statements reviews and quarterly filing reviews.
+
+ 
+
+Pre-Approval Policies and Procedures
+
+ 
+
+All of the services rendered to us by our independent registered public accountants were pre-approved by the Board.
+
+ 
+
+18
+
+ 
+
+ 
+
+PART IV
+
+ 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+ 
+
+(a) The following documents are filed as part of this report:
+
+ 
+
+Financial Statements
+
+ 
+
+The following financial statements of Ameriguard Security Services, Inc. and Report of Independent Registered Public Accounting Firm are presented in the “F” pages of this report:
+
+ 
+
+                                                                                                                               Page
+
+Report of Independent Registered Public Accounting Firm                                                                        F-2
+
+                                                                                                                                 
+
+Audited Consolidated Balance Sheets as of December 31, 2023 and 2022                                                           F-3
+
+                                                                                                                                 
+
+Audited Consolidated Statements of Operations and Comprehensive Loss for the Years Ended December 31, 2023 and 2022            F-4
+
+                                                                                                                                 
+
+Audited Consolidated Statements of Changes in Stockholders’ Equity for the Years Ended December 31, 2023 and 2022              F-5
+
+                                                                                                                                 
+
+Audited Consolidated Statements of Cash Flows for the Years Ended December 31, 2023 and 2022                                   F-6
+
+                                                                                                                                 
+
+Notes to Audited Consolidated Financial Statements                                                                             F-7
+
+ 
+
+(b) Exhibits
+
+ 
+
+See the Exhibit Index following the signature page of this report, which Index is incorporated herein by reference.
+
+ 
+
+19
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+                                                                   AMERIGUARD SECURITY SERVICES, INC.
+
+                                                                    
+
+Date: April 4, 2024                                                By:  /s/ Lawrence Garcia
+
+                                                                        Name:  Lawrence Garcia
+
+                                                                        Title: Chief Executive Officer
+
+                                                                               (principal executive officer)
+
+                                                                    
+
+Date: April 4, 2024                                                By:  /s/ Jason Bovell
+
+                                                                        Name:  Jason Bovell
+
+                                                                        Title: Chief Financial Officer
+
+                                                                               (principal financial officer and
+
+                                                                               principal accounting officer)
+
+ 
+
+20
+
+ 
+
+ 
+
+AMERIGUARD SECURITY SERVICES, INC.
+
+Exhibit Index to Annual Report on Form 10-K
+
+For the Fiscal Year Ended December 31, 2023
+
+ 
+
+Exhibit No.  Description
+
+3.1          Certificate of Incorporation of AMERIGUARD SECURITY SERVICES, INC., as amended (incorporated by reference to Exhibit 3.1
+
+              to the Form 8-K filed on December 14,
+
+              2022).
+
+              
+
+3.2          Amended and Restated By-Laws of AMERIGUARD SECURITY SERVICES, INC. (incorporated by reference to Exhibit 3.1 to the Form
+
+              8-K filed on December 14,
+
+              2022).
+
+              
+
+3.3          Articles of Incorporations AmeriGuard Security Services, Inc. (AmeriGuard) (California) (incorporated by reference to
+
+              Exhibit 3.3 to the Form 8-K filed on December 14,
+
+              2022).
+
+              
+
+3.4          Bylaws AGS, Inc. (AmeriGuard) (California) (incorporated by reference to Exhibit 3.4 to the Form 8-K filed on December
+
+              14,
+
+              2022).
+
+              
+
+21.1*        Subsidiaries of the Company- Ameriguard Security Services, Inc. (California)
+
+              
+
+31.1*        Certification of Chief Executive Officer pursuant to Rule 13a-14 and Rule 15d-14(a) of the Exchange Act.
+
+              
+
+31.2*        Certification of Chief Financial Officer pursuant to Rule 13a-14 and Rule 15d-14(a) of the Exchange Act.
+
+              
+
+32.1*        Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+
+              Sarbanes-Oxley Act of
+
+              2002.
+
+              
+
+32.2*        Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+
+              Sarbanes-Oxley Act of
+
+              2002.
+
+              
+
+101*         Interactive data files pursuant to Rule 405 of Regulation S-T
+
+              
+
+101.INS      Inline XBRL Instance Document.*
+
+101.SCH      Inline XBRL Taxonomy Extension Schema Document.*
+
+101.CAL      Inline XBRL Taxonomy Extension Calculation Linkbase Document.* 
+
+101.DEF      Inline XBRL Taxonomy Extension Definition Linkbase Document.*
+
+101.LAB      Inline XBRL Taxonomy Extension Label Linkbase Document.*
+
+101.PRE      Inline XBRL Taxonomy Extension Presentation Linkbase Document.*
+
+104          Cover Page Interactive Data File (Embedded as Inline XBRL document and contained in Exhibit 101).*
+
+ 
+
+ 
+
+ *    Exhibits filed herewith.
+
+ 
+
+21
+
+ 
+
+ 
+
+Index to Financial Statements
+
+ 
+
+                                                                                                                               Page
+
+Report of Independent Registered Public Accounting Firm                                                                        F-2
+
+                                                                                                                                 
+
+Balance Sheets as of December 31, 2023, and 2022                                                                               F-3
+
+                                                                                                                                 
+
+Statements of Operations for the Years Ended December 31, 2023, and 2022                                                       F-4
+
+                                                                                                                                 
+
+Statement of Shareholders’ Deficit for the Two Years Ended December 31, 2023                                                   F-5
+
+                                                                                                                                 
+
+Statements of Cash Flows for the Years Ended December 31, 2023, and 2022                                                       F-6
+
+                                                                                                                                 
+
+Notes to the Financial Statements for the Years Ended December 31, 2023, and 2022                                              F-7
+
+ 
+
+F-1
+
+ 
+
+ 
+
+Report of Independent Registered Public Accounting Firm
+
+ 
+
+To the shareholders and the board of directors of Ameriguard Security Services, Inc.
+
+ 
+
+Opinion on the Financial Statements
+
+ 
+
+We have audited the accompanying consolidated balance sheets of Ameriguard Security Services, Inc. as of December 31, 2023 and 2022, the related statements of operations, stockholders' equity (deficit), and cash flows for the years then ended, and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2023 and 2022, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States.
+
+ 
+
+Basis for Opinion
+
+ 
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+ 
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+
+ 
+
+Our audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion.
+
+ 
+
+Critical Audit Matter
+
+ 
+
+Critical audit matters are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments.
+
+ 
+
+We determined that there are no critical audit matters.
+
+ 
+
+/S/ BF Borgers CPA PC (PCAOB ID 5041)
+
+We have served as the Company's auditor since 2021
+
+Lakewood, CO
+
+April 4, 2024
+
+ 
+
+F-2
+
+ 
+
+ 
+
+AmeriGuard Security Services, Inc.
+
+CONSOLIDATED BALANCE SHEETS
+
+ 
+
+                                                                                                                                     
+
+                                                                                                        December 31,   December 31,  
+
+                                                                                                            2023           2022      
+
+Assets                                                                                                                               
+
+Current Assets                                                                                                                       
+
+Cash                                                                                                    $   2,166,118  $   1,751,489 
+
+Accounts receivable, net (note 2)                                                                           1,583,379      2,030,434 
+
+Current Portion Note Receivable (note 3)                                                                        9,300          9,300 
+
+Prepaid Expenses                                                                                              327,147        185,501 
+
+Deposits                                                                                                       61,575         38,000 
+
+Related Party Receivable (note 4)                                                                                   -              - 
+
+Total Current Assets                                                                                        4,147,519      4,014,724 
+
+                                                                                                                                     
+
+Other Non-Current Assets                                                                                                             
+
+Fixed assets, net depreciation (note 5)                                                                       574,114        491,713 
+
+Note Receivable (note 3)                                                                                      340,700        340,700 
+
+Operating Lease                                                                                             1,005,633        302,695 
+
+Total Non-Current Assets                                                                                    1,920,447      1,135,108 
+
+                                                                                                                                     
+
+Total Assets                                                                                            $   6,067,966  $   5,149,832 
+
+                                                                                                                                     
+
+Liabilities                                                                                                                          
+
+Current Liabilities                                                                                                                  
+
+Accounts payable                                                                                        $     449,921  $     824,098 
+
+Accrued Interest Due (note 9)                                                                                       -         49,035 
+
+Accrued Payroll                                                                                               626,694        737,143 
+
+Deferred Revenue (note 7)                                                                                     722,327        887,327 
+
+Payroll liability - Pension (note 8)                                                                          507,793        466,075 
+
+Current portion of notes payable (note 9)                                                                   2,160,347        719,563 
+
+Total Current Liabilities                                                                                   4,467,082      3,683,241 
+
+                                                                                                                                     
+
+Long Term Liabilities                                                                                                                
+
+Long term portion of notes payable (note 9)                                                                 2,034,493      2,782,784 
+
+Operating Lease                                                                                             1,060,015        294,387 
+
+Total Liabilities                                                                                           7,561,590      6,760,412 
+
+                                                                                                                                     
+
+Stockholders’ equity                                                                                                                 
+
+Common stock, $.001 par value, 94,917,302 shares issued and outstanding at December 31, 2023 and 2022         159,846        159,346 
+
+ (Note
+
+ 7)
+
+Retained earnings/(defecit)                                                                                (1,653,470)    (1,769,926)
+
+Total Stockholders’ Equity                                                                                 (1,493,624)    (1,610,580)
+
+Total Liabilities and Stockholders’ Equity                                                              $   6,067,966  $   5,149,832 
+
+ 
+
+See accompanying notes to financial statements
+
+ 
+
+F-3
+
+ 
+
+ 
+
+AmeriGuard Security Services, Inc.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+ 
+
+For the Years Ending
+
+ 
+
+                                                                                                                                     
+
+                                                                                                       December 31,    December 31,  
+
+                                                                                                           2023            2022      
+
+Revenue                                                                                                                              
+
+Services                                                                                              $   24,327,153  $   28,957,220 
+
+Discounts and allowances                                                                                     (99,004)        (10,534)
+
+Other operational income                                                                                     122,469         192,717 
+
+Total Revenue                                                                                             24,350,618      29,139,403 
+
+                                                                                                                                     
+
+Cost of Services                                                                                                                     
+
+Salaries and related taxes                                                                                16,170,868      17,026,802 
+
+Employee benefits                                                                                          3,266,243       3,410,659 
+
+Sub-Contractor payments                                                                                    1,477,908       3,683,379 
+
+Training and direct expenses                                                                                  94,516         229,220 
+
+Vehicles and equipment expenses                                                                            1,298,959       1,608,944 
+
+Total Cost of Services                                                                                    22,308,494      25,959,005 
+
+                                                                                                                                     
+
+Gross Margin                                                                                               2,042,124       3,180,399 
+
+                                                                                                                                     
+
+Operating Expenses                                                                                                                   
+
+Salaries, payroll taxes and benefits                                                                       1,604,520       1,161,982 
+
+Vehicle expense                                                                                              418,537         461,498 
+
+Professional services                                                                                        531,317         372,756 
+
+Communiction services                                                                                        160,621         130,239 
+
+General liability insurance                                                                                  160,431         120,485 
+
+Advertising and marketing                                                                                    144,747         137,175 
+
+Staff training                                                                                               185,004          75,802 
+
+Livescan services fees                                                                                       125,815          56,261 
+
+Licenses and permits                                                                                         108,749          43,128 
+
+General and administrative expenses                                                                          646,509         526,580 
+
+Loan interest                                                                                                277,205         105,826 
+
+Depreciation expense                                                                                         110,581          89,016 
+
+Total Operating Expenses                                                                                   4,474,036       3,280,748 
+
+                                                                                                                                     
+
+Net Income/(Loss) from Operations                                                                         (2,431,912)       (100,349)
+
+                                                                                                                                     
+
+Other Income (Expenses)                                                                                                              
+
+Other Income                                                                                               3,352,426         461,423 
+
+Other (Expense)                                                                                             (775,115)       (743,643)
+
+Total Other Income/(Expense)                                                                               2,577,311        (282,220)
+
+                                                                                                                                     
+
+Net Income/(loss) before Income Taxes                                                                        145,399        (382,569)
+
+                                                                                                                                     
+
+Income tax expense                                                                                            22,763          10,350 
+
+                                                                                                                                     
+
+Net Income/(loss)                                                                                     $      122,636  $     (392,919)
+
+                                                                                                                                     
+
+Net Income/(loss) per Common Share - Basic and Diluted                                                $       0.0013  $      (0.0041)
+
+                                                                                                                                     
+
+Weighted Average Number of Common Shares Outstanding - Basic and Diluted                                  94,917,302      94,917,302 
+
+ 
+
+See accompanying notes to financial statements
+
+ 
+
+F-4
+
+ 
+
+ 
+
+AmeriGuard Security Services, Inc.
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ DEFICIT
+
+ 
+
+FOR THE YEARS ENDED December 31, 2022 and 2023
+
+ 
+
+                                                                                                                                 
+
+                                                         Common Stock            Additional      Stockholders’          Total       
+
+                                                                                   Paid-In                          Stockholders’
+
+                                                     Shares         Amount         Capital          Equity             Equity       
+
+Balance, December 31, 2021                           93,417,302  $    158,346  $   9,397,045  $     (7,570,828) $      1,984,562 
+
+TransportUS Inc. Stockholders Equity (note 10)            1,000         1,000                          357,260           358,260 
+
+Owner draws (pre-merger)                                      -             -              -           (78,063)          (78,063)
+
+Shareholder buyout (note 9)                                   -             -     (3,384,950)                -        (3,384,950)
+
+Retained Deficit of merger with related entity                -             -              -           (97,470)          (97,470)
+
+Equity purchase of TransportUS Inc, (note 10)         1,500,000         1,500         (1,500)                -                 - 
+
+TransportUS Inc. Shares retired                          (1,000)       (1,000)         1,000                 -                 - 
+
+Net (Loss) for year ended December 31, 2022                   -             -              -          (392,919)         (392,919)
+
+Balance, December 31, 2022                           94,917,302  $    159,846  $   6,011,595  $     (7,782,021) $     (1,610,580)
+
+Owner draws (pre-merger)                                                                                (5,679)           (5,679)
+
+Net Income for year ended December 31, 2023                                -              -            122,636           122,636 
+
+Balance, December 31, 2023                           94,917,302  $    159,846  $   6,011,595  $     (7,665,064) $     (1,493,624)
+
+ 
+
+See accompanying notes to financial statements
+
+ 
+
+F-5
+
+ 
+
+ 
+
+AmeriGuard Security Services, Inc.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+ 
+
+For the Years Ending
+
+ 
+
+                                                                                                                                     
+
+                                                                                                        December 31,   December 31,  
+
+                                                                                                            2023           2022      
+
+Cash Flows from Operating Activities                                                                                                 
+
+Net Income/(Loss)                                                                                       $     122,636  $    (392,919)
+
+Adjustment to reconcile net loss from operations:                                                                                    
+
+Changes in Operating Assets and Liabilities                                                                                          
+
+Accounts receivable, net                                                                                      447,053        866,972 
+
+Prepaid insurance                                                                                            (141,647)        46,039 
+
+Deposits                                                                                                      (23,575)               
+
+Accounts payable                                                                                             (374,207)       286,903 
+
+Accrued Interest                                                                                              (49,035)        49,035 
+
+Accrued Payroll                                                                                              (110,449)        79,402 
+
+Deferred revenue                                                                                             (165,000)      (200,000)
+
+Payroll liability - Pension                                                                                    41,717       (198,703)
+
+Depreciation                                                                                                  110,581         89,016 
+
+Operating lease liability                                                                                    (702,937)       (79,358)
+
+Operating lease asset                                                                                         765,658         71,049 
+
+Net Cash (Used)/provided in Operating Activities                                                              (79,205)       617,436 
+
+                                                                                                                                     
+
+Cash Flows (Used)/Provided from Investing Activities                                                                                 
+
+Purchase of fixed assets, net retirements                                                                    (142,980)       (66,956)
+
+Building improvements                                                                                         (50,001)      (224,132)
+
+Net Cash Used by Investing Activities                                                                        (192,981)      (291,088)
+
+                                                                                                                                     
+
+Cash (Used)/Provided from Financing Activities                                                                                       
+
+Note Receivable                                                                                                     -        348,840 
+
+Financed Capital                                                                                              766,667                
+
+Payment for Shareholder buyout                                                                                              (686,990)
+
+Loan principle payments                                                                                       (74,174)      (256,308)
+
+Common stock retired from merger                                                                               (1,000)               
+
+Owner distributions (prior to merger)                                                                          (4,678)       (78,063)
+
+Net Cash Provided by Financing Activities                                                                     686,815       (672,521)
+
+                                                                                                                                     
+
+Net Increase (Decrease) in Cash                                                                               414,629       (346,173)
+
+Cash at Beginning of Period                                                                                 1,751,489      2,097,662 
+
+Cash at End of Period                                                                                   $   2,166,118  $   1,751,489 
+
+                                                                                                                                     
+
+Supplemental Cash Flow Information:                                                                                                  
+
+Income Taxes Paid                                                                                       $      22,763                
+
+Interest Paid                                                                                           $     277,205                
+
+Supplemental disclosure of non-cash financing activities:                                                                            
+
+Shareholder Loan                                                                                        $   2,697,960                
+
+Operating leases - right of use asset                                                                   $   1,005,633                
+
+Operating leases - lease liability                                                                      $   1,060,015                
+
+ 
+
+See accompanying notes to financial statements
+
+ 
+
+F-6
+
+ 
+
+ 
+
+NOTE 1 – ORGANIZATION AND DESCRIPTION OF BUSINESS
+
+ 
+
+AmeriGuard Security Services, Inc. (AGS), was incorporated on November 14, 2002, with an S-Corp tax election. The corporation was incorporated with the issuance of 1,000 shares of no-par value stock held by Lawrence Garcia, President and CEO with 550 shares and Lillian Flores, VP of Operations with 450 shares. AGS provides armed guard services as a federal contractor with licenses in 5 states and provides commercial guard services in California.
+
+ 
+
+On July 7, 2021, AGS, entered into an agreement to gain 100% control of Health Revenue Assurance Holdings, Inc (HRAA) a public corporation, incorporated in Nevada, by the purchase of 10,000,000 shares of Preferred A-1 Stock from the seller, Custodian Ventures LLC. The purchase of HRAA allowed the Company to begin plans to consummate a reverse merger with HRAA, becoming a wholly owned subsidiary of a public company. In March of 2022, a Certificate of Amendment was filed with the Nevada Secretary of State, changing the name of HRAA, to Ameriguard Security Services, Inc. (AGSS). Shortly thereafter, a stock name and ticker change report was filed with the SEC and the stock ticker of HRAA was changed to AGSS.
+
+ 
+
+On December 9, 2022, AGS executed the reverse merger agreement and became the subsidiary of AGSS (the Company). From that point forward, the financial statement filings will be the consolidation of Ameriguard Security Services, Inc, a Nevada company with Ameriguard Security Services, Inc. a California company.
+
+ 
+
+On October 20, 2023, the Company executed a share purchase agreement to acquire TransportUS Inc. TransportUS, Inc. was incorporated on October 24, 2018, with an S-Corp tax election. The corporation was incorporated with the issuance of 1,000 shares with no-par par value stock held by Lawrence Garcia, President and CEO. TransportUS Inc. provides human transportation services as a federal contractor, currently providing services in the state of California.
+
+ 
+
+The Company’s accounting year end is December 31.
+
+ 
+
+Basis of Presentation
+
+ 
+
+These consolidating financial statements are presented in United States dollars and have been prepared in accordance with United States generally accepted accounting principles. The financial statements and notes include TransportUS Inc.’s financial results for 2022 and 2023.
+
+ 
+
+Risks and Uncertainties
+
+ 
+
+The risks and uncertainties described below may not be the only ones we are or may face in the future. If any of the following do occur, our business, financial condition or results of operations could be materially adversely affected.
+
+ 
+
+The company receives over 87% of its total revenue from five Federal contracts as described in Note 12 below. These contracts have specific terms, typically five years with the opportunity for extension, but there are no assurances they will be extended. Although we have had several extended in the past, there is no guarantee this will again happened in the future. However, there are significant direct expenses for each contract that also are removed from operations at the end of a contract. As a result, the revenue lost from a completed contract does not affect the bottom-line profits in an amount equal to the revenue lost. The actual net income impact depends on the contract.
+
+ 
+
+The process required to acquire a government contract takes several months to complete prior to delivery of the proposal to the contracting agency. Due to the time span required to prepare a proposal and winning the contract is not guaranteed, the company maintains a department of individuals who monitor and write proposals for all government contracts that become open for bid on a continuing basis. It is important to the company that new contracts are acquired consistently to maintain and grow annual revenue.
+
+ 
+
+Other risks to operations consist of State and Federal regulations, staffing shortages, accelerating inflation, and overall business environment issues we cannot foresee.
+
+ 
+
+F-7
+
+ 
+
+ 
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+
+Use of Estimates
+
+ 
+
+In preparing financial statements in conformity with generally accepted accounting principles, management is required to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and revenues and expenses during the reported period. Actual results could differ from those estimates. Significant estimates include estimated useful lives and potential impairment of property and equipment, along with the collectability of some receivables from customers.
+
+ 
+
+Cash and Cash Equivalents
+
+ 
+
+The Company considers all highly liquid temporary cash investments with an original maturity of three months or less to be cash equivalents. On December 31, 2023, and December 31, 2022, the Company had cash and cash equivalents totaling $2,166,118 and $1,751,489 respectively.
+
+ 
+
+Accounts Receivable
+
+ 
+
+We record accounts receivable at net realizable value. This value includes an appropriate allowance for estimated uncollectible accounts to reflect any loss anticipated on the accounts receivable balances and is charged to other bad debt expense. We calculate this allowance based on our history of write-offs, the level of past-due accounts based on the contractual terms of the receivables, and our relationships with, and the economic status of, our customers. With over eighty-seven percent of year end accounts receivable balance from Federal contracts that require payment, and the uncollectable amount historically has been less than 1%. As of December 31, 2023, and 2022, an allowance for estimated uncollectible accounts was determined to be unnecessary.
+
+ 
+
+Property and Equipment
+
+ 
+
+Property and equipment are recorded at cost. Expenditures for major additions and improvements are capitalized and minor replacements, maintenance, and repairs are charged to expense as incurred. When property and equipment is retired or otherwise disposed of, the cost and accumulated depreciation are removed from the accounts and any resulting gain or loss is included in the results of operations for the respective period. Depreciation is provided over the estimated useful lives of the related assets using the straight-line method for financial statement purposes. The Company uses other depreciation methods (generally accelerated) for tax purposes where appropriate. The estimated useful life for Machinery and Equipment, and Vehicles is 5 years, with Leasehold improvements useful life is 15 Years.
+
+ 
+
+Operating Leases
+
+ 
+
+In February 2016, FASB ASU No. 2016-02 established ASC Topic 842, Leases, which sets out the principles for the recognition, measurement, presentation, and disclosure of leases for both lessees and lessors. Effective December 31, 2022, we have implemented ASU No. 2016-02 and booked the operating lease asset and the related liability.
+
+ 
+
+We have leased vehicles that are classified as operating leases per the guidelines. The capital lease value as calculated following FASB guidelines is presented as a non-current asset on the balance sheet. As of December 31, 2023, the value is calculated to be $1,005,633, and as of December 31, 2022, the value was $302,695. For the Operating Lease liability, the amount of $1,060,015 was calculated as of December 31, 2023, and was $294,387 as of December 31, 2022. The significant increase in both the Operating Lease asset and liability is due to the calculation formula and acquisition of TransportUS Inc. A part of the formula used to calculate the asset and liability is the annual discount rate. The discount rate used for the 2023 calculation increased 184% over 2022, due to the increase in the treasury lending rate. The increase in the discount rate and the addition of 5 leased vehicles from TransportUS Inc. directly caused the increased lease asset and related liability.
+
+ 
+
+F-8
+
+ 
+
+ 
+
+Net Income/(Loss) per Share
+
+ 
+
+Net income/(loss) per common share is computed by dividing net income or loss by the weighted average common shares outstanding during the period as defined by Financial Accounting Standards, ASC Topic 260, “Earnings per Share”. Basic earnings/(loss) per common share (“EPS”) calculations are determined by dividing net income/(loss) by the weighted average number of shares of common stock outstanding during the year. Diluted earnings per common share calculations are determined by dividing net income by the weighted average number of common shares and dilutive common share equivalents outstanding.
+
+ 
+
+Revenue Recognition
+
+ 
+
+We recognize revenue when the Invoice for contracted services is issued as stipulated by the contract. Other services provided are recognized at the time the service is provided. Ninety eight percent of revenues are billed monthly and recognized in the month the services were provided. Refunds and returns, which are minimal, are recorded as a reduction of revenue. The Company has not recorded a reserve for returns on December 31, 2023, or 2022 since it does not believe such returns will be material.
+
+ 
+
+Fair Value of Financial Instruments
+
+ 
+
+The Company applies the accounting guidance under Financial Accounting Standards Board (“FASB”) ASC 820-10, “Fair Value Measurements”, as well as certain related FASB staff positions. This guidance defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities required to be recorded at fair value, the Company considers the principal or most advantageous market in which it would transact business and considers assumptions that marketplace participants would use when pricing the asset or liability, such as inherent risk, transfer restrictions, and risk of nonperformance.
+
+ 
+
+The guidance also establishes a fair value hierarchy for measurements of fair value as follows:
+
+ 
+
+     ●    Level 1 - quoted market prices in active markets for identical assets or liabilities.
+
+           
+
+     ●    Level 2 - inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices in active
+
+           markets for similar assets or liabilities, quoted prices for identical or similar assets or liabilities in markets that are
+
+           not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full
+
+           term of the assets or
+
+           liabilities.
+
+           
+
+     ●    Level 3 - unobservable inputs that are supported by little or no market activity and that are significant to the fair value
+
+           of the assets or
+
+           liabilities.
+
+ 
+
+The carrying amount of the Company’s financial instruments approximates their fair value as of December 31, 2022, and December 31, 2023, due to the short-term nature of these instruments.
+
+ 
+
+NOTE 3 – NOTE RECEIVABLE
+
+ 
+
+On December 31, 2022, TransportUS held a receivable from a related company, AmeriGuard Security Systems, Inc (AmeriGuard) in the amount of $350,000. The relationship with AmeriGuard relates to the contract the Company holds with the Veteran’s Administration in Long Beach, California. The contract required this relationship with AmeriGuard, at the time of award. Funds from the contract were shared with AmeriGuard, during the first 3.5 years of operations and ended April 2022. As of December 31, 2022, the receivable was adjusted to $350,000 and a note payable from AmeriGuard was executed. The $350,000 note is amortized over 20 years, with a balloon payment December 31, 2032. The interest rate is 6%, with the monthly payment of $2,500. For 2023, the payments were interest only in the amount of $1,750. The note receivable is presented with the current portion of $9,300, and long-term portion of $340,700 For the two years ending December 31, 2023, and 2022.
+
+ 
+
+F-9
+
+ 
+
+ 
+
+NOTE 4 – RELATED PARTY RECEIVABLE
+
+ 
+
+On July 7, 2021, AGS entered into an agreement to purchase 100% of the Preferred A-1 Stock of Health Revenue Assurance Holdings, Inc. a SEC registered company for $500,000. In March 2022, Health Revenue Assurance Holdings, Inc. name was changed to Ameriguard Security Services Inc. (AGSS). On December 9, 2022, we signed the definitive merger agreement initiating a reverse merger with AGSS, resulting in AGS becoming a 100% owned subsidiary of AGSS. Prior to the merger, AGS funded the operational expenses of AGSS and treated these expenses as related party expenses. These expenses were eliminated when the two companies were consolidated for the financial statement presentation.
+
+ 
+
+The receivable balance on December 31, 2023, and 2022 was $57,971.
+
+ 
+
+NOTE 5 – FIXED ASSETS
+
+ 
+
+Fixed assets consist of the following on December 31, 2023, and 2022:
+
+ 
+
+Schedule of fixed assets                                                                                                             
+
+                                                                                                            2023           2022      
+
+Leasehold Improvements                                                                                        274,133        224,132 
+
+Machinery and Equipment                                                                                       290,892        278,551 
+
+Vehicles                                                                                                      635,172        546,371 
+
+Total Fixed Assets                                                                                          1,200,197      1,049,054 
+
+Accumulated Depreciation                                                                                     (626,083)      (557,341)
+
+Fixed Assets, Net                                                                                       $     574,114  $     491,713 
+
+ 
+
+NOTE 7 – DEFERRED REVENUE
+
+ 
+
+During the first three years of operations of TransportUS Inc, Secure Transportation, Inc. (Secure), a subcontractor, advanced funds to TransportUS Inc. with the expectation of future services provided for Secure. This arrangement ended, December 31, 2021, after Secure had advanced $1,087,327. The agreement moving forward required TransportUS to provide services in the amount of $15,000 per month or return funds to secure in that same amount. During 2023 and 2022, TransportUS has returned funds in the amount of $365,000, leaving a balance of $722,327 as of December 31, 2023.
+
+ 
+
+NOTE 8 – PAYROLL LIABILITY – PENSION
+
+ 
+
+The company offers various pension plans to employee groups based on location of employment. Corporate office employees and guards have an option to participate in a 401K sponsored by the company with a matching program up to 5% of employee salary. Federal contracts have union agreements that define the pension calculation and due dates. It is the responsibility of the company to calculate the pension benefit amount each month and contribute the amount due to the plan designated. The pension balances due on December 31, 2023, and 2022 for all plans were $507,793 and $466,075 respectively.
+
+ 
+
+NOTE 9 – NOTES PAYABLE
+
+ 
+
+In June 2020, AmeriGuard Security Services, Inc. received an SBA Loan through Fresno First Bank in the amount of $1,080,000 that was used to close out a Citibank loan in the amount of $312,339 with the remaining balance after expenses held in reserve. The SBA loan is a 10-year loan with monthly principal and interest payments. Interest rate is variable at prime rate plus 2.75%, adjusted every calendar quarter. Interest rate on December 31, 2023, and 2022 was 11% and 9% respectively. Balance remaining on the SBA loan was $730,213 and $804,387 as of December 31, 2023, and 2022 respectively.
+
+ 
+
+F-10
+
+ 
+
+ 
+
+On July 7, 2022, the Company entered into a buyout agreement with shareholder Lillian Flores. The total buyout amount was $3,384,950 representing 45% of the calculated business value as of December 31, 2020. Following the initial payment of $686,990, the company agreed to make 4 equal installments of principal and interest of $739,508 each December 31, starting 2023. Interest is calculated at a fixed rate of 3.110% compounded semi-annually. The company has accrued interest on December 31, 2022, of $49,035. Balance remaining in the amount of $2,697,960. All interest due was paid December 28, 2023, resulting in a balance of $0 on December 31, 2023. The Company requested a deferral of the payment of principal due December 31, 2023, and received a deferral from Mrs. Flores. See subsequent events Note 15 for details.
+
+ 
+
+On December 20, 2023, the company entered into a short-term loan agreement collateralized by accounts receivable from TVT Capital LLC. The agreement encumbered $1,199,200 of receivables resulting in a note payable of $800,000; the repayment term requires $49,967 per week for 24 weeks. As of December 31, 2023, the balance of $766,667 was outstanding, and is included as current portion of notes payable.
+
+ 
+
+The following schedule details the loans active as of December 31, 2023, and 2022:
+
+ 
+
+Schedule of the loan active                                                                                                          
+
+                                                                                                            2023           2022      
+
+Current Portion:                                                                                                                     
+
+Notes and loans payable                                                                                 $   2,160,347  $     719,563 
+
+Long term Portion:                                                                                                                   
+
+Notes and loans payable                                                                                     2,034,493      2,782,784 
+
+Total Notes Payable                                                                                     $   4,194,840  $   2,782,784 
+
+ 
+
+NOTE 10 – STOCKHOLDERS’ EQUITY
+
+ 
+
+On December 9, 2022, AGS executed a reverse merger agreement with AGSS resulting in significant adjustments to the equity section of both companies. The result of the merger was AGSS became the sole owner of AGS. Although the merger is dated December 9, 2022, for financial statement presentation purposes, we have presented the Equity Section as if the merger occurred in 2021.
+
+ 
+
+The first significant impact on stockholders’ equity was the issuance of 90,000,000 AGSS shares to the shareholders of Ameriguard Security Services, Inc., in exchange for 1000 shares of AGS, adding a net increase in common shares outstanding of 89,999,000. Next was the cancelation and conversion of series 675,000 A-1 preferred shares held by AGSS on December 31, 2020. The final result in the total number of shares outstanding is 93,417,302.
+
+ 
+
+On October 20, 2023, the Company executed a share purchase agreement to acquire a related company owned by Lawrence Garcia, CEO. TransportUS Inc. was acquired with 3,000,000 shares with the initial 1,500,000 shares to purchase the company and a bonus of 1,500,000 shares when TransportUS renews its main services contract with the Veterans Affairs Department of Long Beach, CA. Although the purchase agreement is dated October 2023, for financial statement presentation purposes, we have presented the purchase as if it occurred in 2022. The result is the purchase transaction impact on the equity section of the Company is shown in detail in the 2022 section of the report.
+
+ 
+
+There were two other transactions that impacted stockholders’ equity that occurred to the Company’s equity section relating to owner draws and the merger with a related company. As a part of the normal activity of the privately held Company, an S-Corp, shareholders were distributed funds accounted for as Owner Draws. The owner draw accounts were used primarily for taxes paid by the shareholders due to profits of the S-Corp being transferred to their personal returns along with some personal expenses and personal cash needs. For 2021, there was approximately $105,000 posted as Owner draws from historical balances of related party receivables. As part of the preparation for the merger, these inter-company balances were removed through the owner draw accounts. Total owner draw amounts were $5,679 and $78,063 for December 31, 2023, and 2022 respectively.
+
+ 
+
+F-11
+
+ 
+
+ 
+
+NOTE 11 – COMMITMENTS AND CONTINGENCIES
+
+ 
+
+The company has a multiple vehicle lease agreement with Enterprise Leasing. As of December 31, 2023, the company had 23 vehicles under lease. The lease agreement includes maintenance services and tracking. The terms of the lease agreement vary based on the date the vehicle was leased and the respective terms for each vehicle. The master lease is updated annually and requires annual internal financial reports and company tax return.
+
+ 
+
+NOTE 12 – CONCENTRATION OF SALES
+
+ 
+
+The company generated approximately $24,354,000 and $29,139,000 in service revenue for the years 2023 and 2022 respectively. Of the total service revenue, approximately 87% was earned from four federal contracts operated by the company. The contracts and their respective terms are as follows:
+
+ 
+
+     ●    Social Security Administration, NSC                        -    September 2022 through September 2027
+
+                                                                          Annual Revenue of approx. $3M
+
+                                                                           
+
+     ●    Social security Administration, SSC                        -    June 2022 through June 2027
+
+                                                                          Annual Revenue of approx. $5M
+
+                                                                           
+
+     ●    Social Security Administration, WBDOC                      -    June 2021 through July 2026
+
+                                                                          Annual Revenue of approx. $5.8M
+
+                                                                           
+
+     ●    National Institute of Health- EPA                          -    May 2020 through March 2023
+
+                                                                          Annual Revenue of approx. $2.8M
+
+                                                                           
+
+     ●    Veterans Administration – Long Beach CA                    -    Feb 2019 through March 2024
+
+                                                                          Annual Revenue of approx. $4.4M
+
+ 
+
+NOTE 13 – LITIGATION AND CLAIMS
+
+ 
+
+As of December 31, 2023, there are three employment issues pending. The issues revolve around terminated employees alleging the Company has failed to pay minimum wages, sick pay wages, meal period violations, rest period violations wage statement violations and violation of the unfair business practices act. A lawsuit has been filed, but it is early in the process and the attorneys cannot comment on the merits at this time. The Company believes the suit has no merit and intends to resolve it before a trial, if possible.
+
+ 
+
+Per Attorney letters issued there are no other pending cases or legal matters.
+
+ 
+
+NOTE 14 – INCOME TAXES
+
+ 
+
+Due to the losses incurred during the tax year ending 2022, and the expected zero tax due for 2023, there is no estimated tax liability for 2023. Therefore, no provision for income taxes has been included in the accompanying financial statements.
+
+ 
+
+F-12
+
+ 
+
+ 
+
+NOTE 15 – SUBSEQUENT EVENTS
+
+ 
+
+On January 2, 2024, the Company entered into a short-term loan agreement collateralized by accounts receivable with Cedar Advance Capital. The agreement encumbered $719,250 of receivables, resulting in a note payable of $525,000; the repayment term requires $22,477 per week for 32 weeks. On the same date, the Company entered into a short-term loan agreement collateralized by accounts receivable with Velocity Capital Group. The agreement encumbered $565,150 of receivables resulting in a note payable of $412,500; the repayment term requires $17,660 per week for 32 weeks.
+
+ 
+
+On January 22, 2024, the Company entered into an agreement with Lillian Flores regarding the deferral of the required shareholder buyout payment of $611,253 due December 31, 2023. The deferral of the principal payment we requested by the Company for the purpose of capital retention. The agreement allows for a $16,500 monthly principal and interest payment starting in January 2024 through June 2024. Monthly interest is calculated at $1,585, leaving $14,915 applied to principal. The agreement requires the remaining deferred principal of $521,763 to be paid by the Company on or before June 30, 2024.
+
+ 
+
+Late January 2024, the Company was notified that TransportUS, Inc. was awarded a transportation contract from the Veterans Administration for the central Los Angeles region. The total value of the contract is estimated at $7.5 million over 4.5 years. The original start date of February 1, 2024, was delayed until the start of the second quarter. The annual impact of this contract will be approximately $1.6 million in increased revenue.
+
+ 
+
+F-13

@@ -1,0 +1,2207 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 10-Q 
+
+
+
+  x                       QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the Quarterly Period Ended March 31, 2024 
+
+OR
+
+
+
+  ☐                      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                                               For the Transition Period from _____ to _____
+
+
+
+COMMISSION FILE NUMBER 0-19687 
+
+
+
+Ascent Industries Co. 
+
+(Exact name of registrant as specified in its charter)
+
+
+
+                  Delaware                                                                       57-0426694
+
+       (State or other jurisdiction of                                              (I.R.S. Employer Identification No.)
+
+               incorporation or
+
+                organization)
+
+
+
+       1400 16th Street,Suite 270,
+
+              Oak Brook,Illinois                                                                   60523
+
+  (Address of principal executive offices)                                                       (Zip Code)
+
+                                                         (630)884-9181
+
+                                               (Registrant's telephone number,
+
+                                                        including area
+
+                                                            code)
+
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+                    Title of each class                          Trading Symbol                   Name of exchange on which registered
+
+          Common Stock, par value $1.00 per share                     ACNT                                NASDAQ Global Market
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+Yes x  No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company or emerging growth company. See definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+
+
+Large accelerated filer       ☐  Accelerated filer            x  Non-accelerated filer                 ☐
+
+Smaller reporting company     x  Emerging growth company      ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. Yes ☐  No ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐    No x
+
+The number of shares outstanding of the registrant's common stock as of May 6, 2024 was 10,129,683
+
+
+
+
+
+
+
+Table of Contents
+
+Ascent Industries Co. 
+
+Table of Contents
+
+
+
+ 
+
+                                                       PART I. FINANCIAL INFORMATION
+
+Disclosure Regarding Forward Looking Statements                                                                                        2
+
+Item 1.     Financial Statements
+
+            Condensed Consolidated Balance Sheets as of March 31, 2024 (unaudited) and December 31, 2023                              3
+
+            Condensed Consolidated Statements of Income (Loss) for the Three Months Ended March 31, 2024 and 2023 (unaudited)         4
+
+            Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2024 and 2023 (unaudited)            5
+
+            Condensed Consolidated Statements of Shareholders' Equity for the Three Months Ended March 31, 2024 and 2023 (unaudited)  6
+
+            Notes to Condensed Consolidated Financial Statements (unaudited)
+
+            Note 1: Basis of Presentation                                                                                             7
+
+            Note 2: Discontinued Operations                                                                                           8
+
+            Note 3: Revenue Recognition                                                                                               9
+
+            Note 4: Fair Value of Financial Instruments                                                                               10
+
+            Note 5: Inventories                                                                                                       11
+
+            Note 6: Property, Plant and Equipment                                                                                     11
+
+            Note 7: Intangible Assets and Deferred Charges                                                                            12
+
+            Note 8: Debt                                                                                                              13
+
+            Note 9: Leases                                                                                                            14
+
+            Note 10: Shareholders' Equity                                                                                             15
+
+            Note 11: Earnings Per Share                                                                                               16
+
+            Note 12: Income Taxes                                                                                                     16
+
+            Note 13: Commitments and Contingencies                                                                                    17
+
+            Note 14: Industry Segments                                                                                                17
+
+            Note 15: Subsequent Events                                                                                                18
+
+Item 2.     Management's Discussion and Analysis of Financial Condition and Results of Operations                                     19
+
+Item 3.     Quantitative and Qualitative Disclosures About Market Risk                                                                26
+
+Item 4.     Controls and Procedures                                                                                                   26
+
+
+
+                                                         PART II. OTHER INFORMATION
+
+Item 1.     Legal Proceedings                                                                                                         27
+
+Item 1A.    Risk Factors                                                                                                              27
+
+Item 2.     Unregistered Sales of Equity Securities and Use of Proceeds                                                               27
+
+Item 3.     Defaults Upon Senior Securities                                                                                           27
+
+Item 4.     Mine Safety Disclosures                                                                                                   27
+
+Item 5.     Other Information                                                                                                         27
+
+Item 6.     Exhibits                                                                                                                  28
+
+
+
+            Signatures                                                                                                                29
+
+
+
+1
+
+
+
+Table of Contents
+
+Forward-Looking Statements
+
+This Quarterly Report on Form 10-Q includes "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995 and other applicable federal securities laws. All statements that are not historical facts are forward-looking statements. Forward looking statements can be identified through the use of words such as "estimate," "project," "intend," "expect," "believe," "should," "anticipate," "hope," "optimistic," "plan," "outlook," "should," "could," "may" and similar expressions. The forward-looking statements are subject to certain risks and uncertainties, including without limitation those identified below, which could cause actual results to differ materially from historical results or those anticipated. Readers are cautioned not to place undue reliance on these forward-looking statements. The following factors could cause actual results to differ materially from historical results or those anticipated: adverse economic conditions, including risks relating to the impact and spread of and the government’s response to COVID-19; inability to weather an economic downturn; the impact of competitive products and pricing; product demand and acceptance risks; raw material and other increased costs; raw material availability; financial stability of the Company’s customers; customer delays or difficulties in the production of products; loss of consumer or investor confidence; employee relations; ability to maintain workforce by hiring trained employees; labor efficiencies; risks associated with acquisitions; environmental issues; negative or unexpected results from tax law changes; inability to comply with covenants and ratios required by the Company’s debt financing arrangements; and other risks detailed from time-to-time in Ascent Industries Co.'s Securities and Exchange Commission filings, including our Annual Report on Form 10-K, which filings are available from the SEC. Ascent Industries Co. assumes no obligation to update any forward-looking information included in this release.
+
+
+
+2
+
+
+
+Table of Contents
+
+
+
+Part I - Financial Information
+
+Item 1. Financial Statements
+
+
+
+Ascent Industries Co.
+
+Condensed Consolidated Balance Sheets
+
+(in thousands, except par value and share data)
+
+
+
+                                                                                                           (Unaudited)
+
+                                                                                                          March 31, 2024          December 31, 2023
+
+Assets                                                                                                
+
+Current assets:                                                                                       
+
+Cash and cash equivalents                                                                            $                1,299    $               1,851 
+
+Accounts receivable, net of allowance for credit losses of $792 and $463, respectively                               28,160                    26,604 
+
+Inventories                                                                                                          51,197                    52,306 
+
+Prepaid expenses and other current assets                                                                             4,146                     4,879 
+
+Assets held for sale                                                                                                  1,792                     2,912 
+
+Current assets of discontinued operations                                                                                46                       861 
+
+Total current assets                                                                                                 86,640                    89,413 
+
+Property, plant and equipment, net                                                                                   28,648                    29,755 
+
+Right-of-use assets, operating leases, net                                                                           27,431                    27,784 
+
+
+
+Intangible assets, net                                                                                                8,129                     8,496 
+
+Deferred income taxes                                                                                                 7,366                     5,808 
+
+Deferred charges, net                                                                                                    79                       104 
+
+Other non-current assets, net                                                                                         2,678                     1,935 
+
+
+
+Total assets                                                                                         $              160,971    $             163,295 
+
+
+
+Liabilities and Shareholders' Equity                                                                  
+
+Current liabilities:                                                                                  
+
+Accounts payable                                                                                     $               20,549    $              16,416 
+
+
+
+Accrued expenses and other current liabilities                                                                        4,824                     5,108 
+
+Current portion of note payable                                                                                          88                       360 
+
+
+
+
+
+Current portion of operating lease liabilities                                                                        1,170                     1,140 
+
+Current portion of finance lease liabilities                                                                            288                       292 
+
+Current liabilities of discontinued operations                                                                        1,376                     1,473 
+
+Total current liabilities                                                                                            28,295                    24,789 
+
+
+
+
+
+Long-term portion of operating lease liabilities                                                                     29,419                    29,729 
+
+Long-term portion of finance lease liabilities                                                                        1,236                     1,307 
+
+
+
+Other long-term liabilities                                                                                              57                        60 
+
+Total non-current liabilities                                                                                        30,712                    31,096 
+
+Total liabilities                                                                                    $               59,007    $              55,885 
+
+
+
+Commitments and contingencies – See Note 13
+
+
+
+Shareholders' equity:                                                                                 
+
+Common stock, par value $1 per share; 24,000,000 shares authorized; 11,085,103 and 10,124,781 shares $               11,085    $              11,085 
+
+ issued and outstanding,
+
+ respectively
+
+Capital in excess of par value                                                                                       47,097                    47,333 
+
+Retained earnings                                                                                                    53,024                    58,517 
+
+                                                                                                                    111,206                   116,935 
+
+Less: cost of common stock in treasury - 960,323 and 990,282 shares, respectively                                    (9,242)                   (9,525)
+
+Total shareholders' equity                                                                                          101,964                   107,410 
+
+Total liabilities and shareholders' equity                                                           $              160,971    $             163,295 
+
+Note: The condensed consolidated balance sheet at December 31, 2023 has been derived from the audited consolidated financial statements at that date. See accompanying notes to condensed consolidated financial statements.
+
+
+
+3
+
+
+
+Table of Contents
+
+
+
+Ascent Industries Co.
+
+Condensed Consolidated Statements of Income (Loss) (Unaudited)
+
+(in thousands, except per share data)
+
+
+
+                                                                                                                 Three Months Ended March 31,
+
+                                                                                                                 2024                   2023
+
+Net sales                                                                                                $            44,110    $            54,860 
+
+Cost of sales                                                                                                         41,582                 53,394 
+
+Gross profit                                                                                                           2,528                  1,466 
+
+Selling, general and administrative                                                                                    7,759                  7,588 
+
+Acquisition costs and other                                                                                               22                    261 
+
+
+
+
+
+
+
+
+
+
+
+Operating loss from continuing operations                                                                             (5,253)                (6,383)
+
+Other expense (income)
+
+Interest expense                                                                                                         127                  1,107 
+
+
+
+
+
+Other, net                                                                                                              (120)                   (95)
+
+Loss from continuing operations before income taxes                                                                   (5,260)                (7,395)
+
+Income tax benefit                                                                                                    (1,166)                (1,607)
+
+Loss from continuing operations                                                                                       (4,094)                (5,788)
+
+(Loss) income from discontinued operations, net of tax                                                                (1,399)                   589 
+
+Net loss                                                                                                 $            (5,493)   $            (5,199)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Net loss per common share from continuing operations:
+
+Basic                                                                                                    $             (0.41)   $             (0.57)
+
+Diluted                                                                                                  $             (0.41)   $             (0.57)
+
+
+
+Net (loss) income per common share from discontinued operations:
+
+Basic                                                                                                    $             (0.14)   $              0.06 
+
+Diluted                                                                                                  $             (0.14)   $              0.06 
+
+
+
+Net loss per common share:
+
+Basic                                                                                                    $             (0.54)   $             (0.51)
+
+Diluted                                                                                                  $             (0.54)   $             (0.51)
+
+
+
+Weighted average shares outstanding:
+
+Basic                                                                                                                   10,094                 10,148
+
+
+
+Diluted                                                                                                                 10,094                 10,148
+
+See accompanying notes to condensed consolidated financial statements.
+
+
+
+4
+
+
+
+Table of Contents
+
+
+
+Ascent Industries Co.
+
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+
+(in thousands)
+
+
+
+                                                                                                                   Three Months Ended March 31,
+
+                                                                                                                   2024                   2023
+
+Operating activities                                                                                                               
+
+Net loss                                                                                                   $           (5,493)   $           (5,199)
+
+(Loss) income from discontinued operations, net of tax                                                                  (1,399)                   589 
+
+Net loss from continuing operations                                                                                     (4,094)                (5,788)
+
+Adjustments to reconcile net loss to net cash provided by operating activities:
+
+Depreciation expense                                                                                                     1,522                  1,549 
+
+Amortization expense                                                                                                       367                    376 
+
+Amortization of debt issuance costs                                                                                         25                     25 
+
+
+
+
+
+
+
+
+
+
+
+Deferred income taxes                                                                                                   (1,166)                   353 
+
+
+
+
+
+
+
+
+
+Provision for (reduction of) losses on accounts receivable                                                                 330                    (57)
+
+(Reduction of) provision for losses on inventories                                                                         (73)                   791 
+
+Loss on disposal of property, plant and equipment                                                                            —                    182 
+
+Non-cash lease expense                                                                                                      55                     64 
+
+
+
+
+
+
+
+
+
+Stock-based compensation expense                                                                                           209                    319 
+
+Changes in operating assets and liabilities:                                                                                                           
+
+Accounts receivable                                                                                                     (1,885)                (1,072)
+
+Inventories                                                                                                              1,182                  9,492 
+
+Other assets and liabilities                                                                                               (73)                   297 
+
+Accounts payable                                                                                                         4,022                  6,827 
+
+
+
+Accrued expenses                                                                                                          (283)                 1,629 
+
+Accrued income taxes                                                                                                        78                 (2,577)
+
+Net cash provided by operating activities - continuing operations                                                          216                 12,410 
+
+Net cash provided by operating activities - discontinued operations                                                         47                    980 
+
+Net cash provided by operating activities                                                                                  263                 13,390 
+
+Investing activities                                                                                                                                   
+
+Purchases of property, plant and equipment                                                                                (305)                  (586)
+
+
+
+
+
+
+
+
+
+Net cash used in investing activities - continuing operations                                                             (305)                  (586)
+
+Net cash used in investing activities - discontinued operations                                                              —                   (238)
+
+Net cash used in investing activities                                                                                     (305)                  (824)
+
+Financing activities                                                                                                                                   
+
+Borrowings from long-term debt                                                                                          50,950                 67,488 
+
+
+
+
+
+Payments on long-term debt                                                                                             (50,950)               (80,384)
+
+Payments on note payable                                                                                                  (271)                  (289)
+
+Principal payments on finance lease obligations                                                                            (76)                   (74)
+
+
+
+
+
+Repurchase of common stock                                                                                                (163)                  (327)
+
+Net cash used in financing activities                                                                                     (510)               (13,586)
+
+Decrease in cash and cash equivalents                                                                                     (552)                (1,020)
+
+Less: Cash and cash equivalents of discontinued operations                                                                   —                      1 
+
+Cash and cash equivalents at beginning of period                                                                         1,851                  1,440 
+
+Cash and cash equivalents at end of period                                                                 $            1,299    $              421 
+
+
+
+
+
+Supplemental Disclosure of Cash Flow Information
+
+Cash paid for:
+
+  Interest                                                                                                $               68    $            1,061 
+
+  Income taxes                                                                                                              —                    817 
+
+Noncash Investing Activities:
+
+Capital expenditures, not yet paid                                                                        $              583    $              266 
+
+See accompanying notes to condensed consolidated financial statements.
+
+
+
+5
+
+
+
+Table of Contents
+
+
+
+Ascent Industries Co.
+
+Condensed Consolidated Statements of Shareholders' Equity (Unaudited)
+
+(in thousands)
+
+
+
+
+
+                                                                                 Three Months Ended March 31, 2024
+
+
+
+                                                    Common Stock          Capital in     Retained           Treasury Stock             Total
+
+                                                                             Excess       Earnings
+
+                                                                               of
+
+                                                                           Par Value
+
+                                                Shares        Amount           Shares        Amount
+
+Balance December 31, 2023                          11,085  $   11,085   $   47,333   $     58,517            990   $   (9,525)  $   107,410 
+
+Net loss                                                —            —             —         (5,493)                           —         (5,493)
+
+Issuance of 46,289 shares of common stock               —            —          (445)             —            (46)          445              — 
+
+ from
+
+ treasury
+
+
+
+Stock-based compensation                                —            —           209              —                            —            209 
+
+Repurchase of 16,330 shares of common stock             —            —             —              —             16          (162)          (162)
+
+Balance as of March 31, 2024                       11,085  $   11,085   $   47,097   $     53,024            960   $   (9,242)  $   101,964 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See accompanying notes to condensed consolidated financial statements.
+
+
+
+                                                                                 Three Months Ended March 31, 2023
+
+
+
+                                                    Common Stock          Capital in     Retained           Treasury Stock             Total
+
+                                                                             Excess       Earnings
+
+                                                                               of
+
+                                                                           Par Value
+
+                                                Shares        Amount           Shares        Amount
+
+Balance December 31, 2022                          11,085  $   11,085   $   47,021   $     85,146            924   $   (8,993)  $   134,259 
+
+Net loss                                                —            —             —         (5,199)                           —         (5,199)
+
+Issuance of 43,479 shares of common stock               —            —          (429)             —            (43)          429              — 
+
+ from
+
+ treasury
+
+
+
+Stock-based compensation                                —            —           311              —                            —            311 
+
+Repurchase of 32,313 shares of common stock             —            —             —              —             32          (327)          (327)
+
+Balance as of March 31, 2023                       11,085       11,085        46,903         79,947            913        (8,891)  $   129,044 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See accompanying notes to condensed consolidated financial statements.
+
+
+
+
+
+
+
+6
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+Unless indicated otherwise, the terms "Company," "we," "us," and "our" refer to Ascent Industries Co. and its consolidated subsidiaries.
+
+
+
+Note 1: Basis of Presentation
+
+Basis of Financial Statement Presentation
+
+The accompanying unaudited condensed consolidated financial statements and notes to the unaudited condensed consolidated financial statements are presented in accordance with the rules and regulations of the Securities and Exchange Commission and do not include all the disclosures normally required in annual consolidated financial statements prepared in accordance with accounting principles generally accepted in the United States of America ("GAAP"). The unaudited condensed consolidated financial statements, in the opinion of management, contain all normal recurring adjustments necessary to present a fair statement of the condensed consolidated balance sheets as of March 31, 2024, the statements of income (loss) and shareholders’ equity for the three months ended March 31, 2024 and 2023, and the statements of cash flows for the three months ended March 31, 2024 and 2023. The December 31, 2023 condensed consolidated balance sheet was derived from the audited financial statements.
+
+
+
+These interim unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto in the Company's Annual Report on Form 10-K for the year ended December 31, 2023 (the "Annual Report"). The financial results for the interim periods may not be indicative of the financial results for the entire year as our future assessment of our current expectations could result in material impacts to our consolidated financial statements in future reporting periods.
+
+Use of Estimates
+
+The preparation of the Company's financial statements in accordance with accounting principles generally accepted in the United States of America requires management to make estimates that affect the reported amounts of assets, liabilities, sales and expenses, and related disclosures of contingent assets and liabilities. Significant items subject to such estimates and assumptions include the carrying value of property, plant and equipment; intangible assets; the fair value of assets or liabilities acquired in a business combination; valuation allowances for receivables, inventories and deferred income tax assets and liabilities; environmental liabilities; liabilities for potential tax deficiencies; and, potential litigation claims and settlements. The Company bases these estimates on historical results and various other assumptions believed to be reasonable, all of which form the basis for making estimates concerning the carrying value of assets and liabilities that are readily available from other sources. Actual results may differ from these estimates.
+
+Reclassifications
+
+Certain prior period amounts have been reclassified to conform to current period presentation, including the Company's Munhall and Specialty Pipe and Tube operations within the Tubular Products segment to discontinued operations.
+
+
+
+Accounting Pronouncements Not Yet Adopted
+
+In November 2023, the Financial Accounting Standards Board issued Accounting Standards Update (ASU) 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures. The ASU expands public entities’ segment disclosures by requiring disclosure of significant segment expenses that are regularly provided to the chief operating decision maker and included within each reported measure of segment profit or loss, an amount and description of its composition for other segment items, and interim disclosures of a reportable segment’s profit or loss and assets. All disclosure requirements under ASU 2023-07 are also required for public entities with a single reportable segment. The ASU is effective for the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2024, and subsequent interim periods, with early adoption permitted. The Company is currently evaluating the impact of adopting this ASU on its consolidated financial statements and footnote disclosures.
+
+In December 2023, the Financial Accounting Standards Board issued Accounting Standards Update (ASU) 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures. The ASU requires consistent categories and greater disaggregation of information in the rate reconciliation and income taxes paid disaggregated by jurisdiction. The amendments also require that all entities disclose more detailed information about income taxes paid, including by jurisdiction; pretax income (or loss) from continuing operations; and income tax expense (or benefit). The ASU is effective for the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2025, and subsequent interim periods, with early 
+
+
+
+7
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+adoption permitted. The Company is currently evaluating the impact of adopting this ASU on its consolidated financial statements and footnote disclosures.
+
+Recent accounting pronouncements pending adoption not discussed in this Form 10-Q are either not applicable to the Company or are not expected to have a material impact on the Company.
+
+Note 2: Discontinued Operations
+
+Munhall Closure
+
+During the second quarter of 2023, the Board of Directors of the Company made the decision to permanently cease operations at Munhall effective on or around August 31, 2023. It is anticipated that the complete exit and disposal of all assets at Munhall will be completed within one year from the date the decision was made. The strategic decision to cease manufacturing operations at Munhall is part of the Company’s ongoing efforts to consolidate manufacturing to drive an increased focus on its core operations and to improve profitability while driving operational efficiencies.
+
+As a result of this decision, during the second quarter ended June 30, 2023, the Company incurred asset impairment charges of $6.4 million related to the write down of inventory and long-lived assets as well as $1.4 million in increased reserves on accounts receivable at the facility. During the third quarter of 2023, the Company incurred additional asset impairment charges of $2.4 million related to the write down of inventory to net realizable value. During the first quarter of 2024, the Company incurred additional asset impairment charges of $1.1 million related to the write down of the remaining long-lived assets at the facility. Certain assets of Munhall were also classified as held for sale and the results of operations have been classified as discontinued operations for all periods presented. See Note 4 for further discussion of the assets held for sale and related fair value measurements.
+
+
+
+Divestiture of Specialty Pipe & Tube, Inc.
+
+On December 22, 2023, the Company and its wholly-owned subsidiary Specialty Pipe & Tube, Inc. (“SPT”) entered into an Asset Purchase Agreement pursuant to which Ascent and SPT sold substantially all of the assets primarily related to SPT to Specialty Pipe & Tube Operations, LLC, a Delaware limited liability company. The consideration for the transaction was approximately $55 million of cash proceeds subject to certain closing adjustments. The transaction closed on December 22, 2023. Ascent and Purchaser also entered into a Transition Services Agreement (the “TSA”) and an Employee Leasing Agreement (the “ELA”) each dated December 22, 2023, pursuant to which Ascent has agreed to provide certain transition services and to lease certain employees to Purchaser immediately after the closing for certain agreed upon transition periods. As result of the sale, SPT results of operations are classified under discontinued operations for all periods presented. Prior to the divestiture, SPT was reported under the Company's Tubular Products segment. 
+
+
+
+The following table presents the aggregate carrying amounts of the classes of assets and liabilities of the Company's discontinued operations:
+
+
+
+(in thousands)                                                                            March 31, 2024         December 31, 2023
+
+Carrying amounts of assets included as part of discontinued operations:
+
+
+
+Accounts receivable, net                                                              $                  —   $                  778 
+
+
+
+Prepaid expenses and other current assets                                                                46                       83 
+
+Current assets classified as discontinued operations                                                     46                      861 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carrying amounts of current liabilities included as part of discontinued operations:
+
+Accounts payable                                                                                         90                      107 
+
+Accrued expenses and other current liabilities                                                        1,286                    1,366 
+
+
+
+Total current liabilities classified as discontinued operations                       $              1,376   $                1,473 
+
+
+
+In May of 2023, the Company was named as a defendant in a lawsuit filed in the U.S. District Court for the Western District of Pennsylvania, asserting various claims for breach of contracts resulting in losses to the plaintiff and seeking damages in the amount of $0.8 million plus prejudgment interest and attorney's fees. Although we continue to defend ourselves against the claims, we believe we may incur a material loss in this matter and that our financial statements could be materially affected by an adverse decision regarding the assessment of damages incurred by the plaintiff. Accordingly, the Company has an estimated liability of $1.0 million for expected losses related to this lawsuit as of March 31, 2024 and December 31, 2023.
+
+
+
+8
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+
+
+The financial results are presented as loss from discontinued operations, net of tax on the unaudited condensed consolidated statements of income (loss). The following table summarizes the results of the Company's discontinued operations:
+
+
+
+                                                                                                 Three Months Ended March 31,
+
+(in thousands)                                                                                   2024                    2023
+
+Net sales                                                                               $                242   $             27,592 
+
+Cost of sales                                                                                             647                  24,765 
+
+Gross profit                                                                                             (405)                  2,827 
+
+
+
+Selling, general and administrative expense                                                               182                   1,964 
+
+Acquisition costs and other                                                                                89                      74 
+
+Asset impairments                                                                                       1,115                       — 
+
+(Loss) income on discontinued operations before income taxes                                           (1,791)                    789 
+
+Income tax (benefit) expense                                                                             (392)                    200 
+
+Net (loss) income from discontinued operations                                          $             (1,399)  $                589 
+
+Note 3: Revenue Recognition
+
+Revenue is generated primarily from contracts to produce, ship and deliver steel and specialty chemical products. Revenues are recognized when control of the promised goods or services is transferred to our customers upon shipment, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services. The Company's revenues are derived from contracts with customers where performance obligations are satisfied at a point-in-time or over-time. For certain contracts under which the Company produces product with no alternative use and for which the Company has an enforceable right to payment during the production cycle, product in which the material is customer owned or in which the customer simultaneously consumes the benefits throughout the production cycle, progress toward satisfying the performance obligation is measured using an output method of units produced. Certain customer arrangements consist of bill-and-hold characteristics under which transfer of control has been met (including the passing of title and significant risk and reward of ownership to the customers). Therefore, the customers can direct the use of the bill-and-hold inventory while we retain physical possession of the product until it is shipped to a customer at a point in time in the future. 
+
+Sales tax and other taxes we collect with revenue-producing activities are excluded from revenue. Shipping costs charged to customers are treated as fulfillment activities and are recorded in both revenue and cost of sales at the time control is transferred to the customer. Costs related to obtaining sales contracts are incidental and are expensed when incurred. Because customers are invoiced at the time title transfers and the Company’s right to consideration is unconditional at that time, the Company does not maintain contract asset balances. Additionally, the Company does not maintain material contract liability balances, as performance obligations for substantially all contracts are satisfied prior to customer payment for product. The Company offers industry standard payment terms.
+
+The following table presents the Company's revenues, disaggregated by product group from continuing operations:
+
+
+
+                                                                                                Three Months Ended March 31,
+
+(in thousands)                                                                                 2024                    2023
+
+Fiberglass and steel liquid storage tanks and separation equipment                    $                   —   $                  50 
+
+
+
+Stainless steel pipe and tube                                                                         23,814                   31,061 
+
+
+
+Specialty chemicals                                                                                   20,296                   23,749 
+
+Net sales                                                                             $              44,110   $              54,860 
+
+
+
+9
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+Performance obligations are supported by contracts with customers, providing a framework for the nature of the distinct goods, services or bundle of goods and services. The timing of satisfying the performance obligation is typically indicated by the terms of the contract. The following table represents the Company's revenue recognized at a point-in-time and over-time:
+
+
+
+                                                                                                 Three Months Ended March 31,
+
+(in thousands)                                                                                  2024                    2023
+
+Point-in-time                                                                          $              40,139   $              49,437 
+
+Over-time                                                                              $               3,971   $               5,423 
+
+Note 4: Fair Value of Financial Instruments
+
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. To measure fair value, we use a three-tier valuation hierarchy based upon observable and non-observable inputs:
+
+Level 1 - Unadjusted quoted prices that are available in active markets for identical assets or liabilities at the measurement date.
+
+Level 2 - Significant other observable inputs available at the measurement date, other than quoted prices included in Level 1, either directly or indirectly, including:
+
+•Quoted prices for similar assets or liabilities in active markets;
+
+•Quoted prices for identical or similar assets or liabilities in non-active markets;
+
+•Inputs other than quoted prices that are observable for the asset or liability; and
+
+•Inputs that are derived principally from or corroborated by other observable market data.
+
+Level 3 - Significant unobservable inputs that cannot be corroborated by observable market data and reflect the use of significant management judgment. These values are generally determined using model-based techniques, including option pricing models, discounted cash flow models, probability weighted models, and Monte Carlo simulations.
+
+Assets and Liabilities Measured at Fair Value on a Non-Recurring Basis
+
+During the three months ended March 31, 2024, the Company's only significant measurements of assets or liabilities at fair value on a non-recurring basis subsequent to their initial recognition were certain long-lived assets. 
+
+Long-lived assets
+
+The Company reviews the carrying amounts of long-lived assets whenever certain events or changes in circumstances indicate that the carrying amounts may not be recoverable. The Company assesses performance quarterly against historical patterns, projections of future profitability, and whether it is more likely than not that the assets will be disposed of significantly prior to the end of their estimated useful life for evidence of possible impairment. An impairment loss is recognized when the carrying amount of the asset (disposal) group is not recoverable and exceeds fair value. The Company estimates the fair values of assets subject to long-lived asset impairment based on the Company's own judgments about the assumptions market participants would use in pricing the assets and observable market data, when available.
+
+
+
+During the second quarter of 2023, the Board of Directors of the Company made the decision to permanently cease operations at the Munhall facility effective on or around August 31, 2023. As a result of this decision, it was determined to be more likely than not that the assets of Munhall would be sold or otherwise disposed of significantly before the end of their previously estimated useful lives, and therefore, experienced a triggering event and were evaluated for recoverability. Based on this evaluation, inventory at Munhall was written down to its net realizable value of $16.0 million and certain long-lived assets, including intangible assets, were written down to their estimated fair value of $2.6 million, resulting in asset impairment charges of $6.4 million in the second quarter of 2023. 
+
+During the third quarter of 2023, the remaining inventory at Munhall was written down to its net realizable value of $4.0 million resulting in asset impairment charges of $2.4 million in the third quarter of 2023. During the first quarter of 2024, the Company incurred additional asset impairment charges of $1.1 million related to the write down of the remaining long-lived assets at the facility. See Note 2 for further information on the Company's discontinued operations.
+
+
+
+10
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+Assets Held for Sale 
+
+As a result of the Company's decision to cease operations and exit Munhall, during the three months ended March 31, 2024, certain assets of Munhall were classified as held for sale and classified as Level 2 fair value measurements. The Company remains obligated under the terms of the leases for the rent and other costs that may be associated with the lease of the Munhall facility through 2036. The Company is actively pursuing a sublease for the facility.
+
+Munhall assets classified as held for sale as are as follows:
+
+
+
+(in thousands)                                                                          March 31, 2024           December 31, 2023
+
+
+
+Property, plant and equipment, net                                                                   1,259                      2,374 
+
+Other assets, net                                                                                      533                        538 
+
+Assets held for sale                                                               $                1,792   $                  2,912 
+
+
+
+Fair Value of Financial Instruments 
+
+The fair values of cash and cash equivalents, accounts receivable, accounts payable and the Company's note payable approximated their carrying value because of the short-term nature of these instruments. The Company's revolving line of credit and long-term debt, which is based on a variable interest rate, are also reflected in the financial statements at carrying value which approximate fair values as of March 31, 2024. The carrying amount of cash and cash equivalents are considered Level 1 measurements. The carrying amounts of accounts receivable, accounts payable, note payable, revolving line of credit and long-term debt are considered Level 2 measurements. See Note 8 for further information on the Company's debt.
+
+Note 5: Inventories
+
+Inventories are stated at the lower of cost or net realizable value. Cost is determined by either specific identification or weighted average methods. The components of inventories are as follows:
+
+
+
+(in thousands)                                                                            March 31, 2024         December 31, 2023
+
+Raw materials                                                                         $              20,497   $               22,321 
+
+Work-in-process                                                                                       16,164                   14,740 
+
+Finished goods                                                                                        20,581                   21,364 
+
+                                                                                                      57,242                   58,425 
+
+Less: inventory reserves                                                                              (6,045)                  (6,119)
+
+Inventories                                                                           $              51,197   $               52,306 
+
+
+
+Note 6: Property, Plant and Equipment
+
+Property, plant and equipment from continuing operations consist of the following:
+
+
+
+(in thousands)                                                                             March 31, 2024         December 31, 2023
+
+Land                                                                                   $                 723   $                  723 
+
+Leasehold improvements                                                                                 3,079                    3,079 
+
+Buildings                                                                                              1,534                    1,534 
+
+Machinery, fixtures and equipment                                                                     93,863                   93,758 
+
+Construction-in-progress                                                                               1,237                    1,330 
+
+                                                                                                     100,436                  100,424 
+
+Less: accumulated depreciation and amortization                                                      (71,788)                 (70,669)
+
+Property, plant and equipment, net                                                     $              28,648   $               29,755 
+
+
+
+
+
+11
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+The following table sets forth depreciation expense related to property, plant and equipment:
+
+
+
+                                                                                                  Three Months Ended March 31,
+
+(in thousands)                                                                                   2024                    2023
+
+Cost of sales                                                                           $              1,454   $              1,489 
+
+Selling, general and administrative                                                                        68                      60 
+
+Total depreciation                                                                      $              1,522   $              1,549 
+
+
+
+Note 7: Intangible Assets and Deferred Charges
+
+Intangible Assets
+
+Intangible assets represent the fair value of intellectual, non-physical assets resulting from business acquisitions and are amortized over their estimated useful life using either an accelerated or straight-line method over a period of 15 years. 
+
+The balance of intangible assets from continuing operations subject to amortization are as follows:
+
+
+
+                                                               March 31, 2024                            December 31, 2023
+
+(in thousands)                                   Gross Carrying Amount     Accumulated         Gross Carrying        Accumulated
+
+                                                                           Amortization             Amount           Amortization
+
+Definite-lived intangible assets:
+
+Customer related                                 $           14,604  $            (7,052)  $         14,604  $            (6,685)
+
+Trademarks and trade names                                       150                   (17)                150                   (17)
+
+Other                                                            500                   (56)                500                   (56)
+
+Total definite-lived intangible assets           $           15,254  $            (7,125)  $         15,254  $            (6,758)
+
+Estimated amortization expense related to intangible assets for the next five years are as follows:
+
+
+
+(in thousands)
+
+Remainder of 2024                                                                                             $                 1,121 
+
+2025                                                                                                                             1,324 
+
+2026                                                                                                                             1,102 
+
+2027                                                                                                                               930 
+
+2028                                                                                                                               786 
+
+2029                                                                                                                               673 
+
+Thereafter                                                                                                                       2,193 
+
+
+
+Deferred Charges
+
+Deferred charges represent debt issuance costs and are amortized over their estimated useful lives using the straight-line method over a period of four years.
+
+The balance of deferred charges subject to amortization are as follows:
+
+
+
+(in thousands)                                                                         March 31, 2024            December 31, 2023
+
+Deferred charges, gross                                                           $                   398   $                    398 
+
+Accumulated amortization of deferred charges                                                         (319)                       (294)
+
+Deferred charges, net                                                             $                    79   $                    104 
+
+
+
+
+
+12
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+Note 8: Debt
+
+Short-term debt
+
+On June 13, 2023, the Company entered into a note payable in the amount of $0.9 million with an interest rate of 3.70% maturing April 1, 2024. The agreement is associated with the financing of the Company's insurance premium in the current year. As of March 31, 2024, the outstanding balance was $0.1 million.
+
+Credit Facilities
+
+During the first quarter of 2023, the Company entered into an Amended and Restated Credit Agreement with BMO Harris Bank, N.A. ("BMO") to replace LIBOR with the Secured Overnight Funding Rate ("SOFR"). 
+
+During the fourth quarter of 2023, the Company entered into a Limited Consent, Second Amendment to Credit Agreement and Omnibus Amendment to Loan Documents with BMO Bank N.A. and the other lenders under the Company’s credit facility (the “Credit Facility Amendment”). The Credit Facility Amendment contains a consent for the SPT divestiture, released the lien on the assets of SPT and removed SPT as a loan party. The Credit Facility Amendment also reduced the maximum revolving loan commitment under the credit facility from $105 million to $80 million, and increased the interest rate for the credit facility from SOFR plus an interest rate margin of between 1.60% and 1.70% to SOFR plus an interest rate margin of between 1.85% and 2.10%, depending on average availability under the credit facility and the Company’s consolidated fixed charge coverage ratio. As required by the Credit Facility Amendment, the Company used the proceeds from the SPT divestiture to prepay in full the term loan in the original principal amount of $5 million under the credit facility and used the remaining proceeds to prepay in part the revolving loans under the credit facility.
+
+
+
+The borrowing capacity under the credit facility totals $80.0 million consisting of a $80.0 million revolving line of credit which includes a $17.5 million machinery and equipment sub-limit. The Company had no debt outstanding under its credit facilities as of March 31, 2024 and December 31, 2023.
+
+We have pledged all of our accounts receivable, inventory, and certain machinery and equipment as collateral for the Credit Agreement. Availability under the Credit Agreement is subject to the amount of eligible collateral as determined by the lenders' borrowing base calculations. Amounts outstanding under the revolving line of credit currently bear interest at (a) the Base Rate (as defined in the Credit Agreement) plus 0.75%, or (b) SOFR plus 1.85%. The Credit Agreement also provides an unused commitment fee based on the daily used portion of the credit facility.
+
+Pursuant to the Credit Agreement, the Company was required to pledge all of its tangible and intangible properties, including the stock and membership interests of its subsidiaries. The Credit Agreement contains covenants requiring the maintenance of a minimum consolidated fixed charge coverage ratio if excess availability falls below the greater of (i) $7.5 million and (ii) 10% of the revolving credit facility (currently $8.0 million). As of March 31, 2024, the Company was in compliance with all financial debt covenants.
+
+As of March 31, 2024, the Company had $63.6 million of remaining availability under it credit facility.
+
+
+
+
+
+13
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+Note 9: Leases
+
+The Company's portfolio of leases contains both finance and operating leases that relate to real estate and manufacturing equipment. Substantially all of the value of the Company's lease portfolio relates to the Master Lease with Store Master Funding XII, LLC (“Store”), an affiliate of Store Capital Corporation ("Store Capital") that was entered into in 2016 and amended with the American Stainless acquisition in 2019 as well as the sale of land at the Munhall facility in 2020. As of March 31, 2024, operating lease liabilities related to the master lease agreement with Store Capital totaled $30.4 million, or 95% of the total lease liabilities on the consolidated balance sheet.
+
+During the three months ended March 31, 2024, the Company did not enter into any new finance lease agreements.
+
+Operating and finance lease amounts from continuing operations included in the unaudited condensed consolidated balance sheet are as follows (in thousands):
+
+
+
+Classification                  Financial Statement Line Item                               March 31, 2024       December 31, 2023
+
+Long-term Assets                Right-of-use assets, operating leases                    $            27,431   $             27,784 
+
+Long-term Assets                Property, plant and equipment                                          1,457                  1,543 
+
+Current liabilities             Current portion of lease liabilities, operating leases                 1,170                  1,140 
+
+Current liabilities             Current portion of lease liabilities, finance leases                     288                    292 
+
+Non-current liabilities         Non-current portion of lease liabilities, operating                   29,419                 29,729 
+
+                                 leases
+
+Non-current liabilities         Non-current portion of lease liabilities, finance leases               1,236                  1,307 
+
+Total Lease Cost
+
+Individual components of the total lease cost incurred by the Company are as follows:
+
+
+
+                                                                                                  Three Months Ended March 31,
+
+(in thousands)                                                                                   2024                    2023
+
+Operating lease cost1                                                                   $                989   $                989 
+
+Finance lease cost:
+
+Amortization of right-of-use assets                                                                        83                      78 
+
+Interest on finance lease liabilities                                                                      23                      13 
+
+Sublease income                                                                                           (92)                    (91)
+
+Total lease cost                                                                        $              1,003   $                989 
+
+1Includes short term leases, which are immaterial
+
+Reduction in carrying amounts of right-of-use assets held under finance leases is included in depreciation expense. Minimum rental payments under operating leases are recognized on a straight-line method over the term of the lease including any periods of free rent and are included in selling, general, and administrative expense on the unaudited condensed consolidated statements of income (loss).
+
+The Company currently subleases the former Palmer facility and records cash receipts related to the sublease in other expense (income) on the unaudited condensed consolidated statements of income (loss). Future expected cash receipts from the Company's sublease as of March 31, 2024 are as follows:
+
+
+
+(in thousands)                                                                                                    Sublease Receipts
+
+Remainder of 2024                                                                                             $                   278 
+
+2025                                                                                                                               377 
+
+2026                                                                                                                               385 
+
+2027                                                                                                                               392 
+
+2028                                                                                                                               400 
+
+Thereafter                                                                                                                       3,386 
+
+Total sublease receipts                                                                                       $                 5,218 
+
+
+
+14
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+Maturity of Leases 
+
+The amounts of undiscounted future minimum lease payments under leases in continuing operations as of March 31, 2024 are as follows:
+
+
+
+(in thousands)                                                                              Operating                 Finance
+
+Remainder of 2024                                                                   $                 2,738   $                  275 
+
+2025                                                                                                  3,671                       361 
+
+2026                                                                                                  3,691                       361 
+
+2027                                                                                                  3,765                       361 
+
+2028                                                                                                  3,840                       303 
+
+Thereafter                                                                                           32,312                        85 
+
+Total undiscounted minimum future lease payments                                                     50,017                     1,746 
+
+Imputed interest                                                                                    (19,428)                     (222)
+
+Present value of lease liabilities                                                  $                30,589   $                1,524 
+
+Lease Term and Discount Rate
+
+
+
+Weighted-average remaining lease term                                             March 31, 2024              December 31, 2023
+
+Operating leases                                                                            12.43 years                    12.67 years
+
+Finance leases                                                                               4.84 years                     5.07 years
+
+Weighted-average discount rate
+
+Operating leases                                                                               8.33  %                      8.33    %
+
+Finance leases                                                                                 5.92  %                      5.92    %
+
+Note 10: Shareholders' Equity
+
+Share Repurchase Program
+
+On December 20, 2022, the Board of Directors re-authorized the Company's share repurchase program. The previous share repurchase program had a term of 24 months and was set to expire on February 17, 2023. The share repurchase program allows for repurchase of up to 790,383 shares of the Company's outstanding common stock and extends to February 17, 2025. The shares will be purchased from time to time at prevailing market prices, through open market or privately negotiated transactions, depending on market conditions. Under the program, the purchases will be funded from available working capital, and the repurchased shares will be returned to the status of authorized, but unissued shares of common stock or held in treasury. There is no guarantee as to the exact number of shares that will be repurchased by the Company and the Company may discontinue purchases at any time that management determines additional purchases are not warranted. As of March 31, 2024, the Company has 520,541 shares of its share repurchase authorization remaining.
+
+Shares repurchased for the three months ended March 31, 2024 and 2023 were as follows:
+
+
+
+                                                                                                 Three Months Ended March 31,
+
+                                                                                                2024                    2023
+
+Number of shares repurchased                                                                           16,330                   32,313 
+
+Average price per share                                                                $                9.97   $               10.11 
+
+Total cost of shares repurchased1                                                      $             163,221   $             327,521 
+
+1Includes broker commissions paid as part of repurchase transactions
+
+
+
+15
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+Note 11: Earnings (Loss) Per Share
+
+The following table sets forth the computation of basic and diluted earnings (loss) per share:
+
+
+
+                                                                                                  Three Months Ended March 31,
+
+(in thousands, except per share data)                                                             2024                   2023
+
+Numerator:                                                                                                       
+
+Net loss from continuing operations                                                      $             (4,094)  $             (5,788)
+
+Net (loss) income from discontinued operations                                           $             (1,399)  $                589 
+
+Net loss                                                                                 $             (5,493)  $             (5,199)
+
+Denominator:                                                                                                                          
+
+Weighted-average common shares outstanding                                                              10,094                  10,148 
+
+Effect of dilutive securities:                                                                                                        
+
+Employee stock options and stock grants                                                                      —                       — 
+
+Weighted-average common shares, as adjusted                                                             10,094                  10,148 
+
+
+
+Net loss per share from continuing operations:                                                                                        
+
+Basic                                                                                    $              (0.41)  $              (0.57)
+
+Diluted                                                                                  $              (0.41)  $              (0.57)
+
+
+
+Net (loss) income per share from discontinued operations:
+
+Basic                                                                                    $              (0.14)  $               0.06 
+
+Diluted                                                                                  $              (0.14)  $               0.06 
+
+
+
+Net loss per share:
+
+Basic                                                                                    $              (0.54)  $              (0.51)
+
+Diluted                                                                                  $              (0.54)  $              (0.51)
+
+The diluted earnings (loss) per share calculations exclude the effect of potentially dilutive shares when the inclusion of those shares in the calculation would have an anti-dilutive effect. The Company had $0.1 million shares that were anti-dilutive for the three months ended March 31, 2024 and 2023, respectively.
+
+Note 12: Income Taxes
+
+The Company and its subsidiaries are subject to U.S. federal income tax as well as income tax of multiple state jurisdictions. The Company is no longer subject to U.S. federal examinations for years before 2020 or state examinations for years before 2019. During the three months ended March 31, 2024 and 2023, the Company did not identify nor reserve for any unrecognized tax benefits.
+
+Our income tax benefit and overall effective tax rates for continuing operations for the periods presented are as follows:
+
+
+
+                                                                                               Three Months Ended March 31,
+
+(in thousands)                                                                               2024                      2023
+
+Income tax benefit                                                                 $             (1,166)   $             (1,607)
+
+Effective income tax rate                                                                           22.3  %                  21.7  %
+
+
+
+The effective tax rate for continuing operations was 22.3% for the three months ended March 31, 2024. The March 31, 2024 effective tax rate was higher than the U.S. statutory rate of 21.0% primarily due to the amount of state tax benefit relative to pretax losses. 
+
+
+
+16
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+The effective tax rate for continuing operation was 21.7% for the three months ended March 31, 2023. The three months ended March 31, 2023, effective tax rate was higher than the U.S. statutory rate 21.0% primarily due to the effects of discrete tax charges related to stock based compensation.
+
+Note 13: Commitments and Contingencies
+
+From time to time, we are involved in various legal proceedings arising from the normal course of business activities. We are not presently a party to any other such litigation the outcome of which, we believe, if determined adversely to us, would individually, or taken together, have a material adverse effect on our business, operating results, cash flows, or financial condition. Defending such proceedings is costly and can impose a significant burden on management and employees. We may receive unfavorable preliminary or interim rulings in the course of litigation, and there can be no assurances that favorable final outcomes will be obtained.
+
+Note 14: Industry Segments
+
+Ascent Industries Co. has two reportable segments: Specialty Chemicals and Tubular Products. The Specialty Chemicals segment includes the operating results of the Company’s plants involved in the production of specialty chemicals. The Specialty Chemicals segment produces products for the pulp and paper, coatings, adhesives, sealants and elastomers (CASE), textile, automotive, household, industrial and institutional ("HII"), agricultural, water and waste-water treatment, construction, oil and gas and other industries.
+
+
+
+The Tubular Products segment includes the operating results of the Company’s plants involved in the production of stainless steel pipe and tube. The Tubular Products segment serves markets through pipe and tube and customers in the appliance, architectural, automotive and commercial transportation, brewery, chemical, petrochemical, pulp and paper, mining, power generation (including nuclear), water and waste-water treatment, liquid natural gas ("LNG"), food processing, pharmaceutical, oil and gas and other industries.
+
+
+
+During the second quarter of 2023, the Board of Directors made the decision to permanently cease operations at the Company’s Munhall facility effective on or around August 31, 2023. As a result, certain prior period Tubular Products segment results have been reclassified to remove Munhall's results from continuing operations to discontinued operations. On December 22,2023, the Company announced the sale of substantially all of the assets of Specialty Pipe & Tube (“SPT”). As a result, certain prior period Tubular Products segment results have been reclassified to remove SPT’s results from continuing operations to discontinued operations.
+
+
+
+The chief operating decision maker evaluates performance and determines resource allocations based on a number of factors, the primary measures being operating income and adjusted earnings (loss) before interest, income taxes, depreciation and amortization. Adjusted earnings (loss) before interest, income taxes, depreciation and amortization excludes certain items that management believes are not indicative of future results.
+
+
+
+The accounting principles applied at the operating segment level are the same as those applied at the consolidated financial statement level. Intersegment sales and transfers are eliminated at the corporate consolidation level. 
+
+
+
+17
+
+
+
+Table of Contents
+
+Ascent Industries Co.
+
+Notes to Consolidated Financial Statements (Unaudited)
+
+The following table summarizes certain information regarding segments of the Company's continuing operations:
+
+
+
+                                                                                                 Three Months Ended March 31,
+
+(in thousands)                                                                                  2024                    2023
+
+Net sales
+
+Tubular Products                                                                       $             23,814   $              31,061 
+
+Specialty Chemicals                                                                                   20,296                   23,749 
+
+All Other                                                                                                  —                       50 
+
+                                                                                       $             44,110   $              54,860 
+
+Operating (loss) income
+
+Tubular Products                                                                       $             (1,502)  $              (3,293)
+
+Specialty Chemicals                                                                                   (1,439)                   1,352 
+
+All Other                                                                                               (162)                    (479)
+
+
+
+Corporate
+
+Unallocated corporate expenses                                                                        (2,150)                  (3,704)
+
+Acquisition costs and other                                                                                —                     (259)
+
+
+
+
+
+Total Corporate                                                                                       (2,150)                  (3,963)
+
+Operating loss                                                                                        (5,253)                  (6,383)
+
+Interest expense                                                                                         127                    1,107 
+
+
+
+
+
+
+
+Other, net                                                                                              (120)                     (95)
+
+
+
+Loss from continuing operations before income taxes                                    $             (5,260)  $              (7,395)
+
+
+
+                                                                                                            As of
+
+(in thousands)                                                                             March 31, 2024         December 31, 2023
+
+Identifiable assets
+
+Tubular Products                                                                       $             72,668   $              70,548 
+
+Specialty Chemicals                                                                                   46,391                   49,547 
+
+Corporate and other                                                                                   41,866                   42,339 
+
+
+
+                                                                                       $            160,925   $             162,434 
+
+
+
+
+
+
+
+
+
+Note 15: Subsequent Events
+
+The Company evaluated subsequent events and transactions that occurred after the balance sheet date up to the date that the financial statements were available to be issued. Based upon this review, the Company did not identify any subsequent events that would have required adjustment or disclosure in the financial statements.
+
+
+
+18
+
+
+
+Table of Contents
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+
+
+This discussion and analysis summarizes the significant factors affecting our consolidated operating results, liquidity, and capital resources during the three months ended March 31, 2024 and 2023, respectively. We intend for this discussion to provide the reader with information that will assist in understanding our financial statements, the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles affect our financial statements. This discussion and analysis should be read in conjunction with the consolidated financial statements and notes to the consolidated financial statements that are included in our Annual Report on Form 10-K for the year ended December 31, 2023 (the Annual Report), as well as the condensed consolidated financial statements (unaudited) and notes to the condensed consolidated financial statements (unaudited) contained in this report. Unless otherwise specified, all comparisons made are to the corresponding period of 2023. This discussion and analysis is presented in five sections:
+
+•Executive Overview
+
+•Results of Operations and Non-GAAP Financial Measures
+
+•Liquidity and Capital Resources
+
+•Material Cash Requirements from Contractual and Other Obligations
+
+•Critical Accounting Policies and Estimates
+
+
+
+19
+
+
+
+Table of Contents
+
+Executive Overview
+
+Ascent Industries Co. is a diverse industrials company focused on the production of specialty chemicals and industrial tubular products. Ascent Industries Co. was incorporated in 1958 as the successor to a chemical manufacturing business founded in 1945 known as Blackman Uhler Industries Inc. 
+
+The Company's business is divided into two reportable operating segments, Specialty Chemicals and Tubular Products. The Specialty Chemicals segment produces specialty products for the pulp and paper, coatings, adhesives, sealants and elastomers (CASE), textile, automotive, household, industrial and institutional ("HII"), agricultural, water and waste-water treatment, construction, oil and gas and other industries. The Tubular Products segment serves markets through pipe and tube production and customers in the appliance, architectural, automotive and commercial transportation, brewery, chemical, petrochemical, pulp and paper, mining, power generation (including nuclear), water and waste-water treatment, liquid natural gas ("LNG"), food processing, pharmaceutical, oil and gas and other industries.
+
+Munhall Closure
+
+During the second quarter of 2023, the Board of Directors of the Company made the decision to permanently cease operations at Munhall effective on or around August 31, 2023. This strategic decision is part of the Company’s ongoing efforts to consolidate manufacturing to drive an increased focus on its core operations and to improve profitability while driving operational efficiencies. As a result of this decision, the Company incurred asset impairment charges of $1.1 million related to the write down of remaining long-lived assets at the facility during the three months ended March 31, 2024. Munhall results have been reclassified from the Tubular Products segment and as discontinued operations in all periods presented. 
+
+Divestiture of Specialty Pipe & Tube, Inc.
+
+On December 22, 2023, the Company and its wholly-owned subsidiary Specialty Pipe & Tube, Inc. (“SPT”) entered into an Asset Purchase Agreement pursuant to which Ascent and SPT sold substantially all of the assets primarily related to SPT to Specialty Pipe & Tube Operations, LLC, a Delaware limited liability company. The consideration for the transaction was approximately $55 million of cash proceeds subject to certain closing adjustments. The transaction closed on December 22, 2023. As result of the sale, SPT results of operations are classified under discontinued operations for all periods presented. Prior to the divestiture, SPT was reported under the Company's Tubular Products segment. The discussion and analysis of our results of operations refers to continuing operations unless noted. 
+
+Macroeconomic Events
+
+We continued to experience challenges related to ongoing economic factors driving volatility in global markets. Macroeconomic and inflationary pressures have negatively impacted our revenue, operating margins and net income in 2023 and 2024 to date, including increased pricing pressures within both segments of our business as well as increased costs of labor and overhead. We also continue to experience reduced demand from inventory management measures being pursued by our customers driving reductions in volume. The ongoing factors driving volatility in global markets that could impact our business' earnings and cash flows include, but are not limited to, the misalignment of supply and demand for labor, energy, raw materials and other inputs, the inflation of (or unavailability of) raw material inputs and transportation and logistics services, currency fluctuations, rising interest rates and extreme weather, the purchasing of commodities and relative commodity prices. The Company continues efforts to offset these inflationary pressures and continues to take action to improve working capital and evaluate other opportunities to maintain and improve financial performance in the short and long term, however, if these inflationary and demand pressures continue, our revenue, gross and operating margins and net income will continued to be impacted in 2024.
+
+
+
+Results of Operations
+
+Consolidated Performance Summary
+
+Consolidated net sales for the first quarter of 2024 were $44.1 million, a decrease of $10.8 million, or 19.6%, compared to net sales for the first quarter of 2023. The decrease in net sales was primarily driven by a 15.3% decrease in average selling prices and a 7.7% decrease in pounds shipped. 
+
+For the first quarter of 2024, consolidated gross profit increased 72.4% to $2.5 million, or 5.7% of sales, compared to $1.5 million, or 2.7% of sales in the first quarter of 2023. The increase was primarily attributable to improved sourcing measures resulting in lower raw material costs as well as reductions in shipping and other production related costs. 
+
+Consolidated selling, general, and administrative expense (SG&A) for the first quarter of 2024 increased $0.2 million to $7.8 million, or 17.6% of sales, compared to $7.6 million, or 13.8% of sales in the first quarter of 2023. The increase in SG&A 
+
+
+
+20
+
+
+
+Table of Contents
+
+expense for the first quarter of 2024 was primarily driven by increases in professional fees and bad debt expense, partially offset by decreases in salaries, wages and benefits, gains on the sale of assets and stock compensation expense. 
+
+Consolidated operating loss in the first quarter of 2024 totaled $5.3 million compared to operating loss of $6.4 million in the first quarter of 2023. The operating loss decrease in the first quarter of 2024 was primarily driven by the aforementioned increase in gross profit partially offset by increases in SG&A costs.
+
+Specialty Chemicals
+
+Net sales in the first quarter of 2024 totaled $20.3 million, representing a $3.5 million, or 14.5%, decrease from the first quarter of 2023. The decrease was driven by a 10.3% decrease in average selling prices and a 8.8% decrease in pounds shipped.
+
+Gross profit for the first quarter of 2024 decreased to $1.6 million, or 7.6% of sales, compared to $3.1 million, or 13.1% of sales in the first quarter of 2023. The decrease was primarily attributable to the reductions in net sales as well as increases in shrinkage and other production related costs. 
+
+SG&A expense for the first quarter of 2024 increased to $3.0 million, or 14.7% of sales, compared to $1.8 million, or 7.4% of sales in the first quarter of 2023. The increase was primarily driven by increases in corporate expense allocation, incentive bonus, professional fees and bad debt expense.
+
+Operating loss increased to $1.4 million for the first quarter of 2024 compared to operating income of $1.4 million for the first quarter of 2023. The current year increase in operating loss was primarily driven by the aforementioned reduction in net sales coupled with increases in SG&A expenses.
+
+Tubular Products
+
+Net sales in the first quarter of 2024 totaled $23.8 million, a decrease of $7.2 million, or 23.3%, from the first quarter of 2023. The decrease was primarily driven by a 21.4% decrease in average selling prices and a 3.7% decrease in pounds shipped. 
+
+For the first quarter of 2024, gross profit increased 184.3% to $1.1 million, or 4.8% of sales, compared to a gross loss of $1.4 million, or (4.4)% of sales in the first quarter of 2023. The increase was primarily attributable to improved sourcing measures resulting in lower raw material costs as well as reductions in shipping and other production related costs.
+
+SG&A expense for the first quarter of 2024 increased to $2.6 million, or 11.1% of sales, compared to $1.9 million, or 6.2% of sales, in the first quarter of 2023. The changes in SG&A were primarily driven by increases in corporate expense allocation partially offset by reductions in incentive bonus expense.
+
+Operating loss decreased to $1.5 million for the first quarter of 2024 compared to an operating loss of $3.3 million for the first quarter of 2023. The current year decrease in operating loss was primarily driven by aforementioned increase in gross profit partially offset by increases in SG&A expense.
+
+Corporate & Other Items
+
+Unallocated corporate and other expenses for the first quarter of 2024 decreased $1.9 million, or 45.4%, to $2.3 million, or 5.2% of sales, compared to $4.2 million, or 7.7% of sales, in the prior year. The first quarter of 2024 decrease was primarily driven by increases in corporate allocation expenses, decreases in salaries, wages and benefits and stock compensation expense partially offset by increases in professional fees, taxes and licenses and insurance expense.
+
+Interest expense for the first quarter of 2024 decreased to $0.1 million, from $1.1 million for the first quarter of 2023. The decrease is primarily related to lower outstanding debt in the current year compared to the prior year.
+
+The effective tax rate for continuing operations was 22.3% for the three months ended March 31, 2024. The March 31, 2024 effective tax rate was lower than the U.S. statutory rate of 21.0% primarily due to the amount of state tax expense relative to pretax losses. 
+
+
+
+21
+
+
+
+Table of Contents
+
+Non-GAAP Financial Measures
+
+To supplement our consolidated financial statements, which are prepared and presented in accordance with accounting principles generally accepted in the United States ("GAAP"), we use the following non-GAAP financial measures: EBITDA and Adjusted EBITDA. Management believes that these non-GAAP measures are useful because they are key measures used by our management team to evaluate our operating performance, generate future operating plans and make strategic decisions as well as allow readers to compare the financial results between periods. Non-GAAP measures should not be considered as an alternative to any measure of performance or financial condition as promulgated under GAAP, and investors should consider the Company's performance and financial condition as reported under GAAP and all other relevant information when assessing the performance or financial condition of the Company. Non-GAAP measures have limitations as analytical tools, and investors should not consider them in isolation or as a substitute for analysis of the Company's results or financial condition as reported under GAAP.
+
+EBITDA and Adjusted EBITDA
+
+We define "EBITDA" as earnings before interest, income taxes, depreciation and amortization. We define "Adjusted EBITDA" as EBITDA further adjusted for the impact of non-cash and other items we do not consider in our evaluation of ongoing performance. These items include: goodwill impairment, asset impairment, gain on lease modification, stock-based compensation, non-cash lease cost, acquisition costs and other fees, shelf registration costs, loss on extinguishment of debt, retention costs and restructuring and severance costs from net income. We caution investors that amounts presented in accordance with our definitions of EBITDA and Adjusted EBITDA may not be comparable to similar measures disclosed by other companies because not all companies calculate EBITDA and Adjusted EBITDA in the same manner. We present EBITDA and Adjusted EBITDA because we consider them to be important supplemental measures of our performance and investors' understanding of our performance is enhanced by including these non-GAAP financial measures as a reasonable basis for comparing our ongoing results of operations.
+
+Consolidated EBITDA and Adjusted EBITDA from continuing operations are as follows: 
+
+
+
+                                                                                               Three Months Ended March 31,
+
+($ in thousands)                                                                              2024                     2023
+
+Consolidated
+
+Net loss from continuing operations                                                 $             (4,094)   $             (5,788)
+
+Adjustments:
+
+ Interest expense                                                                                    127                    1,106 
+
+
+
+ Income taxes                                                                                     (1,166)                  (1,607)
+
+ Depreciation                                                                                      1,522                    1,549 
+
+ Amortization                                                                                        367                      376 
+
+EBITDA                                                                                             (3,244)                  (4,364)
+
+ Acquisition costs and other                                                                          12                      261 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Stock-based compensation                                                                             59                      220 
+
+ Non-cash lease expense                                                                               55                       64 
+
+ Retention expense                                                                                     3                        — 
+
+ Restructuring and severance cost                                                                      —                       84 
+
+Adjusted EBITDA                                                                     $             (3,115)   $             (3,735)
+
+ % of sales                                                                                         (7.1) %                  (6.8) %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+
+
+
+Table of Contents
+
+Specialty Chemicals EBITDA and Adjusted EBITDA are as follows:
+
+
+
+                                                                                               Three Months Ended March 31,
+
+($ in thousands)                                                                              2024                     2023
+
+Specialty Chemicals
+
+Net (loss) income                                                                   $             (1,458)   $              1,342 
+
+Adjustments:
+
+ Interest expense                                                                                     19                      12 
+
+ Depreciation                                                                                        954                     952 
+
+ Amortization                                                                                        169                     158 
+
+EBITDA                                                                                               (316)                  2,464 
+
+ Acquisition costs and other                                                                           —                       2 
+
+
+
+ Stock-based compensation                                                                              7                       8 
+
+ Non-cash lease expense                                                                               19                      24 
+
+
+
+Specialty Chemicals Adjusted EBITDA                                                 $               (290)   $              2,498 
+
+ % of segment sales                                                                                 (1.4) %                 10.5  %
+
+Tubular Products EBITDA and Adjusted EBITDA from continuing operations are as follows:
+
+
+
+                                                                                               Three Months Ended March 31,
+
+($ in thousands)                                                                              2024                     2023
+
+Tubular Products
+
+Net loss from continuing operations                                                 $             (1,502)   $             (3,293)
+
+Adjustments:
+
+
+
+ Depreciation                                                                                        544                      575 
+
+ Amortization                                                                                        198                      218 
+
+EBITDA                                                                                               (760)                  (2,500)
+
+ Acquisition costs and other                                                                          12                        — 
+
+
+
+
+
+
+
+ Stock-based compensation                                                                             11                      (20)
+
+ Non-cash lease expense                                                                               25                       31 
+
+
+
+ Restructuring and severance costs                                                                     —                       84 
+
+Tubular Products Adjusted EBITDA                                                    $               (712)   $             (2,405)
+
+ % of segment sales                                                                                 (3.0) %                  (7.7) %
+
+Liquidity and Capital Resources
+
+We closely manage our liquidity and capital resources. Our liquidity requirements depend on key variables, including level of investment required to support our business strategies, the performance of our business, capital expenditures, credit facilities and working capital management. Capital expenditures and share repurchases are a component of our cash flow and capital management strategy which we can adjust in response to economic and other changes in our business environment. We have a disciplined approach to capital allocation focusing on priorities that support our business and growth.
+
+Sources of Liquidity
+
+Funds generated by operating activities supplemented by our available cash and cash equivalents and our credit facilities are our most significant sources of liquidity. As of March 31, 2024, we held $1.3 million of cash and cash equivalents, as well as $63.6 million of remaining available capacity on our revolving line of credit. We believe our sources of liquidity will be sufficient to fund operations and anticipated capital expenditures as well as repay our debt obligations as they become due over the next 12 months and beyond.
+
+
+
+23
+
+
+
+Table of Contents
+
+Cash Flows
+
+
+
+Cash flows from continuing operations were as follows:
+
+
+
+                                                                                                 Three Months Ended March 31,
+
+(in thousands)                                                                                  2024                    2023
+
+Total cash provided by (used in):
+
+Operating activities                                                                   $                216   $              12,410 
+
+Investing activities                                                                                    (305)                   (586)
+
+Financing activities                                                                                    (510)                (13,586)
+
+Net decrease in cash and cash equivalents                                              $               (599)  $              (1,762)
+
+
+
+Operating Activities
+
+The decrease in cash provided by operating activities for the three months ended March 31, 2024, compared to cash provided by operating activities in the three months ended March 31, 2023, was primarily driven by changes in working capital partially offset by decreases in net loss year over year. Changes in working capital can vary significantly depending on factors such as the timing of inventory production and purchases, customer payments of accounts receivable and payments to vendors in the regular course of business. Inventory increased operating cash flows for the first three months of 2024 by $1.2 million compared to an increase of $9.5 million for the first three months of 2023, while accounts payable increased operating cash flows by $4.0 million for the first three months of 2024, compared to $6.8 million in the first three months of 2023. The changes in inventory and accounts payable is primarily driven by lower inventory purchases to match inventory levels with sales, slightly lower inventory turns year-over-year and increases in days payables outstanding. Accounts receivable decreased operating cash flows by $1.9 million in the first three months of 2024 compared to a $1.1 million decrease in the first three months of 2023. The decrease in cash generated by accounts receivable is primarily driven by an increase in days sales outstanding compared to the first three months of 2023.
+
+Investing Activities
+
+Net cash used in investing activities primarily consists of transactions related to capital expenditures. The decrease in cash used in investing activities for the three months ended March 31, 2024 compared to the cash used in investing activities for the three months ended March 31, 2023 was primarily due to decreases in capital expenditures in the current year compared to the prior year.
+
+Financing Activities
+
+Net cash used in financing activities primarily consists of transactions related to our long-term debt. The decrease in cash used in financing activities for the three months ended March 31, 2024 compared to cash used in financing activities for the three months ended March 31, 2023 was primarily due to decreased total borrowings and repayments under the Company's credit facility compared to the prior year. The Company had no debt outstanding as of March 31, 2024 and December 31, 2023.
+
+Short-term Debt
+
+The Company has a note payable in the amount of $0.9 million with an annual interest rate of 3.70% maturing April 1, 2024, associated with the financing of the Company's insurance premium in 2023. As of March 31, 2024, the outstanding balance was $0.1 million.
+
+Long-term Debt
+
+During the fourth quarter of 2023, the Company entered into a Limited Consent, Second Amendment to Credit Agreement and Omnibus Amendment to Loan Documents with BMO Bank N.A. and the other lenders under the Company’s credit facility (the “Credit Facility Amendment”). The Credit Facility Amendment contains a consent for the SPT divestiture, released the lien on the assets of SPT and removed SPT as a loan party. The Credit Facility Amendment also reduced the maximum revolving loan commitment under the credit facility from $105 million to $80 million, and increased the interest rate for the credit facility from SOFR plus an interest rate margin of between 1.60% and 1.70% to SOFR plus an interest rate margin of between 1.85% and 2.10%, depending on average availability under the credit facility and the Company’s consolidated fixed charge coverage ratio. The Company had no debt outstanding under its credit facilities as of March 31, 2024 and December 31, 2023.
+
+
+
+24
+
+
+
+Table of Contents
+
+The Credit Agreement contains covenants requiring the maintenance of a minimum consolidated fixed charge coverage ratio if excess availability falls below the greater of (i) $7.5 million and (ii) 10% of the revolving credit facility (currently $8.0 million). As of March 31, 2024, the Company was in compliance with all financial debt covenants. See Note 8 in the notes to the unaudited condensed consolidated financial statements for additional information on the Company's line of credit.
+
+Share Repurchases and Dividends
+
+We have a share repurchase program, authorized by the Company's Board of Directors, that is executed through purchases made from time to time at prevailing market prices, through open market or privately negotiated transactions, depending on market conditions. Shares repurchased are returned to status of authorized, but unissued shares of common stock or held in treasury. As of March 31, 2024, the Company has 520,541 shares of its share repurchase authorization remaining. 
+
+Shares repurchased for the three months ended March 31, 2024 and 2023 were as follows:
+
+
+
+                                                                                                 Three Months Ended March 31,
+
+                                                                                                2024                    2023
+
+Number of shares repurchased                                                                           16,330                   32,313 
+
+Average price per share                                                                $                9.97   $               10.11 
+
+Total cost of shares repurchased                                                       $             163,221   $             327,521 
+
+
+
+At the end of each fiscal year the Board of Directors reviews the financial performance and capital needed to support future growth to determine the amount of cash dividend, if any, which is appropriate. In 2023, no dividends were declared or paid by the Company.
+
+
+
+Other Financial Measures
+
+Below are additional financial measures that we believe are important in understanding the Company's liquidity position from year to year. The metrics are defined as:
+
+
+
+Liquidity Measure:
+
+•Current ratio = current assets divided by current liabilities. The current ratio will be determined by the Company using generally accepted accounting principles, consistently applied.
+
+Leverage Measure:
+
+•Debt to capital = total debt divided by total capital. The debt to capital ratio will be determined by the Company using generally accepted accounting principles, consistently applied.
+
+Profitability Ratio:
+
+•Return on average equity ("ROAE") = net income divided by the trailing 12-month average of equity. The ROAE will be determined by the Company using generally accepted accounting principles, consistently applied.
+
+
+
+Results of these additional measures are as follows:
+
+
+
+                                                                                    March 31, 2024            December 31, 2023
+
+Current ratio                                                                             3.2                        3.7
+
+Debt to capital                                                                           —%                          —%
+
+Return on average equity                                                                (4.9)%                     (38.6)%
+
+Material Cash Requirements from Contractual and Other Obligations
+
+As of March 31, 2024, our material cash requirements for our known contractual and other obligations were as follows:
+
+•Operating and Finance Leases - The Company enters into various lease agreements for the real estate and manufacturing equipment used in the normal course of business. Operating and finance lease obligations were $32.1 million, with $1.5 million payable within 12 months. See Note 9 for further detail of our lease obligations and the timing of expected future payments.
+
+
+
+25
+
+
+
+Table of Contents
+
+The Company has no off-balance sheet arrangements that are reasonably likely to have a material current or future effect on the Company's financial position, revenues, results of operations, liquidity, or capital expenditures. We expect capital spending to be as much as $6.2 million for the remainder of fiscal 2024.
+
+Critical Accounting Policies and Estimates
+
+We describe our significant accounting policies in Note 1, Summary of Significant Accounting Policies, in the notes to the consolidated financial statements presented in the Annual Report on Form 10-K for the year ended December 31, 2023. We discuss our critical accounting estimates in Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in the Annual Report on Form 10-K for the year ended December 31, 2023. There have been no significant changes in our significant accounting policies or critical accounting estimates since the end of fiscal 2023.
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risks
+
+We are a smaller reporting company as defined in Rule 12b-2 of the Exchange Act; therefore, we are not required to provide the information required by this Item.
+
+Item 4. Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures 
+
+The term “disclosure controls and procedures” is defined in Rule 13a-15(e) of the Exchange Act as “controls and other procedures of an issuer that are designed to ensure that information required to be disclosed by the issuer in the reports that it files or submits under the Exchange Act are recorded, processed, summarized and reported, within the time periods specified in the SEC rules and forms.” The Company’s disclosure controls and procedures are designed to ensure that material information relating to the Company and its consolidated subsidiaries is accumulated and communicated to its management, including its Chief Executive Officer and its Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosures. The Company’s management, with the participation of its Chief Executive Officer and Chief Financial Officer, conducted an evaluation of the effectiveness of the Company’s disclosure controls and procedures as of March 31, 2024. Based upon that evaluation, the Company’s Chief Executive Officer and Chief Financial Officer have concluded that the Company’s disclosure controls and procedures were not effective as of March 31, 2024, because of the previously reported material weaknesses in internal control over financial reporting, as described below.
+
+Previously Reported Material Weaknesses in Internal Control over Financial Reporting
+
+Management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f) and 15f-15(f). As reported in our 2023 Form 10-K, we did not maintain effective internal control over financial reporting as of December 31, 2023 as a result of material weaknesses in the control environment and control activities areas. A material weakness (as defined in Rule 12b-2 under the Exchange Act) is a deficiency, or combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis. Refer to our 2023 Form 10-K for a description of our material weaknesses. 
+
+Ongoing Remediation Efforts to Address Material Weaknesses
+
+Our material weaknesses were not remediated at March 31, 2024. Our Board of Directors and management are committed to the continued implementation of remediation efforts to address the material weaknesses. The Company has a remediation plan which includes designing and implementing review and approval controls over the data utilized in various accounting processes, controls that will address the accuracy, timely recording and completeness of data used in the determination of significant accounting estimates, reserves and valuations in accordance with U.S. GAAP, controls that will address the sufficient review of complex accounting areas and controls that will address the monitoring of general information technology areas including user access, cyber security and segregation of duties. 
+
+The following steps are among the measures being taken by the Company with a number of these initiatives directly related to strengthening our controls and addressing specific control deficiencies which contributed to the material weaknesses. The steps to remediate the deficiencies underlying the material weaknesses include:
+
+•Engaging an outside service provider to assist management with the remediation efforts including to help review and make recommendations with respect to the redesign and implementation of our internal controls over general information technology controls, including user access provisioning, cyber-security and segregation of duties
+
+
+
+26
+
+
+
+Table of Contents
+
+•Enhancing/designing/implementing controls over the inventory, revenue recognition and accounts receivable, period-end financial reporting, account analyses, and journal entry processes
+
+•Enhancing/designing/implementing controls over accounting for income taxes
+
+The Audit Committee of the Board of Directors is monitoring management's ongoing remediation efforts. With the Audit Committee's oversight, management has dedicated significant resources and efforts to improve our internal control environment to remedy the identified material weaknesses. As we continue to evaluate and implement improvements to our internal control over financial reporting, our management may decide to take additional measures to address our control deficiencies or to modify the remediation efforts undertaken. Because the reliability of the internal control process requires repeatable execution, our material weaknesses cannot be considered fully remediated until all remedial processes and procedures (including additional remediation efforts identified by our senior management as necessary) have been implemented, each applicable control has operated for a sufficient period of time and management has concluded, through testing, that the controls are operating effectively. Until all identified material weaknesses are remediated, we will not be able to assert that our internal controls are effective. 
+
+
+
+Changes in Internal Control over Financial Reporting
+
+Other than the ongoing remediation efforts described above, there have been no changes in the Company’s internal control over financial reporting during the three months ended March 31, 2024 that have materially affected, or are reasonably likely to materially affect, its internal control over financial reporting.
+
+PART II
+
+Item 1. Legal Proceedings
+
+It is not unusual for us and our subsidiaries to be involved in various unresolved legal actions, administrative proceedings and claims in the ordinary course of business involving, among other things, product liability, commercial, employment, workers' compensation, and environmental matters.. With respect to such lawsuits, claims and proceedings, the Company records reserves when it is probable a liability has been incurred and the amount of loss can be reasonably estimated. We cannot predict with any certainty the outcome of these unresolved legal actions or, in some cases, the range of possible loss or recovery. Information pertaining to legal proceedings can be found in Note 13 - Commitments and Contingencies in the notes to the unaudited condensed consolidated financial statements, and is incorporated by reference herein. 
+
+Item 1A. Risk Factors
+
+There were no material changes in our assessment of risk factors as discussed in Part I, Item 1A in the Company's Annual Report on Form 10-K for the year ended December 31, 2023.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+Issuer Purchases of Equity Securities
+
+The following table sets forth information with respect to purchases of the Company’s common stock on a trade date basis made during the three months ended March 31, 2024:
+
+
+
+Period                                            Total Number of      Average Price      Total Number of       Number of Shares
+
+                                                       Shares             Paid per       Shares Purchased as     that May Yet Be
+
+                                                     Purchased             Share          Part of Publicly     Purchased under the
+
+                                                                                              Announced              Program
+
+                                                                                              Programs1
+
+January 1, 2024 - January 31, 2024                           8,506   $          9.96                  8,506               528,365 
+
+February 1, 2024 - February 29, 2024                         6,768               9.89                  6,768               521,597 
+
+March 1, 2024 - March 31, 2024                               1,056              10.44                  1,056               520,541 
+
+As of March 31, 2024                                        16,330   $          9.97                 16,330               520,541 
+
+1Pursuant to the 790,383 share stock repurchase program re-authorized by the Board of Directors in December 2022. The stock repurchase program expires in February 2025 and there is no guarantee to the exact number of shares that will be repurchased by the Company over that period. See Note 10 for additional information.
+
+
+
+27
+
+
+
+Table of Contents
+
+Item 3. Defaults Upon Senior Securities
+
+None.
+
+Item 4. Mine Safety Disclosures
+
+None.
+
+Item 5. Other Information
+
+During the three months ended March 31, 2024, none of the Company’s directors or executive officers adopted or terminated any contract, instruction, or written plan for the purchase or sale of Company securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any “non-Rule 10b5-1 trading arrangement” (as those terms are defined in Regulation S-K, Item 408).
+
+
+
+Item 6. Exhibits
+
+
+
+   Exhibit No.                                                                
+
+                                                                              
+
+                      
+
+                                                                        Description
+
+                31.1 Rule 13a-14(a)/15d-14(a) Certifications of Chief Executive Officer
+
+                31.2 Rule 13a-14(a)/15d-14(a) Certification of the Chief Financial Officer
+
+                32.1 Certifications Pursuant to 18 U.S.C. Section 1350
+
+            101.INS* XBRL Instance Document
+
+            101.SCH* XBRL Taxonomy Extension Schema
+
+            101.CAL* XBRL Taxonomy Extension Calculation Linkbase
+
+            101.LAB* XBRL Taxonomy Extension Label Linkbase
+
+            101.PRE* XBRL Taxonomy Extension Presentation Linkbase
+
+            101.DEF* XBRL Taxonomy Extension Definition Linkbase
+
+               104   Cover Page Interactive Data File (formatted as Inline XBRL document and included in Exhibit 101*)
+
+                   * In accordance with Regulation S-T, the XBRL-related information in Exhibit 101 to this Quarterly Report on Form
+
+                      10-Q shall be deemed "furnished" and not
+
+                      "filed."
+
+
+
+
+
+
+
+
+
+
+
+28
+
+
+
+Table of Contents
+
+SIGNATURES
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+
+
+                                          
+
+                                                        ASCENT INDUSTRIES CO.
+
+                                                             (Registrant)
+
+                                                  
+
+                                                  
+
+Date:      May 8, 2024                   By:     /s/ J. Bryan Kitchen          
+
+                                                 J. Bryan Kitchen
+
+                                                 President and Chief Executive Officer
+
+                                                 (principal executive officer)
+
+
+
+Date:      May 8, 2024                   By:     /s/ Ryan Kavalauskas
+
+                                                 Ryan Kavalauskas
+
+                                                 Chief Financial Officer
+
+                                                 (principal accounting officer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29

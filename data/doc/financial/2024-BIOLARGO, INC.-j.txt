@@ -1,0 +1,3291 @@
+Table of Contents
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549 
+
+ 
+
+
+
+ 
+
+FORM 10-Q
+
+ 
+
+
+
+ 
+
+☒  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ 
+
+For the quarterly period ended March 31, 2024.
+
+ 
+
+or 
+
+ 
+
+☐  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ 
+
+For the transition period from              to              
+
+Commission File Number 000-19709 
+
+ 
+
+
+
+ 
+
+BIOLARGO, INC.
+
+(Exact name of registrant as specified in its charter) 
+
+ 
+
+
+
+ 
+
+                            Delaware                                                            65-0159115
+
+                (State or other jurisdiction of                                              (I.R.S. Employer
+
+                 incorporation or organization)                                            Identification No.)
+
+ 
+
+14921 Chestnut St.
+
+Westminster, CA 92683
+
+(Address of principal executive offices) 
+
+ 
+
+(888) 400-2863
+
+(Registrant’s telephone number, including area code) 
+
+ 
+
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+      Title of each class                   Trading symbol(s)                    Name of each exchange on which registered
+
+          Common stock                            BLGO                                      OTC Markets (OTCQX)
+
+ 
+
+
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☒    No  ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes  ☒         No      ☐
+
+ 
+
+  
+
+
+
+Table of Contents 
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+  Large accelerated filer   ☐                                        Accelerated filer ☐
+
+                                                                      
+
+  Non-accelerated filer   ☒                                          Smaller reporting company ☒
+
+                                                                      
+
+                                                                     Emerging growth company ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.         ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No  ☒
+
+ 
+
+The number of shares of the Registrant’s Common Stock outstanding as of May 13, 2024 was 296,839,523 shares.  
+
+ 
+
+  
+
+
+
+Table of Contents 
+
+ 
+
+  
+
+BIOLARGO, INC. 
+
+FORM 10-Q 
+
+INDEX
+
+ 
+
+PART I 
+
+ 
+
+ 
+
+Item 1      Financial Statements                                                                                                   1
+
+                                                                                                                               
+
+Item 2      Management's Discussion and Analysis and Financial Condition and Results of Operations                                26
+
+                                                                                                                               
+
+Item 4      Controls and Procedures                                                                                               37
+
+ 
+
+PART II 
+
+ 
+
+Item 2      Unregistered Sales of Equity Securities and Use of Proceeds                                                           39
+
+                                                                                                                               
+
+Item 5      Other Information                                                                                                     39
+
+                                                                                                                               
+
+Item 6      Exhibits                                                                                                              40
+
+                                                                                                                                    
+
+            Signatures                                                                                                            42
+
+ 
+
+  
+
+
+
+Table of Contents 
+
+  
+
+ 
+
+  
+
+PART I – FINANCIAL INFORMATION
+
+ 
+
+Item 1. Financial Statements 
+
+ 
+
+- 1 - 
+
+
+
+Table of Contents 
+
+  
+
+ 
+
+BIOLARGO, INC. AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(in thousands, except for share and per share data)
+
+ 
+
+                                                                                                   March 31, 2024       December 31, 
+
+                                                                                                      (unaudited)               2023 
+
+                                                                 Assets                                                                 
+
+  Current assets:                                                                                                                    
+
+  Cash and cash equivalents                                                                     $           4,336  $           3,539 
+
+  Accounts receivable, net of allowance                                                                     2,473              2,612 
+
+  Inventories, net of allowance                                                                               251                153 
+
+  Prepaid expenses and other current assets                                                                   116                 58 
+
+  Total current assets                                                                                      7,176              6,362 
+
+                                                                                                                                     
+
+  Equipment and leasehold improvements, net of depreciation                                                 1,489                662 
+
+  Other non-current assets                                                                                     70                 70 
+
+  Investment in South Korean joint venture                                                                     18                 19 
+
+  Right of use, operating lease, net of amortization                                                        1,068              1,092 
+
+  Total assets                                                                                  $           9,821  $           8,205 
+
+                                                                                                                                     
+
+                                                  Liabilities and stockholders’ equity                                                  
+
+  Current liabilities:                                                                                                               
+
+  Accounts payable and accrued expenses                                                         $           1,740  $           1,488 
+
+  Clyra Medical accounts payable and accrued expenses                                                         772                397 
+
+  Clyra Medical debt obligations                                                                              234                234 
+
+  Debt obligation                                                                                              66                 66 
+
+  Contract liabilities                                                                                        261                303 
+
+  Lease liability                                                                                             105                105 
+
+  Deposits                                                                                                    226                117 
+
+  Total current liabilities                                                                                 3,404              2,710 
+
+                                                                                                                                     
+
+  Long-term liabilities:                                                                                                             
+
+  Debt obligations, net of current                                                                            284                289 
+
+  Lease liability, net of current                                                                             985              1,004 
+
+  Total long-term liabilities                                                                               1,269              1,293 
+
+  Total liabilities                                                                                         4,673              4,003 
+
+                                                                                                                                     
+
+  STOCKHOLDERS’ EQUITY:                                                                                                              
+
+  Preferred Series A, $0.00067 Par Value, 50,000,000 Shares Authorized, no Shares Issued and                    —                  — 
+
+   Outstanding, at March 31, 2024 and December 31,
+
+   2023
+
+  Common stock, $0.00067 Par Value, 550,000,000 Shares Authorized, 295,801,370 and 292,945,747                198                196 
+
+   Shares Issued, at March 31, 2024 and December 31,
+
+   2023
+
+  Additional paid-in capital                                                                              155,606            154,023 
+
+  Accumulated deficit                                                                                    (147,508)          (147,098)
+
+  Accumulated other comprehensive loss                                                                       (181)              (277)
+
+  Total BioLargo Inc. and subsidiaries stockholders’ equity                                                 8,115              6,844 
+
+  Non-controlling interest (Note 8, 9, 10)                                                                 (2,967)            (2,642)
+
+  Total stockholders’ equity                                                                                5,148              4,202 
+
+  Total liabilities and stockholders’ equity                                                    $           9,821  $           8,205 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+- 2 - 
+
+
+
+Table of Contents 
+
+  
+
+ 
+
+BIOLARGO, INC. AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+(in thousands, except for share and per share data)
+
+(unaudited)
+
+ 
+
+                                                                                                    Three Months Ended March 31,      
+
+                                                                                                             2024               2023 
+
+                                                                                                                                     
+
+  Revenue                                                                                                                            
+
+  Product revenue                                                                               $           4,575  $           3,548 
+
+  Service revenue                                                                                             185                194 
+
+  Total revenue                                                                                             4,760              3,742 
+
+                                                                                                                                     
+
+  Cost of revenue                                                                                                                    
+
+  Cost of goods sold                                                                                       (2,440)            (1,797)
+
+  Cost of service                                                                                             (74)              (135)
+
+  Total cost of revenue                                                                                    (2,514)            (1,932)
+
+  Gross profit                                                                                              2,246              1,810 
+
+                                                                                                                                     
+
+  Selling, general and administrative expenses                                                              2,225              1,722 
+
+  Research and development                                                                                    784                565 
+
+  Total operating expenses                                                                                  3,009              2,287 
+
+  Operating loss:                                                                                            (763)              (477)
+
+                                                                                                                                     
+
+  Other (expense) income:                                                                                                            
+
+  Interest expense                                                                                            (12)               (48)
+
+  Grant income                                                                                                  —                 31 
+
+  Total other expense:                                                                                        (12)               (17)
+
+                                                                                                                                     
+
+  Net loss                                                                                                   (775)              (494)
+
+                                                                                                                                     
+
+  Net loss attributable to noncontrolling interest                                                           (365)              (247)
+
+  Net loss attributable to common shareholders                                                  $            (410) $            (247)
+
+                                                                                                                                     
+
+  Net loss per share attributable to common shareholders:                                                                            
+
+  Loss per share attributable to shareholders – basic and diluted                               $          (0.001) $          (0.001)
+
+  Weighted average number of common shares outstanding:                                               294,308,798        280,711,278 
+
+                                                                                                                                     
+
+  Comprehensive loss:                                                                                                                
+
+  Net loss                                                                                      $            (775) $            (494)
+
+  Foreign currency translation                                                                                 96                 (6)
+
+  Comprehensive loss                                                                                         (679)              (500)
+
+  Comprehensive loss attributable to noncontrolling interest                                                 (365)              (247)
+
+  Comprehensive loss attributable to common stockholders                                        $            (314) $            (253)
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+- 3 - 
+
+
+
+Table of Contents 
+
+  
+
+ 
+
+BIOLARGO, INC. AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+(in thousands, except for share data)
+
+ 
+
+                                       Common stock     Additional       Accumulated   Accumulated other  Non-controlli             Total 
+
+                                                           paid-in                         comprehensive             ng     stockholders’
+
+                              Shares          Amount        capital           deficit                loss       interest            equity 
+
+  Balance, December 31,       292,945,747  $     196  $    154,023  $       (147,098) $            (277) $      (2,642) $          4,202 
+
+   2023
+
+  Sale of stock for             2,160,348          1           487                 —                  —              —               488 
+
+   cash, net of offering
+
+   costs of $39
+
+   (unaudited)
+
+  Issuance of common              288,997          1            82                 —                  —              —                83 
+
+   stock for services
+
+   (unaudited)
+
+  Warrant exercise                406,278          —            75                 —                  —              —                75 
+
+   (unaudited)
+
+  Stock option                          —          —           429                 —                  —              —               429 
+
+   compensation expense
+
+   (unaudited)
+
+  Clyra Medical stock                   —          —            59                 —                  —              —                59 
+
+   options issued for
+
+   services
+
+   (unaudited)
+
+  Clyra Medical stock                   —          —            52                 —                  —              —                52 
+
+   issued for services
+
+   (unaudited)
+
+  Clyra Medical common                  —          —             —                 —                  —            475               475 
+
+   unit offering
+
+   (unaudited)
+
+  Clyra Medical                         —          —             —                 —                  —            (86)              (86)
+
+   Preferred Series A
+
+   dividend
+
+   (unaudited)
+
+  Biolargo Energy                       —          —             —                 —                  —             50                50 
+
+   Technology Inc.
+
+   (BETI) offering
+
+   (unaudited)
+
+  Noncontrolling                        —          —           399                 —                  —           (399)                — 
+
+   interest allocation
+
+   (unaudited)
+
+  Net loss (unaudited)                  —          —             —              (410)                 —           (365)             (775)
+
+  Foreign currency                      —          —             —                 —                 96              —                96 
+
+   translation
+
+   (unaudited)
+
+  Balance, March 31,          295,801,370  $     198  $    155,606  $       (147,508) $            (181) $      (2,967) $          5,148 
+
+   2024
+
+   (unaudited)
+
+ 
+
+- 4 - 
+
+
+
+  
+
+BIOLARGO, INC. AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+(in thousands, except for share data)
+
+                                       Common stock     Additional       Accumulated   Accumulated other  Non-controlli             Total 
+
+                                                           paid-in                         comprehensive             ng     stockholders’
+
+                              Shares          Amount        capital           deficit                loss       interest            equity 
+
+  Balance, December 31,       278,462,706  $     186  $    148,435  $       (143,594) $            (149) $      (2,867) $          2,011 
+
+   2022
+
+  Sale of stock for cash        4,201,402          3           797                 —                  —              —               800 
+
+  Issuance of common              930,490          1           206                 —                  —              —               207 
+
+   stock for
+
+   services
+
+  Issuance of common              527,983          —             —                                                                     — 
+
+   stock in exchange for
+
+   Clyra
+
+   shares
+
+  Stock option                          —          —           195                 —                  —              —               195 
+
+   compensation
+
+   expense
+
+  Clyra Medical stock                   —          —            61                 —                  —              —                61 
+
+   options issued for
+
+   services
+
+  Warrant issued for                    —          —            30                 —                  —              —                30 
+
+   interest
+
+  Clyra Medical                         —          —             —                 —                  —            225               225 
+
+   Preferred Series
+
+   A
+
+  Clyra Medical                         —          —             —                 —                  —            (27)              (27)
+
+   Preferred Series A
+
+   dividend
+
+  Biolargo Energy                       —          —             —                 —                  —            550               550 
+
+   Technology Inc.
+
+   (BETI)
+
+   offering
+
+  Noncontrolling                        —          —           467                 —                  —           (467)                — 
+
+   interest
+
+   allocation
+
+  Net loss                              —          —             —              (247)                 —           (247)             (494)
+
+  Foreign currency                      —          —             —                 —                 (6)             —                (6)
+
+   translation
+
+  Balance, March 31, 2023     284,122,581  $     190  $    150,191  $       (143,841) $            (155) $      (2,833) $          3,552 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+- 5 - 
+
+
+
+Table of Contents 
+
+  
+
+ 
+
+BIOLARGO, INC. AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in thousands, except for share and per share data)
+
+(unaudited)
+
+ 
+
+                                                                                                     Three Months Ended March 31,      
+
+                                                                                                              2024               2023 
+
+  Cash flows from operating activities                                                                                               
+
+  Net loss                                                                                       $           (775) $            (494)
+
+  Adjustments to reconcile net loss to net cash provided by (used in) operating activities:                                          
+
+  Stock option compensation expense                                                                           488                256 
+
+  Common stock issued for services                                                                            135                207 
+
+  Amortization of right-of-use operating lease assets                                                          24                  — 
+
+  Interest expense related to amortization of the discount on note payable                                      —                  3 
+
+  Fair value of warrant issued for interest                                                                     —                 30 
+
+  Loss on investment in South Korean joint venture                                                              1                  6 
+
+  Depreciation expense                                                                                         36                 22 
+
+  Changes in assets and liabilities:                                                                                                 
+
+  Accounts receivable                                                                                         139               (316)
+
+  Inventories                                                                                                 (98)               (17)
+
+  Prepaid expenses and other assets                                                                           (58)                25 
+
+  Accounts payable and accrued expenses                                                                       252                284 
+
+  Deposits                                                                                                    109                (71)
+
+  Clyra accounts payable and accrued expenses                                                                 289                 14 
+
+  Contract liabilities                                                                                        (42)                 4 
+
+  Lease liability, net                                                                                        (19)                 4 
+
+  Net cash provided by (used in) operating activities                                                         481                (43)
+
+  Cash flows from investing activities                                                                                               
+
+  Equipment purchases                                                                                        (863)               (48)
+
+  Net cash used in investing activities                                                                      (863)               (48)
+
+  Cash flows from financing activities                                                                                               
+
+  Proceeds from sale of common stock, net of commissions                                                      488                800 
+
+  Proceeds from warrant exercise                                                                               75                  — 
+
+  Proceeds from sale of BETI common stock                                                                      50                550 
+
+  Repayment of debt obligations                                                                                (5)               (50)
+
+  Repayment by Clyra debt obligations                                                                           —                (15)
+
+  Proceeds from sale of Clyra Medical preferred stock                                                           —                225 
+
+  Proceeds from sale of Clyra Medical common stock                                                            475                  — 
+
+  Net cash provided by financing activities                                                                 1,083              1,510 
+
+  Net effect of foreign currency translation                                                                   96                 (6)
+
+  Net change in cash                                                                                          797              1,413 
+
+  Cash and cash equivalents at beginning of period                                                          3,539              1,851 
+
+  Cash and cash equivalents at end of period                                                     $          4,336  $           3,264 
+
+  Supplemental disclosures of cash flow information                                                                                  
+
+  Cash paid during the period for:                                                                                                   
+
+  Interest                                                                                       $             12  $              15 
+
+  Income taxes                                                                                   $              —  $               5 
+
+  Short-term lease payments not included in lease liability                                      $             12  $              13 
+
+  Non-cash investing and financing activities                                                                                        
+
+  Equipment added using capital lease                                                            $              —  $              80 
+
+  Conversion of Clyra common stock to BioLargo common stock                                      $              —  $             100 
+
+  Allocation of noncontrolling interest                                                          $            399  $             467 
+
+  Preferred Series A Dividend                                                                    $             86  $               — 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+  
+
+- 6 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+ 
+
+  
+
+Note 1. Business and Organization 
+
+ 
+
+Description of Business 
+
+ 
+
+BioLargo, Inc. (“BioLargo”, or the “Company”) invents, develops, and commercializes innovative platform technologies to solve challenging environmental problems like PFAS contamination (per- and polyfluoroalkyl substances), advanced water and wastewater treatment, industrial odor control, air quality control, infection control, and myriad environmental remediation challenges. Our business strategy is straightforward: we invent or acquire technologies that we believe have the potential to be disruptive in large commercial markets; we develop and validate these technologies to advance and promote their commercial success as we leverage our considerable scientific, engineering, and entrepreneurial talent; we then monetize these technical assets through a variety of business structures that may include licensure, joint venture, sale, spin off, or by deploying direct to market strategies.
+
+ 
+
+Organization 
+
+ 
+
+We are a Delaware corporation formed in 1991. We have five wholly-owned subsidiaries: BioLargo Life Technologies, Inc., organized under the laws of the State of California in 2006; ONM Environmental, Inc., organized under the laws of the State of California in 2009; BioLargo Equipment Solutions & Technologies, Inc., organized under the laws of the State of California in 2022; BioLargo Canada, Inc., organized under the laws of Canada in 2014; and BioLargo Development Corp., organized under the laws of the State of California in 2016. Additionally, we are the controlling stockholder in three subsidiaries: we own 53% of Clyra Medical Technologies, Inc. (“Clyra” or “Clyra Medical”), organized under the laws of the State of California in 2012 and redomiciled to Delaware in 2023; and 82% of BioLargo Engineering Science and Technologies, LLC (“BLEST"), organized under the laws of the State of Tennessee in 2017; and 96% of BioLargo Energy Technologies, Inc. ("BETI") organized under the laws of the State of California in 2019. We consolidate the financial statements of our partially owned subsidiaries.
+
+ 
+
+Liquidity / Going Concern 
+
+ 
+
+For the three months ended March 31, 2024, we generated revenues of $4,760,000 through our business segments, had a net loss of $775,000, and generated net cash provided by operating activities of $481,000. At March 31, 2024, we had current assets of $7,176,000, of which $4,336,000 was cash and cash equivalents, current liabilities of $3,404,000, and working capital of $3,772,000.
+
+ 
+
+While we were able to generate $481,000 net cash from operating activities during the three months ended March 31, 2024, we do not have a long history of doing so and are highly reliant upon third parties for the generation of a majority of our revenues. We also continue to use cash to invest in capital equipment, research and development, and our new technologies. For these reasons, we and our partially owned subsidiaries continue to sell securities to ensure available working capital. During the three months ended March 31, 2024, we sold (i) $260,000 of our common stock to Lincoln Park Capital Fund, LLC (“Lincoln Park”), (ii) $228,000 of our common stock and warrants to accredited investors, (iii) $475,000 of Clyra Medical common stock, and (iv) $50,000 of BETI common stock. We have been, and anticipate that we will continue to be, limited in terms of our capital resources, and expect to continue to need further investment capital to fund our business plans and investments into our new technologies. 
+
+ 
+
+The foregoing factors raise substantial doubt about our ability to continue as a going concern, unless we are able to (i) continue to increase revenues, generate cash from operations, or generate cash from financing activities, (ii) convert assets such as our $2,473,000 in accounts receivable into cash; or, (iii) if necessary, reduce ongoing cash obligations by curtailing portions of our operations.
+
+ 
+
+- 7 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+  
+
+Note 2. Summary of Significant Accounting Policies 
+
+ 
+
+Principles of Consolidation 
+
+ 
+
+The condensed consolidated financial statements include the accounts of the Company, its wholly owned subsidiaries, and partially owned subsidiaries BETI, BLEST and Clyra Medical. All intercompany accounts and transactions have been eliminated.
+
+ 
+
+The accounting and financial reporting policies of the Company conform, in all material respects, to accounting principles generally accepted in the United States of America (“GAAP”) and to general practices within the industry. The condensed consolidated financial statements in the Quarterly Report on Form 10-Q have not been audited by an independent registered public accounting firm, but in the opinion of management, reflect all necessary adjustments for a fair presentation of the Company’s condensed consolidated financial position and condensed consolidated results of operations. All adjustments were of a normal and recurring nature. The condensed consolidated financial statements have been prepared in accordance with GAAP and with the instructions to Form 10-Q adopted by the Securities and Exchange Commission (the “SEC”). Accordingly, the condensed consolidated financial statements do not include all information and footnotes required by GAAP for complete financial presentation and should be read in conjunction with our consolidated financial statements, and notes thereto, for the year ended  December 31, 2023, included in our Annual Report on Form 10-K filed with the SEC on  April 1, 2024. The results of operations for the three months ended  March 31, 2024 are not necessarily indicative of the results to be expected for the full year or any future period.
+
+ 
+
+Foreign Currency
+
+ 
+
+The Company has designated the functional currency of BioLargo Canada, Inc., our Canadian subsidiary, to be the Canadian dollar. Therefore, translation gains and losses resulting from differences in exchange rates are recorded in accumulated other comprehensive loss.
+
+ 
+
+Cash and Cash Equivalents 
+
+ 
+
+The Company considers all highly liquid investments with maturities of three months or less when acquired to be cash equivalents. Substantially all cash equivalents are held in short-term money market accounts at one of the largest financial institutions in the United States. From time to time, our cash account balances are greater than the Federal Deposit Insurance Corporation insurance limit of $250,000 per owner per bank, and during such times, we are exposed to credit loss for amounts in excess of insured limits in the event of non-performance by the financial institution. We do not anticipate non-performance by our financial institution.
+
+ 
+
+As of March 31, 2024, and December 31, 2023, our cash balances were made up of the following (in thousands):
+
+ 
+
+                                                                                                   March 31, 2024   December 31, 2023 
+
+  BioLargo, Inc. and subsidiaries                                                               $           4,242  $            3,142 
+
+  Clyra Medical Technologies, Inc.                                                                             94                 397 
+
+  Total                                                                                         $           4,336  $            3,539 
+
+ 
+
+Accounts Receivable
+
+ 
+
+In  June 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2016-13, which sets out the principles for the recognition of measurement of credit losses on financial instruments, including trade receivables. The standard eliminates the probable initial recognition threshold and requires an entity to reflect its current estimate of all expected credit losses. The allowance for credit losses is a valuation account that is deducted from the amortized cost basis of the financial assets to present the net amount expected to be collected. The new standard was effective for the Company beginning January 1, 2023 and primarily impacted trade accounts receivable. 
+
+ 
+
+Accounts receivable are customer obligations that are unconditional. Accounts receivable are presented net of an allowance for doubtful accounts for expected credit losses, which represents an estimate of amounts that may not be collectible. The Company performs ongoing credit evaluations of its customers and, if necessary, provides an allowance for doubtful accounts and expected credit losses. A provision to the allowances for doubtful accounts for expected credit losses is recorded based on factors including the length of time the receivables are past due, the current business environment, and the Company’s historical experience. Provisions to the allowances for doubtful accounts for expected credit losses are recorded to general and administrative expenses. The Company writes off accounts receivable against the allowance when it determines a balance is uncollectible and no longer actively pursues collection of the receivable. The Company does not have any off-balance-sheet credit exposure related to customers. As of March 31, 2024, and December 31, 2023, the allowance for doubtful accounts for expected credit losses was $84,000.
+
+ 
+
+- 8 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+Credit Concentration
+
+ 
+
+We have a limited number of customers that account for significant portions of our revenue. During the three months ended March 31, 2024 and 2023, the following customers accounted for more than 10% of consolidated revenues:
+
+ 
+
+                                                                                                    Three Months ended March 31,      
+
+                                                                                                            2024                2023 
+
+  Customer A                                                                                                 88%                86%
+
+ 
+
+At March 31, 2024 and  December 31, 2023, one customer accounted for more than 10% of consolidated accounts receivable:
+
+ 
+
+                                                                                                 March 31, 2024    December 31, 2023 
+
+  Customer A                                                                                                79%                 68%
+
+ 
+
+Inventory
+
+ 
+
+Inventories are stated at the lower of cost or net realizable value using the average cost method. The allowance for obsolete inventory as of  March 31, 2024, and December 31, 2023, was $212,000. Inventories consisted of (in thousands):
+
+ 
+
+                                                                                                  March 31, 2024    December 31, 2023 
+
+  Raw material                                                                                 $              85  $               79 
+
+  Finished goods                                                                                             166                  74 
+
+  Total                                                                                        $             251  $              153 
+
+ 
+
+- 9 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+Other Non-Current Assets
+
+ 
+
+Other non-current assets consisted of (i) security deposits related to our business offices, (ii) three patents acquired on  October 22, 2021, for $34,000.
+
+ 
+
+                                                                                                 March 31, 2024     December 31, 2023 
+
+  Patents                                                                                    $              34  $                34 
+
+  Security deposits                                                                                         36                   36 
+
+  Total                                                                                      $              70  $                70 
+
+ 
+
+Equity Method of Accounting
+
+ 
+
+On March 20, 2020, we invested $100,000 into a South Korean entity (Odin Co. Ltd., “Odin”) pursuant to a Joint Venture agreement we had entered into with BKT Co. Ltd. and its U.S. based subsidiary, Tomorrow Water. We received a 40% non-dilutive equity interest, and BKT and Tomorrow Water each received 30% equity interests for an aggregate $150,000 investment.
+
+ 
+
+We account for our investment in the joint venture under the equity method of accounting. We have determined that while we have significant influence over the joint venture through our technology license and our position on the Board of Directors, we do not control the joint venture or are otherwise involved in managing the entity and we own less than a majority of the equity. Therefore, we record the asset on our condensed consolidated balance sheets and record an increase or decrease of the recorded balance by our percentage ownership of the profits or losses in the joint venture. The joint venture has incurred a loss since inception and our 40% ownership share reduced our investment interest. For the three months ended March 31, 2024, and 2023, the reduction of our investment interest totaled $1,000 and $6,000, respectively.
+
+ 
+
+Impairment
+
+ 
+
+Long-lived and definite lived intangible assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.  If the sum of the expected future undiscounted cash flows from the use of the asset and its eventual disposition is less than the carrying amount of the asset, then an impairment loss is recognized.  The impairment loss is measured based on the fair value of the asset.  Any resulting impairment is recorded as a reduction in the carrying value of the related asset in excess of fair value and a charge to operating results. There were no impairment losses related to intangible assets during the three months ended March 31, 2024 or 2023.
+
+ 
+
+Loss Per Share 
+
+ 
+
+We report basic and diluted loss per share (“LPS”) for common and common share equivalents. Basic LPS is computed by dividing reported losses by the weighted average shares outstanding. Diluted LPS is computed by adding to the weighted average shares the dilutive effect if stock options and warrants were exercised into common stock. For the three months ended March 31, 2024, and 2023, the denominator in the diluted LPS computation is the same as the denominator for basic LPS due to the Company’s net loss which creates an anti-dilutive effect of the warrants and stock options.
+
+ 
+
+Use of Estimates 
+
+ 
+
+The preparation of condensed consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements, and revenues and expenses during the period reported. Actual results could differ from those estimates. Estimates are used when accounting for stock-based transactions, debt transactions, derivative liabilities, allowance for doubtful accounts, asset depreciation and amortization, impairment expense, among others.
+
+ 
+
+The methods, estimates and judgments we use in applying these most critical accounting policies have a significant impact on the results of our condensed consolidated financial statements.
+
+ 
+
+- 10 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+Share-Based Compensation Expense
+
+ 
+
+We recognize compensation expense for stock option awards on a straight-line basis over the applicable service period of the award, which is the vesting period. Fair value is determined on the grant date. Share-based compensation expense is based on the grant date fair value estimated using the Black-Scholes Option Pricing Model.
+
+ 
+
+For stock and stock options issued to consultants and other non-employees for services, the Company measures and records an expense as of the earlier of the date at which either: a commitment for performance by the non-employee has been reached or the non-employee’s performance is complete. The equity instruments are measured at the current fair value, and for stock options, the instruments are measured at fair value using the Black Scholes option model.
+
+ 
+
+The following methodology and assumptions were used to calculate share-based compensation for the three months ended March 31, 2024, and 2023:
+
+ 
+
+                                                                                               2024                            2023 
+
+                                                                           Non Plan       2018 Plan        Non Plan       2018 Plan 
+
+  Risk free interest rate                                                        —%          4.16%          3.48%          3.48%
+
+  Expected volatility                                                            —%            99%           114%           114%
+
+  Expected dividend yield                                                        —              —              —              — 
+
+  Forfeiture rate                                                                —              —              —              — 
+
+  Life in years                                                                  —             10             10             10 
+
+ 
+
+Expected price volatility is the measure by which our stock price is expected to fluctuate during the expected term of an option. The expected volatility is derived from the historical daily change in the market price of our common stock, as we believe that historical volatility is the best indicator of future volatility.
+
+ 
+
+The risk-free interest rate used in the Black-Scholes calculation is based on the prevailing U.S. Treasury yield as determined by the U.S. Federal Reserve. We have never paid any cash dividends on our common stock and do not anticipate paying cash dividends on our common stock in the foreseeable future.
+
+ 
+
+Warrants
+
+ 
+
+Warrants issued with our convertible and non-convertible debt instruments are accounted for under the fair value and relative fair value method. The warrant is first analyzed per its terms as to whether it has derivative features or not. If the warrant is determined to be a derivative and not qualify for equity treatment, then it is measured at fair value using the Black Scholes option model and recorded as a liability on the balance sheet. The warrant is re-measured at its then current fair value at each subsequent reporting date (it is “marked-to-market”). If the warrant is determined to not have derivative features, it is recorded into equity at its fair value using the Black Scholes option model, however, limited to a relative fair value based upon the percentage of its fair value to the total fair value including the fair value of the convertible note. Convertible debt instruments are recorded at fair value, limited to a relative fair value based upon the percentage of its fair value to the total fair value including the fair value of the warrant. The warrant relative fair values are also recorded as a discount to the convertible promissory notes.
+
+ 
+
+- 11 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+Non-Cash Transactions
+
+ 
+
+We determine the value assigned to each intangible we acquire, and/or services or products received for non-cash consideration of our common stock based on the market price of our common stock issued as consideration, at the date of the agreement of each transaction or when the service is rendered or product is received.
+
+ 
+
+Revenue Recognition
+
+ 
+
+We account for revenue in accordance with ASC 606, “Revenue from Contacts with Customers”. The guidance focuses on the core principle for revenue recognition, which is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. To achieve that core principle, the guidance provides that an entity should apply the following steps:
+
+ 
+
+Step 1: Identify the contract(s) with a customer.
+
+ 
+
+Step 2: Identify the performance obligations in the contract.
+
+ 
+
+Step 3: Determine the transaction price.
+
+ 
+
+Step 4: Allocate the transaction price to the performance obligations in the contract.
+
+ 
+
+Step 5: Recognize revenue when (or as) the entity satisfies a performance obligation.
+
+ 
+
+The Company’s products are sold through a contract with the customer and a written purchase order, in which the details of the contract are defined including the transaction price and method of shipment. The only performance obligation is to create and ship the product, and each product has separate pricing. Revenue is recognized at a point in time when the goods are shipped if the agreement is FOB manufacturer, and when goods are delivered if FOB destination. Revenue is recognized with a reduction for sales discounts, as appropriate and negotiated in the customer’s purchase order.
+
+ 
+
+Service contracts are performed through a written contract, which specifies the performance obligations and the rate at which the services will be billed, typically by time and materials. Each service is separately negotiated and priced. Revenue is recognized as services are performed and completed, or, for services related to product installations, at the completion of the installation. A few contracts have called for milestone or fixed cost payments, where we invoice an agreed-to amount per month for the life of the contract. In these instances, completed work, billed hourly, is recognized as revenue. If the billing amount is greater or lesser than the completed work, a receivable or payable is created. These accounts are adjusted upon additional billings as the work is completed. To date, there have been no discounts or other financing terms for the contracts.
+
+ 
+
+The Company has outstanding contract liability obligations of $261,000 and $303,000 as of  March 31, 2024, and December 31, 2023,  respectively.  Revenue from contract liability totaled $42,000 during the three months ended March 31, 2024. The outstanding balance will be recognized as earned per the terms of the contracts. Our Canadian subsidiary had a customer deposit outstanding at March 31, 2024 and December 31, 2023, totaling $110,000 and $113,000, respectively.  These were awarded as part of a grant for a particular project that has been delayed. ONM Environmental had a customer deposit outstanding at  March 31, 2024 and December 31, 2023, totaling $116,000 and $4,000, related to customer purchase orders not yet fulfilled. Revenue from customer deposits totaled $4,000 during the three months ended March 31, 2024.
+
+ 
+
+As we generate revenues from royalties or license fees from our intellectual property, a licensee will pay a license fee in one or more installments and ongoing royalties based on their sales of products incorporating or using our licensed intellectual property. We have entered into a licensing agreement for the CupriDyne Clean product, and we recognize royalty and license fees on a quarterly basis as the product is sold through to third parties and reported to us.
+
+ 
+
+Government Grants
+
+ 
+
+We have been awarded multiple research grants from the private and public Canadian research programs. The income we receive directly from grants is recorded as other income. We have been awarded over 80 grants since our first in 2015. Some of the funds from these grants are given directly to third parties (such as the University of Alberta or a third-party research scientist) to support research on our technology. The grants have terms generally ranging between six and eighteen months and support a majority, but not all, of the related research budget costs. This cooperative research allows us to utilize (i) a depth of resources and talent to accomplish highly skilled work, (ii) financial aid to support research and development costs, (iii) independent and credible validation of our technical claims.
+
+ 
+
+- 12 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+The grants typically provide for (i) recurring monthly amounts, (ii) reimbursement of costs for research talent for which we invoice to request payment, and (iii) ancillary cost reimbursement for research talent travel related costs. All awarded grants have specific requirements on how the money is spent, typically to employ researchers. None of the funds may be used for general administrative expenses or overhead in the United States. These grants have substantially increased our level of research and development activities in Canada. We continue to apply for Canadian government and agency grants to fund research and development activities. Not all of our grant applications have been awarded, and no assurance can be made that any pending grant application, or any future grant applications, will be awarded.
+
+ 
+
+Income Taxes
+
+ 
+
+The asset and liability approach is used to recognize deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the carrying amounts and the tax bases of asset and liabilities. Deferred tax assets and liabilities are determined based on the differences between financial reporting and tax bases of assets and liabilities and are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. The effect on deferred tax asset and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date.
+
+ 
+
+We account for uncertainties in income tax law under a comprehensive model for the financial statement recognition, measurement, presentation, and disclosure of uncertain tax positions taken or expected to be taken in income tax returns as prescribed by GAAP. Under GAAP, the tax effects of a position are recognized only if it is “more-likely-than-not” to be sustained by the taxing authority as of the reporting date. If the tax position is not considered “more-likely-than-not” to be sustained, then no benefits of the position are recognized. Management believes there are no unrecognized tax benefits or uncertain tax positions as of March 31, 2024, and December 31, 2023.
+
+ 
+
+The Company assessed its earnings history, trends and estimates of future earnings and determined that the deferred tax asset could not be realized as of March 31, 2024, and December 31, 2023. Accordingly, a 100% valuation allowance was recorded against the net deferred tax asset.
+
+ 
+
+The Company recognizes interest and penalties on income taxes as a component of income tax expense, should such an expense be realized.
+
+ 
+
+Fair Value of Financial Instruments
+
+ 
+
+Management believes the carrying amounts of the Company’s financial instruments as of March 31, 2024, and December 31, 2023 approximate their respective fair values because of the short-term nature of these instruments. Such instruments consist of cash, accounts receivable, accounts payable, and line of credit. The carrying amount of debt instruments are believed to approximate fair value as the stated interest rates are reflective of the prevailing market rates.
+
+ 
+
+ 
+
+- 13 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+Leases
+
+ 
+
+At inception of a lease contract, we assess whether the contract is, or contains, a lease. Our assessment is based on: (1) whether the contract involves the use of a distinct identified asset, (2) whether we obtain the right to substantially all the economic benefit from the use of the asset throughout the period of the contract, and (3) whether we have the right to direct the use of the asset during such time period. At inception of a lease, we allocate the consideration in the contract to each lease component based on its relative stand-alone price to determine the lease payments. Leases are classified as either finance leases or operating leases. A lease must be classified as a finance lease if any of the following criteria are met: the lease transfers ownership of the asset by the end of the lease term, the lease contains an option to purchase the asset that is reasonably certain to be exercised, the lease term is for a major part of the remaining useful life of the asset or the present value of the lease payments equals or exceeds substantially all of the fair value of the asset. A lease is classified as an operating lease if it does not meet any of these criteria. We have no leases classified as finance leases. For all leases at the lease commencement date, a right-of-use asset and a lease liability are recognized. The right-of-use asset represents the right to use the leased asset for the lease term. The lease liability represents the present value of the lease payments under the lease. The right-of-use asset is initially measured at cost, which primarily comprises the initial amount of the lease liability, plus any initial direct costs incurred, consisting mainly of brokerage commissions, less any lease incentives received. All right-of-use assets are reviewed for impairment. The lease liability is initially measured at the present value of the lease payments, discounted using the interest rate implicit in the lease or, if that rate cannot be readily determined, management estimates the incremental borrowing rate, which currently is estimated to be 18%. Lease payments included in the measurement of the lease liability comprise the following: the fixed noncancelable lease payments, payments for optional renewal periods where it is reasonably certain the renewal period will be exercised, and payments for early termination options unless it is reasonably certain the lease will not be terminated early. Lease components are included in the measurement of the initial lease liability. Additional payments based on a change in our portion of the operating expenses, including real estate taxes and insurance, are recorded as a period expense when incurred. Lease modifications result in remeasurement of the lease liability. Lease expense for operating leases consists of the lease payments plus any initial direct costs, primarily brokerage commissions, and is recognized on a straight-line basis over the lease term. We have elected not to recognize right-of-use assets and lease liabilities for short-term leases that have a term of 12 months or less. The effect of short-term leases on our right-of-use asset and lease liability was not material.  As of  March 31, 2024 and December 31, 2023, the right-of-use assets totaled $1,068,000, and $1,092,000, respectively.  As of  March 31, 2024 and December 31, 2023, the lease liability totaled $1,090,000 and $1,109,000, respectively, on our condensed consolidated balance sheets related to our operating leases.
+
+ 
+
+Property and Equipment
+
+ 
+
+Property and equipment includes machinery and leasehold improvements and is stated at cost less accumulated depreciation. Depreciation is computed using the straight-line method over the estimated useful lives of the assets, which range from 3 - 10 years or the remaining lease term. Newly built leaseholds, additions, renewals, and betterments that significantly extend the life of the asset are capitalized. Expenditures for repairs and maintenance are charged to expense as incurred. For assets sold or otherwise disposed of, the cost and related accumulated depreciation and amortization are removed from the accounts, and any related gain or loss is reflected in income for the period.
+
+ 
+
+Noncontrolling Interest
+
+ 
+
+A noncontrolling interest is defined as the portion of the equity in an entity not attributable, directly or indirectly, to the primary beneficiary. Noncontrolling interests are required to be presented as a separate component of equity on a consolidated balance sheets. Accordingly, the presentation of net income (loss) is modified to present the income (loss) attributed to controlling and non-controlling interests. The noncontrolling interest on the Company’s consolidated balance sheets represents equity not held by the Company. In accordance with ASC 810-10-20, “Noncontrolling Interests” BioLargo consolidates three non-wholly owned subsidiaries - Clyra, BLEST and BETI. Noncontrolling interest of Clyra represents 47% as of  December 31, 2023 and 2022.  Noncontrolling interest of BLEST represents 23% and 18% as of  December 31, 2023, and 2022, respectively.  Noncontrolling interest of BETI represents 4% as of  December 31, 2023.  BETI started operations in 2023.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 14 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+  
+
+Note 3. Sale of Stock for Cash
+
+ 
+
+Lincoln Park Financing
+
+ 
+
+On December 13, 2022, we entered into a stock purchase agreement (the “2022 LPC Purchase Agreement”) with Lincoln Park, pursuant to which Lincoln Park agreed to purchase from us at our request up to an aggregate of $10,000,000 of our common stock (subject to certain limitations) from time to time over a period of three years. The agreement allows us, at our sole discretion, to direct Lincoln Park to purchase shares of our common stock, subject to limitations in both volume and dollar amount. The purchase price of the shares that may be sold to Lincoln Park under the agreement is the lower of (i) the lowest sale price on the date of purchase, or (ii) the average of the three lowest closing prices in the prior 12 business days. There are no restrictions on future financings, rights of first refusal, participation rights, penalties, or liquidated damages other than a prohibition on entering into a “Variable Rate Transaction,” as defined in the agreement. Concurrently with the 2022 LPC Purchase Agreement, we entered into a Registration Rights Agreement, pursuant to which we filed a registration statement on Form S-1 with the SEC on December 23, 2022. This registration statement was declared effective on January 19, 2023.
+
+ 
+
+During the three months ended March 31, 2024 and 2023 we sold 766,175 and 545,402 shares of our common stock to Lincoln Park, and received $260,000 and $105,000, respectively, in gross proceeds.
+
+ 
+
+Unit Offerings
+
+ 
+
+During the three months ended March 31, 2024, we sold 1,394,173 shares of our common stock and received $267,000 gross proceeds and $228,000 net proceeds from five accredited investors. During the three months ended  March 31, 2023, we sold 3,656,000 shares of our common stock and received $695,000 in gross and net proceeds from eleven accredited investors. In addition to the shares, we issued each investor a six-month and a five-year warrant to purchase additional shares. (See Note 6, Warrants issued in Unit Offerings.)
+
+ 
+
+  
+
+Note 4. Debt Obligations
+
+ 
+
+The following table summarizes our debt obligations outstanding as of March 31, 2024, and December 31, 2023 (in thousands). The table does not include debt obligations of our partially owned subsidiary Clyra Medical (see Note 8, “Debt Obligations of Clyra Medical”).
+
+ 
+
+                                                                                                  March 31, 2024    December 31, 2023 
+
+  Current portion of debt:                                                                                                           
+
+  SBA Paycheck Protection Program loan                                                         $              43  $               43 
+
+  Vehicle loan, current portion                                                                               13                  13 
+
+  SBA EIDL Loan, matures July 2053, current portion                                                           10                  10 
+
+  Total current portion of debt                                                                $              66  $               66 
+
+                                                                                                                                     
+
+  Long-term debt:                                                                                                                    
+
+  SBA Paycheck Protection Program loans, matures May 2025                                      $              97  $               97 
+
+  Vehicle loan, matures March 2029                                                                            51                  55 
+
+  SBA EIDL Loan, matures July 2053                                                                           136                 137 
+
+  Total long-term debt, net of current                                                         $             284  $              289 
+
+                                                                                                                                     
+
+  Total                                                                                        $             350  $              355 
+
+ 
+
+For the three months ended March 31, 2024, we recorded $12,000, of interest expense related to the coupon interest from our debt obligations.
+
+ 
+
+For the three months ended March 31, 2023, we recorded $48,000, of interest expense related to the amortization of discounts on convertible notes payable and coupon interest from our debt obligations.
+
+ 
+
+Vehicle loan 
+
+ 
+
+On February 7, 2023, we entered a loan agreement with Bank of America for the purchase of a commercial vehicle used in operations totaling $80,000, at 5.29% annual interest which matures March 7, 2029. The loan agreement requires monthly payments of $1,000.  As of March 31, 2024, the balance of this loan totals $64,000.
+
+ 
+
+SBA Program Loans
+
+ 
+
+On  February 7, 2022, we received notice that the SBA had forgiven $174,000 of the ONM Environmental $217,000 Paycheck Protection Program (PPP) loan. As of March 31, 2024, the outstanding balance on this loan totals $43,000. The partial forgiveness decision has been appealed, and during such time, loan payments are deferred.
+
+ 
+
+On May 12, 2022, we received notice that the SBA had denied the forgiveness application of BLEST’s $97,000 PPP loan. We have appealed that decision. During the period upon which a forgiveness decision is on appeal, loan payments are deferred. The maturity date of the BLEST PPP loan was officially extended on our request to May 2025. 
+
+ 
+
+In July 2020, ONM Environmental received an Economic Injury Disaster Loan from the SBA in the amount of $150,000. The note has a 3.75% annual interest rate, requires monthly payments of $700, and matures July 2053. As of March 31, 2024, the balance of this loan totals $146,000.
+
+- 15 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+ 
+
+  
+
+Note 5. Share-Based Compensation
+
+ 
+
+Issuance of Common Stock in exchange for Services
+
+ 
+
+Payment of Officer Salaries
+
+ 
+
+No shares were issued to officers as payment of salary during the three months ended March, 31, 2024. 
+
+ 
+
+On  March 31, 2023, an officer agreed to convert an aggregate $6,000 of accrued and unpaid salary into 30,747 shares of our common stock at $0.20 per share.
+
+ 
+
+Shares issued to Officers are unvested at the date of grant and subject to a lock-up agreement restricting vesting and sale until the earlier of (i) the consummation of a sale (in a single transaction or in a series of related transactions) of BioLargo by means of a sale of (a) a majority of the then outstanding common stock of BioLargo (whether by merger, consolidation, sale or transfer of common stock, reorganization, recapitalization or otherwise) or (b) all or substantially all of the assets of BioLargo; and (ii) the successful commercialization of BioLargo’s products or technologies as demonstrated by its receipt of at least $3,000,000 in cash, or the recognition of $3,000,000 in revenue, over a 12-month period from the sale of products and/or the license of technology; and (iii) the Company’s breach of the employment agreement between the Company and Officer and resulting in Officer’s termination.
+
+ 
+
+Payment of Consultant and Vendor Fees 
+
+ 
+
+On  March 31, 2024, we issued 250,639 shares of our common stock at $0.35 per share in lieu of $83,000 of accrued and unpaid obligations to consultants and vendors. 
+
+ 
+
+On  March 31, 2023, we issued 899,743 shares of our common stock at $0.20 per share in lieu of $201,000 of accrued and unpaid obligations to consultants and vendors.
+
+ 
+
+All of these offerings and sales were made in reliance on the exemption from registration contained in Section 4(2) of the Securities Exchange Act and/or Regulation D promulgated thereunder as not involving a public offering of securities.
+
+ 
+
+ 
+
+- 16 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+Stock Option Expense
+
+ 
+
+During the three months ended March 31, 2024, we recorded an aggregate $488,000 and $256,000, in selling general and administrative expense related to the issuance of stock options. We issued options through our 2018 Equity Incentive Plan, and outside of this plan. Included in these totals is option expense related to issuances by our subsidiary, Clyra Medical, totaling $59,000 and $61,000 in the three months ended March 31, 2024 and 2023. 
+
+ 
+
+2018 Equity Incentive Plan 
+
+ 
+
+On June 22, 2018, our stockholders adopted the BioLargo 2018 Equity Incentive Plan (“2018 Plan”) as a means of providing our directors, key employees, and consultants additional incentive to provide services. Both stock options and stock grants may be made under this plan for a period of 10 years. It is set to expire on its terms on June 22, 2028. Our Board of Director’s Compensation Committee administers this plan. As plan administrator, the Compensation Committee has sole discretion to set the price of the options. The plan authorizes the following types of awards: (i) incentive and non-qualified stock options, (ii) restricted stock awards, (iii) stock bonus awards, (iv) stock appreciation rights, (v) restricted stock units, and (vi) performance awards. The number of shares available to be issued under the 2018 Plan increases automatically each January 1st by the lesser of (a) 2 million shares, or (b) such number of shares determined by our Board. As of March 31, 2024, 52,000,000 shares are authorized under the plan, and 9,343,614 remain available for grant.
+
+ 
+
+Activity for our stock options under the 2018 Plan during the three months ended March 31, 2024, and 2023, is as follows:
+
+ 
+
+                                                                            Options        Weighted        Weighted      Aggregate 
+
+                                                                        outstanding         average         average      intrinsic
+
+                                                                                          price per       remaining       Value(1)
+
+                                                                                              share            life
+
+  Balance, December 31, 2022                                            28,484,549  $         0.19                                
+
+  Granted                                                                1,320,498            0.20                                
+
+  Balance, March 31, 2023                                               29,805,047            0.19             7.5        678,000 
+
+                                                                                                                                  
+
+  Balance, December 31, 2023                                            41,108,448  $         0.19                                
+
+  Granted                                                                1,547,938  $         0.30                                
+
+  Balance, March 31, 2024                                               42,656,386  $         0.19             7.4  $   5,909,000 
+
+  Unvested                                                              (5,025,052) $         0.20                                
+
+  Vested, March 31, 2024                                                37,631,334  $         0.19             7.4  $   4,455,000 
+
+ 
+
+(1) – Aggregate intrinsic value based on closing common stock price of $0.35 at March 31, 2024.
+
+ 
+
+The options granted to purchase 1,547,938 shares during the three months ended March 31, 2024 with an aggregate fair value of $418,000 were issued to board of directors, employees and consultants: (i) we issued options to purchase 267,746 shares of our common stock to members of our board of directors for services performed, in lieu of cash; the fair value of these options totaled $85,000; (ii) we issued options to purchase 735,351 shares of our common stock to employees as part of employee retention plans; the fair value of employee retention plan options totaled $160,000 and vest over time or based on performance metrics; and (iii) we issued options to purchase 544,841 shares of our common stock to replace expiring options; the fair value of these options totaled $173,000.  All stock option expense is recorded on our consolidated statement of operations as selling, general and administrative expense.
+
+ 
+
+As of March 31, 2024, there remains $5,025,000 of stock option expense to be expensed over the next 4 years.
+
+ 
+
+The options granted to purchase 1,320,498 shares during the three months ended  March 31, 2023 with an aggregate fair value of $248,000 were issued to an officer, board of directors, employees and a consultant:  (i) we issued options to purchase 347,730 shares of our common stock at an exercise price on the respective grant date of $0.20 per share to members of our board of directors for services performed, in lieu of cash; the fair value of these options totaled $65,000; (ii) we issued options to purchase 570,204 shares of our common stock to employees as part of an employee retention plan at an exercise price on the respective date of $0.20 per share; the fair value of employee retention plan options totaled $108,000 and will vest quarterly over four years as long as they are retained as employees; (iii) we issued options to purchase 102,564 shares of our common stock to consultants in lieu of cash for expiring options at $0.20 per share totaling $19,000, and (iv) we issued 300,000 options to our Chief Financial Officer with a fair value of $ 56,000. All stock option expense is recorded on our consolidated statement of operations as selling, general and administrative expense.
+
+ 
+
+- 17 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+2007 Equity Incentive Plan 
+
+ 
+
+On September 7, 2007, and as amended April 29, 2011, the BioLargo, Inc. 2007 Equity Incentive Plan (“2007 Plan”) was adopted as a means of providing our directors, key employees and consultants additional incentive to provide services. Both stock options and stock grants may be made under this plan for a period of 10 years, which expired on September 7, 2017. The Board’s Compensation Committee administers this plan. As plan administrator, the Compensation Committee has sole discretion to set the price of the options. As of September 2017, the Plan was closed to further stock option grants.
+
+ 
+
+Activity for our stock options under the 2007 Plan for the three months ended March 31, 2024 and 2023 is as follows:
+
+ 
+
+ 
+
+                                                                            Options        Weighted        Weighted       Aggregate 
+
+                                                                        Outstanding         average         average       intrinsic
+
+                                                                                          price per       remaining        Value(1)
+
+                                                                                              share            life
+
+  Balance, December 31, 2022                                              1,904,085  $        0.56                                
+
+  Expired                                                                         —              —                                
+
+  Balance, March 31, 2023                                                 1,904,085  $        0.56             1.5 $          — 
+
+                                                                                                                                  
+
+  Balance, December 31, 2023                                              1,564,085  $        0.61                                
+
+  Expired                                                                         —              —                                
+
+  Balance, March 31, 2024                                                 1,564,085  $        0.61             0.9 $          —   
+
+ 
+
+(1) – Aggregate intrinsic value based on closing common stock price of $0.35 at March 31, 2024.
+
+ 
+
+Non-Plan Options 
+
+ 
+
+Activity of our non-plan stock options issued for the three months ended March 31, 2024 and 2023 is as follows:
+
+ 
+
+                                                                            Non-plan        Weighted        Weighted      Aggregate 
+
+                                                                             Options         average         average      intrinsic
+
+                                                                         outstanding       price per       remaining       Value(1)
+
+                                                                                               share            life
+
+  Balance, December 31, 2022                                              19,023,829  $        0.39                                
+
+  Granted                                                                     48,804  $        0.20                                
+
+  Balance, March 31, 2023                                                 19,072,633  $        0.39             4.1  $      88,000 
+
+                                                                                                                                   
+
+  Balance, December 31, 2023                                              17,375,044  $        0.39                                
+
+  Expired                                                                   (275,376) $        0.44                                
+
+  Balance, March 31, 2024                                                 17,099,668  $        0.39             3.1  $     695,000 
+
+  Unvested                                                                (1,056,177) $        0.26                                
+
+  Vested, March 31, 2024                                                  16,043,491  $        0.40             3.1  $     437,000 
+
+ 
+
+(1) – Aggregate intrinsic value based on closing common stock price of $0.35 at March 31, 2024.
+
+ 
+
+- 18 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+During the three months ended March 31, 2024, we did not issue options out of plan.  As of March 31, 2024, there remains $1,056,000 of stock option expense to be expensed over the next four years.
+
+ 
+
+During the three months ended  March 31, 2023, we issued options to purchase an aggregate 48,804 shares of our common stock at $0.20 per share to vendors for fees for services. The fair value of the options issued totaled an aggregate $9,000 and is recorded in our selling, general and administrative expense.
+
+  
+
+Note 6. Warrants
+
+ 
+
+We have certain warrants outstanding to purchase our common stock, at various prices, as described in the following table:
+
+ 
+
+                                                                           Warrants        Weighted         Weighted      Aggregate 
+
+                                                                        outstanding         average          average      intrinsic
+
+                                                                                          price per        remaining       value(1)
+
+                                                                                              share             life
+
+  Balance, December 31, 2022                                            49,023,398  $        0.26                                
+
+  Granted                                                                7,512,000  $        0.25                                
+
+  Expired                                                               (4,684,986) $        0.21                                
+
+  Balance, March 31, 2023                                               51,850,412  $        0.26  $          2.4  $     122,000 
+
+                                                                                                                                 
+
+  Balance, December 31, 2023                                            51,590,300  $        0.27                                
+
+  Granted                                                                3,218,422  $        0.25                                
+
+  Expired                                                                 (406,278) $        0.37                                
+
+  Exercised                                                               (600,000) $        0.25                                
+
+  Balance, March 31, 2024                                               53,802,444  $        0.26  $          2.0  $   4,021,000 
+
+ 
+
+(1) – Aggregate intrinsic value based on closing common stock price of $0.35 at March 31, 2024.
+
+ 
+
+Warrants issued in Unit Offerings
+
+ 
+
+During the three months ended March 31, 2024, we issued six-month stock purchase warrants to purchase an aggregate 1,394,737 shares of our common stock at $0.23 per share, and five-year stock purchase warrants to purchase an aggregate 1,394,737 shares of our common stock at $0.29 per share, in conjunction with the sale of stock to investors in our Unit Offerings (see Note 3). In addition to warrants issued to investors, we issued five-year stock purchase warrants to purchase an aggregate 428,948 shares of our common stock at $0.19 per share as commissions. The relative fair value of the warrant component of the units sold to investors totaled $201,000. The Black-Scholes model was used to calculate relative fair value, further discounted by the beneficial conversion feature and the value of the common stock component.
+
+ 
+
+During the three months ended  March 31, 2023, pursuant to our Unit Offerings (see Note 3), we issued six-month stock purchase warrants to purchase an aggregate 3,656,000 shares of our common stock at $0.23 per share, and five-year stock purchase warrants to purchase an aggregate 3,656,000 shares of our common stock at $0.29 per share. The relative fair value of these warrants totaled $1,097,000.
+
+ 
+
+Warrant issued in conjunction with amendment to note payable
+
+ 
+
+On March 6, 2023, we entered into an agreement with the holder of a $50,000 note (see Note 4, “Convertible note payable, matures March 1, 2023”) to convert that note into common stock of BETI. As payment for interest, a warrant to purchase 200,000 shares of BioLargo common stock at $0.21 was issued to the investor, expiring five years from the grant date. The fair value of this warrant totaled $30,000 and was recorded as interest expense on our condensed consolidated statement of operations.
+
+ 
+
+- 19 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+Warrant Fair Value
+
+ 
+
+We use the Black-Scholes option pricing model to determine the relative fair value of warrants issued in conjunction with debt instruments, common stock, and for services. With respect to debt instruments, relative fair value is amortized over the life of the warrant. The principal assumptions we used in applying the Black-Scholes model were as follows:
+
+ 
+
+                                                                                                            2024                2023 
+
+  Risk free interest rate                                                                           4.04 – 5.28%       3.88 – 4.27%
+
+  Expected volatility                                                                                   64 – 87%           40 – 95%
+
+  Expected dividend yield                                                                                     —                  — 
+
+  Forfeiture rate                                                                                             —                  — 
+
+  Expected life in years                                                                                 .5 – 5             .5 – 5 
+
+ 
+
+The risk-free interest rate is based on U.S. Treasury yields in effect at the time of grant. Expected volatilities are based on historical volatility of our common stock. The expected life in years is based on the contract term of the warrant.
+
+ 
+
+  
+
+Note 7. Accounts Payable and Accrued Expenses 
+
+ 
+
+As of March 31, 2024, accounts payable and accrued expenses included the following (in thousands):
+
+ 
+
+  Category                   BioLargo         ONM        BLEST       Canada        BETI        BEST      Intercompany      Totals 
+
+                                                                                                              amounts
+
+  Accounts payable        $       200  $   1,357  $       62  $       44  $       24  $        —  $           (24) $   1,663 
+
+  Accrued payroll                  13         39          22           —           —           3                —         77 
+
+  Total                                                                                                            $   1,740 
+
+ 
+
+As of December 31, 2023, accounts payable and accrued expenses included the following (in thousands):
+
+ 
+
+  Category                    BioLargo         ONM        BLEST       Canada       BETI        BEST      Intercompany      Totals 
+
+                                                                                                              amounts
+
+  Accounts payable        $       163  $     964  $       34  $       93         40  $        —  $           (82) $   1,212 
+
+  Accrued payroll                  49         86         116           —          —           —                —        251 
+
+  Accrued interest                 25          —           —           —          —           —                —         25 
+
+  Total                                                                                                           $   1,488 
+
+ 
+
+See Note 8, “Accounts Payable and Accrued Expenses”, for the accounts payable and accrued expenses of Clyra Medical.
+
+ 
+
+Amounts owed by ONM Environmental are comprised primarily of amounts owed to suppliers for goods and were not yet required to be paid as of the period end date.
+
+  
+
+Note 8. Noncontrolling Interest – Clyra Medical
+
+ 
+
+As discussed in Note 2 above, we consolidate the operations of our partially owned subsidiary Clyra Medical.
+
+ 
+
+Debt Obligations of Clyra Medical
+
+ 
+
+Promissory Note
+
+ 
+
+On  April 8, 2022, Clyra Medical issued a promissory note in the principal amount of $100,000 to an individual investor, payable  April 8, 2024, and bearing 8% annual interest. The note  may be converted by its holder at any time prior to the maturity date, and automatically converts to stock upon (i) Clyra’s sale of $5,000,000 or more of its common or preferred stock, or (ii) the maturity date, at a conversion price equal to 70% of the lowest price-per-share of shares sold to a future investor prior to the maturity date.  As of March 31, 2024 and  December 31, 2023, the balance outstanding on this note payable totals $100,000. 
+
+ 
+
+- 20 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+Line of Credit
+
+ 
+
+On June 30, 2020, Clyra Medical entered into a Revolving Line of Credit Agreement whereby Vernal Bay Capital Group, LLC committed to provide a $1,000,000 inventory line of credit. Since inception, Clyra Medical received $260,000 in draws and made repayments totaling $126,000. Clyra issued Vernal Bay 32,200 shares of its common stock as a commitment fee for the line of credit, valued at $70,000. A security agreement of the same date grants Vernal Bay a security interest in Clyra’s inventory, as that term is defined in the Uniform Commercial Code. Clyra may prepay the note at any time.
+
+ 
+
+On December 13, 2022, Clyra Medical entered into an amendment of the Revolving Line of Credit Agreement whereby the maturity date of the line of credit was extended to September 30, 2024, and the payment terms were modified such that amounts of principal due in each month are capped at a maximum of 15% of the principal amount then due under the note. Additionally, BioLargo agreed to allow Vernal Bay to elect to convert, any time prior to the note’s maturity date, the 32,200 shares of Clyra common stock it received as consideration for the line of credit into shares of Biolargo common stock at the then market price of BioLargo’s common stock. On January 9, 2023, Vernal Bay elected to convert Clyra shares to 527,983 BioLargo shares of common stock.
+
+ 
+
+As of March 31, 2024 December 31, 2023, the balance outstanding on this line of credit totals $134,000.
+
+ 
+
+Equity Transactions
+
+ 
+
+On  December 15, 2023, Clyra filed a Certificate of Conversion with the Delaware Secretary of State, formally changing its corporate domicile from California to Delaware. In association with the change, for each one share of common stock of the California corporation, 100 shares of the Delaware corporation were issued. All share numbers stated herein, regardless of date, reflect the foregoing 1-for-100 stock split.
+
+ 
+
+During the three months ended March 31, 2024, Clyra issued 27,600 shares of its common stock at $2.71 per share as per a development agreement. The fair value totaled $52,000 and recorded as part of research and development expense on our condensed consolidated statement of operations. Because Clyra is a private company with no secondary market for its common stock, the resulting fair value was discounted by 30%. 
+
+ 
+
+ As of March 31, 2024, Clyra had 10,095,749 shares issued and outstanding, of which 746,418 were Preferred Series A shares.  As of December 31, 2023, Clyra had 10,000,749 shares issued and outstanding, of which 746,418 were Preferred Series A shares. As of March 31, 2024, and December 31, 2023, of the outstanding amount, BioLargo owned 5,322,775 common shares and 165,765 Preferred Series A shares. 
+
+ 
+
+BioLargo Conversion of Intercompany Balances
+
+ 
+
+In July 2023, BioLargo converted $96,000 owed to it by Clyra into 30,833 shares of Clyra Series A preferred shares.  
+
+ 
+
+Sales of Common Stock
+
+ 
+
+During the three months ended March 31, 2024, Clyra sold 95,000 shares of its common stock, and issued warrants to purchase 47,500 shares of its common stock at $7.50 per share, expiring  February 28, 2027, from five accredited investors. In exchange, it received $475,000 in gross proceeds.  
+
+ 
+
+During the three months ended  March 31, 2023, Clyra did not sell shares of its common stock.
+
+ 
+
+Sales of Series A Preferred Stock
+
+ 
+
+The Series A Preferred Stock offering closed in October 2023.  In total, Clyra sold 746,618 shares of its Series A Preferred Stock, and in exchange received $1,800,000 in gross and net proceeds. Purchasers of the Series A Preferred Stock also received a 3-year warrant to purchase the same number of additional shares of common stock for $3.72 per share. The fair value of the warrants issued totaled $524,000. Shares of Series A Preferred Stock earn a dividend of 15% each year, compounding annually; the company is under no obligation to pay such dividends in cash, and such dividends automatically convert to common stock upon conversion of the Series A Preferred Stock to common stock. Each share of Series A Preferred stock can be converted by the holder at any time for one share of common stock, and automatically convert upon the completion of a public offering of shares in which at least $5,000,000 of gross proceeds is received by the company. Accrued dividends  may be converted to common stock at a conversion rate of $3.10 per share.  As of March 31, 2024 and December 31, 2023, the Preferred Series A accrued and unpaid dividend totaled $327,000 and $241,000, respectively.  Each investor also entered into an agreement with BioLargo whereby the investor   may exchange some or all of its Series A Preferred stock, plus accrued dividends, into shares of BioLargo common stock, at a price equal to a 20% discount of the volume weighted average price over the 30 prior trading days. Elections   may made during the period beginning   January 1, 2025, and ending on   June 30, 2026.
+
+ 
+
+- 21 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+Clyra Stock Options
+
+ 
+
+                                                                                Clyra Options          Weighted           Weighted 
+
+                                                                                  Outstanding     average price            average
+
+                                                                                                            per          remaining
+
+                                                                                                          share               life
+
+  Balance, December 31, 2022                                                        1,583,329  $           0.06                     
+
+  Granted                                                                              42,582              1.48                     
+
+  Balance, March 31, 2023                                                           1,625,911  $           0.09                 7.5 
+
+                                                                                                                                    
+
+  Balance, December 31, 2023                                                        1,478,922  $           0.06                     
+
+  Granted                                                                              25,833  $           4.05                     
+
+  Balance, March 31, 2024                                                           1,504,755  $           0.38                 6.8 
+
+  Unvested                                                                            (12,300) $           2.71                     
+
+  Balance, March 31, 2024                                                           1,492,455  $           0.36                 6.8 
+
+ 
+
+Clyra issues options to its employees and consultants in lieu of compensation owed on a regular basis.  The fair value of the options issued totaled $59,000 in the three months ended March 31, 2024, and $61,000 in the three months ended March 31, 2023. The Black-Scholes model is used to calculate the initial fair value, during the three months ended March 31, 2024 and 2023, we used a stock price on the date of grant of $4.50 and $2.71 per share, respectively. Because Clyra is a private company with no secondary market for its common stock, the resulting fair value was discounted by 30%.
+
+ 
+
+ 
+
+                                                                                                  March 31, 2024   December 31, 2023 
+
+  Risk free interest rate                                                                                  4.16%        3.48 - 4.45%
+
+  Expected volatility                                                                                        49%                 49%
+
+  Expected dividend yield                                                                                     —                   — 
+
+  Forfeiture rate                                                                                             —                   — 
+
+  Expected life in years                                                                                     10                  10 
+
+ 
+
+ 
+
+Clyra Warrants
+
+ 
+
+                                                                          Clyra warrants       Weighted average      Weighted average 
+
+                                                                             outstanding              price per             remaining
+
+                                                                                                          share                  life
+
+  Balance, December 31, 2022                                                     207,513   $               3.72                       
+
+  Granted                                                                         72,581   $               3.72                       
+
+  Balance, March 31, 2023                                                        280,094   $               3.72                   3.5
+
+                                                                                                                                      
+
+  Balance, December 31, 2023                                                     749,911   $               3.74                       
+
+  Granted                                                                         47,500   $               7.50                       
+
+  Balance, March 31, 2024                                                        797,411   $               3.96                   2.7 
+
+ 
+
+As part of the Clyra unit offering, it issued three-year warrants to purchase 47,500 shares of Clyra common stock at an exercise price of $7.50 per share.  The fair value of these warrants issued totaled $57,000 and is limited to a relative fair value based upon the percentage of its fair value to the total fair value including the fair value of the Clyra stock.
+
+ 
+
+Accounts Payable and Accrued Expenses
+
+ 
+
+At March 31, 2024, and December 31, 2023, Clyra had the following accounts payable and accrued expenses (in thousands):
+
+ 
+
+  Category                                                                                                   2024               2023 
+
+  Accounts payable                                                                              $             417  $             135 
+
+  Accrued dividend                                                                                            328  $             242 
+
+  Accrued payroll                                                                                              12                  7 
+
+  Accrued interest                                                                                             15                 13 
+
+  Total                                                                                         $             772  $             397 
+
+ 
+
+- 22 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+  
+
+Note 9. BioLargo Engineering, Science and Technologies, LLC
+
+ 
+
+In  September 2017, we commenced a full-service environmental engineering firm and formed a Tennessee entity named BioLargo Engineering, Science & Technologies, LLC (“BLEST”). In conjunction with the start of this subsidiary, we entered into a three-year office lease in the Knoxville, Tennessee area, and entered into employment agreements with six scientists and engineers. BLEST was capitalized with two classes of membership units: Class A, 100% owned by BioLargo, and Class B, held by management of BLEST, and which initially had no “profit interest,” as that term is defined in Tennessee law. Class B members were also granted options to purchase up to an aggregate 1,750,000 shares of BioLargo common stock. The profit interest and option shares are subject to a five year vesting schedule tied to the performance of the subsidiary. As of December 31, 2023 and March 31, 2024, Class B members have earned 22.5% profit interest. 
+
+ 
+
+  
+
+Note 10. BioLargo Energy Technologies, Inc.
+
+ 
+
+BioLargo Energy Technologies, Inc. (“BETI”) was formed for the purpose of commercializing a proprietary sodium battery technology. BioLargo purchased 9,000,000 shares of its common stock upon its formation, and was its sole stockholder.
+
+ 
+
+During the three months ended March 31, 2024, BETI sold 20,000 shares of its common stock at $2.50 per share to one accredited investor and received $50,000 in gross proceeds. During the three months ended March 31, 2023, BETI sold 325,000 shares of its common stock at $2.00 per share to six accredited investors. Of that amount, BioLargo purchased 50,000 shares for $100,000, and one investor converted a $50,000 note owed by BioLargo into 25,000 shares. Proceeds from third parties totaled $550,000.
+
+ 
+
+As of March 31, 2024, BETI had 9,467,000 issued and outstanding shares, of which BioLargo holds 9,050,000.
+
+ 
+
+- 23 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+ 
+
+  
+
+Note 11. Business Segment Information
+
+ 
+
+BioLargo has six operating business segments, plus its corporate entity which is responsible for general corporate operations, including administrative functions, finance, human resources, marketing, legal, etc. The operational business segments are:
+
+ 
+
+                1.   ONM Environmental -- which sells odor and volatile organic control products and services, located in Westminster,
+
+                      California;
+
+
+
+                2.   Clyra Medical Technologies (“Clyra Medical”) -- which develops and sells medical products based on our
+
+                      technologies, located in Tampa,
+
+                      Florida;
+
+
+
+                3.   BioLargo Engineering (BLEST) -- which provides professional engineering services on a time and materials basis
+
+                      for outside clients and supports our internal operations as needed, located in Oak Ridge,
+
+                      Tennessee;
+
+
+
+                4.   BioLargo Canada, Inc. (“Canada”) – the main hub of our scientists researching and developing our technologies,
+
+                      operating out of the University of Alberta, Edmonton, Canada;
+
+                      and
+
+
+
+                5.   BioLargo Energy Technologies, Inc. (“BETI”) – which is developing our proprietary battery technology.
+
+
+
+                6.   BioLargo Equipment Solutions & Technologies, Inc. (“BEST”) – which manages the sales and distribution of our
+
+                      water treatment products and related
+
+                      services.
+
+ 
+
+Other than ONM Environmental, none of our operating business units have operated at a profit, and therefore each required additional cash to meet its monthly expenses, funded through BioLargo’s sales of debt or equity, research grants, and tax credits. BETI and Clyra Medical have also been funded by third party investors who invest directly in exchange for equity ownership in that entity.
+
+ 
+
+The segment information for the three months ended March 31, 2024, and 2023, is as follows (in thousands):
+
+ 
+
+                                                                                                         Three Months Ended March 31, 
+
+                                                                                                             2024               2023 
+
+  Revenue                                                                                                                            
+
+  ONM Environmental                                                                             $           4,575  $           3,543 
+
+  BLEST                                                                                                       356                363 
+
+  Clyra Medical                                                                                                 —                  6 
+
+  Intersegment revenue                                                                                       (171)              (170)
+
+  Total                                                                                         $           4,760  $           3,742 
+
+                                                                                                                                     
+
+  Stock option expense                                                                                                               
+
+  BioLargo corporate                                                                            $            (429) $            (195)
+
+  Clyra Medical                                                                                               (59)               (61)
+
+  Total                                                                                         $            (488) $            (256)
+
+                                                                                                                                     
+
+  Depreciation expense                                                                                                               
+
+  BioLargo corporate                                                                            $             (10) $              (6)
+
+  ONM Environmental                                                                                            (5)                (4)
+
+  BLEST                                                                                                       (19)                (2)
+
+  Clyra Medical                                                                                                (2)               (10)
+
+  Total                                                                                         $             (36) $             (22)
+
+                                                                                                                                     
+
+  Research and development expense                                                                                                   
+
+  BioLargo corporate                                                                            $            (314) $            (189)
+
+  ONM Environmental                                                                                             —                  — 
+
+  BLEST                                                                                                      (352)              (245)
+
+  BETI                                                                                                        (80)               (32)
+
+  BioLargo Canada                                                                                             (80)              (135)
+
+  Clyra Medical                                                                                              (121)              (134)
+
+  Intersegment R&D                                                                                            163                170 
+
+  Total                                                                                         $            (784) $            (565)
+
+                                                                                                                                     
+
+  Operating income (loss)                                                                                                            
+
+  BioLargo corporate                                                                            $          (1,244) $            (799)
+
+  ONM Environmental                                                                                         1,798              1,387 
+
+  BLEST                                                                                                      (445)              (368)
+
+  BETI                                                                                                       (155)               (87)
+
+  BEST                                                                                                        (66)                 — 
+
+  BioLargo Canada                                                                                            (105)              (184)
+
+  Clyra Medical                                                                                              (546)              (426)
+
+  Total                                                                                         $            (763) $            (477)
+
+                                                                                                                                     
+
+  Interest expense                                                                                                                   
+
+  BioLargo corporate                                                                            $              (3) $             (36)
+
+  ONM Environmental                                                                                            (2)                (2)
+
+  Clyra Medical                                                                                                (7)               (10)
+
+  Total                                                                                         $             (12) $             (48)
+
+ 
+
+- 24 - 
+
+
+
+Table of Contents 
+
+BIOLARGO, INC. AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(UNAUDITED) 
+
+  
+
+  As of March 31, 2024      BioLargo        ONM      BLEST       CLYRA       BETI       BEST      Canada    Elimination      Total 
+
+  Tangible assets        $     1,079  $  5,870  $    734  $     949  $      65  $       —  $      38  $           —  $  8,735 
+
+  Right of use                   380         —       688          —          —          —          —              —     1,068 
+
+   operating
+
+   lease
+
+  Investment in South             18         —         —          —          —          —          —              —        18 
+
+   Korean joint
+
+   venture
+
+  Total                  $     1,477  $  5,870  $  1,422  $     949  $      65  $       —  $      38  $           —  $  9,821 
+
+ 
+
+  As of December 31,        BioLargo        ONM      BLEST       CLYRA       BETI       BEST      Canada    Elimination      Total 
+
+   2023
+
+  Tangible assets        $       942  $  4,624  $  1,083  $     432  $       4  $       —  $      50  $         (41) $  7,094 
+
+  Right of use                   394         —       698          —          —          —          —              —     1,092 
+
+   operating
+
+   lease
+
+  Investment in South             19         —         —          —          —          —          —              —        19 
+
+   Korean joint
+
+   venture
+
+  Total                  $     1,355  $  4,624  $  1,781  $     432  $       4  $       —  $      50  $         (41) $  8,205 
+
+ 
+
+  
+
+Note 12. Leases
+
+ 
+
+Office Leases
+
+ 
+
+We have long-term operating leases for office, industrial and laboratory space in Westminster, California, Oak Ridge, Tennessee, and Alberta, Canada. Payments made under operating leases are charged to the Consolidated Statement of Operations and Comprehensive Loss on a straight-line basis over the term of the operating lease agreement. Short-term leases less than one-year are not included in our analysis. For the three months ended March 31, 2024, rental expense was $88,000; for the three months ended March 31, 2023, rental expense was $83,000.  The lease of our Westminster facility expires  August 2024. Management intends to extend this lease for four years. The four-year lease extension added $394,000 to our right of use and lease liability as of  December 31, 2023.  The lease of our Canadian facility is less than one year. None of our leases have additional terms related to the payments or mechanics of the lease. The leases have no additional payment terms such as common area maintenance payments, tax sharing payments or other allocable expenses. Likewise, the leases do not contain other terms and conditions of use, such as variable lease payments, residual value guaranties or other restrictive financial terms. Since there is no explicit interest rate in our leases, management used its incremental borrowing rate, which is estimated to be 18% to determine lease liability.  As of March 31, 2024, the weighted average remaining lease term for our operating leases was seven years.
+
+ 
+
+As of December 31, 2023, our weighted average remaining lease term is seven years and the total remaining operating lease payments is $2,042,000. Our minimum lease payments over the next five years are as follows:
+
+ 
+
+                                                                BioLargo                                                     
+
+                      Year ending                              Corp / ONM                BLEST                 Total         
+
+December 31, 2024                                                        122,000               154,000               276,000 
+
+December 31, 2025                                                        125,000               157,000               282,000 
+
+December 31, 2026                                                        129,000               160,000               289,000 
+
+December 31, 2027                                                        133,000               163,000               296,000 
+
+December 31, 2028                                                         79,000               166,000               245,000 
+
+Thereafter                                                  —                                  654,000               654,000 
+
+Total minimum lease payments                               $             588,000   $         1,454,000   $         2,042,000 
+
+Less imputed interest                                                                                               (933,000)
+
+Total operating lease liability                                                                          $         1,109,000 
+
+ 
+
+  
+
+Note 13. Subsequent Events
+
+ 
+
+Sale of Stock for Cash
+
+ 
+
+From  April 1, 2024, through  May 13, 2024, we sold 454,547 shares of our common stock and received $150,000 from two accredited investors. In addition to the shares, we issued each investor a six-month and a five-year warrant to purchase additional shares. (See Note 3 "Unit Offerings" and Note 6 “Warrants Issued in Unit Offering”.) 
+
+ 
+
+Exercise of Stock Options and Warrants 
+
+ 
+
+From  April 1, 2024, through  May 13, 2024, we issued 194,818 shares of our common stock pursuant to the exercise of stock options.
+
+ 
+
+From  April 1, 2024, through  May 13, 2024, we issued 10,000 shares of our common stock pursuant to the exercise of warrants.
+
+ 
+
+Exchange of BETI common stock
+
+ 
+
+Each third party that purchased BETI common stock entered into a Share Exchange Agreement with BioLargo at the time of investment whereby the BETI Stockholder could exchange its shares of BETI common stock into BioLargo common stock. Subsequent to April 1, 2024, a BETI stockholder elected to exchange 20,000 shares of BETI common stock into 378,788 shares of BioLargo common stock pursuant to such agreement.
+
+  
+
+ 
+
+- 25 - 
+
+
+
+Table of Contents 
+
+ 
+
+  
+
+Item 2.              Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+ 
+
+This quarterly report on Form 10-Q contains forward-looking statements. These forward-looking statements involve risks and uncertainties, including statements regarding BioLargo’s capital needs, business plans and expectations. Such forward-looking statements involve risks and uncertainties regarding BioLargo’s ability to carry out its planned development and production of products. Forward-looking statements are made, without limitation, in relation to BioLargo’s operating plans, BioLargo’s liquidity and financial condition, availability of funds, operating and exploration costs and the market in which BioLargo competes. Any statements contained herein that are not statements of historical facts may be deemed to be forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “may”, “will”, “should”, “expect”, “plan”, “intend”, “anticipate”, “believe”, “estimate”, “predict”, “potential” or “continue”, the negative of such terms or other comparable terminology. Actual events or results may differ materially. In evaluating these statements, you should consider various factors, including the risks outlined in our Form most recent annual report on Form 10-K, and, from time to time, in other reports BioLargo files with the SEC. These factors may cause BioLargo’s actual results to differ materially from any forward-looking statement. BioLargo disclaims any obligation to publicly update these statements, or disclose any difference between its actual results and those reflected in these statements. The information constitutes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Given these uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+
+ 
+
+Unless otherwise expressly stated herein, all statements, including forward-looking statements, set forth in this Form 10-Q are as of March 31, 2024, unless expressly stated otherwise, and we undertake no duty to update this information.
+
+ 
+
+When we refer in this report to “BioLargo,” the “Company,” “our Company,” “we,” “us” and “our,” we mean BioLargo, Inc., and our subsidiaries, including BioLargo Life Technologies, Inc., which holds our intellectual property; ONM Environmental, Inc., which manufactures, markets, sells and distributes our odor and volatile organic compound ("VOC") control products; BioLargo Energy Technologies, Inc. (“BETI”), formed to commercialize our proprietary battery technology; BioLargo Canada, Inc., our primary research and development team operating in Edmonton, Alberta Canada; BioLargo Engineering, Science & Technologies, LLC (“BLEST”), a professional engineering services division in Oak Ridge Tennessee; BioLargo Equipment Solutions & Technologies, Inc., which sells our water treatment products; BioLargo Development Corp., which employs and provides benefits to our employees; and Clyra Medical Technologies, Inc. (“Clyra Medical”), which commercializes our technologies in the medical and dental fields. All subsidiaries are wholly owned, except for BETI, BLEST and Clyra Medical.
+
+ 
+
+The following discussion and analysis should be read in conjunction with our unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this report.
+
+ 
+
+ 
+
+- 26 - 
+
+
+
+Table of Contents
+
+ 
+
+DESCRIPTION OF BUSINESS
+
+ 
+
+Our Business - Innovator and Solution Provider
+
+ 
+
+BioLargo is in the business of creating new cleantech technologies to solve tough, globally relevant problems. We invent, develop, then commercialize disruptive technologies to tackle challenges in air quality, water, environmental engineering, battery energy storage, and advanced antimicrobial medical device platforms. Our model is to invent new technologies that solve specific problems, develop them and prove they work, and then commercialize them with purpose-suited subsidiaries, identify and secure the right partnerships to increase their commercial reach, or potentially sell the intellectual property.
+
+ 
+
+Why do we do this work? Every member of our team – including PhD scientists, engineers, and entrepreneurs – has a passion for seeking new, never-before-seen innovations that can make life better around the world. We care about safeguarding the environment and human health for future generations. We care about making technologies that are affordable and flexible enough to be accessed around the world. And we care about being the best at what we do – creating best-in-class technologies to solve big, tough cleantech challenges.
+
+ 
+
+Some of our areas of focus include environmental problems like PFAS contamination, water pollution by pharmaceuticals and micropollutants, air pollution by VOCs, hard-to-treat odors from landfills and sewage plants, infection and wound healing and the creation of energy storage systems that are more affordable, efficient, safer and environmentally friendly.
+
+ 
+
+Below you’ll read about the cleantech ventures and projects we are focused on commercialization today. Behind those, however, is a pipeline of other cleantech innovations in various stages of development associated with our expansive array of issued and pending patents, and that have been funded in part by over 90 government grants.
+
+ 
+
+We operate our business in distinct business segments:
+
+ 
+
+     ●    Odor and VOC control products, including consumer products, such as the Pooph-branded pet-odor control product, and our
+
+           flagship industrial odor control product, CupriDyne Clean Industrial Odor Eliminator, sold by our subsidiary ONM
+
+           Environmental,
+
+           Inc.;
+
+ 
+
+     ●    Water treatment equipment and solutions, including our PFAS removal system the Aqueous Electrostatic Concentrator (AEC),
+
+           our water reuse and recycling technology co-developed with Garratt-Callahan called AROS, and our micro-pollutant treatment
+
+           and energy-efficient disinfection solution, the AOS, all sold by our subsidiary BioLargo Equipment Solutions &
+
+           Technologies,
+
+           Inc.;
+
+ 
+
+     ●    Battery energy storage system solutions being developed by our partially owned (95.4%) subsidiary BioLargo Energy
+
+           Technologies,
+
+           Inc.;
+
+ 
+
+     ●    Medical products based on our technologies, including the FDA-cleared Bioclynse surgical wound irrigation solution sold by
+
+           our partially owned (53%) subsidiary Clyra Medical Technologies,
+
+           Inc.;
+
+ 
+
+     ●    Our professional engineering services division, which, in addition to serving outside clients on a fee for service basis,
+
+           supports our internal business units, through our partially owned (78%) subsidiary BioLargo Engineering, Science &
+
+           Technologies, LLC
+
+           ("BLEST");
+
+ 
+
+     ●    Our research and support personnel, through our wholly-owned subsidiary BioLargo Canada, Inc., located on campus at the
+
+           University of Alberta, Edmonton,
+
+           Canada.
+
+ 
+
+- 27 - 
+
+
+
+Table of Contents
+
+ 
+
+Odor Control (Consumer and Industrial)
+
+ 
+
+ONM Environmental, Inc. is BioLargo’s wholly-owned subsidiary that delivers robust and comprehensive products and services to control and mitigate odor and VOCs for both industrial and consumer applications.
+
+ 
+
+Its flagship product – CupriDyne Clean – is applied to odor-emitting masses such as landfills and composting facilities by misting systems, sprayers, water trucks and similar water delivery systems designed, manufactured and installed by ONM. It is also sold to third parties under private label brands, including for consumer brands such as the “Pooph pet odor eliminator".
+
+ 
+
+Pooph - Consumer Private-Label Products 
+
+ 
+
+We sell privately labeled products based on our technologies to third parties who market and sell the products under their own brand names. The most successful thus far is the Pooph branded pet odor control product sold by third party Pooph Inc, directly to consumers and to national retailers including Walmart, Amazon, Home Depot, Ace Hardware, Chewy.com and others. In addition to purchasing product from us at an agreed-upon manufacturing margin, Pooph Inc. pays us six percent royalty on their sales in exchange for exclusive rights to our technology for pet odors. During the year ended December 31, 2023, revenues from sales to Pooph comprised 82% of our company-wide revenue.
+
+ 
+
+The success of Pooph is an example of our goal to develop distribution channels that do not rely on our in-house sales and distribution infrastructure. We continue to explore potential partnerships and products along these lines with other parties, and to support existing private label products.
+
+ 
+
+Industrial Odor and VOC Solutions
+
+ 
+
+We believe CupriDyne Clean is the number-one performing industrial odor-control product in the market, and that it offers substantial savings to our customers compared with competing products. We have been and expect to continue selling product to municipalities and some of the largest solid waste handling companies in the country, with a portion of chemistry product sales resulting from national purchasing agreements (NPAs). ONM Environmental continues to focus on securing more contracts with existing customers and developing business with new customers. ONM Environmental holds General Engineering, Electrical, Plumbing and Low Voltage contractor licenses issued by the California Contractors State License Board, and offers a menu of services to landfills, transfer stations, wastewater treatment facilities as well as facilities in non-waste related industries. These services include engineering design, construction, installation, ongoing maintenance and on-site support services to assist our clients in the implementation and continued use of the various systems that deliver our liquid products in the field (such as misting systems).
+
+ 
+
+South Korean Joint Venture
+
+ 
+
+Prior to the Covid-19 pandemic, we partnered with a leading wastewater treatment solution provider based in South Korea in a joint venture to commercialize our CupriDyne Clean products in South Korea. We own 40% of the joint venture. Although the joint venture established manufacturing and is marketing the product, the pandemic significantly impacted the expected growth of the company. While the local management team continues to market the product to industrial clients, their efforts have struggled to gain a foothold. We are not obligated to contribute additional funds to the venture, and cannot predict its future success. 
+
+ 
+
+- 28 - 
+
+
+
+Table of Contents
+
+ 
+
+BioLargo Equipment Solutions & Technologies – Innovative Water Treatment Solutions
+
+ 
+
+Over the years, we have developed multiple innovative technologies and equipment platforms that focus on challenging issues in the water treatment industry, including the AOS technology (developed to remove micro-pollutants), the AEC (developed to remove PFAS from water), and the AROS water reuse technology (co-developed with Garratt-Callahan), for applications to recycle cooling tower water (such as those used in data centers). As a result of increase in interest from potential customers for our PFAS solutions, we believe we will be better able to serve this market with a uniform identity and operating unit called BioLargo Equipment Solutions & Technologies, Inc. (“BEST”), which will manage the sales and distribution of our water treatment products and related services. As we transition this venture from incubation to commercialization, we are focusing staff and resources we believe necessary for success. 
+
+ 
+
+In February, 2024, three respected and experienced veterans of the water industry joined BEST’s board of directors to assist the company in its efforts to commercialize its innovative water treatment technologies. These are: 1) Jeffrey Kightlinger, former CEO of the Metropolitan Water District of Southern California, 2) Sally Gutierrez, retired career senior executive from the US Environmental Protection Agency, and 3) Larry Dick, former Vice Chairman of the Metropolitan Water District of Southern California and board member of the Municipal Water District of Orange County. Each brings their significant and distinctive experience from decades in the water industry to BEST’s board to help the company create the necessary regulatory and industry connections that will be critical for its efforts to secure larger and more high-profile projects for its PFAS treatment and other water treatment technologies.
+
+ 
+
+Securing sales in the water and wastewater industry is a very technically intensive process, and can be long and arduous. The entirety of the sales cycle can be lengthy, in some cases even taking many months or in very large projects, multiple years. The process is also very engineering-intensive, and therefore the staff required to secure contracts for water treatment projects need to be engineers, in most cases. In our company, BLEST’s engineers fill this role.
+
+ 
+
+Having secured its first contract to install an AEC system to remove PFAS from drinking water, BLEST has been actively in scoping and bidding water treatment projects for over a year and as a result has developed a substantial pipeline of potential projects in which customers indicate a high level of interest. In addition, BLEST regularly receives inquiries for new projects in development through the company’s network of manufacturer’s sales representatives. It is important to note that additional staffing is needed to meet what we believe is, and will continue to be a rapidly escalating level of customer interest in our solutions. Although BEST is primarily focused on AEC, AROS and AOS, discussed below, it offers comprehensive water treatment solutions, related equipment, and services, some of which may be manufactured by third parties and sold by BEST as an authorized distributor. The AEC, AROS and AOS are discussed in the following sections.
+
+ 
+
+AEC, a solution for the PFAS “forever-chemicals” crisis
+
+ 
+
+One of the most significant and timely innovations in our portfolio is our per- and polyfluoroalkyl substance (PFAS) removal and collection/disposal solution we call the Aqueous Electrostatic Concentrator (AEC), a novel water treatment system that removes PFAS from water at a lower operating cost while generating only a fraction of the PFAS-laden waste of the most common currently used solutions (carbon filtration, ion exchange, and reverse osmosis). According to the Center for Disease Control, PFAS are a group of chemicals used to make fluoropolymer coatings and products that resist heat, oil, stains, grease, and water. Fluoropolymer coatings can be in a variety of products. These include clothing, furniture, adhesives, food packaging, heat-resistant non-stick cooking surfaces, and the insulation of electrical wire. PFAS are a concern because they do not break down in the environment, can move through soils and contaminate drinking water sources, and build up (bioaccumulate) in fish and wildlife. PFAS chemicals have been linked to cancer, immune disorders, liver dysfunction, and many other human health problems, and are contained in a vast range of manufactured goods, common household products (e.g., cleaning products, cookware), and electronics, and contaminate drinking water in unsafe levels all over the globe. Detection of unsafe levels of PFAS around the world has given rise to a number of market opportunities for treatment and remediation technologies, including in drinking water, industrial wastewater, municipal wastewater, solid waste, organic foods and more.
+
+ 
+
+On April 10, 2024, the EPA announced the final National Primary Drinking Water Regulation (NPDWR) setting maximum contaminant levels for six PFAS chemicals as low as four parts per trillion in drinking water – a standard our AEC has been shown to meet in pilot studies. We anticipate that these new regulations will increase demand in the United States for PFAS water treatment equipment and services.
+
+ 
+
+On April 19, 2024, the EPA announced it had finalized new regulations that treat two PFAS chemicals – PFOS and PFOA – as hazardous substances under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), also known as the Superfund law. The new rules allow the EPA to hold polluters financial responsible for contaminated sites, and will also lead to these PFAS chemicals being listed as “hazardous materials” under the Hazardous Materials Transportation Act, which will require materials containing these chemicals to be transported using special protocols. Although final rules have not been issued, in February 2024 the EPA proposed changes to the Resource Conservation and Recovery Act regulations by adding nine PFAS chemical compounds to its list of hazardous constituents in Title 40 of the Code of Federal Regulations Part 261 Appendix VIII. Combined with the new CERCLA regulations, a final RCRA regulation of PFAS may increase the costs of the handling, transport, and disposal of PFAS-containing materials including water treatment waste.
+
+ 
+
+We have successfully validated the AEC as an effective system to selectively extract and collect PFAS chemicals from contaminated water, including performance testing that shows “non-detect” levels of removal, which meets new EPA standards. We have demonstrated more than 10,000 hours of continuous operation showing no materially significant degradation of the AEC system’s components or performance over time. As a modular system, we believe the AEC is scalable to small portable commercial units as well as very large commercial operations, and we believe that our engineering team has the experience to deliver systems to meet the needs of any sized commercial installation. In order to provide a full turn-key solution for our customers, we have developed an expanded offering whereby we can bundle a service package with each customer project that includes a membrane exchange program, the collection of PFAS, and transport and destruction of the PFAS.
+
+ 
+
+Our strategy to market our PFAS treatment technology and related engineering services is as follows: 1) focus on demonstrating our technology’s efficacy in first demonstration projects, trials, and early customer deployments with the understanding that this early success can be leveraged to secure larger and more numerous subsequent projects, 2) market our PFAS expertise and our technology by presenting at industry events and conferences around the country, cultivating our status as “thought leaders” in the space, 3) use our network of manufacturer’s representatives and channel selling partners to maximize the number of potential opportunities with early adopters, and 4) engage in discussions with credible distribution partners at established water treatment technology companies.
+
+ 
+
+The AEC’s commercial roll-out is being executed with the help of a network of sales representative organizations whose role will be to market and sell the treatment system, related equipment, and the Company’s engineering services to municipal and industrial customers across the country. We have secured channel partner agreements with several sales representative organizations ensuring coverage for most of the continental United States. We have one PFAS project ongoing, in New Jersey, and expect our equipment to be installed and operational before the end of the year. We believe this project represents a key milestone for the commercialization of the AEC, as industry validation of the technology in a first municipal drinking water treatment project will play an important role in convincing additional municipalities to adopt the technology for treating PFAS-contaminated water, as the company will publish reference customer data from the project that highlights the AEC’s distinct advantages over incumbent technologies like carbon filtration and ion exchange.
+
+ 
+
+- 29 - 
+
+
+
+Table of Contents
+
+ 
+
+We are currently bidding on and/or in negotiations with multiple prospective industrial and municipal customers to treat PFAS contaminated water. These opportunities include small to medium sized municipalities, waste facilities, Air Force bases, remediation sites, and industrial sites, and we are waiting for our customers to finalize budgets and agreements with us. Currently, our bottleneck for processing additional expanding opportunities for PFAS treatment projects is staffing, and therefore we are currently working to hire additional qualified sales engineers to assist in bidding and specification efforts for new projects.
+
+ 
+
+AROS Minimal Liquid Discharge Water Treatment
+
+ 
+
+In partnership with Garratt-Callahan, one of the country’s oldest and largest privately held water treatment companies, our engineers developed a “minimal liquid discharge” wastewater treatment system called the Aqueous Reuse Optimization System (AROS) that minimizes industrial wastewater discharges and thus the regulatory fees associated with wastewater discharge, including for uses like cooling towers at data centers. Garratt-Callahan, who invented and patented the technology, is currently marketing the AROS system to its existing customer base and to new prospective customers. BLEST will serve as the manufacturing partner and Garratt-Callahan will serve as the selling distributor to leverage their national sales force and over one hundred years of providing services and products to customers.
+
+ 
+
+Presently, both BioLargo and Garratt-Callahan are engaged in discussions with multiple potential first customers for the AROS system.
+
+ 
+
+Advanced Oxidation System (AOS)
+
+ 
+
+The Advanced Oxidation water treatment system (AOS) is our patented water treatment device that generates highly oxidative and energetic species of iodine and other molecules which allow it to eliminate pathogenic organisms and organic contaminants rapidly and effectively as water passes through the device. The key value proposition of the AOS is its ability to reduce or eliminate a wide variety of waterborne contaminants with high performance, including the normally hard-to-treat class of recalcitrant water contaminants called “micropollutants”, while using very little electricity and input chemicals.
+
+ 
+
+Our proof-of-concept studies and on-site pilot projects have generated results that project the AOS will be more cost- and energy-efficient than commonly used advanced water treatment technologies such as UV, electro-chlorination, and ozonation. Furthermore, our technology has been proven capable of removing hard-to-treat organic micropollutants such as pharmaceuticals from water more quickly and energy-efficiently than other technologies. Together, these characteristics make the AOS an economical and versatile tool to enable wastewater treatment and reuse in the face of emerging water contaminants and increasing regulatory scrutiny on industrial wastewater discharge.
+
+ 
+
+The AOS has, broadly speaking, two target applications: 1) treatment of municipal or industrial wastewater to eliminate bacteria, viruses, other organisms, and regulated organic contaminants, while using less electrical energy than other technologies, and 2) treatment of water or wastewater specifically to eliminate micropollutants/pharmaceuticals, at which the AOS particularly excels at compared to existing technologies. Our work to have the AOS adopted in the US and Canada for application 1) has been met with resistance because existing technologies, while less energy efficient than our technology, are effective enough against target contaminants, and our “value-add” of also eliminating hard-to-treat micropollutants isn’t relevant unless regulations dictate that those chemicals must be removed. Similarly, application 2) is only relevant in jurisdictions where those hard-to-treat micropollutants are regulated. Unfortunately, this does not include the US or Canada, but it does include several European countries. For that reason, presently, much of our business development efforts to secure projects for the AOS focus on development of partnerships to demonstrate the AOS for the European micropollutant market.
+
+ 
+
+The AOS has been and will continue to be included as a component of treatment trains (comprehensive systems) we scope for other projects. In addition, it is included in the catalog of offerings being sold through our independent representatives as well as channel partners. BEST will continue to attempt to cultivate sales channels in Canada, Europe and South America, where there has been more interest.  
+
+ 
+
+- 30 - 
+
+
+
+Table of Contents
+
+ 
+
+BioLargo Energy Technologies, Inc.
+
+ 
+
+Our subsidiary BioLargo Energy Technologies, Inc. (“BETI”) was started to capitalize on the ongoing shift toward renewable energy production and the growth in global electricity demand, and the consequent expansion in energy storage capacity in the U.S. and world-wide that will be needed to accommodate increased demand and the intermittent nature of renewable energy sources like wind and solar. The growth in AI (Artificial Intelligence) based computing is increasing demand for expanded data centers and in turn increasing energy demand. We believe there is a market opportunity for alternatives to lithium-based long-duration battery energy solutions. Since its inception, BETI has sold $1,005,000 of its common stock to third parties. As of May 13, 2024, BioLargo owns 95.4%. 
+
+ 
+
+BETI has constructed a pilot-scale battery production facility in our Oak Ridge Tennessee engineering headquarters, and is currently attempting to manufacture prototype batteries for testing to confirm energy efficiency, useful life expectancy, energy density, safety profile, number of charge/discharge cycles, and other technical claims that we believe will differentiate the battery from incumbent technologies. Once prototype batteries are built and tested, and assuming such tests show the batteries have the characteristics we expect would differentiate it from other battery technologies, we will complete the design on a larger sized battery cell that would then be incorporated into‐ battery packs and battery sizes meant for industrial facilities. Once designed, our engineers will work to develop manufacturing processes that would allow scale production to ensure costs of goods in line with market demand and conditions.
+
+ 
+
+Batteries built based on the underlying technology a decade ago demonstrated features that far surpass comparable lithium-ion batteries, the dominant incumbent technology in the market, including:
+
+ 
+
+     ●    Increased safety, no runaway fire risks, and a more sustainable design – with no rare-earth elements – that is capable of
+
+           being manufactured completely from a domestic supply
+
+           chain
+
+     ●    Ability to charge and discharge completely, with no degradation of performance, ensuring virtually unlimited
+
+           charge/discharge cycles, and without self-discharge and no
+
+           out-gassing
+
+     ●    Increased energy efficiency and energy density in comparison to lithium-ion batteries, and a longer useful life expectancy
+
+           of at least 10 years and expected to be up to 20 years or
+
+           more
+
+ 
+
+Our battery technology operates at higher temperatures than lithium batteries and much lower temperature than competing sodium-based batteries, and its casing and materials when combined, are heavier than lithium-ion, making it more suitable for stationary energy storage applications like grid-scale energy storage, electric vehicle charging stations, and commercial and residential energy storage, and believed to be less suitable for placement into electric vehicles or portable electronics.
+
+ 
+
+We are exploring multiple opportunities to commercialize our proprietary liquid sodium batteries through joint ventures with third parties. The third parties would finance the construction of independent battery manufacturing facilities designed and built under the direction of our engineers, and the joint venture would market, manufacture and distribute batteries. BioLargo would (i) receive a minority equity position in each joint venture, (ii) separately manufacture and sell at a profit to the joint venture certain proprietary battery components, and (iii) receive a royalty on the revenues of the joint venture.
+
+ 
+
+Given the global growing demand for better batteries, and, while we are witnessing a number of current examples in which battery manufacturers have secured forward-contracts to supply batteries to its customers with backlogs of orders that amount to multiple years of production capacity, we believe our offer to partner with customers to secure needed inventory provides for a clear potential pathway to access capital, and more readily scale up production to meet demand around the world. At this point, we do not intend to finance and build our own manufacturing facilities, nor would we develop in-house sales channels, although that possibility remains on the table if needed.
+
+ 
+
+Clyra Medical Technologies, Inc. - Bioclynse Wound Irrigation Solution
+
+ 
+
+Clyra Medical Technologies, Inc. is our partially owned subsidiary creating medical products based on our technologies. Its primary product is a surgical wound irrigation solution called Bioclynse that can help manage patient care and outcomes. The first target market for this product is orthopedics, including hip and knee replacement surgeries. Management believes Bioclynse outperforms competing products as it has proven performance in biofilm disruption and inhibition, is non-toxic and non-cytotoxic, is non-sensitizing to tissue, and unlike competing products, does not require it to be rinsed and/or removed from a surgical cavity. Clyra management is focused on developing partnerships with large, well-established distributors who can help rapidly accelerate the product’s access to clinicians and surgeons in hospitals around the country. In first quarter 2024, Clyra placed orders for approximately $800,000 in capital equipment to support anticipated growth in sales of its Bioclynse line of products, and has contracted with third parties for product manufacturing, as it does not intend to build its own manufacturing facility. During the three months ended March 31,2024, Clyra sold $475,000 in common stock to support these efforts.
+
+ 
+
+- 31 - 
+
+
+
+Table of Contents
+
+ 
+
+Full Service Environmental Engineering
+
+ 
+
+BioLargo Engineering, Science & Technologies, LLC (“BLEST”) offers full service environmental engineering to third parties and provides engineering support services to our internal teams to accelerate the commercialization of our technologies. 
+
+ 
+
+BLEST focuses its efforts in three areas:
+
+ 
+
+     ●    providing engineering services to third-party clients as well as affiliated BioLargo entities;
+
+     ●    supporting internal product development; and       
+
+     ●    advancing their own technical innovations such as the AEC PFAS treatment technology and the battery energy storage system.
+
+ 
+
+BLEST operates out of an engineering facility in Oak Ridge, Tennessee (a suburb of Knoxville), and employs a group of scientists and engineers, many of whom are owners of the entity (BioLargo owns 82% as of December 31, 2023). The team is led by Randall Moore, who served as Manager of Operations for Consulting and Engineering for the Knoxville office of CB&I Environmental & Infrastructure and was formerly a leader at The Shaw Group, Inc., a Fortune 500 global engineering firm. Many of the other team members are also former employees of CB&I and Shaw, with the exception of more recent staff hires. The team is highly experienced across multiple industries and we believe are considered experts in their respective fields, including: chemical engineering, wastewater treatment (including design, operations, data gathering and data evaluation), process safety, energy efficiency, air pollution, design and control, technology evaluation, technology integration, air quality management & testing, engineering management, permitting, industrial hygiene, applied research and development, air testing, environmental permitting, HAZOP review, chemical processing, thermal design, computational fluid dynamics, mechanical engineering, mechanical design, NEPDES permitting, RCRA/TSCA compliance and permitting, project management, storm water design & permitting, computer assisted design (CAD), bench chemistry, continuous emission monitoring system operator, data handling and evaluation and decommissioning and decontamination of radiological and chemical contaminated facilities. The team has decades of high-level experience in the energy industry. The engineering team has also developed an extended network of trusted engineering subcontractors that assist in serving specific client projects as needed.
+
+ 
+
+BLEST engineers generate revenue through services to third party clients, as well as for internal BioLargo projects such as the AEC and battery (revenues from internal projects are eliminated in the consolidation of our financial statements and are designed “intersegment revenue”). Third party contracts include ongoing work at U.S. Air Force bases for air quality control. Efforts to expand this work as well as with other clients are consistently ongoing.
+
+ 
+
+The staff time devoted to supporting the AEC (PFAS) and battery related work is demanding and , at the same time, BLEST needs to hire more qualified staff to meet and expanding demand for our growing list of customers and/or expected customers. When we combine the demands of current revenue generating projects and expected growth, we are presented with an obvious challenge to manage quality, timely performance as well as access to qualified staff. We are working carefully to find balance to help insure we meet the demands of both in a practical customer centric and capital conserving way. It may be for example, when we secure larger and larger contracts for PFAS or Garrett Callan related work, we will need to depend heavily on our contact manufactures to meet the customer demands in the near term as we scale up our infrastructure and work force capabilities.
+
+ 
+
+ 
+
+- 32 - 
+
+
+
+Table of Contents 
+
+ 
+
+Results of Operations
+
+ 
+
+Our revenues increased 27% to $4,760,000 in the three months ended March 31, 2024, as compared with the same period in 2023, primarily due to sales of our pet odor product private labeled to a third party under the brand name “Pooph”, which comprised 88% of our company-wide revenues. Our financial statements separate revenue based on products and services. Revenues from the sale of products for the three months ended March 31, 2024, were $4,575,000, a 29% increase over the same period of 2023. Revenues from services for the three months ended March 31, 2024, were $185,000, a 5% decrease from the same period of 2023.
+
+ 
+
+ONM Environmental 
+
+ 
+
+Our wholly-owned subsidiary ONM Environmental generates revenues through (i) sales of our flagship product CupriDyne Clean, including related design, installation, and maintenance services on the systems that deliver CupriDyne Clean at its clients’ facilities, and (ii) sale of private-label products to third parties, including the Pooph branded pet odor product.
+
+ 
+
+Revenue (ONM Environmental)
+
+ 
+
+ONM Environmental’s revenues increased 29% to $4,575,000 in the three months ended March 31, 2024, compared with the same period in 2023. The increase in revenues was almost entirely due to an increase in the volume of sales of our pet odor product private labeled to a third party under the brand name "Pooph". Because ONM Environmental has no control over the marketing and sales activity or levels of the Pooph branded products, it cannot predict sales volumes related to it in future periods. Pooph management has indicated their intentions to continue advertising and expanding sales. While they have performed well in the past, their execution of those future plans has inherent risks that are out of our control.
+
+ 
+
+Cost of Goods Sold (ONM Environmental)
+
+ 
+
+ONM Environmental’s cost of goods sold includes costs of raw materials, contract manufacturing, and portions of depreciation, salaries and expenses related to the manufacturing and installation of its products. As a percentage of revenue, ONM Environmental’s costs of goods for the three months ended March 31, 2024, were 53%, an increase of 4%, compared to the same period in 2023. The current period increase in cost of goods is due an increase raw material costs.
+
+ 
+
+Selling, General and Administrative Expense (ONM Environmental)
+
+ 
+
+ONM Environmental’s selling, general and administrative expenses decreased 6% during the three months ended March 31, 2024, as compared with the same period in 2023.  The decrease is due to a reduction in salaries.
+
+ 
+
+Operating Income (ONM Environmental)
+
+ 
+
+ONM Environmental generated operating income of $1,798,000 in the three months ended March 31, 2024, compared to operating income of $1,387,000 for the three months ended March 31, 2023. The generation of operating income for the three months ended March 31, 2024, was entirely dependent on sale of Pooph branded products.
+
+ 
+
+- 33 - 
+
+
+
+Table of Contents
+
+ 
+
+BLEST (engineering)
+
+ 
+
+Revenue (BLEST)
+
+ 
+
+Our engineering segment's (BLEST's) revenues decreased 25% to $185,000, net of intersegment revenue, in the three months ended March 31, 2024, as compared with the same period in 2023. In addition to providing service to third party clients, BLEST provides services to BioLargo and its subsidiaries for internal BioLargo projects. These services are billed internally, are considered intersegment revenue, and are eliminated in the consolidation of our financial statements. In the three months ended March 31, 2024, intersegment revenue for BLEST totaled $171,000 and for the three months ended March 31, 2023, intersegment revenue for BLEST totaled $169,000. The decrease in third party revenue in the three months ended March 31, 2024 as compared with the same period in 2023 is a result of BLEST's focus on these internal projects and a reduction of third party contracts.
+
+ 
+
+Cost of Services Sold (BLEST)
+
+ 
+
+BLEST’s cost of services includes employee labor as well as subcontracted costs. In the three months ended March 31, 2024, cost of services were 40% of its revenues, versus 69% in the same period in 2023. In 2024, BLEST has been able to perform per the estimates and there were no unforeseen costs that increase the costs of services. 
+
+ 
+
+Selling, General and Administrative Expense (BLEST)
+
+ 
+
+BLEST’s SG&A expenses were $203,000, in the three months ended March 31, 2024, compared to $184,000, in the three months ended March 31, 2023, the increase is due to an additional employee.
+
+ 
+
+Operating Loss (BLEST)
+
+ 
+
+BLEST incurred an operating loss of $445,000, in the three months ended March 31, 2024, compared to an operating loss of $368,000 in the three months ended March 31, 2023. This operating loss is reflective of the focus at BLEST on internal BioLargo projects. While we are unable to record revenues generated from services by the engineering group to other BioLargo operating divisions for important projects such as the development of the battery, AOS and AEC technologies, it is important to note that its operating loss would be eliminated if it were selling these services to a third party at fair market value.  The increase in operating loss was due to lower third party-revenues, and an increase in intercompany research and development activities for both the battery and AEC projects. Because the subsidiary had an operating loss, we invested cash during the quarter to allow it to maintain operations. 
+
+ 
+
+Clyra Medical
+
+ 
+
+In the three months ended March 31, 2024, Clyra Medical did not generate revenue, had $546,000 in total costs and expenses, which included $121,000 in research and development expenses.  In the same period in 2023, Clyra generated $6,000 in revenue, had $431,000 in total costs and expenses, which included $134,000 in research and development expenses. We expect Clyra's losses to continue in the near future as Clyra works to finalize agreements with third parties to distribute its products. 
+
+ 
+
+- 34 - 
+
+
+
+Table of Contents 
+
+ 
+
+BETI
+
+ 
+
+BETI has not generated generate revenue from its inception, and for the three months ended March 31, 2024 and 2023, had an operating loss of $155,000 and $87,000, respectively, primarily related to the development of its battery technology. We do not expect BETI to generate revenue in the near future as it continues its research and development activities.
+
+ 
+
+BEST
+
+ 
+
+Formed in 2024 to develop and commercialize our various water treatment equipment, including the AEC. BEST did not generate revenue during the three months ended March 31, 2024, and incurred $66,000 in expenses primarily related to salaries and marketing.
+
+ 
+
+Selling, General and Administrative Expense – consolidated
+
+ 
+
+Our SG&A expenses include both cash (for example, salaries to employees) and non-cash expenses (for example, stock option compensation expense). Our consolidated SG&A increased in the aggregate by 29% in the three months ended March 31, 2024, to $2,225,000 . The largest components of our SG&A expenses included (in thousands):
+
+ 
+
+                                                                                                         Three Months Ended March 31, 
+
+                                                                                                             2024               2023 
+
+  Salaries and payroll related                                                                  $             705  $             636 
+
+  Professional fees                                                                                           278                210 
+
+  Consulting                                                                                                  479                198 
+
+  Office expense                                                                                              446                427 
+
+  Sales and marketing                                                                                          99                 65 
+
+  Investor relations                                                                                          129                 93 
+
+  Board of director expense                                                                                    89                 93 
+
+  Total Selling, General & Administrative                                                       $           2,225  $           1,722 
+
+ 
+
+In the three months ended March 31, 2024, our non-cash expenses from stock for service and stock option expense totaled $623,000, compared to $463,000 for the three months ended March 31, 2023. This increase is due to stock option issuances for previously issued stock options that expired during the three months ended March 31, 2024. The majority of this stock option expense is recorded in Consulting expense. Salaries and payroll related expense increased due to the addition of new employees at our BLEST and Clyra subsidiaries. Professional fees increased due to the addition of our BEST subsidiary, private securities offerings for BioLargo and Clyra, and other organizational needs that required professionals. Investor relation expense increased as BioLargo works to tell our story to the public markets through speaking events and trade shows.
+
+ 
+
+Research and Development
+
+ 
+
+In the three months ended March 31, 2024, we spent $784,000 in the research and development of our technologies and products. This was an increase of 39% compared to the three months ended March 31, 2023. The increase is primarily due to work related to (i) the battery project, and (ii) the AEC. As these products mature, we expect the level of research and development to decrease.  
+
+ 
+
+Interest expense 
+
+ 
+
+Our interest expense for the three months ended March 31, 2024, was $12,000, compared to $48,000 in the three months ended March 31, 2023.  The decrease is due to a decrease in financing activities. 
+
+ 
+
+Other Income and Expense
+
+ 
+
+For the three months ended March 31, 2024, we had no grant income, as compared with the $31,000 in three months ended March 31, 2023. Grant income is primarily generated through our wholly owned Canadian subsidiary, we have been awarded more than 80 research grants over the years from various public and private agencies, including the Canadian National Research Institute – Industrial Research Assistance Program (NRC-IRAP), the National Science and Engineering Research Council of Canada (NSERC), and the Metropolitan Water District of Southern California’s Innovative Conservation Program “ICP”. The research grants received are considered reimbursement grants related to costs we incur and therefore are included as Other Income. Grant funds paid directly to third parties are not included as income in our financial statements.
+
+ 
+
+- 35 - 
+
+
+
+Table of Contents 
+
+ 
+
+Net Loss
+
+ 
+
+Net loss for the three months ended March 31, 2024, was $775,000 a loss of $ (0.003) per share, compared to a net loss for the three months ended March 31, 2023, of $494,000 , a loss of $ (0.001) per share.  Our net loss for the three months ended March 31, 2024, increased because of the increase in selling, general and administrative expense, offset by the increase in product revenue. 
+
+ 
+
+The net income (loss) per business segment is as follows (in thousands):
+
+ 
+
+                                                                                                         Three Months Ended March 31, 
+
+                                                                                                             2024               2023 
+
+  BioLargo corporate                                                                            $          (1,247) $            (835)
+
+  ONM                                                                                                       1,796              1,385 
+
+  Clyra Medical                                                                                              (553)              (368)
+
+  BLEST                                                                                                      (445)              (436)
+
+  BETI                                                                                                       (155)               (87)
+
+  BEST                                                                                                        (66)                 — 
+
+  BioLargo Water                                                                                             (105)              (153)
+
+  Net loss                                                                                      $            (775) $            (494)
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+For the three months ended March 31, 2024, we generated revenues of $4,760,000 through our business segments, had a net loss of $775,000, and generated net cash provided by operating activities of $481,000. At March 31, 2024, we had current assets of $7,176,000, of which $4,336,000 was cash and cash equivalents, current liabilities of $3,404,000, and working capital of $3,772,000.
+
+ 
+
+While we were able to generate $481,000 net cash from operating activities during the three months ended March 31, 2024, we do not have a long history of doing so and are highly reliant upon third parties for the generation of a majority of our revenues. We also continue to use cash to invest in capital equipment, research and development, and our new technologies. For these reasons, we and our partially owned subsidiaries continue to sell securities to ensure available working capital. During the three months ended March 31, 2024, we sold (i) $260,000 of our common stock to Lincoln Park Capital Fund, LLC (“Lincoln Park”), (ii) $228,000 of our common stock and warrants to accredited investors, (iii) $475,000 of Clyra Medical common stock, and (iv) $50,000 of BETI common stock. We have been, and anticipate that we will continue to be, limited in terms of our capital resources, and expect to continue to need further investment capital to fund our business plans and investments into our new technologies. 
+
+ 
+
+The foregoing factors raise substantial doubt about our ability to continue as a going concern, unless we are able to (i) continue to increase revenues, generate cash from operations, or generate cash from financing activities, (ii) convert assets such as our $2,473,000 in accounts receivable into cash; or, (iii) if necessary, reduce ongoing cash obligations by curtailing portions of our operations.
+
+ 
+
+- 36 - 
+
+
+
+Table of Contents 
+
+ 
+
+Critical Accounting Policies
+
+ 
+
+Our discussion and analysis of our results of operations and liquidity and capital resources are based on our condensed consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of our condensed consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and disclosure of contingent assets and liabilities. On an ongoing basis, we evaluate our estimates and judgments, including those related to revenue recognition, valuation of offerings of debt with equity or derivative features which include the valuation of the warrant component, any beneficial conversion feature and potential derivative treatment, and share-based payments. We base our estimates on anticipated results and trends and on various other assumptions that we believe are reasonable under the circumstances, including assumptions as to future events. These estimates form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. By their nature, estimates are subject to an inherent degree of uncertainty. Actual results that differ from our estimates could have a significant adverse effect on our operating results and financial position.
+
+ 
+
+Our significant accounting policies and methods used in the preparation of the Company’s condensed consolidated financial statements are described in (i) in Part I, Item 1 of this Form 10-Q, Note 2, “Summary of Significant Accounting Policies” and (ii) in the Form 10-K for the year ended December 31, 2023, filed with the SEC on April 1, 2024, in the Notes to Consolidated Financial Statements in Part II, Item 8, and “Critical Accounting Policies and Estimates” in Part II, Item 7. There have been no material changes to the Company’s critical accounting policies and estimates since the filing of its Form 10-K.
+
+ 
+
+Item 4.         Controls and Procedures 
+
+ 
+
+We conducted an evaluation, under the supervision and with the participation of management, including our chief executive officer and chief financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended – the “Exchange Act”) as of the end of the period covered by this Report. There were no changes in our internal control over financial reporting during the quarter ended March 31, 2024, which were identified in connection with management’s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+
+ 
+
+Our procedures have been designed to ensure that the information relating to our company, including our consolidated subsidiaries, required to be disclosed in our SEC reports is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and is accumulated and communicated to our management, including our chief executive officer and chief financial officer, as appropriate to allow for timely decisions regarding required disclosure. However, our Company is continuing to grow and evolve, as our product and services sales continues to grow, and as we diversify our clients to include municipalities, increasing strain on our accounting systems. These activities put stress on our overall controls and procedures. We do not yet have the resources to implement the more sophisticated control systems used by larger companies. Although we have made some improvements, our chief executive officer and chief financial officer have concluded that, as of the evaluation date, our disclosure controls and procedures were not effective, due to the material weakness identified below.
+
+ 
+
+- 37 - 
+
+
+
+Table of Contents 
+
+ 
+
+It should be noted that the design of any system of controls is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions, regardless of how remote.
+
+ 
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f) and 15d-15(f). Our internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures are being made only in accordance with authorizations of management and directors; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of our assets that could have a material effect on the financial statements. 
+
+ 
+
+Under the supervision and with the participation of our management, including our chief executive officer and the chief financial officer, we have established internal control procedures in accordance with the guidelines established in the 2013 Framework —Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”). Management evaluated the effectiveness of our internal controls, and concluded that due to our limited financial and personnel resources, the fact that we operate our business in three distinct locations in the U.S. and Canada, and the lack of sophisticated reporting systems, we continue to have a material weakness in our internal controls with respect to the closing our financial statements. Until the Company has the financial resources to implement more robust automated systems, or to hire additional dedicated accounting personnel, we expect this material weakness to continue.
+
+ 
+
+Our management, including our chief executive officer and chief financial officer, does not expect that our disclosure controls or our internal control over financial reporting, or any system we design or implement in the future, will prevent or detect all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. The design of any system of controls is based in part on certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions.
+
+ 
+
+- 38 - 
+
+
+
+Table of Contents 
+
+ 
+
+PART II 
+
+ 
+
+OTHER INFORMATION
+
+ 
+
+ 
+
+Item 2.          Unregistered Sales of Equity Securities and Use of Proceeds
+
+ 
+
+The following is a report of sales of unregistered securities during the period covered by this report not previously reported in an annual report on Form 10-K, a Quarterly Report on Form 10-Q, or a Current Report on Form 8-K.
+
+ 
+
+During the three months ended March 31, 2024, we sold 1,394,737 shares of our common stock and received $265,000 gross proceeds and $228,000 net proceeds from five accredited investors. In addition to the shares, we issued six-month and five-year warrants to purchase an aggregate 2,789,474 additional shares.
+
+ 
+
+All of these offerings and sales were made in reliance on the exemption from registration contained in Section 4(2) of the Securities Exchange Act and/or Regulation D promulgated thereunder as not involving a public offering of securities.
+
+ 
+
+  
+
+Item 5.          Other Information
+
+ 
+
+Lincoln Park
+
+ 
+
+On December 13, 2022, we entered into a purchase agreement (the “Purchase Agreement”) and a registration rights agreement (the “Registration Rights Agreement”), with Lincoln Park Capital Fund, LLC (“Lincoln Park”), pursuant to which Lincoln Park has committed to purchase up to $10.0 million of the Company’s common stock, par value $0.00067 per share (the “Common Stock”), subject to certain limitations and the satisfaction of the conditions set forth in the Purchase Agreement. (See Item 9B titled “Other Information”, and the subheading “Lincoln Park”, for additional information.)
+
+ 
+
+During the three months ended March 31, 2024, we sold 766,175 shares of our common stock to Lincoln Park, and received $260,000 in gross and net proceeds.
+
+ 
+
+- 39 - 
+
+
+
+Table of Contents 
+
+  
+
+  
+
+Item 6.         Exhibits 
+
+ 
+
+See the Exhibit Index for a list of exhibits filed as part of this report and incorporated herein by reference.
+
+ 
+
+Exhibit Index
+
+ 
+
+                                                                                                               Incorporated by 
+
+                                                                                                               Reference Herein
+
+      Exhibit                                      Exhibit Description                                       Form         File Date
+
+       Number
+
+         3.1       Amended and Restated Bylaws                                                           Form 10-KSB      5/23/2003
+
+         3.2       Amended and Restated Certificate of Incorporation for BioLargo, Inc. filed March      Form 10-KSB       5/4/2007
+
+                    16, 2007
+
+                    
+
+         3.3       Certificate of Amendment to Certificate of Incorporation, filed May 25, 2018             Pos Am        6/22/2018
+
+         3.4       Certificate of Amendment to Certificate of Incorporation, filed August 30, 2022        Form 10-Q       11/14/2022
+
+         4.1       BioLargo, Inc. 2007 Equity Incentive Plan                                             Form 10-QSB      11/19/2007
+
+         4.2       Amendment No. 1 to BioLargo 2007 Equity Incentive Plan                                  Def 14C         5/2/2011
+
+                                                                                                           (Exhibit
+
+                                                                                                              A)
+
+         4.3       Form of Stock Options issued in exchange for reduction in accounts payable.            Form 10-K       3/31/2015
+
+         4.4       2018 Equity Incentive Plan                                                              Form S-8       6/22/2018
+
+         4.5       Stock Option Award Agreement under 2018 Equity Incentive Plan                           Form S-8       6/22/2018
+
+         4.6       Notice of Stock Option Grant under 2018 Equity Incentive Plan                           Form S-8       6/22/2018
+
+         4.7       Restricted Stock Unit Award Agreement under 2018 Equity Incentive Plan                  Form S-8       6/22/2018
+
+         4.8       Notice of Restricted Stock Unit Award under 2018 Equity Incentive Plan                  Form S-8       6/22/2018
+
+ 
+
+- 40 - 
+
+
+
+Table of Contents 
+
+ 
+
+         4.9       Revolving Line of Credit Agreement dated June 30, 2020, between Clyra Medical and       Form 8-K        7/7/2020
+
+                    Vernal
+
+                    Bay
+
+        4.10       Security Agreement dated June 30, 2020, between Clyra Medical and Vernal Bay            Form 8-K        7/7/2020
+
+        4.11       Revolving Line of Credit Note issued by Clyra Medical to Vernal Bay on June 30, 2020    Form 8-K        7/7/2020
+
+        4.12       Warrant issued in BioLargo Unit Offerings (through January 16, 2024)                   Form 10-Q       8/14/2020
+
+        4.13       Amendment to March 2018 $50,000 Convertible Note, dated March 8, 2018                  Form 10-K       3/30/2021
+
+        4.14       Warrant issued to $50,000 Convertible Noteholder on March 1, 2020                      Form 10-K       3/30/2021
+
+        4.15       Satisfaction of March 2018 Convertible Note, dated March 6, 2023                       Form 10-K       3/31/2023
+
+        10.1       BioLargo license to Clyra Medical Technologies, Inc., dated March 1, 2024              Form 10-K     April 1, 2024
+
+        10.2       Clyra Medical Technologies, Inc. license to BioLargo dated March 1, 2024               Form 10-K     April 1, 2024
+
+        10.3       Form of indemnity agreement between the Company at its officers and directors          Form 10-K       3/31/2023
+
+        10.4       Commercial Office Lease Agreement for 14921 Chestnut St., Westminster, CA 92683         Form 8-K       8/24/2016
+
+        10.5†      Employment Agreement with Dennis P. Calvert dated May 2, 2017.                          Form 8-K        5/4/2017
+
+        10.6†      Lock-Up Agreement with Dennis P. Calvert dated April 30, 2017                           Form 8-K        5/4/2017
+
+        10.7       Commercial Office Lease Agreement for Oak Ridge Tennessee                               Form 8-K        9/8/2017
+
+        10.8       Form of Employment Agreement for Engineering Subsidiary                                 Form 8-K        9/8/2017
+
+        10.9       Form of Option issued to founding employees of Engineering subsidiary (BLEST)           Form 8-K        9/8/2017
+
+       10.10†      Employment Agreement with Joseph L. Provenzano dated May 28, 2019                       Form 8-K       6/24/2019
+
+        10.11      Purchase Agreement, dated as of December 13, 2022, by and between BioLargo, Inc.        Form 8-K       12/19/2022
+
+                    and Lincoln Park Capital Fund,
+
+                    LLC.
+
+        10.12      Registration Rights Agreement, dated as of December 13, 2022, by and between            Form 8-K       12/19/2022
+
+                    BioLargo, Inc. and Lincoln Park Capital Fund,
+
+                    LLC
+
+       10.13†      2023 Engagement Extension Agreement with CFO                                            Form 8-K       3/27/2023
+
+        10.14      Form of Share Exchange Agreement between BioLargo, Inc., and purchasers of Clyra       Form 10-Q       5/17/2023
+
+                    Medical Series A Preferred
+
+                    Stock
+
+ 
+
+- 41 - 
+
+
+
+Table of Contents 
+
+ 
+
+        10.15      Form of Share Exchange Agreement between BioLargo, Inc., and purchasers of BioLargo    Form 10-Q       5/17/2023
+
+                    Energy Technologies, Inc. common
+
+                    stock
+
+        31.1*      Certification of Chief Executive Officer Pursuant to Section 302 of the                              filed herewith
+
+                    Sarbanes-Oxley Act of 2002 and Rules 13(a)-14 and 15(d)-14 under the Securities
+
+                    Exchange Act of
+
+                    1934
+
+        31.2*      Certification of Chief Financial Officer Pursuant to Section 302 of the                              filed herewith
+
+                    Sarbanes-Oxley Act of 2002 and Rules 13(a)-14 and 15(d)-14 under the Securities
+
+                    Exchange Act of
+
+                    1934
+
+         32*       Certification of Chief Executive Officer and Chief Financial Officer Pursuant to 18                  filed herewith
+
+                    U.S.C. Section
+
+                    1350
+
+      101.INS**    Inline XBRL Instance                                                                                 
+
+      101.SCH**    Inline XBRL Taxonomy Extension Schema                                                                
+
+      101.CAL**    Inline XBRL Taxonomy Extension Calculation                                                           
+
+      101.DEF**    Inline XBRL Taxonomy Extension Definition                                                            
+
+      101.LAB**    Inline XBRL Taxonomy Extension Labels                                                                
+
+      101.PRE**    Inline XBRL Taxonomy Extension Presentation                                                          
+
+         104       Cover Page Interactive Data File (embedded within the Inline XBRL document and                       
+
+                    contained in Exhibit
+
+                    101)
+
+ 
+
+* Filed herewith
+
+ 
+
+** Furnished herewith
+
+ 
+
+† Management contract or compensatory plan, contract or arrangement
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+  Date: May 14, 2024                                   BIOLARGO, INC.
+
+                                                        
+
+                                                        
+
+                                                       By: /s/ DENNIS P. CALVERT
+
+                                                       Dennis P. Calvert
+
+                                                       Chief Executive Officer
+
+                                                        
+
+                                                        
+
+  Date: May 14, 2024                                   By: /s/ CHARLES K. DARGAN, II
+
+                                                       Chief Financial Officer
+
+ 
+
+- 42 -

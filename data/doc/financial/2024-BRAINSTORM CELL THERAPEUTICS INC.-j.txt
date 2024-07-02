@@ -1,0 +1,2465 @@
+Table of Contents
+
+​
+
+​
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+​
+
+
+
+     ☒   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+​
+
+For the quarterly period ended March 31, 2024.
+
+or
+
+​
+
+
+
+     ☐   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+​
+
+For the transition period from _____________ to _____________
+
+Commission File Number 001-36641
+
+BRAINSTORM CELL THERAPEUTICS INC.
+
+(Exact name of registrant as specified in its charter)
+
+​
+
+                                 Delaware                                                                  20-7273918
+
+                      (State or other jurisdiction of                                                   (I.R.S. Employer
+
+                      incorporation or organization)                                                   Identification No.)
+
+​
+
+                    1325 Avenue of Americas, 28th Floor                                                           
+
+                                New York, NY                                                                   10019
+
+                  (Address of principal executive offices)                                                   (Zip Code)
+
+​
+
+(201) 488-0460
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+​
+
+                    Title of each class                           Trading Symbol(s)                Name of each exchange on which registered
+
+              Common Stock, $0.00005 par value                           BCLI                               NASDAQ Stock Market LLC
+
+                                                                                                            (Nasdaq Capital Market)
+
+​
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒  No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒  No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+​
+
+Large accelerated filer ☐                                  ​  Accelerated filer ☐
+
+                                                            ​
+
+Non-accelerated filer ☒                                     ​ Smaller reporting company ☒
+
+                                                            ​
+
+                                                            ​ Emerging growth company ☐
+
+​
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒ 
+
+As of May 12, 2024, the number of shares outstanding of the registrant’s Common Stock, $0.00005 par value per share, was 70,080,523.
+
+​
+
+​
+
+​
+
+​
+
+
+
+
+
+Table of Contents
+
+​
+
+​
+
+​
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This quarterly report contains numerous statements, descriptions, forecasts and projections, regarding Brainstorm Cell Therapeutics Inc. (together with its consolidated subsidiaries, the “Company,” “Brainstorm,” “we,” “us” or “our”) and its potential future business operations and performance, including financial results for the most recent fiscal quarter, statements regarding the market potential for treatment of neurodegenerative disorders such as amyotrophic lateral sclerosis (“ALS”), the sufficiency of our existing capital resources for continuing operations in 2023 and beyond, the safety and clinical effectiveness of our NurOwn® technology, our clinical trials of NurOwn® and its related clinical development, and our ability to develop collaborations and partnerships to support our business plan. In some cases you can identify such “forward-looking statements” by the use of words like “may,” “will,” “should,” “could,” “expects,” “hopes,” “anticipates,” “believes,” “intends,” “plans,” “projects,” “targets,” “goals,” “estimates,” “predicts,” “likely,” “potential,” or “continue” or the negative of any of these terms or similar words. These statements, descriptions, forecasts and projections constitute “forward-looking statements,” and as such involve known and unknown risks, uncertainties, and other factors that may cause our actual results, levels of activity, performance and achievements to be materially different from any results, levels of activity, performance and achievements expressed or implied by any such “forward-looking statements.” These risks and uncertainties include, but are not limited to the potential consequences of The Nasdaq Stock Market’s (“Nasdaq”) notice of delisting on our investors, reputation and business generally, the outcome of our scheduled hearing with Nasdaq regarding our delisting, the outcomes of the derivative lawsuits filed by four of our shareholders, the potential for more derivative lawsuits to be brought, our need to raise additional capital, our ability to continue as a going concern, regulatory approval of our NurOwn® treatment candidate, the success of our product development programs and research, regulatory and personnel issues, development of a global market for our services, the ability to secure and maintain research institutions to conduct our clinical trials, the ability to generate significant revenue, the ability of our NurOwn® treatment candidate to achieve broad acceptance as a treatment option for ALS, progressive multiple sclerosis (“PMS”), Alzheimer’s disease (“AD”) or other neurodegenerative diseases, our ability to manufacture and commercialize our NurOwn® treatment candidate, obtaining patents that provide meaningful protection, competition and market developments, our ability to protect our intellectual property from infringement by third parties, heath reform legislation, demand for our services, currency exchange rates and product liability claims and litigation, disruptions in our business due to continuing concerns resulting from the COVID-19 outbreak, adverse developments affecting the financial services industry, political instability, unrest and wars, such as the conflicts involving Ukraine and Russia and Israel and its surrounding regions, including our clinical development activities, and other factors described under “Risk Factors” in this report and in our annual report on Form 10-K for the fiscal year ended December 31, 2023. These “forward-looking statements” are based on certain assumptions that we have made as of the date hereof. To the extent these assumptions are not valid, the associated “forward-looking statements” and projections will not be correct. Although we believe that the expectations reflected in these “forward-looking statements” are reasonable, we cannot guarantee any future results, levels of activity, performance, or achievements. It is routine for our internal projections and expectations to change as the year or each quarter in the year progresses, and therefore it should be clearly understood that the internal projections and beliefs upon which we base our expectations may change prior to the end of each quarter or the year. Although these expectations may change, we may not inform you if they do and we undertake no obligation to do so, except as required by applicable securities laws and regulations. We caution investors that our business and financial performance are subject to substantial risks and uncertainties. In evaluating our business, prospective investors should carefully consider the information set forth under the caption “Risk Factors” in this report and in our annual report on Form 10-K for the fiscal year ended December 31, 2023 in addition to the other information set forth herein and elsewhere in our other public filings with the Securities and Exchange Commission (“SEC”).
+
+​
+
+​
+
+2
+
+
+
+
+
+Table of Contents
+
+TABLE OF CONTENTS
+
+​
+
+​          ​                                                                                                                  Page
+
+                                                                                                                             Number
+
+PART I – FINANCIAL INFORMATION                                                                                                         4
+
+​        ​ ​                                                                                                                          ​
+
+Item 1.  ​ Financial Statements                                                                                                       4
+
+Item 2.  ​ Management’s Discussion and Analysis of Financial Condition and Results of Operations                                     22
+
+Item 3.  ​ Quantitative and Qualitative Disclosures About Market Risk                                                                40
+
+Item 4.  ​ Controls and Procedures                                                                                                   40
+
+​        ​ ​                                                                                                                          ​
+
+PART II – OTHER INFORMATION                                                                                                           40
+
+​        ​ ​                                                                                                                          ​
+
+Item 1.  ​ Legal Proceedings                                                                                                         40
+
+Item 1A. ​ Risk Factors                                                                                                              41
+
+Item 5.  ​ Other Information                                                                                                         42
+
+Item 6.  ​ Exhibits                                                                                                                  43
+
+​        ​ ​                                                                                                                          ​
+
+SIGNATURES                                                                                                                            44
+
+​
+
+​
+
+​
+
+3
+
+
+
+
+
+Table of Contents
+
+PART I – FINANCIAL INFORMATION
+
+Item 1. Financial Statements.
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+As of March 31, 2024
+
+U.S. DOLLARS IN THOUSANDS
+
+(Except share data and exercise prices)
+
+(UNAUDITED)
+
+​
+
+​
+
+4
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+As of March 31, 2024
+
+U.S. DOLLARS IN THOUSANDS
+
+(Except share data and exercise prices)
+
+(UNAUDITED)
+
+INDEX
+
+​
+
+​                                                                                                                                 Page
+
+​                                                                                                                                      ​
+
+Interim Condensed Consolidated Balance Sheets                                                                                          6
+
+​                                                                                                                                      ​
+
+Interim Condensed Consolidated Statements of Comprehensive Loss                                                                        7
+
+​                                                                                                                                      ​
+
+Interim Condensed Statements of Changes in Stockholders’ Equity (Deficit)                                                              8
+
+​                                                                                                                                      ​
+
+Interim Condensed Consolidated Statements of Cash Flows                                                                               10
+
+​                                                                                                                                      ​
+
+Notes to Interim Condensed Consolidated Financial Statements                                                                          12
+
+​
+
+​
+
+5
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+INTERIM CONDENSED CONSOLIDATED BALANCE SHEETS
+
+U.S. dollars in thousands
+
+(Except share data)
+
+​
+
+​                                                                                                    ​  ​ ​           ​  ​ ​
+
+​                                                                                                     ​   March 31,        December 31, 
+
+                                                                                                                         
+
+​                                                                                                            2024              2023
+
+                                                                                                                         
+
+                                                  ​                                                        Unaudited   ​      Audited
+
+                                                                                                       
+
+​                                                                                                     ​        U.S. $ in thousands
+
+ASSETS                                                                                                  ​                ​             
+
+​                                                                                                    ​  ​ ​           ​  ​ ​
+
+Current Assets:                                                                                         ​                ​             
+
+Cash and cash equivalents                                                                            ​  $          779​  $        1,300
+
+Other accounts receivable                                                                            ​              26​              51
+
+Prepaid expenses and other current assets (Note 4)                                                   ​             454​             548
+
+Total current assets                                                                                 ​  $        1,259​  $        1,899
+
+Long-Term Assets:                                                                                    ​               ​​               ​
+
+Prepaid expenses and other long-term assets                                                          ​  $           20​  $           22
+
+Restricted Cash                                                                                      ​  ​          182​  ​          185
+
+Operating lease right of use asset (Note 5)                                                          ​  ​        1,265​  ​        1,416
+
+Property and Equipment, Net                                                                          ​             622​             686
+
+Total Long-Term Assets                                                                               ​  $        2,089​  $        2,309
+
+​                                                                                                    ​  ​ ​           ​  ​ ​
+
+Total assets                                                                                         ​  $        3,348​  $        4,208
+
+​                                                                                                    ​  ​ ​           ​  ​ ​
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)                                                       ​               ​​                
+
+​                                                                                                    ​  ​ ​           ​  ​ ​
+
+Current Liabilities:                                                                                 ​               ​​                
+
+Accounts payables                                                                                    ​  $        4,690​  $        4,954
+
+Accrued expenses                                                                                     ​             636​           1,240
+
+Operating lease liability (Note 5)                                                                   ​  ​          588​  ​          603
+
+Employees related liability                                                                          ​             917​           1,003
+
+Total current liabilities                                                                            ​  $        6,831​  $        7,800
+
+​                                                                                                    ​  ​            ​​  ​            ​
+
+Long-Term Liabilities:                                                                               ​  ​            ​​  ​            ​
+
+Operating lease liability (Note 5)                                                                   ​  ​          533​  ​          672
+
+Warrants liability (Note 6)                                                                          ​  ​        1,534​  ​          594
+
+Total long-term liabilities                                                                          ​  $        2,067​  $        1,266
+
+​                                                                                                    ​  ​ ​           ​  ​ ​
+
+Total liabilities                                                                                    ​  $        8,898​  $        9,066
+
+​                                                                                                    ​  ​ ​           ​  ​ ​
+
+Stockholders’ Deficit:                                                                               ​               ​​               ​
+
+Stock capital: (Note 7)                                                                              ​              13​              13
+
+Common Stock of $0.00005 par value - Authorized: 100,000,000 shares at March 31, 2024 and December   ​               ​​  ​            ​
+
+ 31, 2023 respectively; Issued and outstanding: 68,447,193 and 60,489,208 shares at March 31, 2024
+
+ and December 31, 2023
+
+ respectively.
+
+Additional paid-in-capital                                                                           ​         212,967​         210,258
+
+Treasury stocks                                                                                      ​           (116)​           (116)
+
+Accumulated deficit                                                                                  ​       (218,414)​       (215,013)
+
+Total stockholders’ deficit                                                                          ​  $      (5,550)​  $      (4,858)
+
+​                                                                                                    ​  ​            ​​  ​            ​
+
+Total liabilities and stockholders’ deficit                                                          ​  $        3,348​  $        4,208
+
+​
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+​
+
+6
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+INTERIM CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS (UNAUDITED)
+
+U.S. dollars in thousands
+
+(Except share data)
+
+​
+
+​                                                                           ​​​             ​​​
+
+​                                                                           ​       Three months ended 
+
+​                                                                           ​           March 31, 
+
+​                                                                                 2024            2023
+
+                                                                                             
+
+                                                                                             
+
+                                                                                             
+
+​                                                                           ​            Unaudited
+
+Operating expenses:                                                          ​               ​              
+
+​                                                                           ​​​             ​​​
+
+Research and development, net                                               ​$           961​$         2,924
+
+General and administrative                                                  ​          1,513​          2,227
+
+​                                                                           ​​​             ​​​
+
+Operating loss                                                              ​        (2,474)​        (5,151)
+
+​                                                                           ​​             ​​​             ​
+
+Financial income, net                                                       ​​            13​​            92
+
+​                                                                           ​​​             ​​​
+
+Loss on change in fair value of Warrants liability (Note 6)                 ​          (940)​              —
+
+​                                                                           ​​​             ​​​
+
+Net loss                                                                    ​$       (3,401)​$       (5,059)
+
+​                                                                           ​​             ​​​             ​
+
+Basic and diluted net loss per share from continuing operations             ​$        (0.05)​$        (0.14)
+
+​                                                                           ​​​             ​​​
+
+Weighted average number of shares outstanding used in computing basic and   ​     64,738,544​     36,735,435
+
+ diluted net loss per
+
+ share
+
+​
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+​
+
+7
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (UNAUDITED)
+
+U.S. dollars in thousands
+
+(Except share data)
+
+​
+
+​                                                         ​ ​              ​ ​         ​ ​          ​ ​         ​ ​             ​ ​
+
+​                                                         ​               ​​          ​​ Additional ​          ​​              ​​     Total
+
+​                                                         ​        Common stock        ​   paid-in  ​  Treasury ​  Accumulated  ​ stockholders’
+
+​                                                               Number         Amount      capital      stocks       deficit         deficit
+
+                                                                                                                                  
+
+Balance as of January 1, 2023                                    36,694,078​         12​     194,910​      (116)​      (197,821)​        (3,015)
+
+Stock-based compensation related to stock and options     ​        (18,827)​          *​           4​          —​              —​              4
+
+ granted to directors and
+
+ employees
+
+Issuance of shares in at-the-market (ATM) offering (Note  ​       1,800,000​          *​       3,230​          —​              —​          3,230
+
+ 7)
+
+Net loss                                                  ​               —​          —​           —​          —​        (5,059)​        (5,059)
+
+Balance as of March 31, 2023                                     38,475,251 ​        12​     198,144​      (116)​      (202,880)​        (4,840)
+
+
+
+*    Represents an amount less than $1.
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+​
+
+8
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (DEFICIT) (UNAUDITED)
+
+U.S. dollars in thousands
+
+(Except share data)
+
+​
+
+​                                                        ​ ​              ​ ​          ​ ​          ​ ​        ​ ​             ​ ​
+
+​                                                        ​               ​​           ​​ Additional ​     ​    ​              ​​     Total
+
+​                                                        ​         Common stock        ​   paid-in  ​ Treasury ​  Accumulated  ​ stockholders’
+
+​                                                              Number         Amount       capital     stocks       deficit         deficit
+
+                                                                                                                                 
+
+Balance as of January 1, 2024                                   60,489,208​          13​     210,258​     (116)​      (215,013)​        (4,858)
+
+Stock-based compensation related to stock and options                    —​           *​         170​         —​              —​            170
+
+ granted to directors and
+
+ employees
+
+Issuance of shares in at-the-market (ATM) offering (Note ​       7,957,985​           *​       2,539​         —​              —​          2,539
+
+ 7)
+
+Net loss                                                 ​               —​           —​           —​         —​        (3,401)​        (3,401)
+
+Balance as of March 31, 2024                                    68,447,193​          13​     212,967​     (116)​      (218,414)​        (5,550)
+
+
+
+*    Represents an amount less than $1.
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+​
+
+9
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+INTERIM CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+
+U.S. dollars in thousands
+
+​
+
+​                                                                                 ​ ​​         ​ ​​
+
+​                                                                                 ​    Three months ended 
+
+​                                                                                 ​         March 31, 
+
+​                                                                                       2024          2023
+
+                                                                                                  
+
+Cash flows used in operating activities:                                            ​            ​          
+
+​                                                                                 ​ ​         ​​ ​         ​
+
+Net loss                                                                          ​ $   (3,401)​ $   (5,059)
+
+​                                                                                 ​ ​         ​​ ​         ​
+
+Adjustments to reconcile net loss to net cash used in operating activities:       ​           ​​           ​
+
+Depreciation                                                                      ​ ​        64​ ​        67
+
+Stock-based compensation related to options granted to employees and directors    ​ ​       170​ ​         4
+
+Change in operating lease liability                                               ​ ​       (3)​ ​      (79)
+
+Decrease (increase) in other accounts receivable and prepaid expenses             ​ ​       121​ ​     (579)
+
+Increase (decrease) in trade payables                                             ​ ​     (264)​ ​     1,578
+
+Loss on change in fair value of warrants (Note 6)                                 ​ ​       940​ ​         —
+
+Increase (decrease) in other accounts payable and accrued expenses                ​ ​     (690)​ ​        82
+
+Total net cash used in operating activities                                       ​ $   (3,063)​ $   (3,986)
+
+
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+​
+
+10
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+INTERIM CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+
+U.S. dollars in thousands
+
+​
+
+​                                                                                ​ ​​         ​ ​​
+
+​                                                                                ​     Three months ended 
+
+​                                                                                ​          March 31, 
+
+​                                                                                     2024          2023
+
+                                                                                                
+
+Cash flows from investing activities:                                              ​            ​           
+
+Changes in short-term deposit                                                    ​ ​         —​ ​      2,005
+
+Total net cash provided by investing activities                                  ​ $         —​ $      2,005
+
+Cash flows from financing activities:                                            ​            ​             
+
+Proceeds from issuance of shares in at-the-market (ATM) offering (Note 7)(*)     ​ ​     2,539​ ​      3,230
+
+Total net cash provided by financing activities                                  ​ $     2,539​ $      3,230
+
+​                                                                                ​ ​         ​​ ​          ​
+
+Increase (decrease) in cash and cash equivalents                                 ​ ​     (524)​ ​      1,249
+
+​                                                                                ​ ​​         ​ ​​
+
+Cash, cash equivalents and restricted cash at the beginning of the period        ​ $     1,485​ $        772
+
+​                                                                                ​ ​​         ​ ​​
+
+Cash, cash equivalents and restricted cash at end of the period                  ​ $       961​ $      2,021
+
+
+
+(*) Presented after neutralizing costs of issuance.
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+​
+
+​
+
+11
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+U.S. dollars in thousands
+
+(Except share data and exercise prices)
+
+Notes to the Interim Condensed Consolidated Financial Statements
+
+NOTE 1 - GENERAL
+
+             A.   The Company was incorporated in the State of Delaware on November 15, 2006, and previously was incorporated in the
+
+                   State of Washington. In October 2004, the Company formed its wholly-owned subsidiary, Brainstorm Cell Therapeutics
+
+                   Ltd. (“BCT”) in Israel, which currently conducts all the research and development activities of the Company. BCT
+
+                   formed wholly-owned subsidiaries Brainstorm Cell Therapeutics UK Ltd., in the United Kingdom on February 19, 2013
+
+                   (currently inactive), Advanced Cell Therapies Ltd. in Israel on June 21, 2018 and Brainstorm Cell Therapeutics
+
+                   Limited in Ireland on October 1,
+
+                   2019.
+
+The Company’s common stock, $0.00005 par value per share (the “Common Stock”) is publicly traded on the Nasdaq Capital Market under the symbol “BCLI”.
+
+             B.   The Company, through BCT, holds rights to commercialize certain stem cell technology developed by Ramot of Tel Aviv
+
+                   University Ltd. (“Ramot”), (see Note 3). Using this technology, the Company has been developing novel adult stem
+
+                   cell therapies for debilitating neurodegenerative disorders such as ALS, also known as Lou Gherig Disease, PMS and
+
+                   Parkinson’s disease. The Company developed a proprietary process, called NurOwn®, for the propagation of
+
+                   Mesenchymal Stem Cells and their differentiation into neurotrophic factor secreting cells. These cells are then
+
+                   transplanted at or near the site of damage, offering the hope of more effectively treating neurodegenerative
+
+                   diseases. The process is currently autologous, or
+
+                   self-transplanted.
+
+
+
+             C.   Since its inception, the Company has devoted substantially all its efforts to research and development. The Company
+
+                   is still in its development and clinical stage and has not yet generated revenues. The Company has incurred
+
+                   operating losses since its inception and expects to continue to incur operating losses for the near-term. As of
+
+                   March 31, 2024, the Company had an accumulated deficit of approximately $218,000. The extent of the Company’s
+
+                   future operating losses and the timing of becoming profitable are
+
+                   uncertain.
+
+
+
+             D.   The Company’s primary sources of cash have been proceeds from the issuance and sale of its Common Stock and
+
+                   warrants, the exercise of warrants, sales of Common Stock via its at-the-market (“ATM”) program and other funding
+
+                   transactions. While the Company has been successful in raising financing recently and in the past, there can be no
+
+                   assurance that it will be able to do so in the future on a timely basis on terms acceptable to the Company, or at
+
+                   all. The Company has not yet commercialized any of its product candidates. Even if the Company commercializes one
+
+                   or more of its product candidates, it may not become profitable in the near-term. The Company’s ability to achieve
+
+                   profitability depends on several factors, including its ability to obtain regulatory approval for its product
+
+                   candidates, successfully complete any post-approval regulatory obligations and successfully commercialize its
+
+                   product candidates alone or in
+
+                   partnership.
+
+Such conditions raise substantial doubts about the Company’s ability to continue as a going concern. Management’s plan includes raising funds from outside potential investors via its ATM program and other potential funds as mentioned. However, as mentioned above, there is no assurance such funding will be available to the Company or that it will be obtained on terms favorable to the Company or will provide the Company with sufficient funds to meet its objectives. These interim condensed financial statements do not include any adjustments relating to the recoverability and classification of assets, carrying amounts or the amount and classification of liabilities that may be required should the Company be unable to continue as a going concern.
+
+​
+
+12
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+U.S. dollars in thousands
+
+(Except share data and exercise prices)
+
+Notes to the Interim Condensed Consolidated Financial Statements
+
+NOTE 2 - BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+
+                A.   Unaudited Interim Financial Statements
+
+The accompanying unaudited interim condensed financial statements have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”) for interim financial information and with the instructions to Form 10-Q and Article 10 of U.S. Securities and Exchange Commission Regulation S-X. Accordingly, they do not include all the information and footnotes required by GAAP for complete financial statements. In the opinion of management, all adjustments considered necessary for a fair presentation have been included (consisting only of normal recurring adjustments except as otherwise discussed). For further information, reference is made to the consolidated financial statements and footnotes thereto included in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023.
+
+Operating results for the three and nine months ended March 31, 2024, are not necessarily indicative of the results that may be expected for the year ending December 31, 2024.
+
+                B.   Significant Accounting Policies
+
+The significant accounting policies followed in the preparation of these unaudited interim condensed consolidated financial statements are identical to those applied in the preparation of the latest annual financial statements.
+
+                C.   Recent Accounting Standards
+
+Management does not believe that any recently issued, but not yet effective, accounting standards, if currently adopted, would have a material effect on the Company’s condensed financial statements.
+
+                D.   Use of estimates
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Actual results could differ from those estimates.
+
+​
+
+​
+
+13
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+U.S. dollars in thousands
+
+(Except share data and exercise prices)
+
+Notes to the Interim Condensed Consolidated Financial Statements
+
+NOTE 3 - RESEARCH AND LICENSE AGREEMENT
+
+In 2004, the Company entered into a Research and License Agreement, as amended and restated, with Ramot (the “License Agreement”). Pursuant to the remuneration terms of the License Agreement, the Company has agreed to pay Ramot royalties on Net Sales of the Licensed Product as follows:
+
+              a)   So long as the making, producing, manufacturing, using, marketing, selling, importing or exporting (collectively,
+
+                    the “Commercialization”) of such Licensed Product is covered by a Valid Claim or is covered by Orphan Drug Status,
+
+                    the Company shall pay Ramot a royalty of 5% of the Net Sales received by the Company and resulting from such
+
+                    Commercialization;
+
+                    and
+
+
+
+              b)   In the event the Commercialization of the Licensed Product is neither covered by a Valid Claim nor by Orphan Drug
+
+                    status, the Company shall pay Ramot a royalty of 3% of the Net Sales received by the Company resulting from such
+
+                    Commercialization. This royalty shall be paid from the First Commercial Sale of the Licensed Product and for a
+
+                    period of fifteen (15) years
+
+                    thereafter.
+
+Capitalized terms set forth above which are not defined shall have the meanings attributed to them under the License Agreement.
+
+​
+
+NOTE 4 - PREPAID EXPENSES
+
+As of March 31, 2024, the prepaid expenses mostly included director’s insurance of $285, whereas, as of December 31, 2023, the prepaid expenses mostly included director’s insurance of $428. 
+
+​
+
+​
+
+​
+
+14
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+U.S. dollars in thousands
+
+(Except share data and exercise prices)
+
+Notes to the Interim Condensed Consolidated Financial Statements
+
+NOTE 5 - LEASES
+
+As of March 31, 2024, and December 31, 2023, total right-of-use assets was approximately $1,265 and $1,416 and the operating lease liabilities for remaining long term lease was approximately $1,121 and $1,275, respectively. In the quarter ended March 31, 2024 and in the year ended December 31, 2023, the Company recognized approximately $164 and $1,467, respectively, in total lease costs. Variable lease costs for these periods were immaterial.
+
+Supplemental cash flow and total lease cost information was as follows:
+
+​
+
+​                                                                             ​​​                 ​​ ​
+
+​                                                                             ​Three Months Ended  ​Three Months Ended 
+
+​                                                                             ​     March 31,      ​     March 31, 
+
+​                                                                                      2024                 2023
+
+                                                                                                    
+
+                                                                                                    
+
+Cash payments for operating leases                                            ​​               166 ​                386
+
+Operating lease expense                                                       ​​               165 ​                 40
+
+Finance lease expense (income)                                                ​​               (1)​​                118
+
+​
+
+As of March 31, 2024, the Company’s operating leases had a weighted average remaining lease term of 2.13 years and a weighted average discount rate of 8.62%. Future lease payments under operating leases as of March 31, 2024 were as follows:
+
+​
+
+​                                                                                            ​ ​​
+
+​                                                                                                  Operating
+
+                                                                                               
+
+​                                                                                            ​       Leases
+
+2024                                                                                           ​             452
+
+2025                                                                                           ​             568
+
+2026                                                                                         ​ ​             186
+
+Total future lease payments                                                                    ​           1,206
+
+Less imputed interest                                                                          ​            (85)
+
+Total lease liability balance                                                                ​ ​           1,121
+
+​
+
+​
+
+NOTE 6 - WARRANTS LIABILITY 
+
+In July 2023, the Company issued 4,054,055 shares of common stock and 4,054,055 private placement warrants (“July 2023 warrants”) to purchase shares of common stock. The gross proceeds from this transaction were approximately $7.5 million. The Common Warrants contain provisions regarding settlement in the event of a fundamental transaction that calculate the fair value of the warrants using a prespecified volatility assumption that was not consistent with the input used to value the warrants at issuance which causes the warrants to be classified as liabilities. The Common Warrants will be measured at fair value at inception and in subsequent reporting periods with changes in fair value recognized as financial income or expense as change in fair value of warrant liabilities in the period of change in the condensed consolidated statements of comprehensive loss. July 2023 warrants are classified as Level 3 financial instruments in the fair value hierarchy (refer to Note 8, Fair Value Measurement). As of March 31, 2024, the July 2023 warrants were outstanding with fair values of $1,534. The fair value of the warrant liability for the three – month period ended March 31, 2024 increased by $940. The change has been recognized as gain on change in fair value of derivatives in the Company’s Consolidated Statements of Comprehensive Loss.
+
+​
+
+NOTE 7 – STOCK CAPITAL
+
+The rights of Common Stock are as follows:
+
+Holders of the Common Stock have the right to receive notice to participate and vote in general meetings of the Company, the right to a share in the excess of assets upon liquidation of the Company and the right to receive dividends, if declared.
+
+The Common Stock is publicly traded on The Nasdaq Capital Market under the symbol “BCLI”.
+
+​
+
+15
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+U.S. dollars in thousands
+
+(Except share data and exercise prices)
+
+Notes to the Interim Condensed Consolidated Financial Statements
+
+NOTE 7 – STOCK CAPITAL (Cont.):
+
+Private placements and public offerings:
+
+At-the-market (ATM) Offering:
+
+On August 9, 2021, the Company entered into an Amended and Restated Distribution Agreement (the “New Distribution Agreement”) with the Agents (as defined in the New Distribution Agreement) pursuant to which the Company may sell from time to time, through the Agents, shares of Common Stock (the “Shares”), having an aggregate offering price of up to $100,000,000 (the “August 9, 2021 ATM”). Sales under the August 9, 2021 ATM are to be made by any method permitted by law that is deemed to be an “at the market” offering as defined in Rule 415 promulgated under the Securities Act, including, without limitation, sales made directly on The Nasdaq Capital Market, on any other existing trading market for the Shares, through a market maker or as otherwise agreed by the Company and the Agents. In connection with the New Distribution Agreement, the Company terminated the previous Distribution Agreement and the September 25, 2020, ATM. During the quarter ended March 31, 2024, the Company has sold 7,957,985 shares of Common Stock for gross proceeds of approximately $2,626,846 under the August 9, 2021, ATM.
+
+Securities Purchase Agreement:
+
+On July 17, 2023, the Company entered into a Securities Purchase Agreement with the purchaser named therein, pursuant to which the Company agreed to sell, in a public offering (the “Offering”), an aggregate of 4,054,055 shares of Common Stock, together with accompanying warrants (the “Common Warrants”) to purchase 4,054,055 shares of Common Stock, at a purchase price of $1.85 per share and accompanying warrants for gross proceeds to the Company of approximately $7.5 million, before deducting fees payable to the placement agent and other estimated offering expenses payable by the Company. The Offering closed on July 19, 2023. The Common Warrants are immediately exercisable, expire five years following the date of issuance and have an exercise price of $2.00 per share. Please refer to Note 6.
+
+Capital Raised Since Inception:
+
+Since its inception through March 31, 2024, the Company has raised approximately $174 million gross in cash in consideration for issuances of Common Stock and warrants in private placements and public offerings as well as proceeds from warrants exercises.
+
+Stock Plans:
+
+During the three months ended March 31, 2024, the Company had outstanding awards for stock options under four stockholder approved plans: (i) the 2004 Global Stock Option Plan and the Israeli Appendix thereto (the “2004 Global Plan”) (ii) the 2005 U.S. Stock Option and Incentive Plan (the “2005 U.S. Plan,” and together with the 2004 Global Plan, the “Prior Plans”); (iii) the 2014 Global Share Option Plan and the Israeli Appendix thereto (which applies solely to participants who are residents of Israel) (the “2014 Global Plan”); and (iv) the 2014 Stock Incentive Plan (the “2014 U.S. Plan” and together with the 2014 Global Plan, the “2014 Plans”). 
+
+The 2004 Global Plan and 2005 U.S. Plan expired on November 25, 2014 and March 28, 2015, respectively. Grants that were made under the Prior Plans remain outstanding pursuant to their terms. The 2014 Plans were approved by the stockholders on August 14, 2014 (at which time the Company ceased to issue awards under each of the 2005 U.S. Plan and 2004 Global Plan) and amended on June 21, 2016 and November 29, 2018. Unless otherwise stated, option grants prior to August 14, 2014 were made pursuant to the Company’s Prior Plans, and grants issued on or after August 14, 2014 were made pursuant to the Company’s 2014 Plans, and expire on the tenth anniversary of the grant date.
+
+​
+
+16
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+U.S. dollars in thousands
+
+(Except share data and exercise prices)
+
+Notes to the Interim Condensed Consolidated Financial Statements
+
+NOTE 7 – STOCK CAPITAL (Cont.):
+
+Stock Plans (Cont.):
+
+The 2014 Plans have a shared pool of 5,600,000 shares of Common Stock available for issuance. As of March 31, 2024, 528,313 shares were available for future issuances under the 2014 Plans. The exercise price of the options granted under the 2014 Plans may not be less than the nominal value of the shares into which such options are exercised. Any options under the 2014 Plans that are canceled or forfeited before expiration become available for future grants. The Governance, Nominating and Compensation Committee (the “GNC Committee”) of the Board of Directors of the Company (the “Board”) administers the Company’s stock incentive compensation and equity-based plans.
+
+Share-based compensation to employees and to directors:
+
+Under the 2014 Plans, the Company may award stock options to certain employees, officers, directors, and/or service providers. The stock options vest in accordance with such conditions and restrictions determined by the GNC Committee. 
+
+Stock options:
+
+These conditions and restrictions may include the achievement of certain performance goals and/or continued employment with the Company through a specified period. Stock options awarded are valued based upon the Black-Scholes option pricing model and the Company recognizes this value as stock compensation expense over the periods in which the options vest. Use of the Black Scholes option-pricing model requires that the Company make certain assumptions, including expected volatility, risk-free interest rate, expected dividend yield, and the expected life of the options. The Company granted 0 stock options during the three months ended March 31, 2024.
+
+​
+
+A summary of the Company’s option activity related to options to employees and directors, and related information as of March 31, 2024, is as follows:
+
+​
+
+​                                                                    ​  ​             ​  ​             ​  ​
+
+​                                                                    ​             For the Three months ended
+
+​                                                                    ​                   March 31, 2024
+
+                                  ​                                           ​             Weighted             
+
+                                                                                                        
+
+​                                                                    ​        ​       ​     average    ​    Aggregate
+
+​                                                                    ​    Amount of   ​     exercise   ​    intrinsic
+
+​                                                                    ​    options *   ​      price     ​      value
+
+​                                                                    ​        ​       ​        $       ​        $
+
+Outstanding at December 31, 2023                                             1,605,783​          3.2671                —
+
+Granted                                                                              —​               —                —
+
+Forfeited                                                                    (128,400)​         10.5868                —
+
+Outstanding at March 31, 2024                                                1,477,383​          2.6310                —
+
+Exercisable at March 31, 2024                                                1,092,383​          2.6216                —
+
+
+
+*    Represents Employee Stock Options only (not including RSUs).
+
+The aggregate intrinsic value in the table above represents the total intrinsic value (the difference between the fair market value of the Company’s shares on March 31, 2024, multiplied by the number of in-the-money options on those dates) that would have been received by the option holders had all option holders exercised their options on those dates.
+
+As of March 31, 2024, there was $362 of total unrecognized compensation cost related to non-vested options under the Plan. The cost is expected to be recognized over a weighted average period of 1.86 years. Compensation expense recorded by the Company in respect of its stock-based employees and directors compensation awards in accordance with ASC 718-10 for the three months ended March 31, 2024 amounted to $80. For the three months ended March 31, 2023 the Company recorded compensation income amounted to $7.
+
+17
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+U.S. dollars in thousands
+
+(Except share data and exercise prices)
+
+Notes to the Interim Condensed Consolidated Financial Statements
+
+NOTE 7 – STOCK CAPITAL (Cont.):
+
+Restricted Stock:
+
+The Company awards stock and restricted stock to certain employees, officers, directors, and/or service providers. The restricted stock vests in accordance with such conditions and restrictions determined by the GNC Committee. These conditions and restrictions may include the achievement of certain performance goals and/or continued employment with the Company through a specified restricted period. The purchase price (if any) of shares of restricted stock is determined by the GNC Committee. If the performance goals and other restrictions are not attained, the grantee will automatically forfeit their unvested awards of restricted stock to the Company. Compensation expense for restricted stock is based on fair market value at the grant date.
+
+​
+
+​                                                             ​ ​                ​ ​                 ​ ​
+
+​                                                                               ​                   ​   Weighted Average
+
+                                                                                                       
+
+​                                                             ​                 ​​                  ​​     Remaining
+
+​                                                             ​ Number of Shares ​  Weighted Average ​    Contractual
+
+​                                                             ​   of Restricted  ​  Grant Date Fair  ​        Term
+
+​                                                             ​       Stock      ​       Value       ​      (Years)
+
+Nonvested as of December 31, 2023                                         304,896                2.86                1.32
+
+Granted                                                                         —                   —                   —
+
+Vested                                                                          —                   —                   —
+
+Forfeited                                                                  17,341                1.73                   —
+
+Nonvested as of March 31, 2024                                            287,555                2.82               1.11 
+
+​
+
+Compensation expense recorded by the Company in respect of its stock and restricted stock awards to certain employees, officers, directors, and/or service providers for the three months ended March 31, 2024 and March 31, 2023 amounted to $90 and $11, respectively.
+
+As of March 31, 2023, there was $289 of total unrecognized compensation cost related to non-vested restricted stock under the Plan. The cost is expected to be recognized over a weighted average period of 1.67 years.
+
+Total Stock-Based Compensation Expense
+
+The total stock-based compensation expense, related to shares, options and warrants granted to employees, directors and service providers was comprised, at each period, as follows:
+
+​
+
+​                                                                                    ​ ​​           ​ ​​
+
+​                                                                                    ​       Three months ended 
+
+​                                                                                    ​           March 31, 
+
+​                                                                                           2024            2023
+
+                                                                                                       
+
+Research and development                                                             ​ $         103​ $        (49)
+
+General and administrative                                                           ​ ​          67​ ​          53
+
+Total stock-based compensation expense                                               ​ $         170​ $           4
+
+​
+
+​
+
+​
+
+​
+
+18
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+U.S. dollars in thousands
+
+(Except share data and exercise prices)
+
+Notes to the Interim Condensed Consolidated Financial Statements
+
+NOTE 8 – FAIR VALUE MEASUREMENT 
+
+The Company’s financial instruments consist of cash and cash equivalents, accounts payable and warrants.
+
+Accounting standards establish a hierarchy, which prioritizes the inputs to valuation techniques used to measure fair value into three levels. The fair value hierarchy gives the highest priority to quoted market prices (unadjusted) in active markets for identical assets or liabilities (Level 1) and the lowest priority to unobservable inputs (Level 3). Level 2 inputs are inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly.
+
+Accounting standards require financial assets and liabilities to be classified based on the lowest level of input that is significant to the fair value measurement. The Company’s assessment of the significance of a particular input to the fair value measurement requires judgment and the exercise of this judgment may affect the valuation of the fair value of assets and liabilities and their placement within the fair value hierarchy levels.
+
+The carrying value of cash and cash equivalents, restricted cash, accounts receivable, contract assets, contract liabilities and accounts payable are considered to be representative of their fair value due to the short maturity of these instruments.
+
+​
+
+Warrants Liabilities
+
+​
+
+The July 2023 warrants are classified as Level 3 financial instruments. The Company estimated the fair value of the July 2023 warrants using the Black-Scholes model at inception and on subsequent valuation dates. This model incorporates inputs such as the stock price of the Company, risk-free interest rate, volatility, and time to expiration. The volatility involves unobservable inputs classified as Level 3 of the fair value hierarchy. The assumptions used to determine the fair value of the July 2023 warrants are as follows:
+
+​
+
+​                                                                                                  ​  ​ ​                 ​  ​ ​                 ​
+
+​                                                                                                        March 31, 2024        December 31,2023   
+
+                                                                                                                           
+
+Time to expiration                                                                                    ​         4.31 years   ​         4.56 years​
+
+Common stock price                                                                                 ​  $               0.56​  $               0.27​
+
+Risk-free interest rate                                                                            ​                  4.28​                  3.88​
+
+Volatility                                                                                         ​                   123%                   116%
+
+​
+
+​
+
+​
+
+19
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+U.S. dollars in thousands
+
+(Except share data and exercise prices)
+
+Notes to the Interim Condensed Consolidated Financial Statements
+
+NOTE 9 – SUBSEQUENT EVENTS
+
+               A.   On April 10, 2024, the Company received a notification letter from the Listing Qualifications Department of
+
+                     Nasdaq, indicating that the Company has regained compliance with the minimum market value of listed securities
+
+                     requirement set forth under Nasdaq Listing Rule
+
+                     5550(b)(2).
+
+According to the Notification Letter on Compliance, Nasdaq’s staff has determined that for the 11 consecutive business days from March 22, 2024 through April 9, 2024 the Company’s market value of listed securities was $35,000,000 or greater, and the Company thus regained compliance with the Rule.
+
+               B.   On February 14, 2024, February 15, 2024, March 21, 2024, and April 12, 2024 four purported shareholders of the
+
+                     Company filed derivative action complaints against the Company as nominal defendant and certain of its officers,
+
+                     current and former directors, and members of its scientific advisory board, captioned Porteous v. Lebovits, et
+
+                     al., Case No. 1:24-cv-01095; Andrev v. Lebovits, et al., Case No. 1:24-cv-1101; and Holtzman v. Lebovits, et al.,
+
+                     Case No. 1:24-cv-02139, and Hamby v. Lebovits, et al., Case No. 1:24-cv-02811 (the “Derivative Complaints”) in
+
+                     the United States District Court for the Southern District of New York (the “Derivative Actions”).  On April 25,
+
+                     2024, the Court consolidated the Derivative Actions into a consolidated action captioned In Re Brainstorm Cell
+
+                     Therapeutics, Inc. Derivative Litigation, Case No. 1:24-cv-01095-DEH (the “Consolidated Derivative Action”), and
+
+                     appointed Co-Lead Counsel.  All substantive deadlines in the Consolidated Derivative Action are currently stayed.
+
+                      Plaintiffs have not yet filed a consolidated complaint; thehe Derivative Actions, brought on behalf of the
+
+                     Company, each assert state law claims for breach of fiduciary duty and unjust enrichment against the individual
+
+                     defendants. The complaints in Holtzman and Hamby also assert state law claims against the individual defendants
+
+                     for abuse of control, gross mismanagement, corporate waste, a claim against the individual defendants for
+
+                     violations of Section 14(a) of the Securities and Exchange Act of 1934, as amended, and a claim against two
+
+                     officer defendants for contribution under Sections 10(b) and 21D of the Exchange Act.  The Derivative Complaints
+
+                     allege that the individual defendants breached their fiduciary duties and duties under the Exchange Act in
+
+                     connection with the Company’s internal controls relating to, as with the allegations in the Securities Complaint,
+
+                     NurOwn® for the treatment of ALS, the Company’s submissions to and communications with the FDA in support of the
+
+                     approval of NurOwn® for the treatment of ALS, and the prospects of future approval of NurOwn® by the FDA their
+
+                     actions or omissions could not have been a good faith exercise of prudent business.  The Derivative Actions seek
+
+                     among other things, monetary damages and disgorgement of performance-based compensation granted in connection
+
+                     with an allegedly inflated stock price between August 15, 2022 and September 27, 2023, as well as attorneys’ fees
+
+                     and
+
+                     costs.
+
+The Company intends to vigorously defend against the lawsuits.
+
+               C.   On April 16, 2024, the Company announced the promotion of Dr. Bob Dagher to Executive Vice President and Chief
+
+                     Medical Officer. In addition, after four years of maintaining top executive roles, Dr. Stacy Lindborg stepping
+
+                     down from the role of Co-Chief Executive Officer and will remain with the Company as a member of its Board. These
+
+                     strategic management changes are being made as the Company prepares to embark on a registrational Phase 3b trial
+
+                     for NurOwn®, its investigational cell therapy treatment for
+
+                     ALS.
+
+
+
+               D.   On November 1, 2023, the Company received a notice in the form of a letter from the Listing Qualifications
+
+                     department of Nasdaq, notifying the Company that the Company was not in compliance with the $1.00 minimum bid
+
+                     price requirement set forth in Nasdaq Listing Rule 5550(a)(2) for continued listing on The Nasdaq Capital Market
+
+                     (the “Minimum Bid Price Requirement”). The Notice also indicated that the Company would have 180 calendar days
+
+                     from the date of the Notice, or until April 29, 2024, to regain compliance with the Minimum Bid Price Requirement
+
+                     pursuant to Nasdaq Listing Rule
+
+                     5810(c)(3)(A).
+
+​
+
+20
+
+
+
+
+
+Table of Contents
+
+BRAINSTORM CELL THERAPEUTICS INC. AND SUBSIDIARIES
+
+U.S. dollars in thousands
+
+(Except share data and exercise prices)
+
+Notes to the Interim Condensed Consolidated Financial Statements
+
+NOTE 9 – SUBSEQUENT EVENTS (Cont.):
+
+On May 1, 2024, the Company received a staff determination letter (“Staff Letter”) from the Staff of Nasdaq indicating that the Company had not regained compliance with the Minimum Bid Price Requirement by April 29, 2024. On May 2, 2024, the Company submitted a hearing request to the Nasdaq Hearings Panel (the “Panel”) to appeal the Staff’s determination. On the same day, the Company received a letter from Nasdaq notifying the Company that, among other things, (i) the Panel hearing has been scheduled, (ii) the hearing request submitted by the Company has stayed the suspension of the Company’s securities and the filing of the Form 25-NSE pending a final written decision by the Panel, and (iii) the Panel is providing the Company with the option to participate in an expedited review process. The Company intends to participate in the expedited review process provided by the Panel.
+
+​
+
+               E.   From April 1, 2024 through May 13, 2024, the Company has raised aggregate gross proceeds of approximately $187
+
+                     under the ATM Distribution
+
+                     Agreement.
+
+In accordance with ASC 855 “Subsequent Events” the Company evaluated subsequent events through the date the condensed consolidated financial statements were issued. The Company concluded that no other subsequent events have occurred that would require recognition or disclosure in the condensed consolidated financial statements.
+
+​
+
+​
+
+​
+
+​
+
+21
+
+
+
+
+
+Table of Contents
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Company Overview
+
+Brainstorm Cell Therapeutics Inc. is a leading biotechnology company committed to the development and commercialization of best-in-class autologous cellular therapies for the treatment of neurodegenerative diseases, including ALS, also known as Lou Gehrig’s disease); PMS; AD; and other neurodegenerative diseases. NurOwn®, our proprietary cell therapy platform, leverages cell culture methods to induce autologous bone marrow-derived mesenchymal stem cells (“MSCs”) to secrete high levels of neurotrophic factors (“NTFs”), modulate neuroinflammatory and neurodegenerative disease processes, promote neuronal survival and improve neurological function.
+
+NurOwn® has completed its Phase 3 ALS and Phase 2 PMS clinical trials. On November 17, 2020, we announced top-line data from our Phase 3 ALS trial. On March 24, 2021, we announced positive top-line data from our Phase 2 trial evaluating three repeated intrathecal administrations of NurOwn®, each given 2 months apart, as a treatment for PMS. On June 24, 2020, we announced a new clinical program focused on the development of NurOwn® as a treatment for AD. On August 15, 2022, we announced our decision to submit a Biologics License Application (“BLA”) to the U.S. Food and Drug Administration (“FDA”) for NurOwn® for the treatment of ALS. On September 9, 2022, we filed a BLA to the FDA for NurOwn® for the treatment of ALS. On November 10, 2022, we announced that we had received a refusal to file (“RTF”) letter from the FDA regarding our BLA. The FDA indicated that we may request a Type A meeting to discuss the content of the RTF letter. On December 12, 2022, we announced the submission of a Type A meeting request with the FDA to discuss the contents of the RTF letter previously issued by the FDA regarding the BLA for NurOwn® for the treatment of ALS. On December 27, 2022, we announced that the FDA granted a Type A meeting to discuss the contents of the RTF letter previously issued regarding our BLA for NurOwn® for the treatment of ALS. The Type A Meeting was held on January 11, 2023. The perspective shared by the FDA review team reflected what was in the previously issued RTF letter. Conversations with the FDA on the best pathway to resolve the outstanding questions that remained continued, following the Type A meeting. During these discussions, Brainstorm was presented with multiple options to return the BLA to regulatory review, which included the regulatory procedure to File over Protest. Additionally, within these discussions, the FDA committed to review amendments that were filed to address items raised in the RTF letter. These discussions resulted in Brainstorm requesting the FDA to file our BLA over Protest, as this was the regulatory procedure that would allow us to reach an ADCOM in the shortest amount of time. Brainstorm notified the FDA on February 6, 2023 of our decision to request the FDA to file the NurOwn® BLA for ALS over Protest.  We received confirmation from the FDA that the BLA was re-filed on February 7, 2023.  We received the FDA Type A meeting minutes on February 9, 2023. We submitted an amendment to our BLA on March 7, 2023, in which we responded to the majority of the items included in the RTF letter. Written feedback was received on March 22, 2023, from the FDA project manager associated with the BLA confirming the FDA’s decision to grant an ADCOM for the NurOwn® BLA for ALS. On March 27, 2023, we announced that the FDA will hold an ADCOM to discuss the company’s BLA for NurOwn® for the treatment of ALS. On June 6, 2023, we announced that the advisory committee meeting has been scheduled for September 27, 2023. On September 22, 2023, we submitted an amendment to our BLA to revise the indication to NurOwn® for the treatment of mild to moderate ALS. On September 27, 2023, we announced that the Advisory Committee voted, with 17 voting no, one voting yes, and one abstention, that NurOwn® did not demonstrate substantial evidence of effectiveness for treatment of mild to moderate ALS. On October 18, 2023, we announced that FDA invited the Company to request an expedited face-to-face meeting to discuss the path forward for NurOwn® as a treatment for ALS. Brainstorm remains committed to the ALS Community and is actively exploring the next steps in support of NurOwn®, including publication of emerging clinical data and development of a protocol for an additional clinical study. On October 18, 2023 Brainstorm announced that the BLA for NurOwn® would be withdrawn. The BLA was withdrawn on November 3, 2023. The decision to withdraw the BLA was coordinated with FDA and is viewed by FDA as a withdrawal without prejudice. On November 20, 2023, we announced that the FDA granted the company a meeting to discuss the regulatory path forward for NurOwn® in ALS. The meeting took place on December 6, 2023.  On December 7, 2023, we announced the completion of a productive meeting with the FDA to discuss NurOwn®. The primary objective of the meeting was to discuss plans for a Special Protocol Assessment (“SPA”) with FDA on the overall protocol design for a planned Phase 3b registrational trial for NurOwn®.    The ultimate goal of the SPA is to secure the FDA’s agreement that critical elements of the overall protocol design (e.g., entry criteria, endpoints, planned analyses) are adequate and acceptable for a study intended to support a future marketing application. On February 23, 2024, we announced that we submitted the SPA request to the FDA for the planned Phase 3b clinical trial of NurOwn® for the treatment of ALS. On April 9, 2024, the Company announced that it received written agreement from the FDA, under a SPA, on the design for a Phase 3b trial of NurOwn® in ALS. The SPA agreement with the FDA validates the clinical trial protocol and statistical analysis of the planned Phase 3b trial of NurOwn, demonstrating the Company’s adequacy in addressing objectives that support a future BLA in ALS.
+
+22
+
+
+
+
+
+Table of Contents
+
+Our wholly owned Israeli subsidiary, Brainstorm Cell Therapeutics Ltd. (“Israeli Subsidiary”), holds exclusive rights to commercialize NurOwn® technology through a licensing agreement with Ramot (“Ramot”), the technology transfer company of Tel Aviv University, Israel.
+
+NurOwn® has a strong and comprehensive intellectual property portfolio and was granted Fast Track designation by the FDA and Orphan Drug status by the FDA and the European Medicines Agency (“EMA”) for ALS.
+
+Our human capital resource objectives include, as applicable, identifying, recruiting, retaining, incentivizing, and integrating our existing and new employees, advisors and consultants to accomplish our goal of developing and launching a novel cell therapy for neurodegenerative diseases. The principal purposes of our equity and cash incentive plans are to attract, retain and reward personnel through the granting of stock-based and cash-based compensation awards, in order to increase stockholder value and our success by motivating such individuals to perform to the best of their abilities and achieve our objectives. We currently employ 29 employees in the United States and in Israel. Most of the senior management team are based in the United States, and all of our clinical trial sites for ALS and PMS from our late phase trials are in the United States. Our R&D center is located in Petach Tikva, Israel. In addition, we currently lease the GMP manufacturing center in Tel Aviv at the Sourasky Medical Center (“Sourasky Hospital”) to manufacture NurOwn®. This center increases our capacity and expand our ability to manufacture and ship NurOwn® into the EU and local Israeli markets.
+
+Recent Highlights
+
+      ●    On February 23, 2024, we announced the submission of a SPA request to the FDA for a planned Phase 3b clinical trial of
+
+            NurOwn® for treatment of
+
+            ALS.
+
+
+
+      ●    On February 28, 2024, Dr. Stacy Lindborg, former Co-Chief Executive Officer at Brainstorm Cell Therapeutics, provided a
+
+            corporate update at 17th Annual European Life Sciences CEO Forum in Zurich, Switzerland.  Dr. Lindborg also participated
+
+            in a panel discussion entitled “Neuro Advances Panel: Highlighting the Main
+
+            Opportunities”.
+
+
+
+      ●    On March 4, 2024, Dr. Bob Dagher, Brainstorm Cell Therapeutics’ then EVP and Chief Development Officer and current EVP and
+
+            Chief Medical Officer, presented a scientific poster titled “Design of A Phase 3B Trial of Debamestrocel (NurOwn®) in ALS”
+
+            the 2024 Muscular Dystrophy Association Clinical and Scientific Conference in Orlando, Florida held March 3-6, 2024. The
+
+            presentation provided an overview into the key features of the phase 3b trial
+
+            design.
+
+
+
+      ●    On April 9, 2024, the Company announced that it received written agreement from the FDA, under a SPA, on the design for a
+
+            Phase 3b trial of NurOwn® in ALS. The SPA agreement with the FDA validates the clinical trial protocol and statistical
+
+            analysis of the planned Phase 3b trial of NurOwn, demonstrating the Company’s adequacy in addressing objectives that
+
+            support a future BLA in
+
+            ALS.
+
+
+
+      ●    On April 10, 2024, the Company announced the peer-reviewed publication of Phase 3 biomarker data in Muscle and Nerve. The
+
+            paper, entitled “Debamestrocel multimodal effects on biomarker pathways in amyotrophic lateral sclerosis are linked to
+
+            clinical outcomes”, can be found online through the Muscle and Nerve website. This study suggests that debamestrocel or
+
+            NurOwn®, an investigational cell therapy, may impact key biomarkers in ALS that are predictive of disease
+
+            progression.
+
+
+
+      ●    On April 16, 2024, the Company announced the promotion of Dr. Bob Dagher to Executive Vice President and Chief Medical
+
+            Officer. In addition, after four years of maintaining top executive roles, Dr. Stacy Lindborg stepping down from the role
+
+            of Co-Chief Executive Officer and will remain with BrainStorm as a member of its Board of Directors. These strategic
+
+            management changes are being made as the Company prepares to embark on a registrational Phase 3b trial for NurOwn®, its
+
+            investigational cell therapy treatment for
+
+            ALS.
+
+NurOwn® Proprietary Technology
+
+NurOwn® technology is based on an innovative manufacturing protocol, which induces the differentiation of purified and expanded bone marrow-derived MSC and consistently generates cells that release high levels of multiple neurotrophic factors (“MSC-NTF” cells) to modulate neuroinflammatory and neurodegenerative disease processes, promote neuronal survival and improve neurological function. These factors are known to be critical for the growth, survival and differentiation of neurons, including: glial-derived neurotrophic factor (“GDNF”); brain-derived neurotrophic factor (“BDNF”); vascular endothelial growth factor (“VEGF”); hepatocyte growth factor (“HGF”), and Galectin-1 among others. VEGF is one of the most potent neuronal and motor neuron survival factors and has demonstrated important neuroprotective effects in ALS and several other neurodegenerative diseases.
+
+23
+
+
+
+
+
+Table of Contents
+
+NurOwn® manufacturing involves a multi-step process that includes the following: harvesting and isolating undifferentiated stem cells from the patient’s own bone marrow; processing of cells at the manufacturing site; cryopreservation of MSC to enable multiple treatments from a single bone marrow sample; and intrathecal (“IT”) administration of MSC-NTF cells into the same patient by standard lumbar puncture. This administration procedure does not require hospitalization and has been shown to be generally well tolerated in multiple CNS clinical trials to date. The completed NurOwn® U.S. Phase 3 ALS and the NurOwn® U.S. Phase 2 PMS trials evaluated the therapeutic potential of repeated intrathecal MSC-NTF cell administration (three doses at bi-monthly intervals).  Our highest priority is to obtain regulatory approval of NurOwn® for ALS. We are also strategically focused on fully executing the clinical development of NurOwn® in PMS, reviewing the optimal approach in AD and will consider the best course of action based on recent scientific and regulatory insights.
+
+The proprietary technology and manufacturing processing of NurOwn® (MSC-NTF cells) for clinical use is conducted in full compliance with current Good Manufacturing Practice (“cGMP”). The NurOwn® proprietary technology is fully owned or developed by our Israeli Subsidiary. All granted patents related to NurOwn® (MSC-NTF cells) manufacturing process are fully assigned to or owned by our Israeli Subsidiary (please see Intellectual Property section for details).
+
+The NurOwn® Treatment Process
+
+      ●    Bone marrow aspiration from the patient;
+
+
+
+      ●    MSC Isolation and propagation;
+
+
+
+      ●    MSC Cryopreservation;
+
+
+
+      ●    MSC thawing and differentiation into neurotrophic-factor secreting (MSC-NTF; NurOwn®) cells; and
+
+
+
+      ●    Intrathecal administration into the patient’s cerebrospinal fluid by standard lumbar puncture.
+
+Differentiation before Treatment
+
+We believe that the ability to induce autologous adult mesenchymal stem cells into differentiated MSC-NTF cells makes NurOwn® uniquely suited for the treatment of neurodegenerative diseases.
+
+The specialized MSC-NTF cells secrete multiple neurotrophic factors and immunomodulatory cytokines that may result in:
+
+      ●    Protection of existing neurons;
+
+
+
+      ●    Promotion of neuronal repair;
+
+
+
+      ●    Neuronal functional improvement; and
+
+
+
+      ●    Immunomodulation and reduced neuroinflammation.
+
+Autologous treatment
+
+The NurOwn® technology platform is autologous, using the patient’s own bone-marrow derived stem cells for treatment. In autologous cellular treatment, there is no introduction of unrelated donor antigens that may lead to alloimmunity, no risk of rejection, and no need for treatment with immunosuppressive agents, which can cause severe and/or long-term side effects. In addition, the use of adult, autologous stem cells is free of several ethical concerns associated with the use of embryonic-derived stem cells in some countries.
+
+NurOwn® ALS Clinical Program
+
+We announced top-line data from the Phase 3 clinical trial of NurOwn® in ALS on November 17, 2020. We have been granted Fast Track designation by the FDA for this indication, and have been granted Orphan Drug Status, in the U.S. and Europe, which provides us the potential for an extended period of exclusivity. On August 15, 2022, we announced our decision to submit a BLA to the FDA for NurOwn® for the treatment of ALS. The BLA was filed on September 9, 2022. On November 10, 2022, we announced that we had received a RTF letter from the FDA regarding our BLA. The FDA indicated that we could request a Type A meeting to discuss the content of the RTF letter, and Type A meeting was held on January 11, 2023. On March 27, 2023, we announced that the FDA will hold an ADCOM to discuss the company’s BLA for NurOwn® for the treatment of ALS. On June 6, 2023, we announced that the advisory 
+
+24
+
+
+
+
+
+Table of Contents
+
+committee meeting has been scheduled for September 27, 2023. On September 22, 2023, we submitted an amendment to our BLA to revise the indication to NurOwn® for the treatment of mild to moderate ALS. On September 27, 2023 we announced that the Advisory Committee voted, with 17 voting no, one voting yes, and one abstention, that NurOwn® did not demonstrate substantial evidence of effectiveness for treatment of mild to moderate ALS. On October 18, 2023, we announced that the FDA invited the Company to request an expedited face-to-face meeting to discuss the path forward for NurOwn® as a treatment for ALS. Brainstorm remains committed to the ALS Community and is actively exploring the next steps in support of NurOwn®, including publication of emerging clinical data and development of a protocol for an additional clinical study. On October 18, 2023 Brainstorm announced that the BLA for NurOwn® would be withdrawn. The BLA was withdrawn on November 3, 2023. The decision to withdraw the BLA was coordinated with the FDA and is viewed by the FDA as a withdrawal without prejudice. On November 20, 2023, we announced that the FDA granted the company a meeting to discuss the regulatory path forward for NurOwn® in ALS. The meeting took place on December 6, 2023. On December 7, 2023, we announced the completion of a productive meeting with the FDA to discuss NurOwn®. The primary objective of the meeting was to discuss plans for a SPA with the FDA on the overall protocol design for a planned Phase 3b registrational trial for NurOwn®.  The ultimate goal of the SPA is to secure the FDA’s agreement that critical elements of the overall protocol design (e.g., entry criteria, endpoints, planned analyses) are adequate and acceptable for a study intended to support a future marketing application. On February 23, 2024, we announced that we submitted the SPA request to the FDA for the planned Phase 3b clinical trial of NurOwn® for the treatment of ALS. On April 9, 2024, the Company announced that it received written agreement from the FDA, under a SPA, on the design for a Phase 3b trial of NurOwn® in ALS. The SPA agreement with the FDA validates the clinical trial protocol and statistical analysis of the planned Phase 3b trial of NurOwn, demonstrating the Company’s adequacy in addressing objectives that support a future BLA in ALS.
+
+Phase 1/2 ALS Open Label Trials
+
+We have completed two early stage Phase 1/2 and 2 open-label clinical trials of NurOwn® in patients with ALS at the Hadassah Medical Center (“Hadassah”) in Jerusalem, Israel, as well as a Phase 2 double-blind, placebo-controlled, multicenter clinical trial at three prestigious U.S. Medical centers - the Massachusetts General Hospital (“MGH”) in Boston, Massachusetts Memorial Hospital in Worcester, Massachusetts, and the Mayo Clinic in Rochester, Minnesota - all highly experienced in the management, investigation, and treatment of ALS.
+
+The first two open-label trials were approved by the Israeli Ministry of Health (“MoH”). The first-in-human trial, a Phase 1 safety and efficacy trial of NurOwn® administered either intramuscularly or intrathecally in 12 ALS patients, was initiated in June 2011. In the Phase 2 dose-escalating study, 14 ALS patients were administered NurOwn® by a combined route of intramuscular and intrathecal administration. These studies demonstrated the tolerability of NurOwn® by both routes of administration and showed preliminary signs of activity.
+
+In January 2016, the results of the two completed Phase 1/2 study and Phase 2 open label trials were published in JAMA Neurology. The results demonstrated a slower rate of disease progression following MSC-NTF cell treatment as measured by the ALSFRS-R, the gold standard for the evaluation of ALS functional status, and Forced Vital Capacity (“FVC”), a measure of pulmonary function, as well as positive trends in the rate of decline of muscle volume and the compound motor axon potential (“CMAPs”). This was the first published clinical data using autologous mesenchymal stem cells, induced under culture conditions to produce NTFs, with the potential to deliver a combined neuroprotective and immunomodulatory therapeutic effect in ALS and potentially modify the course of this disease.
+
+Phase 2 ALS Randomized Trial
+
+The Phase 2 U.S. study was conducted under an FDA Investigational New Drug (“IND”) application. This randomized, double-blind, placebo-controlled multi-center U.S. Phase 2 clinical trial evaluating NurOwn® in ALS patients was conducted at three clinical sites: (i) the Massachusetts General Hospital (MGH) in Boston, (ii) Massachusetts Memorial Hospital in Worcester, Massachusetts, and (iii) the Mayo Clinic in Rochester, Minnesota. For this trial, NurOwn® was manufactured at the Connell and O’Reilly Cell Manipulation Core Facility at the Dana Farber Cancer Institute in Boston and at the Human Cellular Therapy Lab at the Mayo Clinic. In this study, 48 patients were randomized 3:1 to receive NurOwn® or placebo.
+
+Results of this Phase 2 Study were published in the peer reviewed Journal ‘Neurology’. The publication titled “NurOwn, Phase 2, Randomized, Clinical Trial in Patients with ALS: Safety, Clinical, and Biomarker Results” was published in December 2019.
+
+25
+
+
+
+
+
+Table of Contents
+
+Key findings from the trial were as follows:
+
+The study achieved its primary objective, demonstrating that NurOwn® treatment was well-tolerated. There were no discontinuations from the trial due to adverse events (“AEs”) and there were no deaths in the study. The most common AEs of mild or moderate severity, were transient procedure-related AEs such as headache, back pain, pyrexia arthralgia and injection-site discomfort, which were more commonly seen in the NurOwn®-treated participants compared to placebo.
+
+NurOwn® achieved multiple secondary efficacy endpoints, showing evidence of a clinically meaningful benefit. Notably, response rates in the ALS functional rating scale (48-point ALSFRS-R outcome measure) were higher in NurOwn®-treated participants, compared to placebo, at all study timepoints over 24 weeks.
+
+A pre-specified responder analysis examined percentage improvements in the post treatment ALSFRS-R slope (in points change per month) compared to pre-treatment slope and demonstrated that a higher proportion of NurOwn® treated participants achieved a 100% improvement in the post-treatment vs. pre-treatment slope, compared to the placebo group. This analysis also demonstrated that a higher proportion of the NurOwn® treated participants achieved a 1.5 point per month or greater improvement in the post-treatment vs. pre-treatment ALSFRS-R slope, compared to the placebo group.
+
+The treatment effects were greater in the rapid progressor subgroup (a pre-specified definition, in which pretreatment ALSFRS-R declined by 2 or more points in the three months pre-treatment).
+
+As an important confirmation of NurOwn®’s mechanism of action, levels of neurotrophic factors and inflammatory markers were measured in the cerebrospinal fluid (“CSF”) samples collected from participants pre-treatment and two weeks post treatment. In the samples of those participants treated with NurOwn®, statistically significant increases in levels of neurotrophic factors VEGF, HGF and LIF and a statistically significant reduction in inflammatory markers MCP-1, SDF-1 and CHIT-1 were observed post-treatment. Furthermore, the observed reduction in inflammatory markers correlated with ALS functional improvements. These clinical-biomarker correlations were not seen in placebo-treated participants, consistent with the proposed combined neuroprotective and immunomodulatory mechanism of action of NurOwn® in ALS.
+
+In summary, a higher proportion of NurOwn® treated participants, particularly those with more rapid disease progression, experienced stabilization or improvement in ALS function, as measured by the change in post-treatment vs. pre-treatment ALSFRS-R rate of decline or slope.
+
+Phase 3 ALS Clinical Trial
+
+Following successful completion of the Phase 2 study, we conducted a Phase 3 trial (a multi-dose double-blind, placebo-controlled, multicenter trial protocol) that was designed to generate data to potentially support a BLA submission in the U.S. for NurOwn® in ALS. In October 2019, the clinical trial completed enrollment of an enriched patient population of rapid progressors based on superior outcomes observed in the Phase-2 pre-specified sub-group. The study is registered at www.clinicaltrials.gov (ClinicalTrials.gov Identifier: NCT03280056).
+
+We announced top-line data from our Phase 3 ALS trial on November 17, 2020. Results from the trial showed that NurOwn® was generally well tolerated in the population of rapidly progressing ALS patients. However, the trial did not reach statistically significant results. No new safety concerns were identified. On February 9, 2021, we announced feedback from our Type-C Meeting with the FDA to review specific aspects of our planned manufacturing modifications to support the development of a semi-automated commercial manufacturing process for NurOwn® (MSC-NTF cell). On February 22, 2021, we announced high-level FDA feedback on NurOwn® ALS clinical development program. The FDA concluded from their initial review that the clinical data provided at the time did not provide the threshold of substantial evidence that the FDA seeks to support a BLA. In addition, the FDA advised that this recommendation did not preclude the Company from proceeding with a BLA submission.
+
+Key findings from the trial were as follows (which include the update to the data published in Muscle & Nerve 65(3):291-302 on August 12, 2022):
+
+           ●    NurOwn® was generally well tolerated in this population of rapidly progressing ALS patients.
+
+
+
+           ●    While showing a numerical improvement in the treated group compared to placebo across the primary and key secondary
+
+                 efficacy endpoints, the trial did not reach statistically significant
+
+                 results.
+
+26
+
+
+
+
+
+Table of Contents
+
+           ●    The primary efficacy endpoint, a responder analysis evaluating the proportion of participants who experienced at least
+
+                 a 1.25 points per month improvement in the post-treatment ALSFRS-R slope compared to pre-treatment, was powered on
+
+                 assumed treatment response rates of 35% on NurOwn® versus 15% on Placebo. These estimates were based on available
+
+                 historical clinical trial data and the NurOwn® Phase 2 data. The response definition for the primary endpoint was met
+
+                 by 32.6% of NurOwn® participants versus 27.7% for Placebo (p=0.453). Therefore, the trial met the expected ~35%
+
+                 NurOwn® treatment group efficacy response assumption, however the high rate of response in placebo participants
+
+                 exceeded the placebo response expected based on contemporary ALS
+
+                 trials.
+
+
+
+           ●    The secondary efficacy endpoint measuring average change in ALSFRS-R total score from baseline to Week 28, was -5.52
+
+                 with NurOwn® versus -5.88 on Placebo, a difference of 0.36 (p=
+
+                 0.693).
+
+
+
+           ●    In an important, pre-specified subgroup early in the disease course based on an ALSFRS-R baseline score of 35 or
+
+                 greater, NurOwn® demonstrated a clinically meaningful treatment response across the primary and key secondary
+
+                 endpoints and remained consistent with our pre-trial, data-derived assumptions. In this subgroup, there were 34.6%
+
+                 responders who met the primary endpoint definition on NurOwn® and 15.6% on Placebo (p=0.305), and the average change
+
+                 from baseline to week 28 in ALSFRS-R total score was -1.56 on NurOwn® and -3.65 on Placebo (p=0.050), an improvement
+
+                 of 2.09 ALSFRS-R points favoring
+
+                 NurOwn®.
+
+
+
+           ●    Additional sensitivity analyses have demonstrated consistent treatment effects with NurOwn® after accounting for the
+
+                 impact of the ALSFRS-R floor effect. Two methods include: (1) Total Score Threshold (“TST”), which removed
+
+                 participants with ALSFRS-R scores ≤ 25; and (2) Item Level Threshold (“ITL”), which removed participants with a
+
+                 baseline score of 0 or 1 in at least 5 of 6 of the ALSFRS-R’s Fine and Gross Motor scale items. Applying the TST and
+
+                 ITL sensitivity analysis methods resulted in the exclusion of 23% (n=44) and 16% (n=30) of trial participants from
+
+                 analyses, respectively. Both the TST and ILT sensitivity analysis methods show that, after controlling for the impact
+
+                 of the ALSFRS-R floor effect, participants treated with NurOwn® had a higher rate of clinical response (primary
+
+                 endpoint) and less function lost across 28 weeks (secondary endpoint), compared to placebo. Additional post-hoc
+
+                 analyses published for the secondary endpoint (average change from baseline in ALSFRS-R), showed a statistically
+
+                 significant benefit following treatment with NurOwn® in all subgroups with ALSFRS-R baseline total score of at least
+
+                 26 to 35
+
+                 (p≤0.050).
+
+
+
+           ●    The NurOwn® Phase 3 trial enrolled a broad set of participants, including some with advanced ALS disease (ALSFRS-R≤25)
+
+                 at baseline, making this trial subject to the impact of floor effects of the ALSFRS-R and reduced ALSFRS-R
+
+                 sensitivity. A post-hoc analysis was done using participants with baseline ALSFRS-R>25 for the primary endpoint and
+
+                 the % response for NurOwn® was 34.7% and 20.5% for Placebo, p=0.053. This analysis suggests a treatment effect with
+
+                 NurOwn® in participants with less advanced disease. CSF biomarker analyses confirmed that treatment with NurOwn®
+
+                 resulted in a statistically significant increase of neurotrophic factors (VEGF) and reduction in neurodegenerative
+
+                 (neurofilament) and neuroinflammatory biomarkers (MCP-1) that was not observed in the placebo treatment
+
+                 group.
+
+
+
+           ●    Pre-specified statistical modeling designed to predict clinical response with high sensitivity and specificity based
+
+                 on ALS biomarkers and ALS Function confirmed that NurOwn® treatment outcomes could be predicted by baseline ALS
+
+                 function as well as key CSF neurodegenerative and neuroinflammatory biomarkers. Additional analyses focused on the
+
+                 trajectory of biomarkers for the subgroups of participants with baseline ALSFRS-R scores >25 and ≤25, those most
+
+                 likely to be impacted by the floor effect of the scale, indicate that NurOwn® had similar biological effects on ALS
+
+                 participants regardless of the level of disease progression at baseline. Specifically, we observe decreases in
+
+                 neuroinflammatory and neurodegenerative markers and increases in neuroprotective markers in NurOwn® treated
+
+                 participants compared to placebo in both
+
+                 subgroups.
+
+Decision to Submit BLA
+
+New clinical analyses of NurOwn’s® Phase 3 clinical trial in ALS published August 12, 2022, led to a correction of data originally published in Muscle & Nerve in December 2021 and strengthened the Company’s original conclusions from the trial. The correction resulted in a statistically significant treatment difference (p=0.050) of more than 2 points for an important secondary endpoint, average change from baseline in ALSFRS-R, in the pre-specified efficacy subgroup of participants with a baseline score of at least 35. Analyses reported in the original publication utilized an efficacy model that unintentionally deviated from the trial’s pre-specified statistical analysis plan by erroneously incorporating interaction terms between the subgroup and treatment. The newly published results employ the efficacy model as pre-specified in the trial’s statistical analysis plan, correcting the analyses. The correction also relates to the other 
+
+27
+
+
+
+
+
+Table of Contents
+
+subgroup analyses published for this endpoint, demonstrating that all subgroups with ALSFRS-R baseline scores of greater than 26 to 35 showed a statistically significant benefit following treatment with NurOwn® (p≤0.050).
+
+On August 15, 2022, we announced the decision to submit a BLA to the FDA for NurOwn® for the treatment of ALS. The BLA was filed on September 9, 2022. On November 10, 2022, we announced that we had received a RTF letter from the FDA regarding our BLA for NurOwn® for the treatment of ALS. The FDA informed us that the BLA is not sufficiently complete to enable a substantive review and that the FDA would therefore not file the BLA. The RTF letter contained a list of topics the FDA provided to Brainstorm as rationale for the BLA file being not sufficiently complete to enable a substantive review. According to the FDA, these reasons included one item related to the trial not meeting the standard for substantial evidence of effectiveness and Chemistry, Manufacturing and Controls (“CMC”) related items. The FDA indicated that we may request a Type A meeting to discuss the content of the RTF letter. On December 12, 2022, we announced the submission of a Type A meeting request with the FDA to discuss the contents of the RTF letter previously issued by the FDA regarding the BLA for NurOwn® for the treatment of ALS. On December 27, 2022, we announced that the FDA granted a Type A meeting to discuss the contents of the RTF letter previously issued regarding our BLA for NurOwn® for the treatment of ALS. The Type A Meeting was held on January 11, 2023.
+
+The perspective shared by the FDA review team reflected what was in the previously issued RTF letter. Conversations on the best pathway to resolve the outstanding questions that remained continued, following the Type A meeting. During these discussions, Brainstorm was presented with multiple options to return the BLA to regulatory review, which included the regulatory procedure to File over Protest. Additionally, within these discussions, the FDA committed to review amendments that were filed to address items raised in the RTF letter. These discussions resulted in Brainstorm requesting the FDA to file our BLA over Protest, as this was the regulatory procedure that would allow us to reach an ADCOM in the shortest amount of time. Brainstorm notified the FDA on February 6, 2023 of our decision to request the FDA to file the NurOwn® BLA for ALS over Protest. We received confirmation from the FDA that the BLA was re-filed on February 7, 2023.
+
+We received the FDA Type A meeting minutes on February 9, 2023. We submitted an amendment to our BLA on March 7, 2023, in which we responded to the majority of the items included in the RTF letter. Written feedback was received on March 22, 2023, from the FDA project manager associated with the BLA confirming the FDA’s decision to grant an ADCOM for the NurOwn® BLA for ALS. On March 27, 2023, we announced that the FDA will hold an ADCOM to discuss the company’s BLA for NurOwn® for the treatment of ALS. On June 6, 2023, we announced that the advisory committee meeting has been scheduled for September 27, 2023. On September 22, 2023, we submitted an amendment to our BLA to revise the indication to NurOwn® for the treatment of mild to moderate ALS. On September 27, 2023 we announced that the Advisory Committee voted, with 17 voting no, one voting yes, and one abstention, that NurOwn® did not demonstrate substantial evidence of effectiveness for treatment of mild to moderate ALS. On October 18, 2023, we announced that the FDA invited the Company to request an expedited face-to-face meeting to discuss the path forward for NurOwn® as a treatment for ALS. Brainstorm remains committed to the ALS Community and is actively exploring the next steps in support of NurOwn®, including publication of emerging clinical data and development of a protocol for an additional clinical study. On October 18, 2023 Brainstorm announced that the BLA for NurOwn® would be withdrawn. The BLA was withdrawn on November 3, 2023. The decision to withdraw the BLA was coordinated with the FDA and is viewed by the FDA as a withdrawal without prejudice. On November 20, 2023, we announced that the FDA granted the company a meeting to discuss the regulatory path forward for NurOwn® in ALS. The meeting took place on December 6, 2023.  On December 7, 2023, we announced the completion of a productive meeting with the FDA to discuss NurOwn®. The primary objective of the meeting was to discuss plans for a SPA with the FDA on the overall protocol design for a planned Phase 3b registrational trial for NurOwn®. The ultimate goal of the SPA is to secure the FDA’s agreement that critical elements of the overall protocol design (e.g., entry criteria, endpoints, planned analyses) are adequate and acceptable for a study intended to support a future marketing application. On February 23, 2024, we announced that we submitted the SPA request to the FDA for the planned Phase 3b clinical trial of NurOwn® for the treatment of ALS. On April 9, 2024, the Company announced that it received written agreement from the FDA, under a SPA, on the design for a Phase 3b trial of NurOwn® in ALS. The SPA agreement with the FDA validates the clinical trial protocol and statistical analysis of the planned Phase 3b trial of NurOwn, demonstrating the Company’s adequacy in addressing objectives that support a future BLA in ALS.
+
+NurOwn® Clinical Manufacturing
+
+We have developed a validated cryopreservation process for the long-term storage of MSC, that allows multiple doses of NurOwn® to be created from a single bone marrow harvest procedure in the multi-dose clinical trials and to avoid the need for patients to undergo repeated bone marrow aspiration. A validation study was conducted in 2017 comparing NurOwn® derived from fresh MSC to those derived from cryopreserved MSC. Company scientists were successful in showing that the MSC can be stored in the vapor phase of liquid nitrogen for prolonged periods of time, while maintaining their characteristics. Cryopreserved MSC are capable of differentiating 
+
+28
+
+
+
+
+
+Table of Contents
+
+into NurOwn®, similar to the NurOwn® derived from fresh MSC from the same patient/donor, prior to cryopreservation and maintain their key functional properties including immunomodulation and neurotrophic factor secretion.
+
+We contracted with City of Hope’s Center for Biomedicine and Genetics to manufacture clinical supplies of NurOwn® adult stem cells for our Phase 3 clinical study. City of Hope supported the manufacturing of NurOwn® and placebo for the participants treated in the Phase 3 study. The Connell and O’Reilly Cell Manipulation Core Facility at the Dana Farber Cancer Institute (“DFCI”) in Boston was also contracted to manufacture NurOwn® and placebo for our Phase 3 ALS clinical study participants and commenced manufacturing in October 2018. DFCI core manufacturing facility also supplied NurOwn® for our Phase 2 PMS study.
+
+On October 22, 2020, we announced a partnership with Catalent, the leading global provider of advanced delivery technologies, to manufacture NurOwn®, which has been evaluated for the treatment of ALS in our Phase 3 clinical trial. If we receive FDA approval for NurOwn® in ALS, Catalent will be our partner for manufacturing commercial quantities of NurOwn® to treat patients with ALS. Our technology transfer to Catalent Houston was successfully completed and enabled continuous supply of NurOwn® for the Expanded Access program.
+
+As of November 1, 2023, the Company optimized its manufacturing capabilities, particularly in the production of NurOwn®, by strategically leveraging partnerships and optimizing operational resources. The Company currently leases a GMP-certified cleanroom manufacturing center located at Sourasky Hospital, which serves as a critical hub for the production and distribution of NurOwn®. This facility significantly enhances the Company’s capacity to manufacture and distribute NurOwn® within both the European Union (EU) and local Israeli markets.
+
+On December 7, 2021, we and Catalent announced completion of technology transfer for NurOwn® manufacturing at the Catalent’s cell therapy facility in Houston, Texas.
+
+Catalent Houston manufactured NurOwn® for the Expanded Access Program. As of December 31, 2022, seven participants have completed treatment with NurOwn® that was manufactured at the Catalent facility as well as all Expanded Access protocol follow-up visits. We are currently negotiating a contract with a leading manufacturing contract development organization.
+
+Meetings with the FDA and FDA Senior Management
+
+In July 2019, the Brainstorm management team was invited to participate in a special in-person, high-level meeting with the senior management of the FDA Drug and Biologics Centers and, ‘I AM ALS’, a grassroots ALS advocacy group advocating for an ALS cure. FDA’s Dr. Peter Marks, Director of the Center for Biologics Evaluation and Research (“CBER”) and Dr. Janet Woodcock Director, former of the Center for Drug Evaluation and Research (“CDER”) were in attendance with senior FDA staff. Brainstorm’s Phase 3 ALS principal Investigators Dr. Robert Brown (Massachusetts Memorial Hospital, Worcester, Massachusetts) and Dr. Merit Cudkowicz (MGH, Boston) joined by teleconference. The meeting’s purpose was to discuss Brainstorm’s ongoing Phase 3 ALS clinical trial as well as efforts to speed treatment access to the ALS patient community. The meeting enabled an open and effective dialogue between the FDA and Brainstorm, setting the stage for future meetings to explore practical options to quickly bring our investigational treatment to those living with ALS.
+
+On February 11, 2020, we announced that we held a high-level meeting with the FDA to discuss potential NurOwn® regulatory pathways for approval in ALS. In the planned meeting with senior CBER leadership and several leading U.S. ALS experts, the FDA confirmed that the Phase 3 ALS trial was collecting relevant data critical to the assessment of NurOwn® efficacy. The FDA indicated that they would look at the “totality of the evidence” in the expected Phase 3 clinical trial data.
+
+On February 9, 2021, we announced feedback on a Type-C Meeting with the FDA on future NurOwn® manufacturing plans and to review specific aspects of our planned manufacturing modifications to support the development of a semi-automated commercial manufacturing process for NurOwn® (MSC-NTF cell). The meeting included a detailed review of the requirements for comparability testing to support future modifications along with geographic considerations in the sourcing of starting materials and future manufacturing production. We plan to incorporate feedback from the FDA meeting in 2021, our experience from Phase 3 manufacturing, in addition to feedback received in recent interactions with FDA including the Type A meeting on December 6, 2023, to formalize our plan to satisfy FDA’s expectations for CMC for a product in Phase 3 development.  
+
+On February 22, 2021, we announced high-level FDA feedback on NurOwn® ALS Clinical Development Program. The FDA concluded from their initial review that the current level of clinical data does not provide the threshold of substantial evidence that the FDA is seeking to support a BLA. In addition, the FDA advised that this recommendation does not preclude the Company from proceeding with 
+
+29
+
+
+
+
+
+Table of Contents
+
+a BLA submission. Following extensive consultations with principal investigators, ALS experts, expert statisticians, regulatory advisors, and ALS advocacy groups to discuss the best path forward to provide NurOwn® for ALS patients, Brainstorm filed a BLA on September 9, 2022. On November 10, 2022, we announced that we had received a RTF letter from the FDA regarding our BLA, which informed us that the BLA was not sufficiently complete to enable a substantive review and that the FDA. The RTF letter contained a list of topics the FDA provided to BrainStorm as rationale for the BLA file being not sufficiently complete to enable a substantive review.  According to the FDA, these reasons included one item related to the trial not meeting the standard for substantial evidence of effectiveness and CMC related items. The FDA indicated that we could request a Type A meeting to discuss the content of the RTF letter, and the Type A meeting was held on January 11, 2023. We notified the FDA on February 6, 2023 of our decision to request the FDA to file the NurOwn® BLA for ALS over Protest. Written feedback was received on March 22, 2023 from the FDA project manager associated with the BLA confirming the FDA’s decision to grant an ADCOM for the NurOwn® BLA for ALS. We submitted an amendment to our BLA on March 7, 2023, in which we responded to the majority of the items included in the RTF letter. The BLA for NurOwn® to treat ALS is currently under active review by the FDA.
+
+On March 27, 2023, we announced that the FDA will hold an ADCOM to discuss the company’s BLA for NurOwn® for the treatment of ALS. On June 6, 2023, we announced that the advisory committee meeting has been scheduled for September 27, 2023. On September 22, 2023, we submitted an amendment to our BLA to revise the indication to NurOwn® for the treatment of mild to moderate ALS. On September 27, 2023 we announced that the Advisory Committee voted, with 17 voting no, one voting yes, and one abstention, that NurOwn® did not demonstrate substantial evidence of effectiveness for treatment of mild to moderate ALS. On October 18, 2023, we announced that the FDA invited the Company to request an expedited face-to-face meeting to discuss the path forward for NurOwn® as a treatment for ALS. Brainstorm remains committed to the ALS Community and is actively exploring the next steps in support of NurOwn®, including publication of emerging clinical data and development of a protocol for an additional clinical study. On October 18, 2023 Brainstorm announced that the BLA for NurOwn® would be withdrawn. The BLA was withdrawn on November 3, 2023. The decision to withdraw the BLA was coordinated with the FDA and is viewed by the FDA as a withdrawal without prejudice. On November 20, 2023, we announced that the FDA granted the company a meeting to discuss the regulatory path forward for NurOwn® in ALS. The meeting took place on December 6, 2023.  On December 7, 2023, we announced the completion of a productive meeting with the FDA to discuss NurOwn®. The primary objective of the meeting was to discuss plans for a SPA with the FDA on the overall protocol design for a planned Phase 3b registrational trial for NurOwn®.  The ultimate goal of the SPA is to secure the FDA’s agreement that critical elements of the overall protocol design (e.g., entry criteria, endpoints, planned analyses) are adequate and acceptable for a study intended to support a future marketing application. On February 23, 2024, we announced that we submitted the SPA request to the FDA for the planned Phase 3b clinical trial of NurOwn® for the treatment of ALS. On April 9, 2024, the Company announced that it received written agreement from the FDA, under a SPA, on the design for a Phase 3b trial of NurOwn® in ALS. The SPA agreement with the FDA validates the clinical trial protocol and statistical analysis of the planned Phase 3b trial of NurOwn, demonstrating the Company’s adequacy in addressing objectives that support a future BLA in ALS.
+
+ALS Expanded Access Program
+
+On December 14, 2020, we announced the NurOwn® Expanded Access Program (“EAP”) through which NurOwn® would be made available for ALS patients who completed all Phase 3 scheduled treatments and follow-up assessments and meet specific eligibility criteria.
+
+The protocol for the EAP was developed in partnership with the FDA to provide access to NurOwn® for Phase 3 clinical trial participants who meet specific eligibility criteria. Initially, participants less severely affected by ALS, as measured by ALSFRS-R, were the first to receive treatment. This approach is informed by recently announced top-line data from the Company’s Phase 3 clinical trial. According to the FDA, EAPs, alternatively known as “compassionate use” programs, provide a pathway for patients to receive an investigational medicine for a serious disease or condition outside of a clinical trial.
+
+Through the EAP, the six clinical centers participating in the Phase 3 NurOwn® trial each had the opportunity to treat ALS participants who completed the trial. These six centers are: University of California, Irvine; Cedars-Sinai Medical Center; California Pacific Medical Center; Massachusetts General Hospital; University of Massachusetts Medical School; and the Mayo Clinic. EAP treatment of ALS participants who have completed the Phase 3 clinical trial did not interfere with data or regulatory timelines. The Cell Manipulation Core Facility (“CMCF”) at the Dana Farber Cancer Institute manufactured the investigational therapy, assisted by on-site Brainstorm personnel.
+
+In the course of 2021, 10 eligible patients that had completed the Phase 3 study, were enrolled in the EAP at the six participating medical centers to receive three additional doses of NurOwn® eight weeks apart. Eight patients completed the program receiving all three 
+
+30
+
+
+
+
+
+Table of Contents
+
+treatment doses. Two participants withdrew consent after receiving two treatment doses. There were no serious adverse events (“SAEs”) in the treated participants.
+
+On December 27, 2021, we announced plans for a dosing extension of NurOwn® for participants who completed the EAP. The FDA recommended that Brainstorm submit an EAP protocol amendment to provide additional dosing for these participants. Under the original EAP protocol, participants who had completed the Phase 3 NurOwn® trial and who met specific eligibility criteria had the opportunity to receive 3 doses of NurOwn®. Under the amended EAP protocol, these eligible participants will receive up to 3 additional doses. Data collected from the original EAP treatments informed the decision to move forward with additional doses for participants who completed it. Seven participants completed treatment with NurOwn® manufactured at the Catalent Houston manufacturing site and all follow-up visits.
+
+Patient Access Programs (ALS)
+
+The Company, had worked collaboratively with the Sourasky Hospital, to treat ALS patients with NurOwn®, under the Israel Hospital Exemption (“HE”) regulatory pathway for Advanced Therapy Medicinal Products (“ATMP”), which was adopted by the Israeli MoH from the EMA regulation. Between the first quarter of 2019 and the fourth quarter of 2020, the Company enrolled and treated 12 ALS patients with NurOwn®, under the HE pathway. The Company received $3.4 million in gross proceeds in connection with the treatment of the aforementioned patients, which did not cover the costs of the trial.  The remaining cost associated with the HE pathway were paid by Brainstorm.
+
+NurOwn® in Progressive Multiple Sclerosis (PMS)
+
+On December 15, 2018, the FDA approved the Company’s IND to conduct a Phase 2 open-label trial of repeated intrathecal administration of NurOwn® in PMS (www.clinicaltrials.gov Identifier NCT03799718). The study titled “A Phase 2, open-label, multicenter study to evaluate the safety and efficacy of repeated administration of NurOwn® (Autologous Mesenchymal Stem Cells Secreting Neurotrophic Factors; MSC-NTF cells) in participants with PMS was designed to recruit 20 PMS participants at 5 leading U.S. Multiple Sclerosis centers.
+
+On December 18, 2019, the clinical trial independent Data Safety Monitoring Board (“DSMB”) for the U.S. Phase 2 PMS study completed the first, pre-specified interim analysis, of safety outcomes for the first 9 participants enrolled in the study. After careful review of all available clinical trial data, the DSMB unanimously concluded “the study should continue as planned without any protocol modification”.
+
+In August 2021, the clinical trial independent DSMB for the U.S. Phase 2 PMS study issued an end-of-study statement concluding that, based on the data, the procedures and treatment involved in BCT-101-US were relatively safe and tolerable. Given that the study was “open-label” with no active comparator arm(s), it was not possible to evaluate efficacy, except through comparison to non-contemporaneous natural history data sets or to prior clinical trials of similar populations.
+
+31
+
+
+
+
+
+Table of Contents
+
+Phase 2 PMS Clinical Trial
+
+On March 24, 2021, the Company announced positive top-line data in the Phase 2 study evaluating three repeated administrations of NurOwn®, each given 2 months apart, as a treatment for PMS. The 28-week open-label Phase 2 clinical trial enrolled 20 primary and secondary PMS patients based on the 2017 revised McDonald Criteria, ages 18-65, with baseline Expanded Disability Status Scale (“EDSS”) scores between 3-6.5, without evidence of relapse within 6 months of enrollment, able to walk 25 feet in 60 seconds or less and were permitted to be on a stable dose of disease modifying therapy. Of the 20 patients enrolled, 18 were treated and 16 (80)% completed the study. Two patients discontinued related to procedure-related AEs. There were no study deaths or AEs related to multiple sclerosis (“MS”) worsening. The mean age of study patients was 47, 56% were female, and mean baseline EDSS score was 5.4. The clinical trial compared clinical efficacy outcomes with a 48-patient matched clinical cohort from the Comprehensive Longitudinal Investigations in MS at the Brigham & Woman’s Hospital (CLIMB Study). MS Function and Cognition measures in the top-line results included the timed 25-foot walk (T25FW); 9-hole peg test (9-HPT); Low Contrast Letter Acuity (LCLA); Symbol Digit Modality Test (SDMT); and the 12 item MS Walking Scale (MSWS-12).
+
+Key findings from the trial were as follows:
+
+           ●    Prespecified 25% improvements in the timed T25FW and 9-HPT (combined average) from baseline to 28 weeks were observed
+
+                 in 14% and 13% of NurOwn® treated patients, respectively, and improvement in 9-HPT (combined average) was observed in
+
+                 0% of the pre-specified matched historical controls in the CLIMB
+
+                 registry.
+
+
+
+           ●    38% of NurOwn® treated patients showed at least a 10-point improvement in the MSWS-12 from baseline to week 28, a
+
+                 patient reported outcome that evaluates walking
+
+                 function.
+
+
+
+           ●    47% of NurOwn® treated patients showed at least an 8-letter improvement across 28 weeks in the LCLA binocular 1.25%, a
+
+                 visual function test. Additionally, 27% of NurOwn® treated patients showed at least an 8-letter improvement across 28
+
+                 weeks in the LCLA binocular
+
+                 2.5%,
+
+
+
+           ●    67% of NurOwn® treated patients showed at least a 3-point improvement in the SDMT, a measure of cognitive processing.
+
+
+
+           ●    NurOwn® treated patients showed a mean improvement from baseline of 10% in T25FW and a 4.8% improvement from baseline
+
+                 on the 9-HPT dominant hand, compared to 1.8% and 1.4% worsening respectively in matched historical controls from the
+
+                 CLIMB
+
+                 registry.
+
+
+
+           ●    NurOwn® treated patients showed a 6% improvement from baseline in MSWS-12.
+
+All results reported are based on observed data. Cerebrospinal fluid (CSF) biomarkers were obtained at 3 consecutive time points, just prior to each intrathecal administration of NurOwn®. We observed increases in neuroprotective molecules (VEGF, HGF) and decreases in neuroinflammatory biomarkers (MCP-1, and Osteopontin).
+
+Additionally, we completed secondary efficacy data and detailed CSF and blood biomarker analyses. We presented a detailed summary of the study outcomes at the 37th Congress of the ECTRIMS on October 14, 2021 and published our findings in the peer reviewed journal Multiple Sclerosis Journal in September 15, 2022. We are currently considering how best to advance NurOwn® as an innovative treatment option in PMS.
+
+NurOwn® in Alzheimer’s Disease (AD)
+
+On June 24, 2020, we announced a new clinical program focused on the development of NurOwn® as a treatment for AD. We are currently evaluating next steps based on emerging scientific insights and the changing regulatory landscape for AD following the recent FDA decision to grant accelerated approval of Aducanumab and pending regulatory reviews of other investigational anti-amyloid therapies.
+
+While many AD therapies have focused on a single target such as tau or beta-amyloid, we believe NurOwn® has the capability to simultaneously target multiple relevant biological pathways and bring a comprehensive approach to this multifactorial disease. Importantly, NurOwn®’s mechanism of action may allow the therapy to enable synergistic combinations with anti-tau or anti-beta-amyloid treatments, further underscoring its potential to address critical unmet needs in AD. In such a complex disease, addressing inflammation and neuroprotection is an innovative approach and a first in the world for this technology.
+
+32
+
+
+
+
+
+Table of Contents
+
+Non-Dilutive Funding
+
+In July 2017, we were awarded a grant in the amount of $15,912,390 from the California Institute for Regenerative Medicine (CIRM) to aid in funding the Company’s pivotal Phase 3 study of NurOwn®, for the treatment of ALS. We received $12,550,000 of the CIRM grant from 2017 2019: $9,050,000 from 2017 through 2018, and an additional $3,500,000 in 2019. On March 16, 2020, we received $2,200,000 from CIRM for achieving our pre-determined milestones. In July 2020, we received an additional $700,000 for making further progress in our Phase 3 study. On December 1, 2020, we received our final payment of $462,390. We have now received in full the total amount of the $15,912,390 grant funding awarded by CIRM. The grant does not bear a royalty payment commitment nor is the grant otherwise refundable.
+
+On November 14, 2019, we were awarded a $495,330 grant from the National Multiple Sclerosis Society (NMSS), through its Fast Forward program, for serum and CSF biomarkers analysis in Brainstorm’s Phase 2 open-label, multicenter clinical trial of repeated intrathecal administration of NurOwn® in participants with PMS. As of March 31, 2024, we have received $352,156 out of the $495,330 awarded.
+
+On June 9, 2020, we announced that The ALS Association and I AM ALS have awarded us a combined grant of $500,000 to support an ALS biomarker research study. The grant will be used to draw insights from data and samples collected from patients who participated in Brainstorm’s Phase 3 clinical trial and treated with NurOwn®, and to further the understanding of critical biomarkers associated with treatment response for people with ALS. As of March 31, 2024, we have received $400,000 out of $500,000 awarded.
+
+Intellectual Property
+
+A key element of our overall strategy is to establish a broad portfolio of patents and other methods described below to protect its proprietary technologies and products. Brainstorm is the sole licensee or assignee of 27 granted patents, and 23 patent applications in the United States, Canada, Europe, Israel and Brazil, as well as in additional countries worldwide, including countries in the Far East and South America (in calculating the number of granted patents and patent applications, each European patent validated in multiple jurisdictions was counted as a single patent).
+
+On February 18, 2020, the U.S. Patent and Trademark Office (“USPTO”) issued U.S. Patent No. 10,564,149 titled ‘Populations of Mesenchymal Stem Cells That Secrete Neurotrophic Factors’. The allowed claims cover a pharmaceutical composition for MSC-NTF cells secreting neurotrophic factors (NurOwn®) comprising a culture medium as a carrier and an isolated population of differentiated bone marrow-derived MSCs that secrete neurotrophic factors. 
+
+On June 3, 2020, the European Patent Office (“EPO”) granted European patent No. 2880151 titled ‘Methods of Generating Mesenchymal Stem Cells which secrete Neurotrophic Factors’. The allowed claims cover the method for manufacturing MSC-NTF cells (NurOwn®).
+
+On September 1, 2020, the Israeli Patent Office issued Israeli Patent No. 246943 titled ‘Method of Qualifying Cells’. The granted claims cover a method of qualifying whether a cell population is a suitable therapeutic for treating ALS and an isolated population of cells that secrete neurotrophic factors which are qualified useful as a therapeutic for treating ALS. 
+
+On September 16, 2020, the Company announced that the Japanese Patent Office (“JPO”) has granted Brainstorm’s Japanese Patent No. 6,753,887, titled ‘Methods of Generating Mesenchymal Stem Cells Which Secrete Neurotrophic Factors’. The allowed claims cover a method of generating cells which secrete neurotrophic factors from human undifferentiated MSCs derived from the bone marrow of a single donor. The said neurotrophic factors includes: BDNF; GDNF; HGF; and VEGF.
+
+On December 15, 2020, the Canadian Patent office sealed Patent No. 2,937,305 titled ‘Pharmaceutical composition comprising bone-marrow derived mesenchymal stem cells’. The granted claims include a pharmaceutical composition for NurOwn® (MSC-NTF cells, Mesenchymal Stem Cells secreting Neurotrophic Factors), comprising a culture medium as a carrier and an isolated population of differentiated bone marrow-derived MSCs that secrete neurotrophic factors.
+
+On December 22, 2020 the USPTO issued U.S. Patent No. 10,869,899 titled ‘Isolated cells and populations comprising same for the treatment of CNS diseases’. Granted claims cover an isolated cell population secreting GDNF, a pharmaceutical composition comprising the isolated cells, and a device comprising the pharmaceutical composition, including a device that is adapted for administration of the isolated cell population into the spinal cord.
+
+33
+
+
+
+
+
+Table of Contents
+
+On February 19, 2021, the Hong Kong patent office sealed Patent No. HK1209453 titled ‘Methods of Generating Mesenchymal Stem Cells which secrete Neurotrophic Factors’. Allowed claims cover the method for manufacturing MSC-NTF cells (NurOwn®). 
+
+On November 30, 2021, the USPTO issued US Patent No. 11,185,572 titled ‘Mesenchymal stem cells for the treatment of CNS diseases’. The granted claims are for a method of treating a disease selected from the group consisting of Parkinson’s disease, ALS, AD, stroke and Huntington’s disease using MSC-NTF cells (NurOwn).
+
+On February 15, 2022, we announced that the Brazilian Patent Office granted patent application BR112015001435-6 titled ‘A method of generating cells which secrete Brain Derived Neurotrophic Factor (BDNF), Glial Derived Neurotrophic Factor (GDNF), Hepatocyte Growth Factor (HGF) and Vascular Endothelial Growth Factor (VEGF), wherein said cells do not Secrete Nerve Growth Factor (NGF)’. The granted claims cover a method of manufacturing MSC-NTF cells (NurOwn®).
+
+On April 6, 2023, the EPO accepted European Patent Application No.: 15710010.8 titled ‘Method of Qualifying cells’. Allowed claims include a method of qualifying whether a cell population is a suitable therapeutic for treating ALS and an isolated population of mesenchymal stem cells for use in treating ALS.
+
+On June 2, 2023, the Australian Patent Office accepted Application No. 2019252987 titled “Cell-Type Specific Exosomes and Use Thereof”. Accepted claims include an isolated Exosomes population derived form MSC-NTF cells as well as a pharmaceutical composition for the treatment of neurodegenerative diseases.
+
+On August 22, 2023 The Israel Patent Office accepted Application No. 277447 titled “Cell-Type Specific Exosomes and Use Thereof”. Accepted claims include an isolated Exosomes population derived from MSC-NTF cells as well as a pharmaceutical composition for the treatment of neurodegenerative diseases.
+
+On Dec. 26, 2023, we announced the European grant for NurOwn® as well as the Australian grant and Israeli allowance for the NurOwn® exosomes.  
+
+Patents protecting NurOwn® have been issued in the United States, Canada, Japan, Europe, Hong Kong, Brazil and Israel.
+
+Recent Scientific and Industry Presentations
+
+      ●    On February 28, 2024, Dr. Stacy Lindborg, former Co-Chief Executive Officer at Brainstorm Cell Therapeutics, provided a
+
+            corporate update at 17th Annual European Life Sciences CEO Forum in Zurich, Switzerland.  Dr. Lindborg also participated
+
+            in a panel discussion entitled “Neuro Advances Panel: Highlighting the Main
+
+            Opportunities”.
+
+
+
+      ●    On March 4, 2024, Dr. Bob Dagher, then Brainstorm Cell Therapeutics EVP and Chief Development and current EVP and Chief
+
+            Medical Officer, presented a scientific poster titled “Design of A Phase 3B Trial of Debamestrocel (NurOwn®) in ALS” the
+
+            2024 Muscular Dystrophy Association Clinical and Scientific Conference in Orlando, Florida held March 3-6, 2024. The
+
+            presentation provided an overview into the key features of the phase 3b trial
+
+            design.
+
+Research and Development
+
+We are actively engaged in research and development to evaluate the potential for clinical development of NurOwn® and MSC-NTF derived Exosomes in various neurodegenerative disorders, neurodegenerative eye disease and acute respiratory distress syndrome (“ARDS”). MSC-NTF derived Exosomes are an example of ongoing research in additional specialized derivative cell products. Exosomes are extracellular nano-vesicles (secreted by the cells) that carry various molecular components of their cell of origin, including nucleic acids, proteins and lipids. Exosomes can transfer molecules from one cell to another, thereby mediating cell-to-cell communication, ultimately regulating many cell processes, which are suitable for clinical applications in multiple neurodegenerative diseases. NurOwn® derived exosomes may possess unique features for the enhanced delivery of therapeutics to the brain, due to their ability to cross the blood brain barrier and to penetrate the brain and spinal cord.
+
+The exosome research efforts are primarily focused on manufacturing of MSC-NTF exosomes from bone marrow derived MSC:
+
+           1.   Developing and optimizing large scale cell culture processes using bioreactors, to generate exosomes.
+
+
+
+           2.   Developing advanced scalable purification GMP methods that can be applied to commercial use.
+
+34
+
+
+
+
+
+Table of Contents
+
+           3.   Quantification, characterization of phenotype and exosome cargo.
+
+
+
+           4.   Assessment of MSC-NTF exosomes potency and stability.
+
+
+
+           5.   Establishment of a method for exosomes modification.
+
+
+
+           6.   Preclinical experiments in neurodegenerative and lung injury models.
+
+NurOwn® derived exosomes have the potential to treat ARDS due to their ability to penetrate deep tissues and decrease the inflammatory response. ARDS is a type of respiratory failure associated with widespread inflammation and lung damage mediated by dysregulated cytokine production and is one of the severe features of COVID-19.
+
+MSC exosomes may be delivered intravenously or directly into the lungs via intratracheal administration have several practical advantages over cellular therapy including ease of storage, stability, formulation and low immunogenicity.
+
+In a preclinical study, we evaluated MSCs and NurOwn® derived exosomes in an LPS ARDS-mouse model, relevant to severe acute lung injury. The results from the study showed that intratracheal administration of NurOwn® derived exosomes resulted in a statistically significant improvement in multiple lung parameters. These included the clinically relevant factors: functional lung recovery, reduction in pro-inflammatory cytokines and most importantly, attenuation of lung damage. Moreover, MSC-NTF cell derived exosomes exhibited a superior effect when compared to treatment with exosomes derived from naïve MSCs from the same donor. On January 20, 2021, we announced the peer-reviewed publication of this preclinical study in the journal Stem Cell and Research Therapy. The study, entitled “MSC-NTF (NurOwn®) exosomes: a novel therapeutic modality in the mouse LPS-induced ARDS model,” evaluated the use of NurOwn® (MSC-NTF cell) derived exosomes in a mouse model of ARDS.
+
+On May 4, 2022, we made a presentation titled “MSC-NTF derived small extracellular vesicles display superior macrophage immunomodulation compared with vesicles derived from naïve MSCs” at the International Society of Cell & Gene Therapy (“ISCT”) 2022 Meeting in San Francisco, CA May 4-7. The presentation highlighted results of a preclinical study undertaken to understand the mechanisms underlying the superior preclinical efficacy of Exo MSC-NTF versus Exo-MSC in acute lung injury models.
+
+On May 25, 2021, we made a scientific presentation of NurOwn® Exosome preclinical ARDS data at the ISCT 2021 New Orleans Virtual Meeting demonstrating that intrathecal administration of NurOwn-derived exosomes resulted in statistically significant improvements in multiple lung parameters in a mouse model of ARDS.
+
+On May 26, 2022, we presented a poster titled “Therapeutic effect of MSC-NTF exosomes in experimental bleomycin-induced lung injury” at the ISEV 2022 Annual Meeting, Lyon France. Results from a preclinical study demonstrating superior outcomes of exosomes derived from MSC-NTF cells compared to exosomes derived from MSC cells were presented.
+
+A poster titled, “Therapeutic Benefits of MSC-NTF (NurOwn®) Exosomes in Acute Lung Injury Models” was presented on October 19, 2021 at the NYSCF 2021 Virtual Meeting, which was held on October 19-20, 2021. Results in two different acute lung injury models showed that the beneficial effects of intratracheal administration of Exo MSC-NTF (MSC-NTF derived exosomes) were more active than Exo MSC (MSC-derived Exosomes) in multiple parameters, including increase in blood oxygen saturation and reduction in lung pathology, inflammatory infiltration and levels of proinflammatory cytokines in bronchoalveolar lavage fluid (“BALF”), in addition to reduction of lung fibrosis in the Bleomycin model.
+
+The observed positive preclinical results suggest that intratracheal administration of Exo MSC-NTF may have clinical potential as a therapy for acute lung related pathologies and has the potential to modify physiological, pathological, and biochemical outcomes with greater activity than sEVs isolated from naïve MSCs.
+
+For the completed multidose clinical studies in ALS and PMS, the Company has improved the efficiency of NurOwn® production and improved its stability, allowing manufacturing to take place at centralized clean room facilities from which NurOwn® is distributed to the clinical trial sites, where the cells are then administered to patients. The Company is also engaged in several research initiatives to further improve and scale-up manufacturing capacity and extend the shelf life of NurOwn®.
+
+35
+
+
+
+
+
+Table of Contents
+
+Corporate Information
+
+We are incorporated under the laws of the State of Delaware. Our principal executive offices are located at 1325 Avenue of Americas, 28th Floor, New York, NY 10019, and our telephone number is (201) 488-0460. We also maintain an office in Petach Tikva, Israel and in Burlington, Massachusetts. We maintain a website at http://www.brainstorm-cell.com. The information on our website is not incorporated into this Quarterly Report on Form 10-Q.
+
+Results of Operations
+
+For the period from inception (September 22, 2000) until March 31, 2024, we did not generate any revenues from operations. In addition, we incurred operating costs and expenses of approximately $2,474,000 during the quarter ended March 31, 2024.
+
+Research and Development, net
+
+Our business model calls for significant investments in research and development. Our research and development expenditures, net in the quarter ended March 31, 2024 were $961,000, a decrease of $1,963,000 compared to $2,924,000 for the quarter ended March 31, 2023.
+
+This decrease is due to: (i) a decrease of $1,147,000 in connection with costs related to the Phase 3 Clinical Trials; (ii) a decrease of $344,000 for costs related to payroll expenses and (iii) a decrease of $638,000 in connection with materials, depreciation and rent and other costs. This decrease was partially offset by (i) an increase of $151,000 for costs related to stock-based compensation expenses and (ii) an increase of $15,000 for costs related to travel.
+
+General and Administrative
+
+General and administrative expenses for the quarters ended March 31, 2024 and 2023 were $1,513,000 and $2,227,000, respectively. The decrease of $714,000 in general and administrative expenses is mainly due to: (i) a decrease of $332,000 in payroll expenses and (ii) a decrease of $396,000 in the rent costs, depreciation and costs of our investor relations and public relations activities, in the travel costs, consultants and stock costs. This decrease was partially offset by an increase of $14,000 in stock-based compensation expenses.
+
+Financial Expenses
+
+Financial income for the quarter ended March 31, 2024 was $13,000 as compared to financial income of $92,000 for the quarter ended March 31, 2023 due to conversion exchange rates.
+
+Net Loss
+
+Net loss for the quarter ended March 31, 2024 was $3,401,000, as compared to a net loss of $5,059,000 for the quarter ended March 31, 2023. Net loss per share for the quarter ended March 31, 2024 and March 31, 2023 was $0.05 and $0.14, respectively.
+
+The weighted average number of shares of Common Stock used in computing basic and diluted net loss per share for the quarter ended March 31, 2024 was 64,738,544 compared to 36,735,435 for the quarter ended March 31, 2023.
+
+The increase in the weighted average number of shares of Common Stock used in computing basic loss per share for the quarter ended March 31, 2024 was due to: (i) the issuance of shares to employees and directors; (ii) issuance and sale of shares of Common Stock pursuant to the Distribution Agreement and (iii) issuance of shares for private placement.
+
+Additional funding will be required to begin the commercialization efforts and to achieve a level of sales adequate to support the Company’s cost structure.
+
+To meet its capital needs, the Company is considering multiple alternatives, including, but not limited to, additional public and private sales of its Common Stock and warrants, the exercise of warrants, the issuance of convertible promissory notes, sales of Common Stock via its August 9, 2021 ATM program and other funding transactions. While the Company has been successful in raising financing recently and in the past, there can be no assurance that it will be able to do so in the future on a timely basis on terms acceptable to the Company, or at all.
+
+36
+
+
+
+
+
+Table of Contents
+
+Management expects that the Company will continue to generate losses from the clinical development and regulatory activities, which will result in a negative cash flow from operating activity. The Company has completed regulatory review of the BLA for NurOwn for the treatment of ALS with the withdrawal of the BLA on November 3, 2023. The decision to withdraw the BLA was coordinated with FDA and is viewed by FDA as a withdrawal without prejudice. On November 20, 2023, we announced that the FDA granted the company a meeting to discuss the regulatory path forward for NurOwn® in ALS. The meeting took place on December 6, 2023.  On December 7, 2023, we announced the completion of a productive meeting with the FDA to discuss NurOwn®. The primary objective of the meeting was to discuss plans for an SPA with FDA on the overall protocol design for a planned Phase 3b registrational trial for NurOwn®.   The ultimate goal of the SPA is to secure the FDA’s agreement that critical elements of the overall protocol design (e.g., entry criteria, endpoints, planned analyses) are adequate and acceptable for a study intended to support a future marketing application. On February 23, 2024, we announced that we submitted the SPA request to the FDA for the planned Phase 3b clinical trial of NurOwn® for the treatment of ALS. On April 9, 2024, the Company announced that it received written agreement from the FDA, under an SPA, on the design for a Phase 3b trial of NurOwn® in ALS. The SPA agreement with the FDA validates the clinical trial protocol and statistical analysis of the planned Phase 3b trial of NurOwn, demonstrating the Company’s adequacy in addressing objectives that support a future BLA in ALS.
+
+If the Company is not able to raise additional capital for these purposes, the Company may not be able to continue to function as a going concern. The Company’s consolidated financial statements do not reflect any adjustments that might result from the outcome of this uncertainty.
+
+Liquidity and Capital Resources
+
+Since inception, the Company has financed its operations primarily through public and private sales of its Common Stock and warrants, the exercise of warrants, the issuance of convertible promissory notes, sales via the ATM programs and through various grants. At March 31, 2024 cash, cash equivalents and restricted cash amounted to $961,000.
+
+Net cash used in operating activities for the quarter ended March 31, 2024 was $3,063,000. Cash used for operating activities was primarily attributed to cost of clinical trials, rent of clean room and materials for clinical trials, payroll costs, rent, outside legal fee expenses and public relations expenses.
+
+Net cash provided by financing activities for the quarter ended March 31, 2024 was $2,539,000 from sales of common stock under the August 9, 2021 ATM programs.
+
+On August 9, 2021, the Company entered into an Amended and Restated Distribution Agreement (the “New Distribution Agreement”) with the Agents pursuant to which the Company may sell from time to time, through the Agents, shares of Common Stock, having an aggregate offering price of up to $100,000,000 (the “August 9, 2021, ATM”). Sales under the August 9, 2021, ATM are to be made by any method permitted by law that is deemed to be an “at the market” offering as defined in Rule 415 promulgated under the Securities Act, including, without limitation, sales made directly on the Nasdaq Capital Market, on any other existing trading market for the Shares, through a market maker or as otherwise agreed by the Company and the Agents. In connection with the New Distribution Agreement, the Company terminated the previous Distribution Agreement and the September 25, 2020, ATM. During the quarter ended March 31, 2024, the Company sold 7,957,985 shares of Common Stock for gross proceeds of approximately $2,626,846 under the August 9, 2021, ATM.
+
+At-the-market (ATM) Offerings:
+
+On June 11, 2019, the Company entered into a distribution agreement with Raymond James & Associates, Inc. (“Raymond James”), pursuant to which the Company sold, through the Raymond James, shares of Common Stock having an aggregate offering amount of $20,000,000 (the “June 11, 2019 ATM”) in an “at the market” offering as defined in Rule 415 promulgated under the Securities Act, including, without limitation, by sales made directly on the Nasdaq Capital Market, on any other existing trading market for the Shares, through a market maker or as otherwise agreed by the Company and Raymond James.
+
+On March 6, 2020, the Company entered into a new distribution agreement with Raymond James (the “Agent”), pursuant to which the Company was able to sell from time to time, through the Agent, shares of Common Stock, having an aggregate offering price of up to $50,000,000 (the “March 6, 2020, ATM”). Sales under the March 6, 2020. ATM were made by any method permitted by law that is deemed to be an “at the market” offering as defined in Rule 415 promulgated under the Securities Act, including, without limitation, sales made directly on the Nasdaq Capital Market, on any other existing trading market for the Shares, through a market maker or as 
+
+37
+
+
+
+
+
+Table of Contents
+
+otherwise agreed by the Company and Raymond James. Under the March 6, 2020, ATM, the Company sold an aggregate of 2,446,641 shares of Common Stock at an average price of $9.45 per share, raising gross proceeds of approximately $23.11 million.
+
+On September 25, 2020, the Company entered into an Amended and Restated Distribution Agreement (the “Distribution Agreement”) with SVB Leerink LLC (“Leerink”) and Raymond James & Associates (together with Leerink, the “Agents”) pursuant to which the Company may sell from time to time, through the Agents, shares of Common Stock, having an aggregate offering price of up to $45,000,000, which aggregate amount includes amount unsold pursuant to the March 6, 2020, ATM (the “September 25, 2020, ATM”). Sales under the September 25, 2020, ATM are to be made by any method permitted by law that is deemed to be an “at the market” offering as defined in Rule 415 promulgated under the Securities Act, including, without limitation, sales made directly on the Nasdaq Capital Market, on any other existing trading market for the Shares, through a market maker or as otherwise agreed by the Company and the Agents. The Distribution Agreement amends and restates in its entirety the Company’s prior agreement with Raymond James entered into on March 6, 2020 (the “March 6, 2020, ATM”). The Company previously sold 2,446,641 shares of Common Stock for gross proceeds of approximately $23.11 million of Common Stock under the March 6, 2020, ATM. During the quarter ended September 30, 2021, the Company did not sell any additional shares of its Common Stock pursuant to the September 25, 2020, ATM. Since inception and as of September 30, 2021, the Company had sold 4,721,282 shares of Common Stock for gross proceeds of approximately $29.1 million under the September 25, 2020, ATM.
+
+The Company has no obligation under the September 25, 2020, ATM to sell any shares and may at any time suspend sales or terminate the September 25, 2020, ATM in accordance with its terms. Subject to the terms and conditions of the Distribution Agreement, the Agents will use their commercially reasonable efforts to sell on the Company’s behalf, from time to time consistent with its normal sales and trading practices, such Shares based upon instructions from the Company (including any price, time or size limits or other customary parameters or conditions the Company may impose). The Company has provided the Agents with customary indemnification rights, and the Agents will be entitled to a fixed commission of 3.0% of the aggregate gross proceeds from the Shares sold. The Distribution Agreement contains customary representations and warranties, and the Company is required to deliver customary closing documents and certificates in connection with sales of the Shares. Shares sold under the ATMs are issued pursuant to the Company’s existing Shelf Registration Statement, and the Prospectus Supplement to the Registration Statements filed June 11, 2019, March 6, 2020, and September 25, 2020, respectively.
+
+On August 9, 2021, the Company entered into an Amended and Restated Distribution Agreement (the “New Distribution Agreement”) with the Agents pursuant to which the Company may sell from time to time, through the Agents, shares of Common Stock, having an aggregate offering price of up to $100,000,000 (the “August 9, 2021, ATM”). Sales under the August 9, 2021, ATM are to be made by any method permitted by law that is deemed to be an “at the market” offering as defined in Rule 415 promulgated under the Securities Act, including, without limitation, sales made directly on the Nasdaq Capital Market, on any other existing trading market for the Shares, through a market maker or as otherwise agreed by the Company and the Agents. In connection with the New Distribution Agreement, the Company terminated the previous Distribution Agreement and the September 25, 2020, ATM. During the quarter ended March 31, 2024, the Company sold 7,957,985 shares of Common Stock for gross proceeds of approximately $2,626,846 under the August 9, 2021, ATM. On April 2, 2024, we entered into Amendment No. 1 to the New Distribution Agreement (“Amendment No. 1”) pursuant to which Leerink Partners ceased to be an agent.
+
+Recent Sales of Unregistered Securities:
+
+On July 17, 2023, the Company entered into a Securities Purchase Agreement with the purchaser named therein, pursuant to which the Company agreed to sell, in a public offering (the “Offering”), an aggregate of 4,054,055 shares of Common Stock, together with accompanying warrants (the “Common Warrants”) to purchase 4,054,055 shares of Common Stock, at a purchase price of $1.85 per share and accompanying warrants for gross proceeds to the Company of approximately $7.5 million, before deducting fees payable to the placement agent and other estimated offering expenses payable by the Company. The Offering closed on July 19, 2023. The Common Warrants are immediately exercisable, expire five years following the date of issuance and have an exercise price of $2.00 per share.
+
+We expect that we will continue to generate losses from the clinical development and regulatory activities, which will result in a negative cash flow from operating activity. If we are granted an SPA with the FDA, additional capital raise will be needed to conduct a Phase 3b trial in ALS, to commercialize NurOwn® for ALS, and for future trials that may be needed for other indications. The actual amount of cash that the Company will need to operate is subject to many factors, including, but not limited to, the timing, design and conduct of clinical trials for our product candidates, along with cost to commercialize these product candidates.
+
+38
+
+
+
+
+
+Table of Contents
+
+We anticipate that we will need to raise substantial additional financing in the future to fund our operations. In order to meet these additional cash requirements, we may incur debt, license certain intellectual property, and seek to sell additional equity or convertible securities that may result in dilution to our stockholders. If we raise additional funds through the issuance of equity or convertible securities, these securities could have rights or preferences senior to those of our common stock and could contain covenants that restrict our operations. There can be no assurance that we will be able to obtain additional equity or debt financing on terms acceptable to us, if at all. Our future capital requirements will depend on many factors, including:
+
+           ●    our ability to obtain funding from third parties, including any future collaborative partners;
+
+
+
+           ●    the scope, rate of progress and cost of our clinical trials and other research and development programs;
+
+
+
+           ●    the time and costs required to gain regulatory approvals;
+
+
+
+           ●    the terms and timing of any collaborative, licensing and other arrangements that we may establish;
+
+
+
+           ●    the costs of filing, prosecuting, defending and enforcing patents, patent applications, patent claims, trademarks and
+
+                 other intellectual property
+
+                 rights;
+
+
+
+           ●    any product liability or other lawsuits related to our product candidates;
+
+
+
+           ●    the expenses needed to attract and retain skilled personnel;
+
+
+
+           ●    the costs and timing of future commercialization activities, including product manufacturing, marketing, sales, and
+
+                 distribution, for any of our product candidates for which we receive marketing
+
+                 approval;
+
+
+
+           ●    the revenue, if any, received from commercial sales of our product candidates for which we receive marketing approval;
+
+
+
+           ●    the general and administrative expenses related to being a public company;
+
+
+
+           ●    the effect of competition and market developments; and
+
+
+
+           ●    future pre-clinical and clinical trial results.
+
+Critical Accounting Policies
+
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the U.S. The preparation of our consolidated financial statements and disclosures requires us to make judgments, estimates, and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements as well as the reported revenue and expenses during the reporting periods. We base our estimates on historical experience, known trends and events and various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. We evaluate our estimates and assumptions on an ongoing basis. Our actual results may differ from these estimates under different assumptions and conditions.
+
+While our significant accounting policies are described in more detail in the notes to our audited consolidated financial statements appearing elsewhere in this Annual Report on Form 10-K we believe that the following accounting policies are those most critical to the judgments and estimates used in the preparation of our consolidated financial statements.
+
+Accounting for stock-based compensation:
+
+We grant equity-based awards under share-based compensation plans. We estimate the fair value of share-based payment awards using the Black-Scholes option valuation model. This fair value is then amortized over the requisite service periods of the awards. The Black-Scholes option valuation model requires the input of subjective assumptions, including price volatility of the underlying stock, risk-free interest rate, dividend yield, and expected life of the option. Share-based compensation expense is based on awards ultimately expected 
+
+39
+
+
+
+
+
+Table of Contents
+
+to vest, and therefore is reduced by expected forfeitures. Changes in assumptions used under the Black-Scholes option valuation model could materially affect our net loss and net loss per share.
+
+Off Balance Sheet Arrangements
+
+We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future material effect on our financial condition, changes in financial condition, revenue or expenses, results of operations, liquidity, capital expenditures, or capital resources.
+
+​
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+This information has been omitted as the Company qualifies as a smaller reporting company.
+
+​
+
+Item 4. Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures
+
+As of the end of the period covered by this quarterly report, we carried out an evaluation, under the supervision and with the participation of our Chief Executive Officer, former Co-Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)). Based on this evaluation, our Chief Executive Officer, former Co-Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective, as of the end of the period covered by this report, to ensure that information required to be disclosed by us in the reports we file under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and that the information required to be disclosed by us in such reports is accumulated and communicated to our management, including our Co-Chief Executive Officers and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+
+Changes in Internal Control Over Financial Reporting
+
+There have been no changes in our internal controls over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the quarter ended March 31, 2024, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+​
+
+PART II: OTHER INFORMATION
+
+Item 1. Legal Proceedings.
+
+From time to time, we may become involved in litigation relating to claims arising out of operations in the normal course of business, which we consider routine and incidental to our business.
+
+​
+
+Between November 1, 2023 and April 12, 2024, five lawsuits were filed in the U.S. District Court for the Southern District of New York by purported shareholders of the Company.
+
+​
+
+On November 1, 2023, a purported shareholder of the Company filed a putative securities class action complaint against the Company and certain of its officers, captioned Sporn v. Brainstorm Cell Therapeutics Inc., et al., Case No. 1:23-cv-09630 (the “Securities Complaint”), in the United States District Court for the Southern District of New York (the “Securities Action”).  The Lead Plaintiff filed an Amended Complaint on April 1, 2024; the Amended Complaint adds a former officer as an individual defendant.  The Amended Complaint in the Securities Action alleges violations of Sections 10(b) of the Securities and Exchange Act of 1934, as amended, and Rule 10b-5 promulgated thereunder against all defendants and control person violations of Section 20(a) against the individual defendants, relating to NurOwn® for the treatment of ALS, the Company’s submissions to and communications with the FDA in support of the approval of NurOwn® for the treatment of ALS, and the prospects of future approval of NurOwn® by the FDA.  The Securities Action seeks, among other things, damages in connection with an allegedly inflated stock price between February 18, 2020and September 27, 2023, as well as attorneys’ fees and costs.  The Company’s and individual defendants’ deadline to respond to the Amended Complaint is May 31, 2024.
+
+​
+
+On February 14, 2024, February 15, 2024, March 21, 2024, and April 12, 2024 four purported shareholders of the Company filed derivative action complaints against the Company as nominal defendant and certain of its officers, current and former directors, and 
+
+40
+
+
+
+
+
+Table of Contents
+
+members of its scientific advisory board, captioned Porteous v. Lebovits, et al., Case No. 1:24-cv-01095; Andrev v. Lebovits, et al., Case No. 1:24-cv-1101; and Holtzman v. Lebovits, et al., Case No. 1:24-cv-02139, and Hamby v. Lebovits, et al., Case No. 1:24-cv-02811 (the “Derivative Complaints”) in the United States District Court for the Southern District of New York (the “Derivative Actions”).  On April 25, 2024, the Court consolidated the Derivative Actions into a consolidated action captioned In Re Brainstorm Cell Therapeutics, Inc. Derivative Litigation, Case No. 1:24-cv-01095-DEH (the “Consolidated Derivative Action”), and appointed Co-Lead Counsel.  All substantive deadlines in the Consolidated Derivative Action are currently stayed.  Plaintiffs have not yet filed a consolidated complaint; the Derivative Actions, brought on behalf of the Company, each assert state law claims for breach of fiduciary duty and unjust enrichment against the individual defendants. The complaints in Holtzman and Hamby also assert state law claims against the individual defendants for abuse of control, gross mismanagement, corporate waste, a claim against the individual defendants for violations of Section 14(a) of the Securities and Exchange Act of 1934, as amended, and a claim against two officer defendants for contribution under Sections 10(b) and 21D of the Exchange Act.  The Derivative Complaints allege that the individual defendants breached their fiduciary duties and duties under the Exchange Act in connection with the Company’s internal controls relating to, as with the allegations in the Securities Complaint, NurOwn® for the treatment of ALS, the Company’s submissions to and communications with the FDA in support of the approval of NurOwn® for the treatment of ALS, and the prospects of future approval of NurOwn® by the FDA their actions or omissions could not have been a good faith exercise of prudent business.  The Derivative Actions seek among other things, monetary damages and disgorgement of performance-based compensation granted in connection with an allegedly inflated stock price between August 15, 2022 and September 27, 2023, as well as attorneys’ fees and costs.
+
+​
+
+The Company intends to vigorously defend against the lawsuits.
+
+​
+
+Item 1A. Risk Factors.
+
+Other than the additional risk factors below, there have not been any material changes from the risk factors previously disclosed in the “Risk Factors” section of our Annual Report on Form 10 - K for the fiscal year ended December 31, 2023.
+
+In addition to the other information set forth in this Quarterly Report on Form 10 - Q, you should carefully consider the risk factors in our Annual Report on Form 10 - K for the fiscal year ended December 31, 2023, which could materially affect our business, financial condition or future results. The risks described in our Annual Report on Form 10 - K for the fiscal year ended December 31, 2023, and in this Quarterly Report on Form 10 - Q, are not the only risks we face. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results.
+
+If we fail to regain compliance with the continued listing requirements of Nasdaq, our Common Stock may be delisted, and the price and liquidity of our common stock may be negatively impacted.
+
+On November 1, 2023, we received a letter from the listing qualifications department staff (the “Staff”) of Nasdaq Stock Market (“Nasdaq”) indicating that we are not in compliance with the $1.00 minimum bid price requirement set forth in Nasdaq Listing Rule 5550(a)(2) for continued listing on The Nasdaq Capital Market (the “Bid Price Requirement”). In accordance with Nasdaq Listing Rule 5810(c)(3)(A), we had an initial compliance period of 180 calendar days from the date of the letter, or until April 29, 2024, to regain compliance with respect to the Bid Price Requirement. To regain compliance with the Bid Price Requirement, the closing bid price of our common stock had to meet or exceed $1.00 per share for a minimum of ten consecutive business days during the initial compliance period. However, on May 1, 2024, Nasdaq notified us in writing of its determination to delist our Common Stock due to continued noncompliance with the Bid Price Requirement as of April 29, 2024, and we are actively taking steps to appeal this delisting determination.
+
+Specifically, on May 2, 2024, we submitted a hearing request to the Nasdaq Hearings Panel (the “Panel”) to appeal the Staff’s determination. On the same day, we received a letter from Nasdaq notifying us that, among other things, (i) the Panel hearing has been scheduled, (ii) the hearing request we submitted has stayed the suspension of our securities and the filing of the Form 25-NSE pending a final written decision by the Panel, and (iii) the Panel is providing us with the option to participate in an expedited review process. We intend to participate in the expedited review process provided by the Panel.
+
+Upon the conclusion of the expedited review process, the Panel may determine that an oral hearing is not necessary in order to grant an exception to regain compliance in this matter. In this event, no hearing will be necessary, and the Panel will issue a decision describing the terms of the exception, including the compliance deadline and any milestones we must meet, based on our responses provided in the expedited review process and the written record. If the Panel is unable to conclude that an exception is appropriate based on our responses provided in the expedited review process and the written record, there will not be prejudice against us and the hearing will proceed as scheduled. At the Panel hearing, we intend to present a plan to regain compliance with the Minimum Bid Price Requirement. In the 
+
+41
+
+
+
+
+
+Table of Contents
+
+interim, our common stock will continue to trade on The Nasdaq Capital Market under the symbol “BCLI” at least pending the ultimate conclusion of the hearing process.
+
+There can be no assurance that the Panel will determine to grant us an exception to regain compliance in this matter after the conclusions of the expedited review process, or that our plan to regain compliance presented in the hearing will be accepted by the Panel, or that, if it is, we will be able to regain compliance with the applicable Nasdaq listing requirements.
+
+If we are unsuccessful in our appeal process, delisting from the Nasdaq market could make trading the Common Stock more difficult for investors, potentially leading to declines in our share price and liquidity. In addition, without a Nasdaq market listing, stockholders may have a difficult time getting a quote for the sale or purchase of the Common Stock, the sale or purchase of the Common Stock would likely be made more difficult and the trading volume and liquidity of the Common Stock could decline. Delisting from Nasdaq could also result in negative publicity, could also make it more difficult for us to raise additional capital through alternative financing sources on terms acceptable to us, or at all, and may result in potential loss of confidence by investors, employees, and could result in fewer business development opportunities. We cannot assure you that the Common Stock, if delisted from Nasdaq, will be listed on another national securities exchange or quoted on an over-the counter quotation system.
+
+We are and could be further subject to securities class action litigation and other types of stockholder litigation.
+
+The stock market in general, and the Nasdaq Global Market and biotechnology companies in particular, have experienced extreme price and volume fluctuations that have often been unrelated or disproportionate to the operating performance of these companies. Securities class action litigation has often been instituted against companies following periods of volatility in the market price of a company’s securities. For example, in November 2023, a purported stockholder filed a lawsuit against us and certain of our officers captioned Sporn v. Brainstorm Cell Therapeutics, Inc. et al. in the U.S. District Court for the Southern District of New York, and in February 2024, March 2024, and April 2024, four derivative actions were filed in the same court, consolidated and captioned In Re Brainstorm Cell Therapeutics, Inc. Derivative Litigation (see “Item 3. Legal Proceedings” for a more detailed description of these matters). We could also be subject to other types of litigation, which may involve claims of breach of fiduciary duties by our directors or officers for misuse/mismanagement of company assets/resources or conflicts of interest. Any such litigation, if instituted, could result in substantial costs and a diversion of management’s attention and resources, which would harm our business, operating results, or financial condition.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+
+None.
+
+​
+
+Item 3. Defaults Upon Senior Securities. 
+
+None. 
+
+​
+
+Item 4. Mine Safety Disclosures. 
+
+Not applicable.
+
+Item 5. Other Information.
+
+During the quarter ended March 31, 2024, we made no material changes to the procedures by which stockholders may recommend nominees to our Board, as described in our most recent proxy statement.
+
+​
+
+42
+
+
+
+
+
+Table of Contents
+
+Item 6. Exhibits.
+
+The following documents are filed as exhibits to this report:
+
+​               ​  ​                                                   ​           ​          ​         Incorporated by Reference Herein         ​
+
+Exhibit                                Description                             Filed (or            Form        Exhibit & File    Date Filed   
+
+Number                                                                       Furnished) with                          No.        
+
+                                                                                this Form
+
+                                                                                  10-Q
+
+​               ​  ​                                                   ​  ​                   ​ ​            ​ ​               ​ ​            ​
+
+3.1             ​  Certificate of Incorporation of Brainstorm Cell     ​           ​          ​  Definitive  ​ Appendix B File ​ November 20, ​
+
+                    Therapeutics                                                                   Schedule           No.             2006
+
+                    Inc.                                                                             14A           333-61610
+
+3.2             ​  Certificate of Amendment of Certificate of          ​           ​          ​   Form 8-K   ​   Exhibit 3.1   ​   September  ​
+
+                    Incorporation of Brainstorm Cell Therapeutics                                                  File No.           16,
+
+                    Inc., dated September 15,                                                                      000-54365          2014
+
+                    2014.
+
+3.3             ​  Certificate of Amendment of Certificate of          ​           ​          ​   Form 8-K   ​   Exhibit 3.1   ​ September 4, ​
+
+                    Incorporation of Brainstorm Cell Therapeutics                                                  File No.           2015
+
+                    Inc., dated August 31,                                                                         001-36641
+
+                    2015.
+
+3.4             ​  ByLaws of Brainstorm Cell Therapeutics Inc.         ​           ​          ​  Definitive  ​ Appendix C File ​ November 20, ​
+
+                                                                                                   Schedule           No.             2006
+
+                                                                                                     14A           333-61610
+
+3.5             ​  Amendment No. 1 to ByLaws of Brainstorm Cell        ​           ​          ​   Form 8-K   ​   Exhibit 3.1   ​   March 27,  ​
+
+                    Therapeutics Inc., dated as of March 21,                                                       File No.           2007
+
+                    2007.                                                                                          333-61610
+
+31.1            ​  Certification of Principal Executive Officer        ​           *          ​       ​      ​        ​        ​       ​      ​
+
+                    pursuant to Section 302 of the Sarbanes-Oxley Act
+
+                    of
+
+                    2002.
+
+31.2            ​  Certification of Principal Financial Officer        ​           *          ​       ​      ​        ​        ​       ​      ​
+
+                    pursuant to Section 302 of the Sarbanes-Oxley Act
+
+                    of
+
+                    2002.
+
+32.1            ​  Certification of Principal Executive Officer        ​           ‡          ​       ​      ​        ​        ​       ​      ​
+
+                    pursuant to Section 906 of the Sarbanes-Oxley Act
+
+                    of
+
+                    2002.
+
+32.2            ​  Certification of Principal Financial Officer        ​           ‡          ​       ​      ​        ​        ​       ​      ​
+
+                    pursuant to Section 906 of the Sarbanes-Oxley Act
+
+                    of
+
+                    2002.
+
+101.INS         ​  XBRL Instance Document - the instance document does ​           *          ​       ​      ​        ​        ​       ​      ​
+
+                    not appear in the Interactive Data File because
+
+                    its XBRL tags are embedded within the Inline XBRL
+
+                    document.
+
+101.SCH         ​  Inline XBRL Taxonomy Extension Schema Document      ​           *          ​       ​      ​        ​        ​       ​      ​
+
+101.CAL         ​  Inline XBRL Taxonomy Extension Calculation Linkbase ​           *          ​       ​      ​        ​        ​       ​      ​
+
+                    Document
+
+101.DEF         ​  Inline XBRL Taxonomy Extension Definition Linkbase  ​           *          ​       ​      ​        ​        ​       ​      ​
+
+                    Document
+
+101.LAB         ​  Inline XBRL Taxonomy Extension Label Linkbase       ​           *          ​       ​      ​        ​        ​       ​      ​
+
+                    Document
+
+101.PRE         ​  Inline XBRL Taxonomy Extension Presentation         ​           *          ​       ​      ​        ​        ​       ​      ​
+
+                    Linkbase
+
+                    Document
+
+104             ​  Cover Page Interactive Data File (formatted as      ​           *          ​       ​      ​        ​        ​       ​      ​
+
+                    Inline XBRL and contained in Exhibit
+
+                    101)
+
+
+
+*Filed herewith
+
+‡Furnished herewith
+
+​
+
+43
+
+
+
+
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+​
+
+                                                                    BRAINSTORM CELL THERAPEUTICS INC.
+
+                                                                           
+
+Date: May 14, 2024                                                  By:   /s/ Chaim Lebovits
+
+​                                                                   ​     Name: Chaim Lebovits
+
+​                                                                   ​     Title: Chief Executive Officer
+
+                                                                          (Principal Executive Officer)
+
+​                                                                   ​     ​
+
+​                                                                   ​     ​
+
+​                                                                   ​     ​
+
+                                                                    By:   /s/ Alla Patlis
+
+                                                                          Name: Alla Patlis
+
+                                                                          Title: Controller, Interim Chief Financial Officer
+
+                                                                          (Principal Financial Officer)
+
+​
+
+​
+
+44

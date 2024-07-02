@@ -1,0 +1,3495 @@
+Table of Contents
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q 
+
+(Mark One)
+
+
+
+   ☒   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended March 31, 2024 
+
+OR
+
+
+
+   ☐   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from  _________ to __________
+
+_______________________________________
+
+
+
+Digital Media Solutions, Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+_______________________________________
+
+
+
+                        Delaware                                                001-38393                                               98-1399727
+
+                (State of incorporation)                                 (Commission File Number)                          (I.R.S. Employer Identification No.)
+
+
+
+                              4800 140th Avenue N., Suite 101, Clearwater, Florida                                                        33762
+
+                                    (Address of Principal Executive Offices)                                                            (Zip Code)
+
+Registrant's telephone number, including area code: (877) 236-8632 
+
+
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+_______________________________________
+
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+None
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. 
+
+
+
+Large accelerated filer                                                      ☐      Accelerated filer                                                            ☐
+
+Non-accelerated filer                                                        ☒      Smaller reporting company                                                    ☒
+
+                                                                                    Emerging growth company                                                      ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒ 
+
+As of May 13, 2024, 4,442,103 shares of the registrant’s Class A common stock; no shares of the registrant’s Class B common stock, par value $0.0001 per share; and 28,443,522 warrants to purchase one-fifteenth share of the registrant’s Class A Common Stock, were issued and outstanding. 
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+Digital Media Solutions, Inc.
+
+Table of Contents
+
+
+
+                                                                                                                            Page No.
+
+
+
+Part I. Financial Information
+
+Item 1.       Financial Statements                                                                                                    1
+
+              Consolidated Balance Sheets                                                                                             1
+
+              Consolidated Statements of Operations                                                                                   2
+
+              Consolidated Statements of Changes in Preferred Stock and Stockholders’ Deficit                                         3
+
+              Consolidated Statements of Cash Flows                                                                                   5
+
+              Condensed Notes to Consolidated Financial Statements                                                                    6
+
+Item 2.       Management’s Discussion and Analysis of Financial Condition and Results of Operations                                  23
+
+Item 3.       Quantitative and Qualitative Disclosures About Market Risk                                                             35
+
+Item 4.       Evaluation of Disclosure Controls and Procedures                                                                       36
+
+Part II. Other Information
+
+Item 1.       Legal Proceedings                                                                                                      38
+
+Item 1A.      Risk Factors                                                                                                           38
+
+Item 2.       Unregistered Sales of Equity Securities and Use of Proceeds from Registered Securities                                 38
+
+Item 3.       Defaults Upon Senior Securities                                                                                        38
+
+Item 4.       Mine Safety Disclosures                                                                                                38
+
+Item 5.       Other Information                                                                                                      38
+
+Item 6.       Exhibits                                                                                                               39
+
+Signatures                                                                                                                           40
+
+
+
+
+
+2
+
+
+
+Table of Contents
+
+Cautionary Note Regarding Forward-Looking Statements
+
+
+
+References in this document to the “Registrant,” “DMS Inc.,” “DMS,” the “Company,” “we,” “management,” “us” or “our” refers to Digital Media Solutions, Inc. and its consolidated subsidiaries, except where the context otherwise requires or indicates. 
+
+
+
+This Quarterly Report, particularly Part I. Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) and Part II. Item 1A. Risk Factors, and the documents we incorporate into this Quarterly Report contain certain statements that are, or may be deemed to be, forward-looking statements within the meaning of that term in Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and are made in reliance upon the protections provided by such acts for forward-looking statements and the Private Securities Litigation Reform Act of 1995. These forward-looking statements are often identified by words such as “expect,” “estimate,” “project,” “budget,” “forecast,” “anticipate,” “intend,” “plan,” “may,” “will,” “could,” “should,” “believes,” “assume,” “likely,” “predicts,” “potential,” “continue,” and similar expressions. These forward-looking statements include, without limitation, our expectations with respect to our future performance and our ability to implement its strategy, and are based on the beliefs and expectations of our management team from the information available at the time such statements are made. These forward-looking statements involve a number of judgments, risks and uncertainties that could cause the actual results to differ materially from the expected results. Most of these factors are outside our control and are difficult to predict. Factors that may cause such differences include, but are not limited to: 
+
+
+
+•financial and business performance, including business metrics and potential liquidity;
+
+•changes to our strategy, future operations, financial position, estimated revenues and losses, projected costs, prospects and plans, including related to our strategic review process and the potential sale of all or part of our business;
+
+•ability to attain the expected financial benefits from the ClickDealer transaction;
+
+•any impacts to the ClickDealer business from our acquisition thereof, 
+
+•ability to successfully recover should DMS experience a disaster or other business continuity problem from a hurricane, flood, earthquake, terrorist attack, pandemic, security breach, cyber attack, data breach, power loss, telecommunications failure or other natural or man-made event;
+
+•ability to manage our international expansion as a result of the ClickDealer acquisition, including operations in the Ukraine; 
+
+•the Company’s exposure to potential criminal sanctions or civil penalties for noncompliance with foreign and U.S. laws and regulations that are applicable in the domestic and international jurisdictions in which it operates, including sanctions laws relating to countries such as Iran, Russia, Sudan, Syria and Venezuela, anti-corruption laws such as the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act of 2010, and local laws prohibiting corrupt payments to government officials, as well as import and export restrictions; 
+
+•changes in client demand for our services and our ability to adapt to such changes; 
+
+•the entry of new competitors in the market;
+
+•the ability to maintain and attract consumers and advertisers in the face of changing economic or competitive conditions; 
+
+•the ability to maintain, grow and protect the data DMS obtains from consumers and advertisers, and to ensure compliance with data privacy regulations in newly entered markets; 
+
+•the performance of DMS’s technology infrastructure; 
+
+•ability to protect DMS’s intellectual property rights; 
+
+•ability to successfully source, complete and integrate acquisitions; 
+
+•ability to improve and maintain adequate internal controls over financial and management systems, and remediate material weaknesses therein, including relating to revenue and the impairment of goodwill and intangible assets;
+
+•the continuously evolving laws and regulations applicable to our business in the United States and around the world and our ability to maintain compliance therewith; 
+
+•our substantial levels of indebtedness; 
+
+•our ability to maintain adequate operational and financial resources or raise additional capital or generate sufficient cash flows, including our ability to service our debt obligations under our senior secured credit facility, entered into on May 25, 2021 (as amended from time to time, the “Credit Facility”);
+
+•our ability to comply with the covenants in our Credit Facility and our obligations to the holders of our Series A convertible redeemable Preferred Stock (“Series A Preferred Stock”) and Series B convertible redeemable Preferred Stock (“Series B Preferred Stock,” collectively the “Preferred Stock”);
+
+•volatility in the trading price of our common stock and our Public Warrants and fluctuations in value of our Private Placement Warrants and the Preferred Warrants (collectively, the “Warrants”); and
+
+•other risks and uncertainties indicated from time to time in DMS’s filings with the U.S. Securities and Exchange Commission (“SEC”), including those under “Risk Factors” in DMS’s Annual Report on Form 10-K for the year ended December 31, 2023, filed on April 18, 2024 (“2023 Form 10-K”) and its subsequent filing with the SEC. 
+
+
+
+3
+
+
+
+Table of Contents
+
+There may be additional risks that we consider immaterial or which are unknown, and it is not possible to predict or identify all such risks. 
+
+
+
+DMS cautions that the foregoing list of factors is not exclusive. DMS cautions readers not to place undue reliance upon any forward-looking statements, which speak only as of the date made. DMS does not undertake or accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect any change in its expectations or any change in events, conditions or circumstances on which any such statement is based.
+
+
+
+These forward-looking statements are based on information available as of the date of this Quarterly Report, and current expectations, forecasts and assumptions. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, investments or similar transactions.
+
+
+
+4
+
+
+
+Table of Contents
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+
+
+DIGITAL MEDIA SOLUTIONS, INC.
+
+Consolidated Balance Sheets
+
+(in thousands, except per share data) 
+
+
+
+                                                                                                                   March 31, 2024          December 31, 2023
+
+                                                                                                                     (unaudited)
+
+                                                    Assets
+
+Current assets:
+
+Cash and cash equivalents                                                                                      $              14,181    $             18,466 
+
+Restricted cash                                                                                                                  505                      502 
+
+Accounts receivable, net of allowances of $3,732 and $4,172, respectively                                                     32,397                   35,322 
+
+Contract assets - current, net                                                                                                 5,613                    6,467 
+
+Prepaid and other current assets                                                                                               2,980                    2,908 
+
+Income tax receivable                                                                                                          2,064                    2,133 
+
+Total current assets                                                                                                          57,740                   65,798 
+
+Property and equipment, net                                                                                                   14,454                   15,390 
+
+Operating lease right-of-use assets, net                                                                                         692                      862 
+
+Goodwill                                                                                                                      32,849                   32,849 
+
+Intangible assets, net                                                                                                        28,071                   29,441 
+
+Contract assets - non-current, net                                                                                             1,015                    1,632 
+
+
+
+Other assets                                                                                                                   1,197                    1,315 
+
+Total assets                                                                                                   $             136,018    $            147,287 
+
+                            Liabilities, Preferred Stock and Stockholders' Deficit
+
+Current liabilities:
+
+Accounts payable                                                                                               $              42,331    $             41,235 
+
+Accrued expenses and other current liabilities                                                                                10,568                   10,548 
+
+Current portion of long-term debt                                                                                              2,750                    2,750 
+
+
+
+Tax Receivable Agreement liability                                                                                               164                      164 
+
+Operating lease liabilities - current                                                                                          1,812                    1,812 
+
+Contingent consideration payable - current                                                                                     1,000                    1,000 
+
+
+
+Total current liabilities                                                                                                     58,625                   57,509 
+
+Long-term debt                                                                                                               299,119                  286,353 
+
+Deferred tax liabilities                                                                                                         284                      314 
+
+Operating lease liabilities - non-current                                                                                        187                      532 
+
+Warrant liabilities                                                                                                            1,016                       82 
+
+
+
+Contingent consideration payable - non-current                                                                                   495                      512 
+
+
+
+
+
+Total liabilities                                                                                                            359,726                  345,302 
+
+
+
+Preferred stock, $0.0001 par value, 100,000 shares authorized; 80 Series A and 60 Series B convertible                        16,802                   16,646 
+
+ redeemable issued and outstanding, respectively, at March 31,
+
+ 2024
+
+
+
+Stockholders' deficit:
+
+Class A common stock, $0.0001 par value, 500,000 shares authorized; 4,287 issued and outstanding at March 31,                      4                        4 
+
+ 2024
+
+ 
+
+Class B convertible common stock, $0.0001 par value, 60,000 shares authorized; 1,672 issued and 151                                3                        3 
+
+ outstanding, respectively, at March 31,
+
+ 2024
+
+Class C convertible common stock, $0.0001 par value, 40,000 authorized; none issued and outstanding at March                       —                        — 
+
+ 31,
+
+ 2024
+
+Additional paid-in capital                                                                                                   (79,298)                 (80,523)
+
+Treasury stock, at cost, 7 and 7 shares, respectively                                                                           (235)                    (235)
+
+Cumulative deficit                                                                                                          (151,773)                (126,230)
+
+Total stockholders' deficit                                                                                                 (231,299)                (206,981)
+
+Non-controlling interest                                                                                                      (9,211)                  (7,680)
+
+
+
+Total deficit                                                                                                               (240,510)                (214,661)
+
+Total liabilities, preferred stock and stockholders' deficit                                                   $             136,018    $            147,287 
+
+
+
+The accompanying condensed notes are an integral part of the unaudited consolidated financial statements.
+
+1
+
+
+
+Table of Contents
+
+DIGITAL MEDIA SOLUTIONS, INC.
+
+Consolidated Statements of Operations
+
+(Unaudited)
+
+(in thousands, except per share data) 
+
+
+
+
+
+                                                                                                     Three Months Ended March 31, 
+
+                                                                                                      2024                2023
+
+
+
+Net revenue                                                                                    $          70,709   $          90,313 
+
+Cost of revenue (exclusive of depreciation and amortization)                                               56,407               68,042 
+
+
+
+Salaries and related costs                                                                                 10,957               12,226 
+
+General and administrative expenses                                                                        11,402               12,856 
+
+Depreciation and amortization                                                                               3,726                5,082 
+
+
+
+
+
+Acquisition costs                                                                                               —                2,345 
+
+Change in fair value of contingent consideration liabilities                                                  (17)                  13 
+
+Loss from operations                                                                                      (11,766)             (10,251)
+
+Interest expense, net                                                                                      13,488                6,699 
+
+Change in fair value of warrant liabilities                                                                   934                3,764 
+
+
+
+
+
+Other (1)                                                                                                      40                    — 
+
+Net loss before income taxes                                                                              (26,228)             (20,714)
+
+Income tax expense (benefit)                                                                                   50                  (13)
+
+Net loss                                                                                                  (26,278)             (20,701)
+
+Net loss attributable to non-controlling interest                                                            (891)              (8,103)
+
+Net loss attributable to Digital Media Solutions, Inc.                                         $         (25,387)  $         (12,598)
+
+
+
+Weighted-average Class A common shares outstanding – basic & diluted                                        4,287                2,695 
+
+
+
+
+
+Loss per share attributable to Digital Media Solutions, Inc.:
+
+Basic and diluted – per Class A common shares                                                  $           (5.96)  $           (4.67)
+
+
+
+____________________
+
+(1)Represents Foreign exchange loss (gain).
+
+
+
+The accompanying condensed notes are an integral part of the unaudited consolidated financial statements.
+
+2
+
+
+
+Table of Contents
+
+DIGITAL MEDIA SOLUTIONS, INC.
+
+Consolidated Statements of Changes in Preferred Stock and Stockholders’ Deficit
+
+(Unaudited)
+
+(in thousands, except share data)
+
+
+
+
+
+                       Preferred Stock (1)         Class A                Class B           Additional     Treasury      Cumulative         Total 
+
+                                                 Common Stock           Common Stock          Paid-in        Stock         Deficit      Stockholders'
+
+                                                                                              Capital                                       Deficit
+
+                       Shares     Amount    Shares      Amount     Shares     Amount
+
+Balance, December 31,     140    $ 16,646      4,287    $      4        151    $      3    $  (80,523)   $    (235)   $  (126,230)   $     (206,981)
+
+ 2023
+
+Net loss                    —            —          —           —          —           —              —            —         (25,387)          (25,387)
+
+
+
+Stock-based                 —            —          —           —          —           —            585            —               —               585 
+
+ compensation
+
+Series A preferred          —           89          —           —          —           —              —            —             (89)              (89)
+
+ stock dividends
+
+ (2)
+
+Series B preferred          —           67          —           —          —           —              —            —             (67)              (67)
+
+ stock dividends
+
+ (2)
+
+
+
+
+
+Impact of                   —            —          —           —          —           —            640            —               —               640 
+
+ transactions
+
+ affecting
+
+ non-controlling
+
+ interest
+
+ (3)
+
+
+
+Balance, March 31,        140    $ 16,802      4,287    $      4        151    $      3    $  (79,298)   $    (235)   $  (151,773)   $     (231,299)
+
+ 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________
+
+(1)See Note 8. Fair Value Measurements and Note 9. Equity.
+
+(2)Represents Series A and Series B preferred stock dividends, which have not been paid.
+
+(3)The carrying amount of non-controlling interest was adjusted to reflect the change in ownership interest caused by shares issued in connection with the shares issued under the 2020 Omnibus Incentive Plan.
+
+
+
+The accompanying condensed notes are an integral part of the unaudited consolidated financial statements.
+
+
+
+
+
+
+
+3
+
+
+
+Table of Contents
+
+DIGITAL MEDIA SOLUTIONS, INC.
+
+Consolidated Statements of Changes in Preferred Stock and Stockholders’ Deficit
+
+(Unaudited)
+
+(in thousands, except share data)
+
+
+
+
+
+                       Preferred Stock (1)         Class A                Class B           Additional     Treasury      Cumulative         Total 
+
+                                                 Common Stock           Common Stock          Paid-in        Stock         Deficit      Stockholders'
+
+                                                                                              Capital                                       Deficit
+
+                       Shares     Amount    Shares      Amount     Shares     Amount
+
+Balance, December 31,       —    $     —      2,695    $      4      1,713    $      3    $  (14,054)   $    (181)   $    (32,896)   $      (47,124)
+
+ 2022
+
+Net loss                    —           —          —           —          —           —              —            —         (12,598)          (12,598)
+
+
+
+Stock-based                 —           —          —           —          —           —          1,379            —               —             1,379 
+
+ compensation
+
+Series A convertible       80       2,853          —           —          —           —              —            —               —                 — 
+
+ redeemable preferred
+
+ stock
+
+Series B convertible       60       2,140          —           —          —           —              —            —               —                 — 
+
+ redeemable preferred
+
+ stock
+
+
+
+
+
+
+
+Impact of                   —           —          —           —          —           —         (3,939)           —               —            (3,939)
+
+ transactions
+
+ affecting
+
+ non-controlling
+
+ interest
+
+ (2)
+
+
+
+Balance, March 31,        140    $ 4,993      2,695    $      4      1,713    $      3    $  (16,614)   $    (181)   $    (45,494)   $      (62,282)
+
+ 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________
+
+(1)See Note 8. Fair Value Measurements and Note 9. Equity.
+
+(2)The carrying amount of non-controlling interest was adjusted to reflect the change in ownership interest caused by shares issued in connection with the shares issued under the 2020 Omnibus Incentive Plan.
+
+
+
+The accompanying condensed notes are an integral part of the unaudited consolidated financial statements.
+
+4
+
+
+
+Table of Contents
+
+DIGITAL MEDIA SOLUTIONS, INC.
+
+Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+(in thousands)
+
+
+
+                                                                                                    Three Months Ended March 31, 
+
+                                                                                                      2024                2023
+
+Cash flows from operating activities
+
+Net loss                                                                                       $         (26,278)  $         (20,701)
+
+Adjustments to reconcile net loss to net cash used in operating activities
+
+Allowance for credit losses - Accounts receivable, net                                                        796                  563 
+
+
+
+Depreciation and amortization                                                                               3,726                5,082 
+
+
+
+Amortization of right-of-use assets                                                                           183                  242 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stock-based compensation, net of amounts capitalized                                                          232                1,258 
+
+
+
+Interest expense paid-in-kind                                                                              12,375                    — 
+
+Amortization of debt issuance costs                                                                         1,122                  390 
+
+Deferred income tax (benefit) provision, net                                                                  (30)                 550 
+
+
+
+Change in fair value of contingent consideration                                                              (17)                  13 
+
+Change in fair value of warrant liabilities                                                                   934                3,764 
+
+Loss from preferred warrants issuance                                                                           —                  553 
+
+
+
+
+
+Change in income tax receivable and payable                                                                    69                 (570)
+
+Change in accounts receivable                                                                               2,129               (1,371)
+
+Change in contract assets                                                                                   1,471                    — 
+
+Change in prepaid expenses and other current assets                                                             3                 (657)
+
+Change in operating right-of-use assets                                                                       (13)                   — 
+
+Change in accounts payable and accrued expenses                                                             1,203                6,638 
+
+Change in operating lease liabilities                                                                        (345)                (537)
+
+
+
+Net cash used in operating activities                                                                      (2,440)              (4,783)
+
+Cash flows from investing activities
+
+Additions to property and equipment                                                                        (1,154)              (1,215)
+
+Acquisition of business, net of cash acquired                                                                   —              (35,320)
+
+
+
+Net cash used in investing activities                                                                      (1,154)             (36,535)
+
+Cash flows from financing activities
+
+
+
+
+
+
+
+Payments of long-term debt and notes payable                                                                 (563)                (562)
+
+Payments of borrowings on revolving credit facilities                                                        (125)                   — 
+
+
+
+
+
+Proceeds from preferred shares and warrants issuance, net                                                       —               13,107 
+
+
+
+
+
+
+
+
+
+
+
+Net cash (used in) provided by financing activities                                                          (688)              12,545 
+
+Net change in cash and cash equivalents and restricted cash                                                (4,282)             (28,773)
+
+Cash and cash equivalents and restricted cash, beginning of period                                         18,968               48,839 
+
+Cash and cash equivalents and restricted cash, end of period                                   $          14,686   $          20,066 
+
+
+
+Supplemental Disclosure of Cash Flow Information
+
+Cash Paid During the Period For
+
+Interest                                                                                       $               —   $           6,349 
+
+Income taxes                                                                                                    —                    7 
+
+Non-Cash Transactions:
+
+Contingent and deferred acquisition consideration                                              $               —   $           2,457 
+
+Stock-based compensation capitalized in property and equipment                                                353                  121 
+
+Capital expenditures included in accounts payable                                                              87                  176 
+
+
+
+Accretion and Dividends - Preferred Series A and B                                                            156                    — 
+
+
+
+Interest paid-in-kind                                                                                      12,375                    — 
+
+
+
+The accompanying condensed notes are an integral part of the unaudited consolidated financial statements.
+
+5
+
+
+
+Table of Contents
+
+DIGITAL MEDIA SOLUTIONS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+(Unaudited)
+
+Note 1. Business, Basis of Presentation and Summary of Significant Accounting Policies
+
+
+
+Business
+
+Digital Media Solutions, Inc. (“DMS Inc.”) is a digital performance marketing company offering a diversified lead and software delivery platform that drives high value and high intent leads to its customers. As used in this Quarterly Report, the “Company” refers to DMS Inc. and its consolidated subsidiaries, (including its wholly-owned subsidiary, CEP V DMS US Blocker Company, a Delaware corporation (“Blocker”)). The Company is headquartered in Clearwater, Florida. The Company generates revenue in North America and internationally, with the majority of the revenue in the United States.
+
+
+
+Basis of Presentation
+
+These consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”) and applicable rules and regulations of the U.S. Securities and Exchange Commission (“SEC”) regarding interim financial reporting. Accordingly, they do not include all of the information and notes required by GAAP for annual financial statements. In the opinion of management, all adjustments consisting of normal and recurring entries considered necessary for a fair presentation of the results for the interim periods presented have been included. All significant intercompany balances and transactions have been eliminated. The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect reported amounts in the financial statements and accompanying notes. These estimates are based on information available as of the date of the unaudited consolidated financial statements; therefore, actual results could differ from those estimates. Interim results are not necessarily indicative of the results for a full year.
+
+
+
+Business Combination
+
+On July 15, 2020, Digital Media Solutions Holding (“DMSH”) consummated the Business Combination with Leo Holdings Corp. (“Leo”) pursuant to the Business Combination Agreement (“Business Combination”). Pursuant to the Business Combination, DMS Inc. has acquired, directly and through its acquisition of the equity of Blocker, approximately 96.6% of the membership interest in DMSH, while Prism Data, LLC, a Delaware limited liability company (“Prism”), CEP V-A DMS AIV Limited Partnership, a Delaware limited partnership (“Clairvest Direct Seller”) and related entities (the “Sellers”) have retained approximately 3.4% of the membership interest in DMSH (“non-controlling interests”). For additional information, see Note 2. Business Combination in the Notes to Consolidated Financial Statements in our 2023 Form 10-K.
+
+
+
+Non-controlling Interest
+
+The non-controlling interest represents the membership interest in DMSH held by holders other than the Company. As of March 31, 2024, the Prism, Clairvest Direct Sellers and SmarterChaos combined ownership percentage in DMSH was 3.4% and as of December 31, 2023 it was 3.4%. For additional information see Note 9. Equity.
+
+Principles of Consolidation 
+
+The Company consists of DMS Inc. and its wholly-owned subsidiary, Blocker. The Company consolidates the assets, liabilities and operating results of DMSH and its wholly-owned subsidiaries. All intercompany transactions and balances have been eliminated in consolidation. The results of operations attributable to the non-controlling interests are included in the Company’s consolidated statements of operations, and the non-controlling interests are reported as a separate component of equity.
+
+
+
+Reverse Stock Split
+
+On August 28, 2023, the Company effected a reverse stock split (the “Reverse Stock Split”) of the Company’s Class A Common Stock and Class B Common Stock at a ratio of 1-for-15. All historical share amounts disclosed in this quarterly report on Form 10-Q have been retroactively restated to reflect the Reverse Stock Split. No fractional shares were issued as a result of the Reverse Stock Split, as fractional shares of Common Stock were rounded up to the nearest whole share. See Note 9. Equity for additional information.
+
+
+
+Use of Estimates
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported as separate financial statement line items in the consolidated financial statements. Actual results could differ from those estimates. Management regularly makes estimates and assumptions that are inherent in the preparation of the consolidated financial statements including, but not limited to, the fair value of preferred warrants, private placement warrants, the allowance for credit losses, stock-based compensation, fair value of intangibles acquired in business combinations, loss contingencies, contingent consideration liabilities, asset impairments, variable consideration for commission and bonus revenue, and deferred taxes and amounts associated with the Tax Receivable Agreement.
+
+
+
+6
+
+
+
+Table of Contents
+
+Significant Accounting Policies
+
+There have been no material changes to our significant accounting policies as compared to the significant accounting policies described in Note 1. Business, Basis of Presentation and Summary of Significant Accounting Policies in our 2023 Form 10-K.
+
+
+
+New Accounting Standards 
+
+
+
+Accounting Standards Not Yet Adopted
+
+In November 2023, the FASB issued ASU No. 2023-07, Segment Reporting (Topic 280) Improvements To Reportable Segment Disclosures, which requires additional disclosures about a public entity’s reportable segments and addresses requests from investors and other allocators of capital for additional, more detailed information about a reportable segment’s expenses. The Company will adopt this ASU for the annual period beginning on January 1, 2024 and for interim periods beginning on January 1, 2025, and is still evaluating its impact on the Consolidated Financial Statements.
+
+
+
+In December 2023, the FASB issued ASU No. 2023-09, Income Taxes (Topic 740) Improvements To Income Tax Disclosures, which requires additional disclosures of income tax components that affect the rate reconciliation and income taxes paid, broken out by the applicable taxing jurisdictions. The Company expects to adopt this ASU for the annual period beginning on January 1, 2025, and does not expect a material impact on the Consolidated Financial Statements.
+
+
+
+Note 2. Revenue
+
+
+
+The Company derives revenue primarily through the delivery of various types of services, including: customer acquisition, managed services and software as a service (“SaaS”). The Company recognizes revenue when the promised goods or services are transferred to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those services. The Company has elected the practical expedient to not disclose the value of unsatisfied performance obligations for (i) contracts with an original expected length of one year or less and (ii) contracts for which revenue is recognized in the amount to which the Company has the right to invoice for services performed.
+
+
+
+The Company has organized its operations into three reportable segments: Brand Direct, Marketplace and Technology Solutions. The Brand Direct reportable segment consists of services delivered against our customer’s brand, while the Marketplace reportable segment includes services delivered directly against the DMS brand. In the Technology Solutions reportable segment, services offered by the Company include software services and digital media services that are managed on behalf of the customer. Corporate and other represents other business activities and includes eliminating entries. Management uses these segments to evaluate the performance of its businesses and to assess its financial results and forecasts.
+
+
+
+Disaggregation of Revenue
+
+The following tables presents the disaggregation of revenue by reportable segment and type of service (in thousands):
+
+
+
+
+
+                                                                                  Three Months Ended March 31, 2024
+
+                                                      Brand Direct      Marketplace       Technology       Intercompany         Total
+
+                                                                                           Solutions        Eliminations
+
+Net revenue:
+
+Customer acquisition                                $      41,224   $        38,811   $             —   $       (11,921)  $      68,114 
+
+Managed services                                               805                 —               412                  —            1,217 
+
+Software services                                                —                 —             1,378                  —            1,378 
+
+Total Net revenue                                   $      42,029   $        38,811   $         1,790   $       (11,921)  $      70,709 
+
+
+
+
+
+                                                                                  Three Months Ended March 31, 2023
+
+                                                         Brand          Marketplace       Technology        Intercompany         Total
+
+                                                         Direct                            Solutions        Eliminations
+
+Net revenue:
+
+Customer acquisition                                $      54,020   $        37,288   $             —   $        (4,714)  $      86,594 
+
+Managed services                                             1,383                 —               753                  —            2,136 
+
+Software services                                                —                 —             1,583                  —            1,583 
+
+Total Net revenue                                   $      55,403   $        37,288   $         2,336   $        (4,714)  $      90,313 
+
+
+
+7
+
+
+
+Table of Contents
+
+The Company generated revenue outside the United States through its 2023 ClickDealer acquisition. The following table represents these revenues by region (in thousands):
+
+
+
+
+
+                                                                                                              Three Months Ended March 31, 
+
+                                                                                                               2024                   2023
+
+Europe                                                                                                $               5,361   $                  — 
+
+Other International                                                                                                   1,710                      — 
+
+
+
+For the three months ended March 31, 2024 and 2023, one advertising customer within the Marketplace segment accounted for approximately 15.8% and 16.6% of our total revenue, respectively. 
+
+
+
+Accounts Receivable, net
+
+Accounts receivable are recorded at the invoiced amount and do not bear interest. The Allowance for credit losses is the Company’s best estimate of the amount of probable credit losses in the Company’s existing accounts receivable. The Company determines the allowance based on historical write-off experience, delinquency trends and current credit conditions. The Company reviews its Allowance for credit losses monthly. Past due balances over 90 days and over a specified amount are reviewed individually for collectability. All other balances are reviewed on a pooled basis. Account balances are charged off against the allowance after all means of collection have been exhausted and the potential for recovery is considered remote. The Company does not have any off-balance sheet credit exposure related to its customers.
+
+
+
+The activity in the Allowance for credit losses related to accounts receivable is as follows (in thousands):
+
+
+
+
+
+Balance, December 31, 2023                                                                                        $             4,172 
+
+Additions charged to expense                                                                                                       796 
+
+Deductions/write-offs                                                                                                           (1,236)
+
+
+
+Balance, March 31, 2024                                                                                           $             3,732 
+
+
+
+For the three months ended March 31, 2024 and 2023, bad debt expense was $0.8 million. and $0.6 million, respectively. 
+
+
+
+Contract balances
+
+
+
+Contract Assets
+
+The Company’s contract assets primarily result from the estimated variable consideration for commissions to be received from insurance distributors for performance obligations that have been satisfied. In addition, other contract assets with clients where the performance obligations have been satisfied in advance of the contractual terms with the customer are also recorded as contract assets. The Company recognizes revenue when the performance obligation is met and the contract asset is recorded within the consolidated balance sheets as current assets and long term assets, where applicable. Related to commission revenue, the Company collects the consideration payments in equal installments over the lifetime-value (“LTV”) of the underlying insurance policy, beginning collections on or after 90 days after the policy becomes effective, which can be up to several months after the Company’s performance obligation is met. From time to time, the Company may also record bonuses based on certain criteria set forth by the insurance distributor.
+
+
+
+The balances for contract assets are as follows (in thousands):
+
+
+
+
+
+                                                                                                   March 31, 2024       December 31, 2023
+
+Contract assets - current, net                                                                 $             5,613   $              6,467 
+
+Contract assets - non-current, net                                                                            1,015                  1,632 
+
+Total Contract assets                                                                          $             6,628   $              8,099 
+
+
+
+
+
+8
+
+
+
+Table of Contents
+
+The activity in contract assets is as follows (in thousands):
+
+
+
+
+
+
+
+Balance, December 31, 2023                                                                                     $                8,099 
+
+Revenue from Contract Assets                                                                                                     5,624 
+
+Change in Variable Consideration - Prior Period                                                                                 (4,127)
+
+Cash Receipts                                                                                                                   (2,968)
+
+
+
+Balance, March 31, 2024                                                                                        $                6,628 
+
+
+
+During the three months ended March 31, 2024, the Company observed a higher than estimated decline in policy retention rates for certain prior period cohorts. Management’s evaluation of the retention trends triggered a change in the estimated variable consideration for commissions and bonuses, resulting in a net adjustment to revenue of $4.1 million during the three months ended March 31, 2024. Management will continue to monitor the policy retention rates as compared to forecasts and other market factors and evaluate whether any addition or reduction adjustment to revenue shall be recorded as the Company continues to assess its LTV models in future periods. 
+
+
+
+Allowance for credit losses related to contract assets was $2.3 million as of March 31, 2024 and December 31, 2023, respectively. For the three months ended March 31, 2024 and 2023, there was no bad debt expense related to contract assets, respectively. 
+
+
+
+Contract Liabilities
+
+The Company’s contract liabilities result from payments received from clients in advance of revenue recognition as they precede the Company’s satisfaction of the associated performance obligation. If a customer pays consideration before the Company’s performance obligations are satisfied, such amounts are classified as deferred revenue and recorded within Accrued expenses and other current liabilities on the consolidated balance sheets. As of March 31, 2024 and December 31, 2023, the balance of deferred revenue was $0.8 million and $1.0 million, respectively. We expect the majority of the deferred revenue balance at March 31, 2024 to be recognized as revenue during the following quarter. 
+
+
+
+When there is a delay between the completion of our performance obligations and when a customer is invoiced, revenue is recognized and recorded as unbilled revenue (i.e. contract assets) within Accounts receivable, net on the consolidated balance sheets. 
+
+
+
+Note 3. Reportable Segments
+
+
+
+The Company’s operating segments are determined based on the financial information reviewed by its chief operating decision maker (“CODM”), and the basis upon which management makes resource allocation decisions and assesses the performance of the Company’s segments. The Company evaluates the operating performance of its segments based on financial measures such as Net revenue, Cost of revenue, and Gross profit. Given the nature of the digital marketing solutions business, the amount of assets does not provide meaningful insight into the operating performance of the Company. As a result, the amount of the Company’s assets is not subject to segment allocation and total assets is not included within the disclosure of the Company’s segment financial information.
+
+
+
+9
+
+
+
+Table of Contents
+
+The following tables are a reconciliation of the operations of our segments to loss from operations (in thousands):
+
+
+
+
+
+                                                                                                    Three Months Ended March 31, 
+
+                                                                                                       2024               2023
+
+Net revenue                                                                                     $        70,709   $        90,313 
+
+Brand Direct                                                                                              42,029             55,403 
+
+Marketplace                                                                                               38,811             37,288 
+
+Technology Solutions                                                                                       1,790              2,336 
+
+Intercompany eliminations                                                                                (11,921)            (4,714)
+
+Cost of revenue (exclusive of depreciation and amortization)                                              56,407             68,042 
+
+Brand Direct                                                                                              36,328             42,816 
+
+Marketplace                                                                                               31,743             29,338 
+
+Technology Solutions                                                                                         257                602 
+
+Intercompany eliminations                                                                                (11,921)            (4,714)
+
+Gross profit (exclusive of depreciation and amortization)                                                 14,302             22,271 
+
+Brand Direct                                                                                               5,701             12,587 
+
+Marketplace                                                                                                7,068              7,950 
+
+Technology Solutions                                                                                       1,533              1,734 
+
+Salaries and related costs                                                                                10,957             12,226 
+
+General and administrative expenses                                                                       11,402             12,856 
+
+Depreciation and amortization                                                                              3,726              5,082 
+
+
+
+
+
+Acquisition costs                                                                                              —              2,345 
+
+Change in fair value of contingent consideration liabilities                                                 (17)                13 
+
+Loss from operations                                                                            $       (11,766)  $       (10,251)
+
+
+
+Note 4. Goodwill and Intangible Assets
+
+
+
+Goodwill
+
+
+
+Changes in the carrying value of Goodwill, by reporting segment, were as follows (in thousands):
+
+
+
+
+
+                                                                      Brand Direct      Marketplace       Technology          Total
+
+                                                                                                           Solutions
+
+Balance, January 1, 2023                                            $      18,321   $        54,554   $        4,363   $      77,238 
+
+Additions (Note 5)                                                           2,308             2,693                 —            5,001 
+
+Impairment of goodwill                                                     (15,595)          (33,795)                —          (49,390)
+
+
+
+Balance, December 31, 2023                                          $       5,034   $        23,452   $        4,363   $      32,849 
+
+Additions                                                                        —                 —                 —                — 
+
+
+
+
+
+Balance, March 31, 2024                                             $       5,034   $        23,452   $        4,363   $      32,849 
+
+
+
+The carrying amount of Goodwill for the Marketplace segment had accumulated impairment of $33.8 million as of March 31, 2024 and December 31, 2023, respectively. The carrying amount of Goodwill for the Brand Direct segment had accumulated impairment of $15.6 million as of March 31, 2024 and December 31, 2023, respectively. 
+
+
+
+10
+
+
+
+Table of Contents
+
+Intangible assets, net
+
+
+
+Finite-lived Intangible assets, net consisted of the following (in thousands):
+
+
+
+
+
+                                                         March 31, 2024                                              December 31, 2023
+
+                  Amortization       Gross        Impairment      Accumulated        Net         Gross        Impairment      Accumulated        Net
+
+                 Period (Years)                                   Amortization                                                Amortization
+
+Technology           4 to 7       $  59,095    $     (7,210)   $     (44,333)   $  7,552    $  59,095    $     (7,210)   $     (43,752)   $  8,133 
+
+Customer            4 to 15           71,323         (27,125)          (27,142)      17,056        71,323         (27,125)          (26,510)      17,688 
+
+ relationships
+
+Brand                1 to 7           14,880          (3,979)           (7,438)       3,463        14,880          (3,979)           (7,283)       3,618 
+
+Non-competition      1 to 3            1,898               —            (1,898)           —         1,898               —            (1,896)           2 
+
+ agreements
+
+Total                             $ 147,196    $    (38,314)   $     (80,811)   $ 28,071    $ 147,196    $    (38,314)   $     (79,441)   $ 29,441 
+
+
+
+The weighted average amortization period for intangible assets is 8 years in total, and by category is 6 years for technology, 10 years for customer relationships, 6 years for brand, 3 years for non-competition agreements. 
+
+
+
+As of March 31, 2024, the amortization expense relating to intangible assets subject to amortization for each of the next five years and thereafter is estimated to be as follows (in thousands):
+
+
+
+
+
+                                                  2024            2025            2026            2027            2028         Thereafter
+
+Amortization expense                         $      4,104   $      4,040   $      3,642   $      3,027   $      2,535   $       10,723 
+
+
+
+Amortization expense for finite-lived intangible assets is recorded on an straight-line basis. Amortization expense related to finite-lived intangible assets was $1.4 million and $2.9 million for the three months ended March 31, 2024 and 2023, respectively.
+
+
+
+Impairment analysis
+
+Related to goodwill impairment, the Company considered if an event occurred or circumstances changed that would more likely than not reduce the fair value of a reporting unit below its carrying amount during three months ended March 31, 2024, noting that there were no indicators of impairment under ASC 350-20, Goodwill. Related to impairment of finite-lived assets, the Company considered whether any event occurred or circumstances changed that would be indicative of impairment triggering events under ASC 360-10, Impairment and Disposal of Long-Lived Assets for certain asset groups during the three months ended March 31, 2024, noting no indicators of impairment. Accordingly, for the three months ended March 31, 2024 and 2023, respectively, there was no impairment to intangible assets.
+
+
+
+Note 5. Acquisitions
+
+
+
+ClickDealer
+
+On March 30, 2023, the Company completed a transaction to acquire the HomeQuote.io home services marketplace from Customer Direct Group, along with the supporting media and technology assets of the ClickDealer international ad network, (“ClickDealer”). ClickDealer’s international performance ad network and the HomeQuote.io marketplace connects consumers with brands within the home improvement and related home services sector.
+
+
+
+The Company paid cash consideration of $31.8 million, including $0.3 million estimated net working capital adjustment, upon closing of the transaction, with an additional $3.5 million in holdbacks, subject to certain criteria. Accounting for the acquisition was completed on March 30, 2024. Goodwill is expected to be deductible for tax purposes. 
+
+
+
+Through August 22, 2023, after the successful completion of the first and second tranche in criteria were met, $1.5 million of the holdback was paid to the Sellers in cash, including the true-up to the net working capital adjustment. The final net working capital adjustment was $0.6 million. On April 24, 2024, after the successful completion of the third tranche in criteria was met, the Company paid $1 million of the holdback to the Sellers in cash. The remaining holdback of $1.0 million is expected to be released within 24 months of the closing date, subject to certain criteria. 
+
+
+
+The acquisition transaction also included up to $10.0 million in contingent consideration, subject to the achievement of certain revenue and net margin based milestones in two subsequent one-year measurement periods, payable in cash or, if mutually agreed to by the Company and the Seller, in Class A Common Stock. The contingent consideration for the first year 
+
+11
+
+
+
+Table of Contents
+
+measurement period of the ClickDealer acquisition finalized on February 29, 2024, the end of the first earnout period, resulting in none of the metrics being met, thus no contingent consideration is to be paid to the sellers for the first measurement period. 
+
+
+
+Aimtell, Aramis and PushPros 
+
+On February 1, 2021, the Company acquired Aimtell, Inc. (“Aimtell”), PushPros, Inc. (“PushPros”) and Aramis Interactive (“Aramis”, and together with Aimtell and PushPros, “AAP”). Aimtell and PushPros are leading providers of technology-enabled digital performance advertising solutions that connect consumers and advertisers within the home, auto, health and life insurance verticals. Aramis is a network of owned-and-operated websites that leverages the Aimtell and PushPros technologies and relationships.
+
+
+
+The Company paid consideration of $20.0 million upon closing of the transaction, consisting of $5.0 million in cash and approximately 86.0 thousand shares of Class A Common Stock valued at $15.0 million. The transaction also included up to $15.0 million in contingent consideration to be earned over the three years following the acquisition, subject to the achievement of certain milestones. The contingent consideration can be paid in cash or Class A Common Stock at the election of the Company. Accounting for the acquisition was completed on March 31, 2022. 
+
+
+
+The contingent consideration for the Aramis acquisition was finalized on December 31, 2022, the end of the earnout period, and became payable during the fourth quarter of 2023, in the form of cash or Class A Common Stock, at the election of the Company. The timing of payment of the Aramis earnout remains subject to resolution of certain outstanding indemnity issues relating to the acquisition. 
+
+
+
+The contingent consideration for the Aimtell and PushPros acquisition finalized on December 31, 2023, the end of the earnout period, resulting in none of the metrics being met, thus no contingent consideration is to be paid to the sellers.
+
+
+
+Acquisitions’ Fair Value Measurement and Pro Forma Information
+
+
+
+The acquisition date fair value of assets acquired and liabilities assumed from the ClickDealer acquisition consist of the following (in thousands, except expected useful lives):
+
+
+
+
+
+                                                                                                Expected Useful Life       ClickDealer
+
+                                                                                                       (Years)
+
+                                                                                                        2023
+
+Cash                                                                                                                   $                — 
+
+Goodwill                                                                                                                            5,001 
+
+Technology                                                                                             4 to 7                       4,780 
+
+Customer relationships                                                                                 4 to 12                     21,900 
+
+Accounts receivable                                                                                                                 6,959 
+
+Brand                                                                                                  1 to 7                       2,710 
+
+
+
+
+
+Accounts payable                                                                                                                   (3,561)
+
+Other assets acquired and liabilities assumed, net (1)                                                                                167 
+
+   Net assets and liabilities acquired                                                                                 $           37,956 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________
+
+(1)Other assets acquired and liabilities assumed, net includes prepaid expenses and other current assets, partially offset by other current liabilities (e.g., Travel and expense payables, payroll liabilities, tax liabilities, and transition services payable).
+
+
+
+The weighted average amortization period for ClickDealer acquisition technology is 7 years, customer relationships is 12 years and brand is 5 years. In total, the weighted average amortization period for ClickDealer is 10 years. 
+
+
+
+Pro Forma Information
+
+The following unaudited pro forma financial information represents the consolidated financial information as if the acquisitions had been included in our consolidated results beginning on the first day of the fiscal year prior to their respective acquisition dates. Pro forma financial information is presented in the table below (in thousands): 
+
+
+
+
+
+                                                                                                   Three Months Ended March 31, 2023
+
+                                                                                                              (unaudited)
+
+                                                                                            DMS              ClickDealer           Pro Forma
+
+Net revenue                                                                         $          90,313   $           19,865   $         110,178 
+
+Net income (loss) from operations                                                   $         (10,251)  $            1,704   $          (8,547)
+
+12
+
+
+
+Table of Contents
+
+
+
+The pro forma results do not reflect any cost savings, operating synergies or revenue enhancements that the combined company may achieve as a result of the acquisitions; the costs to combine the companies’ operations; or the costs necessary to achieve these costs savings, operating synergies and revenue enhancements. The pro forma results do not necessarily reflect the actual results of operations of the combined companies under our ownership and operation. 
+
+
+
+Note 6. Debt
+
+
+
+The following table presents the components of outstanding debt (in thousands):
+
+
+
+
+
+                                                                                                    March 31, 2024     December 31, 2023
+
+Term loan                                                                                        $         252,452   $         242,927 
+
+Revolving credit facility                                                                                    57,253               55,091 
+
+
+
+
+
+Total debt                                                                                                  309,705              298,018 
+
+Less: Unamortized debt issuance costs (1)                                                                    (7,836)              (8,915)
+
+Debt, net                                                                                                   301,869              289,103 
+
+Less: Current portion of long-term debt                                                                      (2,750)              (2,750)
+
+Long-term debt                                                                                   $         299,119   $         286,353 
+
+____________________
+
+(1)Includes net debt issuance discount, amendment’s administrative fees and other costs.
+
+
+
+On May 25, 2021, Digital Media Solutions, LLC (“DMS LLC”), as borrower, and DMSH, each of which is a subsidiary of DMS, entered into a five-year $275 million senior secured credit facility (the “Credit Facility”), with a syndicate of lenders (“Lenders”), arranged by Truist Bank and Fifth Third Bank, as joint lead arrangers, and Truist Bank, as administrative agent. The Credit Facility is guaranteed by, and secured by substantially all of the assets of, DMS LLC, DMSH LLC and their 
+
+material subsidiaries, subject to customary exceptions. Pursuant to the Credit Facility, the Lenders provided DMS LLC with senior secured term loans consisting of a senior secured term loan with an aggregate principal amount of $225 million (the “Term Loan”) and a $50 million senior secured revolving credit facility (the “Revolving Facility”).
+
+
+
+The Term Loan, which was issued at an original issue discount of 1.80% or $4.2 million, is subject to payment of 1.0% of the original aggregate principal amount per annum paid quarterly, with a bullet payment at maturity. The Term Loan will mature, and the revolving credit commitments under the Revolving Facility will terminate, on May 25, 2026, when any outstanding balances will become due. Under the original agreement, the Term Loan would bear interest at our option, at either (i) adjusted LIBOR plus 5.00% or (ii) the Base Rate plus 4.00%. From May 25, 2021 to July 3, 2023 our interest rate was based on LIBOR plus 5.00%.
+
+
+
+Under the original agreement, borrowings under the Revolving Facility would bear interest, at our option, at either (i) adjusted LIBOR plus 4.25% or (ii) a base rate which is equal to the highest of (a) the administrative agent’s prime rate, (b) the federal funds rate, as in effect from time to time, plus 0.50%, (c) one-month LIBOR plus 1.00%, and (d) 1.75% (the “Base Rate”), plus 3.25%. DMS LLC pays a 0.50% per annum commitment fee in arrears on the undrawn portion of the revolving commitments. From May 25, 2021 to July 3, 2023, our interest rate was based on LIBOR plus 5.00% . The Company drew $10.0 million on May 24, 2023.
+
+
+
+On July 3, 2023, the Term Loan and Revolving Facility were amended to transition LIBOR to the Term Secured Overnight Financing Rate (SOFR) as the basis for establishing the interest rate applicable to borrowings under the agreements. The interest rate is based on SOFR Benckmark Replacement plus 5.00% for the Term Loan and SOFR Benckmark Replacement plus 4.25% for Revolving Facility.
+
+
+
+On August 16, 2023, DMS LLC and DMSH LLC, along with certain subsidiaries of the Company, entered into a first amendment to the Credit Facility (the “First Amendment”) with Truist Bank and the other lenders party thereto (the “Lenders”), which, among other things, modified the Credit Facility as follows:
+
+a.allows for the payment-in-kind (“PIK”) of the quarterly interest payments due and payable on September 30, 2023 and each of the following three quarters, with all PIK interest required to be repaid no later than December 31, 2025;
+
+b.provides that (a) if the borrower exercises the PIK option, the interest rate will be equal to SOFR+11%; (b) if interest is paid in cash during the PIK period, the rate will be equal to SOFR+8%; and (c) following the PIK period, the interest rate will be equal to SOFR+8%; provided that if the Company (1) achieves the credit rating of B3 by Moody’s and B- by S&P, and (2) has repaid the aggregate capitalized PIK interest, the interest rate will be SOFR + 6.0%;
+
+13
+
+
+
+Table of Contents
+
+c.if any loans under the Credit Facility remain outstanding on or after January 1, 2025, back-end PIK interest will accrue as follows: 5% for the period from January 1, 2025 through June 30, 2025; 7.5% for the period from July 1, 2025 through December 31, 2025; and 10% in calendar year 2026 until maturity;
+
+d.eliminates the total net leverage ratio covenant for the remainder of 2023, inclusive of the second quarter of 2023, and sets the total net leverage ratio of DMSH LLC and its restricted subsidiaries starting at 15.6x and 10.6x for the first and second quarters of 2024, respectively, and varying for every quarter thereafter, down to 6.9x for the fourth quarter of 2025 and until maturity;
+
+e.eliminates the right of the Borrower to undertake an equity cure to cure any breach of the total net leverage ratio covenant;
+
+f.establishes a minimum liquidity covenant of $9 million for the remainder of 2023 excluding December 31, 2023, and $10 million from December 31, 2023 and thereafter until maturity (subject to the Company’s ability to exercise an equity cure solely with respect to the liquidity covenant); 
+
+g.modifies in certain respects the affirmative and negative covenants and the events of default in the Credit Facility, including subjecting non ordinary course investments and restricted distributions to consent of the requisite Lenders; and
+
+h.establishes a minimum payment for the revolver of 1.0% per annum of the original aggregate principal amount of the Revolving Facility outstanding as of the First Amendment’s effective date, paid quarterly.
+
+
+
+The First Amendment, as it relates to the Term Loan, was accounted for as a modification for accounting purposes. As such, $6.3 million in fees due to the Lenders was paid-in-kind and capitalized as additional debt issuance costs. These costs, plus the initial $4.2 million debt discount and $3.5 million debt issuance cost related to the Term Loan are being amortized over the term of the loan using the effective interest method. As of March 31, 2024, the Term Loan debt discount and debt issuance cost classified as debt had a remaining unamortized balance of $1.8 million and $6.1 million, respectively. As of December 31, 2023, the Term Loan debt discount and debt issuance cost classified as debt had a remaining unamortized balance of $2.1 million and $6.8 million, respectively. 
+
+
+
+In addition, the First Amendment added $0.8 million in lender fees to the Revolving Facility’s debt issuance costs. At March 31, 2024 and December 31, 2023, unamortized debt issuance costs of $1.0 million and $1.1 million, respectively, from the Revolving Facility are classified as Other assets within the consolidated balance sheets.
+
+
+
+For the quarter ended March 31, 2024 and the year ended December 31, 2023 , the Company elected to exercise its available PIK elections. Accordingly, $10.1 million and $2.3 million of PIK interest expense was added to the outstanding principal balance of the Term Loan and the Revolving Facility, respectively, for the quarter ended March 31, 2024, and $19.1 million and $4.3 million of PIK interest expense was added to the outstanding principal balance of the Term Loan and the Revolving Facility, respectively, for the year ended December 31, 2023. As of March 31, 2024, the total outstanding balance of the Term Loan and the Revolving Facility is $252.5 million and $57.3 million, respectively. For the three months ended March 31, 2024, the effective interest rate was 16.5% for the Term Loan. The effective interest rate related to the Revolving Facility was 16.4% for the three months ended March 31, 2024.
+
+
+
+As of March 31, 2024, the Company was in breach of the net leverage ratio covenant under its Credit Facility, which it cured as of April 17, 2024, when DMS, LLC, DMSH LLC and certain of the Company’s subsidiaries entered into a second amendment and waiver (the “Second Amendment”) to its existing Credit Facility with a syndicate of lenders, arranged by Truist Bank and Fifth Third Bank, as joint lead arrangers, and Truist Bank, as administrative agent and collateral agent. The Second Amendment introduced new Tranche A term loan commitments in the amount of $22 million with a maturity date of February 25, 2026, increasing our total borrowing capacity under the Credit Facility from $275 million to $297 million. The Second Amendment allows the Company to PIK the quarterly interest payments due and payable for the quarter ended March 31, 2024 and each of the following quarters up to and including the quarter ending on March 31, 2025; and waives compliance with the net leverage ratio covenant through June 30, 2025.
+
+
+
+The Second Amendment also includes certain limited waivers related to prior defaults and events of default under the Credit Facility, amends certain negative and affirmative covenants applicable to us and adds certain additional covenants. In accordance with the Second Amendment, we are required to maintain a minimum aggregate amount of unrestricted and uncommitted cash and cash equivalents held in U.S. dollars during the period of time from and after the Second Amendment effective date of at least $5 million. Further, we have agreed to a variance test in which (i) the Company disbursements during a variance testing period shall not be more than 15% in excess of the amount reflected in the corresponding period in the Credit Facility’s loan parties’ projected cash flows prepared in consultation with a financial advisor (the “Cash Flow Forecast”) or (ii) the Company’s aggregate net cash receipts, (a) during the two week period after the Second Amendment effective date, will not be less than 80%, for the trailing two week period, of the aggregate cash receipts forecasted in the Cash Flow Forecast applicable during such testing period, (b) during the three week period after the Second Amendment effective date, will not be less than 82.5%, for the trailing three week period of the aggregate cash receipts forecasted in the Cash Flow Forecast applicable during such testing period and (c) during the four week period after the Second Amendment effective date and 
+
+14
+
+
+
+Table of Contents
+
+thereafter, will not be less than 85% for the trailing four week period of the aggregate cash receipts forecasted in the Cash Flow Forecast applicable during such testing period. 
+
+
+
+In connection with the Second Amendment, the Company must pay a 8.0% commitment fee, which shall be fully earned on the initial funding disbursement date and payable as PIK interest on the Second Amendment effective date. Further, under the terms of the Second Amendment, the Company has agreed to promptly commence a strategic review and marketing process for a sale of all or substantially all of our assets, which is subject to certain milestones. 
+
+
+
+As noted above, the Credit Facility is conditioned upon the Company’s compliance with specified covenants, including certain reporting covenants and financial covenants that, in addition to other items, require the Company to maintain a maximum net leverage ratio. As of March 31, 2024, compliance with the net leverage ratio covenant was waived in connection with entry into the First Amendment. As of December 31, 2023, the Company was in breach of the net leverage ratio, which it cured on March 30, 2023 through the funds received in connection with the issuance of Series A and Series B convertible Preferred stock and Warrants. As of March 31, 2024, the Company was in compliance with the Credit Facility’s minimum liquidity covenant.
+
+
+
+Debt Maturity Schedule
+
+
+
+The remaining scheduled maturities of our total debt are estimated as follows at March 31, 2024 (in thousands):
+
+
+
+
+
+
+
+2024                                                                                                           $                2,063 
+
+2025                                                                                                                            26,233 
+
+2026                                                                                                                           281,409 
+
+
+
+
+
+
+
+
+
+Total debt                                                                                                     $              309,705 
+
+
+
+Note 7. Leases
+
+
+
+The following table summarizes the maturities of undiscounted cash flows of operating lease liabilities reconciled to total lease liability as of March 31, 2024 (in thousands):
+
+
+
+
+
+                                                                                                                        Lease Amounts
+
+
+
+2024                                                                                                                                1,561 
+
+2025                                                                                                                                  469 
+
+Total                                                                                                                               2,030 
+
+Less: Imputed interest                                                                                                                (31)
+
+Present value of operating lease liabilities                                                                      $                1,999 
+
+
+
+As of March 31, 2024, the operating lease weighted average remaining lease term is 1.0 years and the operating lease weighted average remaining discount rate is 3.36%.
+
+
+
+The discount rate for each lease represents the incremental borrowing rate that the Company would incur at commencement of the lease to borrow on a collateralized basis over a similar term and amount equal to lease payments in a similar economic environment.
+
+
+
+The following table represents the Company’s aggregate lease costs, by lease classification (in thousands):
+
+
+
+
+
+                                                                                                             Three Months Ended March 31, 
+
+Category                                                     Statement of Operations Location                   2024               2023
+
+Operating lease costs                             General and administrative expenses                    $           217   $           284 
+
+Short-term lease costs                            General and administrative expenses                                    95                153
+
+Sub-lease income                                  General and administrative expenses                                 (90)              (179)
+
+Total lease costs, net                                                                                   $           222   $           258 
+
+
+
+The cash paid for amounts included in the measurement of operating leases was $345.0 thousand and $537.0 thousand for the three months ended March 31, 2024 and 2023, respectively. 
+
+
+
+15
+
+
+
+Table of Contents
+
+Note 8. Fair Value Measurements
+
+
+
+The Company utilizes fair value measurements to record fair value adjustments to certain assets and liabilities and to determine fair value disclosures. The carrying amounts of our cash and cash equivalents, accounts receivable, income taxes receivable, accounts payable, accrued expenses and income taxes payable, approximate fair value because of the short-term maturity of those instruments.
+
+
+
+Preferred Warrants
+
+On March 29, 2023, the Company completed a securities purchase agreement (the “SPA”) with certain investors to purchase 80,000 shares of Series A convertible redeemable Preferred Stock (“Series A Preferred Stock”) and 60,000 shares of Series B convertible redeemable Preferred Stock (“Series B Preferred Stock”) for an aggregate purchase price of $14.0 million (the “Preferred Offering”), including $6.0 million of related party participation. The Company also issued the purchasers in the Preferred Offering warrants to acquire 963 thousand shares of Class A Common Stock (“Preferred Warrants”).
+
+
+
+The Preferred Warrants are exercisable for shares of the Company’s Class A Common Stock at any time at the option of the holder and expire five years from the date of issuance. The Preferred Warrants are exercisable on a cashless basis or for cash at an exercise price of $9.6795 per share of Class A Common Stock. The exercise price of the Preferred Warrants is subject to appropriate adjustment in the event of stock dividends, stock splits, subdivisions, combinations, reclassifications, or similar events affecting the Company’s Common Stock. The Preferred Warrants contain a put feature providing the right to the holder for a net cash settlement in the event of a fundamental transaction, which is defined as instances where the Company (i) effects any merger or consolidation of the Company, (ii) effects any sale, lease, license, assignment, transfer, conveyance, or other disposition of all or substantially all of its assets in one or a series of related transactions, (iii) completes any purchase offer, tender offer, or exchange offer that has been accepted by the holders of at least 50% of the outstanding Class A Common Stock, (iv) effects any reclassification, reorganization, or recapitalization of the Class A Common Stock or any compulsory share exchange pursuant to which the Class A Common Stock is effectively converted into or exchanged for other securities, cash or property, or (v) consummates a stock or share purchase agreement or other business combination in which more than 50% of the outstanding shares of Class A Common Stock is acquired. Under such a fundamental transaction, the holder can require the Company to purchase any unexercised warrant shares at the pro-rata share of the sales price or calculated value less the exercise price of the Warrant share.
+
+
+
+Due to the tender offer provision, the Preferred Warrants are classified as a derivative liability measured at fair value, with changes in fair value reported each period in earnings. The fair value of the warrant is estimated using the Black-Scholes-Merton pricing model. The fair value of the Preferred Warrants of approximately $8.7 million was estimated at the date of issuance using the following weighted average assumptions. Transaction costs incurred attributable to the issuance of the Preferred Warrants were part of the preferred shares issuance costs that were $0.9 million.
+
+
+
+The fair value of the derivative Preferred Warrants is considered a Level 3 valuation and is determined using the Black-Scholes-Merton valuation model. The change in the value of the derivative Preferred Warrants are included in the accompanying consolidated statements of operations as Change in fair value of warrant liabilities.
+
+
+
+The significant assumptions were as follows:
+
+
+
+
+
+                                                                                                                    March 31, 2024
+
+
+
+Preferred Warrants Fair Value Per Share                                                                      $                  1.03 
+
+Preferred Warrant valuation inputs:
+
+Stock price - DMS Inc. Class A Common Stock                                                                  $                  1.29 
+
+
+
+Remaining contractual term in years                                                                                                  4.00
+
+Estimated volatility                                                                                                            170.0  %
+
+Dividend yield                                                                                                                    0.0  %
+
+Risk free interest rate                                                                                                          4.26  %
+
+
+
+Private Placement Warrants
+
+Each Company Private Placement Warrant entitles the registered holder to purchase one share of Class A Common Stock at a price of $172.50 per share, subject to adjustment. Pursuant to the warrant agreement, a warrant holder may exercise its warrants only for a whole number of shares of Class A Common Stock. This means only a whole warrant may be exercised at a given time by a warrant holder. The warrants will expire five years after the Business Combination, or earlier upon redemption or liquidation.
+
+
+
+The Company may call the Company Private Placement Warrants for redemption as follows: (1) in whole and not in part; (2) at a price of $0.01 per warrant; (3) upon a minimum of 30 days’ prior written notice of redemption; and (4) only if the last reported closing price of the Class A Common Stock equals or exceeds $270.00 per share for any 20 trading days within a 30-
+
+16
+
+
+
+Table of Contents
+
+trading day period ending on the third trading day prior to the date on which the Company sends the notice of redemption to the warrant holders.
+
+
+
+If the Company calls the Company Private Placement Warrants for redemption, management will have the option to require all holders that wish to exercise the Company Public Warrants to do so on a “cashless basis.”
+
+
+
+The exercise price and number of Class A Common Stock issuable upon exercise of the warrants may be adjusted in certain circumstances including in the event of a share dividend, recapitalization, reorganization, merger or consolidation. However, the warrants will not be adjusted for issuances of Class A Common Stock at a price below its exercise price. Additionally, in no event will the Company be required to net cash settle the warrant shares. 
+
+
+
+We record the fair value of the Private Placement Warrants as a liability in our consolidated balance sheets as of March 31, 2024 and 2023, respectively. The fair value of the Private Placement Warrants is considered a Level 3 valuation and is determined using the Black-Scholes-Merton valuation model. Changes in fair value of the Private Placement Warrants are presented under Change in fair value of warrant liabilities on the consolidated statements of operations. As of March 31, 2024, the Company has approximately 4 million Private Placement Warrants outstanding (convertible into 267 thousand Class A Common Stock), the total value of which is not material to the financial statements.
+
+
+
+Contingent consideration payable related to acquisitions
+
+The contingent consideration for the Aramis acquisition was finalized on December 31, 2022, the end of the earnout period, and became payable during the fourth quarter of 2023, in the form of cash or Class A Common Stock, at the election of the Company. The timing of payment of the Aramis earnout remains subject to resolution of certain outstanding indemnity issues relating to the acquisition (see Note 5. Acquisitions).
+
+
+
+The fair value of the contingent consideration payable for the ClickDealer acquisition (described in Note 5. Acquisitions) was determined using a Monte Carlo fair value analysis, based on estimated performance and the probability of achieving certain targets. As certain inputs are not observable in the market, the contingent consideration is classified as a Level 3 instrument. Changes in fair value of contingent consideration are presented under Change in fair value of contingent consideration liabilities on the consolidated statements of operations. The contingent consideration for the first year measurement period of the ClickDealer acquisition finalized on February 29, 2024, the end of the first earnout period, resulting in none of the metrics being met, thus no contingent consideration is to be paid to the sellers for the first measurement period.
+
+
+
+The following table presents the contingent consideration assumptions as of March 31, 2024:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                    ClickDealer
+
+Revenue Volatility                                                                                                                 50  %
+
+Iteration (actual)                                                                                                            100,000 
+
+Risk Adjustment Discount Rate                                                                                                   25.50  %
+
+Risk free / Credit risk                                                                                                         12.50  %
+
+Days from period end to payment                                                                                                        90
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The following table presents assets and liabilities measured at fair value on a recurrent basis (in thousands):
+
+
+
+
+
+                                                                                                                       March 31, 2024
+
+Category                                                      Balance Sheet Location                   Level 1     Level 2     Level 3      Total
+
+Liabilities:
+
+Private placement warrants - Class B common    Warrant liabilities                                   $       —   $       —   $      24   $      24 
+
+ stock
+
+Preferred warrants - Series A & B preferred    Warrant liabilities                                           —           —         992         992 
+
+ stock
+
+
+
+Contingent consideration - Aramis              Contingent consideration payable - current                    —           —       1,000       1,000 
+
+
+
+
+
+Contingent consideration - ClickDealer         Contingent consideration payable - non-current                —           —         495         495 
+
+Total                                                                                                $       —   $       —   $   2,511   $   2,511 
+
+
+
+17
+
+
+
+Table of Contents
+
+
+
+                                                                                                                      March 31, 2023
+
+Category                                                      Balance Sheet Location                 Level 1    Level 2     Level 3      Total
+
+Liabilities:
+
+Private placement warrants - Class B common     Warrant liabilities                                 $       —   $       —   $     320   $     320 
+
+ stock
+
+Preferred warrants - Series A & B preferred     Warrant liabilities                                         —           —       12,711       12,711 
+
+ stock
+
+Contingent consideration - Aramis               Contingent consideration payable - current                  —           —        1,000        1,000 
+
+
+
+Contingent consideration - Traverse             Contingent consideration payable - current                  —           —          466          466 
+
+Contingent consideration - ClickDealer          Contingent consideration payable - non-current              —           —        2,457        2,457 
+
+
+
+Total                                                                                               $       —   $       —   $  16,954   $  16,954 
+
+
+
+The following tables represent the change in the warrant liability and contingent consideration (in thousands):
+
+
+
+
+
+                                                                               Private Placement     Preferred Warrants         Contingent
+
+                                                                                    Warrants                                   Consideration
+
+Balance, January 1, 2024                                                     $                24   $               58   $              1,512 
+
+
+
+Changes in fair value                                                                           —                   934                    (17)
+
+
+
+
+
+Balance, March 31, 2024                                                      $                24   $              992                  1,495 
+
+
+
+
+
+
+
+
+
+
+
+                                                                               Private Placement    Preferred Warrants        Contingent
+
+                                                                                    Warrants                                 Consideration
+
+Balance, January 1, 2023                                                     $              600   $               —   $             1,453 
+
+Additions                                                                                      —                8,667                  2,457 
+
+Changes in fair value                                                                       (280)               4,044                     13 
+
+
+
+Balance, March 31, 2023                                                      $              320   $          12,711   $             3,923 
+
+
+
+Note 9. Equity
+
+
+
+Class B Common Stock and DMSH Units Redemptions
+
+
+
+On April 12, 2024, Clairvest redeemed approximately 151.2 thousand Class B Common Stock, effectively converting all of its remaining non-controlling interest held in DMSH Units into Class A Common Stock in DMS Inc. Consequently, there were no shares of the Company's Class B Common Stock outstanding after this redemption.
+
+
+
+On July 3, 2023 and November 17, 2023, Prism redeemed approximately 41.2 thousand and 1,520.9 thousand Class B Common Stock, respectively, effectively converting all of its remaining non-controlling interest held in DMSH Units into Class A Common Stock in DMS Inc. 
+
+
+
+For additional information, see Note 2. Business Combination in the Notes to Consolidated Financial Statements in our 2023 Form 10-K.
+
+
+
+Common Stock Reverse Stock Split
+
+
+
+On August 28, 2023, Digital Media Solutions, Inc. filed an amendment to its certificate of incorporation in the State of Delaware (the "Amendment"), which provides that, after the market close on August 28, 2023 (the "Reverse Split Effective Time"), every fifteen shares of our issued and outstanding Class A Common Stock and Class B Common Stock will automatically be combined into one issued and outstanding share of Class A Common Stock and Class B Common Stock, respectively, without any change in the par value per share (the “Reverse Stock Split”). Earlier, on April 28, 2023, a majority of our shareholders approved a reverse stock split subject to the board of directors determining the final ratio. The Company’s Class A Common Stock began trading on a split-adjusted basis at the market open on August 29, 2023. The Company’s common stock and warrants trade on the Over-The-Counter Market under the symbols “DMSL” and “DMSIW”, respectively.
+
+
+
+At the Reverse Stock Split Effective Time, every 15 issued and outstanding shares of the Company’s Class A Common Stock and Class B Common Stock were converted automatically into one share of the Company’s Class A Common Stock and Class B Common Stock, respectively, without any change in the par value per share. The Reverse Stock Split reduced the number of 
+
+18
+
+
+
+Table of Contents
+
+shares of Class A Common Stock issued and outstanding from approximately 41.0 million to approximately 2.7 million and Class B Common Stock issued and outstanding from approximately 25.1 million to approximately 1.7 million.
+
+
+
+No fractional shares were issued in connection with the Reverse Stock Split. Shareholders who otherwise would have been entitled to receive a fractional share instead became entitled to receive one whole share of common stock in lieu of such fractional share.
+
+
+
+Preferred Stock
+
+
+
+On March 29, 2023, the Company entered into a Securities Purchase Agreement with certain investors, pursuant to which the Company sold (i) 80,000 shares of Series A Preferred Stock accompanied with warrants to purchase 550,268 Class A Common Stock (“Series A Warrant”) and (ii) 60,000 shares of Series B Preferred Stock accompanied with warrants to purchase 412,701 shares of Class A Common Stock (“Series B Warrants”). One share of Series A Preferred Stock with the accompanying warrants (“Series A Unit”) and one share of Series B Preferred Stock with the accompanying warrants (“Series B Unit”) were sold at $100 per unit. 
+
+
+
+The Company measures the Preferred Stock at its maximum redemption value plus dividends not currently declared or paid but which will be payable upon redemption. On June 15, 2023 the Company remeasured the Preferred Stock following the accretion method, which resulted in the Preferred Stock being measured at its maximum redemption value of $16.3 million and accretion of $11.3 million, included in Cumulative Deficit on the consolidated balance sheets as of March 31, 2024.
+
+
+
+For additional information, see Note 11. Equity in the Notes to Consolidated Financial Statements in our 2023 Form 10-K.
+
+
+
+Redemptions 
+
+On June 15, 2023, the Company received notice from the holders of all of the Company’s outstanding Series A Preferred Stock that each holder has elected to have the Company redeem for cash the Series A Preferred Stock held by such holder pursuant to Section 9(b) of the Certificate of Designation of Preferences, Rights and Limitations of the Series A Preferred Stock of the Company (the “Series A Certificate of Designation”). 
+
+
+
+Section 9(b) of the Series A Certificate of Designation gives holders of Series A Preferred Stock the right to require the Company to redeem for cash the Series A Preferred Stock for cash at any time on or after June 15, 2023 at the “Corporation’s Mandatory Redemption Price” (as such term is defined in the Series A Certificate of Designation). The aggregate Corporation’s Mandatory Redemption Price for all of the outstanding Series A Preferred Stock is approximately $9.3 million.
+
+
+
+On June 16, 2023, the Board determined that the Company was not legally permitted under applicable Delaware law to effect a redemption for cash of any Series A Preferred Stock. As a result and in accordance with the Securities Purchase Agreement, the Company accrued dividends payable of $156.0 thousand to the Series A Preferred Stockholders, for the quarter ended March 31, 2024, included in Cumulative Deficit on the consolidated balance sheets, as of March 31, 2024. Total accrued dividend to Series A and B Preferred Stockholders was $624.0 thousand, as of March 31, 2024.
+
+
+
+Relatedly, Section 9(a) of the Series A Certificate of Designation and the Certificate of Designation of Preferences, Rights and Limitations of the Series B Preferred Stock (the “Series B Certificate of Designation” and together with the Series A Certificate of Designation, the “Certificates of Designation”) provide for the Company to redeem 1/10th of the outstanding Series A Preferred Stock and Series B Preferred Stock, respectively, for cash or shares of the Company’s Class A common stock on a monthly basis beginning on June 30, 2023 at the “Corporation’s Mandatory Redemption Price.” Pursuant to the terms of the Certificates of Designation, the Company was not permitted to elect payment in common stock because the Company’s common stock has not traded above the “Floor Price” ($7.26) for 20 trading days prior to redemption, as required by the Certificates of Designation. With respect to each monthly redemption date, the Board determined that the redemption was not permitted under the Certificates of Designation or applicable Delaware law. As a result, the Company did not redeem any shares of Series A or Series B Preferred Stock during the year ended December 31, 2023 and the three months ended March 31, 2024, respectively.
+
+
+
+Note 10. Employee and Director Incentive Plans
+
+
+
+2020 Omnibus Incentive Plan 
+
+
+
+On July 15, 2020, Leo’s shareholders approved the 2020 Omnibus Incentive Plan (the “2020 Plan”). The 2020 Plan allows for the issuance and repurchase of stock options, stock appreciation rights, stock awards (including restricted stock awards (“RSAs”) and Restricted Stock Units (“RSUs”)) and other stock-based awards. Directors, officers and employees, as well as others performing independent consulting or advisory services for the Company or its affiliates, are eligible for grants under the 2020 Plan. The aggregate number of shares reserved under the 2020 Plan is approximately 0.8 million. The 2020 Plan 
+
+19
+
+
+
+Table of Contents
+
+terminates on June 24, 2030. The related costs were approximately $0.2 million for the three months ended March 31, 2024, and $1.3 million for the three months ended March 31, 2023, and are included in Salaries and related costs within the consolidated statements of operations. Fair value of stock-based compensation is based on the closing trading price of the Company’s stock on the grant date. 
+
+
+
+Restricted Stock Units
+
+
+
+For the three months ended March 31, 2024, there were no new RSU awards. During the three months ended March 31, 2024, 29.3 thousand RSUs were forfeited.
+
+
+
+On April 12, 2022, the Board voted to award 50.8 thousand RSUs consisting of 25.4 thousand performance-based vesting RSUs (“PRSUs”) and 25.4 thousand time-based vesting RSUs (“TRSUs”) to certain employees of the Company under the 2020 Plan. The PRSUs vest one-fourth each year based on four years of continuous service starting with January 1, 2022 through January 1, 2026. The TRSUs vest one-fourth each years based on four years continuous service starting April 12, 2022 and ending April 12, 2026.Vesting of the PRSUs were also subject to certain performance metrics of the Company, which the Company evaluates on a quarterly basis. During three months ended March 31, 2024, it was determined that the performance metric was not met for the PRSU’s, and accordingly the awards are no longer subject to amortization. The resulting reversal of compensation expense was not material to the financial statements. The fair value of stock-based compensation is based on the closing trading price of the Company’s stock on the grant date. The TRSU’s related stock-based compensation expense is recognized on a straight-line basis over the vesting period. The PRSU awards’ expense is recognized on an accelerated basis over the vesting period.
+
+
+
+Note 11. Income Taxes
+
+
+
+As of December 31, 2023, the Company consists of DMS Inc. and its wholly-owned subsidiary, Blocker, which owns 96.6% of equity interests in DMSH. DMSH is treated as a partnership for purposes of U.S. federal and certain state and local income tax. As a U.S. partnership, generally DMSH will not be subject to corporate income taxes (except with respect to UE and Traverse, as described below). Instead, each of the ultimate partners (including DMS Inc.) are taxed on their proportionate share of DMSH taxable income. 
+
+
+
+While the Company consolidates DMSH for financial reporting purposes, the Company will only be taxed on its allocable share of future earnings (i.e. those earnings not attributed to the non-controlling interests, which continue to be taxed on their own allocable share of future earnings of DMSH). The Company’s Income tax expense (benefit) is attributable to the allocable share of earnings from DMSH, the activities of UE and Traverse, wholly-owned U.S. corporate subsidiaries of DMSH, which is subject to U.S. federal and state and local income taxes and the activities of ClickDealer, a wholly-owned foreign corporate subsidiary of DMSH, which is subject to Netherlands, Ukraine and United Kingdom income taxes. The income tax burden on the earnings allocated to the non-controlling interests is not reported by the Company in its consolidated financial statements under GAAP. As a result, the Company’s effective tax rate is expected to differ from the statutory rate.
+
+
+
+The Company’s tax provision or benefit from income taxes for interim periods is determined using an estimate of its annual effective tax rate, adjusted for discrete items, if any. Each quarter the Company updates its estimate of the annual effective tax rate and makes a year-to-date adjustment to the provision. The Company recorded income tax expense of $0.1 million for the three months ended March 31, 2024. The effective tax rate for the three months ended March 31, 2024 was 0.2%, which varies from our statutory U.S. tax rate due to taxable income or loss that is allocated to the non-controlling interest and impact of the valuation allowance on DMS Inc. The Company recorded income tax benefit $13.0 thousand for the three months ended March 31, 2023. The effective tax rate for the three months ended March 31, 2023 was 0.1%, which varies from our statutory U.S. tax rate due to taxable income or loss that is allocated to the non-controlling interest.
+
+
+
+Tax Receivable Agreement
+
+In conjunction with the Business Combination, DMS Inc. and Blocker also entered into a Tax Receivable Agreement (“TRA”) with the Sellers. Pursuant to the Tax Receivable Agreement, DMS Inc. is required to pay the Sellers (i) 85% of the amount of savings, if any, in U.S. federal, state and local income tax that DMS Inc. and Blocker actually realize as a result of (A) certain existing tax attributes of Blocker acquired in the Business Combination, and (B) increases in Blocker’s allocable share of the tax basis of the assets of DMS and certain other tax benefits related to the payment of the cash consideration pursuant to the Business Combination Agreement and any redemptions or exchanges of DMS Units for cash or Class A Common Stock after the Business Combination and (ii) 100% of certain refunds of pre-Closing taxes of DMSH and Blocker received during a taxable year beginning within two (2) years after the Closing. All such payments to the Sellers are the obligation of DMS Inc., and not that of DMSH. 
+
+
+
+Since the year ended December 31, 2021, the Company maintains a full valuation allowance on our DTA related to the Tax Receivable Agreement along with the entire DTA inventory at DMS, Inc. and Blocker, as these assets are not more likely than 
+
+20
+
+
+
+Table of Contents
+
+not to be realized based on the positive and negative evidence that we considered. The Tax Receivable Agreement liability that originated from the Business Combination is not probable under ASC 450, Contingencies since a valuation allowance has been recorded against the related DTA. The remaining short-term Tax Receivable Agreement liability of $0.2 million is attributable to carryback claims. We will continue to evaluate the positive and negative evidence in determining the realizability of the Company’s DTAs.
+
+
+
+Note 12. Earnings Per Share
+
+
+
+Basic earnings per share of Class A common stock is computed by dividing net income attributable to DMS Inc. by the weighted-average number of shares of Class A common stock outstanding during the period. Diluted earnings per share of Class A common stock is computed by dividing net income attributable to DMS Inc. adjusted for the income effects of dilutive instruments by the weighted-average number of shares of Class A common stock outstanding adjusted to give effect to potentially dilutive elements. 
+
+
+
+The following table sets forth reconciliations of the numerators and denominators used to compute basic and diluted loss per share of Class A common stock (in thousands, except share data):
+
+
+
+
+
+                                                                                                                    Three Months Ended March 31, 
+
+                                                                                                                     2024                 2023
+
+Numerator:
+
+Net loss                                                                                                     $          (26,278)  $          (20,701)
+
+
+
+Net loss attributable to non-controlling interest                                                                           (891)               (8,103)
+
+Accretion and dividend Series A and B convertible redeemable preferred stock                                                (156)                    — 
+
+Net loss attributable to Digital Media Solutions, Inc. - Class A common stock - basic & diluted              $          (25,543)  $          (12,598)
+
+
+
+
+
+
+
+
+
+
+
+Denominator:
+
+  Weighted-average Class A common shares outstanding – basic & diluted                                                     4,287                 2,695 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Net loss per common share:
+
+Basic and diluted – per Class A common shares                                                                $            (5.96)  $            (4.67)
+
+
+
+
+
+Shares of the Company’s Class B convertible common stock and Series A and B Preferred stock do not participate in the earnings or losses of the Company and are therefore not participating securities. As such, separate basic and diluted earnings per share of Class B convertible common stock and Series A and B Preferred stock under the two-class method has not been presented.
+
+
+
+For the three months ended March 31, 2024, the Company excluded 151.2 thousand shares of Class B convertible common stock, 80 thousand Series A Preferred stock, 60 thousand Series B Preferred stock, 4.0 million Private Placement Warrants, 10.0 million Public Warrants, 14.4 million Preferred Warrants, 84.3 thousand stock options, 26.8 thousand RSUs, and the contingent and deferred considerations issued in connection with the ClickDealer and Aramis acquisitions as their effect would have been anti-dilutive. For the three months ended March 31, 2023, the Company excluded 1.7 million shares of Class B convertible common stock, 4.0 million Private Placement Warrants, 10.0 million Public Warrants, 113.3 thousand stock options, 66.7 thousand RSUs and 20.0 thousand PRSUs, and the contingent and deferred considerations issued in connection with the AAP and Crisp Results acquisitions, as their effect would have been anti-dilutive. 
+
+
+
+Note 13. Commitments and Contingencies
+
+
+
+Legal proceedings
+
+
+
+In the ordinary course of business, we are involved from time to time in various claims and legal actions incident to our operations, both as a plaintiff and defendant. In the opinion of management, after consulting with legal counsel, none of these other claims are currently expected to have a material adverse effect on the results of operations, financial position or cash flows. We intend to vigorously defend ourselves in these matters.
+
+
+
+On October 28, 2022, the Company received notice from the Office of the Ohio Attorney General (“OH OAG”) that it was reviewing certain of DMS’s business practices pursuant to its authority under the Consumer Sales Practices Act, Ohio Revised Code Section 1345.06, and the Telephone Solicitation Sales Act, Ohio Revised Code Sections 4719.11; 109.87(C). While the Company believes that its practices are in compliance with applicable law, the Company and the OH OAG have entered into discussions regarding the terms of a potential resolution to the OH AG’s review. It is uncertain whether a mutually acceptable 
+
+21
+
+
+
+Table of Contents
+
+resolution can be reached and the terms thereof, and, accordingly, the Company is unable to predict the impact of any such resolution to the Company’s business operations or financial results.
+
+
+
+22
+
+
+
+Table of Contents
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Overview
+
+
+
+The following Management’s Discussion and Analysis (“MD&A”) is intended to assist in an understanding of our financial condition and results of operations. This MD&A is provided as a supplement to, should be read in conjunction with, and is qualified in its entirety by reference to, our Consolidated Financial Statements (Unaudited) and accompanying Notes appearing elsewhere in this Quarterly Report (the “Notes”). In addition, reference should be made to our Audited Consolidated Financial Statements and accompanying Notes to Consolidated Financial Statements and Item 7: “Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in our 2023 Form 10-K. Except for the historical information contained herein, the discussions in this MD&A contain forward-looking statements that involve risks and uncertainties. Our future results could differ materially from those discussed herein. Factors that could cause or contribute to such differences include, but are not limited to, those discussed below in this MD&A under “Cautionary Note Regarding Forward-Looking Statements”.
+
+
+
+Recent Developments
+
+
+
+On April 17, 2024, DMS, LLC, DMSH LLC and certain of the Company’s subsidiaries entered into a second amendment and waiver (the “Second Amendment”) to its existing Credit Facility with a syndicate of lenders, arranged by Truist Bank and Fifth Third Bank, as joint lead arrangers, and Truist Bank, as administrative agent and collateral agent. The Second Amendment introduced new Tranche A term loan commitments in the amount of $22 million with a maturity date of February 25, 2026, increasing our total borrowing capacity under the Credit Facility from $275 million to $297 million. The Second Amendment allows the Company to PIK the quarterly interest payments due and payable for the quarter ended March 31, 2024 and each of the following quarters up to and including the quarter ending on March 31, 2025; and waives compliance with the net leverage ratio covenant through June 30, 2025.
+
+
+
+The Second Amendment also includes certain limited waivers related to prior defaults and events of default under the Credit Facility, amends certain negative and affirmative covenants applicable to us and adds certain additional covenants. In accordance with the Second Amendment, we are required to maintain a minimum aggregate amount of unrestricted and uncommitted cash and cash equivalents held in U.S. dollars during the period of time from and after the Second Amendment effective date of at least $5 million. Further, we have agreed to a variance test in which (i) the Company disbursements during a variance testing period shall not be more than 15% in excess of the amount reflected in the corresponding period in the Credit Facility’s loan parties’ projected cash flows prepared in consultation with a financial advisor (the “Cash Flow Forecast”) or (ii) the Company’s aggregate net cash receipts, (a) during the two week period after the Second Amendment effective date, will not be less than 80%, for the trailing two week period, of the aggregate cash receipts forecasted in the Cash Flow Forecast applicable during such testing period, (b) during the three week period after the Second Amendment effective date, will not be less than 82.5%, for the trailing three week period of the aggregate cash receipts forecasted in the Cash Flow Forecast applicable during such testing period and (c) during the four week period after the Second Amendment effective date and thereafter, will not be less than 85% for the trailing four week period of the aggregate cash receipts forecasted in the Cash Flow Forecast applicable during such testing period. 
+
+
+
+In connection with the Second Amendment, the Company must pay a 8.0% commitment fee, which shall be fully earned on the initial funding disbursement date and payable as PIK interest on the Second Amendment effective date. Further, under the terms of the Second Amendment, the Company has agreed to promptly commence a strategic review and marketing process for a sale of all or substantially all of our assets, which is subject to certain milestones. Refer to Note 6. Debt in the Condensed Notes to Consolidated Financial Statements (Unaudited), included in Item 1. Financial Statements of this Quarterly Report, for further detail on our debt.
+
+
+
+23
+
+
+
+Table of Contents
+
+Results of Operations
+
+The following table presents our consolidated results of operations as a percentage of net revenue:
+
+
+
+
+
+                                                                                                  Three Months Ended March 31, 
+
+                                                                                                   2024                  2023
+
+Revenue by type:
+
+Customer acquisition                                                                                    96.3  %              95.8  %
+
+Managed services                                                                                         1.7  %               2.4  %
+
+Software services                                                                                        1.9  %               1.8  %
+
+Total net revenue                                                                                      100.0  %             100.0  %
+
+Revenue by segment:
+
+Brand Direct                                                                                            59.4  %              61.3  %
+
+Marketplace                                                                                             54.9  %              41.3  %
+
+Technology Solutions                                                                                     2.5  %               2.6  %
+
+Intercompany Eliminations                                                                              (16.9) %              (5.2) %
+
+Net revenue                                                                                            100.0  %             100.0  %
+
+Cost of revenue (exclusive of depreciation and amortization)                                            79.8  %              75.3  %
+
+Gross profit                                                                                            20.2  %              24.7  %
+
+Salaries and related costs                                                                              15.5  %              13.5  %
+
+General and administrative                                                                              16.1  %              14.4  %
+
+Depreciation and amortization                                                                            5.3  %               5.6  %
+
+
+
+
+
+Acquisition costs                                                                                          —  %               2.6  %
+
+Change in fair value of contingent consideration                                                               *                     *
+
+Loss from operations                                                                                   (16.6) %             (11.4) %
+
+Interest expense, net                                                                                   19.1  %               7.4  %
+
+Change in fair value of warrant liabilities                                                              1.3  %               4.2  %
+
+
+
+
+
+Other (1)                                                                                                      *                 —  %
+
+Net loss before income taxes                                                                           (37.1) %             (23.0) %
+
+Income tax expense (benefit)                                                                                   *                     *
+
+Net loss                                                                                               (37.2) %             (23.0) %
+
+Net loss attributable to non-controlling interest                                                       (1.3) %              (9.0) %
+
+Net loss attributable to Digital Media Solutions, Inc.                                                 (35.9) %             (14.0) %
+
+____________________
+
+* Less than one tenth of a percent.
+
+(1)Represents Foreign exchange loss (gain).
+
+24
+
+
+
+Table of Contents
+
+Operating Results for the three months ended March 31, 2024 and 2023
+
+The following table presents the consolidated results of operations for the three months ended March 31, 2024 and 2023 and the changes from the prior period (in thousands):
+
+
+
+
+
+                                                                                                     Three Months Ended March 31, 
+
+                                                                                     2024             2023           $ Change          % Change
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Net revenue                                                                    $      70,709   $      90,313   $     (19,604)             (22) %
+
+Cost of revenue (exclusive of depreciation and amortization)                           56,407           68,042          (11,635)             (17) %
+
+
+
+Salaries and related costs                                                             10,957           12,226           (1,269)             (10) %
+
+General and administrative                                                             11,402           12,856           (1,454)             (11) %
+
+Depreciation and amortization                                                           3,726            5,082           (1,356)             (27) %
+
+
+
+
+
+Acquisition costs                                                                           —            2,345           (2,345)            (100) %
+
+Change in fair value of contingent consideration                                          (17)              13              (30)            (231) %
+
+Loss from operations                                                                  (11,766)         (10,251)          (1,515)              15  %
+
+Interest expense, net                                                                  13,488            6,699            6,789              101  %
+
+Change in fair value of warrant liabilities                                               934            3,764           (2,830)             (75) %
+
+
+
+
+
+Other (1)                                                                                  40                —               40              100  %
+
+Net loss before income taxes                                                          (26,228)         (20,714)          (5,514)              27  %
+
+Income tax expense (benefit)                                                               50              (13)              63             (485) %
+
+Net loss                                                                              (26,278)         (20,701)          (5,577)              27  %
+
+Net loss attributable to non-controlling interest                                        (891)          (8,103)           7,212              (89) %
+
+Net loss attributable to Digital Media Solutions, Inc.                         $     (25,387)  $     (12,598)  $     (12,789)             102  %
+
+____________________
+
+(1)Represents Foreign exchange loss (gain) and Gain on disposal of assets.
+
+
+
+Net revenue. Our business generates revenue primarily through the delivery of a variety of performance-based marketing services, including customer acquisition, managed services and software services.
+
+
+
+The following table presents revenue by type for each segment and the changes from the prior period:
+
+
+
+
+
+                                                                                               Three Months Ended March 31, 
+
+                                                                            2024               2023             $ Change            % Change 
+
+Brand Direct
+
+Customer acquisition                                                 $        41,224   $        54,020   $        (12,796)                (24)  %
+
+Managed services                                                                  805              1,383                (578)                (42)  %
+
+
+
+Total Brand Direct                                                             42,029             55,403             (13,374)                (24)  %
+
+Marketplace
+
+Customer acquisition                                                           38,811             37,288               1,523                   4   %
+
+
+
+
+
+Total Marketplace                                                              38,811             37,288               1,523                   4   %
+
+Technology Solutions
+
+
+
+Managed services                                                                  412                753                (341)                (45)  %
+
+Software services                                                               1,378              1,583                (205)                (13)  %
+
+Total Technology Solutions                                                      1,790              2,336                (546)                (23)  %
+
+Corporate and Other
+
+Customer acquisition                                                          (11,921)            (4,714)             (7,207)                153   %
+
+Total Corporate and Other                                                     (11,921)            (4,714)             (7,207)                153   %
+
+Total Customer acquisition                                                     68,114             86,594             (18,480)                (21)  %
+
+Total Managed services                                                          1,217              2,136                (919)                (43)  %
+
+Total Software services                                                         1,378              1,583                (205)                (13)  %
+
+Total Net revenue                                                    $        70,709   $        90,313   $        (19,604)                (22)  %
+
+
+
+25
+
+
+
+Table of Contents
+
+Customer Acquisition Revenue. Customer acquisition contracts deliver potential consumers or leads (i.e. number of clicks, emails, calls and applications) to the customer in real-time based on predefined qualifying characteristics specified by our customer.
+
+
+
+Our Brand Direct segment experienced a decrease in Customer acquisition revenue of $12.8 million or 24% during the three months ended March 31, 2024. As our base business continues to experience downward pressure, growth within the period was driven primarily by the acquisition of ClickDealer. Customer acquisition revenue for Marketplace increased by $1.5 million or 4% for the three months ended March 31, 2024. The decline in Brand Direct is attributed to a pivot within our customer portfolio of marketing activities shifting in-house and the result of lower performing consumer finance campaigns. The consumer finance segment continues to experience increased competition and even more complexity.As consumers try to navigate inflationary pressures, spending will continue to be strained. The increase in Marketplace segments were primarily due to the rebound within Property & Casualty insurance as the industry positions itself for a favorable outlook in FY24. The Company also launched its Affordable Care Act (“ACA”) downline business in Q3 of FY23, which continues expand the Company’s footprint in the health insurance marketplace.
+
+
+
+Managed Services Revenue. Managed services contracts provide continuous service of managing the customer’s media spend for the purpose of generating leads through a third-party supplier of leads, as requested by our customer. Managed services revenue experienced a decrease of $0.9 million or 43% during the three months ended March 31, 2024. The changes were primarily driven by decreased media activity, resulting in lower agency fees. As marketing organizations continue to invest in advanced tools and technologies that can enhance the effectiveness of their in-house marketing activities, the managed service model will continue to contract. 
+
+
+
+Software Services Revenue. Software services contracts provide the customer with continuous, daily access to the Company’s proprietary software. Software services revenue is considered insignificant during the three months ended March 31, 2024.
+
+
+
+Cost of revenue and gross profit. Cost of revenue primarily includes media and other related costs, such as the cost to acquire user traffic through the purchase of impressions, clicks or actions from publishers or third-party intermediaries, including advertising exchanges, and technology costs that enable media acquisition. These media costs are used primarily to drive user traffic to the Company’s and our customers’ media properties. Cost of revenue also includes indirect costs such as data verification, hosting and fulfillment costs. Gross profit is exclusive of Depreciation and amortization.
+
+
+
+The following table presents the gross profit percentage (gross profit as a percentage of total revenue) by segment and the changes from prior period:
+
+
+
+
+
+                                                                                                   Three Months Ended March 31, 
+
+                                                                                           2024               2023           PPTS Change
+
+Brand Direct                                                                                  13.6  %           22.7  %             (9.1)
+
+Marketplace                                                                                   18.2  %           21.3  %             (3.1)
+
+Technology Solutions                                                                          85.6  %           74.2  %             11.4 
+
+Total gross profit percentage                                                                 20.2  %           24.7  %             (4.5)
+
+
+
+Gross profit percentage for Brand Direct decreased for the three months ended March 31, 2024, in comparison to the same periods in 2023, primarily driven by the aforementioned pivot towards in-sourcing of marketing activities within our customer portfolio and lower performing campaigns within our debt/consumer finance vertical, both of which deliver a higher margin profile. Additionally, channel mix challenges within our publisher portfolio impacted campaign performance delivery across the segment and we experienced heightened competitive activities within the lead delivery and acquisition marketplace which led to higher acquisition costs as a result of the inflationary effects that continued to disrupt the economy. Each of these factors working in concert contributed to the margin decline. 
+
+
+
+Gross profit percentage for Marketplace decreased for the three months ended March 31, 2024, in comparison to the same period in 2023, primarily driven by improved performance across the P&C vertical as macro industry headwinds that have plagued the industry for the last twenty-four months continue to subside. Additionally, media optimizations within our insurance business by focusing on a diverse product strategy that centers around Owned & Operated websites and marketplaces as a result of hiring our new executive Vice President of Media continue to improve our profitability margin. We are expecting improved margins by centralizing our demand behind our proprietary DMS asset.
+
+
+
+Gross profit percentage for Technology Solutions increased for the three months ended March 31, 2024, in comparison to the same periods in 2023, driven by the mix of media purchasing activity skewed more heavily towards higher performing media sources coupled with our internal media optimization strategy. Additionally, as we continue to invest behind our technology, we 
+
+26
+
+
+
+Table of Contents
+
+expect to sustain our margin performance with minimal contraction even as marketing organizations continue to explore in-house marketing solutions.
+
+
+
+Total gross profit percentage decreased for the three months ended March 31, 2024, in comparison to the same periods in 2023, primarily due to the external pressures of in-sourcing marketing activities within our customer portfolio coupled with the declines in the consumer finance vertical driven by continued inflationary concerns. Additionally, macro shifts within the insurance industry have culminated in a monetization expansion within the DMS ecosystem as the outlook is poised for solid growth.
+
+
+
+Salaries and related costs. Total compensation includes salaries, commissions, bonuses, payroll taxes and retirement benefits.
+
+Salaries and related costs decreased by $1.3 million or 10% for the three months ended March 31, 2024, in comparison to the same period in 2023, primarily driven by the continued redesign of the corporate structure to optimize the operational and administrative support across the organization as well as higher attrition than expected offset by the impact of the ClickDealer acquisition. We continue to evaluate opportunities to position the business for a sustainable future with a focus on developing our top talent.
+
+
+
+General and administrative. General and administrative consist of expenses incurred in our normal course of business relating to office supplies, computer and technology, rent and utilities, insurance, legal and professional fees, state and local taxes and licenses, penalties and settlements and allowance for credit losses, as well as sales and marketing expenses relating to advertising and promotion. We also include other expenses such as investment banking expenses, capital raising costs and costs related to the advancement of our corporate social responsibility program.
+
+
+
+General and administrative expenses decreased $1.5 million or 11% for the three months ended March 31, 2024, largely due to costs associated with the termination of call center activities supporting our Voice and Crisp operations which were discontinued in Q1 last year.
+
+
+
+Depreciation and amortization. Property, plant and equipment consists of computers and office equipment, furniture and 
+
+fixtures, leasehold improvements and internally developed software costs. Intangible assets subject to amortization include technology, customer relationships, brand, and non-competition agreements.
+
+
+
+Depreciation and amortization expense decreased $1.4 million or 27% for the three months ended March 31, 2024, primarily due to fewer intangibles amortized after the impairments recorded during 2023.
+
+
+
+Impairment of goodwill and intangible assets. During the three months ended March 31, 2024, no impairment of goodwill or impairment of intangible assets was recorded (see Note 4. Goodwill and Intangible Assets).
+
+
+
+Acquisition costs. Acquisition related costs are not considered part of the consideration for acquisitions and are expensed as incurred. This includes acquisition incentive compensation and other transaction related costs. 
+
+
+
+Acquisition costs decreased $2.3 million for the three months ended March 31, 2024, in comparison to the same periods in 2023, primarily due to the ClickDealer acquisition (see Note 5. Acquisitions).
+
+
+
+Interest expense, net. Interest expense, net for three months ended March 31, 2024 was related primarily to our debt, which carries a variable interest rate based on multiple options at either LIBOR plus 5% or an alternate base rate, plus an agreed upon margin with Truist Bank, the administrative agent under the Company’s senior secured credit facility since May 25, 2021 (see Note 6. Debt).
+
+
+
+Interest expense, net increased by $6.8 million or 101.3%, during the three months ended March 31, 2024, in comparison to the same period in 2023, were primarily due to the rate increase of approximately 3% in our LIBOR rate as a result of the amendment of our senior secured credit facility.
+
+
+
+Income tax expense (benefit). The Company recorded income tax expense of $0.05 million for the three months ended March 31, 2024. The blended effective tax rate for the three months ended March 31, 2024 was approximately 24%, which varies from our statutory U.S. tax rate due to taxable income or loss that is allocated to the non-controlling interest and impact of the valuation allowance on DMS Inc. 
+
+
+
+Non-GAAP Financial Measures
+
+
+
+In addition to providing financial measurements based on accounting principles generally accepted in the United States of America (“GAAP”), this Quarterly Report includes additional financial measures that are not prepared in accordance with 
+
+27
+
+
+
+Table of Contents
+
+GAAP (“non-GAAP”), including adjusted EBITDA, unlevered free cash flow, adjusted net income and adjusted EPS. A reconciliation of non-GAAP financial measures to the most directly comparable GAAP financial measures can be found below. 
+
+
+
+As explained further below, we use these financial measures internally to review the performance of our business segments without regard to certain accounting treatments, non-operational, extraordinary or non-recurring items. We believe that presentation of these non-GAAP financial measures provides useful information to investors regarding our results of operations. Because of these limitations, management relies primarily on its GAAP results and uses non-GAAP measures only as a supplement.
+
+
+
+Adjusted EBITDA, Unlevered Free Cash Flow and Unlevered Free Cash Flow Conversion
+
+We use the non-GAAP measures of Adjusted EBITDA, Unlevered Free Cash Flow and Unlevered Free Cash Flow Conversion to assess operating performance. Management believes that these measures provide useful information to investors regarding DMS’s operating performance and its capacity to incur and service debt and fund capital expenditures. DMS believes that these measures are used by many investors, analysts and rating agencies as a measure of performance. By reporting these measures, DMS provides a basis for comparison of our business operations between current, past and future periods by excluding items that DMS does not believe are indicative of our core operating performance. 
+
+
+
+Financial measures that are non-GAAP should not be considered as alternatives to operating income, cash flows from operating activities or any other performance measures derived in accordance with GAAP as measures of operating performance, or cash flows as measures of liquidity. These measures have limitations as analytical tools, and you should not consider them in isolation or as a substitute for analysis of our results as reported under GAAP. Because of these limitations, DMS relies primarily on its GAAP results and uses Adjusted EBITDA, Unlevered Free Cash Flow, and Unlevered Free Cash Flow Conversion only as a supplement.
+
+
+
+Adjusted EBITDA is defined as net (loss) income, as may be applicable, excluding (a) interest expense, net, (b) income tax expense (benefit), (c) depreciation and amortization, (d) change in fair value of warrant liabilities, (e) change in fair value of contingent consideration liabilities, (f) legal and professional fees - Debt Amendment, (g) termination of operations, (h) stock-based compensation expense, (i) restructuring costs, (j) acquisition and other related costs, and (k) other expense. 
+
+
+
+Furthermore, in order to review the performance of the combined business over periods that extend prior to our ownership of the acquired businesses, we include the pre-acquisition performance of the businesses acquired. Management believes that doing so helps to understand the combined operating performance and potential of the business as a whole and makes it easier to compare performance of the combined business over different periods. 
+
+
+
+Unlevered Free Cash Flow is defined as Adjusted EBITDA, less capital expenditures, and Unlevered Free Cash Flow Conversion is defined as Unlevered Free Cash Flow divided by Adjusted EBITDA.
+
+
+
+28
+
+
+
+Table of Contents
+
+The following table provides a reconciliation between Net loss, the most directly comparable GAAP measure, and Adjusted EBITDA and Unlevered Free Cash Flow, (in thousands):
+
+
+
+
+
+                                                                                                     Three Months Ended March 31, 
+
+                                                                                                      2024                 2023
+
+Net loss                                                                                      $        (26,278)   $        (20,701)
+
+Adjustments
+
+Interest expense, net                                                                                    13,488                6,699 
+
+Income tax expense (benefit)                                                                                 50                  (13)
+
+Depreciation and amortization                                                                             3,726                5,082 
+
+
+
+
+
+Change in fair value of warrant liabilities                                                                 934                3,764 
+
+Change in fair value of contingent consideration liabilities                                                (17)                  13 
+
+Legal and professional fees - Debt Amendment                                                              2,521                    — 
+
+Termination of operations                                                                                     —                2,117 
+
+
+
+
+
+Stock-based compensation expense                                                                            232                1,258 
+
+Restructuring costs                                                                                         746                  493 
+
+Acquisition and other related costs (1)                                                                       —                3,614 
+
+
+
+Other expense (2)                                                                                           279                1,034 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adjusted EBITDA                                                                                          (4,319)               3,360 
+
+Less: Capital Expenditures                                                                                1,154                1,215 
+
+Unlevered free cash flow                                                                      $         (5,473)   $          2,145 
+
+Unlevered free cash flow conversion                                                                       126.7  %              63.8  %
+
+____________________
+
+(1)Includes transaction fees in connection with the ClickDealer acquisition, pre-acquisition expenses, preferred warrants issuance costs, and post-acquisition related costs.
+
+(2)Includes compliance-related legal and professional fees pre-acquisition transactions.
+
+29
+
+
+
+Table of Contents
+
+A reconciliation of Unlevered Free Cash Flow to net cash provided by operating activities, the most directly comparable GAAP measure, is presented below (in thousands):
+
+
+
+
+
+                                                                                                                Three Months Ended March 31, 
+
+                                                                                                                  2024                 2023
+
+Unlevered free cash flow                                                                                  $          (5,473)  $           2,145 
+
+Capital expenditures                                                                                                   1,154                1,215 
+
+
+
+
+
+
+
+
+
+
+
+Adjusted EBITDA                                                                                                       (4,319)               3,360 
+
+
+
+
+
+Acquisition and other related costs (1)                                                                                    —                3,614 
+
+Change in fair value of contingent consideration liabilities                                                             (17)                  13 
+
+Other expenses (2)                                                                                                       279                1,034 
+
+Stock-based compensation                                                                                                 232                1,258 
+
+Restructuring costs                                                                                                      746                  493 
+
+Change in fair value of warrant liabilities                                                                              934                3,764 
+
+Legal and professional fees - Debt Amendment                                                                           2,521                    — 
+
+Termination of operations                                                                                                  —                2,117 
+
+
+
+
+
+Subtotal before additional adjustments                                                                                (9,014)              (8,933)
+
+Less: Interest expense, net                                                                                           13,488                6,699 
+
+Less: Income tax expense (benefit)                                                                                        50                  (13)
+
+
+
+Allowance for credit losses - Accounts receivable, net                                                                   796                  563 
+
+Amortization of right-of-use assets                                                                                      183                  242 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stock-based compensation, net of amounts capitalized                                                                     232                1,258 
+
+
+
+Interest expense paid-in-kind                                                                                         12,375                    — 
+
+Amortization of debt issuance costs                                                                                    1,122                  390 
+
+Deferred income tax (benefit) provision, net                                                                             (30)                 550 
+
+
+
+Change in fair value of contingent consideration                                                                         (17)                  13 
+
+Change in fair value of warrant liabilities                                                                              934                3,764 
+
+Loss from preferred warrants issuance                                                                                      —                  553 
+
+
+
+
+
+Change in income tax receivable and payable                                                                               69                 (570)
+
+Change in accounts receivable                                                                                          2,129               (1,371)
+
+Change in contract assets                                                                                              1,471                    — 
+
+Change in prepaid expenses and other current assets                                                                        3                 (657)
+
+Change in operating right-of-use assets                                                                                  (13)                   — 
+
+Change in accounts payable and accrued expenses                                                                        1,203                6,638 
+
+Change in operating lease liabilities                                                                                   (345)                (537)
+
+
+
+Net cash used in operating activities                                                                     $          (2,440)  $          (4,783)
+
+____________________
+
+(1)Includes transaction fees in connection with the ClickDealer acquisition, pre-acquisition expenses, preferred warrants issuance costs, and post-acquisition related costs.
+
+(2)Includes compliance-related legal and professional fees pre-acquisition transactions.
+
+
+
+Adjusted Net Income and Adjusted EPS
+
+
+
+We use the non-GAAP measures Adjusted Net Income (or Adjusted Net Loss, if applicable) and Adjusted EPS to assess operating performance. Management believes that these measures provide investors with useful information on period-to-period performance as evaluated by management and comparison with our past financial and operating performance. Management also believes these non-GAAP financial measures are useful in evaluating our operating performance compared to that of other companies in our industry, as this metric generally eliminates the effects of certain items that may vary from company to company for reasons unrelated to overall operating performance. We define Adjusted Net Loss as net loss attributable to Digital Media Solutions, Inc. adjusted, as may be applicable, for (x) costs associated with the change in fair value of warrant liabilities, acquisition costs, change in fair value of contingent consideration liabilities, restructuring costs, stock-based compensation expense and (y) the reallocation of net income (loss) attributable to non-controlling interests from the assumed acquisition by Digital Media Solutions, Inc. of all units of Digital Media Solutions Holdings, LLC (“DMSH LLC”) (other than units held by subsidiaries of Digital Media Solutions, Inc.) for newly-issued shares of Class A Common Stock of Digital Media Solutions, Inc. on a one-to-one basis. We define Adjusted EPS as adjusted net income or loss attributable to Digital Media Solutions, Inc. divided by the weighted-average shares of Class A Common Stock outstanding, assuming the acquisition by Digital Media 
+
+30
+
+
+
+Table of Contents
+
+Solutions, Inc. of all outstanding DMSH LLC units (other than units held by subsidiaries of Digital Media Solutions, Inc.) and Preferred Stock Units for newly-issued shares of Class A Common Stock on a one-to-one-basis.
+
+
+
+The following table presents a reconciliation between GAAP Earnings Per Share and Non-GAAP Adjusted Net Income and Adjusted EPS (in thousands, except per share data):
+
+
+
+
+
+                                                                                                      Three Months Ended March 31, 
+
+                                                                                                        2024                2023
+
+Numerator:
+
+Net loss                                                                                         $        (26,278)  $        (20,701)
+
+
+
+Net loss attributable to non-controlling interest                                                             (891)             (8,103)
+
+Accretion and dividend Series A and B convertible redeemable preferred stock                                  (156)                  — 
+
+Net loss attributable to Digital Media Solutions, Inc. - Class A common stock - basic & diluted  $        (25,543)  $        (12,598)
+
+
+
+
+
+
+
+
+
+
+
+Denominator:
+
+  Weighted-average Class A common shares outstanding – basic & diluted                                       4,287               2,695 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Net loss per common share:
+
+Basic and diluted – per Class A common shares                                                    $          (5.96)  $          (4.67)
+
+
+
+
+
+
+
+                                                                                                      Three Months Ended March 31, 
+
+                                                                                                        2024                2023
+
+Numerator:
+
+Net loss attributable to Digital Media Solutions, Inc. - Class A common stock - basic & diluted  $        (25,543)  $        (12,598)
+
+
+
+Add adjustments:
+
+Change in fair value of warrant liabilities                                                                    934               3,764 
+
+
+
+Acquisition costs                                                                                                —               3,614 
+
+Change in fair value of contingent consideration liabilities                                                   (17)                 13 
+
+Restructuring costs                                                                                            746                 493 
+
+
+
+Stock-based compensation expense                                                                               232               1,258 
+
+
+
+                                                                                                             1,895               9,142 
+
+
+
+Adjusted net loss attributable to Digital Media Solutions, Inc. - basic and diluted                        (23,648)             (3,456)
+
+
+
+
+
+Denominator:
+
+Weighted-average shares outstanding - basic & diluted                                                        4,287               2,695 
+
+Weighted-average LLC Units of DMSH, LLC that are convertible into Class A common stock                         151               1,713 
+
+Weighted-average Preferred Stock Units that are convertible into Class A common stock                        2,317                   — 
+
+                                                                                                             6,755               4,408 
+
+
+
+Adjusted EPS - basic and diluted                                                                 $          (3.50)  $          (0.78)
+
+
+
+
+
+31
+
+
+
+Table of Contents
+
+Liquidity and Capital Resources
+
+
+
+The following table summarizes certain key measures of our liquidity and capital resources (in thousands):
+
+
+
+
+
+                                                                       March 31,       December 31,       $ Change          % Change
+
+                                                                          2024             2023
+
+Cash and cash equivalents and Restricted cash                       $       14,686   $       18,968   $      (4,282)             (23)  %
+
+Availability under revolving credit facility                        $            —   $            —   $           —                —   %
+
+Total Debt                                                          $      309,705   $      298,018   $      11,687                4   %
+
+
+
+Our capital resources are focused on investments in our technology solutions, corporate infrastructure and strategic acquisitions to further expand into new business sectors and/or expand sales in existing sectors. Our principal sources of liquidity on a short-term basis are cash and cash equivalents, and cash flows provided by operations. Our primary use of cash is compensation to our employees and payments for general operating expenses. From time to time, we may access debt or equity capital markets to meet our working capital and/or capital expenditure needs. Our ability to obtain additional working capital and/or financing for capital expenditures or general corporate purposes will be subject to various factors, including general market conditions, our operating performance, the market's perception of our growth potential, lender sentiment and our ability to incur additional debt in compliance with other contractual restrictions, such as financial covenants under our debt agreements. 
+
+
+
+During the first quarter of 2024, the Company continued to experience challenges in revenues and liquidity conversions due to the continued weakness in the insurance sector. See Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations. The decline in revenue adversely affected the Company's liquidity. In response, on April 17, 2024, DMS LLC and DMSH LLC, along with certain subsidiaries of the Company, entered into a second amendment to the Credit Facility, which, among other things modified the Credit Facility as further described under “—Credit Facility” below.
+
+
+
+For the quarter ended March 31, 2024, the Company elected to exercise its available PIK elections. Accordingly, $10.1 million and $2.3 million of PIK interest expense was added to the outstanding principal balance of the Term Loan and the Revolving Facility, respectively. As of March 31, 2024, the total outstanding balance of the Term Loan and the Revolving Facility is $252.5 million and $57.3 million, respectively. For the three months ended March 31, 2024, the effective interest rate was 16.5% for the Term Loan. The effective interest rate related to the Revolving Facility was 16.4% for the three months ended March 31, 2024.
+
+
+
+For the year ended December 31, 2023, the Company elected to exercise its available PIK elections. Accordingly, $19.1 million and $4.3 million of PIK interest expense were added to the outstanding principal balance of the Term Loan and the Revolving Facility, respectively. As of December 31, 2023, the total outstanding balance of the Term Loan and the Revolving Facility was $242.9 million and $55.1 million, respectively. For the year ended December 31, 2023, the effective interest rate was 13.4%, for the Term Loan. The effective interest rate related to the Revolving Facility was 13.1% for the year ended December 31, 2023.
+
+
+
+Management believes that the expected impact on our liquidity and cash flows resulting from the debt amendments and the operational initiatives outlined above are sufficient to enable the Company to meet its obligations for at least twelve months from the issuance date of these unaudited consolidated financial statements. See “Item 1A. Risk Factors - Risks Related to Our Financial Condition” in our 2023 Form 10-K. 
+
+
+
+Credit Facility
+
+
+
+The Term Loan, which was issued at an original issue discount of 1.80% or $4.2 million, is subject to payment of 1.0% of the original aggregate principal amount per annum paid quarterly, with a bullet payment at maturity. The Term Loan will mature, and the revolving credit commitments under the Revolving Facility will terminate, on May 25, 2026, when any outstanding balances will become due. Under the original agreement, the Term Loan would bear interest at our option, at either (i) adjusted LIBOR plus 5.00% or (ii) the Base Rate plus 4.00%. From May 25, 2021 to July 3, 2023 our interest rate was based on LIBOR plus 5.00%.
+
+
+
+Under the original agreement, borrowings under the Revolving Facility would bear interest, at our option, at either (i) adjusted LIBOR plus 4.25% or (ii) a base rate which is equal to the highest of (a) the administrative agent’s prime rate, (b) the federal funds rate, as in effect from time to time, plus 0.50%, (c) one-month LIBOR plus 1.00%, and (d) 1.75% (the “Base Rate”), plus 3.25%. DMS LLC pays a 0.50% per annum commitment fee in arrears on the undrawn portion of the revolving commitments. From May 25, 2021 to July 3, 2023, our interest rate was based on LIBOR plus 5.00% . The Company drew $10.0 million on May 24, 2023.
+
+32
+
+
+
+Table of Contents
+
+
+
+On July 3, 2023, the borrowings under the Term Loan and Revolving Facility were amended to transition LIBOR to the Term SOFR as the basis for establishing the interest rate applicable to borrowings under the agreements.
+
+
+
+On August 16, 2023, DMS LLC and DMSH LLC, along with certain subsidiaries of the Company, entered into the First Amendment with the Lenders, which, among other things, modified the Credit Facility as follows:
+
+
+
+a.allows for the payment-in-kind (“PIK”) of the quarterly interest payments due and payable on September 30, 2023 and each of the following three quarters, with all PIK interest required to be repaid no later than December 31, 2025;
+
+b.provides that (a) if the borrower exercises the PIK option, the interest rate will be equal to SOFR+11%; (b) if interest is paid in cash during the PIK period, the rate will be equal to SOFR+8%; and (c) following the PIK period, the interest rate will be equal to SOFR+8%; provided that if the Company (1) achieves the credit rating of B3 by Moody’s and B- by S&P, and (2) has repaid the aggregate capitalized PIK interest, the interest rate will be SOFR + 6.0%;
+
+c.if any loans under the Credit Facility remain outstanding on or after January 1, 2025, back-end PIK interest will accrue as follows: 5% for the period from January 1, 2025 through June 30, 2025; 7.5% for the period from July 1, 2025 through December 31, 2025; and 10% in calendar year 2026 until maturity;
+
+d.eliminates the total net leverage ratio covenant for the remainder of 2023, inclusive of the second quarter of 2023, and sets the total net leverage ratio of DMSH LLC and its restricted subsidiaries starting at 15.6 and 10.6x for the first and second quarters of 2024, respectively, and varying for every quarter thereafter, down to 6.9x for the fourth quarter of 2025 and until maturity;
+
+e.eliminates the right of the Borrower to undertake an equity cure to cure any breach of the total net leverage ratio covenant;
+
+f.establishes a minimum liquidity covenant of $9 million for the remainder of 2023 excluding December 31, 2023, and $10 million from December 31, 2023 and thereafter until maturity (subject to the Company’s ability to exercise an equity cure solely with respect to the liquidity covenant); 
+
+g.modifies in certain respects the affirmative and negative covenants and the events of default in the Credit Facility, including subjecting non ordinary course investments and restricted distributions to consent of the requisite Lenders; and
+
+h.establishes a minimum payment for the revolver of 1.0%per annum of the original aggregate principal amount of the Revolving Facility outstanding as of the First Amendment’s effective date, paid quarterly.
+
+
+
+For the quarter ended March 31, 2024, the Company elected to exercise its available PIK elections. Accordingly, $10.1 million and $2.3 million of PIK interest expense was added to the outstanding principal balance of the Term Loan and the Revolving Facility, respectively. As of March 31, 2024, the total outstanding balance of the Term Loan and the Revolving Facility is $252.5 million and $57.3 million, respectively. For the three months ended March 31, 2024, the effective interest rate was 16.5% for the Term Loan. The effective interest rate related to the Revolving Facility was 16.4% for the three months ended March 31, 2024.
+
+
+
+The Credit Facility is conditioned upon the Company’s compliance with specified covenants, including certain reporting covenants and financial covenants that, in addition to other items, require the Company to maintain a maximum net leverage ratio. As of March 31, 2024, compliance with the net leverage ratio covenant was waived in connection with entry into the First Amendment. As of December 31, 2023, the Company was in breach of the net leverage ratio, which it cured on March 30, 2023 through the funds received in connection with the issuance of Series A and Series B convertible Preferred stock and Warrants. As of March 31, 2024, the Company was in compliance with the Credit Facility’s minimum liquidity covenant. 
+
+
+
+As of March 31, 2024, the Company was in breach of the net leverage ratio covenant under its Credit Facility, which it cured as of April 17, 2024, when DMS, LLC, DMSH LLC and certain of the Company’s subsidiaries entered into a second amendment and waiver (the “Second Amendment”) to its existing Credit Facility with a syndicate of lenders, arranged by Truist Bank and Fifth Third Bank, as joint lead arrangers, and Truist Bank, as administrative agent and collateral agent. The Second Amendment introduced new Tranche A term loan commitments in the amount of $22 million with a maturity date of February 25, 2026, increasing our total borrowing capacity under the Credit Facility from $275 million to $297 million. The Second Amendment allows the Company to PIK the quarterly interest payments due and payable for the quarter ended March 31, 2024 and each of the following quarters up to and including the quarter ending on March 31, 2025; and waives compliance with the net leverage ratio covenant through June 30, 2025.
+
+
+
+The Second Amendment also includes certain limited waivers related to prior defaults and events of default under the Credit Facility, amends certain negative and affirmative covenants applicable to us and adds certain additional covenants. In accordance with the Second Amendment, we are required to maintain a minimum aggregate amount of unrestricted and uncommitted cash and cash equivalents held in U.S. dollars during the period of time from and after the Second Amendment effective date of at least $5 million. Further, we have agreed to a variance test in which (i) the Company disbursements during a variance testing period shall not be more than 15% in excess of the amount reflected in the corresponding period in the Credit 
+
+33
+
+
+
+Table of Contents
+
+Facility’s loan parties’ projected cash flows prepared in consultation with a financial advisor (the “Cash Flow Forecast”) or (ii) the Company’s aggregate net cash receipts, (a) during the two week period after the Second Amendment effective date, will not be less than 80%, for the trailing two week period, of the aggregate cash receipts forecasted in the Cash Flow Forecast applicable during such testing period, (b) during the three week period after the Second Amendment effective date, will not be less than 82.5%, for the trailing three week period of the aggregate cash receipts forecasted in the Cash Flow Forecast applicable during such testing period and (c) during the four week period after the Second Amendment effective date and thereafter, will not be less than 85% for the trailing four week period of the aggregate cash receipts forecasted in the Cash Flow Forecast applicable during such testing period. 
+
+
+
+In connection with the Second Amendment, the Company must pay a 8.0% commitment fee, which shall be fully earned on the initial funding disbursement date and payable as PIK interest on the Second Amendment effective date. Further, under the terms of the Second Amendment, the Company has agreed to promptly commence a strategic review and marketing process for a sale of all or substantially all of our assets, which is subject to certain milestones. 
+
+
+
+See Note 6. Debt for additional information.
+
+
+
+Cash flows from operating activities
+
+Net cash used in operating activities was $2.4 million for the three months ended March 31, 2024 as compared to $4.8 million used in operating activities in the three months ended March 31, 2023. The decrease in cash used in operating activities is primarily attributable to lower business performance, and increase in accounts payable and current accrued expenses due to timing of vendor payments.
+
+
+
+Cash flows from investing activities
+
+Net cash used in investing activities for the three months ended March 31, 2024 decreased by $35.4 million or 97% to $1.2 million from $36.5 million for the three months ended March 31, 2023, primarily due to the acquisition of ClickDealer during the first quarter of 2023. 
+
+
+
+Cash flows from financing activities
+
+Net cash (used in) provided by financing activities for the three months ended March 31, 2024 was $0.7 million, reflecting an decrease of $13.2 million or 105%, as compared to $12.5 million for the three months ended March 31, 2023. This decrease was substantially due to the issuance of preferred shares and warrants during the first quarter of 2023.
+
+
+
+For the three months ended March 31, 2024, our Unlevered Free Cash Flow conversion rate increased 63% compared to the three months ended March 31, 2023 due to lower business performance.
+
+
+
+Off-Balance Sheet Arrangements
+
+
+
+We do not have any outstanding off-balance sheet guarantees, interest rate swap transactions or foreign currency forward contracts. In addition, we do not engage in trading activities involving non-exchange traded contracts. In our ongoing business, we do not enter into transactions involving, or otherwise form relationships with, unconsolidated entities or financial partnerships that are established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+
+
+
+Summary of Contractual Obligations
+
+
+
+None.
+
+
+
+Critical Accounting Policies and Estimates
+
+
+
+Refer to Item 7: Management’s Discussion and Analysis of Financial Condition and Results of Operation in our 2023 Form 10-K, for further information on our critical and other significant accounting policies. 
+
+
+
+Recently Issued Accounting Standards
+
+
+
+Refer to Note 1. Business, Basis of Presentation and Summary of Significant Accounting Policies in the Condensed Notes to Consolidated Financial Statements (Unaudited), included in Item 1. Financial Statements of this Quarterly Report, for a more detailed discussion on recent accounting pronouncements and the related impact on our consolidated financial statements.
+
+
+
+34
+
+
+
+Table of Contents
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+
+
+For our disclosures about market risk, please see Part II, Item 7A: Quantitative and Qualitative Disclosures about Market Risk in our 2023 Form 10-K.
+
+
+
+Interest Rate Risk
+
+As of March 31, 2024, we had total debt outstanding of $301.9 million (net of $7.8 million of unamortized discount and debt issuance costs), which was comprised of amounts outstanding under our Term Loan of $252.5 million and our Revolver Facility of $57.3 million combined. Substantially all this debt bears interest at floating rates. Changes in interest rates affect the interest expense we pay on our floating rate debt. A hypothetical 1% (100 basis points) increase in interest rates would increase our interest expense by approximately $2.7 million annually, based on the debt outstanding at March 31, 2024.
+
+
+
+35
+
+
+
+Table of Contents
+
+Item 4. Evaluation of Disclosure Controls and Procedures
+
+
+
+We have established disclosure controls and procedures to ensure that the information required to be disclosed by the Company in the reports that it files or submits under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms and that such information is accumulated and made known to the officers who certify the Company’s financial reports and to other members of senior management and the Board of Directors as appropriate to allow timely decisions regarding required disclosure. 
+
+
+
+Based on their evaluation as of March 31, 2024, the principal executive officer and principal financial officer of the Company have concluded that during the period covered by this Quarterly Report, the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) were not effective because of the material weakness in our internal control over financial reporting described in our 2023 Form 10-K. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of our quarterly interim consolidated financial statements will not be prevented or detected on a timely basis.
+
+
+
+Management’s Report on Internal Control Over Financial Reporting
+
+
+
+March 31, 2024 Assessment
+
+
+
+Management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. The Company’s internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting principles (“GAAP”). 
+
+
+
+The Company’s internal control over financial reporting includes those policies and procedures that:
+
+i.pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the Company’s assets;
+
+ii.provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and that the Company’s receipts and expenditures are being made only in accordance with authorizations of the Company’s management and Board of Directors; and
+
+iii.provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company’s assets that could have a material effect on the financial statements.
+
+
+
+Management, including its Chief Executive Officer and Chief Financial Officer, does not expect that the Company’s internal controls will prevent or detect all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of internal controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. Also, any evaluation of the effectiveness of controls in future periods are subject to the risk that those internal controls may become inadequate because of changes in business conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+
+
+Under the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission in 2013. Based on our evaluation under the framework in Internal Control - Integrated Framework, management concluded that the Company’s internal control over financial reporting was not effective as of March 31, 2024, as a material weakness exists. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our financial statements could occur but will not be prevented or detected on a timely basis.
+
+
+
+As previously disclosed in our Annual Report on Form 10-K for the year ended December 31, 2023, we identified a material weakness in internal control over financial reporting related to goodwill. Specifically, management did not design and maintain sufficient procedures and controls related to impairment, including calculating carrying values by segment to accurately reflect the intangible assets from the ClickDealer acquisition, which impacted our calculation of goodwill impairment.
+
+
+
+As previously disclosed in our Annual Report on Form 10-K for the year ended December 31, 2021, we identified a material weakness in internal control over financial reporting related to revenue. Management assessed our internal control over financial reporting as of December 31, 2023 and concluded that a material weakness continues to exist related to revenue. We did not design and maintain sufficient procedures and controls related to revenue recognition including those related to ensuring 
+
+36
+
+
+
+Table of Contents
+
+accuracy of revenue recognized. Also, during management’s assessment of internal control over financial reporting as of December 31, 2023, we concluded that we did not design and maintain effective information technology general controls for certain information systems that are relevant to the preparation of the financial statements. In light of the material weakness, management performed additional procedures to validate the accuracy and completeness of the financial results impacted by the control deficiencies. Such procedures included validation using revenue reconciliations, fluctuation analyses and additional information technology controls related to changes in the system that could influence revenue.
+
+
+
+Remediation Plans
+
+
+
+We intend to continue to take steps to remediate the material weaknesses described above and further evolving our accounting processes, controls, and reviews. Related to the material weakness identified in 2023, management intends to implement additional controls surrounding formalization of the review process for supporting documentation used in the impairment calculations in cases where external valuations have been performed. The material weakness will not be considered remediated until the newly implemented internal controls operate for a sufficient period of time and management has concluded, through testing, that these internal controls are operating effectively. Management intends to remediate this weakness in 2024.
+
+
+
+Related to the material weakness identified in 2021, during the course of 2023, the Company took steps to remediate the 2021 material weakness, including enhancement of recurring detective controls, and will continue to execute remediation steps as they relate to contract review and effective technology general controls until the material weakness is remediated. The material weakness will not be considered remediated until the existing and newly implemented internal controls operate for a sufficient period of time and management has concluded, through testing, that these internal controls are operating effectively. Management intends to remediate this weakness in 2024.
+
+
+
+Changes in Internal Control Over Financial Reporting
+
+Except as described above in Management’s Report on Internal Control over Financial Reporting, there have been no changes in our internal control over financial reporting during the first quarter of the fiscal year ending December 31, 2024, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+37
+
+
+
+Table of Contents
+
+PART II - OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+
+
+From time to time, we are involved in various disputes and litigation that arise in the ordinary course of business. However, separate from such matters, to the best of our knowledge, outside of those described below, there are no material pending or threatened legal proceedings to which we are a party, either individually or in the aggregate.
+
+
+
+On October 28, 2022, the Company received notice from the Office of the Ohio Attorney General (“OH OAG”) that it was reviewing certain of DMS’s business practices pursuant to its authority under the Consumer Sales Practices Act, Ohio Revised Code Section 1345.06, and the Telephone Solicitation Sales Act, Ohio Revised Code Sections 4719.11; 109.87(C). While the Company believes that its practices are in compliance with applicable law, the Company and the OH OAG have entered into discussions regarding the terms of a potential resolution to the OH AG’s review. It is uncertain whether a mutually acceptable resolution can be reached and the terms thereof, and, accordingly, the Company is unable to predict the impact of any such resolution to the Company’s business operations or financial results.
+
+
+
+Item 1A. Risk Factors
+
+
+
+The Company’s business, results of operations, and financial condition are subject to various risks and uncertainties, including those described in Part I, Item 1A: Risk Factors in our 2023 Form 10-K. 
+
+
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds from Registered Securities
+
+
+
+None.
+
+
+
+Item 3. Defaults Upon Senior Securities
+
+
+
+None.
+
+
+
+Item 4. Mine Safety Disclosures
+
+
+
+None.
+
+
+
+Item 5. Other Information
+
+
+
+None.
+
+38
+
+
+
+Table of Contents
+
+Item 6. Exhibits
+
+
+
+The following exhibits are filed as part of this report:
+
+
+
+
+
+Exhibit                                                                  Description
+
+Number
+
+
+
+3.1                   Certificate of Incorporation of Digital Media Solutions, Inc. (incorporated by reference to Exhibit 3.1 to
+
+                       Digital Media Solutions, Inc.’s Current Report on Form 8-K filed with the SEC on July 16,
+
+                       2020).
+
+3.2                   Bylaws of Digital Media Solutions, Inc. (incorporated by reference to Exhibit 3.2 to Digital Media Solutions,
+
+                       Inc.’s Current Report on Form 8-K filed with the SEC on July 16,
+
+                       2020).
+
+3.3                   Certificate of Amendment to Certificate of Incorporation of Digital Media Solutions, Inc. (incorporated by
+
+                       reference to Exhibit 3.1 to Digital Media Solutions, Inc.’s Current Report on Form 8-K filed with the SEC on
+
+                       August 30,
+
+                       2023).
+
+4.1                   Certificate of Designation of Preferences, Rights and Limitations of Series A Convertible Redeemable Preferred
+
+                       Stock, filed on March 30, 2023 (incorporated by reference to Exhibit 4.5 to Digital Media Solutions, Inc.’s
+
+                       Annual Report on Form 10-K/A for the year ended December 31, 2022 filed with the SEC on April 5,
+
+                       2023).
+
+4.2                   Certificate of Designation of Preferences, Rights and Limitations of Series B Convertible Redeemable Preferred
+
+                       Stock, filed on March 30, 2023 (incorporated by reference to Exhibit 4.6 to Digital Media Solutions, Inc.’s
+
+                       Annual Report on Form 10-K/A for the year ended December 31, 2022 filed with the SEC on April 5,
+
+                       2023).
+
+
+
+
+
+10.1                  Second Amendment to the Credit Agreement, dated as of April 17, 2024, by and among Digital Media Solutions, LLC,
+
+                       as borrower, Digital Media Solutions Holdings, LLC, the lenders and issuing banks named therein, and Truist
+
+                       Bank, as administrative agent and as collateral agent (incorporated by reference to Exhibit 10.1 to Digital
+
+                       Media Solutions, Inc.’s Current Report on Form 8-K filed with the SEC on April 19,
+
+                       2024).
+
+31.1*                 Certification of Chief Executive Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange
+
+                       Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+                       2002.
+
+31.2*                 Certification of Chief Financial Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange
+
+                       Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+                       2002.
+
+32.1*                 Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+
+                       of the Sarbanes-Oxley Act of
+
+                       2002.
+
+32.2*                 Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+
+                       of the Sarbanes-Oxley Act of
+
+                       2002.
+
+
+
+
+
+
+
+
+
+
+
+101.INS*              Inline XBRL Instance Document
+
+101.SCH*†             Inline XBRL Taxonomy Extension Schema 
+
+101.CAL*†             Inline XBRL Taxonomy Extension Calculation Linkbase
+
+101.DEF*†             Inline XBRL Taxonomy Extension Definition Linkbase
+
+101.LAB*†             Inline XBRL Taxonomy Extension Label Linkbase
+
+101.PRE*†             Inline XBRL Taxonomy Extension Presentation Linkbase 
+
+104                   Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+____________________
+
+* Filed herewith
+
+† Users of this data are advised pursuant to Rule 406T of Regulation S-T that this interactive data file is deemed not filed or part of a registration statement for purposes of Section 11 or 12 of the Securities Act, is deemed not filed for purposes of Section 18 of the Exchange Act, and otherwise is not subject to liability under these section
+
+39
+
+
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+
+
+Date: May 15, 2024
+
+
+
+
+
+                                                          Digital Media Solutions, Inc.
+
+
+
+                                                          /s/ Joseph Marinucci
+
+                                                          Name:        Joseph Marinucci
+
+                                                          Title:       Chief Executive Officer and Director
+
+                                                                       (Principal Executive Officer)
+
+
+
+                                                          /s/ Vanessa Guzmán-Clark
+
+                                                          Name:        Vanessa Guzmán-Clark
+
+                                                          Title:       Chief Financial Officer
+
+                                                                       (Principal Financial and Accounting Officer)
+
+40

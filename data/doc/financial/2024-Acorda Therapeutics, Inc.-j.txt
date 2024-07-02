@@ -1,0 +1,1857 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+☒	QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended March 31, 2024
+
+OR
+
+☐	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from          to          
+
+Commission File Number 001-31938
+
+ 
+
+ACORDA THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+                                                       Delaware                                                                              13-3831168
+
+                                    (State or other jurisdiction of incorporation                                                         (I.R.S. Employer
+
+                                                   or organization)                                                                     Identification No.)
+
+ 
+
+                                        2 Blue Hill Plaza, 3rd Floor, Pearl River, New York                                                    10965
+
+                                              (Address of principal executive offices)                                                      (Zip Code)
+
+Registrant’s telephone number, including area code: (914) 347-4300
+
+  
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                 Title of each class                       Trading Symbol                    Name of each exchange on which registered(1)               
+
+       Common Stock $0.001 par value per share                  ACORQ                                             N/A                                   
+
+ 
+
+(1)On April 25, 2024, Nasdaq filed a Form 25 to delist our common stock and remove such securities from registration under Section 12(b) of the Securities Exchange Act of 1934 (the “Exchange Act”) and such delisting took effect on May 5, 2024. We expect that our common stock will be deregistered under Section 12(b) of the Exchange Act on or about July 24, 2024, which is the 90th day after the Form 25 filing. After our common stock is deregistered under Section 12(b) of the Exchange Act, it will remain registered under Section 12(g) of the Exchange Act.
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer                                        ☐          Accelerated filer                                              ☐
+
+Non-accelerated filer                                          ☒          Smaller reporting company                                      ☒
+
+Emerging growth company                                        ☐                                                                          
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+1
+
+
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No  ☒
+
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+
+ 
+
+                                           Class                                                            Outstanding at May 10, 2024
+
+                          Common Stock, $0.001 par value per share                                               1,242,098 shares
+
+ 
+
+2
+
+
+
+ 
+
+ACORDA THERAPEUTICS, INC.
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                              Page
+
+                                                 PART I—FINANCIAL INFORMATION                                                    
+
+Item 1.     Financial Statements                                                                                                1
+
+            Consolidated Balance Sheets as of March 31, 2024 (unaudited) and December 31, 2023                                  1
+
+            Consolidated Statements of Operations (unaudited) for the Three-month Periods Ended March 31, 2024 and 2023         2
+
+            Consolidated Statements of Comprehensive Income (Loss) (unaudited) for the Three-month Periods Ended March 31,      3
+
+             2024 and
+
+             2023
+
+            Consolidated Statements of Changes in Stockholders’ Equity (unaudited) for the Three-month Periods Ended March      4
+
+             31, 2024 and
+
+             2023
+
+            Consolidated Statements of Cash Flows (unaudited) for the Three-month Periods Ended March 31, 2024 and 2023         5
+
+            Notes to Consolidated Financial Statements (unaudited)                                                              6
+
+Item 2.     Management’s Discussion and Analysis of Financial Condition and Results of Operations                              20
+
+Item 3.     Quantitative and Qualitative Disclosures About Market Risk                                                         31
+
+Item 4.     Controls and Procedures                                                                                            31
+
+                                                  PART II—OTHER INFORMATION                                                      
+
+Item 1.     Legal Proceedings                                                                                                  32
+
+Item 1A.    Risk Factors                                                                                                       32
+
+Item 6.     Exhibits                                                                                                           37
+
+Signatures                                                                                                                     38
+
+ 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements relating to future events and our future performance within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements, other than statements of historical facts, included in this report regarding our strategy, future operations, future financial position, future revenues, projected costs, prospects, plans and objectives of management are forward-looking statements. The words "anticipates," "believes," "estimates," "expects," "intends," "may," "plans," "projects," "will," "would," and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Forward-looking statements are based on current expectations, estimates, forecasts and projections about the industry and markets in which we operate and management's beliefs and assumptions. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements we make, and investors should not place undue reliance on these statements. Readers are cautioned that such statements involve risks and uncertainties, including: our ability to negotiate and confirm a sale of substantially all of our assets under Section 363 of the United States Bankruptcy Code (the “Code”) (or other plan of reorganization or liquidation); the high costs and related fees of cases instituted under Chapter 11 of the Code ("Chapter 11”); our ability to obtain sufficient financing to allow us to operate our business during the course of the Chapter 11 Proceedings (as defined below); our ability to satisfy the conditions and milestones in the Restructuring Support Agreement (as defined below); our ability to maintain our relationships with our suppliers, service providers, customers, employees and other third parties; our ability to maintain contracts that are critical to our operations; our ability to execute competitive contracts with third parties; the ability of third parties to seek and obtain court approval to terminate contracts and other agreements with us; our ability to retain our current management team and to attract, motivate and retain key employees; the ability of third parties to seek and obtain court approval to convert the Chapter 11 Proceedings to a proceeding under Chapter 7 of the Code (“Chapter 7”); the actions and decisions of our shareholders, creditors and other third parties who have interests in the Chapter 11 Proceedings that may be inconsistent with our plans; we may not be able to successfully market Ampyra, Inbrija or any other products that we may develop; our ability to attract and retain key management and other personnel, or maintain access to expert advisors; our ability to raise additional funds to finance our operations, repay outstanding indebtedness or satisfy other obligations, and our ability to control our costs or reduce planned expenditures and take other actions which are necessary for us to continue as a going concern; risks associated with the trading of our common stock and our credit agreements, including the trading of our common stock on the OTC Pink Marketplace following the delisting of our common stock from the Nasdaq Global Select Market and default under the 2024 Indenture (as defined below); risks related to the successful implementation of our business plan, including the accuracy of our key assumptions; risks related to our corporate restructurings, including our ability to outsource certain operations, realize expected cost savings and maintain the workforce needed for continued operations; risks associated with complex, regulated manufacturing processes for pharmaceuticals, which could affect whether we have sufficient commercial supply of Inbrija to meet market demand; our reliance on third-party manufacturers for the production of commercial supplies of Ampyra and Inbrija; third-party payers (including governmental agencies) may not reimburse for the use of Inbrija at acceptable rates or 
+
+3
+
+
+
+ 
+
+at all and may impose restrictive prior authorization requirements that limit or block prescriptions; reliance on collaborators and distributors to commercialize Inbrija and Ampyra outside the U.S.; our ability to satisfy our obligations to distributors and collaboration partners outside the U.S. relating to commercialization and supply of Inbrija and Ampyra; our plans to enter into additional collaborations and distribution arrangements with third parties to transition commercialization of Fampyra due to the termination of our collaboration agreement with Biogen; competition for Inbrija and Ampyra and Fampyra, including increasing competition and accompanying loss of revenues in the U.S. from generic versions of Ampyra following our loss of patent exclusivity and launch of a generic version of Fampyra in Germany; the risk of unfavorable results from future studies of Inbrija or from other research and development programs, or any other acquired or in-licensed programs; the occurrence of adverse safety events with our products; the outcome (by judgment or settlement) and costs of legal, administrative or regulatory proceedings, investigations or inspections, including, without limitation, collective, representative or class-action litigation; failure to protect our intellectual property, to defend against the intellectual property claims of others or to obtain third-party intellectual property licenses needed for the commercialization of our products; and failure to comply with regulatory requirements could result in adverse action by regulatory agencies. In addition to the risks and uncertainties described above, we have included important factors in the cautionary statements included in this report and our Annual Report for the year ended December 31, 2023, particularly in the "Risk Factors" section (as updated by the disclosures in our subsequent quarterly reports, including this report), that we believe could cause actual results or events to differ materially from the forward-looking statements that we make. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures or investments that we may make. Forward-looking statements in this report are made only as of the date hereof and we disclaim any intent or obligation to update any forward-looking statements as a result of developments occurring after the date of this report except as may be required by law.
+
+ 
+
+We and our subsidiaries own several registered trademarks in the U.S. and in other countries. These registered trademarks include, in the U.S., the marks “Acorda Therapeutics,” our stylized Acorda Therapeutics logo, “Ampyra,” “Inbrija,” and “ARCUS.” Also, our marks “Fampyra” and “Inbrija” are registered marks in the European Community Trademark Office and we have registrations or pending applications for these marks in other jurisdictions. Our trademark portfolio also includes several registered trademarks and pending trademark applications in the U.S. and worldwide for potential product names or for disease awareness activities. Third-party trademarks, trade names, and service marks used in this report are the property of their respective owners.
+
+4
+
+
+
+ 
+
+PART I
+
+Item 1.  Financial Statements
+
+ACORDA THERAPEUTICS, INC. AND SUBSIDIARIES
+
+Consolidated Balance Sheets
+
+ 
+
+                                                                                                                              March 31, 2024    December 31,  
+
+                                                                                                                                                    2023
+
+                                                                                                                                (unaudited)                   
+
+Assets                                                                                                                                                        
+
+Current assets:                                                                                                                                               
+
+Cash and cash equivalents                                                                                                     $        9,364  $      29,979 
+
+Restricted cash                                                                                                                          718            381 
+
+Trade accounts receivable, net of allowances of $1,143 and $962, as of                                                                 9,188         17,298 
+
+   March 31, 2024 and December 31, 2023, respectively
+
+Prepaid expenses                                                                                                                      12,617          5,211 
+
+Inventory, net                                                                                                                        14,119         16,155 
+
+Other current assets                                                                                                                   2,447          5,770 
+
+Total current assets                                                                                                                  48,453         74,794 
+
+Property and equipment, net of accumulated depreciation                                                                                1,893          2,079 
+
+Intangible assets, net of accumulated amortization                                                                                    22,343         22,987 
+
+Right of use asset, net of accumulated amortization                                                                                    3,941          4,221 
+
+Restricted cash                                                                                                                          255            255 
+
+Other non-current assets                                                                                                               4,690          4,189 
+
+Total assets                                                                                                                  $       81,575  $     108,525 
+
+Liabilities and Stockholders’ Equity                                                                                                                          
+
+Current liabilities:                                                                                                                                          
+
+Accounts payable                                                                                                              $        9,932  $      13,373 
+
+Accrued expenses and other current liabilities                                                                                        17,665         24,310 
+
+Convertible senior notes                                                                                                             191,474        186,143 
+
+Current portion of lease liabilities                                                                                                   1,599          1,588 
+
+Current portion of acquired contingent consideration                                                                                   2,972          2,132 
+
+Deferred Revenue                                                                                                                         294            227 
+
+Total current liabilities                                                                                                            223,936        227,773 
+
+Non-current portion of acquired contingent consideration                                                                              32,528         27,368 
+
+Non-current portion of lease liabilities                                                                                               2,847          3,166 
+
+Deferred tax liability                                                                                                                     —              — 
+
+Other non-current liabilities                                                                                                          8,035          8,174 
+
+Commitments and contingencies                                                                                                                                 
+
+Stockholders’ equity:                                                                                                                                         
+
+Preferred stock, $0.001 par value per share. Authorized 1,000,000 shares at March 31,                                                      —              — 
+
+   2024 and December 31, 2023; no shares issued as of March 31,
+
+   2024 and December 31, 2023, respectively
+
+Common stock, $0.001 par value per share. Authorized 3,083,333 shares at March 31,                                                         1              1 
+
+   2024 and December 31, 2023; issued 1,242,376 shares,
+
+   including those held in treasury, as of March 31, 2024 and 
+
+   December 31, 2023, respectively
+
+Treasury stock at cost (278 shares at March 31, 2024 and                                                                                (638)          (638)
+
+  December 31, 2023)
+
+Additional paid-in capital                                                                                                         1,030,513      1,030,383 
+
+Accumulated deficit                                                                                                               (1,216,522)    (1,189,127)
+
+Accumulated other comprehensive income (loss)                                                                                            875          1,425 
+
+Total stockholders’ equity                                                                                                          (185,771)      (157,956)
+
+Total liabilities and stockholders’ equity                                                                                    $       81,575  $     108,525 
+
+ 
+
+See accompanying Unaudited Notes to Consolidated Financial Statements
+
+1
+
+
+
+ 
+
+ACORDA THERAPEUTICS, INC. AND SUBSIDIARIES
+
+Consolidated Statements of Operations
+
+(unaudited)
+
+ 
+
+(In thousands, except per share data)                Three-month period ended March 31, 2024    Three-month period ended March 31,   
+
+                                                                                                               2023
+
+Revenues:                                                                                                                            
+
+Net product revenues                                 $                               17,880  $                               18,719 
+
+Royalty revenues                                                                      2,386                                   3,528 
+
+License revenues                                                                         23                                      11 
+
+Total net revenues                                                                   20,289                                  22,258 
+
+Costs and expenses:                                                                                                                  
+
+Cost of sales                                                                         3,707                                   3,234 
+
+Research and development                                                                954                                   1,386 
+
+Selling, general and administrative                                                  28,371                                  22,514 
+
+Amortization of intangible assets                                                       644                                   7,691 
+
+Changes in fair value of acquired contingent                                          6,241                                  (1,091)
+
+ consideration
+
+Total operating expenses                                                             39,917                                  33,734 
+
+Operating loss                                                                      (19,628)                                (11,476)
+
+Other income (expense), net:                                                                                                         
+
+Interest and amortization of debt discount expense                                   (8,436)                                 (7,571)
+
+Interest income                                                                         207                                      93 
+
+Other income                                                                             11                                      92 
+
+Realized loss on foreign currency transactions                                          565                                       — 
+
+Total other expense, net                                                             (7,653)                                 (7,386)
+
+Loss before taxes                                                                   (27,281)                                (18,862)
+
+(Provision for) benefit from income taxes                                              (114)                                  2,038 
+
+Net loss                                             $                              (27,395) $                              (16,824)
+
+                                                                                                                                     
+
+Net loss per share—basic                             $                               (22.06) $                               (13.54)
+
+Net loss per share—diluted                           $                               (22.06) $                               (13.54)
+
+Weighted average common shares outstanding used in                                    1,242                                   1,242 
+
+
+
+   computing net loss per share—basic
+
+Weighted average common shares outstanding used in                                    1,242                                   1,242 
+
+
+
+   computing net loss per share—diluted
+
+ 
+
+See accompanying Unaudited Notes to Consolidated Financial Statements
+
+2
+
+
+
+ 
+
+ACORDA THERAPEUTICS, INC. AND SUBSIDIARIES
+
+Consolidated Statements of Comprehensive Income (Loss)
+
+(unaudited)
+
+ 
+
+(In thousands)                                          Three-month period ended March 31, 2024    Three-month period ended March 31, 2023  
+
+Net loss                                               $                                (27,395) $                                (16,824)
+
+Other comprehensive income (loss), net of tax:                                                                                              
+
+Foreign currency translation adjustment                                                    (550)                                       91 
+
+Other comprehensive income (loss), net of tax                                              (550)                                       91 
+
+Comprehensive income (loss)                            $                                (27,945) $                                (16,733)
+
+ 
+
+See accompanying Unaudited Notes to Consolidated Financial Statements
+
+3
+
+
+
+ 
+
+ACORDA THERAPEUTICS, INC. AND SUBSIDIARIES
+
+Consolidated Statements of Changes in Stockholders’ Equity
+
+Three Months Ended March 31, 2024 and 2023
+
+(unaudited)
+
+ 
+
+                                               Common stock                                                                                                            
+
+(In thousands)                                Number        Par      Treasury       Additional         Accumulated              Accumulated                 Total       
+
+                                                of         value       stock          paid-in            deficit                   other                stockholders'
+
+                                              shares                                  capital                              comprehensive (loss)            equity
+
+                                                                                                                                  income
+
+Balance at December 31, 2023                       1,242  $    1  $      (638) $       1,030,383  $     (1,189,127) $                      1,425  $       (157,956)
+
+Compensation expense for                               —       —            —                130                 —                             —               130 
+
+   issuance of stock options
+
+   to employees
+
+Other comprehensive income (loss),                     —       —            —                  —                 —                          (550)             (550)
+
+   net of tax
+
+Net loss                                               —       —            —                  —           (27,395)                            —           (27,395)
+
+Balance at March 31, 2024                          1,242  $    1  $      (638) $       1,030,513        (1,216,522) $                        875  $       (185,771)
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                               Common stock                                                                                                            
+
+(In thousands)                                Number        Par      Treasury       Additional         Accumulated              Accumulated                 Total       
+
+                                                of         value       stock          paid-in            deficit                   other                stockholders'
+
+                                              shares                                  capital                              comprehensive (loss)            equity
+
+                                                                                                                                  income
+
+Balance at December 31, 2022                       1,242  $   24  $      (638) $       1,029,881  $       (936,273) $                        628  $         93,622 
+
+Compensation expense for                               —       —            —                 71                 —                             —                71 
+
+   issuance of stock options
+
+   to employees
+
+Other comprehensive income (loss),                     —       —            —                  —                 —                            91                91 
+
+   net of tax
+
+Net loss                                               —       —            —                  —           (16,824)                            —           (16,824)
+
+Balance at March 31, 2023                          1,242  $   24  $      (638) $       1,029,952  $       (953,097) $                        719  $         76,960 
+
+ 
+
+See accompanying Unaudited Notes to Consolidated Financial Statements
+
+4
+
+
+
+ 
+
+ACORDA THERAPEUTICS, INC. AND SUBSIDIARIES
+
+Consolidated Statements of Cash Flows
+
+(unaudited)
+
+ 
+
+ 
+
+ 
+
+(In thousands)                                                             Three-month period ended       Three-month period ended    
+
+                                                                                   March 31,                      March 31,
+
+                                                                                      2024                           2023
+
+Cash flows from operating activities:                                                                                                 
+
+Net loss                                                                 $                    (27,395) $                    (16,824)
+
+Adjustments to reconcile net loss to net cash used in                                                                                 
+
+   operating activities:
+
+Share-based compensation expense                                                                  130                            71 
+
+Amortization of debt discount and debt issuance costs                                           5,331                         4,465 
+
+Depreciation and amortization expense                                                             882                         7,913 
+
+Change in acquired contingent consideration obligation                                          6,241                        (1,091)
+
+Deferred tax (benefit) provision                                                                    —                        (2,038)
+
+Changes in assets and liabilities:                                                                                                    
+
+Decrease (increase) in accounts receivable                                                      8,110                         4,688 
+
+Decrease (increase) in prepaid expenses and other current assets                               (4,119)                        2,871 
+
+Decrease (increase) in inventory                                                                2,036                          (713)
+
+Decrease (increase) in other assets                                                              (540)                       (1,251)
+
+Increase (decrease) in accounts payable, accrued expenses, and other                          (10,260)                       (4,676)
+
+ current
+
+   liabilities
+
+Increase (decrease) in other non-current liabilities                                             (601)                         (433)
+
+Net cash used in operating activities                                                         (20,185)                       (7,018)
+
+Cash flows from investing activities:                                                                                                 
+
+Purchases of property and equipment                                                                 —                             — 
+
+Net cash (used in) provided by investing activities                                                 —                             — 
+
+Cash flows from financing activities:                                                                                                 
+
+Net cash provided by (used in) financing activities                                                 —                             — 
+
+Effect of exchange rate changes on cash, cash equivalents, and                                    (93)                           97 
+
+ restricted
+
+ cash
+
+Net decrease in cash, cash equivalents, and restricted cash                                   (20,278)                       (6,921)
+
+Cash, cash equivalents and restricted cash at beginning of period                              30,615                        44,675 
+
+Cash, cash equivalents and restricted cash at end of period              $                     10,337  $                     37,754 
+
+Supplemental disclosure:                                                                                                              
+
+Cash paid for interest                                                   $                          —  $                          — 
+
+Cash paid for taxes                                                                                15                             6 
+
+ 
+
+See accompanying Unaudited Notes to Consolidated Financial Statements
+
+ 
+
+ 
+
+5
+
+
+
+ 
+
+ACORDA THERAPEUTICS, INC. AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+
+(1) Organization and Business Activities
+
+Acorda Therapeutics, Inc. (“Acorda” or the “Company”) is a biopharmaceutical company focused on developing therapies that restore function and improve the lives of people with neurological disorders. The Company markets Inbrija (levodopa inhalation powder), which is approved in the U.S. for intermittent treatment of OFF episodes, also known as OFF periods, in people with Parkinson’s disease treated with carbidopa/levodopa. Inbrija is for as needed use and utilizes the Company’s ARCUS pulmonary delivery system, a technology platform designed to deliver medication through inhalation that the Company believes has potential to be used in the development of a variety of inhaled medicines. The Company has entered into agreements to commercialize Inbrija in Spain, Germany, Latin America, and China, and is in discussions with potential partners for commercialization of Inbrija in other jurisdictions outside of the U.S. 
+
+The Company also markets branded Ampyra (dalfampridine) Extended Release Tablets, 10 mg to improve walking in adults with multiple sclerosis. Ampyra is marketed as Fampyra outside the U.S. by Biogen International GmbH, or Biogen, under a license and collaboration agreement that the Company entered into in June 2009. Fampyra has been approved in a number of countries across Europe, Asia, and the Americas.
+
+Voluntary Filing Under Chapter 11
+
+Over the past several months, the Company, with the assistance of outside legal and financial advisors, engaged in a robust process to explore strategic alternatives and maximize value for the Company’s stakeholders in light of the upcoming maturity of its 6.00% convertible senior secured notes that mature on December 1, 2024 (“2024 Notes”). During this process, the Company was, and continues to be, in regular communication with the holders of its 2024 Notes and their advisors. The Company evaluated every aspect of its business and has taken proactive steps to respond to the challenges the Company continues to face. Notwithstanding these measures, the Company engaged in an exhaustive process to find an appropriate strategic solution. The Company’s Board of Directors, after reviewing a number of alternatives, determined that it is in the best interests of the Company and its stakeholders to pursue a sale of assets under Chapter 11 of the United States Bankruptcy Code (the “Code”), which the Company believes will ensure the Company obtains the maximum value for the Company and most importantly, that the Company’s products will be provided on an uninterrupted basis to patients who will continue to benefit from these much needed medications. 
+
+On April 1, 2024, the Company and certain of its subsidiaries commenced voluntary proceedings under Chapter 11 in the United States Bankruptcy Court for the Southern District of New York (the “Court”) under the caption In re Acorda Therapeutics, Inc., et al. (the “Chapter 11 Proceedings”). The Company expects to continue to operate its business as a “debtor in possession” in accordance with the applicable provisions of the Code and orders of the Court. The Company requested approval from the Court for certain customary “first day” motions to continue its ordinary course operations after the filing date of the Chapter 11 Proceedings. Shortly following the commencement of the Chapter 11 Proceedings, the Company received written notice from the staff of the Nasdaq Global Select Market (“Nasdaq”) notifying it that, as a result of the Chapter 11 Proceedings, and in accordance with Nasdaq Listing Rules, the Company’s common stock would be delisted from the Nasdaq. The Company did not appeal the determination and, therefore, the Company’s common stock ceased trading on the Nasdaq on April 12, 2024 and began trading on the Pink Open Market under the symbol “ACORQ.” On April 25, 2024, Nasdaq filed a Form 25 with the U.S. Securities and Exchange Commission to delist the common stock from Nasdaq. The delisting of the common stock from Nasdaq became effective on May 5, 2024 and the Company expects that its common stock will be deregistered under Section 12(b) of the Exchange Act on or about July 24, 2024, which is the 90th day after the Form 25 filing. After the common stock is deregistered under Section 12(b), it will remain registered under Section 12(g) of the Exchange Act.
+
+6
+
+
+
+ 
+
+Restructuring Support Agreement
+
+Prior to the commencement of the Chapter 11 Proceedings, on April 1, 2024 the Company entered into a Restructuring Support Agreement with the holders of a majority of its 2024 Notes (the “RSA Noteholders” and such agreement, the “Restructuring Support Agreement”). As contemplated in the Restructuring Support Agreement, the Company will seek to sell substantially all of its assets in a sale pursuant to Section 363. The Restructuring Support Agreement sets out certain milestones and conditions of the Company relating to the Section 363 sale process, subject to the terms and conditions contained therein.
+
+Asset Purchase Agreement
+
+Prior to the commencement of the Chapter 11 Proceedings, on March 31, 2024 the Company entered into a “stalking horse” Asset Purchase Agreement (the “Asset Purchase Agreement”) with Merz Pharmaceuticals, LLC a North Carolina limited liability company (the “Purchaser”), and, solely with respect to the guarantee of Purchaser’s obligations thereunder, Merz Pharma GmbH & Co. KGaA, a German partnership (the “Purchaser Parent”). The Asset Purchase Agreement provides for the sale of substantially all of the Company’s assets (the “Purchased Assets”) to the Purchaser for $185.0 million, subject to certain adjustments as specified in the Asset Purchase Agreement. The Asset Purchase Agreement is subject to Court approval and compliance with agreed-upon bidding procedures under Section 363 of the Code (“Section 363”) allowing for the submission of higher or otherwise better offers and satisfaction of other agreed-upon conditions. In accordance with the sale process under Section 363, notice of the proposed sale to the Purchaser will be given to third parties and competing bids will be being solicited over a specified period of time. The Company will manage the bidding process and evaluate the bids, in consultation with its advisors and as overseen by the Court. The Company cannot provide any assurance that it will be able to successfully complete a sale of the Purchased Assets or that it will be able to continue to fund its operations throughout the Chapter 11 Proceedings.
+
+DIP Credit Agreement
+
+In order to fund the continued operations of the Company during the pendency of the Chapter 11 Proceedings, the Company and certain of the RSA Noteholders agreed to the terms of a form of Debtor-in-Possession Credit Agreement (the “DIP Credit Agreement”) to be entered into by and among the Company, as borrower, and the lenders from time to time party thereto (collectively, the “DIP Lenders”, GLAS USA LLC, as administrative agent (the “DIP Administrative Agent”), and GLAS Americas, LLC, collateral agent (collectively, with the DIP Administrative Agent, the “DIP Agent”), pursuant to which the DIP Lenders would provide the Company with a senior secured, superpriority debtor-in-possession term loan facility in the maximum aggregate amount of $60.0 million (the “DIP Credit Facility,” and the commitments of the DIP Lenders thereunder, the “DIP Commitments” and, the loans thereunder, the “DIP Loans”), which, subject to the satisfaction of certain conditions precedent to drawing as set forth in the DIP Credit Agreement, including the approval of the Court, will be made available to the Company in multiple drawings as follows: (i) up to $10.0 million (“Interim DIP Loan Commitment”) will be made available for drawing upon entry by the Court of an interim order authorizing and approving the DIP Credit Facility on an interim basis (the “Interim DIP Order”), (ii) up to $10.0 million (“Final DIP Loan Commitments”) will be made available for drawing upon entry of the Court of a final order authorizing and approving the DIP Credit Facility on a final basis (the “Final DIP Order” and together with the Interim DIP Order, the “DIP Orders”), and (iii) upon subject to entry of the Final Order, a roll-up facility in the aggregate maximum principal amount of $40.0 million, representing a roll-up of obligations under the 2024 Notes on a two dollars to one dollar basis of the DIP Commitments under the DIP Facility made by the RSA Noteholders. In April 2024, the Company had drawn down approximately $10.0 million under the DIP Credit Facility.
+
+(2) Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+On June 2, 2023, the Company filed an Amended and Restated Certificate of Incorporation with the Secretary of State of Delaware to effect a 1-for-20 reverse stock split and a proportionate reduction in the number of authorized shares from 61,666,666 to 3,083,333. The Company’s common stock began trading on a split-adjusted basis on the Nasdaq Global Select Market on June 5, 2023. The reverse stock split applied equally to all outstanding shares of the common stock and did not modify the rights or preferences of the common stock. All figures in this report relating to shares of the Company’s common stock (such as share amounts, per share amounts, and conversion rates and prices), including in the financial statements and accompanying notes to the financial statements, have been retroactively restated to reflect the reverse stock split.
+
+7
+
+
+
+ 
+
+The accompanying unaudited consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the U.S. (“GAAP”) for interim financial information, Accounting Standards Codification (“ASC”) Topic 270-10, and with the instructions to Form 10-Q. Accordingly, these financial statements do not include all of the information and footnotes required by GAAP for complete financial statements. In management’s opinion, all adjustments considered necessary for a fair presentation have been included in the interim periods presented and all adjustments are of a normal recurring nature. The Company has evaluated subsequent events through the date of this filing. Operating results for the three-month period ended March 31, 2024 are not necessarily indicative of the results that may be expected for the year ending December 31, 2024. The December 31, 2023 consolidated balance sheet data was derived from audited financial statements, but does not include all disclosures required by GAAP. You should read these unaudited interim condensed consolidated financial statements in conjunction with the consolidated financial statements and footnotes included in the Company’s Annual Report on Form 10-K, for the year ended December 31, 2023.
+
+The Company’s significant accounting policies are detailed in its Annual Report on Form 10-K for the year ended December 31, 2023. The Company’s significant accounting policies have not changed materially from December 31, 2023.
+
+Restricted Cash
+
+At March 31, 2024, the Company held restricted cash consisting of $0.3 million related to cash collateralized standby letters of credit in connection with obligations under facility leases and $0.7 million to cover the Company’s self-funded employee health insurance.
+
+The following table provides a reconciliation of cash, cash equivalents, and restricted cash reported within the statement of financial position that sum to the total of the same amounts shown in the statement of cash flows:
+
+                                                                            Three-month period ended March 31,    Three-month period ended March 31,  
+
+                                                                                           2024                                  2023
+
+(In thousands)                                                             Beginning of period   End of period   Beginning of period   End of period  
+
+Cash and cash equivalents                                                  $            29,979  $       9,364  $            37,536  $      30,255 
+
+Restricted cash                                                                            381            718                6,884          6,989 
+
+Restricted cash non-current                                                                255            255                  255            510 
+
+Total Cash, cash equivalents, and restricted cash per statement of cash    $            30,615  $      10,337  $            44,675  $      37,754 
+
+ flows
+
+ 
+
+Investments
+
+Short-term investments consist primarily of high-grade commercial paper and corporate bonds. The Company classifies marketable securities available to fund current operations as short-term investments in current assets on its consolidated balance sheets. Marketable securities are classified as long-term investments in long-term assets on the consolidated balance sheets if the Company has the ability and intent to hold them and such holding period is longer than one year. The Company classifies all its investments as available-for-sale. Available-for-sale securities are recorded at the fair value of the investments based on quoted market prices.
+
+Unrealized holding gains and losses on available-for-sale securities, which are determined to be temporary, are excluded from earnings and are reported as a separate component of accumulated other comprehensive loss.
+
+Premiums and discounts on investments are amortized over the life of the related available-for-sale security as an adjustment to yield using the effectiveinterest method. Dividend and interest income are recognized when earned. Amortized premiums and discounts, dividend and interest income are included in interest income. Realized gains and losses are included in other income. 
+
+There were no investments classified as short-term or long-term at March 31, 2024 or December 31, 2023.
+
+8
+
+
+
+ 
+
+Inventory
+
+The following table provides the major classes of inventory:
+
+(In thousands)                                                March 31, 2024                              December 31, 2023               
+
+Raw materials                                      $                              1,938    $                                      4,178 
+
+Work-in-progress                                                                  2,491                                           2,491 
+
+Finished goods                                                                    9,690                                           9,486 
+
+Total                                              $                             14,119    $                                     16,155 
+
+The Company reviews inventory, including inventory purchase commitments, for slow moving or obsolete amounts based on expected product sales volume and provides reserves against the carrying amount of inventory as appropriate.
+
+Foreign Currency Translation
+
+The functional currency of operations outside the U.S. is deemed to be the currency of the local country, unless otherwise determined that the U.S. dollar would serve as a more appropriate functional currency given the economic operations of the entity. Accordingly, the assets and liabilities of the Company’s foreign subsidiary, Biotie, are translated into U.S. dollars using the period-end exchange rate; and income and expense items are translated using the average exchange rate during the period; and equity transactions are translated at historical rates. Cumulative translation adjustments are reflected as a separate component of equity. Foreign currency transaction gains and losses are charged to operations and reported in other income (expense) in consolidated statements of operations.
+
+Segment and Geographic Information 
+
+The Company is managed and operated as one business which is focused on developing therapies that restore function and improve the lives of people with neurological disorders. The entire business is managed by a single management team that reports to the Chief Executive Officer. The Company does not operate separate lines of business with respect to any of its products or product candidates, and the Company does not prepare discrete financial information to allocate resources to separate products or product candidates or by location. Accordingly, the Company views its business as one reportable operating segment. Net product revenues reported are substantially derived from the sales of Inbrija and Ampyra in the U.S.
+
+Impairment of Long-Lived Assets
+
+The Company continually evaluates whether events or circumstances have occurred that indicate that the estimated remaining useful lives of its long-lived assets, including identifiable intangible assets subject to amortization and property plant and equipment, may warrant revision or that the carrying value of the assets may be impaired. The Company evaluates the realizability of its long-lived assets based on profitability and cash flow expectations for the related assets. Factors the Company considers important that could trigger an impairment review include significant changes in the use of any assets, changes in historical trends in operating performance, changes in projected operating performance, stock price, loss of a major customer, and significant negative economic trends. The impending maturity of the 2024 Notes that is scheduled to be repaid on December 1, 2024 was determined to be a triggering event in connection with the Company's review of the recoverability of its long-lived assets for the quarter ended March 31, 2024. The Company performed a recoverability test as of March 31, 2024 using the undiscounted cash flows, which are the sum of the future undiscounted cash flows expected to be derived from the direct use of the long-lived assets compared to the carrying value of the long-lived assets. Estimates of future cash flows were based on the Company’s own assumptions about its own use of the long-lived assets. The cash flow estimation period was based on the long-lived assets’ estimated remaining useful life to the Company. After performing the recoverability test, the Company determined that the undiscounted cash flows exceeded the carrying value and the long-lived assets were not impaired. Changes in these assumptions and resulting valuations could result in future long-lived asset impairment charges. During the three-month period ended March 31, 2024, no other impairment indicators were noted by the Company. Management will continue to monitor any changes in circumstances for indicators of impairment. Any write-downs are treated as permanent reductions in the carrying amount of the assets. The Company recognized an impairment for the year ended December 31, 2023 related to it’s intangible assets.
+
+9
+
+
+
+ 
+
+Liquidity
+
+At March 31, 2024, the Company had $9.4 million of cash and cash equivalents, compared to $30.0 million at December 31, 2023. The Company’s March 31, 2024 cash and cash equivalents balance does not include $1.0 million of restricted cash, of which $0.7 million is related to self-funded employee health insurance, and $0.3 million is related to collateralized standby letters of credit. The Company incurred a net loss of $27.4 million for the three-month period ended March 31, 2024.
+
+The Company assesses and determines its ability to continue as a going concern in accordance with the provisions of ASC Topic 205-40, “Presentation of Financial Statements—Going Concern” (“ASC Topic 205-40”), which requires the Company to evaluate whether there are conditions or events that raise substantial doubt about its ability to continue as a going concern within one year after the date that its annual and interim consolidated financial statements are issued. Certain additional financial statement disclosures are required if such conditions or events are identified. If and when an entity’s liquidation becomes imminent, financial statements should be prepared under the liquidation basis of accounting. Determining the extent, if any, to which conditions or events raise substantial doubt about the Company’s ability to continue as a going concern, or the extent to which mitigating plans sufficiently alleviate any such substantial doubt, as well as whether or not liquidation is imminent, requires significant judgment by management. The Company has evaluated whether there are conditions and events, considered in the aggregate, that raise substantial doubt about the Company’s ability to continue as a going concern within one year after the date the consolidated financial statements contained in this report are issued.
+
+The Company believes that its existing cash and cash equivalents are not sufficient to cover its cash flow requirements. The commencement of the Chapter 11 Proceedings constituted an event of default under the Indenture governing the 2024 Notes, which in turn resulted in the 2024 Notes becoming immediately due and payable, along with accrued and unpaid interest. At March 31, 2024, the principal balance outstanding under the 2024 Notes was $207.0 million. Additionally, for the duration of the Chapter 11 Proceedings, our operations and our ability to develop and execute our business plan, our financial condition, our liquidity and our continuation as a going concern will be subject to a high degree of risk and uncertainty associated with the Chapter 11 Proceedings. 
+
+The company believes that, due to these circumstances and events, substantial doubt exists regarding its ability to continue as a going concern through one year from the date that these financial statements are issued.
+
+Subsequent Events
+
+Subsequent events are defined as those events or transactions that occur after the balance sheet date, but before the financial statements are filed with the Securities and Exchange Commission. The Company completed an evaluation of the impact of any subsequent events through the date these financial statements were issued, and determined there were subsequent events that required disclosure in these financial statements. See Note 11 to the Company’s Consolidated Financial Statements included in this report for a discussion of subsequent events.
+
+Accounting Pronouncements Adopted
+
+In August 2020, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2020-06, Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity. This update simplifies the accounting for convertible instruments by eliminating the cash conversion and beneficial conversion feature models which require separate accounting for embedded conversion features. This update also amends the guidance for the derivatives scope exception for contracts in an entity’s own equity to reduce form-over-substance-based accounting conclusions and requires the application of the if-converted method for calculating diluted earnings per share. ASU 2020-06 is effective for smaller reporting companies for fiscal periods beginning after December 15, 2023, including interim periods within those fiscal years. Early adoption is permitted. The Company determined that this accounting pronouncement did not have an impact on the financial statements.
+
+10
+
+
+
+ 
+
+Accounting Pronouncements Not Yet Adopted
+
+In November 2023, the FASB issued ASU 2023-07, Improvements to Reportable Segment Disclosures. This update requires a public entity to disclose significant segment expenses and other segment items on an annual and interim basis and provide in interim periods all disclosures about a reportable segment's profit or loss and assets that are currently required annually. Additionally, it requires a public entity to disclose the title and position of the Chief Operating Decision Maker (CODM). The ASU does not change how a public entity identifies its operating segments, aggregates them, or applies the quantitative thresholds to determine its reportable segments. The new standard is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024, with early adoption permitted. The Company is currently evaluating the impact the adoption of this guidance may have on its consolidated financial statements. 
+
+In December 2023, the FASB issued ASU 2023-09, Improvements to Income Tax Disclosures. This update enhances the transparency and decision usefulness of income tax disclosures. ASU 2023-09 is effective for annual periods beginning after December 15, 2024. For entities other than public business entities, the amendments are effective for annual periods beginning after December 15, 2025. The Company is currently assessing the impact that this guidance may have on its consolidated financial statements.
+
+(3) Revenue
+
+In accordance with ASC 606, the Company recognizes revenue when the customer obtains control of a promised good or service, in an amount that reflects the consideration to which the Company expects to be entitled in exchange for the good or service. ASC 606 requires entities to record a contract asset when a performance obligation has been satisfied or partially satisfied, but the amount of consideration has not yet been received because the receipt of the consideration is conditioned on something other than the passage of time. ASC 606 also requires an entity to present a revenue contract as a contract liability in instances when a customer pays consideration, or an entity has a right to an amount of consideration that is unconditional (e.g., receivable), before the entity transfers a good or service to the customer. 
+
+As of March 31, 2024, and December 31, 2023 the Company had contract liabilities of $8.1 million, which consists of the upfront payment received as part of the Chance China distribution agreement entered into in May 2023, as well as the upfront payment received under the terms of the Company’s distribution agreement with Esteve Pharmaceuticals GmbH (“Esteve Germany”) entered into in 2021 related to the commercialization of Inbrija in Germany. As of March 31, 2024, approximately $0.3 million of the contract liability balance is expected to be recognized as revenue from the remaining performance obligations over the next 12 months for the Esteve Germany agreement as goods are shipped. The Company expects to recognize revenue of these remaining performance obligations over the next 8 years in Germany and 11 years in China with the balance recognized thereafter. The Company will re-evaluate the transaction price in each reporting period and as certain events are resolved or other changes in circumstances occur.
+
+The following table disaggregates the Company’s revenue by major source. The Company’s Royalty Revenue set forth below relates to Fampyra royalties payable under the Company’s License and Collaboration Agreement with Biogen (“Collaboration Agreement”). In January 2024, the Company received a written notice of termination from Biogen of the Collaboration Agreement. Accordingly, the Company will regain global commercialization rights to Fampyra. Biogen exercised its right to terminate the Collaboration Agreement in order to shift resources towards upcoming launches and programs that align with its priorities. The termination will be effective as of January 1, 2025.
+
+ 
+
+(In thousands)                            Three-month period ended March 31, 2024             Three-month period ended March 31, 2023       
+
+Revenues:                                                                                                                                   
+
+Net product revenues:                                                                                                                       
+
+Ampyra                               $                                           11,497  $                                           12,606 
+
+Inbrija                                                                           4,720                                               5,587 
+
+Inbrija ex-U.S.                                                                   1,663                                                 526 
+
+Total net product revenues                                                       17,880                                              18,719 
+
+Royalty revenues                                                                  2,386                                               3,528 
+
+License Revenue                                                                      23                                                  11 
+
+Total net revenues                   $                                           20,289  $                                           22,258 
+
+ 
+
+11
+
+
+
+ 
+
+(4) Share-Based Compensation
+
+During the three-month periods ended March 31, 2024 and 2023, the Company recognized share-based compensation expense of $0.1 million. Activity in options and restricted stock during the three-month period ended March 31, 2024 and related balances outstanding as of that date are reflected below. The weighted average fair value per share of options granted to employees for the three-month periods ended March 31, 2024 and 2023 were approximately $12.48 and $0.49, respectively. 
+
+The following table summarizes share-based compensation expense included within the Company’s consolidated statements of operations:
+
+ 
+
+                                                                            For the Three-month period ended March 31,          
+
+(In thousands)                                                                 2024                             2023          
+
+Research and development expense                                   $                          4        $                    1 
+
+Selling, general and administrative expense                                                 126                            70 
+
+Cost of Sales                                                                                 —                             — 
+
+Total                                                              $                        130        $                   71 
+
+ 
+
+A summary of share-based compensation activity for the three-month period ended March 31, 2024 is presented below:
+
+Stock Option Activity
+
+ 
+
+                                       Number of              Weighted                   Weighted                 Intrinsic      
+
+                                         Shares               Average                    Average                    Value
+
+                                     (In thousands)           Exercise                  Remaining               (In thousands)
+
+                                                               Price                   Contractual
+
+                                                                                           Term
+
+Balance at January 1, 2024                         103  $             568.85                              —                  — 
+
+Granted                                              —                 15.31                              —                  — 
+
+Cancelled                                           (5)             3,021.18                              —                  — 
+
+Exercised                                            —                     —                              —                  — 
+
+Balance at March 31, 2024                           98  $             440.23                            7.3  $          69,129 
+
+Vested and expected to vest at                      98  $             440.23                            7.3  $          69,129 
+
+    March 31, 2024
+
+Vested and exercisable at                           63  $             669.71                            6.7  $          38,931 
+
+    March 31, 2024
+
+ 
+
+Unrecognized compensation cost for unvested stock options as of March 31, 2024 totaled $0.5 million and is expected to be recognized over a weighted average period of approximately 1.05 years.
+
+During the three-month period ended March 31, 2024, the Company did not make any repurchases of shares. 
+
+12
+
+
+
+ 
+
+(5) Loss Per Share
+
+The following table sets forth the computation of basic and diluted loss per share for the three-month periods ended March 31, 2024 and 2023: 
+
+ 
+
+(In thousands, except per share data)                                  Three-month period ended    Three-month period ended  
+
+                                                                               March 31,                   March 31,
+
+                                                                                 2024                        2023
+
+Basic and diluted                                                                                                            
+
+Net loss—basic                                                        $                  (27,395) $                 (16,824)
+
+Weighted average common shares outstanding used in                                         1,242                      1,242 
+
+   computing net loss per share—basic
+
+Plus: net effect of dilutive stock options and restricted                                      —                          — 
+
+   common shares
+
+Weighted average common shares outstanding used in                                         1,242                      1,242 
+
+   computing net loss per share—diluted
+
+Net loss per share—basic                                              $                   (22.06) $                  (13.54)
+
+Net loss per share—diluted                                            $                   (22.06) $                  (13.54)
+
+ 
+
+Securities that could potentially be dilutive are excluded from the computation of diluted loss per share when a loss from continuing operations exists or when the exercise price exceeds the average closing price of the Company’s common stock during the period, because their inclusion would result in an anti-dilutive effect on per share amounts.
+
+The following amounts were not included in the calculation of net loss per diluted share because their effects were anti-dilutive: 
+
+ 
+
+(In thousands)                                     Three-month period ended March 31, 2024    Three-month period ended March 31, 2023  
+
+Denominator                                                                                                                            
+
+Stock options and restricted common shares                                              99                                        55 
+
+ 
+
+Performance share units are excluded from the calculation of net loss per diluted share as the performance criteria has not been met for the three-month periods ended March 31, 2024 and 2023. Additionally, the impact of the 2024 Notes was determined to be anti-dilutive and excluded from the calculation of net loss per diluted share for the three-month periods ended March 31, 2024 and 2023.
+
+(6) Income Taxes
+
+The Company’s effective income tax rate differs from the U.S. statutory rate primarily due to an increase in the valuation allowance and expense recorded on the equity forfeiture.
+
+For the three-month periods ended March 31, 2024 and 2023, the Company recorded a provision of $0.1 million and a benefit of $2.0 million for income taxes, respectively. The effective income tax rates for the Company for the three-month periods ended March 31, 2024 and 2023 were 0.4% and 10.8%, respectively. The variances in the effective tax rates for the three-month period ended March 31, 2024, as compared to the three-month period ended March 31, 2023, was primarily due to an increase in the existing valuation allowance recorded on the Company’s deferred tax assets for which no tax benefit can be recognized, and the forfeitures of equity of which no tax deduction is recorded.
+
+The Company continues to evaluate the realizability of its deferred tax assets on a quarterly basis and will adjust such amounts in light of changing facts and circumstances including, but not limited to, future projections of taxable income, tax legislation, rulings by relevant tax authorities, the progress of ongoing tax audits, and the regulatory approval of products under development. Any changes to the valuation allowance or deferred tax assets and liabilities in the future would impact the Company’s income taxes.
+
+13
+
+
+
+ 
+
+(7) Fair Value Measurements
+
+The Company defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants in the market in which the reporting entity transacts. The Company bases fair value on the assumptions market participants would use when pricing the asset or liability.
+
+The following table presents information about the Company’s assets and liabilities measured at fair value on a recurring basis as of March 31, 2024 and December 31, 2023 and indicates the fair value hierarchy of the valuation techniques utilized to determine such fair value. In general, fair values determined by Level 1 inputs utilize quoted prices (unadjusted) in active markets for identical assets or liabilities. Fair values determined by Level 2 inputs utilize data points that are observable, such as quoted prices, interest rates, exchange rates and yield curves. Fair values determined by Level 3 inputs utilize unobservable data points for the asset or liability. The Company’s Level 1 assets consist of investments in a Treasury money market fund and U.S. government securities. The Company’s Level 3 liabilities represent acquired contingent consideration related to the acquisition of Civitas Therapeutics, Inc. (“Civitas”) which are valued using a probability weighted discounted cash flow valuation approach and derivative liabilities related to conversion options for the 2024 Notes which are valued using a binomial model. For assets and liabilities not accounted for at fair value, the carrying values of these accounts approximates their fair values at March 31, 2024, except for the fair value of the Company’s 2024 Notes, which was approximately $157.3 million as of March 31, 2024 and during the pendency of the Chapter 11 Proceedings.
+
+ 
+
+(In thousands)                                                  Level 1      Level 2        Level 3     
+
+March 31, 2024                                                                                          
+
+Assets Carried at Fair Value:                                                                           
+
+Money market funds                                            $         —  $         —  $            — 
+
+Liabilities Carried at Fair Value:                                                                      
+
+Acquired contingent consideration                                       —            —          35,500 
+
+December 31, 2023                                                                                       
+
+Assets Carried at Fair Value:                                                                           
+
+Money market funds                                            $         —  $         —  $            — 
+
+Liabilities Carried at Fair Value:                                                                      
+
+Acquired contingent consideration                                       —            —          29,500 
+
+ 
+
+The following table presents additional information about liabilities measured at fair value on a recurring basis and for which the Company utilizes Level 3 inputs to determine fair value.
+
+Acquired contingent consideration
+
+ 
+
+ (In thousands)                                                              Three-month period ended March   Three-month period ended March  
+
+                                                                                           31,                              31,
+
+                                                                                           2024                             2023
+
+ Acquired contingent consideration:                                                                                                           
+
+ Balance, beginning of period                                                $                       29,500  $                       41,200 
+
+ Fair value change to contingent consideration                                                        6,241                          (1,091)
+
+    included in the statement of operations
+
+ Royalty payments                                                                                      (241)                           (309)
+
+ Balance, end of period                                                      $                       35,500  $                       39,800 
+
+ 
+
+14
+
+
+
+ 
+
+The Company estimates the fair value of its acquired contingent consideration using a probability weighted discounted cash flow valuation approach based on estimated future sales expected from Inbrija (levodopa inhalation powder), a U.S. Food and Drug Administration (“FDA”) approved drug for the treatment of OFF periods in Parkinson’s disease. Using this approach, expected future cash flows are calculated over the expected life of the agreement and discounted to estimate the current value of the liability at the period end date. Some of the more significant assumptions made in the valuation include (i) the estimated revenue forecast for Inbrija, and (ii) discount period and rate. The milestone payments ranged from $0 million to $14.3 million for Inbrija. The discount rate used in the valuation was 22.0% for the three-month periods ended March 31, 2024 and March 31, 2023. The valuation is performed quarterly and changes in the fair value of the contingent consideration are included in the statement of operations. For the three-month periods ended March 31, 2024 and 2023, changes in the fair value of the acquired contingent consideration were primarily due to change in projected revenue and the recalculation of cash flows for the passage of time. 
+
+The acquired contingent consideration is classified as a Level 3 liability as its valuation requires substantial judgment and estimation of factors that are not currently observable in the market. If different assumptions were used for the various inputs to the valuation approach, including but not limited to, assumptions involving sales estimates for Inbrija and estimated discount rates, the estimated fair value could be significantly higher or lower than the fair value determined.
+
+(8) Debt
+
+Convertible Senior Secured Notes Due 2024
+
+The 2024 Notes were issued pursuant to an Indenture, dated as of December 23, 2019, among the Company, its wholly owned subsidiary, Civitas Therapeutics, Inc. (along with any domestic subsidiaries acquired or formed after the date of issuance, the “Guarantors”), and Wilmington Trust, National Association, as trustee and collateral agent (the “2024 Indenture”). The 2024 Notes are senior obligations of the Company and the Guarantors, secured by a first priority security interest in substantially all of the assets of the Company and the Guarantors, subject to certain exceptions described in the Security Agreement, dated as of December 23, 2019, between the grantors party thereto and Wilmington Trust, National Association, as collateral agent. 
+
+The commencement of the Chapter 11 Proceedings constituted an event of default under the 2024 Indenture, which in turn resulted in the 2024 Notes becoming immediately due and payable, along with accrued and unpaid interest. In addition, the Company’s common stock was delisted from Nasdaq following the consummation of the Chapter 11 Proceedings, which constituted a make-whole fundamental change that provides holders of the 2024 Notes with the right to require the Company to repurchase their notes at a repurchase price equal to 100% of the principal amount of the notes to be repurchased, plus accrued and unpaid interest, if any. The Company does not have the cash to make such a payment, which may complicate its ability to effectively complete the Chapter 11 Proceedings and may result in its liquidation under Chapter 7. Interest on the 2024 Notes is payable semi-annually in arrears at a rate of 6.00% per annum on each June 1 and December 1. Following the June 1, 2023 interest payment, the Company no longer has the option to pay interest on the 2024 Notes in its common stock and the Company has fully utilized the restricted cash that was set aside for the payment of interest on the 2024 Notes. 
+
+The 2024 Notes are convertible at the option of the holder into shares of common stock of the Company at any time prior to the close of business on the second scheduled trading day immediately preceding the maturity date as long as the holder thereof has not delivered a fundamental change repurchase notice. The adjusted conversion rate for the 2024 Notes is 2.3810 shares of the Company’s common stock per $1,000 principal amount of 2024 Notes, representing an adjusted conversion price of approximately $420.00 per share of common stock. The conversion rate was adjusted to reflect the 1-for-6 reverse stock split effected on December 31, 2020, and adjusted again to reflect the 1-for-20 reverse split effected on June 2, 2023. As of March 31, 2024 the maximum number of shares that could be required to be issued would be 969,102 shares. However, as a result of the Chapter 11 Proceedings the Company believes it is highly unlikely that holders will convert the 2024 Notes.
+
+The Company may elect to settle conversions of the 2024 Notes in cash, shares of the Company’s common stock or a combination of cash and shares of the Company’s common stock. In addition, the Company will have the right to cause all 2024 Notes then outstanding to be converted automatically if the volume-weighted average price per share of the Company’s common stock equals or exceeds 130% of the adjusted conversion price for a specified period of time and certain other conditions are satisfied.
+
+15
+
+
+
+ 
+
+Subject to a number of exceptions and qualifications, the 2024 Indenture restricts the ability of the Company and certain of its subsidiaries to, among other things, (i) pay dividends or make other payments or distributions on their capital stock, or purchase, redeem, defease or otherwise acquire or retire for value any capital stock, (ii) make certain investments, (iii) incur indebtedness or issue preferred stock, other than certain forms of permitted debt, (iv) create liens on their assets, (v) sell their assets, (vi) enter into certain transactions with affiliates or (vii) merge, consolidate, or sell all or substantially all of their assets. The 2024 Indenture also requires the Company to make an offer to repurchase the 2024 Notes upon the occurrence of certain asset sales.
+
+The Company assessed all terms and features of the 2024 Notes in order to identify any potential embedded features that would require bifurcation. As part of this analysis, the Company assessed the economic characteristics and risks of the 2024 Notes, including the conversion, put and call features. The Company concluded the conversion features required bifurcation as a derivative. The fair value of the conversion features derivative was determined based on the difference between the fair value of the 2024 Notes with the conversion options and the fair value of the 2024 Notes without the conversion options using a binomial model. The Company determined that the fair value of the derivative upon issuance of the 2024 Notes was $59.4 million and recorded this amount as a derivative liability with an offsetting amount as a debt discount as a reduction to the carrying value of the 2024 Notes on the closing date, or December 24, 2019. There are several embedded features within the 2024 Notes which, upon issuance, did not meet the conditions for equity classification. As a result, these features were aggregated together and recorded as the derivative liability conversion option. The conversion feature has had no value since Q2 2022 due to the extremely remote likelihood of these conversion features ever being exercised. 
+
+The Company received stockholder approval on August 28, 2020 to increase the number of authorized shares of the Company’s common stock from 13,333,333 shares to 61,666,666 shares. As a result of the share approval, the Company determined that multiple embedded conversion options met the conditions for equity classification. The Company performed a valuation of these conversion options as of September 17, 2020, which was the date the Company completed certain securities registration obligations for the shares underlying the 2024 Notes. The resulting fair value of these conversion options was $18.3 million, which was reclassified to equity and presented in the statement of stockholder’s equity as of September 30, 2020, net of the $4.4 million tax impact. The equity component is not re-measured as long as it continues to meet the conditions for equity classification. The Company performed a valuation of the derivative liability related to certain embedded conversion features that are precluded from equity classification. The fair value of these conversion features was calculated to be negligible as of March 31, 2024.
+
+The outstanding 2024 Notes balances as of March 31, 2024 and December 31, 2023 consisted of the following:
+
+ 
+
+(In thousands)                                                                         March 31, 2024           December 31, 2023      
+
+Liability component:                                                                                                                   
+
+Principal                                                                                        207,000  $                  207,000 
+
+Less: debt discount and debt issuance costs, net                                                 (15,526)                    (20,857)
+
+Net carrying amount                                                                $             191,474  $                  186,143 
+
+Equity component                                                                   $              18,257  $                   18,257 
+
+Derivative liability-conversion option                                             $                   —  $                        — 
+
+ 
+
+The Company determined that the expected life of the 2024 Notes was equal to the period through December 1, 2024 as this represents the point at which the 2024 Notes will mature unless earlier converted in accordance with their terms prior to such date. Accordingly, the total debt discount of $75.1 million, inclusive of the fair value of the embedded conversion feature derivative at issuance, is being amortized using the effective interest method through December 1, 2024. For the three-month period ended March 31, 2024, the Company recognized $8.4 million of interest expense related to the 2024 Notes at the effective interest rate of 18.13%. The fair value of the Company’s 2024 Notes was approximately $157.3 million as of March 31, 2024.
+
+In connection with the issuance of the 2024 Notes, the Company incurred approximately $5.7 million of debt issuance costs, which primarily consisted of underwriting, legal and other professional fees, and allocated these costs to the liability component and recorded as a reduction in the carrying amount of the debt liability on the balance sheet. The portion allocated to the 2024 Notes is amortized to interest expense over the expected life of the 2024 Notes using the effective interest method.
+
+16
+
+
+
+ 
+
+The following table sets forth total interest expense recognized related to the 2024 Notes for the three-month periods ended March 31, 2023 and 2022:
+
+ 
+
+ (In thousands)                                   Three-month period ended March 31, 2024          Three-month period ended March 31, 2023     
+
+Contractual interest expense                  $                                         3,105  $                                         3,105 
+
+Amortization of debt issuance costs                                                       379                                              317 
+
+Amortization of debt discount                                                           4,952                                            4,148 
+
+Total interest expense                        $                                         8,436  $                                         7,570 
+
+ 
+
+(9) Leases
+
+The Company adopted the lease guidance under ASU 2016-02, "Leases" Topic 842 effective January 1, 2019. Under the guidance for lessees, leases will be classified as finance or operating, with classification affecting the pattern and classification of expense recognition in the income statement. Operating lease ROU assets and operating lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term at the commencement date. The operating lease ROU asset also includes any lease payments made and excludes lease incentives and initial direct costs incurred, if any. 
+
+The interest rate implicit in lease contracts is typically not readily determinable. As such, the Company utilizes its incremental borrowing rate, which is the rate incurred to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment. In calculating the present value of the lease payments, the Company elected to utilize its incremental borrowing rate based on the remaining lease terms as of the January 1, 2019 adoption date.
+
+The Company has elected the practical expedient to combine lease and non-lease components as a single component. The lease expense is recognized over the expected term on a straight-line basis. Operating leases are recognized on the balance sheet as right-of-use assets, current operating lease liabilities and non-current operating lease liabilities.
+
+Additionally, the Company has elected the short-term lease recognition exemption for all leases that qualify. This means, for those leases where the initial lease term is one year or less or for which the ROU asset at inception is deemed immaterial, the Company will not recognize ROU assets or lease liabilities. Those leases are expensed on a straight-line basis over the term of the lease. 
+
+As of March 31, 2024, the Company serves as the lessee for two operating leases. The Company's leases have remaining lease terms of 2.8 years to 4.3 years.
+
+Operating Leases 
+
+The Company leases certain office space, manufacturing, and warehouse space under arrangements classified as leases under ASC 842. Leases with an initial term of 12 months or less are not recorded on the balance sheet; the Company recognizes lease expense for these leases on a straight-line basis over the lease term.
+
+ 
+
+Pearl River, New York
+
+In June 2022, the Company entered into a 6-year sublease for an aggregate of approximately 21,000 square feet of space in Pearl River, New York for its corporate headquarters. The Company has no options to extend the term of the sublease. The Pearl River sublease provides for monthly payments of rent during the lease term. The base rent commencing on January 1, 2023 is $0.3 million per year, subject to an annual 2.0% escalation factor in each subsequent year thereafter.
+
+Waltham, Massachusetts
+
+In October 2016, the Company entered into a 10-year lease agreement with a term commencing January 1, 2017, for approximately 26,000 square feet of lab and office space in Waltham, Massachusetts. The lease provides for monthly rental payments over the lease term. The base rent under the lease is currently $1.3 million per year.
+
+17
+
+
+
+ 
+
+In July 2023, the Company sublet to a third party approximately 13,000 square feet (approximately 49%) of its lab space at the Waltham, Massachusetts location. The sublease commenced on August 1, 2023, and will last for the remainder of the Company’s lease agreement through 2026. Under the terms of the head lease the Company is not relieved of its obligation as lessee and will continue to make monthly rent payments. The Company performed a recoverability test of the sublease agreement upon inception by comparing the rental income under the sublease to the Company’s obligations under the head lease and noted no impairment existed on the head lease. The Company recognized on a straight-line basis sublease rental income of $0.3 million in 2023 and will recognize $0.7 million per year beginning in 2024 until lease expiration in December 2026.
+
+The Company’s leases have remaining lease terms of 2.8 years to 4.3 years, which reflects the exercise of the early termination of the Company’s Ardsley, New York lease as described above. The weighted-average remaining lease term for the Company’s operating leases was 3.2 years at March 31, 2024. The weighted-average discount rate was 8.0% at March 31, 2024. 
+
+ROU assets and lease liabilities related to the Company’s operating leases are as follows:
+
+ 
+
+(In thousands)                                      Balance Sheet Classification                March 31, 2024        December 31, 2023    
+
+Right-of-use assets                      Right of use assets                                  $            3,941  $                4,221 
+
+Current lease liabilities               Current portion of lease liabilities                               1,599                   1,588 
+
+Non-current lease liabilities           Non-current portion of lease liabilities                           2,847                   3,166 
+
+ 
+
+The Company has lease agreements that contain both lease and non-lease components. The Company accounts for lease components together with non-lease components (e.g., common-area maintenance). The components of lease costs were as follows:
+
+ 
+
+(In thousands)                          Three-month period ended March 31, 2024                  Three-month period ended March 31, 2023         
+
+Operating lease cost            $                                                  214  $                                                  450 
+
+Variable lease cost                                                                 94                                                     100 
+
+Short-term lease cost                                                                —                                                       — 
+
+Total lease cost                $                                                  308  $                                                  550 
+
+ 
+
+Future minimum commitments under all non-cancelable operating leases are as follows:
+
+ 
+
+(In thousands)                                                                                                                        
+
+2024 (excluding the three months ended March 31, 2024)                                                                $         1,191 
+
+2025                                                                                                                            1,633 
+
+2026                                                                                                                            1,678 
+
+2027                                                                                                                              357 
+
+2028                                                                                                                              182 
+
+Later years                                                                                                                         - 
+
+Total lease payments                                                                                                            5,041 
+
+Less: Imputed interest                                                                                                           (594)
+
+Present value of lease liabilities                                                                                    $         4,447 
+
+ 
+
+Supplemental cash flow information related to the Company’s operating leases are as follows:
+
+ 
+
+(In thousands)                                                          Three-month period ended March 31,    Three-month period ended March 31,  
+
+                                                                                       2024                                  2023
+
+Operating cash flow information:                                                                                                                  
+
+Cash paid for amounts included in the measurement of lease liabilities $                                397  $                                386 
+
+ 
+
+18
+
+
+
+ 
+
+(10) Commitments and Contingencies
+
+On December 31, 2022, the Company and Catalent Pharma Solutions (“Catalent”) entered into a termination letter, which was subsequently amended and restated in March 2023 (the “Termination Letter”), to terminate the long-term, global manufacturing services (supply) agreement for the manufacture of Inbrija (“2021 MSA”). In connection with the termination of the 2021 MSA, the Company is obligated to pay a $4 million termination fee to Catalent, payable in April 2024. The parties also entered into a Settlement and Release Agreement with respect to certain batches of Inbrija that were not delivered in 2022 as scheduled, and that were delivered in the first quarter of 2023.
+
+Effective January 1, 2023, the Company entered into a new manufacturing services agreement with Catalent, which was subsequently amended in March 2023 (as amended in March 2023, the “New MSA”). Under the New MSA, Catalent will continue to manufacture Inbrija through 2030, with reduced minimum annual commitments through 2024 and significantly lower pricing thereafter. The New MSA provides for the scale-up of new spray drying equipment (“PSD-7”), which will provide expanded capacity for the long-term world-wide manufacturing requirements of Inbrija. In 2023, the Company satisfied its purchase commitment under the New MSA and purchased 15 batches of Inbrija at a total cost of $10.5 million. The Company is subject to a purchase commitment in 2024 of 24 batches of Inbrija at a total cost of $15.5 million. Thereafter, in 2025, the Company will pay Catalent a fixed per capsule fee based on the amount of Inbrija that is delivered for sale in the U.S. and other markets. 
+
+It is anticipated that by 2026, the PSD-7 equipment will be fully operational, which will significantly reduce the per capsule fees for all markets. The Company agreed to a minimum purchase requirement of at least three batches per year on the PSD-7 equipment and provide up to $1 million in each of 2023 and 2024 for capital expenditures to assist in the capacity expansion efforts. In addition, the Company was obligated to pay Catalent $2 million in 2023 in connection with certain activities relating to the operational readiness of the PSD-7. 
+
+The New MSA, unless earlier terminated, will continue until December 31, 2030, and will be automatically extended for successive two-year periods unless either party provides the other with at least 18-months’ prior written notice of non-renewal. Either party may terminate the New MSA by written notice under certain circumstances, including material breach (subject to specified cure periods) or insolvency. The Company may also terminate the New MSA upon certain specified regulatory events and for convenience upon 180 days’ prior written notice.
+
+(11) Subsequent Events
+
+For a more in-depth analysis of the voluntary filing under Chapter 11, the restructuring support agreement, the asset purchase agreement, and the DIP Credit Agreement, refer to Note 1.
+
+Pre-petition Liabilities
+
+For the periods beginning with the second quarter of 2024, pre-petition unsecured and undersecured claims related to the Debtors that may be impacted by the bankruptcy reorganization process will be classified as Liabilities subject to compromise in the Consolidated Balance Sheets.
+
+ 
+
+19
+
+
+
+ 
+
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our consolidated financial condition and results of operations should be read in conjunction with our unaudited consolidated financial statements and related notes included in this Quarterly Report on Form 10-Q.
+
+Background
+
+We are a biopharmaceutical company focused on developing therapies that restore function and improve the lives of people with neurological disorders. We market Inbrija (levodopa inhalation powder), which is approved in the U.S. for intermittent treatment of OFF episodes, also known as OFF periods, in people with Parkinson’s disease treated with carbidopa/levodopa. Inbrija is for as needed use and utilizes our ARCUS pulmonary delivery system, a technology platform designed to deliver medication through inhalation that we believe has potential to be used in the development of a variety of inhaled medicines. We also market branded Ampyra (dalfampridine) Extended Release Tablets, 10 mg to improve walking in adults with multiple sclerosis, or MS.
+
+Over the past several months, we, with the assistance of outside legal and financial advisors, engaged in a robust process to explore strategic alternatives and maximize value for our stakeholders in light of the upcoming maturity of our 6.00% convertible senior secured notes due 2024 (“2024 Notes”). During this process, we were, and continue to be, in regular communication with our senior secured noteholders and their advisors. We have evaluated every aspect of our business and have taken proactive steps to respond to the challenges we continue to face. Notwithstanding these measures, we engaged in an exhaustive process to find an appropriate solution and our Board of Directors, after reviewing a number of alternatives, determined that it is in the best interests of the Company and its stakeholders to pursue a sale of assets under Chapter 11 of the United States Bankruptcy Code process, which will ensure we obtain the maximum value for the Company and most importantly, that our products will be provided on an uninterrupted basis to patients who will continue to benefit from these much needed medications.
+
+On April 1, 2024, we filed for bankruptcy under Chapter 11. We will continue to operate our business as a “debtor in possession” in accordance with the applicable provisions of the Code and orders of the Court. We requested approval from the Court for certain customary “first day” motions to continue our ordinary course operations after the filing date of the Chapter 11 Proceedings. For the duration of the Chapter 11 Proceedings, our operations and our ability to develop and execute our business plan, our financial condition, our liquidity and our continuation as a going concern will be subject to a high degree of risk and uncertainty associated with the Chapter 11 Proceedings.
+
+The outcome of the Chapter 11 Proceedings will be dependent upon factors that are outside of our control, including the actions of the Court. In conjunction with the Chapter 11 Proceedings, we are continuing to explore strategic alternatives to maximize value for the benefit of our stakeholders, including a sale of certain or substantially all of our assets under Section 363, a plan of reorganization as an alternative to the sale process, or a combination thereof. The longer the proceedings related to the Chapter 11 Proceedings continue, the less likely it may be that we can complete a sale of certain or substantially all of our assets under Section 363 on terms that are favorable, or at all, or that we will be able to effect a plan of reorganization as an alternative or in addition to a sale of certain or substantially all of our assets. If we are unable to effect such a transaction or plan of reorganization it will become increasingly likely that our clients, investors, strategic partners and service providers will lose confidence in our ability to reorganize our businesses successfully and seek to establish alternative advisory and/or other commercial relationships, which could further adversely affect our operations. Furthermore, so long as the Chapter 11 Proceedings continue, we will be required to incur substantial costs for professional fees and other expenses associated with the administration of the Chapter 11 Proceedings. We cannot predict the ultimate amount of all settlement terms for the liabilities that will be subject to the Chapter 11 Proceedings.
+
+20
+
+
+
+ 
+
+Our Products
+
+Inbrija/Parkinson’s Disease
+
+Inbrija is the first and only inhaled levodopa, or L-dopa, for intermittent treatment of OFF episodes, also known as OFF periods, in people with Parkinson’s disease treated with carbidopa/levodopa regimen. Approximately one million people in the U.S. and 1.2 million people in Europe are diagnosed with Parkinson’s; it is estimated that approximately 40% of people with Parkinson’s in the U.S. experience OFF periods. The U.S. Food and Drug Administration (“FDA”) approval of Inbrija is for a single dose of 84 mg (administered as two capsules), which may be taken up to five times per day. U.S. net revenue for Inbrija was $4.7 million for the quarter ended March 31, 2024 and $5.6 million for the quarter ended March 31, 2023. 
+
+Inbrija is also approved for use in the European Union (“EU”). The European Medicines Agency approved Inbrija dose is 66 mg (administered as two capsules) up to five times per day (per EU convention, this reflects emitted dose and is equivalent to the 84 mg labelled dose in the U.S.). Under the EU approval, Inbrija is indicated for the intermittent treatment of episodic motor fluctuations (OFF episodes) in adult patients with Parkinson’s disease treated with a levodopa/dopa-decarboxylase inhibitor. We have entered into agreements to commercialize Inbrija in Spain, Germany, Latin America, and China, and are in discussions with potential partners for commercialization of Inbrija in other jurisdictions outside of the U.S. Net revenues for ex-U.S. Inbrija sales were $1.7 million for the quarter ended March 31, 2024 and $0.5 million for the quarter ended March 31, 2023.
+
+Inbrija utilizes our ARCUS platform for inhaled therapeutics. Because of our limited financial resources, we previously suspended work on ARCUS and other proprietary research and development programs. However, we are discussing potential collaborations with other companies that have expressed interest in formulating their novel molecules for pulmonary delivery using ARCUS, and we have performed feasibility studies for a number of these opportunities.
+
+Ampyra/MS
+
+Ampyra is an extended-release tablet formulation of dalfampridine approved by the FDA as a treatment to improve walking in patients with multiple sclerosis, or MS. Ampyra became subject to competition from generic versions of Ampyra starting in late 2018 as a result of an adverse court ruling that invalidated certain Ampyra Orange Book-listed patents. We have experienced a significant decline in Ampyra sales due to competition from several generic versions of Ampyra. Additional manufacturers may market generic versions of Ampyra, and we expect our Ampyra sales will continue to decline over time. U.S. net revenue for Ampyra was $11.5 million for the quarter ended March 31, 2024 and $12.6 million for the quarter ended March 31, 2023. 
+
+Ampyra is marketed as Fampyra outside the U.S. by Biogen International GmbH, or Biogen, under a license and collaboration agreement that we entered into in June 2009. Fampyra has been approved in a number of countries across Europe, Asia, and the Americas. Our Fampyra patents have been challenged in Germany and could be similarly challenged in other countries where Fampyra is marketed by Biogen, and these challenges could lead to generic competition with Fampyra. For example, we understand that a generic drug manufacturer that has sought to invalidate Fampyra patents in Germany through nullity proceedings has commenced a generic launch in Germany.
+
+In January 2024, we received a written notice of termination from Biogen of the License and Collaboration Agreement we entered into with Biogen in June 2009 (“Collaboration Agreement”). Accordingly, we will regain global commercialization rights to Fampyra. Biogen exercised its right to terminate the Collaboration Agreement in order to shift resources towards upcoming launches and programs that align with its priorities. The termination will be effective as of January 1, 2025.
+
+21
+
+
+
+ 
+
+ 
+
+Long-Term Supply Arrangements
+
+Catalent
+
+In February 2021, we sold our Chelsea manufacturing operations to Catalent Pharma Solutions (“Catalent”). In connection with the sale, we entered into a long-term, global manufacturing services (supply) agreement (the “2021 MSA”) with Catalent for the manufacture of Inbrija. The 2021 MSA provided that we would purchase Inbrija exclusively from Catalent, and were obligated to make minimum purchase commitments for Inbrija of $18 million annually through the expiration of the agreement on December 31, 2030. 
+
+In December 2021, we entered into an amendment of the 2021 MSA that adjusted the structure of the minimum payment terms for the period from July 1, 2021 through June 30, 2022 (the “Adjustment Period”). Under the amendment, the minimum payment obligation for the Adjustment Period was replaced with payments to Catalent for actual product delivered during the Adjustment Period subject to a cap for the Adjustment Period that corresponds to its original minimum purchase obligation for that period (i.e., $17 million), and with certain payments being made in the first half of 2022 instead of during the second half of 2021. As a result of the amendment, payments to Catalent for product delivered during the Adjustment Period were approximately $8.4 million less than the $17 million minimum inventory purchase obligation for that period.
+
+ 
+
+On December 31, 2022, we entered into a termination letter, which was subsequently amended and restated in March 2023, to terminate the 2021 MSA. In connection with the termination of the 2021 MSA, we are obligated to pay a $4 million termination fee to Catalent, payable in April 2024 and included in Accounts Payable as of March 31, 2024. The parties also entered into a Settlement and Release Agreement with respect to certain batches of Inbrija that were not delivered in 2022 as scheduled, and that were delivered in the first quarter of 2023.
+
+Effective January 1, 2023, we entered into a new manufacturing services agreement with Catalent, which was subsequently amended in March 2023 (as amended in March 2023, the “New MSA”). Under the New MSA, Catalent will continue to manufacture Inbrija through 2030, with reduced minimum annual commitments through 2024 and significantly lower pricing thereafter. The New MSA provides for the scale-up of new spray drying equipment (“PSD-7”), which will provide expanded capacity for the long-term worldwide manufacturing requirements of Inbrija. In 2023, we satisfied our purchase commitment under the New MSA and purchased 15 batches of Inbrija at a total cost of $10.5 million. We are subject to a purchase commitment in 2024 of 24 batches of Inbrija at a total cost of $15.5 million. Thereafter, in 2025, we will pay Catalent a fixed per capsule fee based on the amount of Inbrija that is delivered for sale in the U.S. and other markets.
+
+It is anticipated that by 2026, the PSD-7 equipment will be fully operational, which will significantly reduce the per capsule fees for all markets. We agreed to a minimum purchase requirement of at least three batches per year on the PSD-7 equipment and to provide up to $1 million in each of 2023 and 2024 for capital expenditures to assist in the capacity expansion efforts. In addition, we were obligated to pay Catalent $2 million in 2023 in connection with certain activities relating to the operational readiness of the PSD-7. 
+
+The New MSA, unless earlier terminated, will continue until December 31, 2030, and will be automatically extended for successive two-year periods unless either party provides the other with at least 18-months’ prior written notice of non-renewal. Either party may terminate the New MSA by written notice under certain circumstances, including material breach (subject to specified cure periods) or insolvency. We may also terminate the New MSA upon certain specified regulatory events and for convenience upon 180 days’ prior written notice.
+
+Patheon
+
+In October 2022, an arbitration panel issued a decision in our dispute with Alkermes Plc (“Alkermes”) and ruled that the existing license and supply agreements with Alkermes were unenforceable. As a result of the panel’s ruling, we are no longer required to pay Alkermes any royalties on net sales for license and supply of Ampyra, and we are free to use alternative sources for supply of Ampyra, which we have already secured for U.S. supply. 
+
+22
+
+
+
+ 
+
+We had previously designated Patheon, Inc. (“Patheon”) as a second manufacturing source of Ampyra. In connection with that designation, we entered into a manufacturing agreement with Patheon, and Alkermes assisted us in transferring manufacturing technology to Patheon. Patheon now supplies us with our Ampyra needs. Under the manufacturing services agreement, we agreed to purchase from Patheon, on a non-exclusive basis, a portion of our requirements for Ampyra in the U.S. We pay Patheon a fixed per bottle fee (60 tablets per bottle) based on the annual quantity of Ampyra bottles that are delivered for sale. As a result of the arbitration ruling in October 2022, we were free to obtain supply of Ampyra from alternative sources and Patheon became our sole manufacturer and packager of Ampyra for sales in the U.S.
+
+The manufacturing services agreement is automatically renewed for successive one-year periods on December 31 of each year, unless either party provides the other party with at least 12-months’ prior written notice of non-renewal. Either party may terminate manufacturing services agreement by written notice under certain circumstances, including material breach (subject to specified cure periods) or insolvency. We may also terminate the manufacturing services agreement upon certain regulatory actions or objections. Patheon may terminate the manufacturing services agreement if we assign the agreement to a third party under certain circumstances.
+
+The manufacturing services agreement contains customary representations, warranties and covenants, including with respect to the ownership of any intellectual property created pursuant to the manufacturing services agreement, as well as provisions relating to ordering, payment and shipping terms, regulatory matters, reporting obligations, indemnity, confidentiality and other matters.
+
+We rely on a single third-party manufacturer to supply dalfampridine, the active pharmaceutical ingredient, or API, in Ampyra, and also on a single supplier for a critical excipient used in the manufacture of Ampyra. If these companies experience any disruption in their operations, our supply of Ampyra could be delayed or interrupted until the problem is solved or we locate another source of supply or another packager, which may not be available. We may not be able to enter into alternative supply or packaging arrangements on terms that are commercially reasonable, if at all. Any new supplier or packager would also be required to qualify under applicable regulatory requirements. Because of these and other factors, we could experience substantial delays before we are able to obtain qualified replacement products or services from any new supplier or packager.
+
+Financial Management  
+
+As of March 31, 2024, we had cash, cash equivalents, and restricted cash of approximately $10.3 million. Restricted cash includes $1.0 million, of which $0.7 million is related to self-funded employee health insurance, and $0.3 million is related to collateralized standby letters of credit.
+
+Inbrija and ARCUS
+
+Inbrija is the first and only inhaled levodopa, or L-dopa, for intermittent treatment of OFF episodes, also known as OFF periods, in people with Parkinson’s disease treated with carbidopa/levodopa regimen. The FDA approved Inbrija for a single dose of 84 mg (administered as two capsules), which may be taken up to five times per day. U.S. net revenue for Inbrija was $4.7 million for the quarter ended March 31, 2024 and $5.6 million for the quarter ended March 31, 2023. Inbrija utilizes our ARCUS platform for inhaled therapeutics. ARCUS is a dry-powder pulmonary drug delivery technology that we believe has potential to be used in the development of a variety of inhaled medicines. The ARCUS platform allows systemic delivery of medication through inhalation, by transforming molecules into a light, porous dry powder. This allows delivery of substantially higher doses of medication than can be delivered via conventional dry powder technologies.
+
+Inbrija is also approved for use in the 27 member states of the EU, as well as Iceland, Norway, and Liechtenstein, for a single dose of 66 mg (administered as two capsules) up to five times per day (per EU convention, this reflects emitted dose and is equivalent to the 84 mg labelled dose in the U.S.). Following the UK’s exit from the EU, we were granted a grandfathered Marketing Authorization by the Medicines and Healthcare Products Regulatory Agency (MHRA) in the UK in January 2021.
+
+23
+
+
+
+ 
+
+We have entered into agreements to commercialize Inbrija in Spain, Germany, Latin America, and China, and we are in discussions with potential partners for commercialization of Inbrija in other jurisdictions outside of the U.S. In 2021, we entered into exclusive distribution and supply agreements with Esteve Pharmaceuticals, S.A. (“Esteve Spain”) and Esteve Pharmaceuticals GmbH (“Esteve Germany”) to commercialize Inbrija in Spain and Germany and we received a €5 million (approximately $5.9 million) upfront payment, and we are entitled to receive sales-based milestones. Under the terms of both the Esteve Spain and Esteve Germany supply agreements, we are entitled to receive a significant double-digit percentage of the Inbrija selling price in exchange for supply of the product. Esteve Germany and Esteve Spain launched Inbrija in Germany in June 2022 and in Spain in February 2023, respectively. Net revenues for ex-U.S. Inbrija sales were $1.7 million for the quarter ended March 31, 2024 and $0.5 million for the quarter ended March 31, 2023.
+
+In May 2022, we announced that we entered into exclusive distribution and supply agreements with Pharma Consulting Group, S.A., also known as Biopas Laboratories (“Biopas”), to commercialize Inbrija in nine countries within Latin America. Under the terms of the Biopas agreements, we are entitled to receive a significant double-digit, tiered percentage of the Inbrija selling price in exchange for supply of the product, and we are entitled to sales-based milestones. Biopas has submitted for marketing approval of Inbrija in Argentina, Chile, Colombia, Costa Rica, Ecuador, Panama and Peru, and expects to submit additional regulatory filings for approval in Mexico and Brazil during 2024. In April 2024, Biopas received marketing approval for Inbrija in Chile, and expects to receive up to four additional regulatory approvals in 2024.
+
+In May 2023, we entered into a distribution agreement and a commercial supply agreement with Hangzhou Chance Pharmaceuticals Co., Ltd (“Chance”), for the exclusive distribution of Inbrija in China. Chance is obligated to use commercially reasonable efforts to market Inbrija in China. The agreements remain in effect until the earlier of (a) the last commercial sale of Inbrija on a jurisdiction- by- jurisdiction basis, and (b) 12 years from the effective date of the agreements, subject to customary termination for insolvency and certain other termination rights. We will receive a non-refundable upfront payment of $2.5 million, and a near term milestone payment of up to $6 million, depending on the clinical study requirements to be determined by the Chinese National Medical Products Administration (NMPA). We will also receive $3 million upon regulatory approval of Inbrija in China, up to $132.5 million in sales milestones based on specified sales volumes, and a fixed fee for each carton of Inbrija supplied to Chance. 
+
+Ampyra
+
+Ampyra was approved by the FDA in January 2010 to improve walking in adults with multiple sclerosis. Efficacy was shown in people with all four major types of MS (relapsing remitting, secondary progressive, progressive relapsing and primary progressive). Ampyra became subject to competition from generic versions of Ampyra starting in late 2018 as a result of an adverse court ruling that invalidated certain Ampyra Orange Book-listed patents. We have experienced a significant decline in Ampyra sales due to competition from several generic versions of Ampyra. Additional manufacturers may market generic versions of Ampyra, and we expect our Ampyra sales will continue to decline over time. U.S. net revenue for Ampyra was $11.5 million for the quarter ended March 31, 2024 and $12.6 million for the quarter ended March 31, 2023. 
+
+License and Collaboration Agreement with Biogen
+
+Ampyra is marketed as Fampyra outside the U.S. by Biogen under a license and collaboration agreement that we entered into in June 2009. Fampyra has been approved in a number of countries across Europe, Asia, and the Americas. Biogen initiated a commercial launch of Fampyra in China in 2022. Our Fampyra patents have been challenged in Germany and could be similarly challenged in other countries where Fampyra is marketed by Biogen. Fampyra currently faces generic competition in Germany, notwithstanding that the Germany Fampyra Patents remain in effect, and challenges to the Fampyra patents could lead to additional generic competition with Fampyra in Germany and other countries.
+
+24
+
+
+
+ 
+
+Under our agreement with Biogen, we are entitled to receive double-digit tiered royalties on net sales of Fampyra, and we are also entitled to receive additional payments based on achievement of certain regulatory and sales milestones, although we do not anticipate achievement of any of those milestones in the foreseeable future.
+
+In January 2024, we received a written notice of termination from Biogen of the Collaboration Agreement. Accordingly, we will regain global commercialization rights to Fampyra. Biogen exercised its right to terminate the Collaboration Agreement in order to shift resources towards upcoming launches and programs that align with its priorities. The termination will be effective as of January 1, 2025. We plan to assume commercialization responsibilities during 2024 as marketing authorization transfers and distribution arrangements are finalized for each territory and we expect to enter into additional collaborations and distribution arrangements with third parties to transition commercialization of Fampyra.
+
+Results of Operations 
+
+Three-Month Period Ended March 31, 2024 Compared to March 31, 2023
+
+Net Product Revenues
+
+Inbrija
+
+We recognize product sales of Inbrija following receipt of product by companies in our distribution network, which for Inbrija primarily includes specialty pharmacies and distributors. We recognized net revenues from the U.S. sales of Inbrija of $4.7 million and $5.6 million for the three-month periods ended March 31, 2024 and 2023, respectively, a decrease of $0.9 million, or 16.1%. The decrease in Inbrija net revenues of $0.9 million was composed of a decrease in volume of $1.0 million and a net price increase and discount and allowance adjustments of $0.1 million for the three-month period ended March 31, 2024. Consistent with trends in previous years, we anticipated declines in first quarter net sales given patient overstocking in the fourth quarter, insurance resetting at the beginning of each year, and quarterly true-up discounts and allowances as discussed below. Additionally, we recognized revenues from our supply agreement with Esteve for sales in ex-U.S. of $1.7 million and $0.5 million for the three-month periods ended March 31, 2024 and 2023, respectively.
+
+Ampyra
+
+We recognize product sales of Ampyra following receipt of product by companies in our distribution network, which for Ampyra primarily includes specialty pharmacies, which deliver the medication to patients by mail. We recognized net revenues from the sale of Ampyra to these customers of $11.5 million and $12.6 million for the three-month periods ended March 31, 2024 and 2023, respectively, a decrease of $1.1 million, or 8.7%. The decrease in Ampyra net revenues of $1.1 million was composed of a decrease in volume of $3.4 million, partially offset by net price increase and discount and allowance adjustments of $2.3 million for the three-month period ended March 31, 2024. Consistent with trends in previous years, we anticipated declines in first quarter net sales given patient overstocking in the fourth quarter, insurance resetting at the beginning of each year, and quarterly true-up discounts and allowances as discussed below.
+
+ 
+
+Discounts and Allowances on Sales
+
+Discounts and allowances for both Inbrija and Ampyra are included as an offset in net revenues consisting of allowances for customer credits, including estimated chargebacks, rebates, returns, and discounts. Discounts and allowances are recorded following shipment of our products to our customers. Adjustments are recorded for estimated chargebacks, rebates, and discounts. Discounts and allowances also consist of discounts provided to Medicare beneficiaries whose prescription drug costs cause them to be subject to the Medicare Part D coverage gap (i.e., the “donut hole”). Payment of coverage gap discounts is required under the Patient Protection and Affordable Care Act. Discounts and allowances may increase as a percentage of sales as we enter into new managed care contracts in the future.
+
+25
+
+
+
+ 
+
+We believe that first and fourth quarter revenues for Inbrija and Ampyra are subject to certain recurring seasonal factors relating to the commencement of a new calendar year. For example, some patients refill their prescriptions earlier ahead of the new year, in the fourth quarter, in anticipation of the year-end reset of health plan deductibles and the Medicare donut hole, or a year-end switch of their insurance plans or pharmacy benefit providers. Also, we believe specialty pharmacies may increase their inventory in anticipation of the holidays and new year. These factors have had a positive impact on fourth quarter revenues and a negative impact on first quarter revenues. Also, discounts and allowances typically are highest in the first quarter, and lowest in the fourth quarter, and when this occurs, fourth quarter revenues increase, and first quarter revenues decrease, on a relative basis.
+
+Royalty Revenues
+
+We recognized $2.4 million and $3.5 million in royalty revenues for the three-month periods ended March 31, 2024 and 2023, respectively, a decrease of $1.1 million or 31.4%.
+
+License Revenues
+
+We recognized negligible license revenue and negligible license revenues for the three-month periods ended March 31, 2024 and 2023, respectively.
+
+Cost of Sales
+
+We recorded cost of sales of $3.7 million for the three-month period ended March 31, 2024 as compared to $3.2 million for the three-month period ended March 31, 2023. Cost of sales for the three-month period ended March 31, 2024 consisted primarily of $2.8 million in inventory costs related to recognized revenues and $0.9 million in other period costs. Cost of sales for the three-month period ended March 31, 2023 consisted primarily of $3.1 million in inventory costs related to recognized revenues and $0.1 million in other period costs.
+
+Amortization of Intangibles
+
+We recorded amortization of intangible asset related to Inbrija of $0.6 million and $7.7 million for the three-month periods ended March 31, 2024 and 2023, respectively. The Company recognized an impairment charge for the year ended December 31, 2023, resulting in lower amortization for the three-month period ended March 31, 2024.
+
+Research and Development
+
+Research and development expenses for the three-month period ended March 31, 2024 were $1.0 million as compared to $1.4 million for the three-month period ended March 31, 2023, a decrease of approximately $0.4 million, or 28.6%. The decrease was primarily due to decreases in several research and development programs.
+
+Selling, General and Administrative
+
+Sales and marketing expenses for the three-month period ended March 31, 2024 were $8.5 million compared to $9.6 million for the three-month period ended March 31, 2023, a decrease of approximately $1.1 million, or 11.5%. The decrease was primarily due to a decrease in marketing-related spending of $0.4 million for Inbrija, and a decrease in spending for Ampyra and other selling related expenses of $1.2 million, partially offset by an increase in salaries and benefits of $0.5 million.
+
+General and administrative expenses for the three-month period ended March 31, 2024 were $19.9 million compared to $12.9 million for the three-month period ended March 31, 2023, an increase of approximately $7.0 million, or 54.3%. The increase was primarily due to an increase in legal costs of $5.3 million, an increase of $2.4 million in finance costs, and an increase in digital strategy and innovation costs of $1.0 million, partially offset by a decrease of $1.4 million in costs related to salaries & benefits expenses and a decrease $0.3 million in IT related costs.
+
+26
+
+
+
+ 
+
+Changes in Fair Value of Acquired Contingent Consideration
+
+As a result of the original spin out of Civitas from Alkermes, part of the consideration to Alkermes was a future royalty to be paid to Alkermes on Inbrija. We acquired this contingent consideration as part of the Civitas acquisition. The fair value of that future royalty is assessed quarterly. We recorded a loss relating to changes in the fair value of our acquired contingent consideration of $6.2 million for the three-month period ended March 31, 2024 as compared to income of $1.0 million for the three-month period ended March 31, 2023. The changes in the fair value of the acquired contingent consideration were primarily due to the change in projected revenue, the change in the discount rate and the recalculation of cash flows for the passage of time.
+
+Other Expense, Net
+
+Other expense, net was $7.7 million and $7.4 million for the three-month periods ended March 31, 2024 and 2023, respectively. Nearly all Other Expense, net was interest on the 2024 Notes.
+
+Benefit from/(Provision for) Income Taxes
+
+For the three-month periods ended March 31, 2024 and 2023, we recorded a provision of $0.1 million  and a benefit for income taxes of $2.0 million, respectively. The effective income tax rates for the three-month periods ended March 31, 2024 and 2023 were 0.4% and 10.8%, respectively. 
+
+The variance in the effective tax rates for the three-month period ended March 31, 2024 as compared to the three-month period ended March 31, 2023 was due primarily to an increase in the existing valuation allowance recorded on our deferred tax assets for which no tax benefit can be recognized and the forfeitures of equity of which no tax deduction is recorded.
+
+We continue to evaluate the realizability of our deferred tax assets on a quarterly basis and will adjust such amounts in light of changing facts and circumstances including, but not limited to, future projections of taxable income, tax legislation, rulings by relevant tax authorities, the progress of ongoing tax audits, and the regulatory approval of products under development. Any changes to the valuation allowance or deferred tax assets and liabilities in the future would impact our income taxes. 
+
+Liquidity and Capital Resources
+
+Voluntary Filing Under Chapter 11
+
+On April 1, 2024, we filed for bankruptcy under Chapter 11. We expect to continue to operate our business as a “debtor in possession” in accordance with the applicable provisions of the Code and orders of the Court. We requested approval from the Court for certain customary “first day” motions to continue our ordinary course operations after the filing date of the Chapter 11 Proceedings. For the duration of the Chapter 11 Proceedings, our operations and our ability to develop and execute our business plan, our financial condition, our liquidity and our continuation as a going concern will be subject to a high degree of risk and uncertainty associated with the Chapter 11 Proceedings. The outcome of the Chapter 11 Proceedings will be dependent upon factors that are outside of our control, including the actions of the Court.
+
+Overview
+
+Since our inception, we have financed our operations primarily from: private placements and public offerings of our capital stock; borrowing money through loans and the issuance of debt instruments; payments received under our collaboration and licensing agreements; revenue from sales of Ampyra, Fampyra, and Inbrija, as well as our former products, Zanaflex and Qutenza; royalty monetization and a revenue interest financing arrangement; and, to a lesser extent, funding from government grants.
+
+27
+
+
+
+ 
+
+On March 31, 2024, we had $9.4 million of cash and cash equivalents, compared to $30.0 million at December 31, 2023. Our March 31, 2024 cash and cash equivalents balance does not include $1.0 million of restricted cash, of which $0.7 million is related to self-funded employee health insurance, and $0.3 million is related to collateralized standby letters of credit. We incurred a net loss of $27.4 million for the three month period ended March 31, 2024.
+
+Our future capital requirements will depend on a number of factors, including:
+
+•the amount of revenue generated from sales of Inbrija and Ampyra;
+
+•our ability to manage operating expenses; 
+
+•the amount and timing of purchase price, milestone or other payments that we may owe or have a right to receive under collaboration, license, asset sale, acquisition, or other agreements or transactions; and the extent to which the terms and conditions of our 2024 Notes restrict or direct our use of proceeds from such transactions; 
+
+•the costs involved in preparing, filing, prosecuting, maintaining, defending, and enforcing patent claims and other intellectual property rights; and 
+
+•capital required or used for future acquisitions, to in-license new products, programs or compounds, or for research and development relating to existing or future acquired or in-licensed programs or compounds.
+
+Our ability to meet our future operating requirements, repay our liabilities, and meet our other obligations, and continue as a going concern are dependent upon a number of factors, including our ability to generate cash from product sales, reduce planned expenditures, and obtain additional financing. 
+
+The Company believes that its existing cash and cash equivalents are not sufficient to cover its cash flow requirements. The commencement of the Chapter 11 Proceedings constituted an event of default under the Indenture governing the 2024 Notes, which in turn resulted in the 2024 Notes becoming immediately due and payable, along with accrued and unpaid interest. At March 31, 2024, the principal balance outstanding under the 2024 Notes was $207.0 million. The amount of the 2024 Notes significantly exceeds the price the Purchaser has agreed to pay for the Purchased Assets and the noteholders’ security interest in substantially all of our remaining assets (including any recovery we receive from our ongoing litigation with Alkermes) will continue following the consummation of the Section 363 sale and the pendency Chapter 11 Proceedings. Additionally, for the duration of Chapter 11 Proceedings, our operations and our ability to develop and execute our business plan, our financial condition, our liquidity and our continuation as a going concern will be subject to a high degree of risk and uncertainty. Management believes that, due to these circumstances and events, substantial doubt exists regarding our ability to continue as a going concern through one year from the date that these financial statements are issued.
+
+Financing Arrangements
+
+Convertible Senior Secured Notes Due 2024
+
+The 2024 Notes were issued pursuant to an Indenture, dated as of December 23, 2019, among us, our wholly owned subsidiary, Civitas Therapeutics, Inc. (along with any domestic subsidiaries acquired or formed after the date of issuance, the “Guarantors”), and Wilmington Trust, National Association, as trustee and collateral agent (the “2024 Indenture”). The 2024 Notes are senior obligations of us and the Guarantors, secured by a first priority security interest in substantially all of the assets of us and the Guarantors, subject to certain exceptions described in the Security Agreement, dated as of December 23, 2019, between the grantors party thereto and Wilmington Trust, National Association, as collateral agent. 
+
+The commencement of the Chapter 11 Proceedings constituted an event of default under the Indenture governing the 2024 Notes, which resulted in the 2024 Notes becoming immediately due and payable, along with accrued and unpaid interest. In addition, our common stock has been delisted from Nasdaq, which constituted a make-whole fundamental change that provides holders of our 2024 Notes with the right to require us to repurchase their notes at a repurchase price equal to 100% of the principal amount of the notes to be repurchased, plus accrued and unpaid interest. We do not have the cash to make such a payment, which may complicate our ability to effectively complete the Chapter 11 Proceedings and may result in our liquidation under Chapter 7. Under the 2024 Indenture, we no longer have the option to pay interest on the 2024 Notes in common stock and we have fully utilized the restricted cash that was set aside for the payment of interest on the 2024 Notes.
+
+28
+
+
+
+ 
+
+The 2024 Notes are convertible at the option of the holder into shares of our common stock at any time prior to the close of business on the second scheduled trading day immediately preceding the maturity date as long as the holder thereof has not delivered a fundamental change repurchase notice. The adjusted conversion rate for the 2024 Notes is 2.3810 shares of our common stock per $1,000 principal amount of 2024 Notes, representing an adjusted conversion price of approximately $420.00 per share of common stock. The conversion rate was adjusted to reflect the 1-for-6 reverse stock split effected on December 31, 2020, and adjusted again to reflect the 1-for-20 reverse split effected on June 2, 2023. As of March 31, 2024 the maximum number of shares that could be required to be issued would be 969,102 shares. However, as a result of the Chapter 11 Proceedings we believe it is highly unlikely that holders will convert the 2024 Notes.
+
+We may elect to settle conversions of the 2024 Notes in cash, shares of our common stock or a combination of cash and shares of our common stock. In addition, we will have the right to cause all 2024 Notes then outstanding to be converted automatically if the volume-weighted average price per share of our common stock equals or exceeds 130% of the adjusted conversion price for a specified period of time and certain other conditions are satisfied.
+
+Subject to a number of exceptions and qualifications, the 2024 Indenture restricts our ability and the ability of certain of our subsidiaries to, among other things, (i) pay dividends or make other payments or distributions on their capital stock, or purchase, redeem, defease or otherwise acquire or retire for value any capital stock, (ii) make certain investments, (iii) incur indebtedness or issue preferred stock, other than certain forms of permitted debt, which includes, among other items, indebtedness incurred to refinance the 2021 Notes, (iv) create liens on their assets, (v) sell their assets, (vi) enter into certain transactions with affiliates or (vii) merge, consolidate or sell of all or substantially all of their assets. The 2024 Indenture also requires us to make an offer to repurchase the 2024 Notes upon the occurrence of certain asset sales. 
+
+The commencement of the Chapter 11 Proceedings constituted an event of default under the Indenture governing the 2024 Notes, which resulted in the 2024 Notes becoming immediately due and payable, along with accrued and unpaid interest.
+
+We assessed all terms and features of the 2024 Notes in order to identify any potential embedded features that would require bifurcation. As part of this analysis, we assessed the economic characteristics and risks of the 2024 Notes, including the conversion, put and call features. We concluded the conversion features required bifurcation as a derivative. The fair value of the conversion features derivative was determined based on the difference between the fair value of the 2024 Notes with the conversion options and the fair value of the 2024 Notes without the conversion options using a binomial model. We determined that the fair value of the derivative upon issuance of the 2024 Notes was $59.4 million and recorded this amount as a derivative liability with an offsetting amount as a debt discount as a reduction to the carrying value of the 2024 Notes on the closing date, or December 24, 2019. There are several embedded features within the 2024 Notes which, upon issuance, did not meet the conditions for equity classification. As a result, these features were aggregated together and recorded as the derivative liability conversion option. The conversion feature is measured at fair value on a quarterly basis and the changes in the fair value of the conversion feature for the period will be recognized in the consolidated statements of operations. 
+
+We received stockholder approval on August 28, 2020 to increase the number of authorized shares of our common stock from 13,333,333 shares to 61,666,666 shares. As a result of the share approval, we determined that multiple embedded conversion options met the conditions for equity classification. We performed a valuation of these conversion options as of September 17, 2020, which was the date we completed certain securities registration obligations for the shares underlying the 2024 Notes. The resulting fair value of these conversion options was $18.3 million, which was reclassified to equity and presented in the statement of stockholder’s equity as of September 30, 2020, net of the $4.4 million tax impact. The equity component is not re-measured as long as it continues to meet the conditions for equity classification. We performed a valuation of the derivative liability related to certain embedded conversion features that are precluded from equity classification. The fair value of these conversion features was calculated to be negligible as of March 31, 2024.
+
+The outstanding 2024 Note balances as of March 31, 2024 consisted of the following:
+
+ 
+
+(In thousands)                                                                                                    March 31, 2024        
+
+Liability component:                                                                                                                     
+
+Principal                                                                                                  $                   207,000 
+
+Less: debt discount and debt issuance costs, net                                                                               (15,526)
+
+Net carrying amount                                                                                        $                   191,474 
+
+Equity component                                                                                           $                    18,257 
+
+Derivative liability-conversion Option                                                                     $                         — 
+
+ 
+
+29
+
+
+
+ 
+
+Cash and Cash Equivalents
+
+At March 31, 2024 cash and cash equivalents were approximately $9.4 million, as compared to $30.0 million at December 31, 2023. Our cash and cash equivalents consist of highly liquid investments with original maturities of three months or less at date of purchase and consist of investments in a Treasury money market fund. Also, we maintain cash balances with financial institutions in excess of insured limits. 
+
+Associated with the Chapter 11 Proceedings, we plan to lower our operating budget and further reduce the scale of our operations, in addition to funding ongoing operations, we have incurred and expect to incur significant professional fees and other costs in connection with and throughout the Chapter 11 Proceedings.
+
+Net Cash Used in Operations
+
+Net cash used in operations was $20.2 million for the three-month period ending March 31, 2024. Cash used by operations for the three-month period ended March 31, 2024 was primarily due to:
+
+•a net loss of $27.4 million, an increase in prepaid expenses and other current assets of $4.1 million, a decrease in accounts payable, accrued expenses, and other current liabilities of $10.2 million, and a decrease in other non-current liabilities of $0.6 million, and an increase in other assets of $0.5 million; partially offset by
+
+•share based compensation expense of $0.1 million, amortization of debt discount and debt issuance costs of $5.3 million, depreciation and amortization of $0.9 million, change in acquired contingent consideration of $6.2 million a decrease in accounts receivable of $8.1 million, and a decrease in inventory of $2.0 million.
+
+Net Cash Used in Investing
+
+Net cash used in investing activities for the three-month period ended March 31, 2024 was $0.0.
+
+Net Cash Provided by Financing
+
+Net cash provided by financing activities for the three-month period ended March 31, 2024 was $0.0.
+
+Contractual Obligations and Commitments 
+
+A summary of our minimum contractual obligations related to our material outstanding contractual commitments is included in Note 10 of our Annual Report on Form 10-K for the year ended December 31, 2023. Our long-term contractual obligations include commitments and estimated purchase obligations entered into in the normal course of business.
+
+Under certain agreements, we are required to pay royalties or license fees and milestones for the use of technologies and products in our research and development activities and in the commercialization of products. The amount and timing of any of the foregoing payments are not known due to the uncertainty surrounding the successful research, development and commercialization of the products.
+
+ 
+
+Effects of Inflation
+
+Our most liquid assets are cash and cash equivalents. Because of their liquidity, these assets are not directly affected by inflation. Because we intend to retain and continue to use our equipment, furniture and fixtures and leasehold improvements, we believe that the incremental inflation related to replacement costs of such items will not materially affect our operations. However, the rate of inflation affects our expenses, primarily employee compensation and contract services, which could increase our level of expenses.
+
+Critical Accounting Policies and Estimates
+
+Our critical accounting policies are detailed in our Annual Report on Form 10-K for the year ended December 31, 2023. Our significant accounting policies have not changed materially from December 31, 2023. 
+
+30
+
+
+
+ 
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk
+
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information otherwise required under this item. 
+
+Item 4.  Controls and Procedures
+
+Evaluation of disclosure controls and procedures
+
+As required by Rule 13a-15 under the Securities Exchange Act of 1934 (the “Exchange Act”) we carried out an evaluation of the effectiveness of our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of the end of the first quarter of 2024, the period covered by this report. This evaluation was carried out under the supervision and with the participation of our management, including our President and Chief Executive Officer and our Chief Financial Officer and Treasurer. Based on that evaluation, these officers have concluded that, as of March 31, 2024, our disclosure controls and procedures were effective to achieve their stated purpose.
+
+Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules, regulations, and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is accumulated and communicated to management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding disclosure.
+
+Change in internal control over financial reporting
+
+In connection with the evaluation required by Exchange Act Rule 13a-15(d), our management, including our President and Chief Executive Officer and our Chief Financial Officer and Treasurer, concluded that there were no changes in our internal control over financial reporting during the quarter ended March 31, 2024, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+Limitations on the effectiveness of controls
+
+Our disclosure controls and procedures are designed to provide reasonable, not absolute, assurance that the objectives of our disclosure control system are met. Because of inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues, if any, within a company have been detected.
+
+31
+
+
+
+ 
+
+PART II—OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+On April 1, 2024, we filed for bankruptcy under Chapter 11. We expect to continue to operate our business as a “debtor in possession” in accordance with the applicable provisions of the Code and orders of the Court. We requested approval from the Court for certain customary “first day” motions to continue our ordinary course operations after the filing date of the Chapter 11 Proceedings. For additional information regarding the Chapter 11 Proceedings, please refer to Note 1, Organization and Business Activities in the financial statements to this Quarterly Report on Form 10-Q.
+
+From time to time, we may be involved in litigation or other legal proceedings relating to claims arising out of operations in the normal course of our business, including the matters described below. The outcome of litigation and other legal proceedings is unpredictable, and regardless of outcome, they can have an adverse impact on us because of defense and settlement costs, diversion of management resources, and other factors.
+
+Item 1A.  Risk Factors
+
+In addition to the other information set forth in this report, you should carefully consider the risk factors discussed in Part I, Item 1A. Risk Factors, in our Annual Report on Form 10-K for the year ended December 31, 2023, as updated in our Quarterly Reports subsequently filed during the current fiscal year, including this report, all of which could materially affect our business, financial condition and/or operating results. Other than as set forth below, there have been no material changes from the risk factors previously disclosed in the Annual Report on Form 10-K for the fiscal year ended December 31, 2023. These risks are not the only risks facing our Company. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results in the future. 
+
+ 
+
+We are subject to risks and uncertainties associated with the Chapter 11 Proceedings.
+
+On April 1, 2024, we commenced voluntary proceedings under Chapter 11 in the United States Bankruptcy Court for the Southern District of New York (the “Court”). Our operations and ability to develop and execute our business plan, our financial condition, our liquidity and our continuation as a going concern, are subject to the risks and uncertainties associated with our bankruptcy. These risks include, but are not limited to, the following:
+
+ 
+
+•our ability to negotiate and confirm a sale of substantially all of our assets under Section 363 (or any plan of reorganization or liquidation);
+
+•the high costs of Chapter 11 proceedings and related fees;
+
+•our ability to obtain sufficient financing to allow us to operate our business;
+
+•our ability to satisfy the conditions and milestones in the Restructuring Support Agreement;
+
+•our ability to maintain our relationships with our suppliers, service providers, customers, employees and other third parties;
+
+•our ability to maintain contracts that are critical to our operations;
+
+•our ability to execute competitive contracts with third parties while tainted with a bankruptcy legacy;
+
+•the ability of third parties to seek and obtain court approval to terminate contracts and other agreements with us;
+
+•our ability to retain our current management team and to attract, motivate and retain key employees;
+
+•the ability of third parties to seek and obtain court approval to convert the Chapter 11 Proceedings to a proceeding under Chapter 7; and
+
+•the actions and decisions of our shareholders, creditors and other third parties who have interests in the Chapter 11 Proceedings that may be inconsistent with our plans.
+
+ 
+
+32
+
+
+
+ 
+
+Delays in the Chapter 11 Proceedings will likely increase the costs associated with our Chapter 11 process and make it possible that we will be unable to continue operations while in bankruptcy.
+
+These risks and uncertainties could affect our business and operations in various ways. For example, negative events or publicity associated with the Chapter 11 Proceedings could adversely affect our relationships with our suppliers, service providers, customers, employees and other third parties, which in turn could further adversely affect our operations and financial condition. Also, pursuant to the Code, we need the prior approval of the Court for transactions outside the ordinary course of business, which may limit our ability to respond timely to certain events or take advantage of certain opportunities. Because of the risks and uncertainties associated with the Chapter 11 Proceedings, we cannot accurately predict or quantify the ultimate impact that events that occur during the Chapter 11 Proceedings will have on our business, financial condition and results of operations, and there is no certainty as to our ability to continue as a going concern.
+
+ 
+
+We have substantial liquidity needs and may not be able to obtain sufficient liquidity to complete a sale of substantially all of our assets under Section 363 (or any plan of reorganization or liquidation).
+
+Although we have lowered our capital budget and plan to reduce the scale of our operations, our business remains capital intensive. In addition to the cash requirements necessary to fund ongoing operations, we have incurred significant professional fees and other costs in connection with the Chapter 11 Proceedings and expect that we will continue to incur significant professional fees and costs throughout the Chapter 11 Proceedings. We can provide no assurance that our current liquidity is sufficient to allow us to continue to operate our business, satisfy our obligations related to the Chapter 11 Proceedings, allow us to proceed with the confirmation of a Section 363 sale (or any plan of reorganization or liquidation). We can provide no assurance that we will be able to secure additional post-petition financing sufficient to meet our liquidity needs or, if sufficient funds are available, offered to us on acceptable terms.
+
+ 
+
+The Restructuring Support Agreement is subject to conditions and milestones that we may not be able to satisfy.
+
+There are certain material conditions we must satisfy under the Restructuring Support Agreement, including the timely satisfaction of milestones in the Chapter 11 Proceedings, which include the consummation of the Sale Transaction. Our ability to timely complete such milestones is subject to risks and uncertainties, many of which are beyond our control.
+
+ 
+
+In certain limited instances, a Chapter 11 case may be converted to a case under Chapter 7.
+
+Upon a showing of cause, which may include our inability to continue to fund the Company during the Chapter 11 Proceedings, the Court may convert a Chapter 11 case to a Chapter 7 case. In such event, our business operations would generally cease and a Chapter 7 trustee would be appointed or elected to liquidate our assets for distribution in accordance with the priorities established by the Code.
+
+ 
+
+As a result of the Chapter 11 Proceedings, our historical financial information may not be indicative of our future performance, which may be highly volatile.
+
+During the Chapter 11 Proceedings, we expect our financial results to continue to be volatile as restructuring activities and expenses impact our consolidated financial statements. As a result, our historical financial performance is likely not indicative of our financial performance after the filing of the Chapter 11 Proceedings. If a plan of reorganization is approved and implemented, our existing capital structure may be fundamentally altered. If we emerge from Chapter 11, the amounts reported in subsequent consolidated financial statements may materially change relative to our historical consolidated financial statements. In connection with the Chapter 11 Proceedings, it is also possible that additional restructuring and related charges may be identified and recorded in future periods. Such charges could be material to our consolidated financial position, liquidity and results of operations.
+
+ 
+
+33
+
+
+
+ 
+
+We may be subject to claims that will not be discharged in the Chapter 11 Proceedings, which could have a material adverse effect on our business, cash flows, liquidity, financial condition and results of operations.
+
+The Code provides that the confirmation of a plan of reorganization discharges a debtor from, among other things, substantially all debts arising prior to consummation of a plan of reorganization. With few exceptions, all claims against us that arose prior to the filing of the Chapter 11 Proceedings or before consummation of a plan of reorganization or liquidation (i) would be subject to compromise and/or treatment under such plan and/or (ii) would be discharged in accordance with the Code and the terms of such plan. Subject to the terms of such plan and orders of the Court, any claims not ultimately discharged could be asserted against us and may have an adverse effect on our business, cash flows, liquidity, financial condition and results of operations following the bankruptcy proceedings.
+
+ 
+
+If we operate under the Court’s protection for a long period of time, or for a longer period of time than expected, our business may be harmed.
+
+The longer the proceedings related to the Chapter 11 Proceedings continue, the less likely it may be that we can complete a sale of substantially all of our assets under Section 363 on terms that are favorable, or at all, and the more likely it is that our clients, investors, strategic partners and service providers will lose confidence in our ability to reorganize our businesses successfully and seek to establish alternative advisory and/or other commercial relationships, as applicable. Furthermore, so long as the Chapter 11 Proceedings continue, we will be required to incur substantial costs for professional fees and other expenses associated with the administration of the Chapter 11 Proceedings. We cannot predict the ultimate amount of all settlement terms for the liabilities that will be subject to any plan of reorganization or liquidation.
+
+ 
+
+Adverse publicity in connection with the Chapter 11 Proceedings or otherwise could negatively affect our businesses.
+
+Adverse publicity or news coverage relating to us, including, but not limited to, publicity or news coverage in connection with the Chapter 11 Proceedings, may negatively impact our efforts to promote a sale of substantially all of our assets under Section 363, to operate our business while the Chapter 11 Proceedings are pending or to execute a plan of reorganization or liquidation as an alternative or in addition to such a sale process.
+
+ 
+
+The Chapter 11 Proceedings will limit the flexibility of our management team in running our business.
+
+While we operate our business as debtorinpossession under supervision by the Court, we are required to obtain the approval of the Court prior to engaging in activities or transactions outside the ordinary course of business. Court approval of nonordinary course activities entails preparation and filing of appropriate motions with the Court, negotiation with the various other partiesininterest and one or more hearings. Other partiesininterest may be heard at any Court hearing and may raise objections with respect to these motions. This process may delay major transactions and limit our ability to respond quickly to opportunities and events. In addition, constraints on our activities as debtor-in-possession may place limitations and restrictions on our business activities and resources. Furthermore, in the event the Court does not approve a proposed activity or transaction, we would be prevented from engaging in activities and transactions that we believe are beneficial to us.
+
+ 
+
+We may experience employee attrition as a result of the Chapter 11 Proceedings.
+
+As a result of the Chapter 11 Proceedings, we may experience employee attrition, and our employees may face considerable distraction and uncertainty. A loss of key personnel or material erosion of employee morale could adversely affect our business and results of operations. Our ability to engage, motivate and retain key employees or take other measures intended to motivate and incentivize key employees to remain with us through the pendency of the Chapter 11 Proceedings is limited by certain restrictions on the implementation of incentive programs under the Code. The loss of services of members of our senior management team could impair our ability to execute our business strategies and implement operational initiatives, which may have a material adverse effect on our business, cash flows, liquidity, financial condition and results of operations.
+
+ 
+
+Our stock price may be volatile and you may lose all or a part of your investment.
+
+Our stock price could fluctuate significantly due to a number of factors, including:
+
+•the Chapter 11 Proceedings;
+
+•achievement or rejection of regulatory approvals by us or our collaborators or by our competitors;
+
+34
+
+
+
+ 
+
+•publicity regarding actual or potential clinical trial results or updates relating to products under development by us, our collaborators, or our competitors;
+
+•developments concerning proprietary rights, including patents, litigation and other legal proceedings relating to such proprietary rights;
+
+•issuance of additional shares of our common stock, and the expected dilution to our stockholders resulting therefrom, which may occur upon the refinancing of our convertible senior notes;
+
+•announcements of new acquisitions, collaborations, financings or other transactions, or of technological innovations or new commercial products by our competitors or by us; 
+
+•regulatory developments in the U.S. and foreign countries;
+
+•changes in securities analysts’ estimates of our performance or our failure to meet analysts’ expectations;
+
+•sales of substantial amounts of our stock or short selling activity by investors;
+
+•variations in our anticipated or actual operating results;
+
+•conditions or trends in the pharmaceutical or biotechnology industries generally;
+
+•government regulation of drug pricing;
+
+•changes in healthcare reimbursement policies; and
+
+•events that affect, or have the potential to affect, general economic conditions, including but not limited to political unrest, global trade wars, natural disasters, acts of war, terrorism, or disease outbreaks (such as the COVID-19 global pandemic).
+
+Many of these factors are beyond our control, and we believe that period-to-period comparisons of our financial results will not necessarily be indicative of our future performance. If our revenues in any particular period do not meet expectations, we may not be able to adjust our expenditures in that period, which could cause our operating results to suffer. If our operating results in any future period fall below the expectations of securities analysts or investors, our stock price may fall by a significant amount.
+
+Additionally, the price of our common stock has been and will likely continue to be highly volatile following the commencement of the Chapter 11 Proceedings and our common stock may continue to decline significantly in value. Accordingly, any trading in our common stock during the pendency of the Chapter 11 Proceedings will be highly speculative and pose substantial risks to purchasers of our common stock. Recoveries in the Chapter 11 Proceedings for holders of common stock, if any, will depend upon several factors, including, but not limited to, our ability to negotiate and confirm a sale of substantially all of our assets under Section 363 or execute a plan of reorganization or liquidation as an alternative to the sale process, or a combination thereof. All of our indebtedness, including our 2024 Notes, is senior to the existing common stock in our capital structure, and therefore common stockholders would not receive any recovery unless the holders of more senior claims and interests, including our 2024 Notes, are paid in full. The amount of the 2024 Notes significantly exceeds the price the Purchaser has agreed to pay for the Purchased Assets and the noteholders’ security interest in substantially all of our remaining assets (including any recovery we receive from our ongoing litigation with Alkermes as described in our Annual Report on Form 10-K for the year ended December 31, 2023) will continue following the consummation of the Section 363 sale and Chapter 11 Proceedings. 
+
+On April 3, 2024, we were notified by the Listing Qualifications Department of the Nasdaq Stock Market, LLC (“Nasdaq”) that Nasdaq had determined to commence proceedings to delist the Company’s common stock from Nasdaq. Nasdaq reached its decision that we were no longer suitable for listing pursuant to Nasdaq Listing Rules 5101, 5110(b), and IM5101-1 as a result of the commencement of the Chapter 11 Proceedings. Nasdaq also notified us, as a separate basis for delisting, that we were not in compliance with Listing Rule 5450(b)(1)(A) for failure to maintain stockholders’ equity of at least $10 million. On April 12, 2024, our common stock ceased trading on the Nasdaq and began trading on the Pink Open Market under the symbol “ACORQ.” On April 25, 2024, Nasdaq filed a Form 25 with the SEC to delist our common stock from Nasdaq that became effective on May 5, 2024. Accordingly, we expect that our common stock will be deregistered under Section 12(b) of the Exchange Act on or about July 24, 2024, which is the 90th day after the Form 25 filing. After our common stock is deregistered under Section 12(b) of the Exchange Act, it will remain registered under Section 12(g) of the Exchange Act.
+
+35
+
+
+
+ 
+
+We can provide no assurance that our common stock will commence trading or continue to trade on the Pink Open Market, whether broker-dealers will continue to provide public quotes of our common stock on this market, whether the trading volume of our common stock will be sufficient to provide for an efficient trading market or whether quotes for our common stock will continue on this market in the future, which could result in significantly lower trading volumes and reduced liquidity for investors seeking to buy or sell our common stock. The delisting of our common stock from the Nasdaq Global Select Market may materially and adversely affect a stockholder’s ability to dispose of, or to obtain accurate quotations as to the market value of, our common stock. Furthermore, our common stock could become subject to the SEC’s “penny stock” regulations. Under such regulations, broker-dealers are required to, among other things, comply with disclosure and special suitability determinations prior to the sale of shares of common stock. Furthermore, because of the limited market and generally low volume of trading in our common stock, the price of our common stock could be more likely to be affected by broad market fluctuations, general market conditions, changes in the markets’ perception of our securities, and announcements made by us or third parties with interests in the Chapter 11 Proceedings.
+
+ 
+
+Trading on the Pink Open Market is volatile and sporadic, which could depress the market price of our common stock and make it difficult for our stockholders to resell their shares. The market for our common stock is limited and persons who purchase our common stock may not be able to resell their shares at or above the purchase price paid by them.
+
+On April 12, 2024, our common stock ceased trading on the Nasdaq and began trading on the Pink Open Market under the symbol “ACORQ.” Trading in stock quoted on the Pink Open Market is often extremely thin and characterized by wide fluctuations in trading prices, due to many factors, some of which may have little to do with our operations or business prospects. This volatility could further depress the market price of our common stock for reasons unrelated to operating performance. Moreover, the Pink Open Market is not a stock exchange, and trading of securities on the Pink Open Market is often more sporadic than the trading of securities listed on a stock exchange such as Nasdaq. The Pink Open Market is not a liquid market, and therefore there is likely to be only a limited public market for our common stock. We cannot assure you that an active public market for our common stock on the Pink Open Market will develop or be sustained in the future. If an active market for our common stock does not develop or is not sustained, the price may decline further. These factors may result in investors having difficulty reselling any shares of our common stock.
+
+Item 5. Other Information 
+
+Securities Trading Plans Of Directors and Executive Officers 
+
+During the three months ended March 31, 2024, none of our directors or officers adopted or terminated any contract, instruction or written plan for the purchase or sale of our securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any “non-Rule 10b5-1 trading arrangement” (as defined in Item 408(c) of Regulation S-K)
+
+36
+
+
+
+ 
+
+Item 6.  Exhibits
+
+ 
+
+Exhibit No.                                                         Description
+
+3.1         Amended and Restated Bylaws of Acorda Therapeutics, Inc., effective March 7, 2024 (incorporated by reference to Exhibit
+
+             3.1 to the Company’s Current Report on Form 8-K filed March 13, 2024).
+
+             
+
+             
+
+10.1        Asset Purchase Agreement, dated March 31, 2024 by and between the Registrant, Civitas Therapeutics, Inc., and Merz
+
+             Pharmaceuticals, LLC and Merz Pharma GmbH & Co. KGaA (incorporated by reference to Exhibit 10.48 to the Company’s Annual
+
+             Report on Form 10-K filed April 1,
+
+             2024).
+
+             
+
+10.2        Restructuring Support Agreement, dated April 1, 2024, by and between the Registrant and Consenting Convertible Noteholders
+
+             (incorporated by reference to Exhibit 10.49 to the Company’s Annual Report on Form 10-K filed April 1,
+
+             2024).
+
+             
+
+10.3        Form of Debtor-in-Possession Credit Agreement (incorporated by reference to Exhibit 10.50 to the Company’s Annual Report
+
+             on Form 10-K filed April 1,
+
+             2024).
+
+             
+
+31.1        Certification by the Principal Executive Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+
+             
+
+31.2        Certification by the Principal Financial Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+
+             
+
+32.1        Certification by the Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of
+
+             the Sarbanes-Oxley Act of
+
+             2002.
+
+             
+
+32.2        Certification by the Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of
+
+             the Sarbanes-Oxley Act of
+
+             2002.
+
+             
+
+101.INS     Inline XBRL Instance Document.
+
+             
+
+101.SCH     Inline XBRL Taxonomy Extension Schema Document.
+
+             
+
+101.CAL     Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+
+             
+
+101.DEF     Inline XBRL Taxonomy Extension Definition Linkbase Document.
+
+             
+
+101.LAB     Inline XBRL Taxonomy Extension Label Linkbase Document.
+
+             
+
+101.PRE     Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+
+             
+
+104         Cover Page Interactive Data File, formatted in Inline XBRL (included in Exhibit 101).
+
+             
+
+ 
+
+37
+
+
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+                                      Acorda Therapeutics, Inc.
+
+                                       
+
+                                      By:                                           /s/ Ron Cohen
+
+Date:  May 14, 2024                                                                Ron Cohen, M.D.
+
+                                                                   President, Chief Executive Officer and Director
+
+                                                                            (Principal Executive Officer)
+
+                                                                                           
+
+                                      By:                                       /s/ Michael A. Gesser
+
+Date:  May 14, 2024                                                               Michael A. Gesser
+
+                                                                        Chief Financial Officer and Treasurer
+
+                                                                    (Principal Financial and Accounting Officer)
+
+ 
+
+ 
+
+38

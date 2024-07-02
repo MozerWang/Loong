@@ -1,0 +1,2595 @@
+Table of Contents
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                                                                    
+
+                                             For the quarterly period ended March 31, 2024
+
+                                                                    
+
+                                                                   Or
+
+                                                                    
+
+☐     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                                                                    
+
+                                     For the transition period from _____________ to _____________
+
+ 
+
+Commission File No. 001-40071
+
+ 
+
+AUDDIA INC.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+ 
+
+                             Delaware                                                           45-4257218
+
+                 (State or other jurisdiction of                                            (I.R.S. Employer 
+
+                  incorporation or organization)                                           Identification No.)
+
+                                                                                                     
+
+                   1680 38th Street, Suite 130                                                    80301
+
+                           Boulder, CO
+
+              Address of Principal Executive Offices                                             Zip Code
+
+ 
+
+(303) 219-9771
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+                    Title of each class                      Trading Symbol(s)          Name of each exchange on which registered
+
+                                                                                                             
+
+Common Stock, par value $0.001 per share                            AUUD                         The Nasdaq Stock Market
+
+                                                                                                             
+
+Warrants, each exercisable for one share of Common Stock           AUUDW                         The Nasdaq Stock Market
+
+ 
+
+Indicate by check mark whether the registrant: (1) filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒  No  ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes  ☒  No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large Accelerated Filer ☐                                           Accelerated Filer ☐
+
+Non-accelerated Filer ☒                                             Smaller Reporting Company ☒
+
+                                                                    Emerging Growth Company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12(b)-2 of the Exchange Act). Yes ☐  No ☒
+
+ 
+
+As of May 13, 2024, there were 2,794,196 shares of the registrant’s common stock, $0.001 par value per share, outstanding. 
+
+ 
+
+ 
+
+                                                                                                                                        
+
+ 
+
+ 
+
+AUDDIA INC.
+
+2024 QUARTERLY REPORT ON FORM 10-Q
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                             Page No.
+
+                                                                                                                                  
+
+                                                     PART I – FINANCIAL INFORMATION
+
+                                                                                                                                  
+
+Item 1.    Financial Statements                                                                                                  4
+
+           Condensed Balance Sheets                                                                                              4
+
+           Condensed Statements of Operations                                                                                    5
+
+           Condensed Statements of Changes in Shareholders’ Equity                                                               6
+
+           Condensed Statements of Cash Flows                                                                                    7
+
+           Notes to Condensed Financial Statements                                                                               8
+
+Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations                                19
+
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk                                                           30
+
+Item 4.    Controls and Procedures                                                                                              30
+
+                                                                                                                                  
+
+                                                      PART II – OTHER INFORMATION
+
+                                                                                                                                  
+
+Item 1.    Legal Proceedings                                                                                                    31
+
+Item 1A.   Risk Factors                                                                                                         31
+
+Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds                                                          31
+
+Item 3.    Defaults Upon Senior Securities                                                                                      31
+
+Item 4.    Mine Safety Disclosures                                                                                              31
+
+Item 5.    Other Information                                                                                                    31
+
+Item 6.    Exhibits                                                                                                             32
+
+           Signatures                                                                                                           34
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   2                                                                    
+
+ 
+
+ 
+
+Unless we state otherwise or the context otherwise requires, the terms “Auddia,” “we,” “us,” “our” and the “Company” refer to Auddia Inc., a Delaware corporation.
+
+ 
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+ 
+
+This Quarterly Report on Form 10-Q, or Quarterly Report, contains forward-looking statements that involve risks and uncertainties. We make such forward-looking statements pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and other federal securities laws. All statements other than statements of historical facts contained in this Quarterly Report are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “may”, “will”, “should”, “expects”, “intends”, “plans”, “anticipates”, “believes”, “estimates”, “predicts”, “potential”, “continue” or the negative of these terms or other comparable terminology.
+
+ 
+
+Forward-looking statements are neither historical facts nor assurances of future performance, and are based only on our current beliefs, expectations and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict and many of which are outside of our control. Therefore, you should not rely on any of these forward-looking statements. Important factors that could cause our actual results and financial condition to differ materially from those indicated in the forward-looking statements include, among others, the following:
+
+ 
+
+  ·   the sufficiency of our existing cash to meet our working capital and capital expenditure needs over the next 12 months and our
+
+       need to raise additional
+
+       capital;
+
+  ·   our ability to generate revenue from new software services;
+
+  ·   our limited operating history;
+
+  ·   our ability to maintain proper and effective internal financial controls;
+
+  ·   our ability to continue to operate as a going concern;
+
+  ·   changes in laws, government regulations and policies and interpretations thereof;
+
+  ·   our ability to obtain and maintain protection for our intellectual property;
+
+  ·   the risk of errors, failures or bugs in our platform or products;
+
+  ·   our ability to attract and retain qualified employees and key personnel;
+
+  ·   our ability to manage our rapid growth and organizational change effectively;
+
+  ·   the possibility of security vulnerabilities, cyberattacks and network disruptions, including breaches of data security and
+
+       privacy leaks, data loss, and business
+
+       interruptions;
+
+  ·   our compliance with data privacy laws and regulations;
+
+  ·   our ability to develop and maintain our brand cost-effectively; and
+
+  ·   the other factors set forth elsewhere in this Quarterly Report and in Part I, Item 1A, “Risk Factors” of our Annual Report on
+
+       Form 10-K for the year ended December 31,
+
+       2023.
+
+ 
+
+These forward-looking statements speak only as of the date of this Form 10-Q and are subject to business and economic risks. We do not undertake any obligation to update or revise the forward-looking statements to reflect events that occur or circumstances that exist after the date on which such statements were made, except to the extent required by law.
+
+ 
+
+ 
+
+ 
+
+                                                                   3                                                                    
+
+ 
+
+ 
+
+PART I – FINANCIAL INFORMATION
+
+ 
+
+Item 1.      Financial Statements 
+
+ 
+
+Auddia Inc.
+
+Condensed Balance Sheets
+
+                                                                                                                                      
+
+                                                                                               March 31, 2024      December 31, 2023  
+
+                                                                                                 (Unaudited)                          
+
+ASSETS                                                                                                                                
+
+Current assets:                                                                                                                     
+
+Cash and cash equivalents                                                                    $        2,732,538  $          804,556 
+
+Accounts receivable, net                                                                                    435                 494 
+
+Prepaid insurance                                                                                        25,423              28,993 
+
+Other current assets                                                                                      7,150               7,150 
+
+Total current assets                                                                                  2,765,546             841,193 
+
+                                                                                                                                    
+
+Non-current assets:                                                                                                                 
+
+Property and equipment, net of accumulated depreciation                                                  11,605              18,099 
+
+Intangible assets, net of accumulated amortization                                                        3,613               3,947 
+
+Software development costs, net of accumulated amortization                                           3,144,405           3,347,935 
+
+Operating lease right of use asset                                                                       94,246                   – 
+
+Deferred offering costs                                                                                 125,855             170,259 
+
+Prepaids and other non-current assets                                                                    79,754              21,615 
+
+Total non-current assets                                                                              3,459,478           3,561,855 
+
+Total assets                                                                                 $        6,225,024  $        4,403,048 
+
+                                                                                                                                    
+
+LIABILITIES AND SHAREHOLDERS' EQUITY                                                                                                
+
+Current liabilities:                                                                                                                
+
+Accounts payable and accrued liabilities                                                     $        1,111,329  $          911,664 
+
+Notes payable to related party, net of debt issuance costs                                            3,025,000           3,025,000 
+
+Current portion of operating lease liability                                                             21,492                   – 
+
+Stock awards liability                                                                                   45,964              45,964 
+
+Total current liabilities                                                                             4,203,785           3,982,628 
+
+Non-current operating lease liability                                                                    72,754                   – 
+
+Total liabilities                                                                                     4,276,539           3,982,628 
+
+                                                                                                                                    
+
+Commitments and contingencies (Note 5)                                                                        -                   - 
+
+                                                                                                                                    
+
+Shareholders' equity:                                                                                                               
+
+Preferred stock - $0.001 par value, 10,000,000 authorized and 0 shares issued and                             –                   – 
+
+ outstanding
+
+Common stock - $0.001 par value, 100,000,000 authorized and 2,194,196 and 854,162 shares                  2,194                 854 
+
+ issued and outstanding March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Additional paid-in capital                                                                           84,696,949          80,962,896 
+
+Accumulated deficit                                                                                 (82,750,658)        (80,543,330)
+
+Total shareholders' equity                                                                            1,948,485             420,420 
+
+Total liabilities and shareholders' equity                                                   $        6,225,024  $        4,403,048 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed financial statements.
+
+ 
+
+ 
+
+ 
+
+                                                                   4                                                                    
+
+ 
+
+ 
+
+Auddia Inc.
+
+Condensed Statements of Operations 
+
+(Unaudited)
+
+                                                                                                                                    
+
+                                                                                                        Three Months Ended             
+
+                                                                                                             March 31,
+
+                                                                                                    2024                 2023         
+
+Revenue                                                                                      $                –  $                – 
+
+                                                                                                                                    
+
+Operating expenses:                                                                                                                 
+
+Direct cost of services                                                                                  48,173              42,301 
+
+Sales and marketing                                                                                     146,395             225,118 
+
+Research and development                                                                                165,507             210,126 
+
+General and administrative                                                                            1,210,799             926,826 
+
+Depreciation and amortization                                                                           483,746             443,035 
+
+Total operating expenses                                                                              2,054,620           1,847,406 
+
+Loss from operations                                                                                 (2,054,620)         (1,847,406)
+
+                                                                                                                                    
+
+Other (expense) income:                                                                                                             
+
+Interest expense                                                                                       (152,708)           (307,906)
+
+Total other expense                                                                                    (152,708)           (307,906)
+
+Loss before income taxes                                                                             (2,207,328)         (2,155,312)
+
+Provision for income taxes                                                                                    –                   – 
+
+Net loss                                                                                     $       (2,207,328) $       (2,155,312)
+
+                                                                                                                                    
+
+Net loss per share attributable to common stockholders                                                                              
+
+Basic and diluted                                                                            $            (1.98) $            (4.23)
+
+                                                                                                                                    
+
+Weighted average common shares outstanding                                                                                          
+
+Basic and diluted                                                                                     1,113,945             510,026 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed financial statements.
+
+ 
+
+ 
+
+ 
+
+                                                                   5                                                                    
+
+ 
+
+ 
+
+Auddia Inc.
+
+Condensed Statements of Changes in Shareholders’ Equity 
+
+for the Three Months Ended March 31, 2024 and 2023
+
+(Unaudited)
+
+                                                                                                                               
+
+                                                         Common Stock                                                               
+
+                                                 Number of       Par Value       Additional       Accumulated          Total      
+
+                                                   Shares                      Paid-In-Capital      Deficit
+
+Balance, December 31, 2023                            854,162  $          854  $   80,962,896  $   (80,543,330) $      420,420 
+
+Issuance of common shares, net of costs             1,340,034           1,340       3,605,168                –       3,606,508 
+
+Offering costs                                              –               –         (44,404)               –         (44,404)
+
+Share-based compensation                                    –               –         173,289                –         173,289 
+
+Net loss                                                    –               –               –       (2,207,328)     (2,207,328)
+
+Balance, March 31, 2024                             2,194,196  $        2,194  $   84,696,949  $   (82,750,658) $    1,948,485 
+
+ 
+
+                                                         Common Stock                                                               
+
+                                                 Number of        Par Value       Additional       Accumulated          Total      
+
+                                                   Shares                       Paid-In-Capital      Deficit
+
+Balance, December 31, 2022                            506,198  $          506  $   75,585,411  $   (71,735,834) $    3,850,083 
+
+Exercise of restricted stock units                      7,830               8          42,789                –          42,797 
+
+Share-based compensation                                    –               –         357,680                –         357,680 
+
+Net loss                                                    –               –               –       (2,155,312)     (2,155,312)
+
+Balance, March 31, 2023                               514,028  $          514  $   75,985,880  $   (73,891,146) $    2,095,248 
+
+  
+
+The accompanying notes are an integral part of these unaudited condensed financial statements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   6                                                                    
+
+ 
+
+ 
+
+Auddia Inc.
+
+Condensed Statements of Cash Flows 
+
+(Unaudited) 
+
+                                                                                                                                    
+
+                                                                                                   Three Months Ended March 31,        
+
+                                                                                                    2024                 2023         
+
+Cash flows from operating activities:                                                                                               
+
+Net loss                                                                                     $       (2,207,328) $       (2,155,312)
+
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities:                                           
+
+Finance charge associated with debt issuance cost                                                             –             250,941 
+
+Depreciation and amortization                                                                           483,746             443,035 
+
+Share-based compensation expense                                                                        173,289             357,680 
+
+Change in assets and liabilities:                                                                                                   
+
+Accounts receivable                                                                                          59                (160)
+
+Prepaid insurance                                                                                         3,569             (52,200)
+
+Prepaids and other non-current assets                                                                   (58,138)            (59,043)
+
+Operating lease right of use asset                                                                      (94,246)                  – 
+
+Accounts payable and accrued liabilities                                                                199,665             141,818 
+
+Lease liabilities                                                                                        94,246                   – 
+
+Net cash used in operating activities                                                                (1,405,138)         (1,073,241)
+
+                                                                                                                                    
+
+Cash flows from investing activities:                                                                                               
+
+Software capitalization                                                                                (273,388)           (270,574)
+
+Net cash used in investing activities                                                                  (273,388)           (270,574)
+
+                                                                                                                                    
+
+Cash flows from financing activities:                                                                                               
+
+Net settlement of share-based compensation liability                                                          –             (78,580)
+
+Proceeds from issuance of common shares                                                               3,606,508                   – 
+
+Net cash provided by financing activities                                                             3,606,508             (78,580)
+
+                                                                                                                                    
+
+Net decrease in cash and cash equivalents                                                             1,927,982          (1,422,395)
+
+                                                                                                                                    
+
+Cash and cash equivalents, beginning of year                                                            804,556           1,661,434 
+
+                                                                                                                                    
+
+Cash and cash equivalents, end of period                                                     $        2,732,538  $          239,039 
+
+                                                                                                                                    
+
+Supplemental disclosures of cash flow information:                                                                                  
+
+Cash paid for Interest                                                                       $            1,045  $            1,012 
+
+                                                                                                                                    
+
+Supplemental disclosures of non-cash activity:                                                                                      
+
+Reclassification of deferred offering cost                                                   $           44,404  $                – 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed financial statements.
+
+ 
+
+ 
+
+ 
+
+                                                                   7                                                                    
+
+ 
+
+ 
+
+Auddia Inc.
+
+Notes to Condensed Financial Statements (Unaudited)
+
+ 
+
+Note 1 – Description of Business, Basis of Presentation and Summary of Significant Accounting Policies
+
+ 
+
+Description of Business
+
+ 
+
+Auddia Inc., (the “Company”, “Auddia”, “we”, “our”) is a technology company that is reinventing how consumers engage with audio through the development of a proprietary AI platform for audio and innovative technologies for podcasts. The Company is incorporated in Delaware and headquartered in Colorado.
+
+ 
+
+Basis of Presentation
+
+ 
+
+The accompanying financial statements have been prepared in accordance with generally accepted accounting principles in the United States of America (“GAAP”).
+
+ 
+
+Interim Financial Information
+
+ 
+
+The condensed financial statements of the Company included herein have been prepared, without audit, pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”). Certain information and footnote disclosures normally included in financial statements prepared in accordance with GAAP have been condensed or omitted from this Quarterly Report, as is permitted by such rules and regulations. The condensed balance sheet as of December 31, 2023 has been derived from the financial statements included in the Company’s annual report on Form 10-K. Accordingly, these condensed financial statements should be read in conjunction with the financial statements and notes thereto included in the Company’s Annual Report on Form 10-K. The results for any interim period are not necessarily indicative of results for any future period. The Company recorded all adjustments necessary for a fair statement of the results for the interim period and all such adjustments are of a normal recurring nature.
+
+ 
+
+Reverse Stock Split
+
+ 
+
+The Company filed an amendment to its Certificate of Incorporation with the Secretary of State in Delaware which became effective as of 5:00 P.M. Eastern Time on February 26, 2024. As a result, every twenty-five (25) issued shares of common stock were automatically combined into one share of common stock.
+
+ 
+
+Shares of the Company’s common stock were assigned a new CUSIP number (05072K 206) and began trading on a split-adjusted basis on February 27, 2024.
+
+ 
+
+The reverse stock split did not change the authorized number of shares of the Company’s common stock. No fractional shares were issued and any fractional shares resulting from the reverse stock split were rounded up to the nearest whole share. Therefore, stockholders with less than 25 shares received one share of stock.
+
+ 
+
+All stock amounts have been retrospectively adjusted to account for the reverse stock split. The reverse stock split applies to the Company’s outstanding warrants, stock options and restricted stock units. The number of shares of common stock into which these outstanding securities are convertible or exercisable were adjusted proportionately as a result of the reverse stock split. The exercise prices of any outstanding warrants or stock options were also proportionately adjusted in accordance with the terms of those securities and the Company’s equity incentive plans.
+
+ 
+
+ 
+
+ 
+
+                                                                   8                                                                    
+
+ 
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+
+ 
+
+The condensed financial statements include some amounts that are based on management’s best estimates and judgments. The most significant estimates relate to valuation of capital stock, warrants and options to purchase shares of the Company’s common stock, and the estimated recoverability and amortization period for capitalized software development costs. These estimates may be adjusted as more current information becomes available, and any adjustment could be significant.
+
+ 
+
+Risks and Uncertainties
+
+ 
+
+The Company is subject to various risks and uncertainties frequently encountered by companies in the early stages of development. Such risks and uncertainties include, but are not limited to, its limited operating history, competition from other companies, limited access to additional funds, dependence on key personnel, and management of potential rapid growth. To address these risks, the Company must, among other things, develop its customer base; implement and successfully execute its business and marketing strategy; develop follow-on products; provide superior customer service; and attract, retain, and motivate qualified personnel. There can be no guarantee that the Company will be successful in addressing these or other such risks.
+
+ 
+
+Emerging Growth Company Status
+
+ 
+
+The Company is an emerging growth company, as defined in the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”). Under the JOBS Act, emerging growth companies can delay adopting new or revised accounting standards issued subsequent to the enactment of the JOBS Act until such time as those standards apply to private companies. The Company has elected to use this extended transition period to comply with certain new or revised accounting standards that have different effective dates for public and private companies.
+
+ 
+
+Going Concern
+
+ 
+
+The Company had cash and cash equivalents of $2,732,538 as of March 31, 2024. The Company will need additional funding to complete the development of the full product line and scale products with a demonstrated market fit. The Company raised an additional $3.56 million in April 2024 and paid down $2.75 million in current debt due. Management has plans to secure such additional funding. If the Company is unable to raise capital when needed or on acceptable terms, the Company will be forced to delay, reduce, or eliminate technology development and commercialization efforts.
+
+ 
+
+As a result of the Company’s recurring losses from operations, and the need for additional financing to fund its operating and capital requirements, there is uncertainty regarding the Company’s ability to maintain liquidity sufficient to operate its business effectively, which raises substantial doubt as to the Company’s ability to continue as a going concern within one year after the date the financial statements are issued. Management has plans to mitigate the conditions or events that raise substantial doubt about the entity’s ability to continue as a going concern, such as the White Lion equity line of credit (refer to Note 7) and additional future financing agreements. However, management cannot provide any assurances that the Company will be successful in accomplishing any of its plans. These financial statements do not include any adjustments related to the recoverability and classification of assets or the amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern. The Company’s current level of cash is not sufficient to execute the business plan. For the foreseeable future, the Company will incur significant operating expenses, capital expenditures and working capital funding that will deplete cash on hand during the third quarter of 2024.
+
+ 
+
+ 
+
+ 
+
+                                                                   9                                                                    
+
+ 
+
+ 
+
+Cash and Cash Equivalents 
+
+ 
+
+The Company considers all highly liquid instruments purchased with an original maturity of three months or less to be cash equivalents. The Company had cash equivalents of approximately $3,100 as of March 31, 2024 and December 31, 2023.
+
+ 
+
+The Company maintains cash deposits at several financial institutions, which are insured by the Federal Deposit Insurance Corporation up to $250,000. The Company’s cash balance may at times exceed these limits. As of March 31, 2024, the Company had approximately $2.5 million in excess of federally insured limits. As of December 31, 2023, the Company had approximately $0.6 million in excess of federally insured limits. The Company continually monitors its positions with, and the credit quality of, the financial institutions with which it invests.
+
+ 
+
+Software Development Costs
+
+ 
+
+The Company accounts for costs incurred in the development of computer software as software research and development costs until the preliminary project stage is completed, management has committed to funding the project, and completion and use of the software for its intended purpose is probable.
+
+ 
+
+The Company ceases capitalization of development costs once the software has been substantially completed and is available for its intended use. Software development costs are amortized over a useful life estimated by the Company’s management of three years. Costs associated with significant upgrades and enhancements that result in additional functionality are capitalized. Capitalized costs are subject to an ongoing assessment of recoverability based on anticipated future revenues and changes in software technologies.
+
+ 
+
+Unamortized capitalized software development costs determined to be in excess of anticipated future net revenues are considered impaired and expensed during the period of such determination. The Company determined that no such impairments were required during the three months ended March 31, 2024 and 2023. Software development costs of $273,388 and $270,574 were capitalized for the three months ended March 31, 2024 and 2023, respectively. Amortization of capitalized software development costs was $476,918 and $436,425 for the three months ended March 31, 2024, and 2023, respectively and is included in depreciation and amortization expense in the Company’s condensed statement of operations.
+
+ 
+
+Revenue Recognition
+
+ 
+
+Revenue will be measured according to Accounting Standards Codification (“ASC”) 606, Revenue – Revenue from Contracts with Customers, and will be recognized based on consideration specified in a contract with a customer, and excludes any sales incentives and amounts collected on behalf of third parties. The Company will recognize revenue when a performance obligation is satisfied by transferring control over a service or product to a customer. The Company will report revenues net of any tax assessed by a governmental authority that is both imposed on, and concurrent with, a specific revenue-producing transaction between a seller and a customer in the condensed statements of operations. Collected taxes will be recorded within Other current liabilities until remitted to the relevant taxing authority.
+
+ 
+
+Subscriber revenue will consist primarily of subscription fees and other ancillary subscription-based revenues. Revenue will be recognized on a straight-line basis when the performance obligations to provide each service for the period are satisfied, which is over time as our subscription services are continuously available and can be consumed by customers at any time. There is no revenue recognized for unpaid trial subscriptions.
+
+ 
+
+Customers may pay for the services in advance of the performance obligation and therefore these prepayments would be recorded as deferred revenue. The deferred revenue will be recognized as revenue in the statement of operations as the services are provided.
+
+ 
+
+ 
+
+ 
+
+                                                                   10                                                                   
+
+ 
+
+ 
+
+Share-Based Compensation
+
+ 
+
+The Company accounts for share-based compensation arrangements with employees, directors, and consultants and recognizes the compensation expense for share-based awards based on the estimated fair value of the awards on the date of grant in accordance with ASC 718.
+
+ 
+
+Compensation expense for all share-based awards is based on the estimated grant-date fair value and recognized in earnings over the requisite service period (generally the vesting period). The Company records share-based compensation expense related to non-employees over the related service periods.
+
+ 
+
+Certain share-based compensation awards include a net-share settlement feature that provides the grantee an option to withhold shares to satisfy tax withholding requirements and are classified as a share-based compensation liability. Cash paid to satisfy tax withholdings is classified as financing activities in the condensed statements of cash flows.
+
+ 
+
+Reclassifications
+
+ 
+
+Certain prior period amounts have been reclassified to conform to the current period presentation. The reclassifications did not have an impact on net loss as previously reported.
+
+ 
+
+Note 2 – Property & Equipment, Intangible Assets, and Software Development Costs 
+
+ 
+
+Property and equipment and software development costs consisted of the following as of:
+
+Schedule of property, equipment and software development costs                                                                        
+
+                                                                                                 March 31,           December 31,     
+
+                                                                                                    2024                 2023
+
+                                                                                                                                      
+
+Computers and equipment                                                                      $          102,348  $          102,348 
+
+Furniture                                                                                                 7,263               7,263 
+
+Accumulated depreciation                                                                                (98,006)            (91,512)
+
+Total property and equipment, net                                                            $           11,605  $           18,099 
+
+                                                                                                                                    
+
+Domain name                                                                                  $            3,947  $            3,947 
+
+Accumulated amortization                                                                                   (334)                  – 
+
+Total intangible assets, net                                                                 $            3,613  $            3,947 
+
+                                                                                                                                    
+
+Software development costs                                                                   $        7,928,594  $        7,655,206 
+
+Accumulated amortization                                                                             (4,784,190)         (4,307,271)
+
+Total software development costs, net                                                        $        3,144,405  $        3,347,935 
+
+ 
+
+The Company recognized depreciation expense of $6,494 and $6,610 for the three months ended March 31, 2024 and 2023, respectively related to property and equipment, amortization expense of $334 and $0 for the three months ended March 31, 2024 and 2023 related to intangible assets, and amortization expense of $476,918 and $436,425 for the three months ended March 31, 2024 and 2023, respectively related to software development costs.
+
+ 
+
+ 
+
+ 
+
+                                                                   11                                                                   
+
+ 
+
+ 
+
+Note 3 – Accounts Payable and Accrued Liabilities
+
+ 
+
+Accounts payable and accrued liabilities consist of the following:
+
+Schedule of accounts payable and accrued liabilities                                                                                  
+
+                                                                                                  March 31,          December 31,     
+
+                                                                                                    2024                 2023
+
+                                                                                                                                      
+
+Accounts payable and accrued liabilities                                                     $          478,882  $          424,510 
+
+Credit cards payable                                                                                     11,131              16,975 
+
+Accrued interest                                                                                        621,316             470,179 
+
+Accounts payable and accrued liabilities                                                     $        1,111,329  $          911,664 
+
+ 
+
+Note 4 – Notes Payable to Related Party, net of debt issuance costs
+
+ 
+
+During November 2022, the Company entered into a Secured Bridge Note (the “Prior Note”) financing with an accredited investor and existing shareholder of the Company. The Prior Note had a principal amount of $2,200,000, including an original issue discount of $200,000. The Prior Note bore interest at an annual stated interest rate of 10% with an original maturity date of May of 2023. The Prior Note is secured by a lien on substantially all of the Company’s assets. At maturity, the lender had the option to convert the original issue discount and accrued but unpaid interest into shares of the Company’s common stock at a fixed conversion price of $30.75 per share. The conversion option was available to the lender at the earlier of (i) maturity, or (ii) payback of all the principal. The embedded conversion option was not accounted for separately, in accordance with the guidance outlined in ASC 815-40, as it was considered indexed to the Company’s shares. The Company had the option to extend the maturity date by six months to November 2023. In the event of an extension, the Company will issue additional warrants, and the interest rate on the Note will increase to 20%.
+
+ 
+
+In connection with the Prior Note financing, the Company issued 12,000 common stock warrants with a five-year term at an exercise price of $52.50 per share. At the time of issuance, the common stock warrants were valued at $361,878 and recorded as a debt discount to the Prior Note. The issued common stock warrants were classified as equity as they were indexed to the Company’s shares in accordance with ASC 815-40.
+
+ 
+
+During April 2023, the Company entered into an additional Secured Bridge Note (the “New Note”) financing with the same accredited investor and significant existing shareholder. The New Note had a principal amount of $825,000, including an original issue discount of $75,000. The New Note bore interest at an annual stated interest rate of 10% with an original maturity date of July 2023. The New Note is secured by a lien on substantially all of the Company’s assets. At maturity, the lender had the option to convert the original issue discount and accrued but unpaid interest into shares of the Company’s common stock at a fixed conversion price of $52.50 per share. The conversion option was available to the lender at the earlier of (i) maturity, or (ii) payback of all the principal. The embedded conversion option was not accounted for separately, in accordance with the guidance outlined in ASC 815-40, as it was considered indexed to the Company’s shares.
+
+ 
+
+In connection with the New Note financing, the Company issued 26,000 common stock warrants with a five-year term at an exercise price of $52.50 per share, from which 13,000 common stock warrants were exercisable immediately and were exercisable in the event that the loan term is extended. At the time of issuance, the common stock warrants were valued at $252,940, which was recorded as an additional debt discount to the New Note. The issued common stock warrants were classified as equity as they were indexed to the Company’s shares in accordance with ASC 815-40.
+
+ 
+
+During April 2023, the Company also modified the terms of the Prior Note and cancelled the original 12,000 common stock warrants issued with the Prior Note. The Company recognized the modification in accordance with ASC 815-40-35, which resulted in the recognition of debt discount in the amount of $35,981. In lieu of the cancelled common stock warrants, the Company issued 24,000 new common stock warrants with a five-year term at an exercise price of $52.50 per share. From the newly issued 24,000 new common stock warrants, 12,000 common stock warrants were fully vested and immediately exercisable, while the remaining 12,000 common stock warrants remained unvested. The issued common stock warrants were classified as equity as they were indexed to the Company’s shares in accordance with ASC 815-40.
+
+ 
+
+ 
+
+ 
+
+                                                                   12                                                                   
+
+ 
+
+ 
+
+In May of 2023, the Company renegotiated with the lender an extension of the maturity date of the Prior Note for six months to November 2023 with an increased annual interest rate of 20% and issued an additional 12,000 common stock warrants to the lender. The additional common stock warrants were valued at $94,083 and recorded as an additional debt discount. The issued common stock warrants were classified in equity as they were considered indexed to the Company’s shares in accordance with ASC 815-40. In connection with this extension, the 12,000 outstanding unvested warrants became vested and exercisable.
+
+ 
+
+On July 31, 2023, the Company extended the maturity date of the New Note to November 30, 2023. In connection with such extension, 13,000 outstanding unvested common stock warrants became vested and exercisable. There was no change in the application of the accounting under ASC 815-40.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the balance of the Prior Note, net of debt issuance costs, was $2,200,000. Interest expense related to the Prior Note, including interest incurred, amortization of the debt discount, and the warrant amortization for the three months ended March 31, 2024 and 2023 was $110,000 and $305,941, respectively. As of March 31, 2024 and December 31, 2023, the balance of the New Note issued in April 2023, net of debt issuance costs, was $825,000. Interest expense related to the New Note, including interest incurred, amortization of the debt discount, and the warrant amortization for the three months ended March 31, 2024 was $41,137.
+
+ 
+
+On April 9, 2024, the Company and the investor entered into an Amendment and Waiver Agreement relating to the Notes (see Note 9).
+
+ 
+
+Note 5 – Commitments and Contingencies
+
+ 
+
+Operating Lease
+
+ 
+
+On March 25, 2024, the Company entered into a new 37-month operating lease commencing on April 1, 2024 with two separate two year renewal options. The monthly base rent for months two through 14 is $2,456, increasing to $3,070 for months 15 through 26, and ending at $3,684 for months 27 through 37. Rent expense, as part of general and administrative expenses in the condensed statement of operations, was $22,480 for the three months ended March 31, 2024, which related to a temporary month-to-month lease the Company entered into until a long-term space was identified. Rent expense was $12,053 for the three months ended March 31, 2023 under the former lease that terminated in December 2023.
+
+ 
+
+Litigation
+
+ 
+
+In the normal course of business, the Company is party to litigation from time to time. The Company maintains insurance to cover certain actions and believes that resolution of such litigation will not have a material adverse effect on the Company. There are no active litigations as of the date the financial statements were issued. However, a pre-IPO investor has contacted the Company claiming damages caused by alleged acts and omissions arising from a private financing by the Company. No complaint has been filed by the investor. The alleged damages asserted by the investor are less than approximately $300,000. The outcome of the complaint was neither probable or estimable as of the date the financial statements were issued, therefore, no accrual has been made.
+
+ 
+
+NASDAQ Deficiencies
+
+ 
+
+The Nasdaq listing rules require listed securities to maintain a minimum bid price of $1.00 per share. As previously reported in the Current Report on Form 8-K filed on November 28, 2023, the Company received a written notice from Nasdaq indicating that it was not in compliance with the $1.00 minimum bid price requirement set forth in Nasdaq Listing Rule 5550(a)(2) for continued listing. As a result, the Nasdaq staff determined to delist the Company’s Common Stock from Nasdaq, unless the Company timely requests an appeal of the Staff’s determination to a Hearings Panel (the “Panel”), pursuant to the procedures set forth in the Nasdaq Listing Rule 5800 Series. The hearing with the Panel occurred on January 18, 2024.
+
+  
+
+ 
+
+ 
+
+                                                                   13                                                                   
+
+ 
+
+ 
+
+On November 21, 2023, the Company received a written notice from Nasdaq indicating that it was not in compliance with Nasdaq Listing Rule 5550(b)(1), which requires companies listed on The Nasdaq Capital Market to maintain a minimum of $2,500,000 in stockholders’ equity for continued listing (the “Stockholders’ Equity Requirement”). In the Company’s quarterly report on Form 10-Q for the period ended September 30, 2023, the Company reported stockholders’ equity of $2,415,012, and, as a result, did not satisfy Listing Rule 5550(b)(1). Nasdaq’s November written notice had no immediate impact on the listing of our common stock. The hearing with the Panel occurred on January 18, 2024, and addressed all outstanding listing compliance matters, including compliance with the Stockholders’ Equity Notice as well as compliance with the Bid Price Requirement.
+
+ 
+
+On January 30, 2024, the Panel granted the Company’s request for an exception to Nasdaq’s listing rules until April 22, 2024, to demonstrate compliance with all applicable continued listing requirements for the Nasdaq Capital Market.
+
+ 
+
+On March 20, 2024, the Company received a letter from Nasdaq stating it had regained compliance with the minimum bid requirement. The Panel reminded the Company that although it regained compliance with the minimum bid requirement, it is also required to regain compliance with the equity requirement. Therefore, this matter will remain open until the Company demonstrates compliance with all requirements.
+
+ 
+
+On April 16, 2024, the Company received a letter from Nasdaq granting an exception to the Exchange’s listing rules until May 20, 2024, to demonstrate compliance with Listing Rule 5550(b)(1) (the “Equity Rule”).
+
+ 
+
+The Company intends to consider all options to regain and maintain compliance with all Nasdaq continued listing requirements.
+
+ 
+
+The Company’s receipt of these Nasdaq letters does not affect the Company’s business, operations or reporting requirements with the Securities and Exchange Commission.
+
+ 
+
+Note 6 – Share-based Issuances
+
+ 
+
+Stock Options
+
+ 
+
+The following table presents the activity for stock options outstanding:
+
+Schedule of stock option activity                                                                                                     
+
+                                                                                                   Options         Weighted Average   
+
+                                                                                                                        Exercise
+
+                                                                                                                         Price
+
+Outstanding - December 31, 2023                                                                          84,895  $             47.79 
+
+Granted                                                                                                       –                    – 
+
+Forfeited/canceled                                                                                            –                    – 
+
+Exercised                                                                                                     –                    – 
+
+Outstanding – March 31, 2024                                                                             84,895  $             47.79 
+
+
+
+                                                                                                                                      
+
+                                                                                                   Options        Weighted Average  
+
+                                                                                                                       Exercise
+
+                                                                                                                        Price
+
+Outstanding - December 31, 2022                                                                          66,527  $            61.25 
+
+Granted                                                                                                   6,008               28.00 
+
+Forfeited/canceled                                                                                         (100)              44.75 
+
+Exercised                                                                                                     –                   – 
+
+Outstanding – March 31, 2023                                                                             72,435  $            58.50 
+
+ 
+
+ 
+
+ 
+
+                                                                   14                                                                   
+
+ 
+
+ 
+
+The following table presents the composition of options outstanding and exercisable:
+
+  Schedule of options outstanding and                                                                                           
+
+               exercisable
+
+                                                         Options Outstanding**                          Options Exercisable**        
+
+            Exercise Prices                   Number            Price            Life*             Number            Price*     
+
+                 $67.56                               893  $         67.56              0.25               893  $         67.56 
+
+                 $72.39                             2,131  $         72.54              3.61             2,131  $         72.39 
+
+                $106.50                             6,853  $        106.50              5.23             6,853  $        106.50 
+
+                 $69.75                            30,891  $         69.75              6.73            27,191  $         69.75 
+
+                 $44.75                             7,850  $         44.75              7.46             4,475  $         44.75 
+
+                 $30.25                            15,577  $         30.25              8.45            14,247  $         30.25 
+
+                 $9.90                              2,000  $          9.90              9.19                 –  $          9.90 
+
+                 $6.25                             18,700  $          6.25              9.71                 –  $          6.25 
+
+         Total – March 31, 2024                    84,895                                               55,790                  
+
+ 
+
+*   Price and Life reflect the weighted average exercise price and weighted average remaining contractual life, respectively.
+
+**  The Company’s options summarized above have been retroactively restated for the effect of the 25-for-1 reverse stock split. 
+
+   
+
+Restricted Stock Units
+
+ 
+
+The following table presents the activity for restricted stock units outstanding:
+
+Schedule of restricted stock outstanding                                                                                              
+
+                                                                                              Restricted Stock     Weighted Average   
+
+                                                                                                    Units           Grant Date Fair
+
+                                                                                                                         Value
+
+Outstanding - December 31, 2023                                                                          11,490  $             59.36 
+
+Granted                                                                                                       –                    – 
+
+Forfeited/canceled                                                                                            –                    – 
+
+Vested/issued                                                                                                 –                    – 
+
+Outstanding – March 31, 2024                                                                             11,490  $             59.36 
+
+ 
+
+                                                                                                                                      
+
+                                                                                              Restricted Stock     Weighted Average   
+
+                                                                                                    Units           Grant Date Fair
+
+                                                                                                                         Value
+
+Outstanding - December 31, 2022                                                                          22,554  $             53.50 
+
+Granted                                                                                                   1,500                31.00 
+
+Forfeited/canceled                                                                                            –                    – 
+
+Vested/issued                                                                                           (11,564)               47.00 
+
+Outstanding – March 31, 2023                                                                             12,490  $             57.00 
+
+ 
+
+The Company recognized share-based compensation expense related to stock options and restricted stock units of $173,289 and $357,680 for the three months ended March 31, 2024 and 2023, respectively. The remaining unvested share-based compensation expense of $535,010 is expected to be recognized over the next 45 months.
+
+   
+
+Note 7 – Equity Financings
+
+ 
+
+Equity Line Sales of Common Stock
+
+ 
+
+On November 14, 2022, the Company entered into a Common Stock Purchase Agreement (the “White Lion Purchase Agreement”) with White Lion Capital, LLC, a Nevada limited liability company (“White Lion”) for an equity line facility.
+
+ 
+
+ 
+
+ 
+
+                                                                   15                                                                   
+
+ 
+
+ 
+
+In April and June 2023, the Company closed on three sales of Common Stock under the White Lion Purchase Agreement. As a result, the Company issued an aggregate of 2,361,514 common shares and received aggregate proceeds of approximately $1.3 million.
+
+ 
+
+Any proceeds that the Company receives under the White Lion Purchase Agreement are expected to be used for working capital and general corporate purposes.
+
+ 
+
+The White Lion Purchase Agreement prohibits the Company from issuing and selling any shares of common stock to White Lion to the extent such shares, when aggregated with all other shares of our common stock then beneficially owned by White Lion, would cause White Lion’s beneficial ownership of common stock to exceed 9.99% (the “Beneficial Ownership Cap”).
+
+ 
+
+The Company recognized all offering costs related to the equity line of credit as deferred offering costs in accordance with the guidance in ASC 835-30-S45.
+
+ 
+
+Replacement Equity Line with White Lion
+
+ 
+
+On November 6, 2023, the Company entered into a new Common Stock Purchase Agreement and a related registration rights agreement with White Lion. Pursuant to the new Common Stock Purchase Agreement, the Company has the right, but not the obligation to require White Lion to purchase, from time to time until December 31, 2024, up to $10,000,000 in aggregate gross purchase price of newly issued shares of the Company’s common stock, subject to certain limitations and conditions set forth in the Common Stock Purchase Agreement. In connection with the new Common Stock Purchase Agreement, the parties agreed to terminate the previous Common Stock Purchase Agreement with White Lion.
+
+ 
+
+In February and March 2024, the Company closed on seven sales of Common Stock under the White Lion Purchase Agreement. As a result, the Company issued an aggregate of 1,340,000 common shares and received aggregate proceeds of approximately $3.6 million.
+
+ 
+
+Warrants
+
+ 
+
+The following table presents the activity for warrants outstanding:
+
+Schedule of warrant activity                                                                                                        
+
+                                                                                                Warrants          Weighted Average   
+
+                                                                                                                       Exercise
+
+                                                                                                                        Price
+
+Outstanding - December 31, 2023                                                                       217,448   $             96.00 
+
+Granted                                                                                                     –                     – 
+
+Forfeited/cancelled/restored                                                                                –                     – 
+
+Exercised                                                                                                   –                     – 
+
+Outstanding – March 31, 2024                                                                          217,448   $             96.00 
+
+  
+
+ 
+
+ 
+
+                                                                   16                                                                   
+
+ 
+
+ 
+
+Note 8 – Leases
+
+ 
+
+The Company leases certain office space under operating leases for use in operations. The Company recognizes operating lease expense on a straight-line basis over the lease term. Management determines if an arrangement is a lease at contract inception. Lease and non-lease components are accounted for as a single component for all leases. Operating lease right to use (“ROU”) assets and liabilities are recognized at the lease commencement date based on the present value of the future lease payments over the expected lease term, which includes optional renewal periods if the Company determines it is reasonably certain that the option will be exercised. As the operating lease does not provide an implicit rate, the discount rate used in the present value calculation represents the incremental borrowing rate determined using information available at the commencement date. For the three months ended March 31, 2024 and 2023, the Company recorded operating lease expense of zero as the lease commences on April 1, 2024. At March 31, 2024, weighted-average remaining lease term and discount rate were as follows:
+
+ 
+
+Lease cost information                                                                                               March 31, 2024    
+
+Weighted-average remaining lease term                                                                                       4.0 years 
+
+Weighted-average discount rate                                                                                                   8.6% 
+
+ 
+
+The following is a maturity analysis of the annual undiscounted cash flows reconciled to the carrying value of the operating lease liabilities as of March 31, 2024:
+
+Annual undiscounted cash flows of leases                                                                                               
+
+Years Ended December 31,                                                                                                               
+
+2024                                                                                                               $           19,647 
+
+2025                                                                                                                           33,768 
+
+2026                                                                                                                           41,135 
+
+2027                                                                                                                           14,735 
+
+Less imputed interest                                                                                                         (15,039)
+
+Total                                                                                                              $           94,246 
+
+ 
+
+Note 9 – Subsequent Events
+
+ 
+
+Notes Payable to Related Party
+
+ 
+
+As previously disclosed in Note 4, in November 2022 and April 2023, the Company entered into secured bridge note (“Bridge Notes”) financings with one accredited investor who is a significant existing stockholder of the Company. The Company received $2.75 million of gross proceeds in connection with the Bridge Note financings. The Bridge Notes are currently due. In connection with the issuance of the Bridge Notes, the Holder also holds 50,000 common stock warrants with a current exercise price of $15.25 per share.
+
+ 
+
+On April 9, 2024, the Company and the investor entered into an Amendment and Waiver Agreement relating to the Bridge Notes.
+
+ 
+
+Principal Repayment
+
+ 
+
+The Company agreed to pay $2.75 million in cash to the Investor in repayment of the principal of the Bridge Notes (exclusive of the $275,000 of original issue discount on the Bridge Notes) shortly after the closing by the Company of one or more equity financings with total gross proceeds to the Company of not less than $6,000,000.
+
+ 
+
+On April 26, 2024, the Company repaid $2.75 million of principal on its Secured Bridge Notes.
+
+ 
+
+ 
+
+ 
+
+                                                                   17                                                                   
+
+ 
+
+ 
+
+Equity Conversion
+
+ 
+
+Effective April 9, 2024, the Investor converted $911,384 (the “Rollover Amount”) which is equal to the (i) unpaid accrued interest on the Bridge Notes plus (ii) the original issue discount (“OID”) on the Bridge Notes, into equity securities of the Company (the “Rollover Securities”).
+
+ 
+
+The Rollover Securities consist of (i) 463,337 prefunded common stock warrants with a per share exercise price of $0.001 per share (the “Prefunded Warrants”) and (ii) 463,337 non-prefunded warrants (the “Non-Prefunded Warrants”) with a per share exercise price equal to $1.967. As of the date and time of the Amendment and Waiver Agreement, the Nasdaq Minimum Price (as defined in the applicable Nasdaq listing rules) for the Company’s common stock was $1.966.
+
+ 
+
+The number of Prefunded Warrants was determined by dividing the Rollover Amount by $1.967. The number of Non-Prefunded Warrants is equal to the number of Prefunded Warrants (i.e. 100% warrant coverage). The Non-Prefunded Warrants have a price adjustment provision which will adjust the exercise price downward in the event that the Company issues equity securities in the future at an effective per share price below the then current exercise price. In order to assure compliance with applicable Nasdaq rules, the Non-Prefunded Warrants shall not be exercisable for six months following the date of issue.
+
+ 
+
+Fee Warrants
+
+ 
+
+The Company issued to the Investor 50,000 new common stock warrants with a five-year term as a loan extension fee (“Fee Warrants”). The exercise price of these additional Fee Warrants is $1.967. The Fee Warrants have a price adjustment provision which will adjust the exercise price downward in the event that the Company issues equity securities in the future at an effective per share price below the then current exercise price. In order to assure compliance with applicable Nasdaq rules, the Fee Warrants shall not be exercisable for six months following the date of issue.
+
+ 
+
+Repricing of Existing Warrants
+
+ 
+
+The Company agreed to adjust the exercise price of the Investor’s Existing Warrants from $15.25 (after adjustment for the recent reverse stock) to $1.967 per share. 
+
+  
+
+Ownership and Exercise Limitations
+
+ 
+
+The Investor will not be able to receive shares upon exercise of any of the foregoing securities, unless prior stockholder approval is obtained, if (i) the number of shares to be issued would exceed 20% of the Company’s outstanding number of shares at a discount to the applicable Nasdaq Minimum Price or (ii) the number of shares to be issued would result in in a Change of Control within the meaning of Nasdaq Rule 5635(b).
+
+ 
+
+$2.3 Million Convertible Preferred Stock and Warrants Financing 
+
+ 
+
+On April 23, 2024, the Company entered into a securities purchase agreement with accredited investors for a convertible preferred stock and warrants financing. The Company has received $2,314,000 of gross proceeds in connection with the closing of this financing.
+
+ 
+
+At the closing, the Company issued 2,314 shares of Series B convertible preferred stock (“Series B Preferred Stock”) at a purchase price of $1,000 per share of Series B Preferred Stock. The Series B Preferred Stock is convertible into Common Stock at an initial conversion price (“Conversion Price”) of $1.851 per share of Common Stock. The Company also issued warrants (“Warrants”) exercisable for 1,250,137 shares of Common Stock with a five year term and an initial exercise price of $1.851 per share.
+
+ 
+
+The proceeds of this financing, together with other available cash resources, will be used to repay outstanding debt and for general corporate purposes.
+
+ 
+
+The Company believes that the closing of this financing, together with other recent financing activities, will bring the Company back into compliance with the Nasdaq stockholders’ equity requirement for continued listing on the Nasdaq Capital Market.
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   18                                                                   
+
+ 
+
+ 
+
+Item 2.      Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ 
+
+The following discussion and analysis should be read in conjunction with the unaudited condensed financial statements and related notes included elsewhere in this Quarterly Report and our audited financial statements and related notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2023, which was filed with the SEC on April 1, 2024. This discussion and analysis and other parts of this Quarterly Report contain forward-looking statements based upon current beliefs, plans and expectations that involve risks, uncertainties and assumptions, such as statements regarding our plans, objectives, expectations, intentions and projections. Our actual results and the timing of selected events could differ materially from those anticipated in these forward-looking statements as a result of several factors, including those set forth under Part II, Item 1A, “Risk Factors” and elsewhere in this Quarterly Report. You should carefully read the “Risk Factors” section of this Quarterly Report and of our Annual Report on Form 10-K for the year ended December 31, 2023, to gain an understanding of the important factors that could cause actual results to differ materially from our forward-looking statements. Please also see the section entitled “Special Note Regarding Forward-Looking Statements.”
+
+ 
+
+Overview
+
+ 
+
+Auddia is a technology company headquartered in Boulder, CO that is reinventing how consumers engage with audio through the development of a proprietary AI platform for audio and innovative technologies for podcasts. Auddia is leveraging these technologies within its industry-first audio Superapp, faidr (previously known as the Auddia App).
+
+ 
+
+faidr gives consumers the opportunity to listen to any AM/FM radio station with commercial breaks replaced with personalized audio content, including popular and new music, news, and weather. The faidr app represents the first-time consumers can combine the local content uniquely provided by AM/FM radio with commercial-free and personalized listening many consumers demand from digital-media consumption. In addition to commercial-free AM/FM, faidr includes podcasts – also with ads removed or easily skipped by listeners – as well as exclusive content, branded faidrRadio, which includes new artist discovery, curated music stations, and Music Casts. Music Casts are unique to faidr. Hosts and DJs can combine on-demand talk segments with dynamic music streaming, which allows users to hear podcasts with full music track plays embedded in the episodes.
+
+ 
+
+Auddia has also developed a differentiated podcasting capability with ad-reduction features and also provides a unique suite of tools that helps podcasters create additional digital content for their podcast episodes as well as plan their episodes, build their brand, and monetize their content with new content distribution channels. This podcasting feature also gives users the ability to go deeper into the stories through supplemental, digital content, and eventually comment and contribute their own content to episode feeds. The combination of AM/FM streaming and podcasting, with Auddia’s unique, technology-driven differentiators, addresses large and rapidly growing audiences.
+
+ 
+
+The Company has developed its AI platform on top of Google’s TensorFlow open-source library that is being “taught” to know the difference between all types of audio content on the radio. For instance, the platform recognizes the difference between a commercial and a song and is learning the differences between all other content to include weather reports, traffic, news, sports, DJ conversation, etc. Not only does the technology learn the differences between the various types of audio segments, but it also identifies the beginning and end of each piece of content.
+
+ 
+
+The Company is leveraging this technology platform within its premium AM/FM radio listening experience through the faidr App. The faidr App is intended to be downloaded by consumers who will pay a subscription fee in order to listen to any streaming AM/FM radio station and podcasts, all with commercial interruptions removed from the listening experience, in addition to the faidrRadio exclusive content offerings. Advanced features will allow consumers to skip any content heard on the station and request request audio content on-demand. We believe the faidr App represents a significant differentiated audio streaming product, or Superapp, that will be the first to come to market since the emergence of popular streaming music apps such as Pandora, Spotify, Apple Music, Amazon Music, etc. We believe that the most significant point of differentiation is that in addition to ad-free AM/FM streaming and ad-free podcasts, the faidr App is intended to deliver non-music content that includes local sports, news, weather, traffic and the discovery of new music alongside exclusive programming. No other radio streaming app available today, including category leaders like TuneIn, iHeart, and Audacy, can compete with faidr’s full product offerings.  
+
+ 
+
+ 
+
+ 
+
+                                                                   19                                                                   
+
+ 
+
+ 
+
+The Company launched an MVP version of faidr through several consumer trials in 2021 to measure consumer interest and engagement with the App. The full app launched on February 15, 2022, and included all major U.S. radio stations in the US. In February 2023, we added faidrRadio, our exclusive content offerings, to the app. Podcasts (standard) were added to the app for the iOS version before the end of Q1 2023 as planned and added to the Android app in May of 2023. Podcast functionality will continue to be enhanced through 2024, including the deployment of the Company’s ad-reduction technology.
+
+ 
+
+The Company also developed a testbed differentiated podcasting capability called Vodacast, which leveraged technologies and proven product concepts to differentiate its podcasts offering from other competitors in the radio-streaming product category.
+
+ 
+
+With podcasting growing and predicted to grow at a rapid rate, the Vodacast podcast platform was conceptualized to fill a void in the emerging audio media space. The platform was built to become the preferred podcasting solution for podcasters by enabling them to deliver digital content feeds that match the audio of their podcast episodes, and by enabling podcasters to make additional revenue from new digital advertising channels, subscription channels, on-demand fees for exclusive content, and through direct donations from their listeners. Throughout 2023 and early 2024, Auddia has been migrating their podcasting capabilities into the flagship faidr app with the intention to sunset the Vodacast platform and instead bring the advanced podcasting functionality that was found on Vodacast into faidr as part of the overall strategy to build a single audio Superapp. This includes Auddia’s new podcast ad-reduction technology.
+
+ 
+
+Today, podcasters do not have a preference as to where their listeners access their episodes, as virtually all listening options (mobile apps and web players) deliver only their podcast audio. By creating significant differentiation on which they can make net new and higher margin revenue, we believe that podcasters will promote faidr to their listeners, thus creating a powerful, organic marketing dynamic.
+
+ 
+
+One innovative and proprietary part of Auddia’s podcast capabilities, originally presented on their Vodacast differentiated podcasting capability, is the availability of tools to create and distribute an interactive digital feed, which supplements podcast episode audio with additional digital. These content feeds allow podcasters to tell deeper stories to their listeners while giving podcasters access to digital revenue for the first time. Podcasters will be able to build these interactive feeds using The Podcast Hub, a content management system that was originally developed and trialed as part of Auddia’s Vodacast platform, which also serves as a tool to plan and manage podcast episodes. The digital feed activates a new digital ad channel that turns every audio ad into a direct-response, relevant-to-the-story, digital ad, increasing the effectiveness and value of their established audio ad model. The feed also presents a richer listening experience, as any element of a podcast episode can be supplemented with images, videos, text and web links. This feed will appear fully synchronized in the faidr mobile App, and it also can be hosted and accessed independently (e.g., through any browser), making the content feed universally distributable.
+
+ 
+
+Over time, users will be able to comment, and podcasters will be able to grant some users publishing rights to add content directly into the feed on their behalf. This will create another first for podcasting, a dialog between creator and fan, synchronized to the episode content. The interactive feed for podcasts has been developed and tested on Vodacast and is expected to be another differentiator added into faidr for podcast listeners later in 2024.
+
+ 
+
+The podcast capabilities within faidr will also introduce a unique and industry first multi-channel, highly flexible set of revenue channels that podcasters can activate in combination to allow listeners to choose how they want to consume and pay for content. “Flex Revenue” allows podcasters to continue to run their standard audio ad model and complement those ads with direct response enabled digital ads in each episode content feed, increasing the value of advertising on any podcast. “Flex Revenue” will also activate subscriptions, on-demand fees for content (e.g., listen without audio ads for a micro payment fee) and direct donations from listeners. Using these channels in combination, podcasters can maximize revenue generation and exercise higher margin monetization models, beyond basic audio advertising. “Flex Revenue” and the initial inclusion of the new revenue channels that come with it will be added to podcasting in the faidr app, and the first elements of this new monetization capability is expected to be commercially available in 2024, beginning with subscription plans to access ad-reduction in podcasts. 
+
+ 
+
+The faidr mobile App is available today through the iOS and Android App stores.
+
+ 
+
+ 
+
+ 
+
+                                                                   20                                                                   
+
+ 
+
+ 
+
+We have funded our operations with proceeds from the February 2021 IPO, Series A warrants exercised in July 2021 and common share issuance during June of 2023. We also obtained debt financing through a related party during November 2022 and April 2023. In addition, we sold common shares during April 2023, June 2023, and the first quarter of 2024 pursuant to our equity line facility. Since our inception, we have incurred significant operating losses. As of March 31, 2024, we had an accumulated deficit of $82,750,658. Our ability to generate product revenue sufficient to achieve profitability will depend heavily on the successful development and commercialization of one or more of our Apps. We expect that our expenses and capital requirements will increase substantially in connection with our ongoing activities, particularly if and as we:
+
+ 
+
+  ·   nationally launch our faidr App and as we continue training our proprietary AI technology and make product enhancements;
+
+  ·   continue to develop and expand our technology and functionality to advance the faidr app;
+
+  ·   rollout our product on a national basis, which will include increasing our sales and marketing costs related to the promotion of
+
+       our products. faidr promotion will include a combination of a) purchasing ads directly from broadcasters or b) participating
+
+       broadcasters to promote without purchasing ads, but sharing a portion of subscription proceeds based on listening activity on
+
+       those
+
+       stations;
+
+  ·   continue to pursue and complete potential acquisitions of other companies;
+
+  ·   hire additional business development, product management, operational and marketing personnel;
+
+  ·   continue market studies of our products; and
+
+  ·   add operational and general administrative personnel which will support our product development programs, commercialization
+
+       efforts and our transition to operating as a public
+
+       company.
+
+ 
+
+As a result, we will need substantial additional funding to support our continuing operations and pursue our growth strategy. Until such time as we can generate significant revenue from product sales, if ever, we expect to finance our operations through the sale of equity, debt financings or other capital sources, which may include collaborations with other companies or other strategic transactions. We may be unable to raise additional funds or enter into such other agreements or arrangements when needed on favorable terms, or at all. If we fail to raise capital or enter into such agreements as and when needed, we may have to significantly delay, scale back or discontinue the development and commercialization of one or more of our product candidates.
+
+ 
+
+Because of the numerous risks and uncertainties associated with product development, we are unable to predict the timing or amount of increased expenses or when or if we will be able to achieve or maintain profitability. Even if we are able to generate product sales, we may not become profitable. If we fail to become profitable or are unable to sustain profitability on a continuing basis, then we may be unable to continue our operations at planned levels and be forced to reduce or terminate our operations.
+
+ 
+
+As of March 31, 2024, we had cash and cash equivalents of $2,732,538. The Company secured approximately $3.6 million in additional financing in February and March 2024. We will need additional funding to fund our debt, complete the development of our full product line and scale products with a demonstrated market fit. Management has plans to secure such additional funding. However, if we are unable to raise capital when needed or on acceptable terms, we would be forced to delay, reduce, or eliminate our technology development and commercialization efforts.
+
+ 
+
+To accelerate user acquisition, revenue, and cash flow, the Company has explored numerous potential acquisition targets of AM/FM streaming aggregators over the past year and a half and continues to explore new opportunities. At present, the Company is in advanced active discussions with two potential targets and seeking to execute one or more agreements in the near term. These business development transactions would require additional funding.
+
+ 
+
+Recent Developments
+
+ 
+
+Mergers and Acquisitions Strategy
+
+ 
+
+We are exploring various merger and acquisition options as part of a broader strategy which aims to scale the business more rapidly; accelerate user adoption and subscriber growth; enter new markets (international); and open new pathways toward raising capital. The overall strategy focuses on three areas: (1) acquiring users of a radio-streaming app, (2) bringing our proprietary ad-free products to the acquired userbase to generate significant subscription revenue, and (3) bringing together other differentiated features into the larger audio Superapp platform.
+
+ 
+
+The Company incurred $301,097 in costs related to evaluating potential acquisitions during the three months ended March 31, 2024..
+
+ 
+
+RFM Acquisition
+
+ 
+
+On January 26, 2024, we entered into a Purchase Agreement (the “RFM Purchase Agreement”), pursuant to which we agreed to acquire RadioFM (the “RFM Acquisition”), which is currently a component of both AppSmartz and RadioFM (partnerships under common control). The aggregate consideration for the RFM Acquisition is $13,000,000 (plus $2,000,000 in contingent consideration if certain post-close milestones are reached), in addition to the assumption of certain liabilities, as may be adjusted pursuant to the terms of the RFM Purchase Agreement.
+
+ 
+
+ 
+
+ 
+
+                                                                   21                                                                   
+
+ 
+
+ 
+
+In March 2024, the parties mutually agreed to terminate the RFM Purchase Agreement.
+
+ 
+
+Nasdaq Deficiency Notices
+
+ 
+
+The Nasdaq listing rules require listed securities to maintain a minimum bid price of $1.00 per share. As previously reported in our Current Report on Form 8-K filed on November 28, 2023, we received a written notice from Nasdaq indicating that the Company was not in compliance with the $1.00 minimum bid price requirement set forth in Nasdaq Listing Rule 5550(a)(2) for continued listing. As a result, the Nasdaq staff determined to delist the Company’s Common Stock from Nasdaq, unless the Company timely requests an appeal of the Staff’s determination to a Hearings Panel (the “Panel”), pursuant to the procedures set forth in the Nasdaq Listing Rule 5800 Series. Our hearing with the Panel occurred on January 18, 2024.
+
+ 
+
+On November 21, 2023, we received a written notice from Nasdaq indicating that we are not in compliance with Nasdaq Listing Rule 5550(b)(1), which requires companies listed on The Nasdaq Capital Market to maintain a minimum of $2,500,000 in stockholders’ equity for continued listing (the “Stockholders’ Equity Requirement”). In our quarterly report on Form 10-Q for the period ended September 30, 2023, we reported stockholders’ equity of $2,415,012, and, as a result, did not satisfy Listing Rule 5550(b)(1). Nasdaq’s November written notice had no immediate impact on the listing of our common stock. Our hearing with the Panel occurred on January 18, 2024 and addressed all outstanding listing compliance matters, including compliance with the Stockholders’ Equity Notice as well as compliance with the Bid Price Requirement.
+
+ 
+
+On January 30, 2024, the Panel granted the Company’s request for an exception to Nasdaq’s listing rules until April 22, 2024, to demonstrate compliance with all applicable continued listing requirements for the Nasdaq Capital Market.
+
+ 
+
+On March 20, 2024, we received a letter from Nasdaq stating we had regained compliance with the minimum bid requirement. The Panel reminded us that although we regained compliance with the minimum bid requirement, we are also required to regain compliance with the equity requirement. Therefore, this matter will remain open until we demonstrate compliance with all requirements.
+
+ 
+
+On April 16, 2024, the Company received a letter from Nasdaq granting an exception to the Exchange’s listing rules until May 20, 2024, to demonstrate compliance with Listing Rule 5550(b)(1) (the “Equity Rule”.)
+
+ 
+
+We intend to consider all options to regain and maintain compliance with all Nasdaq continued listing requirements.
+
+ 
+
+Reverse Share Split
+
+ 
+
+The Company filed an amendment to its Certificate of Incorporation with the Secretary of State in Delaware which became effective as of 5:00 P.M. Eastern Time on February 26, 2024. As a result, every twenty-five (25) issued shares of common stock were automatically combined into one share of common stock.
+
+ 
+
+Shares of the Company’s common stock were assigned a new CUSIP number (05072K 206) and began trading on a split-adjusted basis on February 27, 2024.
+
+ 
+
+The reverse stock split did not change the authorized number of shares of the Company’s common stock. No fractional shares were issued and any fractional shares resulting from the reverse stock split were rounded up to the nearest whole share. Therefore, stockholders with less than 25 shares received one share of stock.
+
+ 
+
+The reverse stock split applied to the Company’s outstanding warrants, stock options and restricted stock units. The number of shares of common stock into which these outstanding securities are convertible or exercisable were adjusted proportionately as a result of the reverse stock split. The exercise prices of any outstanding warrants or stock options were also proportionately adjusted in accordance with the terms of those securities and the Company’s equity incentive plans.
+
+ 
+
+ 
+
+ 
+
+                                                                   22                                                                   
+
+ 
+
+ 
+
+Impact of Inflation
+
+ 
+
+We have recently experienced higher costs across our business as a result of inflation, including higher costs related to employee compensation and outside services. We expect inflation to continue to have a negative impact throughout 2024, and it is uncertain whether we will be able to offset the impact of inflationary pressures in the near term.
+
+ 
+
+Components of our results of operations
+
+ 
+
+Operating expenses
+
+ 
+
+Direct costs of services
+
+ 
+
+Direct cost of services consists primarily of costs incurred related to our technology and development of our Apps, including hosting and other technology related expenses. We expect our direct costs of services to increase in the future as we continue to develop and enhance our technology related to the faidr and podcasting Apps. 
+
+ 
+
+Sales and marketing
+
+ 
+
+Our sales and marketing expenses consist primarily of salaries, direct to consumer promotional spend and consulting services, all of which are related to the sales and promotion performed during the period. We expect our sales and marketing expenses to fluctuate period by period as we release new upgrades and enhancements within our Apps and look to generate revenue through customer acquisition, retention, and subscription conversion.
+
+ 
+
+Research and development
+
+ 
+
+Since our inception, we have focused significant resources on our research and development activities related to the software development of our technology. We account for costs incurred in the development of computer software as software research and development costs until the preliminary project stage is completed, management has committed to funding the project, and completion and use of the software for its intended purpose is probable. We cease capitalization of development costs once the software has been substantially completed and is available for its intended use. Software development costs are amortized over a useful life estimated by our management of three years. Costs associated with significant upgrades and enhancements that result in additional functionality are capitalized. Capitalized costs are subject to an ongoing assessment of recoverability based on anticipated future revenues and changes in software technologies. Unamortized capitalized software development costs determined to be in excess of anticipated future net revenues are impaired and expensed during the period of such determination. We expect to continue to incur research and development expenses and capitalization in the future as we continue to develop and enhance our faidr and podcasting Apps.
+
+  
+
+General and administrative
+
+ 
+
+Our general and administrative expenses consist primarily of salaries and related costs, including payroll taxes, benefits, stock-based compensation, and professional fees related to auditing, tax, general legal services, and consulting services. We expect our general and administrative expenses to continue to increase in the future as we right-size our operating activities and prepare for commercialization of our products and support our operations as a public company, including increased expenses related to legal, accounting, insurance, regulatory and tax-related services associated with maintaining compliance with exchange listing and Securities and Exchange Commission requirements, directors and officers liability insurance premiums and investor relations activities.
+
+ 
+
+Other income and expense
+
+ 
+
+The other income and expense category primarily consists of interest expense attributed to the debt and conversion features of the Notes payable to related party.
+
+ 
+
+ 
+
+ 
+
+                                                                   23                                                                   
+
+ 
+
+ 
+
+Results of operations
+
+ 
+
+Comparison of the three months ended March 31, 2024
+
+ 
+
+The following table summarizes our results of operations:
+
+ 
+
+                                                             Three Months Ended                                                       
+
+                                                    March 31, 2024       March 31, 2023          Change $             Change %       
+
+Revenue                                           $                –  $                –                   –                0.0% 
+
+                                                                                                                                 
+
+Operating expenses:                                                                                                              
+
+Direct cost of services                                       48,173              42,301               5,872               13.9% 
+
+Sales and marketing                                          146,395             225,118             (78,723)             -35.0% 
+
+Research and development                                     165,507             210,126             (44,619)             -21.2% 
+
+General and administrative                                 1,210,799             926,826             283,973               30.6% 
+
+Depreciation and amortization                                483,746             443,035              40,711                9.2% 
+
+Total operating expenses                                   2,054,620           1,847,406             207,214               11.2% 
+
+Loss from operations                                      (2,054,620)         (1,847,406)           (207,214)              11.2% 
+
+                                                                                                                                 
+
+Other (expense) income:                                                                                                          
+
+Interest expense                                            (152,708)           (307,906)            155,198              -50.4% 
+
+Total other expense                                         (152,708)           (307,906)            155,198              -50.4% 
+
+Loss before income taxes                                  (2,207,328)         (2,155,312)            (52,016)               2.4% 
+
+Provision for income taxes                                         –                   –                   –                0.0% 
+
+Net loss                                          $       (2,207,328) $       (2,155,312)            (52,016)               2.4% 
+
+ 
+
+Revenue
+
+ 
+
+Total revenues for the three months ended March 31, 2024 and 2023 were $0 as we continue to develop and enhance our faidr and podcasting Apps to establish new revenue streams.
+
+ 
+
+Direct cost of services
+
+ 
+
+Direct Cost of Services increased $5,872 or 13.9% from $42,301 for the three months ended March 31, 2023, compared to $48,173 for the three months ended March 31, 2024. This increase was primarily the result of an increase in music service costs.
+
+ 
+
+Sales and marketing
+
+ 
+
+Sales and marketing expenses decreased by $78,723 or 35.0% from $225,118 for the three months ended March 31, 2023 to $146,395 for the three months ended March 31, 2024, which was primarily attributed to reduced marketing promotion costs associated with the national launch of the faidr app. We expect our sales and marketing expenses to fluctuate period by period as we release new upgrades and enhancements within our Apps and look to generate revenue through customer acquisition, retention, and subscription conversion.
+
+ 
+
+ 
+
+ 
+
+                                                                   24                                                                   
+
+ 
+
+ 
+
+Research and development
+
+ 
+
+Research and development expenses decreased by $44,619 or 21.2% from $210,126 for the three months ended March 31, 2023, to $165,507 for the three months ended March 31, 2024, which was primarily due to lower consulting fees.
+
+ 
+
+General and administrative
+
+ 
+
+General and administrative expenses increased by $283,973 or 30.6%, from $926,826 for the three months ended March 31, 2023, compared to $1,210,799 for the three months ended March 31, 2024. The increase was primarily driven by a $276,097 increase in accounting and legal fees related to the evaluation of potential acquisitions and additional regulatory filings that occurred during the three months ended March 31, 2024..
+
+ 
+
+Depreciation and amortization
+
+ 
+
+Depreciation and amortization expenses increased by $40,711 or 9.2%, from $443,035 for the three months ended March 31, 2023, compared to $483,746 for the three months ended March 31, 2024. The increase is entirely related to the increased amortization of our faidr and podcasting Apps.
+
+ 
+
+Other income (expense), net
+
+ 
+
+Total other expenses decreased by $155,198, from $307,906 for the three months ended March 31, 2023, to $152,708 for the three months ended March 31, 2024. The interest expense for the three months ended March 31, 2024 includes the interest component on the notes payable, while the interest expense for the three months ended March 31, 2023 includes both the interest expense and amortization of the original debt discount. The discount was fully amortized in 2023.
+
+ 
+
+Liquidity and capital resources
+
+ 
+
+Sources of liquidity
+
+ 
+
+We have incurred operating losses since our inception and have an accumulated deficit as a result of ongoing efforts to develop and commercialize our faidr and podcasting Apps. As of March 31, 2024 and December 31, 2023, we had cash and cash equivalents of $2,732,538 and $804,556, respectively. We have a deficit in working capital in the amount of approximately $1.4 million as of March 31, 2024. We anticipate that operating losses and net cash used in operating activities will increase over the next 12 months as we continue to develop and market our products. The Company secured $3.56 million of additional financing in April 2024, which enabled us to pay down $2.75 million in connection with the Secured Bridge Notes and will only be sufficient to fund our current operating plans into the third quarter of 2024. The Company has based these estimates, however, on assumptions that may prove to be wrong. We will need additional funding to complete the development of our full product line and scale products with a demonstrated market fit. Management has plans to secure such additional funding. If we are unable to raise capital when needed or on acceptable terms, we would be forced to delay, reduce, or eliminate our technology development and commercialization efforts.
+
+ 
+
+Interim Bridge Financings
+
+ 
+
+As previously disclosed, on November 14, 2022, we entered into a Secured Bridge Note (“Prior Note”) financing with one of our accredited investors, a significant existing shareholder of the Company. We received $2,000,000 of gross proceeds from the Prior Note financing. 
+
+ 
+
+On April 17, 2023, we entered into an additional Secured Bridge Note (“New Note”) financing with the same accredited investor from the Prior Note financing. We received $750,000 of gross proceeds from the New Note financing. The New Note was issued with a principal amount of $825,000, 10% interest rate and a maturity date on July 31, 2023. The New Note is secured by a lien on substantially all of our assets. At maturity of the New Note, the accredited investor, or our lender, has the option to convert any original issue discount and accrued but unpaid interest into shares of our common stock at a fixed conversion price of $15.25 per share.
+
+ 
+
+ 
+
+ 
+
+                                                                   25                                                                   
+
+ 
+
+ 
+
+In connection with the New Note financing, we issued 26,000 common stock warrants to the accredited investor with a five-year term and a fixed $15.25 per share exercise price, from which 13,000 of these common stock warrants are exercisable immediately. The remaining 13,000 common stock warrants would only become exercisable if the maturity date of the New Note is extended in accordance with the terms of the New Note. As of July 31, 2023, we extended the maturity date of the New Note to November 30, 2023. Upon the July 31, 2023 extension, the interest rate on the New Note increased to 20% from 10%, and the remaining portion of the 13,000 common stock warrants became exercisable. As of November 30, 2023, we extended the maturity date of the Prior Note and New Note to March 31, 2024. All terms of the Prior Note and New Note, such as interest rate and exercisable common stock warrants remained the same. The accredited investor did not exercise the common stock warrants as of December 31, 2023 or subsequent to December 31, 2023 and as of the date of this filing.
+
+ 
+
+Further, in connection with the New Note financing, the parties agreed to make certain amendments to the Prior Note financing. Specifically, the parties agreed to cancel the 12,000 common stock warrants issued as part of the prior financing and, in lieu of the cancelled warrants, issued the investor common stock warrants for 24,000 common shares with an exercise price of $15.25 per common share and a five-year term. From the newly issued 24,000 common stock warrants, 12,000 common stock warrants were exercisable immediately, while the other 12,000 common stock warrants became exercisable at the time of extension of the maturity date of the Prior Note during May of 2023.
+
+ 
+
+In order for the accredited investor to receive common shares from a conversion or exercise of the common stock warrants, an approval is required from the shareholders, if the number of common shares to be issued to the accredited investor, when aggregated with all other shares of common stock beneficially or deemed beneficially owned by the accredited investor would (i) result in the investor owning more than the Beneficial Ownership Limitation (as defined below), as determined in accordance with Section 13 of the Securities Exchange Act of 1934 or (ii) otherwise constitute a Change of Control within the meaning of Nasdaq Rule 5635(b). The “Beneficial Ownership Limitation” shall be 19.99% of the number of shares of the common stock outstanding immediately prior to the proposed issuance of shares of common stock.
+
+ 
+
+On April 9, 2024, the Company and the investor entered into an Amendment and Waiver Agreement relating to the Bridge Notes (refer to Note 8 of the condensed unaudited financial statements for additional information regarding the amendment to the secured bridge notes).
+
+ 
+
+On April 26, 2024, the Companay repaid $2.75 million of principal in connection with the Secured Bridge Notes.
+
+ 
+
+Equity Line Sales of Common Stock
+
+ 
+
+On November 14, 2022, we entered into a Common Stock Purchase Agreement (the “White Lion Purchase Agreement”) with White Lion Capital, LLC, a Nevada limited liability company (“White Lion”) for an equity line facility.
+
+ 
+
+On April 17 and April 20, 2023, we closed on two sales of Common Stock under the White Lion Purchase Agreement. We issued an aggregate of 1,962,220 common shares and received aggregate proceeds of approximately $1.12 million.
+
+ 
+
+Replacement Equity Line with White Lion
+
+ 
+
+On November 6, 2023, we entered into a new Common Stock Purchase Agreement and a related registration rights agreement with White Lion. Pursuant to the new Common Stock Purchase Agreement, we have the right, but not the obligation to require White Lion to purchase, from time to time until December 31, 2024, up to $10,000,000 in aggregate gross purchase price of newly issued shares of our common stock, subject to certain limitations and conditions set forth in the Common Stock Purchase Agreement. In connection with the new Common Stock Purchase Agreement, the parties agreed to terminate the previous Common Stock Purchase Agreement with White Lion.
+
+ 
+
+Through March 31, 2024, we sold 1,340,000 shares to White Lion for total proceeds of $3,606,508. Through the date of this report, we have sold 1,940,000 shares to White Lion for total proceeds of $4,852,508. We currently have effective registration statements that registers for resale by White Lion up to 5,165,263 shares of common stock that we may issue to White Lion under the Equity Line Purchase Agreement. After White Lion has acquired shares under the Equity Line Purchase Agreement, it may sell all, some or none of those shares. Sales to White Lion by us pursuant to the Equity Line Purchase Agreement may result in substantial dilution to the interests of other holders of our common stock.
+
+ 
+
+ 
+
+ 
+
+                                                                   26                                                                   
+
+ 
+
+ 
+
+Cash Flow Analysis
+
+ 
+
+Our cash flows from operating activities have historically been significantly impacted by our investment in sales and marketing to drive growth, and research and development expenses. Our ability to meet future liquidity needs will be driven by our operating performance and the extent of continued investment in our operations. Failure to generate sufficient revenues and related cash flows could have a material adverse effect on our ability to meet our liquidity needs and achieve our business objectives.
+
+ 
+
+The following table summarizes the statements of cash flows for the three months ended March 31, 2024 and 2023:
+
+ 
+
+                                                                                                   Three Months Ended March 31,        
+
+                                                                                                    2024                 2023         
+
+Net cash provided by (used in):                                                                                                     
+
+Operating activities                                                                         $       (1,405,138) $       (1,073,241)
+
+Investing activities                                                                                   (273,388)           (270,574)
+
+Financing activities                                                                                  3,606,508             (78,580)
+
+Change in cash                                                                               $        1,927,982  $       (1,422,394)
+
+ 
+
+Operating activities
+
+ 
+
+Cash used in operating activities for the three months ended March 31, 2024 was ($1,405,138), primarily resulting from our net loss of ($2,207,328) and change in working capital of $145,155 primarily related to an increase in accounts payable and accrued liabilities, offset by non-cash charges of $657,035 related to depreciation and amortization and share based compensation expense. Cash used in operating activities for both periods consisted of personnel-related expenditures, marketing and promotion costs, and public company administrative support costs such as legal and other professional support services.
+
+ 
+
+Cash used in operating activities for the three months ended March 31, 2023, was $1,073,241, primarily resulting from our net loss of $2,155,312 and change in working capital of $30,415 related to an increase in accounts payable and accrued liabilities, offset by non-cash charges of $1,051,656 related to depreciation and amortization, share based compensation expense, and finance charges associated with the debt issuance costs of the Secured Bridge Note (aka the Prior Note). Cash used in operating activities for both periods consisted of personnel-related expenditures, marketing and promotion costs, and public company administrative support costs such as legal and other professional support services.
+
+ 
+
+Investing activities
+
+ 
+
+Cash flows used in investing activities for the three months ended March 31, 2024 was $273,388, consisting entirely of capitalization of software development expenses.
+
+ 
+
+Cash flows used in investing activities for the three months ended March 31, 2023 was $270,574, consisting entirely of capitalization of software development expenses. 
+
+ 
+
+Financing activities
+
+ 
+
+Cash flows generated in financing activities for the three months ended March 31, 2024 was $3,606,508 and related entirely to cash proceeds from the issuance of common shares of $3,606,508.
+
+ 
+
+Cash flows used in financing activities for the three months ended March 31, 2023, was $78,580 related to cash paid by us related to the net-share settlement of vested restricted stock units during the quarter. 
+
+ 
+
+ 
+
+ 
+
+                                                                   27                                                                   
+
+ 
+
+ 
+
+Funding Requirements
+
+ 
+
+We historically have incurred significant losses and negative cash flows from operations since our inception and had an accumulated deficit of $82,750,658 and $80,543,330 as of March 31, 2024 and December 31, 2023, respectively. As of March 31, 2024 and December 31, 2023, we had cash and cash equivalents of $2,732,538 and $804,556, respectively. Our cash is comprised primarily of demand deposit accounts and money market funds. We secured $3.56 million of additional financing in April 2024, which enabled us to pay down $2.75 million in connection with the Secured Bridge Notes and will only be sufficient to fund our current operating plans into the third quarter of 2024. We have based these estimates, however, on assumptions that may prove to be wrong. We will need additional funding to complete the development of our full product line and scale products with a demonstrated market fit. Management has plans to secure such additional funding. If we are unable to raise capital when needed or on acceptable terms, we would be forced to delay, reduce, or eliminate our technology development and commercialization efforts.
+
+ 
+
+We expect our expenses to increase in connection with our ongoing activities, particularly as we continue the development, and marketing and promotion of faidr. In addition, we expect to continue to incur additional costs associated with operating as a public company, including legal, accounting, investor relations and other expenses. Our future funding requirements will depend on many factors, including, but not limited to:
+
+ 
+
+     ·    the scope, progress, results, and costs related to the market acceptance of our products;                                    
+
+     ·    the ability to attract podcasters and content creators to faidr and retain listeners on the platform;                        
+
+     ·    the costs, timing, and ability to continue to develop our technology;                                                        
+
+     ·    effectively addressing any competing technological and market developments; and                                              
+
+     ·    avoiding and defending against intellectual property infringement, misappropriation and other claims.                        
+
+ 
+
+Contractual Obligations
+
+ 
+
+The following table summarizes our contractual obligations not on our Balance Sheet as of March 31, 2024, and the effects that such obligations are expected to have on our liquidity and cash flows in future periods:
+
+ 
+
+                                                                                   Payments due by period                              
+
+                                                          Total        Less Than        1 - 3          4 - 5         More Than    
+
+                                                                        1 Year          Years          Years          5 Years
+
+Operating lease commitments:                                                                                                     
+
+Office lease (1)                                      $     109,285  $      27,014  $      78,587  $       3,684  $            – 
+
+Total operating lease commitments                     $     109,285  $      27,014  $      78,587  $       3,684  $            – 
+
+ 
+
+(1)  Represents minimum payments due for the lease of office space.
+
+ 
+
+Off-balance sheet arrangements
+
+ 
+
+We did not have during the periods presented, and we do not currently have, any off-balance sheet arrangements, as defined in the rules and regulations of the SEC.
+
+ 
+
+Critical Accounting Estimates
+
+ 
+
+Our financial statements and accompanying notes have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses, and related disclosures. On an ongoing basis, we continually evaluate our estimates and assumptions believed to be reasonable under current facts and circumstances. Actual amounts and results may materially differ from these estimates made by management under different assumptions and conditions.
+
+ 
+
+ 
+
+ 
+
+                                                                   28                                                                   
+
+ 
+
+ 
+
+Certain accounting policies that require significant management estimates and are deemed critical to our results of operations or financial position, are described below. Accordingly, these are the policies we believe are the most critical to aid in fully understanding and evaluating our financial condition and results of operations.
+
+ 
+
+Software Development Costs
+
+ 
+
+The Company accounts for costs incurred in the development of computer software as software research and development costs until the preliminary project stage is completed, management has committed to funding the project, and completion and use of the software for its intended purpose is probable. The Company ceases capitalization of development costs once the software has been substantially completed and is available for its intended use. Software development costs are amortized over a useful life estimated by the Company’s management of three years. Costs associated with significant upgrades and enhancements that result in additional functionality are capitalized. Capitalized costs are subject to an ongoing assessment of recoverability based on anticipated future revenues and changes in software technologies. Unamortized capitalized software development costs determined to be in excess of anticipated future net revenues are impaired and expensed during the period of such determination.
+
+ 
+
+Equity-based compensation
+
+ 
+
+Certain of our employees and consultants have received grants of common shares in our company. These awards are accounted for in accordance with guidance prescribed for accounting for equity-based compensation. Based on this guidance and the terms of the awards, the awards are equity classified. The common shares receive distributions if any in an order of priority in accordance with our limited liability company agreement.
+
+ 
+
+The fair value of each award is determined using the Black-Scholes option-pricing model which values options based on the stock price at the grant date, the expected life of the option, the estimated volatility of the stock, and the risk-free interest rate over the expected life of the option. The expected volatility was determined considering comparable companies historical stock prices as a peer group for the fiscal year the grant occurred and prior fiscal years for a period equal to the expected life of the option. The risk-free interest rate was the rate available from the St. Louis Federal Reserve Bank with a term equal to the expected life of the option. The expected life of the option was estimated based on a mid-point method calculation.
+
+ 
+
+Prior to our IPO in February 2021, we were a private company with no active public market for our common equity. Therefore, we have periodically determined the overall value of our company and the estimated per share fair value of our common equity at their various dates using contemporaneous valuations performed with the assistance of a third-party specialist and in accordance with the guidance outlined in the American Institute of CPA’s Practice Aid.
+
+ 
+
+Emerging growth company and smaller reporting company status
+
+ 
+
+The Jumpstart Our Business Startups Act of 2012 permits an “emerging growth company” such as us to take advantage of an extended transition period to comply with new or revised accounting standards applicable to public companies until those standards would otherwise apply to private companies. We have elected to not “opt out” of this provision and, as a result, we will adopt new or revised accounting standards at the time private companies adopt the new or revised accounting standard and will do so until such time that we either (i) irrevocably elect to “opt out” of such extended transition period or (ii) no longer qualify as an emerging growth company.
+
+ 
+
+We are also a “smaller reporting company” meaning that the market value of our stock held by non-affiliates is less than $700 million and our annual revenue was less than $100 million during the most recently completed fiscal year. We may continue to be a smaller reporting company if either (i) the market value of our stock held by non-affiliates is less than $250 million or (ii) our annual revenue was less than $100 million during the most recently completed fiscal year and the market value of our stock held by non-affiliates is less than $700 million. If we are a smaller reporting company at the time we cease to be an emerging growth company, we may continue to rely on exemptions from certain disclosure requirements that are available to smaller reporting companies. Specifically, as a smaller reporting company we may choose to present only the two most recent fiscal years of audited financial statements in our Annual Report on Form 10-K and, similar to emerging growth companies, smaller reporting companies have reduced disclosure obligations regarding executive compensation.
+
+ 
+
+ 
+
+ 
+
+                                                                   29                                                                   
+
+ 
+
+ 
+
+Item 3.      Quantitative and Qualitative Disclosures about Market Risk
+
+ 
+
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information required under this item.
+
+ 
+
+Item 4.      Controls and Procedures 
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) of the Exchange Act) as of the end of the period covered by this report. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures as of the end of the period covered by this report were not effective at a reasonable assurance level due to the material weaknesses in internal control over financial reporting. The Company’s disclosure controls and procedures are designed to provide reasonable assurance that information required to be disclosed by us in reports that we file or submit under the Exchange Act (i) is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms; and (ii) accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely discussions regarding required disclosure. We believe that a control system, no matter how well designed and operated, cannot provide absolute assurance that the objectives of the control system are met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected.
+
+ 
+
+Changes in Internal Control Over Financial Reporting
+
+ 
+
+Management has been actively engaged in remediating the material weaknesses discussed in our Form 10-K for the period ended December 31, 2023 filed with SEC on April 1, 2024. The following remedial actions have been taken during the quarter ended March 31, 2024:
+
+ 
+
+  ·   Completed the internal control documentation along with engaging outside consultants to assist in the design, implementation and
+
+       documentation of internal controls to address the relevant
+
+       risks;
+
+  ·   Performed risk-based scoping activities to identify key business processes, and engaged an outside internal control specialist
+
+       team to assist in designing, documenting, and implementing internal controls to address relevant
+
+       risks;
+
+  ·   Hired additional accounting resources with appropriate levels of experience, including a new Chief Financial Officer in 2023; and
+
+  ·   Continue to engage outside consultants to ensure that the appropriate level of knowledge and experience is applied based on risk
+
+       and complexity of transactions and tasks under
+
+       review.
+
+ 
+
+The process of implementing an effective financial reporting system is a continuous effort that requires us to anticipate and react to changes in our business and the economic and regulatory environments and to expend significant resources to maintain a financial reporting system that is adequate to satisfy our reporting obligations. As we continue to evaluate and take actions to improve our internal control over financial reporting, we may take additional actions to address control deficiencies or modify certain of the remediation measures described above.
+
+ 
+
+While progress has been made to enhance our internal control over financial reporting, we are still in the process of implementing these processes, procedures, and controls. Additional time is required to complete this phase and to assess and ensure the sustainability of these procedures. We believe the above actions will be effective in remediating the material weaknesses described above and we will continue to devote significant time and attention to these remedial efforts.
+
+ 
+
+ 
+
+ 
+
+                                                                   30                                                                   
+
+ 
+
+ 
+
+PART II – OTHER INFORMATION
+
+ 
+
+Item 1.      Legal Proceedings
+
+ 
+
+From time to time, we are involved in various disputes, claims, suits, investigations, and legal proceedings arising in the ordinary course of business. We believe that the resolution of current pending legal matters will not have a material adverse effect on our business, financial condition, results of operations or cash flows. Nonetheless, we cannot predict the outcome of these proceedings, as legal matters are subject to inherent uncertainties, and there exists the possibility that the ultimate resolution of these matters could have a material adverse effect on our business, financial condition, results of operations or cash flows. For additional information, see “Note 5. Commitments and Contingencies” to our financial statements included in this Form 10-Q.
+
+ 
+
+Item 1A.     Risk Factors
+
+ 
+
+In addition to the information set forth in this Form 10-Q, you should carefully consider the risk factors disclosed under the heading “Risk Factors” in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2023. There have been no material changes to our risk factors from those included in our Annual Report on Form 10-K for the year ended December 31, 2023.
+
+  
+
+Item 2.      Unregistered Sales of Equity Securities and Use of Proceeds
+
+ 
+
+Not applicable.
+
+ 
+
+Issuer Purchases of Equity Securities
+
+ 
+
+We did not repurchase any of our equity securities during the three months ended March 31, 2024.
+
+ 
+
+Item 3.      Defaults Upon Senior Securities
+
+ 
+
+None.
+
+ 
+
+
+
+Item 4.      Mine Safety Disclosures
+
+ 
+
+None.
+
+ 
+
+Item 5.      Other Information
+
+ 
+
+During the quarter ended March 31, 2024, no director or officer of the Company adopted or terminated or otherwise had in effect a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   31                                                                   
+
+ 
+
+ 
+
+Item 6.      Exhibits
+
+ 
+
+The exhibits required by Item 601 of Regulation S-K and Item 15(b) of this Quarterly Report are listed in the Exhibit Index below. The exhibits listed in the Exhibit Index are incorporated by reference herein.
+
+ 
+
+Exhibit                          Description of Document                       Incorporated by     Filing      Exhibit      Filed
+
+Number                                                                             reference        Date        Number    Herewith
+
+                                                                                     from
+
+                                                                                     Form
+
+                                                                                                                                
+
+2.2         Form of Plan of Conversion                                               8-K         02-22-2021      2.1           
+
+3.1         Certificate of Incorporation of the Company                              8-K         02-22-2021      3.1           
+
+3.2         Certificate of Designation of Series A Preferred Stock filed             8-K         11-16-2023      3.1           
+
+             November 13,
+
+             2023
+
+3.3         Certificate of Amendment to the Certificate of Incorporation of          8-K         02-27-2024      3.1           
+
+             the Company dated February 23,
+
+             2024
+
+3.4         Series B Convertible Preferred Stock Certificate of Designations         8-K         04-29-2024      3.1           
+
+             dated April 23,
+
+             2024
+
+3.5         Bylaws of the Company                                                    8-K         02-22-2021      3.2           
+
+3.6         Form of Warrant after Conversion from an LLC to a Corporation           S-1/A        01-28-2020      3.5           
+
+3.7         Form of IPO Series A Warrant                                            S-1/A        02-05-2021      3.6           
+
+4.1         Form of Common Stock Certificate                                        S-1/A        10-08-2020      4.1           
+
+4.2         Form of IPO Representative’s Common Stock Purchase Warrant               8-K         02-22-2021      4.1           
+
+4.3         Description of Securities                                                10-K        03-31-2021      4.3      
+
+10.1      # Employment Agreement of Michael T. Lawless                               S-1         01-10-2020      10.1          
+
+10.2      # Employment Agreement of Peter Shoebridge                                 S-1         01-10-2020      10.2          
+
+10.3      # Form of Auddia Inc. 2020 Equity Incentive Plan                          S-1/A        10-22-2020      10.3          
+
+10.4        Collateral and Security Agreement with Related Party (Minicozzi)        S-1/A        01-28-2020      10.4          
+
+10.5        Form of Amendment to Collateral and Security Agreement with             S-1/A        10-08-2020      10.5          
+
+             Related
+
+             Party
+
+10.6        Form of Convertible Promissory Note                                     S-1/A        01-28-2020      10.6          
+
+10.7        Business Loan Agreement and Guaranty of Related Party with Bank         S-1/A        01-28-2020      10.7          
+
+             of the
+
+             West
+
+10.8      **Agreement with Major United States Broadcast Company                    S-1/A        01-28-2020      10.8          
+
+10.9        Form of Bridge Note                                                     S-1/A        10-22-2020      10.9          
+
+10.10       Form of IPO Series A Warrant Agent Agreement                            S-1/A        02-05-2021     10.10          
+
+10.11       Amendment to Bridge Note                                                S-1/A        10-22-2020     10.14          
+
+10.12       Amended Business Loan Agreement with Bank of the West                    10-K        03-31-2021     10.15     
+
+10.13     # First Amendment to 2020 Equity Incentive Plan                            S-8         08-10-2021      99.2          
+
+10.14     # Form of Stock Option Grant Notice and Stock Option Agreement             S-8         08-10-2021      99.3          
+
+             under 2020 Equity Incentive
+
+             Plan
+
+10.15     # Form of Restricted Stock Unit Grant Notice and Restricted Stock          S-8         08-10-2021      99.4          
+
+             Unit Award Agreement under 2020 Equity Incentive
+
+             Plan
+
+10.16     # Form of Inducement Stock Option Grant Notice and Inducement Stock        S-8         08-10-2021      99.5          
+
+             Option
+
+             Agreement
+
+10.17     # Clip Interactive, LLC 2013 Equity Incentive Plan                         S-8         08-10-2021      99.6          
+
+10.18     # Form of Stock Option Grant Notice and Stock Option Agreement             S-8         08-10-2021      99.7          
+
+             under 2013 Equity Incentive
+
+             Plan
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   32                                                                   
+
+ 
+
+ 
+
+Exhibit                          Description of Document                       Incorporated by     Filing      Exhibit      Filed
+
+Number                                                                             reference        Date        Number    Herewith
+
+                                                                                     from
+
+                                                                                     Form
+
+                                                                                                                               
+
+10.19     # Executive Officer Employment Agreement for Michael Lawless dated         8-K         10-15-2021      10.1          
+
+             October 13,
+
+             2021
+
+10.20     # Executive Officer Employment Agreement for Peter Shoebridge dated        8-K         10-15-2021      10.2          
+
+             October 13,
+
+             2021
+
+10.21     # Executive Officer Employment Agreement for Brian Hoff dated              8-K         10-15-2021      10.3          
+
+             October 13,
+
+             2021
+
+10.22     # Executive Officer Employment Agreement for Timothy Ackerman              8-K         02-16-2023      10.1          
+
+             effective as of February 6,
+
+             2023
+
+10.23       Secured Promissory Bridge Note dated November 14, 2022                   8-K         11-14-2022      10.1          
+
+10.24       Common Stock Warrant dated November 14, 2022                             8-K         11-14-2022      10.2          
+
+10.25       Security Agreement dated November 14, 2022                               8-K         11-14-2022      10.3          
+
+10.26       Common Stock Purchase Agreement, dated November 14, 2022, by and         8-K         11-14-2022      10.4          
+
+             between Auddia Inc. and White Lion Capital
+
+             LLC
+
+10.27       Secured Promissory Bridge Note dated November 14, 2022                   8-K         11-14-2022      10.1          
+
+10.28       Common Stock Warrant dated November 14, 2022                             8-K         11-14-2022      10.2          
+
+10.29       Security Agreement dated November 14, 2022                               8-K         11-14-2022      10.3          
+
+10.30       Common Stock Purchase Agreement, dated November 14, 2022, by and         8-K         11-14-2022      10.4          
+
+             between Auddia Inc. and White Lion Capital
+
+             LLC
+
+10.31       Secured Promissory Bridge Note dated April 17, 2023                      8-K         04-21-2023      10.1          
+
+10.32       Common Stock Warrant for 600,000 shares dated April 17, 2023             8-K         04-21-2023      10.2          
+
+10.33       Common Stock Warrant for 650,000 shares dated April 17, 2023             8-K         04-21-2023      10.3          
+
+10.34       Form of 2023 Placement Agency Agreement                                  8-K          06-14-23       1.1           
+
+10.35       Form of Securities Purchase Agreement dated June 13, 2023 between        8-K          06-14-23       10.1          
+
+             Auddia Inc. and the Investors named
+
+             therein
+
+10.36       Common Stock Purchase Agreement, dated as of November 6, 2023, by        8-K          11-06-23       10.1          
+
+             and between White Lion Capital, LLC and Auddia
+
+             Inc.
+
+10.37       Registration Rights Agreement, dated as of November 6, 2023, by          8-K          11-06-23       10.2          
+
+             and between White Lion Capital, LLC and Auddia
+
+             Inc.
+
+                                                                                                                               
+
+10.38     # Employment Agreement, effective as of November 27, 2023, between         8-K         12-18-2023      10.1          
+
+             Auddia Inc. and John E.
+
+             Mahoney
+
+10.39       Series A Preferred Securities Purchase Agreement dated November          8-K         11-16-2023      10.1          
+
+             11, 2023 between Auddia Inc. and Jeffrey
+
+             Thramann
+
+10.40       Amendment and Waiver dated April 9, 2024 Relating to Senior              8-K         04-15-2024      10.1          
+
+             Secured Bridge
+
+             Notes
+
+10.41       Form of Securities Purchase Agreement dated April 23, 2024                                                        X
+
+10.42       Form of Common Stock Warrant dated April 23, 2024                        8-K         04-29-2024      10.2          
+
+10.43       Form of Registration Rights Agreement dated April 23, 2024               8-K         04-29-2024      10.3          
+
+31.1        Section 302 Certification by the Corporation’s Chief Executive                                                    X
+
+             Officer
+
+31.2        Section 302 Certification by the Corporation’s Chief Financial                                                    X
+
+             Officer
+
+32.1        Section 906 Certification by the Corporation’s Chief Executive                                                    X
+
+             Officer
+
+32.2        Section 906 Certification by the Corporation’s Chief Financial                                                    X
+
+             Officer
+
+97.1        Auddia Clawback Policy                                                   10-K        04-01-2024      97.1          
+
+
+
+            
+
+101.INS    Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded
+
+            within the Inline XBRL
+
+            document)
+
+101.SCH    Inline XBRL Taxonomy Extension Schema Document
+
+101.CAL    Inline XBRL Taxonomy Extension Calculation Linkbase Document
+
+101.DEF    Inline XBRL Taxonomy Extension Definition Linkbase Document
+
+101.LAB    Inline XBRL Taxonomy Extension Label Linkbase Document
+
+101.PRE    Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+
+104        Cover Page Interactive Data File (formatted in IXBRL, and included in exhibit 101).
+
+___________________________
+
+#     Indicates management contract or compensatory plan.
+
+**    Certain information contained in this Exhibit has been redacted and appears as “XXXXX” as the disclosure of same would be a disadvantage to the
+
+       Registrant in the
+
+       marketplace
+
+ 
+
+ 
+
+ 
+
+                                                                   33                                                                   
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+                                                                    AUDDIA INC.
+
+                                                                     
+
+                                                                    By:  /s/ Michael Lawless
+
+                                                                         Michael Lawless
+
+                                                                         President, Chief Executive Officer, Director
+
+ 
+
+                                                                    By:  /s/ John Mahoney
+
+                                                                         John Mahoney
+
+                                                                         Chief Financial Officer
+
+ 
+
+ 
+
+Date:  May 14, 2024
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   34

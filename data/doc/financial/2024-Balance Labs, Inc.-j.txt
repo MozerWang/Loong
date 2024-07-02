@@ -1,0 +1,1685 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended: March 31, 2024
+
+ 
+
+or
+
+ 
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from __________ to __________
+
+ 
+
+Commission File Number: 333-202959
+
+ 
+
+BALANCE LABS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                             Delaware                                                           47-1146785
+
+                   (State or other jurisdiction                                               (IRS Employer
+
+                       Identification No.)                                                  of incorporation)
+
+ 
+
+407 Lincoln Road, Suite 701
+
+Miami Beach, Florida 33139
+
+(Address of principal executive offices)
+
+ 
+
+(305) 907-7600
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+                Title of each class                     Trading Symbol(s)            Name of each exchange on which registered
+
+                       None                                    None                                     None
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months, and (2) has been subject to such filing requirements for the past 90 days. Yes ☐ No ☒
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant is large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act:
+
+ 
+
+Large accelerated filer                                      ☐     Accelerated filer                                            ☐
+
+Non-accelerated filer                                        ☒     Smaller Reporting Company                                    ☒
+
+Emerging growth company                                      ☐                                                                   
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+ 
+
+As of May 10, 2024, there were 21,674,000 shares outstanding of the registrant’s common stock.
+
+ 
+
+ 
+
+ 
+
+                                                                    
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+FORM 10-Q
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                                Page
+
+                                               PART I - FINANCIAL INFORMATION                                                     
+
+                                                                                                                                  
+
+Item 1. Financial Statements.                                                                                                    4
+
+Consolidated Financial Statements (Unaudited)                                                                                     
+
+Consolidated Balance Sheets                                                                                                      4
+
+Consolidated Statements of Comprehensive Loss                                                                                    5
+
+Consolidated Statements of Changes in Shareholders’ (Deficiency) Equity                                                          6
+
+Consolidated Statements of Cash Flows                                                                                            7
+
+Condensed notes to Consolidated Financial Statements                                                                             8
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.                                   18
+
+                                                                                                                                  
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.                                                              26
+
+                                                                                                                                  
+
+Item 4. Controls and Procedures.                                                                                                 26
+
+                                                                                                                                  
+
+                                                 PART II - OTHER INFORMATION                                                      
+
+                                                                                                                                  
+
+Item 1. Legal Proceedings.                                                                                                       27
+
+                                                                                                                                  
+
+Item 1A. Risk Factors.                                                                                                           27
+
+                                                                                                                                  
+
+Item 2 Unregistered Sales of Equity Securities and Use of Proceeds.                                                              27
+
+                                                                                                                                  
+
+Item 3 Defaults Upon Senior Securities.                                                                                          27
+
+                                                                                                                                  
+
+Item 4. Mine Safety Disclosures.                                                                                                 28
+
+                                                                                                                                  
+
+Item 5. Other Information.                                                                                                       28
+
+                                                                                                                                  
+
+Item 6. Exhibits.                                                                                                                28
+
+                                                                                                                                  
+
+Signatures                                                                                                                       29
+
+ 
+
+                                                                   2
+
+ 
+
+ 
+
+Explanatory Note:
+
+ 
+
+The registrant has filed all reports required to be filed by section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months, however, the registrant is not subject to such fling requirements and is making such filings on a voluntary basis.
+
+ 
+
+                                                                   3
+
+ 
+
+ 
+
+PART I - FINANCIAL INFORMATION
+
+ 
+
+Item 1. Financial Statements.
+
+ 
+
+Balance Labs, Inc.
+
+Consolidated Balance Sheets
+
+ 
+
+                                                                                       March 31, 2024           December 31, 2023    
+
+                                                                                         (Unaudited)                                 
+
+                                                                                                                                     
+
+                                     Assets                                                                                        
+
+                                                                                                                                   
+
+Current Assets                                                                                                                     
+
+Cash and cash equivalents                                                          $               75,764   $             112,809  
+
+Marketable securities                                                                             113,599                  107,912 
+
+                                                                                                                                   
+
+Total Current Assets                                                                              189,363                  220,721 
+
+                                                                                                                                   
+
+Total Assets                                                                       $              189,363   $              220,721 
+
+                                                                                                                                   
+
+                      Liabilities and Stockholders’ Deficit                                                                        
+
+                                                                                                                                   
+
+Current Liabilities                                                                                                                
+
+Accounts payable and accrued expenses                                              $            1,464,600   $           1,381,849  
+
+Accounts payable - related party                                                                 911,659                   911,659 
+
+Short -term advances - related party                                                            1,673,558                1,673,558 
+
+Convertible note payable                                                                           25,000                   25,000 
+
+Convertible notes payable - related party, net of debt discount of $0 and $0, as                  173,192                  173,192 
+
+ of March 31, 2024 and December 31,
+
+ 2023
+
+Convertible note payable, net of debt discount of $5,670 and $8,504 as March 31,                  494,330                  491,496 
+
+ 2024 and December 31,
+
+ 2023
+
+Notes payable - related party - net of debt discount of $0 and $0 as of March                     106,850                  106,850 
+
+ 31, 2024 and December 31,
+
+ 2023
+
+                                                                                                                                   
+
+Total Current Liabilities                                                                       4,849,189                4,763,604 
+
+                                                                                                                                   
+
+Total Liabilities                                                                               4,849,189                4,763,604 
+
+                                                                                                                                   
+
+Commitments and Contingencies (Note 8)                                                                                             
+
+                                                                                                                                   
+
+Stockholders’ Deficit                                                                                                              
+
+Preferred stock, $0.0001 par value, 50,000,000 shares authorized, none issued                                                      
+
+ and outstanding as of March 31, 2024 and December 31,
+
+ 2023
+
+Common stock, $0.0001 par value: authorized 500,000,000, 21,674,000 and                             2,167                    2,167 
+
+ 21,674,000 shares issued and outstanding as of March 31, 2024 and December 31,
+
+ 2023,
+
+ respectively
+
+Additional paid-in capital                                                                        810,048                  810,048 
+
+Accumulated deficit                                                                            (5,472,041)              (5,355,098)
+
+                                                                                                                                   
+
+Total Stockholders’ Deficit                                                                    (4,659,826)              (4,542,883)
+
+                                                                                                                                   
+
+Total Liabilities and Stockholders’ Deficit                                        $              189,363   $              220,721 
+
+ 
+
+The accompanying condensed notes are an integral part of the unaudited consolidated financial statements
+
+ 
+
+                                                                   4
+
+ 
+
+ 
+
+Balance Labs, Inc.
+
+Consolidated Statements of Operations
+
+(Unaudited)
+
+ 
+
+                                                                                          For the Three Months Ended March 31,        
+
+                                                                                            2024                      2023           
+
+                                                                                                                                     
+
+Revenues - related party                                                           $                    -   $                    - 
+
+                                                                                                                                   
+
+Costs and expenses                                                                                                                 
+
+General and administrative expenses                                                                 4,040                    3,806 
+
+Professional fees                                                                                  16,000                   18,782 
+
+Salaries and wages                                                                                 45,678                   13,689 
+
+Total operating expenses                                                                           65,718                   36,277 
+
+                                                                                                                                   
+
+Loss from operations                                                                              (65,718)                 (36,277)
+
+                                                                                                                                   
+
+Other income (expense)                                                                                                             
+
+Unrealized gain on available for sale securities                                                    5,687                    5,315 
+
+Interest expense (includes amortization of debt discount)                                         (56,912)                 (56,318)
+
+Total other expense                                                                               (51,225)                 (51,003)
+
+                                                                                                                                   
+
+Net loss                                                                           $             (116,943)  $              (87,280)
+
+                                                                                                                                   
+
+Net loss per share – basic and diluted                                             $                (0.00)  $                (0.00)
+
+                                                                                                                                   
+
+Weighted average number of shares - basic and diluted                                          21,674,000               21,674,000 
+
+ 
+
+The accompanying condensed notes are an integral part of the unaudited consolidated financial statements
+
+ 
+
+                                                                   5
+
+ 
+
+ 
+
+Balance Labs, Inc.
+
+Consolidated Statements of Changes in Stockholders’ Deficit
+
+For the Three Months Ended March 31, 2024 and 2023
+
+(Unaudited)
+
+ 
+
+                                                          Common Stock           Additional      Accumulated           Total       
+
+                                                                                   Paid-in                         Stockholders’
+
+                                                       Shares        Amount       Capital         Deficit            Deficit      
+
+                                                                                                                                  
+
+Balance, December 31, 2023                             21,674,000  $   2,167  $    810,048  $    (5,355,098) $     (4,542,883)
+
+                                                                                                                              
+
+Net loss                                                        -          -             -         (116,943)         (116,943)
+
+                                                                                                                              
+
+Balance, March 31, 2024                                21,674,000  $   2,167  $    810,048  $    (5,472,041) $     (4,659,826)
+
+ 
+
+Balance Labs, Inc.
+
+Consolidated Statements of Changes in Stockholders’ Deficit
+
+For the Three Months Ended March 31, 2023
+
+(Unaudited)
+
+ 
+
+                                                          Common Stock           Additional      Accumulated           Total       
+
+                                                                                   Paid-in                         Stockholders’
+
+                                                       Shares        Amount       Capital         Deficit            Deficit      
+
+                                                                                                                                  
+
+Balance, December 31, 2022                             21,674,000  $   2,167  $    810,048  $    (4,973,527) $     (4,161,312)
+
+                                                                                                                              
+
+Net loss                                                        -          -             -          (87,280)          (87,280)
+
+                                                                                                                              
+
+Balance, March 31, 2023                                21,674,000  $   2,167  $    810,048  $    (5,060,807) $     (4,248,592)
+
+ 
+
+The accompanying condensed notes are an integral part of the unaudited consolidated financial statements
+
+ 
+
+                                                                   6
+
+ 
+
+ 
+
+Balance Labs, Inc.
+
+Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+ 
+
+                                                                                          For the Three Months Ended March 31,        
+
+                                                                                            2024                      2023           
+
+Operating activities                                                                                                               
+
+Net loss                                                                           $             (116,943)  $              (87,280)
+
+Adjustments to reconcile net loss to net cash used in operations                                                                   
+
+Amortization of debt discount                                                                       2,834                    2,835 
+
+Unrealized (gain) loss on available - for - sale securities                                        (5,687)                  (5,315)
+
+Changes in operating assets and liabilities                                                                                        
+
+Decrease (Increase) in                                                                                                             
+
+Accounts receivable – related party                                                                     -                   45,000 
+
+Increase in                                                                                                                        
+
+Accounts payable and accrued expenses                                                              82,751                   30,514 
+
+Net cash used in operating activities                                                             (37,045)                 (14,246)
+
+                                                                                                                                   
+
+Net decrease in cash                                                                              (37,045)                 (14,246)
+
+                                                                                                                                   
+
+Cash and cash equivalents - beginning of period                                                   112,809                  235,311 
+
+                                                                                                                                   
+
+Cash and cash equivalents - end of period                                          $              75,764    $              221,065 
+
+                                                                                                                                   
+
+Supplemental disclosure of cash flow information                                                                                   
+
+Cash paid for interest                                                             $                    -   $                    - 
+
+Cash paid for income tax                                                           $                    -   $                    - 
+
+ 
+
+The accompanying condensed notes are an integral part of the unaudited consolidated financial statements
+
+ 
+
+                                                                   7
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+As of March 31, 2024
+
+(Unaudited)
+
+ 
+
+Note 1 – Business Organization and Nature of Operations
+
+ 
+
+Balance Labs, Inc. (“Balance Labs” or the “Company”) was incorporated on June 5, 2014, under the laws of the State of Delaware. Balance Labs is a consulting firm that provides business development and consulting services to start up and development stage businesses. The Company offers services to help businesses in various industries improve and fine tune their business models, sales and marketing plans and internal operations as well as make introductions to professional services such as business plan writing, accounting firms and legal service providers.
+
+ 
+
+The accompanying unaudited consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”) for interim financial information. Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements. In the opinion of management, such statements include all adjustments (consisting only of normal recurring items) which are considered necessary for a fair presentation of the unaudited condensed consolidated financial position of Balance Labs as of March 31, 2024, and the unaudited consolidated results of its operations and cash flows for the three months ended March 31, 2024. The unaudited consolidated results of operations for the three months ended March 31, 2024, are not necessarily indicative of the operating results for the full year. It is recommended that these unaudited consolidated financial statements be read in conjunction with the audited financial statements and related disclosures of the Company for the year ended December 31, 2023, which was filed with the Securities and Exchange Commission on April 15, 2024.
+
+ 
+
+Note 2 – Going Concern
+
+ 
+
+The consolidated financial statements have been prepared assuming the Company will continue as a going concern. The Company used $37,045 of cash in operating activities during the three months ended March 31, 2024, and currently has $75,764 in cash as of March 31, 2024. Additionally, at March 31, 2024, the Company had an accumulated deficit of $5,472,041 and a working capital deficit of $4,659,826.
+
+ 
+
+There is substantial doubt about the Company to continue as a going concern for a period of twelve months from the date of these financial statements were made available. The Company without additional sources of debt or equity capital would potentially need to cease operations. Management plans to seek to raise additional capital within the next twelve months that is expected to sustain its operations for the next year. No assurance can be given that any future financing will be available or, if available, that it will be on terms that are satisfactory to the Company. Even if the Company is able to obtain additional financing, it may contain restrictions on our operations, in the case of debt financing or cause substantial dilution for our stockholders, in case of equity financing. In addition, the Company expects to begin a marketing campaign to market and sell its services. There can be no assurance that such a plan will successful.
+
+ 
+
+The accompanying condensed consolidated financial statements do not include any adjustments that might be necessary should the Company be unable to continue as a going concern.
+
+ 
+
+Note 3 – Summary of Significant Accounting Policies
+
+ 
+
+Cash and Cash Equivalents
+
+ 
+
+The Company considers all highly liquid temporary cash investments with an original maturity of 90 days or less to be cash equivalents. At March 31, 2024, and December 31, 2023, the Company has $2,000 in cash equivalents, respectively.
+
+ 
+
+                                                                   8
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+As of March 31, 2024
+
+(Unaudited)
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of the consolidated financial statements in conformity with accounting principles generally accepted in the United States of America (“GAAP”) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods. Estimates may include those pertaining to stock-based compensation, depreciable lives of fixed assets and deferred tax assets. Actual results could materially differ from those estimates.
+
+ 
+
+Accounts Receivable
+
+ 
+
+The Company provides an allowance for doubtful accounts equal to the estimated uncollectible amounts pursuant to the guidance of Accounting Standards Update (ASU) 2016-13, Financial Instruments – Credit Losses (Topic 326) as codified in Accounts Standards Codification (ASC) 326, Financial Instruments – Credit Losses. Under ASC 326, the Company utilizes a current and expected credit loss (CECL) impairment model. ASU 2016-13 became effective for us on January 1, 2023. The Company’s estimate is based on historical collection experience and a review of the current status of trade accounts receivable. It is reasonably possible that the Company’s estimate of the allowance for doubtful accounts will change. Accounts receivable are presented net of an allowance for doubtful accounts of $0 and $0 at March 31, 2024 and December 31, 2023, respectively.
+
+ 
+
+Revenue Recognition
+
+ 
+
+The Company accounts for its revenues under FASB ASC 606, which is a comprehensive new revenue recognition model that requires revenue to be recognized in a manner to depict the transfer of goods or services to a customer at an amount that reflects the consideration expected to be received in exchange for those goods or services. The Company considers revenue realized or realizable and earned when all the five following criteria are met: (1) Identify the Contract with a Customer, (2) Identify the Performance Obligations in the Contract, (3) Determine the Transaction Price, (4) Allocate the Transaction Price to the Performance Obligations in the Contract, and (5) Recognize Revenue When (or As) the Entity Satisfies a Performance Obligation.
+
+ 
+
+The Company recognizes consulting income when the services are performed, and performance obligations are satisfied over time or point of time.
+
+ 
+
+Income Taxes
+
+ 
+
+The Company recognizes deferred tax assets and liabilities for the expected future tax consequences of items that have been included or excluded in the financial statements or tax returns. Deferred tax assets and liabilities are determined on the basis of the difference between the tax basis of assets and liabilities and their respective financial reporting amounts (“temporary differences”) at enacted tax rates in effect for the years in which the temporary differences are expected to reverse.
+
+ 
+
+The Company adopted the provisions of Accounting Standards Codification (“ASC”) Topic 740-10, which prescribes a recognition threshold and measurement process for financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return.
+
+ 
+
+                                                                   9
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+As of March 31, 2024
+
+(Unaudited)
+
+ 
+
+Management has evaluated and concluded that there are no material tax positions requiring recognition in the Company’s unaudited condensed consolidated financial statements as of March 31, 2024. The Company does not expect any significant changes in its unrecognized tax benefits within twelve months of the reporting date. The Company’s, 2021, 2022, and 2023 tax returns remain open for audit for Federal and State taxing authorities.
+
+ 
+
+The Company’s policy is to classify assessments, if any, for tax related interest as interest expense and penalties as general and administrative expenses in the statement of operations.
+
+ 
+
+Marketable Securities
+
+ 
+
+The Company accounts for marketable and available-for-sale securities under ASU 2016-01, “Financial Instruments – Overall: Recognition and Measurement of Financial Assets and Financial Liabilities.” ASU 2016-01 requires equity investments (except those accounted for under the equity method of accounting, or those that result in consolidation of the investee) to be measured at fair value with changes in fair value recognized in net income.
+
+ 
+
+The Company accounts for its investment in EZFill Holdings, Inc. as available-for-sale securities pursuant to the S-1 Registration Statement declared effective on September 14, 2021, therefore, the unrealized gain (loss) on the available-for-sale securities during the three months ended March 31, 2024, and 2023 has been recorded in Other Income.
+
+ 
+
+At March 31, 2024, the Company owned 66,432 shares and the fair value of the investment in EZFill Holdings, Inc. was reported on the balance sheet as Investment at fair value - related party totaling $113,599 ($1.71/share). The Company recorded an adjustment of $5,687 for the three months ending March 31, 2024, as unrealized gain on securities. EZFill Holdings Inc. reported a 1 share for 8 share reverse stock split on April 26, 2023, which affected the total number of shares reported as of March 31, 2024.
+
+ 
+
+                                                                   10
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+As of March 31, 2024
+
+(Unaudited)
+
+ 
+
+Investments – Related Parties
+
+ 
+
+When the fair value of an investment is indeterminable, the Company accounts for its investments that are under 20% of the total equity outstanding using the cost method. For investments in which the Company holds between 20-50% equity and is non-controlling are accounted for using the equity method. For any investments in which the Company holds over 50% of the outstanding stock, the Company consolidates those entities into their consolidated financial statements herein.
+
+ 
+
+The Company holds one investment as of March 31, 2024, and one investment as of December 31, 2023.
+
+ 
+
+Investments
+
+ 
+
+On January 29, 2021, the Company received 20% ownership of Pharmacy No, 27, Ltd, a company based in Israel, as part of a Note Receivable from a third party. As of March 31, 2024, the investment has a fair value of $0, based upon the quoted closing trading price and it is recorded on our consolidated balance sheet using the equity method. During each three months ended March 31, 2024 the Company recorded $0 of unrealized loss from this investment.
+
+ 
+
+Concentration of Credit Risk
+
+ 
+
+Financial instruments that potentially subject the Company to concentrations of credit risk primarily consist of cash, cash equivalents and marketable securities. As of March 31, 2024, and December 31, 2023, the carrying value of marketable securities was $113,599 and $107,912, respectively. The securities are included in the Investment at Fair Value – Related Party on the consolidated balance sheets, which consist of common shares held in one (1) investment which currently is trading on the Over-the-Counter Bulletin Board (OTCBB).
+
+ 
+
+Principles of Consolidation
+
+ 
+
+The consolidated financial statements include the Company and its wholly owned corporate subsidiaries, Balance Labs LLC.
+
+ 
+
+                                                                   11
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+As of March 31, 2024
+
+(Unaudited)
+
+ 
+
+Net Income (Loss) Per Common Share
+
+ 
+
+Basic and diluted income (loss) per common share is computed by dividing net income (loss) by the weighted average number of common shares and warrants from convertible debentures outstanding during the periods. The effect 3,698,494 and 3,698,494 shares from convertible notes payable for the three months ended March 31, 2024, and 2023, respectively.
+
+ 
+
+Stock-Based Compensation
+
+ 
+
+The Company measures the cost of services received in exchange for an award of equity instruments based on the fair value of the award. For employees, the fair value of the award is measured on the grant date and for non-employees, the fair value of the award is generally re-measured on vesting dates and financial reporting dates until the service period is complete. The fair value amount is then recognized over the period during which services are required to be provided in exchange for the award, usually the vesting period. Awards granted to directors are treated on the same basis as awards granted to employees.
+
+ 
+
+The Company has computed the fair value of warrants granted using the Black-Scholes option pricing model. The expected term used for warrants is the contractual life. Since the Company’s stock has not been publicly traded for a sufficiently long period, the Company is utilizing an expected volatility figure based on a review of the historical volatilities, over a period of time, equivalent to the expected life of the instrument being valued, of similarly positioned public companies within its industry. The risk-free interest rate was determined from the implied yields from U.S. Treasury zero-coupon bonds with a remaining term consistent with the expected term of the instrument being valued.
+
+ 
+
+Fair Value of Financial Instruments
+
+ 
+
+The Company measures its financial assets and liabilities in accordance with GAAP. For certain of our financial instruments, including cash, accounts payable, and the short-term portion of long-term debt, the carrying amounts approximate fair value due to their short maturities.
+
+ 
+
+We adopted accounting guidance for financial and non-financial assets and liabilities (ASC 820). This standard defines fair value, provides guidance for measuring fair value and requires certain disclosures. This standard does not require any new fair value measurements, but rather applies to all other accounting pronouncements that require or permit fair value measurements. This guidance does not apply to measurements related to share-based payments. This guidance discusses valuation techniques, such as the market approach (comparable market prices), the income approach (present value of future income or cash flow), and the cost approach (cost to replace the service capacity of an asset or replacement cost). The guidance utilizes a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value into three broad levels. The following is a brief description of those three levels:
+
+ 
+
+●    Level 1: Observable inputs such as quoted prices (unadjusted) in active markets for identical assets or liabilities.
+
+      
+
+●    Level 2: Inputs other than quoted prices that are observable, either directly or indirectly. These include quoted prices for
+
+      similar assets or liabilities in active markets and quoted prices for identical or similar assets or liabilities in markets that
+
+      are not
+
+      active.
+
+ 
+
+                                                                   12
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+As of March 31, 2024
+
+(Unaudited)
+
+ 
+
+●    Level 3: Unobservable inputs in which little or no market data exists, therefore developed using estimates and assumptions
+
+      developed by us, which reflect those that a market participant would
+
+      use.
+
+ 
+
+The following table presents certain assets of the Company’s measured and recorded at fair value on the Company’s balance sheet on a recurring basis and their level within the fair value hierarchy as of March 31, 2024.
+
+Schedule of Fair Value of Assets on Recurring Basis 
+
+                                         Total         (Level 1)        (Level 2)         (Level 3)     
+
+Fair-value – equity securities       $     113,599  $     113,599  $             -  $             - 
+
+Total Assets measured at fair value  $     113,599  $     113,599  $             -  $             - 
+
+ 
+
+The following table presents certain assets of the Company’s measured and recorded at fair value on the Company’s balance sheet on a recurring basis and their level within the fair value hierarchy as of December 31, 2023.
+
+ 
+
+                                         Total         (Level 1)        (Level 2)         (Level 3)     
+
+Fair-value – equity securities       $     107,912  $     107,912  $             -  $             - 
+
+Total Assets measured at fair value  $     107,912  $     107,912  $             -  $             - 
+
+ 
+
+The Company accounts for its investment in EzFill Holdings, Inc. (“EzFill”) as available-for-sale securities. Since the investment is valued based on quoted market price using observable inputs.
+
+ 
+
+Business Segments
+
+ 
+
+The Company operates in one segment and therefore segment information is not presented.
+
+ 
+
+Advertising, Marketing and Promotional Costs
+
+ 
+
+Advertising, marketing, and promotional expenses are expensed as incurred and are included in selling, general and administrative expenses on the accompanying unaudited condensed consolidated statement of operations. For the three months ended March 31, 2024, and March 31, 2023, advertising, marketing, and promotion expense was $1,379 and $1,197, respectively.
+
+ 
+
+Property and equipment
+
+ 
+
+Property and equipment consist of furniture and office equipment and is stated at cost less accumulated depreciation. Depreciation is determined by using the straight-line method for furniture and office equipment, over the estimated useful lives of the related assets, generally three to five years.
+
+ 
+
+Expenditures for repairs and maintenance of equipment are charged to expense as incurred. Major replacements and betterments are capitalized and depreciated over the remaining useful lives of the related assets.
+
+ 
+
+                                                                   13
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+As of March 31, 2024
+
+(Unaudited)
+
+ 
+
+Property and equipment as of March 31, 2024, and December 31, 2023 consisted of the following:
+
+ 
+
+ Schedule of Property and Equipment
+
+                                                                  March 31, 2024        December 31, 2023   
+
+                                                                    (unaudited)                            
+
+Website                                                         $            1,336   $              1,336 
+
+Computer equipment & Software                                                5,358                  5,358 
+
+Furniture                                                                    4,622                  4,622 
+
+Total                                                                       11,316                 11,316 
+
+Less Accumulated Depreciation                                              (11,316)               (11,316)
+
+Property and Equipment, net                                     $                -   $                  - 
+
+ 
+
+Depreciation expense for the three months ended March 31, 2024, and 2023 totaled $0 and $0, respectively.
+
+ 
+
+Recently Issued Accounting Pronouncements
+
+ 
+
+The Company has evaluated all new accounting standards that are in effect and may impact its unaudited condensed consolidated financial statements and does not believe that there are any other new accounting standards that have been issued that might have a material impact on its financial position or results of operations.
+
+ 
+
+In August 2020, FASB issued ASU 2020-06, Accounting for Convertible Instruments and Contracts in an Entity; Own Equity (“ASU 2020-06”), as part of its overall simplification initiative to reduce costs and complexity of applying accounting standards while maintaining or improving the usefulness of the information provided to users of financial statements. Among other changes, the new guidance removes from GAAP separation models for convertible debt that require the convertible debt to be separated into a debt and equity component, unless the conversion feature is required to be bifurcated and accounted for as a derivative or the debt is issued at a substantial premium. As a result, after adopting the guidance, entities will no longer separately present such embedded conversion features in equity and will instead account for the convertible debt wholly as debt. The new guidance also requires use of the “if-converted” method when calculating the dilutive impact of convertible debt on earnings per share, which is consistent with the Company’s current accounting treatment under the current guidance. The guidance is effective for financial statements issued for fiscal years beginning after December 15, 2023, and interim periods within those fiscal years, with early adoption permitted, but only at the beginning of the fiscal year. The Company evaluated the impact of this standard on its financial statements and no adjustment is necessary.
+
+ 
+
+Note 4 – Stockholders’ Deficit
+
+ 
+
+Authorized Capital
+
+ 
+
+The Company is authorized to issue 500,000,000 shares of common stock, $0.0001 par value, and 50,000,000 shares of preferred stock, $0.0001 par value.
+
+ 
+
+                                                                   14
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+As of March 31, 2024
+
+(Unaudited)
+
+ 
+
+Note 5 – Note Receivable
+
+ 
+
+On September 30, 2021, Balance Labs Inc. made a loan to Four Acquisition, Ltd., an unrelated party in the principal amount of $22,000 which loan has an interest rate of 10% per annum and a maturity date of September 30, 2022. As of March 31, 2024, this receivable is fully reserved against. For the three months ended March 31, 2024 and 2023, the Company recorded $0 and $0, respectively, of interest income in relation to this note.
+
+ 
+
+On January 29, 2021, Balance Labs Inc. made a loan to Four Acquisitions Ltd., an unrelated party in the principal amount of $119,000 which has an interest rate of 10% per annum and a maturity date of January 28, 2022. Additionally, in connection with the loan, the Company received a 20% interest in the recently acquired business and related assets of Four Acquisitions Ltd. Initially, this investment had a purchase price of $43,000, which was recorded as a discount from the note which will be amortized over the life of the note. The Company recorded an allowance of 100% against this receivable of $141,000 as of March 31, 2024.
+
+ 
+
+Note 6 – Related Party Transactions
+
+ 
+
+The Company’s CEO earns $10,000 per month under a new agreement. This agreement is effective October 31, 2023. The following compensation was recorded within general and administrative expenses – related parties on the statements of operations: $30,000 and $30,000 for the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024 and December 31, 2023, $60,000 and $30,000, respectively, of compensation was unpaid and was included in accounts payable – related party on the consolidated balance sheets.
+
+ 
+
+On April 1, 2016, the Company received $500,000 from Newell Trading Group in exchange for a convertible debenture due April 2, 2017 bearing interest at 10% and convertible into common stock at $.25 per share unless the note is paid by the Company prior to the election of the holder to convert. The Company recognized a beneficial conversion feature expense of $500,000 that has been fully amortized. On October 3, 2019, Newell Trading Group assigned its rights and interests in its $500,000 convertible debenture to the Sammy Farkas Foundation Inc., (the “Foundation”), a related party. The convertible note payable, net of debt discount of $5,670 and $8,504 as of March 31, 2024 and December 31, 2023 of $494,330 and $491,496, respectively was recorded under current liability on the balance sheet and no additional debt discount adjustment is required upon adoption of ASU 2020-06.
+
+ 
+
+Schedule of Convertible Note Payable - Long Term 
+
+                                                                  March 31, 2024        December 31, 2023   
+
+                                                                    (unaudited)                             
+
+16th Avenues Associates                                         $          500,000   $            500,000 
+
+Debt discount                                                               (5,670)                (8,504)
+
+Convertible note payable – long term                            $          494,330   $            491,496 
+
+ 
+
+The Foundation then entered into an agreement with the Company to extend the maturity date of the convertible debenture to October 10, 2024 in exchange for 54,000 shares of the Company’s stock. The shares have a fair value of $56,700 which was recorded as a debt discount and was being amortized over the life of the extension. On November 11, 2019, The Sammy Farkas Foundation transferred all the rights and interests of the note to another party, 16th Avenue Associates, a non-related party company. The terms remain the same and the transfer has no effect on the financial statements. During the three months ended March 31, 2024 and December 31, 2023, the Company amortized $2,834 and $2,835, respectively of debt discount.
+
+ 
+
+During 2016, 2017, and 2019 Balance Group LLC loaned an additional $66,850 to the Company. The notes are in default and have an accrued interest balance of $38,459. The note balance of $66,850 is included in the note payable – related party in current liability as of March 31, 2024 and December 31, 2023.
+
+ 
+
+                                                                   15
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+As of March 31, 2024
+
+(Unaudited)
+
+ 
+
+On October 3, 2019, the Company received $40,000 from The Foundation in exchange for a promissory note which bears 12% interest per annum and matured on October 10, 2020 or upon the Company raising $500,000 from outside investors, whichever occurs first. The promissory note is currently in default, and as of March 31, 2024, accrued interest on the note is $24,434. The note balance of $40,000 is included in the note payable – related party in current liability as of March 31, 2024 and December 31, 2023.
+
+ 
+
+The promissory note comes with a warrant to purchase 40,000 shares of the Company’s stock with an exercise price of $1.00 per share and expired on October 10, 2022. The warrants have a relative fair value of $8,283, which was recorded as a debt discount and fully amortized.
+
+ 
+
+Schedule of Note Payable - Related Party 
+
+                                                                  March 31, 2024        December 31, 2023   
+
+                                                                    (unaudited)                             
+
+Balance Group LLC                                               $           66,850   $             66,850 
+
+The Foundation                                                              40,000                 40,000 
+
+Note Payable – related party                                    $          106,850   $            106,850 
+
+ 
+
+On June 27, 2021, the Company received $50,000 from the CEO in exchange for a convertible promissory note with a face value of $53,192 which bears 12% interest per annum and matures on June 27, 2022, or upon the Company raising $250,000 from investors, whichever occurs first. The note balance of $53,192 is included in the convertible notes payable - related party, net of debt discount of $0 and $0, as of March 31, 2024, and December 31, 2023, respectively. The difference between the amount received and the face value of $3,192 was recorded as a discount and is being amortized over the life of the note. Additionally, the note comes with a beneficial conversion feature of $3,799 which was also recorded as a component of equity in 2021. As of March 31, 2024, the Company has accrued interest of $17,610 and is recorded in the accrued expenses on the balance sheet.
+
+ 
+
+On September 30, 2016, Balance Group LLC loaned $120,000 as a convertible note payable to the Company at an interest rate of 10%, due on October 1, 2017. In addition, the Company issued 600,000 warrants at an exercise price of $1 which expired on September 30, 2021 (See Note 9). The note is currently in default and is currently recorded under convertible payable – related party in current liabilities in the balance sheet. The accrued interest balance of $90,049 is recorded in the accrued expenses on the balance sheet as of March 31, 2024.
+
+ 
+
+Schedule of Convertible Note Payable - Related Party 
+
+                                                                  March 31, 2024        December 31, 2023   
+
+                                                                    (unaudited)                             
+
+Balance Group LLC                                               $          120,000   $            120,000 
+
+Note Payable from CEO                                                       53,192                 53,192 
+
+Convertible note payable- related party                         $          173,192   $            173,192 
+
+ 
+
+                                                                   16
+
+ 
+
+ 
+
+BALANCE LABS, INC.
+
+Condensed Notes to Consolidated Financial Statements
+
+As of March 31, 2024
+
+(Unaudited)
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the CEO and companies controlled by the CEO have loaned the Company a total of $1,673,558 in addition to the convertible notes discussed above. The loans carry an interest rate of 8% and mature one year and one day from the date of the loan. These loans of $1,673,558 and the accrued interest on these loans of $644,665 are in default as of March 31, 2024. These loans of $1,673,558 are in default and are reported under short -term advances from related party on the balance sheet as of March 31, 2024 and December 31, 2023.
+
+ 
+
+Note 7 – Convertible Notes and Notes Payable
+
+ 
+
+Convertible Notes Payable
+
+ 
+
+On April 1, 2016, the Company received $500,000 from Newell Trading Group in exchange for a convertible debenture due April 2, 2017 bearing interest at 10% and convertible into common stock at $.25 per share unless the note is paid by the Company prior to the election of the holder to convert. The Company recognized a beneficial conversion feature expense of $500,000 that has been fully amortized. On October 3, 2019, Newell Trading Group assigned its rights and interests in its $500,000 convertible debenture to the Sammy Farkas Foundation Inc., (the “Foundation”), a related party. The Foundation then entered into an agreement with the Company to extend the maturity date of the convertible debenture to October 10, 2024 in exchange for 54,000 shares of the Company’s stock. The shares have a fair value of $56,700 which was recorded as a debt discount and amortized over the life of the extension. On November 11, 2019, The Sammy Farkas Foundation transferred all the rights and interests of the note to another party, 16th Avenue Associates. The terms remain the same and the transfer has no effect on the financial statements. During the period ended March 31, 2024 and December 31, 2023, the Company amortized $2,835 and $11,340, respectively of debt discount. The convertible note payable, net of debt discount of $5,670 and $8,504 as of March 31, 2024 and December 31, 2023 was $494,330 and $491,496, respectively, and was recorded under current liability on the balance sheet and no additional debt discount adjustment is required upon adoption of ASU 2020-06.
+
+ 
+
+Schedule of Convertible Note Payable - Long Term
+
+                                                                  March 31, 2024       December 31, 2023   
+
+                                                                    (unaudited)                           
+
+Newell Trading Group                                            $          500,000   $            500,000 
+
+Debt discount                                                               (5,670)                (8,504)
+
+Convertible note payable – long term                            $          494,330   $            491,496 
+
+ 
+
+Note 8 – Commitments and Contingencies
+
+ 
+
+Litigation, Claims and Assessments
+
+ 
+
+In the normal course of business, the Company may be involved in legal proceedings, claims and assessments arising in the ordinary course of business. Such matters are subject to many uncertainties, and outcomes are not predictable with assurance. In the opinion of management, the ultimate disposition of these matters will not have a material adverse effect on the Company’s condensed consolidated financial position or results of operations.
+
+ 
+
+                                                                   17
+
+ 
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+ 
+
+The following discussion and analysis of the condensed consolidated results of operations and financial condition of Balance Labs, Inc., and subsidiaries (“Balance Labs” or the “Company”) for the three months ended March 31, 2024 should be read in conjunction with our condensed consolidated financial statements and the notes thereto that are included elsewhere in this Quarterly Report on Form 10-Q. References in this Management’s Discussion and Analysis of Financial Condition and Results of Operations to “us,” “we,” “our,” and similar terms refer to Balance Labs. This Quarterly Report includes forward-looking statements, as that term is defined in the federal securities laws, based upon current expectations that involve risks and uncertainties, such as plans, objectives, expectations, and intentions. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of a number of factors. Words such as “anticipate,” “estimate,” “plan,” “continuing,” “ongoing,” “expect,” “believe,” “intend,” “may,” “will,” “should,” “could,” and similar expressions are used to identify forward-looking statements. We caution you that these statements are not guarantees of future performance or events and are subject to a number of uncertainties, risks and other influences, many of which are beyond our control, which may influence the accuracy of the statements and the projections upon which the statements are based. Our actual results could differ materially from those anticipated in the forward-looking statements as a result of certain risk factors discussed in our Annual Report on Form 10-K filed with the Securities and Exchange Commission (the “SEC”) on April 17, 2023. Any one or more of these uncertainties, risks and other influences could materially affect our results of operations and whether forward-looking statements made by us ultimately prove to be accurate. Our actual results, performance and achievements could differ materially from those expressed or implied in these forward-looking statements. We undertake no obligation to publicly update or revise any forward-looking statements, whether from new information, future events or otherwise.
+
+ 
+
+Overview
+
+ 
+
+We were incorporated on June 5, 2014, under the laws of the State of Delaware. We are a consulting firm that provides business development and consulting services to start-up and development-stage companies. Our business model is to provide businesses in various industries with customized consulting services to meet their business needs and help them improve their business models, sales and marketing plans and internal operations, as well as introduce these businesses to experienced professional contacts that would be vital to the success of these companies.
+
+ 
+
+The Company is not a registered investment company under the Investment Company Act of 1940, as amended (the “1940 Act”) and does not engage primarily in the business of investing, reinvesting, or trading in securities. The Company is not managed like an active investment vehicle, is not an investment company registered under the 1940 Act and is not required to register under the 1940 Act.
+
+ 
+
+Additionally, in accordance with the 1940 Act, Section 3(c)(1), the Company is not an Investment Company as defined by the 1940 Act because the Company does not have outstanding securities beneficially owned by more than one hundred persons and, at this time, the Company is not making and does not presently propose to make a public offering of its securities. Additionally, the Company has not and has no plans to purchase or acquire any securities issued by any registered investment company.
+
+ 
+
+                                                                   18
+
+ 
+
+ 
+
+Our business focuses on providing advisement services to entrepreneurs and assisting business owners so that their ideas can be fully developed and implemented. Due to limited resources, lack of experienced management and competing priorities, start-up and developmental stage companies are not operating as efficiently as they can be, and therefore would benefit from an outside party that could assist in developing and executing certain strategies. We utilize our knowledge in developing businesses, share practical experiences with our clients and introduce the business owners to experienced professionals who could help these inexperienced entrepreneurs further implement their ideas. Start-ups and development stage businesses across all industries commonly experience these certain “growing pains”.
+
+ 
+
+Plan of Operations
+
+ 
+
+Our plan is to prepare our clients for the many inevitable challenges they will encounter and to develop a customized plan for them to overcome these obstacles, so that they can focus on marketing their product(s) and/or service(s) to their potential customers.
+
+ 
+
+Although we’ve only worked with three clients since inception, our goal is to add and service a minimum of two to three new clients between now and the end of 2024. We’re marketing our services through both personal contact and online by (a) mining our existing network of professional contacts via personal outreach programs, which will also target international prospects that may wish to enter the US market; (b) expanding our network by attending targeted conferences and professional gatherings; and (c) utilizing our website at www.balancelabs.co, plus engaging potential clients on social media, including LinkedIn, Facebook and Twitter. However, because we have a limited budget allocated for an on-line marketing campaign, we anticipate that professionals within our professional network and personal referrals from companies that are satisfied with our professional services are likely to be our most significant and efficient near-term form of marketing.
+
+ 
+
+We believe that we can support our clients with our existing full-time staff, supplemented with part-time sub-contracted professionals and service providers, as necessary. Between now and the end of 2023, we intend to formalize our relationships with these subcontractors so that we can offer our clients turn-key business development products and services.
+
+ 
+
+Our primary requirement for funding is for working capital in order to accommodate temporary negative cash flows from operations (see “Liquidity and Capital Resources”).
+
+ 
+
+                                                                   19
+
+ 
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+ 
+
+The following discussion and analysis of the condensed consolidated results of operations and financial condition of Balance Labs, Inc., and subsidiaries (“Balance Labs” or the “Company”) for the three months ended March 31, 2024 should be read in conjunction with our condensed consolidated financial statements and the notes thereto that are included elsewhere in this Quarterly Report on Form 10-Q. References in this Management’s Discussion and Analysis of Financial Condition and Results of Operations to “us,” “we,” “our,” and similar terms refer to Balance Labs. This Quarterly Report includes forward-looking statements, as that term is defined in the federal securities laws, based upon current expectations that involve risks and uncertainties, such as plans, objectives, expectations, and intentions. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of a number of factors. Words such as “anticipate,” “estimate,” “plan,” “continuing,” “ongoing,” “expect,” “believe,” “intend,” “may,” “will,” “should,” “could,” and similar expressions are used to identify forward-looking statements. We caution you that these statements are not guarantees of future performance or events and are subject to a number of uncertainties, risks and other influences, many of which are beyond our control, which may influence the accuracy of the statements and the projections upon which the statements are based. Our actual results could differ materially from those anticipated in the forward-looking statements as a result of certain risk factors discussed in our Annual Report on Form 10-K filed with the Securities and Exchange Commission (the “SEC”) on April 15, 2024. Any one or more of these uncertainties, risks and other influences could materially affect our results of operations and whether forward-looking statements made by us ultimately prove to be accurate. Our actual results, performance and achievements could differ materially from those expressed or implied in these forward-looking statements. We undertake no obligation to publicly update or revise any forward-looking statements, whether from new information, future events or otherwise.
+
+ 
+
+Overview
+
+ 
+
+We were incorporated on June 5, 2014, under the laws of the State of Delaware. We are a consulting firm that provides business development and consulting services to start-up and development-stage companies. Our business model is to provide businesses in various industries with customized consulting services to meet their business needs and help them improve their business models, sales and marketing plans and internal operations, as well as introduce these businesses to experienced professional contacts that would be vital to the success of these companies.
+
+ 
+
+The Company is not a registered investment company under the Investment Company Act of 1940, as amended (the “1940 Act”) and does not engage primarily, in the business of investing, reinvesting, or trading in securities. The Company is not managed like an active investment vehicle, is not an investment company registered under the 1940 Act and is not required to register under the 1940 Act.
+
+ 
+
+Additionally, in accordance with the 1940 Act, Section 3€(1), the Company is not an Investment Company as defined by the 1940 Act because the Company does not have outstanding securities beneficially owned by more than one hundred persons and, at this time, the Company is not making and does not presently propose to make a public offering of its securities. Additionally, the Company has not and has no plans to purchase or acquire any securities issued by any registered investment company.
+
+ 
+
+                                                                   20
+
+ 
+
+ 
+
+Our business focuses on providing advisement services to entrepreneurs and assisting business owners so that their ideas can be fully developed and implemented. Due to limited resources, lack of experienced management and competing priorities, start-up and developmental stage companies are not operating as efficiently as they can be, and therefore would benefit from an outside party that could assist in developing and executing certain strategies. We utilize our knowledge in developing businesses, share practical experiences with our clients and introduce the business owners to experienced professionals who could help these inexperienced entrepreneurs further implement their ideas. Start-ups and development stage businesses across all industries commonly experience these certain “growing pains”.
+
+ 
+
+Plan of Operations
+
+ 
+
+Our plan is to prepare our clients for the many inevitable challenges they will encounter and to develop a customized plan for them to overcome these obstacles, so that they can focus on marketing their product(s) and/or service(s) to their potential customers.
+
+ 
+
+Although we’ve only worked with three clients since inception, our goal is to add and service a minimum of two to three new clients between now and the end of 2024. We’re marketing our services through both personal contact and online by (a) mining our existing network of professional contacts via personal outreach programs, which will also target international prospects that may wish to enter the US market; (b) expanding our network by attending targeted conferences and professional gatherings; and (c) utilizing our website at www.balancelabs.co, plus engaging potential clients on social media, including LinkedIn, Facebook and Twitter. However, because we have a limited budget allocated for an on-line marketing campaign, we anticipate that professionals within our professional network and personal referrals from companies that are satisfied with our professional services are likely to be our most significant and efficient near-term form of marketing.
+
+ 
+
+We believe that we can support our clients with our existing full-time staff, supplemented with part-time sub-contracted professionals and service providers, as necessary. Between now and the end of 2024, we intend to formalize our relationships with these subcontractors so that we can offer our clients turn-key business development products and services.
+
+ 
+
+Our primary requirement for funding is for working capital in order to accommodate temporary negative cash flows from operations (see “Liquidity and Capital Resources”).
+
+ 
+
+                                                                   21
+
+ 
+
+ 
+
+Results of Operations
+
+ 
+
+Three Months Ended March 31, 2024 Compared with Three Months Ended March 31, 2023.
+
+ 
+
+Overview
+
+ 
+
+We reported a net loss of $116,943 and of $87,280 for the three months ended March 31, 2024 and 2023, respectively. This represents a difference increase of $29,663, or 34%, primarily due to an increase in the executive salary of the Company’s CEO of $30,000 for the three months ending March 31, 2024.
+
+ 
+
+General and Administrative Expenses
+
+ 
+
+General and administrative expenses were $4,040 and $3,806 for the three months ended March 31, 2024 and 2023, respectively, an increase of $234 or 6% primarily due to a increase in office expenses.
+
+ 
+
+Professional Fees
+
+ 
+
+Professional fees were $16,000 and $18,782 for the three months ended March 31, 2024 and 2023, respectively, a decrease of $2,782 or 15% due to decrease in accounting and legal fees for the quarter.
+
+ 
+
+Other Income and Expense
+
+ 
+
+Other expenses for the three months ended March 31, 2024 was $51,225. Other expense for the three months ended March 31, 2023 was $51,003.
+
+ 
+
+                                                                   22
+
+ 
+
+ 
+
+Unrealized gain or loss on available for sale securities
+
+ 
+
+Unrealized gain on available for sale securities for the three months ended March 31, 2024 was $5,687. Unrealized gain on available for sale securities for the three months ended March 31, 2023 was $5,315. This represents an increase of $664 attributable to an increase in the stock price of the securities.
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+We measure our liquidity in a number of ways, including the following:
+
+ 
+
+                                                                                       March 31, 2024           December 31, 2023    
+
+                                                                                         (Unaudited)                                 
+
+Cash                                                                               $               75,764   $              112,809 
+
+Working capital (deficiency)                                                       $           (4,659,826)  $           (4,542,883)
+
+ 
+
+Availability of Additional Funds
+
+ 
+
+Except for the monthly consulting fee to our CEO and Chairman of the Board and the monthly lease of our virtual office, as described elsewhere in this annual report, we currently do not have any material commitments for capital expenditures. We are actively pursuing new client relationships. Even if we were to add a new client(s), due to our current lack of a diversified client base, there could be temporary imbalances between cash receipts and cash operating expenditures, which means that we may need additional capital. The engagement revenues associated with most client engagements will self-fund the in-house and sub-contractor services we need in order to supply products and services to our clients.
+
+ 
+
+As of March 31, 2024, the Company had a working capital deficiency of $4,659,826. The Company used cash in operations of $37,045. In addition, the Company is working to manage its current liabilities while it continues to make changes in operations to further improve its cash flow and liquidity position.
+
+ 
+
+Net Cash Used in Operating Activities
+
+ 
+
+We experienced negative cash flows from operating activities for the three months ended March 31, 2024 and March 31, 2023, in the amount of $37,045 and $14,246, respectively. This was primarily due to a net loss of $116,943 primarily offset by an unrealized gain on the value of an investment by $5,687, change in accounts payable and accrued expenses by $82,751, and amortization of debt discount $2,834.
+
+ 
+
+                                                                   23
+
+ 
+
+ 
+
+Our Auditors Have Issued a Going Concern Opinion
+
+ 
+
+The Company’s independent registered public accounting firm has expressed substantial doubt as to the Company’s ability to continue as a going concern as of March 31, 2024. The unaudited condensed consolidated financial statements in this report on Form 10-Q have been prepared assuming that the Company will continue as a going concern. As discussed in the notes to the unaudited condensed consolidated financial statements, these conditions raise substantial doubt from the Company’s ability to continue as a going concern. The Company’s plans in regard to these matters are also described in the notes to the Company’s unaudited condensed consolidated financial statements. The unaudited condensed consolidated financial statements do not include any adjustments relating to the recoverability and classification of asset carrying amounts or the amount and classification of liabilities that might result should the Company be unable to continue as a going concern.
+
+ 
+
+The Company anticipates the receipt of funding within such period, but there can be no assurance that it will occur. If the Company is unable to meet its internal revenue forecasts or obtain additional financing on a timely basis, it may have to delay vendor payments and/or initiate cost reductions, which would have a material adverse effect on the Company’s business, financial condition and results of operations, and ultimately it could be forced to discontinue the Company’s operations, liquidate, and/or seek reorganization under the U.S. bankruptcy code. No assurance can be given that any future financing will be available or, if available, that it will be on terms that are satisfactory to the Company. Even if the Company is able to obtain additional financing, it may contain restrictions on our operations, in the case of debt financing or cause substantial dilution for our stockholders, in case of equity financing.
+
+ 
+
+Off-Balance Sheet Arrangements
+
+ 
+
+We do not have any off-balance sheet arrangements.
+
+ 
+
+Critical Accounting Policies and Estimates
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of the financial statements in conformity with accounting principles generally accepted in the United States of America (“GAAP”) requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods. Estimates may include those pertaining to accruals, stock-based compensation and income taxes. Actual results could materially differ from those estimates.
+
+ 
+
+                                                                   24
+
+ 
+
+ 
+
+Revenue Recognition
+
+ 
+
+The Company accounts for revenues under FASB ASC 606, which is a comprehensive new revenue recognition model that requires revenue to be recognized in a manner to depict the transfer of goods or services to a customer at an amount that reflects the consideration expected to be received in exchange for those goods or services. The Company considers revenue realized or realizable and earned when all the five following criteria are met: (1) Identify the Contract with a Customer, (2) Identify the Performance Obligations in the Contract, (3) Determine the Transaction Price, (4) Allocate the Transaction Price to the Performance Obligations in the Contract, and (5) Recognize Revenue When (or As) the Entity Satisfies a Performance Obligation.
+
+ 
+
+Fair Value of Financial Instruments
+
+ 
+
+The Company measures its financial assets and liabilities in accordance with GAAP. For certain of our financial instruments, including cash, accounts payable, and the short-term portion of long-term debt, the carrying amounts approximate fair value due to their short maturities.
+
+ 
+
+We adopted accounting guidance for financial and non-financial assets and liabilities (ASC 820). This standard defines fair value, provides guidance for measuring fair value and requires certain disclosures. This standard does not require any new fair value measurements, but rather applies to all other accounting pronouncements that require or permit fair value measurements. This guidance does not apply to measurements related to share-based payments. This guidance discusses valuation techniques, such as the market approach (comparable market prices), the income approach (present value of future income or cash flow), and the cost approach (cost to replace the service capacity of an asset or replacement cost). The guidance utilizes a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value into three broad levels. The following is a brief description of those three levels:
+
+ 
+
+●    Level 1: Observable inputs such as quoted prices (unadjusted) in active markets for identical assets or liabilities.
+
+      
+
+●    Level 2: Inputs other than quoted prices that are observable, either directly or indirectly. These include quoted prices for
+
+      similar assets or liabilities in active markets and quoted prices for identical or similar assets or liabilities in markets that
+
+      are not
+
+      active.
+
+      
+
+●    Level 3: Unobservable inputs in which little or no market data exists, therefore developed using estimates and assumptions
+
+      developed by us, which reflect those that a market participant would
+
+      use.
+
+ 
+
+                                                                   25
+
+ 
+
+ 
+
+Recent Accounting Standards
+
+ 
+
+We have implemented all new accounting standards that are in effect and may impact our consolidated financial statements and do not believe that there are any other new accounting standards that have been issued that might have a material impact on our financial position or results of operations.
+
+ 
+
+In August 2020, FASB issued ASU 2020-06, Accounting for Convertible Instruments and Contracts in an Entity; Own Equity (“ASU 2020-06”), as part of its overall simplification initiative to reduce costs and complexity of applying accounting standards while maintaining or improving the usefulness of the information provided to users of financial statements. Among other changes, the new guidance removes from GAAP separation models for convertible debt that require the convertible debt to be separated into a debt and equity component, unless the conversion feature is required to be bifurcated and accounted for as a derivative or the debt is issued at a substantial premium. As a result, after adopting the guidance, entities will no longer separately present such embedded conversion features in equity and will instead account for the convertible debt wholly as debt. The new guidance also requires use of the “if-converted” method when calculating the dilutive impact of convertible debt on earnings per share, which is consistent with the Company’s current accounting treatment under the current guidance. The guidance is effective for financial statements issued for fiscal years beginning after December 15, 2023, and interim periods within those fiscal years, with early adoption permitted, but only at the beginning of the fiscal year. The Company is still evaluating the impact of this standard on its financial statements
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+ 
+
+Not applicable.
+
+ 
+
+Item 4. Controls and Procedures.
+
+ 
+
+Disclosure Controls and Procedures
+
+ 
+
+Our management, with the participation of our principal executive officer evaluated the effectiveness of our disclosure controls and procedures as of March 31, 2024. The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company’s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on the evaluation, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were not effective as of March 31, 2024.
+
+ 
+
+The Company’s assessment identified certain material weaknesses, (i)
+
+ 
+
+functional controls, (ii) lack of audit committee and (iii) segregation of duties
+
+ 
+
+Because of the Company’s limited resources, there are limited controls over information processing.
+
+ 
+
+The Company does not have an audit committee and therefore there is no independent review and independent oversight over the Company’s financial reporting.
+
+ 
+
+There is an inadequate segregation of duties consistent with control objectives. Our Company’s management is composed of a small number of individuals resulting in a situation where limitations on segregation of duties exist. In order to remedy this situation, we would need to hire additional staff to provide greater segregation of duties. Currently, it is not feasible to hire additional staff to obtain optimal segregation of duties. Management will reassess this matter at end of the fiscal year to determine whether improvement in segregation of duty is feasible.
+
+ 
+
+Accordingly, as the result of identifying the above material weakness we have concluded that these control deficiencies resulted in a reasonable possibility that a material misstatement of the annual or interim financial statements will not be prevented or detected on a timely basis by the Company’s internal controls.
+
+ 
+
+                                                                   26
+
+ 
+
+ 
+
+Management believes that the material weaknesses set forth above were the result of the scale of our operations and are intrinsic to our small size. Management believes these weaknesses did not have a material effect on our financial results and intends to take remedial actions upon receiving funding for the Company’s business operations.
+
+ 
+
+This Quarterly Report on Form 10-Q does not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management’s report was not subject to attestation by our registered public accounting firm pursuant to temporary rules of the SEC that permit the Company to provide only management’s report herein.
+
+ 
+
+Changes in Internal Control over Financial Reporting
+
+ 
+
+There were no changes in our internal control over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act, during our most recently completed fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+ 
+
+PART II - OTHER INFORMATION
+
+ 
+
+Item 1. Legal Proceedings.
+
+ 
+
+To the best of our knowledge, there are no material pending legal proceedings to which we are a party or of which any of our property is the subject. From time to time, we may become involved in various lawsuits and legal proceedings, which arise, in the ordinary course of business. However, litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm our business.
+
+ 
+
+Item 1A. Risk Factors.
+
+ 
+
+Not applicable.
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+ 
+
+There were no unregistered sales of the Company’s equity securities during the three months ended March 31, 2024.
+
+ 
+
+Item 3. Defaults Upon Senior Securities.
+
+ 
+
+Notes Payable
+
+ 
+
+As of March 31, 2024, the CEO and companies controlled by the CEO have loaned the Company a total of $1,726,750 in addition to the convertible notes discussed above. The loans carry an interest rate of 8% and mature one year and one day from the date of the loan. The Company accrued interest of $662,275 on the loans and $644.669 of these loans are in default as of March 31, 2024.
+
+ 
+
+Balance Group loaned the Company an additional $186,850 at an interest rate of 8%. The notes are currently in default and have an accrued interest balance of $128,508 as of March 31, 2024.
+
+ 
+
+On October 3, 2019, The Company received $40,000 from The Foundation in exchange for a promissory note which bears 12% interest per annum and matured on October 10, 2020 or upon the Company raising $500,000 from outside investors, whichever occurs first. The promissory note is currently in default, and as of March 31, 2024, accrued interest on the note is $24,434. The promissory note comes with a warrant to purchase 40,000 shares of the Company’s stock with an exercise price of $1.00 per share and expires on October 10, 2022. These warrants have expired. As of December 31, 2020, the debt discount was fully amortized.
+
+ 
+
+                                                                   27
+
+ 
+
+ 
+
+Convertible Notes Payable
+
+ 
+
+On December 23, 2015, the Company issued a secured convertible promissory note in the amount of $25,000. The note carries a rate of 8% and was due on March 23, 2016. It is secured by all the assets of the Company. The note further contains a provision that the lender may convert any part of the note, including accrued interest that is unpaid into the Company’s common stock at an exercise price of $0.50 per share. The note also contains a five-year warrant to purchase 100,000 shares of common stock at an exercise price of $0.50 per share until December 23, 2020. As of March 23, 2016, the note is in default and the interest rate has been increased to 18%. The accrued interest balance of $41,122 as of March 31, 2024.
+
+ 
+
+On September 30, 2016, Balance Group LLC loaned the Company $120,000 with an interest rate of 10% and is convertible into common stock at $1.00. In addition, the Company issued the CEO 600,000 warrants and recorded a debt discount of $111,428, which has been fully amortized. The Company valued the warrants using the Black-Scholes option pricing model with the following assumptions: Expected volatility of 514%, expected life of five years, risk free rate of return of 1.14% and an expected divided yield of 0%. The warrants had a fair value of $85,714. The note is currently in default and has an accrued interest balance of $90,049 as of March 31, 2024.
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+ 
+
+Not applicable.
+
+ 
+
+Item 5. Other Information.
+
+ 
+
+None.
+
+ 
+
+Item 6. Exhibits
+
+ 
+
+Exhibit No.      Description
+
+                  
+
+31.1             Certification of Principal Executive Officer, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 302 of 2002*
+
+31.2             Certification of Principal Financial Officer, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 302 of 2002*
+
+32.1             Certification of Principal Executive Officer, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the
+
+                  Sarbanes-Oxley Act of
+
+                  2002**
+
+32.2             Certification of Principal Financial Officer, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the
+
+                  Sarbanes-Oxley Act of
+
+                  2002**
+
+101.INS          Inline XBRL Instance Document*
+
+101.SCH          Inline XBRL Taxonomy Extension Schema Document*
+
+101.CAL          Inline XBRL Taxonomy Extension Calculation Linkbase Document*
+
+101.DEF          Inline XBRL Taxonomy Extension Definition Linkbase Document*
+
+101.LAB          Inline XBRL Taxonomy Extension Label Linkbase Document*
+
+101.PRE          Inline XBRL Taxonomy Extension Presentation Linkbase Document*
+
+104              Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+*Filed herewith
+
+**Furnished herewith
+
+ 
+
+                                                                   28
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+In accordance with the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+                                                                    BALANCE LABS, INC. 
+
+                                                                         
+
+Date: May 10, 2024                                                  By: /s/ Michael D. Farkas 
+
+                                                                        Michael D. Farkas
+
+                                                                        President, Chief Executive Officer
+
+                                                                        (Principal Executive Officer)
+
+ 
+
+Date: May 10, 2024                                                  By: /s/ Ari Feldman
+
+                                                                        Ari Feldman
+
+                                                                        Chief Financial Officer (Principal Financial and
+
+                                                                        Accounting Officer)
+
+ 
+
+                                                                   29

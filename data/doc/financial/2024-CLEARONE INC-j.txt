@@ -1,0 +1,2283 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+Form 10-Q
+
+ 
+
+(Mark One)
+
+ 
+
+☒   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+    For the quarterly period ended March 31, 2024
+
+     
+
+☐   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+    For the transition period _______ to _______
+
+ 
+
+Commission file number:001-33660
+
+CLEARONE, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                             Delaware                                                           87-0398877
+
+  (State or other jurisdiction of incorporation or organization)                 (I.R.S. employer identification number)
+
+                                                                                                     
+
+       5225 Wiley Post Way, Suite 500, Salt Lake City, Utah                                       84116
+
+             (Address of principal executive offices)                                           (Zip Code)
+
+ 
+
+Registrant’s telephone number, including area code: (801) 975-7200
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+            Title of each class                           Trading Symbol(s)                Name of each exchange on which registered
+
+           Common Stock, $0.001                                 CLRO                               The NASDAQ Capital Market
+
+ 
+
+Indicate by check whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. ☒ Yes ☐ No 
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). ☒ Yes ☐ No
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+
+ 
+
+Larger Accelerated Filer ☐                                          Accelerated Filer ☐ 
+
+Non-Accelerated Filer ☒                                             Smaller Reporting Company ☒
+
+                                                                    Emerging Growth Company ☐ 
+
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Yes ☐ No
+
+
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). ☐ Yes ☒ No
+
+ 
+
+The number of shares of ClearOne common stock outstanding as of May 15, 2024 was 23,969,148. 
+
+
+
+                                                                   1
+
+
+
+Table of Contents
+
+
+
+ CLEARONE, INC.
+
+QUARTERLY REPORT ON FORM 10-Q FOR THE QUARTER ENDED MARCH 31, 2024
+
+ 
+
+INDEX​
+
+
+
+          PART I - FINANCIAL INFORMATION
+
+
+
+Item 1.   Financial Statements                                                                                                  3
+
+
+
+          Unaudited Condensed Consolidated Balance Sheets as of March 31, 2024 and December 31, 2023                            3
+
+
+
+          Unaudited Condensed Consolidated Statements of Operations and Comprehensive Loss for the three months ended March     4
+
+           31, 2024 and
+
+           2023
+
+
+
+          Unaudited Condensed Consolidated Statements of Cash Flows for the three months ended March 31, 2024 and 2023          5
+
+
+
+          Unaudited Notes to Condensed Consolidated Financial Statements                                                        7
+
+
+
+Item 2.   Management’s Discussion and Analysis of Financial Condition and Results of Operations                                 17
+
+
+
+Item 3.   Quantitative and Qualitative Disclosures About Market Risk                                                            23
+
+
+
+Item 4.   Controls and Procedures                                                                                               23
+
+
+
+          PART II - OTHER INFORMATION
+
+
+
+Item 1.   Legal Proceedings                                                                                                     24
+
+
+
+Item 1A.  Risk Factors                                                                                                          24
+
+
+
+Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds                                                           24
+
+
+
+Item 3.   Defaults Upon Senior Securities                                                                                       24
+
+
+
+Item 4.   Mine Safety Disclosures                                                                                               24
+
+
+
+Item 5.   Other Information                                                                                                     24
+
+
+
+Item 6.   Exhibits                                                                                                              25
+
+ 
+
+                                                                   2
+
+
+
+Table of Contents
+
+ 
+
+PART I - FINANCIAL INFORMATION
+
+
+
+Item 1. FINANCIAL STATEMENTS
+
+CLEARONE, INC
+
+UNAUDITED CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(Dollars in thousands, except par value)
+
+
+
+                                                                                                    March 31, 2024     December 31,
+
+                                                                                                                           2023
+
+                                                                                                                             
+
+                                              ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents                                                                           $       18,544  $       17,835 
+
+                                                                                                     
+
+Current marketable securities                                                                                2,809            3,480
+
+Patent cross license receivable                                                                                  —            4,000
+
+Receivables, net of allowance of $326                                                                       2,794            3,279 
+
+Inventories, net                                                                                           11,434           10,625 
+
+Income tax receivable                                                                                           27               36
+
+Prepaid expenses and other assets                                                                           4,001            4,062 
+
+Total current assets                                                                                        39,609          43,317 
+
+Long-term marketable securities                                                                              1,278              916
+
+Long-term inventories, net                                                                                  4,161            3,143 
+
+Property and equipment, net                                                                                   542              530 
+
+Operating lease - right of use assets, net                                                                    898               990
+
+Intangibles, net                                                                                            1,615            1,689 
+
+Other assets                                                                                                  108              109 
+
+Total assets                                                                                        $       48,211  $       50,694 
+
+                                                                                                     
+
+                               LIABILITIES AND SHAREHOLDERS' EQUITY 
+
+Current liabilities: 
+
+Accounts payable                                                                                    $       1,733   $        1,945 
+
+                                                                                                     
+
+Dividends payable                                                                                          14,496                 —
+
+Accrued liabilities                                                                                          1,959           2,290 
+
+Deferred product revenue                                                                                        26              30 
+
+Total current liabilities                                                                                  18,214            4,265 
+
+Operating lease liability, net of current                                                                     574               665
+
+Other long-term liabilities                                                                                 1,079            1,079 
+
+Total liabilities                                                                                          19,867            6,009 
+
+
+
+Shareholders' equity: 
+
+Common stock, par value $0.001, 50,000,000 shares authorized, 23,969,148 shares issued and                     24               24 
+
+ outstanding
+
+Additional paid-in capital                                                                                 31,584           46,047 
+
+Accumulated other comprehensive loss                                                                          (290)           (310 )
+
+                                                                                                                                    
+
+Accumulated deficit                                                                                         (2,974)         (1,076 )
+
+                                                                                                                                    
+
+Total shareholders' equity                                                                                 28,344           44,685 
+
+Total liabilities and shareholders' equity                                                          $      48,211   $       50,694 
+
+                                                                                                     
+
+
+
+See accompanying notes
+
+
+
+                                                                   3
+
+
+
+Table of Contents
+
+
+
+ 
+
+CLEARONE, INC.
+
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND
+
+COMPREHENSIVE LOSS
+
+(Dollars in thousands, except per share amounts)
+
+ 
+
+                                                                                                      Three months ended March 31,    
+
+                                                                                                                                      
+
+                                                                                                          2024             2023       
+
+                                                                                                                                      
+
+Revenue                                                                                              $       3,622   $        4,178 
+
+                                                                                                                                    
+
+Cost of goods sold                                                                                           2,471            2,863 
+
+                                                                                                                                    
+
+Gross profit                                                                                                  1,151          1,315  
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Operating expenses:                                                                                                                 
+
+                                                                                                                                    
+
+Sales and marketing                                                                                          1,312            1,192 
+
+                                                                                                                                    
+
+Research and product development                                                                               894            1,043 
+
+                                                                                                                                    
+
+General and administrative                                                                                   1,023           1,269  
+
+                                                                                                                                    
+
+Total operating expenses                                                                                     3,229           3,504  
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Operating loss                                                                                               (2,078)        (2,189 )
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Interest expense                                                                                                  —            (292)
+
+Other income, net                                                                                               178           1,666
+
+                                                                                                                      
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Loss before income taxes                                                                                     (1,900)           (815)
+
+                                                                                                                      
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Provision (benefit) for income taxes                                                                             (2)             17 
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Net loss                                                                                             $       (1,898) $         (832)
+
+                                                                                                                      
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Basic weighted average shares outstanding                                                                23,969,148      23,955,767 
+
+                                                                                                                                    
+
+Diluted weighted average shares outstanding                                                             23,969,148       23,955,767 
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Basic loss per share                                                                                 $        (0.08) $        (0.03)
+
+                                                                                                                      
+
+Diluted loss per share                                                                               $        (0.08) $        (0.03)
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Comprehensive loss:                                                                                                                 
+
+                                                                                                                                    
+
+Net loss                                                                                             $       (1,898) $         (832)
+
+                                                                                                                      
+
+Unrealized gain on available-for-sale securities, net of tax                                                     22               —
+
+                                                                                                                      
+
+Change in foreign currency translation adjustment                                                                (2)              5
+
+                                                                                                                      
+
+Comprehensive loss                                                                                   $       (1,878) $         (827)
+
+                                                                                                                                    
+
+ 
+
+See accompanying notes
+
+ 
+
+                                                                   4
+
+
+
+Table of Contents
+
+
+
+CLEARONE, INC.
+
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Dollars in thousands, except per share amounts)
+
+
+
+                                                                                                      Three months ended March 31, 
+
+                                                                                                          2024             2023 
+
+Cash flows from operating activities: 
+
+Net loss                                                                                             $       (1,898) $         (832)
+
+                                                                                                                      
+
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities: 
+
+Depreciation and amortization expense                                                                           167            221 
+
+Amortization of right-of-use assets                                                                              92             129
+
+Share-based compensation expense                                                                                26              23 
+
+Change of inventory to net realizable value                                                                    193              23 
+
+    Gain on disposal of assets and sale of marketable securities                                                (47)             (8)
+
+Changes in operating assets and liabilities: 
+
+Receivables                                                                                                   4,485              62
+
+Legal settlement receivable                                                                                       —          55,000
+
+Inventories                                                                                                  (2,020)            365
+
+Prepaid expenses and other assets                                                                                61           4,176
+
+Accounts payable                                                                                               (211)            536
+
+Accrued liabilities                                                                                            (321)           (551)
+
+Income taxes receivable                                                                                           9           1,293
+
+Deferred product revenue                                                                                         (4)              8
+
+Operating lease liabilities                                                                                     (99)           (124)
+
+Net cash provided by operating activities                                                                       433          60,321
+
+
+
+Cash flows from investing activities: 
+
+Purchase of property and equipment                                                                              (69)            (27)
+
+Purchase of intangibles                                                                                         (36)            (42)
+
+Proceeds from maturities and sales of marketable securities                                                  2,325               — 
+
+Purchases of marketable securities                                                                           (1,947)              —
+
+Net cash provided by (used in) investing activities                                                             273             (69)
+
+
+
+Cash flows from financing activities: 
+
+Net proceeds from equity-based compensation programs                                                             7               — 
+
+Principal payments of debt                                                                                        —          (2,225)
+
+Net cash provided by (used in) financing activities                                                               7          (2,225)
+
+
+
+Effect of exchange rate changes on cash and cash equivalents                                                     (4)             4 
+
+
+
+Net increase in cash and cash equivalents                                                                       709          58,031
+
+Cash and cash equivalents at the beginning of the period                                                    17,835             986 
+
+Cash and cash equivalents at the end of the period                                                   $       18,544  $       59,017
+
+                                                                                                                      
+
+
+
+See accompanying notes
+
+
+
+                                                                   5
+
+
+
+Table of Contents
+
+
+
+CLEARONE, INC.
+
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Dollars in thousands, except per share amounts)
+
+ 
+
+The following is a summary of supplemental cash flow activities: 
+
+
+
+                                                                                                       Three months ended March 31, 
+
+                                                                                                          2024             2023 
+
+Cash (refund)/paid for income taxes                                                                  $           (12) $          18 
+
+                                                                                                                       
+
+Cash paid for interest                                                                                             —             231
+
+
+
+Supplemental disclosure of non-cash financing and investing activities:
+
+
+
+                                                                                                       Three months ended March 31, 
+
+                                                                                                          2024             2023 
+
+Dividends payable                                                                                    $       14,496  $            — 
+
+                                                                                                      
+
+
+
+See accompanying notes 
+
+
+
+                                                                   6
+
+
+
+Table of Contents
+
+
+
+CLEARONE, INC.
+
+UNAUDITED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Unaudited - Dollars in thousands, except per share amounts)
+
+  
+
+1. Business Description, Basis of Presentation and Significant Accounting Policies
+
+ 
+
+Business Description:
+
+ 
+
+ClearOne, Inc., together with its subsidiaries (collectively, “ClearOne” or the “Company”), is a global market leader enabling conferencing, collaboration, and AV streaming solutions for voice and visual communications. The performance and simplicity of our advanced, comprehensive solutions offer unprecedented levels of functionality, reliability and scalability.
+
+ 
+
+Basis of Presentation:
+
+ 
+
+The fiscal year for ClearOne is the twelve months ending on December 31. The condensed consolidated financial statements include the accounts of ClearOne and its subsidiaries. All significant inter-company accounts and transactions have been eliminated. 
+
+ 
+
+These accompanying interim unaudited condensed consolidated financial statements have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) and are not audited. Certain information and footnote disclosures that are usually included in financial statements prepared in accordance with generally accepted accounting principles in the United States (“GAAP”) have been either condensed or omitted in accordance with SEC rules and regulations. The accompanying condensed consolidated financial statements contain all adjustments, consisting of normal recurring accruals, necessary for a fair presentation of our financial position as of March 31, 2024 and December 31, 2023, the results of operations for the three months ended March 31, 2024 and 2023, and the cash flows for the three months ended March 31, 2024 and 2023. The results of operations for the three months ended March 31, 2024 and 2023 are not necessarily indicative of the results for a full-year period. These interim unaudited condensed consolidated financial statements should be read in conjunction with the financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2023 filed with the SEC. 
+
+ 
+
+Significant Accounting Policies:
+
+ 
+
+The significant accounting policies were described in Note 1 to the audited consolidated financial statements included in the Company’s annual report on Form 10-K for the year ended December 31, 2023. There have been no changes to these policies during the quarter ended March 31, 2024 that are of significance or potential significance to the Company.
+
+
+
+Recent accounting pronouncements:
+
+
+
+In December 2023, the FASB issued ASU 2023-09 “Income Taxes (Topic 740): Improvements to Income Tax Disclosures” on the topic of income taxes. The standard requires additional disclosure for income taxes. These requirements include: (i) requiring a public entity to disclose specific categories in the rate reconciliation; (ii) disclosure of additional information for reconciling items that meet a quantitative threshold (if the effect of those reconciling items is equal to or greater than 5% of the amount computed by multiplying pretax income or loss by the applicable statutory income tax rate); (iii) annual disclosure of the amount of income taxes paid (net of refunds received) disaggregated by federal (national), state, and foreign taxes; (iv) annual disclosure of the amount of income taxes paid (net of refunds received) disaggregated by individual jurisdictions in which income taxes paid (net of refunds received) is equal to or greater than 5% of total income taxes paid (net of refunds received); (v) annual disclosure of income (or loss) from continuing operations before income tax expense (or benefit) disaggregated between domestic and foreign; and (vi) annual disclosure of income tax expense (or benefit) from continuing operations disaggregated by federal (national), state, and foreign. For public entities, the guidance is effective for annual periods beginning after December 15, 2024. The Company will adopt this guidance in fiscal 2025 and is in the process of evaluating the new requirements. As a result, the Company has not yet determined the impact this new ASU will have on its disclosures.
+
+
+
+The Company has determined that recently issued accounting standards, other than the above discussed, will not have a material impact on its consolidated financial position, results of operations or cash flows. 
+
+ 
+
+                                                                   7
+
+
+
+Table of Contents
+
+ 
+
+UNAUDITED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Dollars in thousands, except per share amounts)
+
+  
+
+Liquidity:
+
+ 
+
+As of March 31, 2024, our cash and cash equivalents were approximately $18,544 compared to $17,835 as of December 31, 2023. Our working capital was $21,395 as of March 31, 2024. Net cash provided by operating activities was $433 for the three months ended March 31, 2024, a decrease of $59,888 compared to $60,321 of cash was provided by operating activities for the three months ended March 31, 2023. The Company believes, although there can be no assurance, that the current cash position and effective management of working capital, will provide the liquidity needed to meet our operating needs through at least May 17, 2025. The Company also believes that its strong portfolio of intellectual property and its solid brand equity in the market will enable it to raise additional capital if and when needed to meet its short and long-term financing needs; however, there can be no assurance that, if needed, the Company will be successful in obtaining the necessary funds through equity or debt financing on favorable terms or at all. If the Company needs additional capital and is unable to secure financing, it may be required to further reduce expenses, or delay product development and enhancement.
+
+
+
+2. Revenue Information
+
+ 
+
+The following table disaggregates the Company’s revenue into primary product groups:
+
+ 
+
+                                                                                                      Three months ended March 31,    
+
+                                                                                                                                      
+
+                                                                                                          2024             2023       
+
+                                                                                                                                      
+
+Audio conferencing                                                                                   $       1,523   $       2,329  
+
+                                                                                                                                    
+
+Microphones                                                                                                  1,571           1,195  
+
+                                                                                                                                    
+
+Video products                                                                                                 528             654  
+
+                                                                                                                                    
+
+                                                                                                     $       3,622   $       4,178  
+
+                                                                                                                                    
+
+
+
+The following table disaggregates the Company’s revenue into major regions: 
+
+                                                                                                      Three months ended March 31,    
+
+                                                                                                                                      
+
+                                                                                                          2024             2023       
+
+                                                                                                                                      
+
+North and South America                                                                              $       1,094   $       1,570  
+
+                                                                                                                                    
+
+Asia Pacific (includes Middle East, India and Australia)                                                     2,000           1,696  
+
+                                                                                                                                    
+
+Europe and Africa                                                                                              528             912  
+
+                                                                                                                                    
+
+                                                                                                     $       3,622   $       4,178  
+
+                                                                                                                                    
+
+
+
+                                                                   8
+
+
+
+Table of Contents
+
+
+
+ 
+
+UNAUDITED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Unaudited - Dollars in thousands, except per share amounts)
+
+
+
+3. Loss Per Share
+
+ 
+
+Loss per common share is computed based on the weighted-average number of common shares outstanding and, when appropriate, dilutive potential common stock outstanding during the period. Stock options, warrants and the convertible portion of senior convertible notes are considered to be potential common stock. The computation of diluted earnings (loss) per share does not assume exercise or conversion of securities that would have an anti-dilutive effect. 
+
+ 
+
+Basic earnings (loss) per common share is the amount of net earnings (loss) for the period available to each weighted-average share of common stock outstanding during the reporting period. Diluted earnings (loss) per common share is the amount of earnings (loss) for the period available to each weighted-average share of common stock outstanding during the reporting period and to each share of potential common stock outstanding during the period, unless inclusion of potential common stock would have an anti-dilutive effect. 
+
+
+
+The following table sets forth the computation of basic and diluted earnings (loss) per common share:
+
+ 
+
+                                                                                                       Three months ended March 31,
+
+                                                                                                          2024             2023
+
+Numerator: 
+
+Net loss                                                                                             $       (1,898) $         (832)
+
+Denominator: 
+
+Basic weighted average shares outstanding                                                                23,969,148      23,955,767
+
+Dilutive common stock equivalents using treasury stock method                                                     —               —
+
+Diluted weighted average shares outstanding                                                              23,969,148      23,955,767
+
+  
+
+Basic loss per common share                                                                          $        (0.08) $        (0.03)
+
+Diluted loss per common share                                                                        $        (0.08) $        (0.03)
+
+  
+
+Weighted average options, warrants and convertible portion of senior convertible notes outstanding        6,420,553       6,368,420
+
+Anti-dilutive options, warrants and convertible portion of senior convertible notes not included in       6,420,553       6,368,420
+
+ the computation
+
+ 
+
+
+
+                                                                   9
+
+
+
+Table of Contents
+
+
+
+UNAUDITED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Dollars in thousands, except per share amounts) 
+
+ 
+
+4. Marketable Securities
+
+ 
+
+The Company has classified its marketable securities as available-for-sale securities. These securities are carried at estimated fair value with unrealized holding gains and losses included in accumulated other comprehensive loss in stockholders’ equity until realized. Gains and losses on marketable security transactions are reported on the specific-identification method. Dividend and interest income are recognized when earned.
+
+ 
+
+The amortized cost, gross unrealized holding gains, gross unrealized holding losses, and fair value for available-for-sale securities by major security type and class of securities as of March 31, 2024 and December 31, 2023 were as follows:
+
+
+
+                                                           Amortized cost    Gross unrealized    Gross unrealized    Estimated fair  
+
+                                                                               holding gains      holding losses          value      
+
+                                                                                                                            
+
+March 31, 2024                                                                                                                    
+
+                                                                                                                                  
+
+Available-for-sale securities:                                                                                                    
+
+                                                                                                                                  
+
+US Treasury securities                                     $          1,298  $              —  $               —  $         1,298
+
+Mutual funds                                                          2,116                 9                 (2)           2,123
+
+Certificates of deposit                                                 413                 —                  —              413
+
+Corporate debt securities                                  $           253   $             —   $               —  $          253  
+
+                                                                                                                                  
+
+Total available-for-sale securities                        $         4,080   $             9   $              (2) $        4,087  
+
+                                                                                                                                  
+
+ 
+
+                                                           Amortized cost     Gross unrealized   Gross unrealized    Estimated fair  
+
+                                                                                holding gains      holding losses         value      
+
+                                                                                                                            
+
+December 31, 2023                                                                                                                  
+
+                                                                                                                                   
+
+Available-for-sale securities:                                                                                                     
+
+                                                                                                                                   
+
+US Treasury securities                                     $          1,804  $               —  $             (1) $          1,803
+
+Mutual funds                                                          1,498                  7                 —             1,505
+
+Certificates of deposit                                                 103                  —                 —               103
+
+Corporate debt securities                                  $          1,007  $               —  $            (22) $            985 
+
+                                                                                                                                   
+
+Total available-for-sale securities                        $          4,412  $               7  $            (23) $          4,396 
+
+                                                                                                                                   
+
+ 
+
+                                                                                                   Amortized cost     Estimated fair  
+
+                                                                                                                           value      
+
+                                                                                                                             
+
+Due within one year                                                                                $         2,801   $        2,809  
+
+                                                                                                                                     
+
+Due after one year through five years                                                                        1,279            1,278  
+
+                                                                                                                                     
+
+Due after five years                                                                                              —                — 
+
+                                                                                                                                     
+
+Total available-for-sale securities                                                                $         4,080   $        4,087  
+
+                                                                                                                                     
+
+ 
+
+                                                                   10
+
+
+
+Table of Contents
+
+ 
+
+UNAUDITED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Dollars in thousands, except per share amounts)
+
+
+
+Debt securities in an unrealized loss position as of March 31, 2024 were not deemed impaired at acquisition and subsequent declines in fair value are not deemed attributed to declines in credit quality. Management believes that it is more likely than not that the securities will receive a full recovery of par value, although there can be no assurance that such recovery will occur. The available-for-sale marketable securities with continuous gross unrealized loss position for less than 12 months and 12 months or greater and their related fair values were as follows: 
+
+ 
+
+                                          Less than 12 months             More than 12 months                     Total              
+
+                                                                                                                                     
+
+                                       Estimated         Gross         Estimated         Gross         Estimated         Gross      
+
+                                       fair value      unrealized      fair value      unrealized      fair value      unrealized   
+
+                                                        holding                          holding                        holding
+
+                                                         losses                          losses                          losses
+
+                                                                                                                            
+
+As of March 31, 2024                                                                                                           
+
+                                                                                                                               
+
+US Treasury securities               $     1,298   $            —  $          —   $           —   $     1,298   $            —
+
+                                                                                                                
+
+Mutual Funds                                2,123              (2)             —               —         2,123              (2)
+
+Certificates of Deposit                       413               —              —               —           413               —
+
+Corporate debt securities                    253                —             —               —           253                —
+
+                                                                                                                
+
+Total                                $     4,087   $           (2) $          —   $           —   $     4,087   $           (2)
+
+                                                                                                                
+
+ 
+
+                                          Less than 12 months              More than 12 months                     Total              
+
+                                                                                                                                      
+
+                                       Estimated        Gross       Estimated fair        Gross         Estimated        Gross      
+
+                                       fair value     unrealized         value          unrealized      fair value     unrealized   
+
+                                                        holding                          holding                         holding
+
+                                                        losses                            losses                         losses
+
+                                                                                                                            
+
+As of December 31, 2023                                                                                                           
+
+                                                                                                                                  
+
+US Treasury securities               $       1,803  $           (1) $            —  $            —  $       1,803  $           (1)
+
+                                                                                                                   
+
+Mutual Funds                                 1,505               —               —               —          1,505               —
+
+Certificates of Deposit                        103               —               —               —            103               —
+
+Corporate debt securities                      985             (22)              —               —            985             (22)
+
+                                                                                                                   
+
+Total                                $       4,396  $          (23) $            —  $            —  $       4,396  $          (23)
+
+                                                                                                                   
+
+ 
+
+5. Intangible Assets
+
+ 
+
+Intangible assets as of March 31, 2024 and December 31, 2023 consisted of the following:
+
+ 
+
+                                                                                Estimated useful   March 31, 2024     December 31,   
+
+                                                                                  lives (years)                           2023       
+
+                                                                                                                            
+
+Tradename                                                                           5 to  7       $         555   $          555  
+
+                                                                                                                                  
+
+Patents and technological know-how                                                  10to  20              7,224            7,187  
+
+                                                                                                                                  
+
+Proprietary software                                                                3 to  15              2,981            2,981  
+
+                                                                                                                                  
+
+Other                                                                               3 to  5                 323              324  
+
+                                                                                                                                  
+
+Total intangible assets                                                                                  11,083           11,047  
+
+                                                                                                                                  
+
+Accumulated amortization                                                                                  (9,468)         (9,358 )
+
+                                                                                                                                  
+
+Total intangible assets, net                                                                      $       1,615   $        1,689  
+
+                                                                                                                                  
+
+ 
+
+The amortization of intangible assets for the three months ended March 31, 2024 and 2023 was as follows: 
+
+ 
+
+                                                                                                       Three months ended March 31,
+
+                                                                                                          2024             2023
+
+Amortization of intangible assets                                                                    $          110  $          118
+
+ 
+
+                                                                   11
+
+
+
+Table of Contents
+
+ 
+
+UNAUDITED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Dollars in thousands, except per share amounts) 
+
+ 
+
+The estimated future amortization expense of intangible assets is as follows:
+
+ 
+
+Years ending December 31,                                                                                                      Amount  
+
+                                                                                                                                       
+
+2024 (Remainder)                                                                                                $                147  
+
+                                                                                                                                      
+
+2025                                                                                                                             196  
+
+                                                                                                                                      
+
+2026                                                                                                                             195  
+
+                                                                                                                                      
+
+2027                                                                                                                              65  
+
+                                                                                                                                      
+
+2028                                                                                                                              21  
+
+                                                                                                                                      
+
+Thereafter                                                                                                                       991  
+
+                                                                                                                                      
+
+Total                                                                                                           $              1,615  
+
+                                                                                                                                      
+
+ 
+
+6. Inventories
+
+ 
+
+Inventories, net of reserves, as of March 31, 2024 and December 31, 2023 consisted of the following:  
+
+ 
+
+                                                                                                    March 31, 2024     December 31,   
+
+                                                                                                                           2023       
+
+                                                                                                                             
+
+Current:                                                                                                                            
+
+                                                                                                                                    
+
+Raw materials                                                                                       $       1,765   $        2,086  
+
+                                                                                                                                    
+
+Finished goods                                                                                              9,669            8,539  
+
+                                                                                                                                    
+
+                                                                                                    $      11,434   $       10,625  
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Long-term:                                                                                                                          
+
+                                                                                                                                    
+
+Raw materials                                                                                       $       2,259   $        1,789  
+
+                                                                                                                                    
+
+Finished goods                                                                                              1,902            1,354  
+
+                                                                                                                                    
+
+                                                                                                    $       4,161   $        3,143  
+
+                                                                                                                                    
+
+  
+
+Long-term inventory represents inventory held in excess of our current (next 12 months) requirements based on our recent sales and forecasted level of sales. We expect to sell the above inventory, net of reserves, at or above the stated cost and believe that no loss will be incurred on its sale, although there can be no assurance of the timing or amount of any sales. 
+
+ 
+
+Net loss incurred on valuation of inventory at lower of cost or market value and write-off of obsolete inventory for three months ended March 31, 2024 and 2023 was as follows:   
+
+ 
+
+                                                                                                       Three months ended March 31,
+
+                                                                                                          2024             2023
+
+Net loss incurred on valuation of inventory at lower of cost or market value and write-off of        $          193  $           23
+
+ obsolete inventory
+
+ 
+
+ 
+
+7. Leases
+
+ 
+
+Rent expense is recognized on a straight-line basis over the period of the lease taking into account future rent escalation and holiday periods. 
+
+ 
+
+Rent expense for three months ended March 31, 2024 and 2023 was as follows: 
+
+ 
+
+                                                                                                      Three months ended March 31, 
+
+                                                                                                     
+
+                                                                                                          2024             2023 
+
+                                                                                                                      
+
+Rent expense                                                                                         $         109   $         149 
+
+                                                                                                                      
+
+The Company occupies a 1,350 square-foot facility in Gainesville, Florida under the terms of an operating lease expiring in February 2028. The Gainesville facility is used primarily to support the Company's research and development activities. 
+
+ 
+
+The Company occupies a 9,402 square-foot facility in Salt Lake City, Utah under the terms of an operating lease expiring in February 2028. The facility supports the Company's principal administrative, sales, marketing, customer support, and research and product development activities. 
+
+ 
+
+                                                                   12
+
+
+
+Table of Contents
+
+
+
+UNAUDITED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Dollars in thousands, except per share amounts)
+
+
+
+The Company occupies a 6,175 square-foot facility in Chennai, India under the terms of an operating lease expiring in August 2024. This facility supports the Company's administrative, marketing, customer support, and research and product development activities. The Company is planning to renew the lease.
+
+ 
+
+The Company occupies a 40,000 square-foot warehouse in Salt Lake City, Utah under the terms of an operating lease expiring in April 2025, which serves as the Company's primary inventory fulfillment center.  
+
+
+
+Supplemental cash flow information related to leases was as follows: 
+
+ 
+
+                                                                                                      Three months ended March 31,    
+
+                                                                                                                                      
+
+                                                                                                          2024             2023       
+
+                                                                                                                                      
+
+Cash paid for amounts included in the measurement of lease liabilities                                                              
+
+                                                                                                                                    
+
+Operating cash flows from operating leases                                                           $         (115) $         (151)
+
+Right-of-use assets obtained in exchange for lease obligations:
+
+Operating leases                                                                                     $            —  $          758
+
+ 
+
+Supplemental balance sheet information related to leases was as follows:
+
+ 
+
+                                                                                                 March 31, 2024      December 31,    
+
+                                                                                                                         2023
+
+                                                                                                                           
+
+Operating lease right-of-use assets                                                              $           898   $            990  
+
+                                                                                                                   
+
+                                                                                                 
+
+                                                                                                 
+
+Current portion of operating lease liabilities, included in accrued liabilities                  $           375   $            383
+
+Operating lease liabilities, net of current portion                                                          574                665  
+
+                                                                                                                   
+
+Total operating lease liabilities                                                                $           949   $          1,048  
+
+                                                                                                                   
+
+                                                                                                                                     
+
+                                                                                                                   
+
+Weighted average remaining lease term for operating leases (in years)                                       3.25               3.39
+
+Weighted average discount rate for operating leases                                                         6.52%              6.47%
+
+  
+
+The following represents maturities of operating lease liabilities as of March 31, 2024:
+
+ 
+
+Years ending December 31,                                                                                                             
+
+                                                                                                                                      
+
+2024 (Remainder)                                                                                                   $              324 
+
+                                                                                                                                      
+
+2025                                                                                                                             272  
+
+                                                                                                                                      
+
+2026                                                                                                                             211  
+
+                                                                                                                                      
+
+2027                                                                                                                             216  
+
+                                                                                                                                      
+
+2028                                                                                                                              36  
+
+                                                                                                                                      
+
+Thereafter                                                                                                                          —
+
+Total lease payments                                                                                                           1,059  
+
+                                                                                                                                      
+
+Less: Imputed interest                                                                                                            110
+
+                                                                                                                    
+
+Total                                                                                                              $              949 
+
+                                                                                                                                      
+
+
+
+                                                                   13
+
+
+
+Table of Contents
+
+ 
+
+UNAUDITED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Unaudited - Dollars in thousands, except per share amounts)
+
+8. Shareholders' Equity
+
+ 
+
+                                                                                                      Three months ended March 31,    
+
+                                                                                                                                      
+
+                                                                                                          2024             2023       
+
+                                                                                                                                      
+
+Common stock and additional paid-in capital                                                                                         
+
+                                                                                                                                    
+
+Balance, beginning of period                                                                         $      46,071   $      74,934  
+
+                                                                                                                                    
+
+Dividends declared                                                                                          (14,496)             —  
+
+                                                                                                                                    
+
+Issuance of common stock and warrants, net                                                                        —               1
+
+Share-based compensation expense                                                                                26              22  
+
+                                                                                                                                    
+
+Proceeds from employee stock purchase plan                                                                       7               —  
+
+                                                                                                                                    
+
+Balance, end of period                                                                               $      31,608   $      74,957  
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Accumulated other comprehensive loss                                                                                                
+
+                                                                                                                                    
+
+Balance, beginning of period                                                                         $         (310) $         (288)
+
+                                                                                                                      
+
+Unrealized loss on available-for-sale securities, net of tax                                                     22               —
+
+                                                                                                                      
+
+Foreign currency translation adjustment                                                                          (2)              5
+
+                                                                                                                      
+
+Balance, end of period                                                                               $         (290) $         (283)
+
+                                                                                                                      
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Accumulated deficit                                                                                                                 
+
+                                                                                                                                    
+
+Balance, beginning of period                                                                         $       (1,076) $         (516)
+
+                                                                                                                      
+
+Net loss                                                                                                     (1,898)          (832 )
+
+                                                                                                                                    
+
+Balance, end of period                                                                               $       (2,974) $      (1,348 )
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+                                                                                                                                    
+
+Total shareholders' equity                                                                           $       28,344  $       73,326 
+
+                                                                                                                                    
+
+ 
+
+Issue of Common Stock and Warrants
+
+
+
+On September 12, 2021, the Company entered into a securities purchase agreement with certain purchasers named therein, pursuant to which the Company issued 3,623,189 shares of the Company's common stock, par value $0.001 per share at an offering price of $2.76 per share. The Company received gross proceeds of approximately $10,000 and net proceeds of $9,288 after deducting placement agent fees and related offering expenses. In a concurring private placement the Company also issued to the same purchasers warrants exercisable for an aggregate of 3,623,189 shares of common stock at an exercise price of $2.76 per share. Each warrant became immediately exercisable and will expire on March 15, 2027. 
+
+
+
+On January 4, 2022, the Company entered into a Securities Purchase Agreement with Edward D. Bagley, an affiliate of the Company, pursuant to which the Company agreed to issue and sell, in a private placement 1,538,461 shares (the “Shares”) of the Company’s common stock, par value $0.001 per share, at a purchase price of $1.30 per share of Common Stock. The consideration for the Shares is the cancellation and termination of Mr. Bagley’s outstanding bridge loan to the Company in the principal amount of $2,000 originally issued on July 2, 2021 and amended and restated on September 11, 2021. Mr. Bagley is an affiliate of the Company and the Company’s single largest stockholder.
+
+
+
+                                                                   14
+
+
+
+Table of Contents
+
+
+
+UNAUDITED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Dollars in thousands, except per share amounts)
+
+
+
+9. Share-based Compensation
+
+ 
+
+As of March 31, 2024, the Company had 217,810 options with contractual lives of ten years and 370,000 options with contractual lives of six years offered under the Company’s 2007 Equity Incentive Plan (the “2007 Plan”), which was restated and approved by the shareholders on December 12, 2015. As of March 31, 2024, the 2007 Plan had 857,044 authorized unissued options.
+
+ 
+
+The Company uses judgment in determining the fair value of the share-based payments on the date of grant using an option-pricing model with assumptions regarding a number of highly complex and subjective variables. These variables include, but are not limited to, the risk-free interest rate of the awards, the expected life of the awards, the expected volatility over the term of the awards, and the expected dividends of the awards. The Company uses the Black-Scholes option pricing model to determine the fair value of share-based payments granted under the guidelines of ASC Topic 718. 
+
+ 
+
+In applying the Black-Scholes methodology to 160,000 options granted in June 2023, the Company used the following assumptions: 
+
+ 
+
+Risk free interest rate, average                              3.91% 
+
+Expected option life, average                               5 years 
+
+Expected price volatility, average                           91.47% 
+
+Expected dividend yield                                          0% 
+
+ 
+
+A summary of the stock option activity under the Company’s plans for the three months ended March 31, 2024, is as follows:
+
+
+
+                                                                                                      Number of         Weighted     
+
+                                                                                                        shares           average     
+
+                                                                                                                     exercise price
+
+                                                                                                                            
+
+Options outstanding at beginning of year                                                                  607,810   $          5.03  
+
+                                                                                                                                     
+
+Granted                                                                                                         —                  — 
+
+                                                                                                                                     
+
+Less:                                                                                                                                
+
+                                                                                                                                     
+
+Exercised                                                                                                        —                 — 
+
+                                                                                                                                     
+
+Forfeited prior to vesting                                                                                 (20,000)               —  
+
+                                                                                                                                     
+
+Canceled or expired                                                                                              —                —  
+
+                                                                                                                                     
+
+Options outstanding at March 31, 2024                                                                     587,810              5.16  
+
+                                                                                                                                     
+
+Options exercisable at end of March 31, 2024                                                              416,898   $          6.76  
+
+                                                                                                                                     
+
+ 
+
+As of March 31, 2024, the total remaining unrecognized compensation cost related to non-vested stock options, net of forfeitures, was approximately $120, which will be recognized over a weighted average period of 2.24 years.
+
+ 
+
+Share-based compensation expense has been recorded as follows: 
+
+ 
+
+                                                                                                      Three months ended March 31,     
+
+                                                                                                                                       
+
+                                                                                                         2024             2023       
+
+                                                                                                                                     
+
+Cost of goods sold                                                                                  $            2   $            —  
+
+                                                                                                                                     
+
+Sales and marketing                                                                                              2                —  
+
+                                                                                                                                     
+
+Research and product development                                                                                12                —  
+
+                                                                                                                                     
+
+General and administrative                                                                                      10                —  
+
+                                                                                                                                     
+
+                                                                                                    $           26   $            —  
+
+                                                                                                                                     
+
+
+
+                                                                   15
+
+
+
+Table of Contents
+
+ 
+
+UNAUDITED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Dollars in thousands, except per share amounts)
+
+ 
+
+10. Income Taxes
+
+ 
+
+The Company recorded a full valuation allowance against U.S Federal and State deferred tax assets, which results in no income tax benefit for losses in these jurisdictions. The full domestic valuation allowance was recorded as management concluded that it is more likely than not that these deferred tax assets are not realizable due to the Company's recent pre-tax losses and other sources of negative evidence. Provision for income taxes for the three months ended March 31, 2024 mostly represents income tax expense (benefit) recorded for jurisdictions outside the United States.
+
+
+
+The Company had approximately $968 of uncertain tax positions as of March 31, 2024. Due to the inherent uncertainty of the underlying tax positions, it is not possible to forecast the payment of this liability for any particular year, therefore, it is reflected in other long-term liabilities.
+
+
+
+11. Fair Value Measurements
+
+ 
+
+The fair value of the Company’s financial instruments reflects the amounts that the Company estimates it will receive in connection with the sale of an asset or pay in connection with the transfer of a liability in an orderly transaction between market participants at the measurement date (exit price). The fair value hierarchy prioritizes the use of inputs used in valuation techniques into the following three levels: 
+
+ 
+
+Level 1 - Quoted prices in active markets for identical assets and liabilities. 
+
+ 
+
+Level 2 - Observable inputs other than quoted prices in active markets for identical assets and liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. This category generally includes U.S. Government and agency securities; municipal securities; mutual funds and securities sold and not yet settled. 
+
+ 
+
+Level 3 - Unobservable inputs. 
+
+ 
+
+The Company’s financial instruments are valued using observable inputs. The following table sets forth the fair value of the financial instruments re-measured by the Company as of March 31, 2024:
+
+ 
+
+                                                                        Level 1        Level 2         Level 3          Total      
+
+                                                                                                                                   
+
+March 31, 2024                                                                                                                    
+
+                                                                                                                                  
+
+Mutual funds                                                          $       2,123  $          —   $            —  $      2,123  
+
+                                                                                                                                  
+
+US Treasury securities                                                            —         1,298                —         1,298  
+
+                                                                                                                                  
+
+Certificates of deposit                                                           —           413                —           413  
+
+                                                                                                                                  
+
+Corporate debt securities                                                         —           253                —           253  
+
+                                                                                                                                  
+
+Total                                                                 $       2,123  $      1,964   $            —  $      4,087 
+
+                                                                                                                     
+
+ 
+
+                                                                        Level 1        Level 2         Level 3          Total      
+
+                                                                                                                                   
+
+December 31, 2023                                                                                                                 
+
+                                                                                                                                  
+
+Mutual funds                                                          $       1,505  $           —  $            —  $       1,505 
+
+                                                                                                                                  
+
+US Treasury securities                                                            —          1,803               —          1,803 
+
+                                                                                                                                  
+
+Certificates of deposit                                                           —            103               —            103 
+
+                                                                                                                                  
+
+Corporate debt securities                                                         —            985               —            985 
+
+                                                                                                                                  
+
+Total                                                                 $       1,505  $       2,891  $            —  $       4,396
+
+                                                                                                                     
+
+  
+
+12. Subsequent events
+
+ 
+
+Declared Cash Dividends
+
+
+
+On March 11, 2024, the Company announced that the Company’s Board of Directors had declared a special one-time cash dividend of $0.50 per share of the Company’s common stock and eligible warrants to holders of record as of April 2, 2024 and paid $11,984 of cash dividends to shareholders and $2,511 to warrant holders on April 10, 2024. This dividend of 14,496 has been accrued as of March 31, 2024.
+
+ 
+
+                                                                   16
+
+
+
+Table of Contents
+
+
+
+Item 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+This report on Form 10-Q includes “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). All statements in this report, other than statements of historical fact, are forward-looking statements for purposes of these provisions, including any projections of earnings, revenues or other financial items, any statements of the plans and objectives of management for future operations, any statements concerning proposed new products or services, any statements regarding future economic conditions or performance, and any statements of assumptions underlying any of the foregoing. All forward-looking statements included in this report are made as of the date hereof and are based on information available to us as of such date. We assume no obligation to update any forward-looking statement. In some cases, forward-looking statements can be identified by the use of terminology such as “may,” “will,” “expects,” “plans,” “anticipates,” “intends,” “believes,” “estimates,” “potential,” or “continue,” or the negative thereof or other comparable terminology. Although we believe that the expectations reflected in the forward-looking statements contained herein are based upon reasonable assumptions at the time made, there can be no assurance that any such expectations or any forward-looking statement will prove to be correct. Our actual results will vary, and may vary materially, from those projected or assumed in the forward-looking statements. Future financial condition and results of operations, as well as any forward-looking statements, are subject to inherent risks and uncertainties, many of which we cannot predict with accuracy and some of which we might not anticipate, including, without limitation, product recalls and product liability claims; infringement of our technology or assertion that our technology infringes the rights of other parties; termination of supplier relationships, or failure of suppliers to perform; our expectations regarding the ongoing transition of manufacturing of our products from China to Singapore by our electronics manufacturing services provider; inability to successfully manage growth; delays in obtaining regulatory approvals or the failure to maintain such approvals; concentration of our revenue among a few customers, products or procedures; development of new products and technology that could render our products obsolete; market acceptance of new products; introduction of products in a timely fashion; price and product competition, availability of labor and materials, cost increases, and fluctuations in and obsolescence of inventory; volatility of the market price of our common stock; foreign currency fluctuations; changes in key personnel; work stoppage or transportation risks; integration of business acquisitions; and other factors referred to in our reports filed with the SEC, including our Annual Report on Form 10-K for the year ended December 31, 2023. All subsequent forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by these cautionary statements. Additional factors that may have a direct bearing on our operating results are discussed in Part II, Item 1A “Risk Factors” in this Quarterly Report on Form 10-Q for the period ended March 31, 2024 and in Part I, Item 1A “Risk Factors” in our Annual Report on Form 10-K for the year ended  December 31, 2023 period.
+
+
+
+BUSINESS OVERVIEW
+
+ 
+
+ClearOne is a global Company that designs, develops and sells conferencing, collaboration, and AV networking solutions for voice and visual communications. The performance and simplicity of our advanced, comprehensive solutions offer a high level of functionality, reliability and scalability. We derive a major portion of our revenue from audio conferencing products and microphones by promoting our products in the professional audio-visual channel. We have extended our total addressable market from the installed audio conferencing market to adjacent complementary markets – microphones, video collaboration and AV networking. We have achieved this through strategic technological acquisitions as well as by internal product development. 
+
+
+
+                                                                   17
+
+
+
+Table of Contents
+
+ 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+On March 11, 2024, we announced a one-time special cash dividend of $0.50 per share of ClearOne common stock, payable on April 10, 2024 to shareholders of record on April 2, 2024.
+
+On January 23, 2024 we launched the DIALOG® 20 USB wireless microphone system at Integrated Systems Europe (ISE) 2024, a major global audiovisual expo. ClearOne’s booth at ISE 2024 recorded a 319% increase in unique visitors compared to the number of unique visitors the Company’s booth recorded in 2023. The DIALOG® UVHF Wireless Microphone System also received AV Technology Magazine’s Best in Show award at ISE 2024, having previously garnered other notable industry awards in 2023.
+
+We continued our programs to cut costs and to speed up product development that we believe will enable us to get back to a growth path.
+
+Overall revenue decreased by 13% in the first quarter of 2024 when compared to the first quarter of 2023, primarily due to a significant decrease in revenues from the audio conferencing category. The revenue decline was also caused by significantly reduced demand for our products in many regions including USA, Europe and China when compared to 2023-Q1 revenues. We believe this revenue decline was primarily due to the cumulative impact of past production shortages. We believe that lack of product availability has caused some of our channel partners to purchase and install competing brands. Historically, we have seen a lag of several months between the time that our professional conferencing products are specified for installation and the date when those products are installed. Since our product availability was constrained through a significant part of Q4 2023, we believe our revenue could be impacted negatively by these market dynamics through much of Q2 2024. We have also faced sales headwinds from our products’ lack of Microsoft Teams certification, despite their longtime functional compatibility with this platform. Our work through early 2024 has focused on mitigating these impacts through maintaining consistent dialogues, product demonstrations, and feedback cycles with end users and channel partners, along with improving our visibility at key industry events. We believe our revenue performance in 2024-Q1 also was to a small extent impacted negatively due to increased costs associated with electronic raw materials that have affected the global manufacturing of high tech products. We expect these increased costs in various degrees to continue through 2024 and 2025.
+
+Our gross profit margin increased to 31.8% during the first quarter of 2024 from 31.5% during the first quarter of 2023. The marginal increase in gross profit is mainly due to savings in freight cost wherein air shipments were reduced and replaced by ocean shipments wherever feasible.
+
+Net loss increased from $0.8 million in the first quarter of 2023 to $1.9 million in the first quarter of 2024. The increase in net loss was mainly due to (a) a decrease in revenues partially offset by a decrease in operating expenses and (b) a recognition of $1.35 million from a one-time legal settlement of a contract dispute in first quarter of 2023.
+
+We believe, although there can be no assurance, that we can return to generating operating profits through our strategic initiatives namely product innovation and cost reduction.
+
+Industry conditions
+
+We operate in a very dynamic and highly competitive industry which is dominated on the one hand by a few players with respect to certain products like traditional video conferencing appliances while on the other hand influenced heavily by a fragmented reseller market consisting of numerous regional and local players. The industry is also characterized by venture capitalist-funded start-ups and private companies willing to fund cumulative cash losses in order to gain market share and achieve certain non-financial goals. It has become increasingly important to have higher interoperability with other products in the audio visual market as well as certifications from leading video conferencing service providers like Microsoft and Zoom. 
+
+ 
+
+                                                                   18
+
+
+
+Table of Contents
+
+ 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+Economic conditions, challenges and risks
+
+ 
+
+The audio-visual products market is characterized by intense competition and rapidly evolving technology. Our competitors vary within each product category. Our installed professional audio conferencing products, which is our flagship product category, continue to be ahead of the competition despite the reduction in revenues. Our strength in this space is largely due to our fully integrated suite of products consisting of DSP mixers, wide range of professional microphone products and video collaboration products. Despite our strong leadership position in the installed professional audio conferencing market, we face challenges to revenue growth due to the limited size of the market, pricing pressures from new competitors attracted to the commercial market due to higher margins, and the lack of certifications from Microsoft. Notably, the Microsoft Teams device certification program is closed to new meeting room devices and solutions. Although we have requested admission into this certification program on multiple occasions ClearOne has been denied admission by Microsoft so far.
+
+
+
+Our video products and beamforming microphone arrays, especially highly advanced BMA 360 and BMA-CT are critical to our long-term growth. We face intense competition in this market from well-established market leaders as well as emerging players rich with marketing funds. We expect our strategy of making our products more interoperable with other audio-visual products, continuing to improve the quality of our high-end audio conferencing products and microphones, and offering a wide range of innovative professional cameras will generate growth in the near future. 
+
+ 
+
+We derive a significant portion of our revenue (approximately 70% in the first three months of 2024) from international operations and expect this trend to continue in the future. Most of our revenue from outside the U.S. is billed in U.S. dollars and is not exposed to any significant currency risk. However, we are exposed to foreign exchange risk if the U.S. dollar is strong against other currencies as it will make U.S. Dollar denominated prices of our products less competitive.
+
+ 
+
+Deferred Product Revenue
+
+ 
+
+Deferred product revenue decreased to $26 thousand on March 31, 2024 compared to $30 thousand on December 31, 2023.
+
+ 
+
+A detailed discussion of our results of operations follows below.
+
+
+
+                                                                   19
+
+
+
+Table of Contents
+
+ 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+Results of Operations for the three months ended March 31, 2024
+
+ 
+
+The following table sets forth certain items from our unaudited condensed consolidated statements of operations for the three months ended March 31, 2024 (“2024-Q1”) and 2023 ("2023-Q1"), respectively, together with the percentage of total revenue which each such item represents:
+
+
+
+                                                                                              Three months ended March 31,
+
+(dollars in thousands)                                                                  2024             2023            Change
+
+                                                                                                                        Favorable
+
+                                                                                                                       (Adverse) in
+
+                                                                                                                            %
+
+Revenue                                                                            $        3,622  $        4,178             (13)
+
+Cost of goods sold                                                                          2,471           2,863              14
+
+Gross profit                                                                                1,151           1,315             (12)
+
+Sales and marketing                                                                         1,312           1,192             (10)
+
+Research and product development                                                              894           1,043              14
+
+General and administrative                                                                  1,023           1,269              19
+
+Total operating expenses                                                                    3,229           3,504               8
+
+Operating loss                                                                             (2,078)         (2,189)              5
+
+Other income (expense), net                                                                   178           1,374            (87)
+
+Loss before income taxes                                                                   (1,900)           (815)           (133)
+
+Provision for income taxes                                                                     (2)             17             112
+
+Net loss                                                                           $       (1,898) $         (832)           (128)
+
+ 
+
+Revenue
+
+ 
+
+Our revenue decreased to $3.6 million in 2024-Q1 compared to $4.2 million in 2023-Q1 due to a 35% decline in audio conferencing and a 19% decline in video products, offset by a 31% increase in microphones. Except for BMA all other product categories suffered revenue declines year over year. Our traditional ceiling mics, personal audio conferencing products, and video cameras suffered revenue declines due to lack of demand. During the first quarter of 2024, revenues from Asia including India and the Middle East as a whole increased by 18% while all other regions suffered revenue loss. During 2024-Q1 revenues from Americas declined by 30% and from Europe and Africa declined significantly by 42%.
+
+
+
+Costs of Goods Sold and Gross Profit  
+
+ 
+
+Cost of goods sold includes expenses associated with finished goods purchased from outsourced manufacturers, the repackaging of our products, our manufacturing and operations organization, property and equipment depreciation, warranty expense, freight expense, royalty payments, and the allocation of overhead expenses.
+
+
+
+Our gross profit margin increased from 31.5% during 2023-Q1 to 31.8% during 2024-Q1. The marginal increase was due to saving in freight cost wherein air freight was controlled by replacing air freight with ocean freight.
+
+ 
+
+                                                                   20
+
+
+
+Table of Contents
+
+ 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+Our profitability in the near-term continues to depend significantly on our revenues from professional installed audio-conferencing products. We hold long-term inventory and if we are unable to sell our long-term inventory, our profitability might be affected by inventory write-offs and price mark-downs. Our long-term inventory includes approximately $0.2 million of Converge Pro and Beamforming microphone array products, $1.0 million of cameras, and $1.6 million of raw materials that will be used primarily for manufacturing professional audio conferencing products and BMA microphones. Any business changes that are adverse to these product lines could potentially impact our ability to sell our long-term inventory in addition to our current inventory. 
+
+ 
+
+Operating Expenses
+
+ 
+
+Operating expenses include sales and marketing (“S&M”) expenses, research and product development (“R&D”) expenses and general and administrative (“G&A”) expenses. Total operating expenses in 2024-Q1 was $3.2 million compared to $3.5 million in 2023-Q1. The following contains a more detailed discussion of expenses related to sales and marketing, research and product development, general and administrative, and other items. 
+
+Sales and Marketing - S&M expenses include selling, customer service, and marketing expenses such as employee-related costs, allocations of overhead expenses, trade shows, and other advertising and selling expenses.
+
+ 
+
+S&M expenses in 2024-Q1 increased marginally to $1.3 million from $1.2 million for 2023-Q1. The increase was primarily due to increase in trade-show related expenses.
+
+
+
+Research and Product Development - R&D expenses include research and development, product line management, engineering services, and test and application expenses, including employee-related costs, outside services, expensed materials, depreciation, and an allocation of overhead expenses.
+
+ 
+
+R&D expenses decreased to $0.9 million in 2024-Q1 compared to $1.0 million for 2023-Q1. The decrease was primarily due to decrease in legal expenses and project related expenses.
+
+  
+
+General and Administrative - G&A expenses include employee-related costs, professional service fees, allocations of overhead expenses, litigation costs, and corporate administrative costs, including costs related to finance and human resources teams.
+
+ 
+
+G&A expenses decreased to $1.0 million in 2024-Q1 compared to $1.3 million in 2023-Q1. The reduction was primarily due to (a) a decrease in legal expenses, (b) and a decrease in insurance expenses, (c) and a reduction in employee related expenses.
+
+ 
+
+Interest Expense
+
+
+
+Interest expense decreased to $0.0 million in 2024-Q1 compared to $0.3 million in 2023-Q1. The interest expense declined due to repayment of all the debts in full in 2023.
+
+
+
+                                                                   21
+
+
+
+Table of Contents
+
+ 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+Other income (expense), net
+
+ 
+
+Other income (expense), net includes interest income, foreign currency changes and gain or loss on disposal of assets. Other income for 2024-Q1 included $0.2 million of interest income received on marketable securities. Other income in 2023-Q1 included a receipt of $1.35 million from a one-time legal settlement of a contract dispute.
+
+ 
+
+Provision for income taxes
+
+ 
+
+During each of the three months ended March 31, 2024 and 2023, we did not recognize any benefit from the losses incurred due to setting up a full valuation allowance.
+
+ 
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ 
+
+As of March 31, 2024, our cash and cash equivalents were approximately $18.5 million compared to $17.8 million as of December 31, 2023. Our working capital was $21.4 million and $39.1 million as of March 31, 2024 and December 31, 2023, respectively. 
+
+ 
+
+Net cash provided by operating activities was approximately $0.4 million in the three months ended March 31, 2024, a decrease of net cash provided by operating activities of approximately $59.9 million from $60.3 million of net cash used by operating activities in the three months ended March 31, 2023. The decrease in cash inflow was primarily due to $56.4 million in receipts from legal settlements, the receipt of $4.5 million from the return of a bond deposited with a court, and a $1.3 million refund of income taxes with interest in the three months ended March 31, 2023. These receipts were partially offset by operating losses.
+
+ 
+
+Net cash provided by investing activities in the three months ended March 31, 2024 was $0.3 million compared to $0.1 million of net cash used in investing activities in the three months ended March 31, 2023. The increase in cash provided by investing activities was primarily due to an increase in sale of marketable securities (net of purchases) by $0.3 million and an increase in purchase of property and equipment by $0.06 million. These increases were partially offset by the elimination of capitalized legal expenses of $0.03 million. 
+
+
+
+Net cash provided by financing activities in the three months ended March 31, 2024 was $0.007 million compared to $2.2 million used in payments of principal amounts due on senior convertible debt in the three months ended March 31, 2023.
+
+ 
+
+As of March 31, 2024, our cash and cash equivalents were approximately $18.5 million compared to $17.8 million as of December 31, 2023. Our working capital was $21.4 million as of March 31, 2024. The Company believes, although there can be no assurance, that the current cash position and effective management of working capital, will provide the liquidity needed to meet our operating needs through at least May 17, 2025. The Company also believes that its strong portfolio of intellectual property and its solid brand equity in the market will enable it to raise additional capital if and when needed to meet its short and long-term financing needs; however, there can be no assurance that, if needed, the Company will be successful in obtaining the necessary funds through equity or debt financing on favorable terms or at all. If the Company needs additional capital and is unable to secure financing, it may be required to further reduce expenses, or delay product development and enhancement.
+
+
+
+As of March 31, 2024, we had open purchase orders of approximately $4.5 million mostly for the purchase of inventory.
+
+ 
+
+As of March 31, 2024, we had inventory totaling $15.6 million, of which non-current inventory accounted for $4.2 million. This compares to total inventories of $13.8 million, which includes non-current inventory of $3.1 million as of December 31, 2023.
+
+ 
+
+                                                                   22
+
+
+
+Table of Contents
+
+ 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+Contractual Obligations and Commitments
+
+ 
+
+The following table summarizes our contractual obligations as of March 31, 2024 (in millions):
+
+ 
+
+                                                                               Payment Due by Period                                   
+
+                                                   Total          Less Than        1-3 Years        3-5 Years       More than 5   
+
+                                                                   1 Year                                              years
+
+Operating lease obligations                   $          1.0  $          0.3  $          0.7  $          0.0  $            — 
+
+                                                                                                                             
+
+Purchase obligations                                     4.5             4.5               —               —               — 
+
+                                                                                                                             
+
+Total                                         $          5.5  $          4.8  $          0.7  $          0.0  $            — 
+
+                                                                                                                             
+
+  
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+ 
+
+We have no off-balance-sheet arrangements that have or are reasonably likely to have a current or future material effect on our financial condition, changes in financial conditions, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources, results of operations or liquidity.   
+
+
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+ 
+
+Our discussion and analysis of our results of operations and financial position are based upon our unaudited condensed consolidated financial statements included under Item 1 of this Form 10-Q, which have been prepared in conformity with accounting principles generally accepted in the United States. We review the accounting policies used in reporting our financial results on a regular basis. We believe certain of our accounting policies are critical to understanding our financial position and results of operations. There have been no changes to the critical accounting policies as explained in our Annual Report on Form 10-K for the year ended December 31, 2023.
+
+ 
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+ 
+
+For a discussion of recent accounting pronouncements, see Note 1: “Business Description, Basis of Presentation and Significant Accounting Policies” in the notes to our unaudited condensed consolidated financial statements included under Item 1 of this Form 10-Q.
+
+
+
+ITEM 3.     QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ 
+
+Not applicable.
+
+ 
+
+ITEM 4.     CONTROLS AND PROCEDURES
+
+ 
+
+An evaluation of the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act) as of March 31, 2024 was performed under the supervision and with the participation of our management, including our Chief Executive Officer and our Principal Financial and Accounting Officer. Based upon this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of the end of the period covered by this Quarterly Report, our disclosure controls and procedures are effective at a reasonable assurance level as of March 31, 2024.
+
+ 
+
+There has been no change in the Company's internal control over financial reporting as of March 31, 2024, that has materially affected, or is reasonably likely to materially affect, the Company's internal control over financial reporting. 
+
+ 
+
+                                                                   23
+
+
+
+Table of Contents
+
+ 
+
+PART II - OTHER INFORMATION
+
+ 
+
+Item 1. LEGAL PROCEEDINGS
+
+ 
+
+None. 
+
+ 
+
+Item 1A. RISK FACTORS
+
+ 
+
+The risk factor set forth below supplements and should be read in conjunction with the risk factors included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, as previously supplemented by our Quarterly Report on Form 10-Q for the quarter ended March 31, 2023:
+
+ 
+
+None.
+
+
+
+Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+ 
+
+(a) None.
+
+
+
+(b) Not applicable.
+
+
+
+(c) None. 
+
+
+
+Item 3. DEFAULTS UPON SENIOR SECURITIES
+
+ 
+
+(a) Not applicable.
+
+
+
+(b) Not applicable.
+
+ 
+
+Item 4. MINE SAFETY DISCLOSURES
+
+ 
+
+Not applicable.
+
+ 
+
+Item 5. OTHER INFORMATION 
+
+ 
+
+(a) Not applicable.
+
+
+
+(b) Not applicable.
+
+
+
+(c) Not applicable.
+
+ 
+
+                                                                   24
+
+
+
+Table of Contents
+
+ 
+
+Item 6. EXHIBITS
+
+ 
+
+Exhibit No.  Title of Document
+
+              
+
+31.1         Section 302 Certification of Chief Executive Officer (filed herewith)
+
+              
+
+31.2         Section 302 Certification of Principal Financial Officer (filed herewith)
+
+              
+
+32.1         Section 906 Certification of Chief Executive Officer (filed herewith)
+
+              
+
+32.2         Section 906 Certification of Principal Financial Officer (filed herewith)
+
+              
+
+101.INS      XBRL Instance Document (filed herewith) 
+
+              
+
+101.SCH      XBRL Taxonomy Extension Schema (filed herewith)
+
+              
+
+101.CAL      XBRL Taxonomy Extension Calculation Linkbase (filed herewith)
+
+              
+
+101.DEF      XBRL Taxonomy Extension Definitions Linkbase (filed herewith)
+
+              
+
+101.LAB      XBRL Taxonomy Extension Label Linkbase (filed herewith)
+
+              
+
+101.PRE      XBRL Taxonomy Extension Presentation Linkbase (filed herewith)
+
+
+
+104.1        The cover page of this Quarterly Report on Form 10-Q, formatted in Inline XBRL.
+
+ 
+
+                                                                   25
+
+
+
+Table of Contents
+
+
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+                                                                    ClearOne, Inc.,
+
+                                                                    (Registrant)
+
+                                                                          
+
+                                                                    By:  /s/ Derek L. Graham
+
+May 17, 2024                                                             Derek L. Graham
+
+                                                                         Chief Executive Officer
+
+                                                                         (Principal Executive Officer)
+
+                                                                          
+
+                                                                    By:  /s/ Simon Brewer
+
+May 17, 2024                                                             Simon Brewer
+
+                                                                         Chief Financial Officer
+
+                                                                         (Principal Accounting and Principal Financial Officer)
+
+ 
+
+ 
+
+                                                                   26

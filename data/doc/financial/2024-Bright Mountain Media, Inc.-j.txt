@@ -1,0 +1,3549 @@
+Table of Contents
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+
+
+    x     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+                                             For the quarterly period ended March 31, 2024
+
+
+
+                                                                   or
+
+
+
+    o     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ___________ to ___________
+
+Commission File Number 000-54887
+
+
+
+Bright Mountain Media, Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+
+
+                              Florida                                                           27-2977890
+
+                  State or Other Jurisdiction of                                              I.R.S. Employer
+
+                   Incorporation or Organization                                            Identification No.
+
+
+
+
+
+          6400 Congress Avenue, Suite 2050, Boca Raton, FL                                         33487
+
+               Address of Principal Executive Offices                                            Zip Code
+
+561-998-2440
+
+Registrant’s Telephone Number, Including Area Code
+
+Not applicable
+
+Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+              Title of each class                       Trading Symbol(s)             Name of each exchange on which registered
+
+                      None                                    None                                       None
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No o
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes x No o
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+
+
+                 Large accelerated filer           o                      Accelerated filer                  o
+
+                 Non-accelerated filer             x                      Smaller reporting company          x
+
+                                                                          Emerging growth company            o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes o No x
+
+As of May 13, 2024, there were 171,078,661 shares of the issuer’s common stock outstanding.
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+BRIGHT MOUNTAIN MEDIA, INC.
+
+TABLE OF CONTENTS
+
+
+
+                                                                                                                           Page No.
+
+                                                    PART I - FINANCIAL INFORMATION
+
+
+
+Item 1.       Unaudited Consolidated Financial Statements:
+
+              Consolidated Balance Sheets as of March 31, 2024 (unaudited) and December 31, 2023                                      5
+
+              Unaudited Consolidated Statements of Operations and Comprehensive loss for the Three Months Ended March                 6
+
+               31, 2024 and
+
+               2023
+
+              Unaudited Consolidated Statements of Changes in Shareholders’ Deficit for the Three Months Ended March                  7
+
+               31, 2024 and
+
+               2023
+
+              Unaudited Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2024 and 2023                      8
+
+              Notes to Consolidated Financial Statements                                                                              9
+
+Item 2.       Management’s Discussion and Analysis of Financial Condition and Results of Operations                                  33
+
+Item 3.       Quantitative and Qualitative Disclosure About Market Risk                                                              43
+
+Item 4.       Controls and Procedures                                                                                                43
+
+               
+
+                                                     PART II - OTHER INFORMATION
+
+
+
+Item 1.       Legal Proceedings                                                                                                      47
+
+Item 1A.      Risk Factors                                                                                                           47
+
+Item 2.       Unregistered Sales of Equity Securities and Use of Proceeds                                                            47
+
+Item 3.       Default Upon Securities                                                                                                47
+
+Item 4.       Mine Safety Disclosures                                                                                                47
+
+Item 5.       Other Information                                                                                                      47
+
+Item 6.       Exhibits                                                                                                               48
+
+
+
+              Signatures                                                                                                             49
+
+2
+
+
+
+Table of Contents
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION
+
+
+
+This report includes forward-looking statements that relate to future events or our future financial performance and involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to differ materially from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. Words such as, but not limited to, “believe,” “expect,” “anticipate,” “estimate,” “intend,” “plan,” “targets,” “likely,” “aim,” “will,” “would,” “could,” and similar expressions or phrases identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and future events and financial trends that we believe may affect our financial condition, results of operation, business strategy and financial needs. Forward-looking statements include, but are not limited to, statements about risks associated with:
+
+
+
+•our history of losses;
+
+•our dependence upon sales of equity securities and borrowings under our credit facility to fund operating capital;
+
+•our ability to refinance, extend or repay our substantial indebtedness owed to Centre Lane;
+
+•our ability to detect advertising fraud;
+
+•the continued appeal of internet advertising;
+
+•our ability to manage and expand our relationships with publishers;
+
+•our dependence on revenues from a limited number of customers;
+
+•the impact of seasonal fluctuations on our revenues;
+
+•completed and proposed acquisitions;
+
+•acquisitions of new businesses and our ability to integrate those businesses into our operations;
+
+•online security breaches;
+
+•failure to effectively promote our brand and attract advertisers;
+
+•our ability to predict the impact of COVID-19 and other future pandemics or outbreaks of disease; 
+
+•our ability to protect our content;
+
+•our ability to protect our intellectual property rights;
+
+•the success of our technology development efforts;
+
+•our ability to obtain or maintain key website addresses;
+
+•risks associated with the rejection of digital advertising by consumers, through opt-in, opt-out or ad-blocking technologies or other means;
+
+•risks associated with restrictions on the use of third-party cookies, mobile device identifiers or other tracking technologies; 
+
+•our dependence on certain third-party service providers;
+
+•liability related to content which appears on our websites;
+
+•cybersecurity risk associated with cyber attack or data breach;
+
+•dependence on executive officers and certain key employees and consultants;
+
+•our ability to hire qualified personnel;
+
+•regulatory risks and compliance with privacy laws;
+
+•risks associated with potential litigation;
+
+•limitations from our secured indebtedness;
+
+•substantial doubts about our ability to continue as a going concern;
+
+•ongoing material weaknesses in our disclosure controls and internal control over financial reporting;
+
+•the limited public market for our common stock;
+
+•additional competition resulting from our business expansion strategy;
+
+•possible problems with our network infrastructure;
+
+•adverse impacts to the amount of our working capital as a result of the amount of cash dividends and outstanding interest we pay affiliates;
+
+•dilution to existing shareholders upon the conversion of outstanding convertible notes and/or the exercise outstanding options and warrants;
+
+•provisions of our charter and Florida law which may have anti-takeover effects;
+
+•concentration of our stock ownership and control; and
+
+•our ability to issue additional shares of preferred stock in the future. 
+
+3
+
+
+
+Table of Contents
+
+Most of these factors are difficult to predict accurately and are generally beyond our control. You should consider the areas of risk described in connection with any forward-looking statements that may be made herein. Readers are cautioned not to place undue reliance on these forward-looking statements and readers should carefully review this report, including the Part II, Item 2, our Annual Report on Form 10-K for the year ended December 31, 2023 and our other filings with the U.S. Securities and Exchange Commission in their entirety. Except for our ongoing obligations to disclose material information under the Federal securities laws, we undertake no obligation to release publicly any revisions to any forward-looking statements, to report events or to report the occurrence of unanticipated events. These forward-looking statements speak only as of the date of this report, and you should not rely on these statements without also considering the risks and uncertainties associated with these statements and our business.
+
+OTHER PERTINENT INFORMATION
+
+Unless specifically set forth to the contrary, when used in this report the terms “Bright Mountain,” the “Company,” “we,” “us," “our” and similar terms refer to Bright Mountain Media, Inc., a Florida corporation, and its subsidiaries. In addition, when used in this report, “first quarter of 2024” refers to the three months ended March 31, 2024, “first quarter of 2023” refers to the three months ended March 31, 2023, and “2023” refers to the year ended December 31, 2023. The information on, or that can be accessed through, our website at www.brightmountainmedia.com is not incorporated by reference in, or considered part of, this Quarterly Report on Form 10-Q.
+
+4
+
+
+
+Table of Contents
+
+PART I – FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+CONSOLIDATED BALANCE SHEETS
+
+(in thousands, except share and per share figures)
+
+
+
+                                                                                                                  March 31,          December 31,
+
+                                                                                                                    2024                 2023*
+
+                                                                                                                (unaudited) 
+
+                                                   ASSETS
+
+Current Assets
+
+Cash and cash equivalents                                                                                   $            4,921   $           4,001 
+
+Accounts receivable, net                                                                                                 12,474               14,679 
+
+Prepaid expenses and other current assets                                                                                 1,178                1,057 
+
+Total Current Assets                                                                                                     18,573               19,737 
+
+Property and equipment, net                                                                                                 161                  199 
+
+Intangible assets, net                                                                                                   14,753               15,234 
+
+Goodwill                                                                                                                  7,785                7,785 
+
+Operating lease right-of-use asset                                                                                          290                  306 
+
+Other assets, non-current                                                                                                   158                  156 
+
+Total Assets                                                                                                $           41,720   $          43,417 
+
+                                   LIABILITIES AND SHAREHOLDERS’ DEFICIT
+
+Current Liabilities
+
+Accounts payable and accrued expenses                                                                       $           15,807   $          17,497 
+
+Other current liabilities                                                                                                 3,026                3,025 
+
+Interest payable – 10% Convertible Promissory Notes – related party                                                          41                   39 
+
+Interest payable – Centre Lane Senior Secured Credit Facility – related party                                               138                    — 
+
+Deferred revenue                                                                                                          6,268                4,569 
+
+Note payable – 10% Convertible Promissory Notes, net of discount – related party                                             80                   80 
+
+Note payable – Centre Lane Senior Secured Credit Facility – related party (current portion)                               6,471                5,592 
+
+Total Current Liabilities                                                                                                31,831               30,802 
+
+Other liabilities, non-current                                                                                              286                  325 
+
+Note payable – Centre Lane Senior Secured Credit Facility, net of discount – related party                               60,648               58,674 
+
+Finance lease liability, non-current                                                                                         37                   42 
+
+Operating lease liability, non-current                                                                                      234                  239 
+
+Total liabilities                                                                                                        93,036               90,082 
+
+
+
+Shareholders’ deficit
+
+Convertible preferred stock, par value $0.01, 20,000,000 shares authorized, no shares issued or outstanding                   —                    — 
+
+ at March 31, 2024 and December 31,
+
+ 2023
+
+
+
+
+
+
+
+
+
+Common stock, par value $0.01, 324,000,000 shares authorized, 172,382,586 and 172,103,134 issued and                      1,724                1,721 
+
+ 171,032,411 and 171,277,959 outstanding at March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Treasury stock, at cost; 1,350,175 and 825,175 shares at March 31, 2024 and December 31, 2023, respectively                (220)                (220)
+
+Additional paid-in capital                                                                                              101,483              101,405 
+
+Accumulated deficit                                                                                                    (154,599)            (149,833)
+
+Accumulated other comprehensive income                                                                                      296                  262 
+
+Total shareholders’ deficit                                                                                             (51,316)             (46,665)
+
+Total liabilities and shareholders’ deficit                                                                 $           41,720   $          43,417 
+
+
+
+
+
+*      Derived from audited consolidated financial statements.
+
+See accompanying notes to unaudited consolidated financial statements.
+
+5
+
+
+
+Table of Contents
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+(unaudited)
+
+(in thousands, except share and per share figures)
+
+
+
+                                                                                                        Three Months Ended 
+
+                                                                                               March 31, 2024        March 31, 2023
+
+
+
+Revenue                                                                                    $            12,448   $            1,498 
+
+Cost of revenue                                                                                           9,311                   970 
+
+Gross margin                                                                                              3,137                   528 
+
+General and administrative expenses                                                                       5,244                 3,428 
+
+
+
+Loss from operations                                                                                     (2,107)               (2,900)
+
+Financing and other (expense) income
+
+Other income                                                                                                345                   278 
+
+Interest expense - Centre Lane Senior Secured Credit Facility - related party                            (2,991)               (1,163)
+
+Interest expense - Convertible Promissory notes - related party                                              (2)                   (5)
+
+Other interest expense                                                                                      (11)                   (6)
+
+Total financing and other (expense), net                                                                 (2,659)                 (896)
+
+Net loss before income tax                                                                               (4,766)               (3,796)
+
+Income tax provision                                                                                          —                     — 
+
+Net loss                                                                                                 (4,766)               (3,796)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foreign currency translation                                                                                 34                    14 
+
+Comprehensive loss                                                                         $            (4,732)  $           (3,782)
+
+
+
+Net loss per common share:
+
+Basic and diluted                                                                          $             (0.03)  $            (0.03)
+
+Weighted average shares outstanding
+
+Basic and diluted                                                                                     171,231,775           149,708,905
+
+See accompanying notes to unaudited consolidated financial statements.
+
+6
+
+
+
+Table of Contents
+
+BRIGHT MOUNTAIN MEDIA, INC
+
+CONSOLIDATED STATEMENTS OF CHANGE IN SHAREHOLDERS’ DEFICIT
+
+For the Three Months Ended March 31, 2024 and 2023
+
+(unaudited)
+
+(in thousands, except share figures)
+
+
+
+                       Common Stock           Treasury Stock      Additional    Accumulated       Accumulated          Total 
+
+                                                                    Paid-in        Deficit           Other         Shareholders’ 
+
+                                                                    Capital                      Comprehensive        Deficit 
+
+                                                                                                    Income 
+
+                    Shares      Amount     Shares     Amount 
+
+Balance,           172,103,134 $ 1,721     (825,175) $   (220)  $  101,405   $    (149,833)  $           262   $      (46,665)
+
+ December 31,
+
+ 2023*
+
+Net loss                     —        —             —        —             —          (4,766)                —           (4,766)
+
+Common stock           279,452        3             —        —            13               —                 —               16 
+
+ issued for
+
+ services
+
+ rendered
+
+Stock based                  —        —             —        —            65               —                 —               65 
+
+ compensation
+
+Treasury stock             —          —     (525,000)        —             —               —                 —                — 
+
+Foreign                      —        —             —        —             —               —                34               34 
+
+ currency
+
+ translation,
+
+ net
+
+Balance, March     172,382,586 $ 1,724   (1,350,175  $   (220)  $  101,483   $    (154,599)  $           296   $      (51,316)
+
+ 31,                                              )
+
+ 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Common Stock          Treasury Stock     Additional    Accumulated       Accumulated          Total
+
+                                                                   Paid-in        Deficit           Other         Shareholders’
+
+                                                                   Capital                      Comprehensive        Deficit 
+
+                                                                                                   Income 
+
+                     Shares      Amount    Shares    Amount 
+
+Balance,            150,444,636 $ 1,504   (825,175) $   (220)  $   98,797   $    (114,269)  $           117   $      (14,071)
+
+ December 31,
+
+ 2022*
+
+Net loss                      —        —           —        —             —          (3,796)  $             —           (3,796)
+
+Common stock            190,000        2           —        —            29               —                 —               31 
+
+ issued for
+
+ services
+
+ rendered
+
+Stock based                   —        —           —        —            25               —                 —               25 
+
+ compensation
+
+Foreign currency              —        —           —        —             —               —                14               14 
+
+ translation,
+
+ net
+
+Balance, March      150,634,636 $ 1,506   (825,175  $   (220)  $   98,851   $    (118,065)  $           131   $      (17,797)
+
+ 31,                                             )
+
+ 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Derived from audited consolidated financial statements.
+
+
+
+See accompanying notes to unaudited consolidated financial statements.
+
+7
+
+
+
+Table of Contents
+
+BRIGHT MOUNTAIN MEDIA, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(unaudited) 
+
+(in thousands)
+
+
+
+                                                                                                   For the Three Months Ended March 31,
+
+                                                                                                         2024              2023
+
+Cash flows from operating activities:
+
+Net loss                                                                                           $        (4,766)  $        (3,796)
+
+Adjustments to reconcile net loss to net cash provided by (used in) operations:
+
+Depreciation                                                                                                     40                  7 
+
+
+
+Interest paid-in kind on Centre Lane Credit Facility                                                          2,238                789 
+
+Amortization of operating lease right-of-use asset                                                               16                 14 
+
+Amortization of debt discount                                                                                   615                305 
+
+Amortization of intangibles                                                                                     481                386 
+
+
+
+Stock based compensation                                                                                         65                 25 
+
+
+
+
+
+
+
+Common stock issued for services rendered                                                                        16                 31 
+
+Expected credit losses (recoveries)                                                                             (37)              (188)
+
+Changes in operating assets and liabilities:
+
+Accounts receivable                                                                                           2,243              2,509 
+
+Prepaid expenses and other current assets                                                                      (123)               142 
+
+Operating lease liability                                                                                       (15)                 1 
+
+Accounts payable and accrued expenses                                                                        (1,662)            (1,471)
+
+Other liabilities                                                                                               (30)               (96)
+
+Interest payable – Centre Lane Senior Secured Credit Facility – related party                                   138                 72 
+
+Interest payable – 10% Convertible Promissory note – related party                                                2                  2 
+
+Deferred revenue                                                                                              1,699                237 
+
+Net cash provided by (used) in operating activities                                                             920             (1,031)
+
+Cash flows from investing activities:
+
+Purchase of property and equipment                                                                               (2)                (5)
+
+Net cash used in investing activities                                                                            (2)                (5)
+
+Cash flows from financing activities:
+
+
+
+
+
+
+
+Principal payments on finance lease obligations                                                                  (4)                 — 
+
+Proceeds from Centre Lane Senior Secured Credit Facility – related party                                          —              1,500 
+
+
+
+
+
+
+
+Net cash (used in) provided by financing activities                                                              (4)             1,500 
+
+Effect of foreign exchange rates on cash                                                                          6                  4 
+
+Net increase in cash and cash equivalents                                                                       920                468 
+
+Cash and cash equivalents at the beginning of period                                                          4,001                316 
+
+Cash and cash equivalents at end of period                                                         $         4,921   $           784 
+
+Supplemental disclosure of cash flow information
+
+
+
+Interest paid-in-kind on Centre Lane Credit Facility                                               $         2,238   $           789 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See accompanying notes to unaudited consolidated financial statements.
+
+8
+
+
+
+Table of Contents
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+NOTE 1 – DESCRIPTION OF BUSINESS AND DEVELOPMENTS
+
+
+
+Organization and Nature of Operations
+
+
+
+Bright Mountain Media, Inc. (together with its wholly-owned subsidiaries, the “Company,” “Bright Mountain” or “we”) has an end-to-end digital media and advertising services platform that efficiently connects brands with targeted consumer demographics. We focus on digital publishing, advertising technology, consumer insights, creative and media services.
+
+
+
+During the year ended December 31, 2023, the Company completed the acquisition of two business units of Big Village (Big Village Insights, Inc. and Big Village Agency LLC (together, referred to as the "Big Village Entities")), in an all-cash transaction funded by the Centre Lane Senior Secured Credit Facility (the "Big Village Acquisition"). 
+
+
+
+Digital Publishing
+
+
+
+Our digital publishing division focuses on developing content that attracts an audience and monetizes that audience through advertising. The current portfolio of owned and operated websites is focused on moms, parenting, families, and more broadly, women. The portfolio consists of popular websites including Mom.com, Cafemom.com, LittleThings.com, and MamasLatinas.com. This demographic is highly sought after by brands and their advertising agencies. We use internal and external technologies to constantly improve the effectiveness and efficiency of the content we create. Our publishing division monetizes its audiences through both direct and programmatic advertising sales. 
+
+
+
+Advertising Technology
+
+
+
+Our advertising technology division focuses on delivering targeted ads to audiences on owned and operated sites as well as third-party publishers in a cost-effective manner through the deployment of proprietary technologies. By developing our own proprietary technology stack, we are able to pass along efficiencies to both the demand and supply side of the ecosystem. Our goal is to enable and support a streamlined, end-to-end advertising model that addresses both demand (buy side) and publisher supply (sell side) programmatic sales and delivery of digital advertisements using an array of audience targeting tools and advertising formats (display, audio, video, CTV, in-app). Programmatic advertising relies on software programs that leverage data and proprietary algorithms to match the optimal selection of an ad with a bid price offered by advertisers.
+
+
+
+Consumer Insights
+
+
+
+Our consumer insights division focuses on providing primary and secondary research, competitive intelligence, and expert insight to address customers' strategic issues. We provide cutting-edge and dynamic research, offering clients a comprehensive perspective on their consumers. This insight extends to strategic guidance on the optimal timing and channels to effectively connect with target audiences. Our cutting-edge approach combines advanced data analytics and comprehensive market research, to uncover actionable insights that drive informed decision-making.
+
+
+
+Creative Services
+
+
+
+Our creative services division transforms data into award-winning campaigns. We are uniquely able to leverage insights teams with highly strategic media planning and buying teams to ensure brands not only position their advertising precisely, but also yield impactful business results. Our goal is to combine data-driven decisions with creativity fueled by a deep understanding of modern culture. 
+
+
+
+Media Services
+
+
+
+Our media services division focuses on advertisers and agencies by providing access to premium inventory, leveraging data to optimize programmatic campaigns. Our aim is to empower clients to access the most sought-after advertising spaces across diverse platforms tailored to their specific needs and preferences. Our data-driven approach ensures that ad placements are not only well-targeted, but also continuously optimized for maximum efficiency and ROI. Our commitment to combining premium inventory access with data-driven programmatic campaign optimization makes us an indispensable partner in the success of our clients' advertising and marketing endeavors. 
+
+
+
+9
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+The Company generates revenue through:
+
+
+
+•the selling of advertisements placed on our owned and managed sites and on partner websites where we earn a share of the revenue,
+
+•facilitating the seamless, real-time exchange of advertisements on a large scale, bridging networks of buyers (referred to as "DSPs") and networks of sellers (referred to as "SSPs"),
+
+•serving advertisers through providing access to premium resources and leveraging data to optimize programmatic campaigns, where revenue is derived from the planning and execution of creative and media marketing campaigns, and
+
+•providing primary and secondary research, competitive intelligence, and expert insights to address customers' strategic issues, where revenue is primarily derived from providing a single integrated service for such research. 
+
+
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Principles of Consolidation and Basis of Presentation
+
+The unaudited consolidated financial statements include the accounts of the Company and all its wholly owned subsidiaries. All significant intercompany balances and transactions have been eliminated in consolidation. The accompanying unaudited consolidated financial statements for the three months ended March 31, 2024, and 2023 have been prepared in accordance with generally accepted accounting principles in the United States of America (“GAAP”) and in accordance with rules and regulations of the U.S. Securities and Exchange Commission (“SEC”) regarding interim financial reporting. Accordingly, they do not include all the information and disclosures required by accounting principles generally accepted in the United States for complete consolidated financial statements. In the opinion of management, such unaudited consolidated financial statements include all adjustments (consisting of normal recurring accruals) necessary for the fair presentation of the consolidated financial position and the consolidated results of operations. The consolidated results of operations for periods presented are not necessarily indicative of the results to be expected for the full year or any future periods. The consolidated balance sheet information as of December 31, 2023, was derived from the audited consolidated financial statements included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2023. The interim consolidated financial statements should be read in conjunction with that report. 
+
+Going Concern and Liquidity
+
+Historically, the Company has incurred losses, which has resulted in an accumulated deficit of approximately $154.6 million as of March 31, 2024. Cash flows provided by (used in) operating activities were $920,000 and $(1.0) million for the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024, the Company had approximately a $13.3 million working capital deficit, inclusive of $4.9 million in cash and cash equivalents.
+
+
+
+The Company’s ability to continue as a going concern is dependent upon its ability to meet its liquidity needs through a combination of factors. The Company is currently exploring several strategic alternatives, including restructuring or refinancing its debt, or seeking additional debt, including borrowing under the Centre Lane Senior Secured Credit Agreement or raising equity capital. The ability to access the capital market is also dependent upon the stock volume and market price of the Company's stock, which cannot be assured. Other measures include reducing or delaying certain business activities, reducing general and administrative expenses, including a reduction in headcount. The ultimate success of these plans is not guaranteed.
+
+
+
+The Company's current cash and working capital, as of the filing of this Quarterly Report on Form 10-Q, is not expected to be sufficient to fund its anticipated level of operations over the next twelve months. As a result, such matters create a substantial doubt regarding the Company’s ability to meet its financial needs and continue as a going concern.
+
+
+
+The accompanying unaudited consolidated financial statements are prepared on a going concern basis and do not include any adjustments that might result from uncertainty about the Company’s ability to continue as a going concern.
+
+
+
+10
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+Cash and Cash Equivalents
+
+
+
+The Company considers all highly liquid investments with a maturity of three months or less, when acquired, to be cash equivalents. The Company maintains its cash with various commercial banks in the United States. and other foreign countries in which the Company operates.
+
+
+
+As of March 31, 2024 and December 31, 2023, the Company exceeded the federally insured limit of $250,000 for interest and non-interest-bearing accounts. The Company held a cash balance with a single financial institution in excess of the FDIC insured limit in the amount of $4.6 million as of March 31, 2024, and $3.7 million as of December 31, 2023.
+
+
+
+As of March 31, 2024 and December 31, 2023, the Company exceeded the insurance limit of $28,000 for one of its international bank accounts by $49,000 and $31,000, respectively.
+
+
+
+Any loss incurred or a lack of access to such funds could have a significant adverse effect on the Company's financial condition, results of operations, and cash flows. 
+
+
+
+At March 31, 2024, and December 31, 2023, the Company had $4.9 million and $4.0 million, respectively, in cash and cash equivalents.
+
+
+
+Off-balance Sheet Arrangements
+
+There were no off-balance sheet arrangements as of March 31, 2024 and December 31, 2023.
+
+Use of Estimates 
+
+
+
+The preparation of financial statements in conformity with GAAP requires management to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions are made. These estimates, judgments, and assumptions can affect the reported amounts of assets and liabilities as of the date of our consolidated financial statements as well as reported amounts of revenue and expenses during the periods presented. Our consolidated financial statements would be affected to the extent there are material differences between these estimates and actual results.
+
+
+
+Significant estimates included in the accompanying consolidated financial statements include, valuation of goodwill and intangible assets, allowance for current expected credit losses, the determination of the relative selling prices of our services, percentage of completion for revenue recognition, estimates of amortization period for intangible assets, estimates of depreciation period for property and equipment, discount rates used in the valuation of right-of-use assets and lease liabilities, litigation reserves, the valuation of equity-based transactions, valuation of the Center Lane Senior Secured Facility carrying value regarding debt modification or extinguishment, and the valuation allowance on deferred tax assets. While these estimates are based on our best knowledge of current events and actions that may affect us in the future, actual results may differ materially from these estimates.
+
+Foreign Currency
+
+
+
+We translate the financial statements of our foreign subsidiaries, which have a functional currency in the respective country’s local currency, to U.S. dollars using month-end exchange rates for assets and liabilities and actual exchange rates for revenue, costs and expenses on the date of the transaction. Translation gains and losses as a result of consolidation are included in accumulated other comprehensive income. Transaction gains and losses are included within “general and administrative expense” on the consolidated statements of operations and comprehensive loss. 
+
+11
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+Concentrations of Credit Risk
+
+
+
+Financial instruments that potentially subject us to concentration of credit risk consist principally of cash and cash equivalents and accounts receivable. We place our cash and cash equivalents with high credit-quality financial institutions. Such deposits may be in excess of federally insured limits. In addition, the Company maintains various bank accounts in Thailand and Israel, with some level of insurance. We perform periodic evaluations of the relative credit standing of financial institutions. Any loss incurred or a lack of access to such funds could have a significant adverse impact on the Company's financial condition, results of operations, and cash flows.
+
+
+
+We perform credit evaluations of our customers’ financial condition and require no collateral from our customers. We maintain an allowance for current expected credit losses based upon the expected collectability of accounts receivable balances.
+
+
+
+The Company generates revenue as follows:
+
+
+
+•the selling of advertisements placed on our owned and managed sites and on partner websites where we earn a share of the revenue,
+
+•facilitating the seamless, real-time exchange of advertisements on a large scale, bridging networks of buyers (referred to as "DSPs") and networks of sellers (referred to as "SSPs"),
+
+•serving advertisers through providing access to premium resources and leveraging data to optimize programmatic campaigns, where revenue is derived from the planning and execution of creative and media marketing campaigns, and
+
+•providing primary and secondary research, competitive intelligence, and expert insights to address customers' strategic issues, where revenue is primarily derived from providing a single integrated service for such research. 
+
+
+
+The following table provides information about concentration that exceed 10% of revenue and accounts receivable for the period:
+
+
+
+                                                                                                           Three Months Ended
+
+                                                                                                               March 31,
+
+                                                                                                       2024                2023
+
+
+
+Revenue Concentration
+
+Customers exceeding 10% of revenue                                                                                1                  —
+
+% of overall revenue
+
+Customer 1                                                                                                  14.9  %               —  %
+
+
+
+Total % of revenue                                                                                          14.9  %               —  %
+
+
+
+
+
+                                                                                                 March 31,           December 31,
+
+                                                                                                   2024                  2023
+
+Accounts Receivable Concentration
+
+Customers exceeding 10% of accounts receivable                                                                2                      2
+
+% of accounts receivable
+
+Customer 1                                                                                             25.7  %              15.7    %
+
+Customer 2                                                                                             13.2  %              10.5    %
+
+Total % of accounts receivable                                                                         38.9  %              26.2    %
+
+
+
+12
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+Reclassification
+
+
+
+As of and for the year ending December 31, 2023, certain amounts have been reclassified for comparative purposes. Changes were made for foreign currency translation from operating activities to showing the cash and cash equivalent impact only as a separate line item below financing activities, right of use asset and liability showing a net position instead showing a separate line item for asset and liabilities and reclassification on other operating activities line items for accounts payable and accrued expenses on the consolidated statement of cash flows. Changes were made for other expenses under finance income (expense), to general and administrative expense, which impacted our loss from operations.
+
+These reclassifications had no impact on the previously reported net loss for the three months ended March 31, 2023.
+
+Effective Accounting Pronouncements Adopted
+
+
+
+In August 2020, the FASB issued ASU No. 2020-06, Debt—Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging—Contracts in Entity’s Own Equity (Subtopic 815-40). This ASU simplifies the accounting for certain financial instruments with characteristics of liabilities and equity. The FASB reduced the number of accounting models for convertible debt and convertible preferred stock instruments and made certain disclosure amendments to improve the information provided to users. The new standard is effective January 1, 2024 (early adoption is permitted, but not earlier than January 1, 2021). This standard did not have an impact on our consolidated financial statements for the period March 31, 2024.
+
+NOTE 3 – ACCOUNTS RECEIVABLE
+
+Accounts receivable, net consisted of the following:
+
+
+
+(in thousands)                                                                                        March 31,         December 31,
+
+                                                                                                        2024                2023
+
+Accounts receivable                                                                              $          10,866   $         13,799 
+
+Unbilled receivables (1)                                                                                     1,934               1,252 
+
+                                                                                                            12,800              15,051 
+
+Less: allowance for current expected credit losses                                                            (326)               (372)
+
+Accounts receivable, net                                                                         $          12,474   $         14,679 
+
+(1) - Unbilled receivables represent amounts for services rendered at the end of the period pending generation of invoice to the customer.
+
+
+
+Accounts receivable, net at January 1, 2023 was $3.6 million.
+
+
+
+Expected credit losses (recoveries) were approximately $(37,000) and $(188,000) for the three months ended March 31, 2024, and 2023, respectively. These amounts are included in general and administrative expenses in the consolidated statements of operations and comprehensive loss.
+
+13
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+NOTE 4 – PREPAID EXPENSES AND OTHER ASSETS
+
+Prepaid expenses and other assets consisted of the following:
+
+
+
+(in thousands)                                                                                    March 31, 2024     December 31, 2023
+
+Prepaid insurance(1)                                                                            $            433   $            618 
+
+
+
+Prepaid software                                                                                               57                  46 
+
+Deposits                                                                                                      158                 156 
+
+Subscriptions                                                                                                 309                 174 
+
+Other current assets                                                                                          379                 219 
+
+Total prepaid expenses and other assets                                                                     1,336               1,213 
+
+Less: other assets, non-current                                                                              (158)               (156)
+
+Prepaid expenses and other current assets                                                       $          1,178   $          1,057 
+
+(1) - The amount of $433,000 includes $371,000, which is being paid over a period of time and is included in accounts payable at March 31, 2024.
+
+NOTE 5 – PROPERTY AND EQUIPMENT
+
+
+
+Property and equipment consisted of the following:
+
+
+
+(in thousands)                                                                 Estimated         March 31, 2024    December 31, 2023
+
+                                                                          Useful Life (Years)
+
+Furniture and fixtures                                                            3-5           $             8   $              8 
+
+Computer equipment                                                                 3                        191                 190 
+
+Computer software                                                                  5                        206                 206 
+
+                                                                                                            405                 404 
+
+Less: accumulated depreciation                                                                             (244)               (205)
+
+Property and equipment, net                                                                     $           161   $            199 
+
+Depreciation and amortization expense for the three months ended March 31, 2024, and 2023 was $40,000 and $7,000, respectively. The amounts are included in general and administrative expenses in the consolidated statements of operations and comprehensive loss.
+
+NOTE 6 – INTANGIBLES ASSETS, NET
+
+Website acquisitions, net consisted of the following: 
+
+
+
+(in thousands)                                                                                    March 31, 2024    December 31, 2023
+
+Website acquisition assets                                                                       $         1,124   $          1,124 
+
+Less: accumulated amortization                                                                             (1,124)             (1,123)
+
+
+
+Website acquisition assets, net                                                                  $             —   $              1 
+
+14
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+Other intangible assets, net consisted of the following:
+
+
+
+                                                    As of March 31, 2024                                       As of December 31, 2023
+
+(in thousands)                                Gross         Accumulated          Net           Gross         Accumulated           Net 
+
+                             Useful Life     Carrying       Amortization       Carrying      Carrying        Amortization       Carrying 
+
+                               (Years)        Amount                            Amount         Amount                             Amount
+
+Trade name                      2 - 10     $      8,381   $          (3,324)  $      5,057   $       8,381   $          (3,167)  $      5,214 
+
+IP/technology                     10              5,821              (2,279)         3,542           5,821              (2,180)         3,641 
+
+Customer relationships          5 - 10           13,380              (7,226)         6,154          13,380              (7,002)         6,378 
+
+Non-compete agreements          3 - 5               402                (402)             —             402                (402)             — 
+
+Total                                      $     27,984   $         (13,231)  $     14,753   $      27,984   $         (12,751)  $     15,233 
+
+
+
+
+
+(in thousands)                                                                                     March 31, 2024   December 31, 2023
+
+Website                                                                                          $             —   $              1 
+
+Other intangibles                                                                                          14,753              15,233 
+
+Total intangible, net                                                                            $        14,753   $         15,234 
+
+
+
+Amortization expense for the three months ended March 31, 2024 and 2023 was approximately $481,000 and $386,000, respectively. Amortization expense related to both the website acquisition costs and the intangible assets and is included in general and administrative expense in the statements of operations and comprehensive loss.
+
+The Company performed an impairment assessment during the year ended December 31, 2023, and recorded an impairment loss of $2.9 million.
+
+As of March 31, 2024, expected remaining amortization expense of intangible assets and website acquisition by fiscal year is as follows:
+
+
+
+(in thousands)
+
+Remainder of 2024                                                                                                     $         1,441 
+
+2025                                                                                                                             1,845 
+
+2026                                                                                                                             1,769 
+
+2027                                                                                                                             1,769 
+
+2028                                                                                                                             1,769 
+
+Thereafter                                                                                                                       6,160 
+
+
+
+Total expected amortization expense                                                                                   $        14,753 
+
+NOTE 7 – GOODWILL
+
+The following table represents the allocation of goodwill as of March 31, 2024, and December 31, 2023:
+
+
+
+(in thousands)                                                  Owned &              Ad              Insights            Total
+
+                                                                Operated           Network
+
+December 31, 2023                                          $          2,865   $          4,013   $           907   $        7,785 
+
+Addition                                                                  —                  —                  —                 — 
+
+
+
+March 31, 2024                                             $          2,865   $          4,013   $           907   $        7,785 
+
+
+
+15
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+Goodwill is tested for impairment at least annually and if triggering events are noted prior to the annual assessment. Impairment is deemed to occur when the carrying value of the goodwill associated with the reporting unit exceeds the implied value of the goodwill associated with the reporting unit.
+
+
+
+During the year ended December 31, 2023, an impairment assessment was performed on goodwill for the Ad Network, Owned & Operating and Insights reporting units. The assessment used a qualitative assessment which includes consideration of the economic, industry and market conditions in addition to the overall financial performance of the Company and these assets. Our qualitative assessment concluded that it was more likely than not that the estimated fair value of the Ad Network and Owned & Operating reporting units was less than the carrying value, hence, we performed a quantitative analysis. Our assessment for the Insights reporting unit did not have such a conclusion, hence a quantitative analysis was not required.
+
+
+
+In a quantitative test, the fair value of a reporting unit is determined based on a discounted cash flow analysis and further analyzed using other methods of valuation. A discounted cash flow analysis requires us to make various assumptions, including assumptions about future cash flows, growth rates and discount rates. The assumptions about future cash flows and growth rates are based on our long-term projections. Assumptions used in our impairment testing are consistent with our internal forecasts and operating plans. Our discount rate is based on a market participant debt structure and cost of capital. If the fair value of the reporting unit exceeds its carrying amount, there is no impairment. To the extent the carrying amount exceeds its fair value, an impairment charge of the reporting unit’s goodwill would be necessary. 
+
+
+
+At December 31, 2023, our quantitative analysis showed that the implied fair value of our goodwill for the Ad Network and Owned & Operating reporting units was less than its carrying value which resulted in an impairment charge of approximately $14.1 million. 
+
+
+
+There was no triggering event or impairment for the three months ended March 31, 2024.
+
+
+
+NOTE 8 – ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+
+
+
+Accounts payable and accrued expenses consisted of the following:
+
+
+
+(in thousands)                                                                                    March 31, 2024    December 31, 2023
+
+Accounts payable (1)                                                                            $          11,259   $         11,391 
+
+Accrued wages, commissions and bonus                                                                           188                 353 
+
+Publisher cost                                                                                               1,034               1,153 
+
+Professional fees                                                                                              645               1,322 
+
+Subcontractor                                                                                                2,444               3,013 
+
+Other                                                                                                          237                 265 
+
+Total accounts payable and accrued expenses                                                     $          15,807   $         17,497 
+
+
+
+(1) - Accounts payable includes $5.2 million at March 31, 2024 and December 31, 2023, respectively, for Slutzky & Winshman Ltd and Mediahouse, whose operations were terminated during the year ended December 31, 2023.
+
+16
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+NOTE 9 – OTHER CURRENT LIABILITIES
+
+
+
+Other current liabilities consisted of the following:
+
+
+
+
+
+(in thousands)                                                                                    March 31, 2024     December 31, 2023
+
+Current portion of long term lease                                                              $              73   $             82 
+
+Dividend payable                                                                                               692                 692 
+
+Project advance expense (1)                                                                                  1,409               1,401 
+
+Litigation reserves                                                                                          1,113               1,152 
+
+Other current liabilities                                                                                       25                  23 
+
+Total other current liabilities                                                                              3,312               3,350 
+
+Less: other liabilities, non-current                                                                          (286)               (325)
+
+Other current liabilities                                                                       $           3,026   $          3,025 
+
+(1) - Represents amount advanced by customers to cover third party expenses specifically related to their project; these expenses are offset against the advance and are not part of the Company's income statement.
+
+NOTE 10 – CENTRE LANE SENIOR SECURED CREDIT FACILITY
+
+
+
+Effective June 1, 2020, the Company entered into a membership interest purchase agreement to acquire 100% of Wild Sky Media, a subsidiary of the Company (the “Purchase Agreement”). To finance this acquisition, the Company obtained a first lien senior secured credit facility from Centre Lane Partners Master Credit Fund II, L.P. (“Centre Lane Partners”) in the amount of $16.5 million, comprised of $15.0 million of initial indebtedness, repayment of Wild Sky’s existing accounts receivable factoring facility of approximately $900,000 and approximately $500,000 of expenses.
+
+
+
+On April 4, 2023, the Company entered into a commitment letter (the “Commitment Letter”) with Centre Lane Partners, pursuant to which they would provide financing in the form of a senior secured credit facility for the acquisition of the Big Village Entities. 
+
+
+
+On April 20, 2023, the Company and its subsidiaries entered into the Seventeenth Amendment to the Credit Agreement (the “Seventeenth Amendment”) with Centre Lane Partners. The Credit Agreement was amended, as provided in the Seventeenth Amendment, to provide for an additional term loan amount of $26.3 million to, among other things, finance the Acquisition. This term loan, which was provided by BV Agency, LLC, matures on April 20, 2026 and was issued at a discount of 5% or $1.3 million. Interest of 15% payable under the note is payable-in-kind in lieu of cash payment up to April 30, 2024, then 5% payable quarterly in cash and 10% payable-in-kind in lieu of cash payment until maturity of April 20, 2026.
+
+
+
+As part of the Seventeenth Amendment, the Company is required to pay an amendment fee of 2% of the principal amount of the existing initial principal plus amendments one to eight ("First In Last Out Loans") and amendments nine to sixteen ("Last In First Out Loans"), totaling $706,000, additionally, an exit fee of $18,000 of the loan to finance the Big Village Acquisition. The outstanding principal on these at April 20, 2023 was $31.0 million and $4.3 million, respectively. These fees total $724,000 and are due and payable at maturity. Additionally, the maturity dates were extended to April 20, 2026.
+
+
+
+Also, in connection with the Seventeenth Amendment, on April 20, 2023, the Company issued 21,401,993 shares of common stock of the Company to BV Agency, LLC, an entity beneficially owned by Centre Lane Partners. The shares valued $1.9 million, based on a per share price of $0.09, which was the closing price of the Company’s common stock at close of market on April 19, 2023. The issuance of the shares of common stock were not registered under the Securities Act of 1933, as amended (“Securities Act”), in accordance with Section 4(a)(2) of the Securities Act as a transaction by an issuer not involving a public offering. As of March 31, 2024, BV Agency, LLC and Centre Lane Partners own approximately 12.4% and 8.8% of the Company’s outstanding common stock, respectively.
+
+
+
+On July 28, 2023, the Company and its subsidiaries entered into the Nineteenth Amendment to the Credit Agreement (the “Nineteenth Amendment”) with Centre Lane Partners. The Credit Agreement was amended, as provided in the Nineteenth Amendment, to provide for an additional term loan amount of $2.0 million to, among other things, finance the 
+
+17
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+integration and further growth of the Company post-Acquisition. This term loan is part of the last in first out loans and matures on June 28, 2024. 
+
+
+
+Including the Nineteenth Amendment, Centre Lane Partners subsequently loaned the Company an additional $38.0 million to provide liquidity to fund operations beginning in April 2021 (as amended, the “Centre Lane Senior Secured Credit Facility”). This Centre Lane Senior Secured Credit Facility has been determined to qualify as a related party transaction as shares were issued to Centre Lane Partners as part of the transaction. A related party is a party that can exercise significant influence over the Company in making financial and/or operating decisions.
+
+
+
+The original note issued under the Centre Lane Senior Secured Credit Facility initially bore interest at a rate of 6.0% per annum, with payments of 2.5% of outstanding principal beginning on June 30, 2023. The interest rate was increased to 10.0% pursuant to the first amendment to the Centre Lane Senior Secured Credit Facility and interest payable under the note is payable-in-kind (“PIK Interest”) in lieu of cash payment. 
+
+
+
+Commencing with the ninth amendment, the interest rate was increased to 12% per annum on all subsequent draws with 8% per annum payable quarterly in cash and 4% per annum payable-in-kind in lieu of cash payment. These “last in first out loans”, totaling $7.0 million inclusive of exit fees at March 31, 2024, are due and payable on April 20, 2026, excluding the amounts due under the Nineteenth Amendment which are due and payable on June 28, 2024.
+
+
+
+In connection with the Nineteenth Amendment, adjustments were made to the interest rate for outstanding loans with the exception of the draw under the Seventeenth Amendment as follows:
+
+
+
+•The interest rate per annum changed to 7.0% per annum plus the Secured Overnight Financing Rate ("SOFR"). At March 31, 2024, the SOFR was 5.33% per annum, and overall interest on these facilities was 12.33%, per annum at March 31, 2024;
+
+
+
+•The cash pay rate for the last in first out loans was changed to the SOFR plus 3.0% per annum. At March 31, 2024, the rate was 8.33% per annum; and
+
+
+
+•Effective July 1, 2024, the first in last out loans PIK Rate per annum will be 7.0% per annum plus SOFR plus 5.0% per annum. 
+
+
+
+There is no prepayment penalty associated with this Centre Lane Senior Secured Credit Facility. However, partial or full prepayments of the Centre Lane Senior Secured Credit Facility would be required in the event of certain future capital raises. 
+
+Optional Prepayment 
+
+
+
+The Company may, at any time, voluntarily prepay, in whole or in part, a minimum of $250,000 of the outstanding principal of the loans, plus any accrued but unpaid interest on the aggregate principal amount of the loans being prepaid.
+
+Repayment of Loans
+
+
+
+The Company is required to repay in cash to Centre Lane Partners (i) commencing with the fiscal quarter ending on June 30, 2023, in consecutive quarterly installments to be paid on the last day of each fiscal quarter of the Company, an amount equal to 2.5% of the outstanding aggregate principal amount of the original principal plus draws advanced by amendments 2 through 8 along with accrued and unpaid interest (after giving effect to capitalized PIK Interest) and (ii) on the maturity date all outstanding obligations (including, without limitation, all accrued and unpaid principal and interest on the principal amounts of the Loans (including any accrued but uncapitalized PIK Interest)) of the loan parties that are due and payable on such date. The outstanding amount for these draws at March 31, 2024 is $35.2 million, inclusive of interest paid in kind.
+
+
+
+On June 30, 2023, the Company and its subsidiaries entered into its Eighteenth Amendment with Centre Lane Partners regarding installment payments which were due on June 30, 2023. The Eighteenth Amendment required equal monthly installments on July 3, 2023, August 7, 2023 and September 5, 2023, respectively. There was no impact on principal or interest and no fees incurred by the Company as a result of this amendment.
+
+
+
+18
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+In connection with the Nineteenth Amendment, quarterly installments equal to 2.5% of the outstanding aggregate principal are due on the first in last out loans commencing March 31, 2024.
+
+
+
+There was no payment on the principal loan balance for the three months ended March 31, 2024, and 2023.
+
+Interest payable at March 31, 2024 was $138,000. There was no payment toward outstanding interest for the three months ended March 31, 2024, and 2023.
+
+Fees
+
+
+
+Under the terms of the Centre Lane Senior Secured Credit Facility, the Company is also required to pay Centre Lane Partners a non-refundable annual administration fee equal to $35,000 for agency services provided under this agreement. The Centre Lane Senior Secured Credit Facility provides that this fee shall be in all respects fully earned, due and paid-in-kind by the Company on the effective date (“Effective Date”) of the Centre Lane Senior Secured Credit Facility and on each anniversary of the Effective Date during the term of this agreement by adding and capitalizing the full amount of such fee to the outstanding principal balance of the loans. The accumulated administrative fee since inception of the facility is $140,000 and is included in outstanding principal. There was no administrative fee charged during the three months ended March 31, 2024 and 2023.
+
+
+
+The below table summarizes the loan balance at March 31, 2024, and December 31, 2023:
+
+
+
+(in thousands)                                                                                    March 31, 2024    December 31, 2023
+
+
+
+Note payable – Centre Lane Senior Secured Credit Facility – related party (current portion)     $          6,471   $          5,592 
+
+Note payable – Centre Lane Senior Secured Credit Facility – net of discount, related party                 60,648              58,674 
+
+Net principal at March 31, 2024 and December 31, 2023                                                      67,119              64,266 
+
+Add: debt discount                                                                                          5,347               5,962 
+
+Outstanding principal at March 31, 2024 and December 31, 2023                                   $         72,466   $         70,228 
+
+The below table summarizes the movement in the outstanding principal from inception through March 31, 2024:
+
+
+
+(in thousands)                                                                                    March 31, 2024    December 31, 2023
+
+Opening balance                                                                                 $         70,228   $         33,109 
+
+Add:                                                                                                               
+
+Draws                                                                                                           —             29,816 
+
+Exit and other fees                                                                                             —                917 
+
+Interest capitalized                                                                                        2,238              6,656 
+
+                                                                                                           72,466             70,498 
+
+Less: Payment                                                                                                   —               (270)
+
+Outstanding principal                                                                           $         72,466   $         70,228 
+
+
+
+Amendments to Centre Lane Senior Secured Credit Facility
+
+
+
+Commencing April 2021, the Company and certain of its subsidiaries entered into various amendments to the Amended and Restated Senior Secured Credit Agreement between itself and Centre Lane Partners. The Company and its subsidiaries are parties to a credit agreement between itself and Centre Lane Partners as Administrative Agent and Collateral Agent. The Credit Agreement was amended to provide for additional loans used for working capital. In addition, and as part of the transaction, there are Exit Fees (the “Exit Fees”), which will be added and capitalized to the principal 
+
+19
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+amount of the original loan. As of March 31, 2024, there were nineteen amendments to the Centre Lane Senior Secured Credit Facility. 
+
+
+
+Consistent with FASB ASC Topic 470 Debt, (“ASC 470”), the Company is required to perform an analysis of the change in each amendment to determine whether the change is a modification or an extinguishment of debt. Under a modification, no gain or loss is recorded, and a new effective interest rate is established based on the carrying value of the debt and revised cash flow. If the debt is extinguished, the old debt is derecognized and the new debt is recorded as fair value, which becomes the new carrying value. A gain or loss is recorded for the difference between the net carrying value of the original debt and the fair value of the new debt, additionally, in the event the transaction is with a related party, this gain or loss should be recognized against additional paid in capital. Interest expense is recorded based on the effective interest rate of the new debt. A debt is considered extinguished if the present value of the new cash flows under the term of the new debt is at least 10% different from the present value of the remaining cash flows under the terms of the old debt.
+
+
+
+In connection with the Seventeenth Amendment, the Company determined that the change was an extinguishment consistent with ASC 470, Debt, the old debt of $35.5 million was derecognized and the new debt of $62.7 million was recognized at estimated fair value. A gain on extinguishment was recognized against additional paid in capital of $671,000, as Centre Lane Partners is a related party.
+
+
+
+20
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+The below table summarizes the amendments that were executed by the Company since the inception of the facility to March 31, 2024, (in thousands, except for share data): 
+
+
+
+                 Date     Draw $’000     Repayment       Interest    Interest  Agency Fee   Exit        Common        Accounting Impact
+
+   Number                                   Date            Rate        Rate                Fee(A)   Stock Issued
+
+                                                          (PIK)(D)   (Cash)(E)
+
+     1         04/26/21   $      —    April 20, 2026     12.33  %       —    $      —   $     —         150,000      Extinguishment    (B)
+
+     2         05/26/21       1,500    April 20, 2026     12.33  %       —           —        750       3,000,000       Modification     (F)
+
+     3         08/12/21         500    April 20, 2026     12.33  %       —           —        250       2,000,000       Modification     (F)
+
+     4         08/31/21       1,100    April 20, 2026     12.33  %       —           —        550               —       Modification     (F)
+
+     5         10/08/21         725    April 20, 2026     12.33  %       —           —        363               —      Extinguishment    (F)
+
+     6         11/05/21         800    April 20, 2026     12.33  %       —           —        800       7,500,000       Modification     (F)
+
+     7         12/23/21         500    April 20, 2026     12.33  %       —          70        500               —       Modification     (F)
+
+                          $  5,125                                            $     70   $ 3,213      12,650,000 
+
+
+
+     8         01/26/22         350    April 20, 2026     12.33  %       —           —        350               —       Modification     (F)
+
+     9         02/11/22         250    April 20, 2026      4.00  %    8.33   %       —         13               —       Modification     (G)
+
+     10        03/11/22         300    April 20, 2026      4.00  %    8.33   %       —         15               —       Modification     (G)
+
+     11        03/25/22         500    April 20, 2026      4.00  %    8.33   %       —         25               —       Modification     (G)
+
+     12        04/15/22         450    April 20, 2026      4.00  %    8.33   %       —         23               —       Modification     (G)
+
+     13        05/10/22         500    April 20, 2026      4.00  %    8.33   %      35         25               —       Modification     (G)
+
+     14        06/10/22         350    April 20, 2026      4.00  %    8.33   %       —         18               —       Modification     (G)
+
+     15        07/08/22         350    April 20, 2026      4.00  %    8.33   %       —         18               —       Modification     (G)
+
+                          $  3,050                                            $     35   $   487               — 
+
+
+
+     16        02/10/23       1,500      April 20, 2026    4.00  %    8.33   %       —         75               —       Modification     (G)
+
+     17        04/20/23      26,316      April 20, 2026   15.00  %       —   %      35        708      21,401,993      Extinguishment    (C)
+
+     19        07/28/23       2,000       June 28, 2024    4.00  %    8.33   %       —   $   100               —       Modification     (G)
+
+                          $ 29,816                                            $     35   $   883      21,401,993 
+
+
+
+   Total                  $ 37,991                                            $    140   $ 4,583      34,051,993 
+
+
+
+
+
+(A)     Added and capitalized to the principal amount of the original loan and the original loan terms apply.
+
+
+
+(B)     The Centre Lane Senior Secured Credit Facility was amended to permit the Company to raise up to $6.0 million of total cash proceeds from the sale of its
+
+         preferred stock prior to December 31, 2021, without having to make a mandatory prepayment of the loans. Additionally, the Company may issue up to $800,000 in
+
+         dividends from the previous limit of $500,000 per
+
+         annum.
+
+
+
+(C)     15% PIK until April 20, 2024, then 5% cash and 10% PIK thereafter.
+
+
+
+(D)     New rates in effect in connection with Amendment 19, Amendment 1 through 8, the PIK rate was 10%.
+
+
+
+(E)     New rates in effect in connection with Amendment 19, Amendment 9 through 16, the cash rate was 8%.
+
+
+
+(F)     First In Last Out Loans.
+
+
+
+(G)     Last In First Out Loans.
+
+
+
+(H)     As discussed above, there was no impact on principal or interest and no fees incurred by the Company as a result of Amendment 18, thus it is not included in
+
+         above
+
+         table.
+
+
+
+Draws advanced by Amendments 2 through 8 totaling $5.5 million and exit fees totaling $3.6 million, were due for full repayment on February 28, 2022; prior to this date, the loan agreement allowed the Company to waive the accrual of interest on these amounts. There was no repayment of these amounts, and as a result, on March 11, 2022, amendment 10 was executed, changing the repayment date of the outstanding principal and commencing interest accrual on the exit fees.
+
+21
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+
+
+All amounts advanced for Amendments 9 through 16 were due on June 30, 2023 along with accrued and unpaid interest, however, the maturity date was changed to April 20, 2026 with amendment 17. The outstanding amount at March 31, 2024 is $7.0 million, inclusive of interest paid in kind.
+
+As of March 31, 2024 and December 31, 2023, the carrying value of the Centre Lane Senior Secured Credit Facility was $67.1 million and $64.3 million, respectively, net of unamortized debt discount of $5.3 million and $6.0 million, respectively. The discount is being amortized over the remaining life of the Centre Lane Senior Secured Credit facility using the effective interest method.
+
+
+
+During the three months ended March 31, 2024, and 2023, the Company recorded amortization of debt discount of $615,000 and $301,000, respectively on the Centre Lane Senior Secured Credit Facility.
+
+
+
+Interest expense for the three months ended March 31, 2024, and 2023 consisted of the following:
+
+
+
+                                                                                                            Three Months Ended
+
+(in thousands)                                                                                      March 31, 2024    March 31, 2023
+
+Interest expense                                                                                   $         2,376   $           862 
+
+Amortization                                                                                                    615                301 
+
+Total interest expense                                                                             $         2,991   $         1,163 
+
+
+
+NOTE 11 – 10% CONVERTIBLE PROMISSORY NOTES
+
+
+
+On November 30, 2018, the Company issued 10% convertible promissory notes ("Convertible Notes") in the amount of $80,000 to the Chairman of the Board, a related party. The Convertible Notes are unsecured and matured five years from issuance and were convertible at the option of the holder into shares of common stock at any time prior to maturity at a conversion price of $0.40 per share. A beneficial conversion feature existed on the date the Convertible Notes were issued whereby the fair value of the underlying common stock into which the Convertible Notes was convertible was in excess of the face value of the Convertible Notes of $80,000.
+
+
+
+The principal balance of these Convertible Notes payable was $80,000 at March 31, 2024 and December 31, 2023. 
+
+
+
+Interest expense for the Convertible Notes was $2,000 for the three months ended March 31, 2024. Interest expense for the Convertible Notes was $5,000, inclusive of interest of $2,000 and discount amortization of $3,000, for the three months ended March 31, 2023. 
+
+
+
+The outstanding principal and interest of the Convertible Notes was due and payable in November 2023. The loan remains unpaid at March 31, 2024 with outstanding principal of $80,000 and interest payable of $41,000. The outstanding principal continues to accrue interest.
+
+
+
+NOTE 12 – LEASES
+
+
+
+The Company accounts for its operating lease under FASB ASC Topic 842, Leases (“ASC 842”), which requires lessees to recognize on the balance sheet at lease commencement, the lease assets and the related lease liabilities for the rights and obligations created by operating and finance leases with lease terms of more than 12 months.
+
+
+
+Operating Lease
+
+
+
+The Company leases its corporate offices in Boca Raton, Florida under a long-term non-cancellable lease agreement which was signed on June 14, 2022, with a lease term of five years beginning upon completion of improvements to the office space by the landlord, which was completed on September 12, 2022. The annual base rent is $100,000, with a provision for a 3% increase on each anniversary of the rent commencement date. The Company has the option to renew the lease for one additional five-year term.
+
+
+
+22
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+At March 31, 2024 and December 31, 2023 the operating lease right-of-use asset was $290,000 and $306,000, respectively, and is included under assets on the consolidated balance sheet.
+
+
+
+At March 31, 2024 and December 31, 2023 the operating lease right-of-use liability was $288,000 and $303,000, respectively, including current portion of $54,000 and $64,000, respectively, and is included under liabilities on the consolidated balance sheet.
+
+Over the lease term, the Company is required to amortize the operating lease asset and record interest expense on the lease liability created at lease commencement. Operating lease expense was approximately $40,000 for the three months March 31, 2024 and 2023. 
+
+The Company’s non-lease components are primarily related to property maintenance and other operating services, which vary based on future outcomes and are recognized in rent expense when incurred and not included in the measurement of the lease liability.
+
+
+
+Finance Lease
+
+
+
+On October 1, 2023, the Company entered into a lease agreement for computer equipment with a lease term of three years. 
+
+
+
+At March 31, 2024 and December 31, 2023, finance lease asset was $56,000 and $60,000, respectively, and is included under assets on the consolidated balance sheets. 
+
+
+
+At March 31, 2024 and December 31, 2023, finance lease liability was $56,000 and $60,000, including the current portion of $19,000 and $18,000, and is included under liabilities on the consolidated balance sheets. 
+
+
+
+Finance lease expense for the three months ended March 31, 2024 was $7,000, inclusive of interest of $3,000 and amortization of $4,000, is included in general and administrative expense the statements of operations and comprehensive loss.
+
+23
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+As of March 31, 2024 and December 31, 2023, the right-of-use asset and lease liability for the operating and finance lease are summarized as follows (in thousands):
+
+
+
+                                                                                                March 31, 2024      December 31, 2023
+
+Assets                                                                                                                                 
+
+Operating lease                                                                               $          290    $            306 
+
+Finance lease(1)                                                                                           56                  60 
+
+                                                                                              $          346    $            366 
+
+                                                                                                                                       
+
+Liabilities                                                                                                                            
+
+Operating lease liability, current                                                            $           54    $             64 
+
+Operating lease liability, net of current portion                                                         234                 239 
+
+Total operating lease liability                                                               $          288    $            303 
+
+
+
+Finance lease obligations, current                                                            $           19    $             18 
+
+Finance lease obligations, net of current portion                                                          37                  42 
+
+Total finance lease obligations                                                               $           56    $             60 
+
+
+
+Weighted average remaining lease terms (in years):
+
+Operating lease                                                                                               3.5                  3.75
+
+Finance lease                                                                                                 2.5                  2.75
+
+
+
+Weighted average discount rate:
+
+Operating lease                                                                                         14.39  %            14.39   %
+
+Finance lease                                                                                           21.12  %            21.12   %
+
+(1) - Finance lease represents computer software, see Note 5 "Property and Equipment".
+
+NOTE 13 – REVENUE RECOGNITION
+
+The following table represents our revenue disaggregated by type:
+
+
+
+                                                                                                           Three Months Ended
+
+(in thousands)                                                                                     March 31, 2024    March 31, 2023
+
+
+
+Revenue:
+
+Digital publishing                                                                                $           434   $           954 
+
+Advertising technology                                                                                       2,625                544 
+
+Consumer insights                                                                                            6,690                  — 
+
+Creative services                                                                                            2,058                  — 
+
+Media services                                                                                                 641                  — 
+
+Total revenue                                                                                     $        12,448   $         1,498 
+
+24
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+Geographic Information
+
+Revenue by geographical region consists of the following:
+
+
+
+                                                                                                           Three Months Ended
+
+(in thousands)                                                                                      March 31, 2024    March 31, 2023
+
+
+
+Revenue:
+
+United States                                                                                     $        12,448   $         1,460 
+
+Israel                                                                                                           —                 38 
+
+
+
+
+
+
+
+Total revenue                                                                                     $        12,448   $         1,498 
+
+Revenue by geography is generally based on the country of the Company’s contracting entity. Total United States revenue was approximately 100% and 97% of total revenue for the three months ended March 31, 2024 and 2023, respectively.
+
+As of March 31, 2024, and December 31, 2023, approximately 100% of our long-lived assets were attributable to operations in the United States. Long-lived assets include websites and other intangibles assets that are utilized in overall revenue generation.
+
+Deferred Revenue
+
+The movement in deferred revenue during the three months ended March 31, 2024 and the year ended December 31, 2023 comprised the following:
+
+
+
+(in thousands)                                                                                    March 31, 2024    December 31, 2023
+
+Deferred revenue at start of the period                                                          $         4,569   $            737 
+
+Amounts invoiced during the period                                                                         11,556              31,864 
+
+Business combination                                                                                            —               4,534 
+
+Less: revenue recognized during the period                                                                 (9,857)            (32,566)
+
+Deferred revenue at end of the period                                                            $         6,268   $          4,569 
+
+NOTE 14 – STOCK BASED COMPENSATION
+
+
+
+On April 14, 2022, the Board of Directors of the Company and the Compensation Committee of the Board of Directors adopted and approved the 2022 Bright Mountain Media Stock Option Plan (the “Stock Option Plan”). The Stock Option Plan provides for the grant of awards to eligible employees, directors and consultants in the form of stock options. The purpose of the Stock Option Plan is to provide an incentive to attract and retain directors, officers, consultants, advisors and employees whose services are considered valuable, to encourage a sense of proprietorship and to stimulate an active interest of such persons into our development and financial success. The Stock Option Plan has a term of 10 years and authorizes the issuance of up to 22,500,000 shares of the Company’s common stock. As of March 31, 2024, 12,022,890 shares were remaining under the Stock Option Plan for future issuance.
+
+Options
+
+As of March 31, 2024, options to purchase 10,477,110 shares of common stock were outstanding in the aggregate, under the Company's 2013 Stock Option Plan, 2015 Stock Option Plan, 2019 Stock Option Plan, and the Stock Option Plan at a weighted average exercise price of $0.12 per share. No further grants can be made under any of the Company's stock option plans other than the Stock Option Plan. 
+
+25
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+Compensation expense recorded in connection with the Stock Option Plan was $65,000 and $25,000 for the three months ended March 31, 2024 and 2023, respectively. These amounts have been recognized as a component of general and administrative expenses in the accompanying consolidated financial statements.
+
+The following table presents the activity of the Company’s outstanding stock options of common stock for the three months ended March 31, 2024:
+
+
+
+Common Stock Options                                     Number of           Weighted             Weighted            Aggregate
+
+                                                          Options             Average             Average             Intrinsic
+
+                                                                             Exercise            Remaining              Value
+
+                                                                               Price            Contractual
+
+                                                                                                    Term
+
+Balance Outstanding, December 31, 2023                        10,728,360 $         0.12                      8.7 $           568 
+
+
+
+
+
+Forfeited                                                      (251,250) $         0.20                     —    $             — 
+
+
+
+Balance Outstanding, March 31, 2024                           10,477,110 $         0.12                      8.3 $           145 
+
+Exercisable at, March 31, 2024                                 2,079,454 $         0.30                      5.9 $            49 
+
+Unvested at, March 31, 2024                                    8,397,656 $         0.07                      9.0 $            97 
+
+As of March 31, 2024, there were total unrecognized compensation costs related to non-vested share-based compensation arrangements of $405,000 to be recognized through July 2027.
+
+The following table provides the weighted average assumptions used in determining the fair value of the stock-based awards for the three months ended March 31, 2024 and 2023:
+
+
+
+                                                                                             March 31, 2024         March 31, 2023
+
+Expected Term (years)                                                                                         0                   6.25
+
+Expected volatility                                                                                      —   %                499  %
+
+Risk free interest rate                                                                                  —   %               3.61  %
+
+Dividend yield                                                                                           —   %                  —  %
+
+Expected forfeiture rate                                                                                 —   %                  —  %
+
+During the three months ended March 31, 2023, 425,000 options were issued, there were no options issued for the same period of 2024. 
+
+NOTE 15 – FAIR VALUE MEASUREMENTS
+
+
+
+The fair value of the Company’s financial assets and liabilities reflects management’s estimate of amounts that the Company would have received in connection with the sale of the assets or paid in connection with the transfer of the liabilities in an orderly transaction between market participants at the measurement date. In connection with measuring the fair value of its assets and liabilities, the Company seeks to maximize the use of observable inputs (market data obtained from independent sources) and to minimize the use of unobservable inputs (internal assumptions about how market participants would price assets and liabilities).
+
+
+
+The following fair value hierarchy is used to classify assets and liabilities based on the observable inputs and unobservable inputs used in order to value the assets and liabilities:
+
+
+
+Level 1: Valuation is based on unadjusted quoted prices in active markets for identical assets and liabilities that are accessible at the reporting date. Because valuations are based on quoted prices that are readily and regularly available in an active market, valuation of these products does not entail a significant degree of judgment.
+
+
+
+Level 2: Valuation is determined from pricing inputs that are other than quoted prices in active markets that are either directly or indirectly observable as of the reporting date. Observable inputs include quoted prices for similar assets or 
+
+26
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, and interest rates and yield curves that are observable at commonly quoted intervals.
+
+
+
+Level 3: Valuation is based on inputs that are both significant to the fair value measurement and unobservable. Level 3 inputs includes situations where there is little, if any, market activity for the financial instrument. The inputs into the determination of fair value generally require significant management judgment or estimation.
+
+Fair Value Considerations
+
+
+
+Financial instruments recognized in the consolidated balance sheets consist of cash, accounts receivable, other liabilities and accounts payable. The Company believes that the carrying value of its current financial instruments approximates their fair value due to the short-term nature of these instruments. The carrying value of the Centre Lane Senior Secured Credit Facility and the 10% Convertible Promissory Note approximates the fair value due to their nature and level of risk.
+
+
+
+Assets Measured at Fair Value on a Nonrecurring Basis
+
+
+
+The Company has certain non-financial assets that are measured at fair value on a non-recurring basis when there is an indicator of impairment, and they are recorded at fair value only when impairment is recognized. These assets include goodwill and intangible assets, net.
+
+
+
+The below table shows the quantitative information for assets measured at fair value on a non-recurring basis:
+
+
+
+
+
+
+
+($ in thousands)                                           Quantitative Information about Level 3 Fair Value Measurements
+
+                                       Fair Value          Valuation Technique            Unobservable Input         Rate (Weighted Average
+
+                                                                                                                             Cost of
+
+                                                                                                                             Capital
+
+
+
+Goodwill                             $       7,785        Discounted cash flow               Discount rate                   21.12%
+
+
+
+Intangible assets, net               $      14,753        Discounted cash flow               Discount rate                   21.12%
+
+
+
+
+
+Goodwill and Intangibles Assets
+
+
+
+Goodwill and intangible assets are tested for impairment at least annually, and if triggering events are noted prior to the annual assessment. Impairment is deemed to occur when the carrying value associated with the reporting unit exceeds the implied value associated with the reporting unit.
+
+
+
+We estimated the fair value of our reporting units utilizing an income approach (discounted cash flow method), which incorporated significant unobservable Level 3 inputs. 
+
+
+
+Centre Lane Senior Secured Credit Facility
+
+
+
+The Company is required to perform an analysis of the change in each amendment to determine whether the change is a modification or an extinguishment of debt. Under a modification, no gain or loss is recorded, and a new effective interest rate is established based on the carrying value of the debt and revised cash flow. If the debt is extinguished, the old debt is derecognized and the new debt is recorded as fair value, which becomes the new carrying value.
+
+
+
+Amendment seventeen was considered an extinguishment. The Company utilized a third party valuation company to calculate the present value of the cash flows under the terms of the amendment and determine if it was considered substantially different by at least a 10% difference from the present value of the remaining cash flow of the original debt instrument. 
+
+27
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+NOTE 16– COMMITMENTS AND CONTINGENCIES
+
+Litigation
+
+
+
+In accordance with applicable accounting guidance, the Company establishes an accrued liability for litigation and regulatory matters when those matters present loss contingencies that are both probable and estimable. In such cases, there may be exposure to loss in excess of any amounts accrued. When a loss contingency is not both probable and estimable, the Company does not establish an accrued liability. As a litigation or regulatory matter develops, the Company, in conjunction with any outside counsel handling the matter, evaluates on an ongoing basis whether such matter presents a loss contingency that is probable and estimable. If, at the time of evaluation, the loss contingency related to a litigation or regulatory matter is not both probable and estimable, the matter will continue to be monitored for further developments that would make such loss contingency both probable and estimable. When a loss contingency related to a litigation or regulatory matter is deemed to be both probable and estimable, the Company will establish an accrued liability with respect to such loss contingency and record a corresponding amount of litigation-related expense. The Company will then continue to monitor the matter for further developments that could affect the amount of any such accrued liability.
+
+Ladenburg
+
+
+
+On July 11, 2023, Ladenburg Thalmann & Co. Inc. (“Ladenburg”) filed an action against the Company for breach of contract in the United States District Court for the Southern District of Florida, Case No. 9:23-cv-81019-AMC. Ladenburg alleges that it entered into an Investment Banking Agreement (the “Agreement”) with the Company on September 1, 2020. According to Ladenburg, that Agreement provided that Ladenburg would be the exclusive investment advisor and banker for the Company. Ladenburg alleges that the Agreement entitles them to a fee for any financing transactions (debt financing or merger and acquisition transactions) that the Company engages in during the term of the contract. In April 2023, the Company informed Ladenburg of the impending Big Village Acquisition. Ladenburg now seeks $1.5 million, plus interest, costs and attorneys’ fees and expenses as a result of that acquisition and debt financing, claiming that it is entitled to a fee. The Company disputes the allegations and disputes that Ladenburg is entitled to receive any fee since it did not perform any work pertaining to such acquisition. The outcome of this matter is not determinable as of the date of issuance of these financial statements.
+
+Other Litigation
+
+
+
+Other litigation is defined as smaller claims or litigation that are neither individually nor collectively material. It does not include lawsuits that relate to collections.
+
+
+
+The Company is party to various other legal proceedings that arise in the ordinary course of business, separate from normal course accounts receivable collections matters. Due to the inherent difficulty of predicting the outcome of these litigations and other legal proceedings, the Company cannot predict the eventual outcome of these matters, and it is reasonably possible that some of them could be resolved unfavorably to the Company. As a result, it is possible that the Company’s results of operations or cash flows in a particular fiscal period could be materially affected by an unfavorable resolution of pending litigation or contingencies. The outcome is not determinable as of the issuance of these financial statements.
+
+NOTE 17 – STOCKHOLDERS’ DEFICIT 
+
+Preferred Stock
+
+
+
+The Company has authorized 20,000,000 shares of preferred stock with a par value of $0.01 (the “Preferred Stock”), issuable in such series and with such designations, rights and preferences as the board of directors may determine. The Company’s board of directors has designated six series of preferred stock, consisting of: 
+
+
+
+1.10% Series A Convertible Preferred Stock (“Series A Stock”); 
+
+2.10% Series B Convertible Preferred Stock (“Series B Stock”); 
+
+3.10% Series C Convertible Preferred Stock (“Series C Stock”); 
+
+4.10% Series D Convertible Preferred Stock (“Series D Stock”); 
+
+5.10% Series E Convertible Preferred Stock (“Series E Stock”); and 
+
+28
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+6.10% Series F Convertible Preferred Stock (“Series F Stock”).
+
+The designations, rights and preferences of the Series F-1, Series F-2 and Series F-3 are identical, other than the dividend rate, liquidation preference and date of automatic conversion into shares of our common stock. 
+
+Additional terms of the designations, rights and preferences of the Series F-1, Series F-2 and Series F-3 include:
+
+•the shares have no voting rights, except as may be provided under Florida law;
+
+•the shares pay cash dividends subject to the provisions of Florida law at the dividend rates set forth above, payable monthly in arrears;
+
+•the shares are convertible at any time at the option of the holder into shares of our common stock on a 1:1 basis. The conversion ratio is proportionally adjusted in the event of stock splits, recapitalization or similar corporate events. Any shares not previously converted will automatically convert into shares of our common stock on the dates set forth above;
+
+•the shares rank junior to the 10% Series A Convertible Preferred Stock and our 10% Series E Convertible Preferred Stock;
+
+•in the event of a liquidation or winding up of the Company, the shares have a liquidation preference of $0.50 per share for the Series F-1, $0.50 per share for the Series F-2 and $0.40 per share for the Series F-3; and
+
+•the shares are not redeemable by the Company.
+
+
+
+Other designations, rights and preferences of each of series of preferred stock are identical, including: 
+
+•shares do not have voting rights, except as may be permitted under Florida law; 
+
+•are convertible into shares of our common stock at the holder’s option on a one for one basis; 
+
+•are entitled to a liquidation preference equal to a return of the capital invested; and 
+
+•each share will automatically convert into shares of common stock five years from the date of issuance or upon a change in control. 
+
+
+
+Both the voluntary and automatic conversion formulas are subject to proportional adjustment in the event of stock splits, stock dividends and similar corporate events.
+
+
+
+There were no shares of preferred stock issued or outstanding at March 31, 2024, and December 31, 2023.
+
+
+
+At March 31, 2024 and December 31, 2023, there was an accrued unpaid preference dividend of $691,000. This amount is payable to the Company's Chairman, Mr. Kip Speyer, and is included under other liabilities in the consolidated balance sheet at March 31, 2024.
+
+Common Stock
+
+Shares of Common Stock under the Stock Option Plan
+
+
+
+On April 14, 2022, the Board and the Compensation Committee of the Board adopted and approved the 2022 Stock Option Plan. The 2022 Stock Option Plan has a term of 10 years and authorizes the issuance of up to 22,500,000 shares of the Company’s common stock. As of March 31, 2024, 12,022,890 shares were remaining under the 2022 Stock Option Plan for future issuance.
+
+29
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+Issue of Common Stock
+
+
+
+During the three months ended March 31, 2024, the Company issued 279,452 shares of our common stock to the Board for services rendered with a fair value of $16,000.
+
+During the three months ended March 31, 2023, the Company issued 190,000 shares of our common stock to the Board for services rendered with a fair value of $31,000.
+
+Treasury Stock
+
+
+
+During the three months ended March 31, 2024, one shareholder relinquished 525,000 shares of the Company's common stock, which were acquired by the Company for a value of $0. A total of 1,350,175 shares of the Company's common stock, with a value of $220,000, are being held as Treasury Stock by the Company.
+
+
+
+Warrants
+
+At March 31, 2024 and December 31, 2023, we had 20,448,316 and 21,362,066 common stock warrants outstanding to purchase shares of our common stock with exercise prices ranging between $0.65 and $1.00 per share. 
+
+Approximately 913,750 common stock warrants expired during the three months ended March 31, 2024, and no common stock warrants expired during the three months ended March 31, 2023.
+
+A summary of the Company’s warrants outstanding as of March 31, 2024 and December 31, 2023, is presented below:
+
+
+
+                                                             March 31, 2024
+
+                        Warrants as of                                         Number                       Gross cash proceeds
+
+                        March 31, 2024                                       Outstanding                       if exercised
+
+                        Exercise Price
+
+$                                                       1.00                              4,992,308   $                      4,992 
+
+$                                                       0.75                             15,456,008   $                     11,592 
+
+
+
+                                                                                          20,448,316   $                     16,584 
+
+
+
+
+
+                                                           December 31, 2023
+
+                        Warrants as of                                         Number                       Gross cash proceeds
+
+                       December 31, 2023                                     Outstanding                       if exercised
+
+                        Exercise Price
+
+$                                                       1.00                              4,992,308   $                      4,992 
+
+$                                                       0.75                             15,456,008   $                     11,592 
+
+$                                                       0.65                                913,750   $                        594 
+
+                                                                                          21,362,066   $                     17,178 
+
+NOTE 18 – LOSS PER SHARE
+
+
+
+As of March 31, 2024, and 2023, there were 172,382,586 and 150,634,636 shares of common stock issued, respectively, and 171,032,411 and 149,809,461 shares of common stock outstanding, respectively. Outstanding shares as of March 31, 2024, and 2023, have been adjusted to reflect 1,350,175 and 825,175 treasury shares, respectively. 
+
+
+
+Basic net loss per share is computed by dividing the net earnings attributable to common shareholders by the weighted average number of common shares outstanding during the period.
+
+
+
+30
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+Diluted loss per share is computed by dividing net income attributable to common shareholders by the weighted average number of common shares outstanding, increased to include the number of additional common shares that would have been outstanding if the dilutive potential common shares had been issued. Conversion or exercise of the potential common shares is not reflected in diluted earnings per share unless the effect is dilutive. The dilutive effect, if any, of outstanding common share equivalents is reflected in diluted earnings per share by application of the treasury stock method, and if-converted method, as applicable.
+
+The following tables reconcile actual basic and diluted earnings per share for the three months ended March 31, 2024, and 2023.
+
+
+
+(in thousands, except per share data)                                                                   Three Months Ended
+
+                                                                                              March 31, 2024         March 31, 2023
+
+Loss per share:
+
+Numerator:
+
+Net loss                                                                                   $            (4,766)  $            (3,796)
+
+
+
+
+
+Denominator
+
+Weighted-average common shares outstanding
+
+Basic and diluted                                                                                    171,231,775            149,708,905
+
+Net loss per common share
+
+Basic and diluted                                                                          $             (0.03)  $             (0.03)
+
+The anti-dilutive securities excluded from the weighted-average shares used to calculate the diluted net loss per common share for the three months ended March 31, 2024, and 2023 were as follows:
+
+
+
+                                                                                                            March 31,
+
+                                                                                                   2024                  2023
+
+Shares unvested and subject to exercise of stock options                                              10,477,110             6,500,160
+
+Shares subject to exercise of warrants                                                                20,448,316            35,998,316
+
+
+
+Shares subject to convertible notes stock conversion                                                        —                200,000 
+
+NOTE 19 – RELATED PARTIES
+
+Centre Lane Partners
+
+
+
+Centre Lane Partners has provided, and continues to provide, funding to assist the Company with its liquidity needs through the Centre Lane Senior Secured Credit Facility.
+
+
+
+In connection with the Seventeenth Amendment, on April 20, 2023, the Company issued 21,401,993 shares of common stock of the Company to BV Agency, LLC, an entity beneficially owned by Centre Lane Partners. 
+
+
+
+BV Agency, LLC and Centre Lane Partners own approximately 12.4% and 8.8% of the Company’s outstanding common stock, respectively.
+
+
+
+SEC rules define a related party as including (i) any director or executive officer of the Company, or any immediate family member thereof, (ii) any director nominee, or any immediate family member thereof, and (iii) a 5% or greater shareholder of the Company, or any immediate family member thereof. As a result, BV Agency, LLC and Centre Lane Partners together are considered to be related parties of the Company. Through March 31, 2024, the Company has entered into 19 amendments to the Credit Agreement between itself and Centre Lane Partners. 
+
+
+
+The total related party debt owed to Centre Lane Partners was $72.5 million and $70.2 million as of March 31, 2024 and December 31, 2023, respectively. See Note 10, Centre Lane Senior Secured Credit Facility for details on this facility. 
+
+31
+
+
+
+BRIGHT MOUNTAIN MEDIA, INC. 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+March 31, 2024
+
+(Unaudited)
+
+
+
+
+
+Convertible Promissory Note
+
+As discussed in Note 11, 10% Convertible Promissory Notes, the note payable to the Chairman of the Board amounted to $80,000 as of March 31, 2024, and December 31, 2023, respectively. See Note 11, 10% Convertible Promissory Notes for further discussion on these notes payable.
+
+Preferred Stock
+
+At March 31, 2024 and December 31, 2023, there was an accrued unpaid preference dividend of $691,000. This amount is payable to the Company's Chairman, Mr. Kip Speyer.
+
+NOTE 20 – INCOME TAXES
+
+The Company recorded a tax provision of $0 for the three months ended March 31, 2024, and 2023, due in large part to its expected tax losses for the period and maintaining a full valuation allowance against its net deferred tax assets.
+
+At March 31, 2024 and December 31, 2023, the Company had no unrecognized tax benefits or accrued interest and penalties recorded. No interest and penalties were recognized during the three months ended March 31, 2024, and 2023.
+
+32
+
+
+
+Table of Contents
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis of our financial condition and results of our operations should be read in conjunction with the consolidated financial statements and related notes included elsewhere in this report and in our Annual Report on Form 10-K for the year ended December 31, 2023. In addition to historical consolidated financial information, this discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those discussed below. Factors that could cause or contribute to these differences include, but are not limited to, those identified below, and those discussed in “Item 1A. Risk Factors” of our Annual Report on Form 10-K for the year ended December 31, 2023, and in any subsequent filing we make with the SEC.
+
+Business Overview
+
+Organization and Nature of Operations
+
+
+
+Bright Mountain Media, Inc. (together with its wholly-owned subsidiaries, the “Company,” “Bright Mountain” or “we”) has an end-to-end digital media and advertising services platform that efficiently connects brands with targeted consumer demographics. We focus on digital publishing, advertising technology, consumer insights, creative and media services. 
+
+
+
+During the year ended December 31, 2023, the Company completed the acquisition of two business units of Big Village (Big Village Insights, Inc. and Big Village Agency LLC (together, referred to as the "Big Village Entities")), in an all-cash transaction funded by the Centre Lane Senior Secured Credit Facility (the "Big Village Acquisition"). 
+
+
+
+Digital Publishing
+
+
+
+Our digital publishing division focuses on developing content that attracts an audience and monetizes that audience through advertising. The current portfolio of owned and operated websites is focused on moms, parenting, families, and more broadly, women. The portfolio consists of popular websites including Mom.com, Cafemom.com, LittleThings.com, and MamasLatinas.com. This demographic is highly sought after by brands and their advertising agencies. We use internal and external technologies to constantly improve the effectiveness and efficiency of the content we create. Our publishing division monetizes its audiences through both direct and programmatic advertising sales. 
+
+
+
+Advertising Technology
+
+
+
+Our advertising technology division focuses on delivering targeted ads to audiences on owned and operated sites as well as third-party publishers in a cost-effective manner through the deployment of proprietary technologies. By developing our own proprietary technology stack, we are able to pass along efficiencies to both the demand and supply side of the ecosystem. Our goal is to enable and support a streamlined, end-to-end advertising model that addresses both demand (buy side) and publisher supply (sell side) programmatic sales and delivery of digital advertisements using an array of audience targeting tools and advertising formats (display, audio, video, CTV, in-app). Programmatic advertising relies on software programs that leverage data and proprietary algorithms to match the optimal selection of an ad with a bid price offered by advertisers.
+
+
+
+Consumer Insights
+
+
+
+Our consumer insights division focuses on providing primary and secondary research, competitive intelligence, and expert insight to address customers' strategic issues. We provide cutting-edge and dynamic research, offering clients a comprehensive perspective on their consumers. This insight extends to strategic guidance on the optimal timing and channels to effectively connect with target audiences. Our cutting-edge approach combines advanced data analytics and comprehensive market research, to uncover actionable insights that drive informed decision-making.
+
+
+
+Creative Services
+
+
+
+Our creative services division transforms data into award-winning campaigns. We are uniquely able to leverage insights teams with highly strategic media planning and buying teams to ensure brands not only position their advertising precisely, but also yield impactful business results. Our goal is to combine data-driven decisions with creativity fueled by a deep understanding of modern culture. 
+
+
+
+
+
+33
+
+
+
+Table of Contents
+
+Media Services
+
+
+
+Our media services division focuses on advertisers and agencies by providing access to premium inventory, leveraging data to optimize programmatic campaigns. Our aim is to empower clients to access the most sought-after advertising spaces across diverse platforms tailored to their specific needs and preferences. Our data-driven approach ensures that ad placements are not only well-targeted, but also continuously optimized for maximum efficiency and ROI. Our commitment to combining premium inventory access with data-driven programmatic campaign optimization makes us an indispensable partner in the success of our clients' advertising and marketing endeavors. 
+
+
+
+The Company generates revenue through:
+
+
+
+•the selling of advertisements placed on our owned and managed sites and on partner websites where we earn a share of the revenue;
+
+
+
+•facilitating the seamless, real-time exchange of advertisements on a large scale, bridging networks of buyers (referred to as "DSPs") and networks of sellers (referred to as "SSPs");
+
+
+
+•serving advertisers through providing access to premium resources and leveraging data to optimize programmatic campaigns, where revenue is derived from the planning and execution of creative and media marketing campaigns; and
+
+
+
+•providing primary and secondary research, competitive intelligence, and expert insights to address customers' strategic issues, where revenue is primarily derived from providing a single integrated service for such research. 
+
+Key Factors Affecting Our Performance
+
+
+
+Seasonal Fluctuations. Typically advertising technology companies report a material portion of their revenues during the third and fourth calendar quarter as a result of back-to-school and holiday-related advertising spend. We continue to experience this trend in our advertising technology division. Because of seasonal fluctuations, there can be no assurance that the results of any quarter or full year will be indicative of results for future years or quarters. 
+
+
+
+Limited Number of Customers. During the three months ended March 31, 2024, one customer represented 14.9% of revenue; there was no such concentration for the three months ended March 31, 2023.
+
+
+
+Managing Industry Dynamics. We operate in the rapidly evolving digital advertising industry. Advances in programmatic advertising technologies, and the efficient and automated method of purchasing ads online, has enabled publishers to auction their ad inventory to more buyers simultaneously, in real time. As advertisers stay ahead of evolving trends in consumer engagement with digital media, an expansive opportunity for innovation emerges. Our commitment to understanding customer needs empowers us, and our continuous pursuit of innovation enables swift adaptation to industry shifts. This approach not only facilitates the development of cutting-edge solutions, but also does so in a cost-effective manner. 
+
+
+
+As regulatory concerns accelerate the impact on existing industry standards, companies are actively seeking new methods to finely tailor their messages to target audiences. Tech companies will be limited in how they monetize personal information for advertising purposes. This trend is exemplified by two imminent developments: (1) the anticipated erosion of Google's third-party cookies and (2) the data security measures integrated into Apple iPhones. Consequently, companies must explore innovative methods to better understand their target audiences and have the tools to effectively engage with them.
+
+34
+
+
+
+Table of Contents
+
+Key Operating and Financial Metrics
+
+
+
+We monitor the following key financial and operational metrics to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans, and make strategic decisions. The following is our analysis for the three months ended March 31, 2024 and 2023:
+
+
+
+(in thousands)                                                                                     Three Months Ended March 31,
+
+                                                                                                    2024                  2023
+
+Revenue                                                                                    $             12,448   $            1,498 
+
+Cost of revenue                                                                                            9,311                   970 
+
+Gross margin                                                                                               3,137                   528 
+
+General and administrative expenses                                                                        5,244                 3,428 
+
+
+
+Financing and (expense), net                                                                              (2,659)                 (896)
+
+Net loss from operations                                                                                  (4,766)               (3,796)
+
+
+
+Adjusted EBITDA( 1)                                                                        $             (1,168)  $           (2,081)
+
+
+
+(1) - For a reconciliation of net loss to Adjusted EBITDA see “Use of Non-GAAP Financial Measures” below.
+
+
+
+Revenue
+
+
+
+The Company generates revenue through:
+
+
+
+•the selling of advertisements placed on our owned and managed sites and on partner websites where we earn a share of the revenue;
+
+
+
+•facilitating the seamless, real-time exchange of advertisements on a large scale, bridging networks of buyers (referred to as "DSPs") and networks of sellers (referred to as "SSPs");
+
+
+
+•serving advertisers through providing access to premium resources and leveraging data to optimize programmatic campaigns, where revenue is derived from the planning and execution of creative and media marketing campaigns; and
+
+
+
+•providing primary and secondary research, competitive intelligence, and expert insights to address customers' strategic issues, where revenue is primarily derived from providing a single integrated service for such research. 
+
+
+
+Revenue increased $10.9 million, or 731%, for the three months ended March 31, 2024, compared to the same period in 2023. See below for a detailed analysis of revenue for the three months ended March 31, 2024, and 2023.
+
+
+
+Cost of Revenue
+
+
+
+Cost of revenue includes internal labor and payment to third parties for services performed to drive revenue, which includes the publisher cost paid for ad exchange on third party sites, advertising fees, personnel costs, technology and data related costs, fees paid for content creation, influencers, writers and sales commission.
+
+
+
+Costs of revenue increased approximately $8.3 million, or 860%, for the three months ended March 31, 2024 compared to the same period in 2023. See below for a detailed analysis of cost of revenue for the three months ended March 31, 2024, and 2023.
+
+
+
+General and Administrative Expenses 
+
+
+
+General and administrative expenses consist primarily of (i) personnel and related costs for our executive, finance and accounting, human resources, and, administrative personnel, including salaries, benefits, bonuses, and stock-based 
+
+35
+
+
+
+Table of Contents
+
+compensation; (ii) legal, accounting and other professional service fees; (iii) other corporate expenses; (iv) information technology costs; and (v) facility costs.
+
+
+
+General and administrative expenses increased approximately $1.8 million, or 53%, for the three months ended March 31, 2024 compared to the same period in 2023. See below for a detailed analysis of general and administrative expenses for the three months ended March 31, 2024 and 2023.
+
+
+
+Results of Operations
+
+
+
+The following is our analysis of the results of operations for the periods indicated below. This analysis should be read in conjunction with the consolidated financial statements and the notes to those statements that are included elsewhere in this Quarterly Report on Form 10-Q.
+
+Three Months Ended March 31, 2024 Compared to Three Months Ended March 31, 2023
+
+Net loss from operations for the quarter ended March 31, 2024 was $4.8 million as compared to a net loss of $3.8 million for the same period in 2023. The following is our analysis for the period.
+
+
+
+(in thousands)                                                  Three Months Ended March 31,
+
+                                              2024              2023             Change            % Change
+
+Revenue                                 $      12,448    $       1,498    $      10,950              731   %     increased
+
+Cost of revenue                                  9,311               970            8,341              860   %     increased
+
+Gross margin                                     3,137               528            2,609              494   %     increased
+
+General and administrative expense               5,244             3,428            1,816               53   %     increased
+
+
+
+Loss from operations                            (2,107)           (2,900)             793              (27)  %     decreased
+
+Financing and other expense, net                (2,659)             (896)          (1,763)             197   %     increased
+
+
+
+Net loss from operations                $      (4,766)   $      (3,796)   $        (970)              26   %     increased
+
+
+
+Gross margin %                                      25  %             35  %           (10) %           (28)  %     decreased
+
+
+
+Revenue
+
+
+
+Our revenue showed an overall increase of $10.9 million, or 731%, for the three months ended March 31, 2024, compared to the same period in 2023, which was driven by $9.4 million in revenue as a result of the Big Village Acquisition, and was partially offset by macroeconomic factors, coupled with an overall reduction in spending by some customers due to inflationary concerns, which led to lower than normal rates and lower earnings. The macroeconomic impacts significantly reduced direct sales by digital publishing customers as well as traffic on our website, which resulted in lower revenue in these divisions. 
+
+
+
+The Company focuses on digital publishing, advertising technology, consumer insights, creative and media services. Revenue generated by each such division is set forth below:
+
+
+
+
+
+(in thousands)                                                         Three Months Ended March 31,
+
+                                                               2024         2023    Change        % Change
+
+Digital publishing                                    $       434   $      954         (520)           (55)  %     decreased
+
+Advertising technology                                       2,625           544        2,081            383   %     increased
+
+Consumer insights                                            6,690             —        6,690            100   %     increased
+
+Creative services                                            2,058             —        2,058            100   %     increased
+
+Media services                                                 641             —          641            100   %     increased
+
+                                                      $    12,448   $    1,498   $   10,950            731   %     increased
+
+
+
+
+
+36
+
+
+
+
+
+Digital Publishing
+
+
+
+Digital publishing revenue decreased by $520,000, or 55%, for the three months ended March 31, 2024 compared to the same period in 2023. Approximately $434,000, or 3%, of the Company’s revenue for the three months ended March 31, 2024 was generated from our digital publishing customers, compared to $954,000, or 64%, for the same period in 2023. This division was significantly impacted by macroeconomic factors, which reduced traffic to our website, coupled with an overall reduction in spending by some customers related to inflationary concerns and reduction in website traffic.
+
+
+
+Advertising Technology
+
+
+
+Advertising technology revenue increased by $2.1 million, or 383%, for the three months ended March 31, 2024 compared to the same period in 2023. Approximately $2.6 million, or 21%, of the Company’s revenue for the three months ended March 31, 2024 was generated from our advertising technology customers compared to $544,000, or 36%, for the same period in 2023. 
+
+
+
+Consumer Insights
+
+
+
+Consumer insights revenue, which is a new offering we acquired with the Big Village Acquisition, increased by $6.7 million, or 100%, for the three months ended March 31, 2024 compared to the same period in 2023, and represented approximately 54% of the Company’s revenue for the three months ended March 31, 2024.
+
+
+
+Creative Services
+
+
+
+Creative services revenue, which we also acquired as part of the Big Village Acquisition, increased by $2.1 million, or 100%, for the three months ended March 31, 2024 compared to the same period in 2023, and represented approximately 17% of the Company’s revenue for the three months ended March 31, 2024.
+
+
+
+Media Services
+
+
+
+Media services revenue, which we also acquired as part of the Big Village Acquisition, increased by $641,000, or 100%, for the three months ended March 31, 2024 compared to the same period in 2023, and represented approximately 5% of the Company’s revenue for the three months ended March 31, 2024.
+
+
+
+Cost of Revenue
+
+
+
+(in thousands)                                                        Three Months Ended March 31,
+
+                                                          2024          2023        Change        % Change
+
+Direct salaries and labor cost                        $     1,930   $       —   $    1,930             100   %     increased
+
+Direct project cost                                          3,149            —         3,149             100   %     increased
+
+Non-direct project cost                                      2,088            —         2,088             100   %     increased
+
+Publisher cost                                               1,798          486         1,312             270   %     increased
+
+Content creation                                               193          291           (98)            (34)  %     decreased
+
+Sales commission                                               101           51            50              98   %     increased
+
+Other                                                           52          142           (90)            (63)  %     decreased
+
+                                                      $     9,311   $     970   $    8,341             860   %     increased
+
+
+
+Cost of revenue increased $8.3 million, or 860%, for the three months ended March 31, 2024, compared to the same period for 2023, which was driven by $7.2 million in cost as a result of the Big Village Acquisition. 
+
+
+
+Direct Salaries and Labor Cost
+
+Direct salaries and labor cost was $1.9 million for the three months ended March 31, 2024, and represents 21% of overall cost of revenue for this period. These costs represent salary and labor cost of employees that work directly on 
+
+37
+
+
+
+
+
+customer projects for our consumer insights, creative and media services, which divisions we acquired as part of our acquisition of the Big Village Entities. 
+
+Direct Project Cost
+
+
+
+Direct project cost was $3.1 million for the three months ended March 31, 2024, and represents 34% of overall cost of revenue for this period. These costs include payments made to third-parties that are directly attributable to the completion of projects that allow for revenue recognition for our consumer insights, creative and media services, which divisions we acquired as part of our acquisition of the Big Village Entities.
+
+Non-Direct Project Cost 
+
+Non-direct cost was $2.1 million for the three months ended March 31, 2024, and represents 22% of overall cost of revenue for this period. These costs represent overall client service costs that are not specifically related to a particular project, but relate to services we acquired as part of our acquisition of the Big Village Entities.
+
+Publisher Cost
+
+Publisher cost was $1.8 million, which represents 19% of overall cost of revenue, and $486,000, or 50%, of overall cost of revenue, for the three months ended March 31, 2024 and 2023, respectively. We experienced an increase of $1.3 million, or 270%, for the three months ended March 31, 2024 compared to the same period in 2023. These costs represent payments to media providers and website publishers. 
+
+Gross Margin
+
+Gross margin was $3.1 million, and $528,000 for the three months ended March 31, 2024 and 2023, respectively. Our gross margin increased $2.6 million, or 494%, for the three months ended March 31, 2024, when compared to the same period of 2023, primarily due to the Big Village Acquisition. Gross margin as a percentage of revenue decreased to 25% for the three months ended March 31, 2024 compared to 35% for the same period of 2023.
+
+General and Administrative Expenses
+
+
+
+(in thousands)                                                    Three Months Ended March 31,
+
+                                                   2024             2023           Change          % Change
+
+
+
+Personnel cost                               $     2,492    $     1,745    $       747               43  %     increased
+
+Legal expense                                         280              53             227              428  %     increased
+
+Professional fees                                     845             785              60                8  %     increased
+
+Insurance                                             203             159              44               28  %     increased
+
+Depreciation and amortization expense                 521             393             128               33  %     increased
+
+Data processing                                       414              34             380             1118  %     increased
+
+Website expense                                       297             309             (12)              (4) %     decreased
+
+Other                                                 192             (50)            242             (484) %     increased
+
+Total                                        $     5,244    $     3,428    $     1,816               53  %     increased
+
+                                                                                                                
+
+Gross margin as a percentage of general and            60  %           15  %           45  %           296  %
+
+ administrative
+
+ expense
+
+
+
+General and administrative expenses increased by $1.8 million, or 53%, for the three months ended March 31, 2024, compared to the same period in 2023. The increase is due to a combination of factors as discussed below.
+
+
+
+Personnel Cost
+
+
+
+Personnel cost increased by approximately $747,000, or 43%, for the three months ended March 31, 2024 compared to the same period in 2023. This change is mainly driven by an increase in head count as a result of the acquisition of the Big Village Entities during the year ended December 31, 2023. This increase in head count was partially offset by a decrease in the Company's head count by a net amount of 23 employees or 12%, including nine employees that were 
+
+38
+
+
+
+
+
+terminated as a reduction in force. The Company incurred severance cost of approximately $8,000 in connection with this reduction.
+
+
+
+The Company incurred severance cost of approximately $122,000 associated with an headcount reduction during the three months ended March 31, 2023.
+
+
+
+The Company employee's headcount was 167 and 52 at March 31, 2024 and 2023, respectively.
+
+
+
+Legal Fees
+
+
+
+Legal fees increased by $227,000, or 428%, for the three months ended March 31, 2024, compared to the same period in 2023. 
+
+
+
+Data Processing
+
+
+
+Data processing increased by $380,000 or 1118% for the three months ended March 31, 2024, compared to the same period in 2023. 
+
+
+
+Financing and Other Expense (Income), Net
+
+
+
+(in thousands)                                                              Three Months Ended March 31,
+
+                                                  2024            2023          Change          % Change
+
+Interest expense                             $       3,004   $     1,174   $      1,830              156   %      increased
+
+Other expense (income)                                 (345)          (278)           (67)              24   %      increased
+
+Total financing and other expense, net       $       2,659   $       896   $      1,763              197   %      increased
+
+
+
+Financing and other expense, net increased by $1.8 million, or 197%, for the three months ended March 31, 2024, compared to the same period in 2023. This increase was largely attributable to a $1.8 million increase in interest expense related to the Centre Lane Senior Secured Credit Facility, which reflected higher principal and fees due to the Centre Lane Senior Secured Credit Facility amendments during the year ended December 31, 2023. 
+
+Use of Non-GAAP Financial Measure
+
+
+
+Non-GAAP results are presented only as a supplement to the financial statements and for use within management's discussion and analysis based on U.S. generally accepted accounting principles ("GAAP"). The non-GAAP financial information is provided to enhance the reader's understanding of the Company's financial performance, but non-GAAP measures should not be considered in isolation or as a substitute for financial measures calculated in accordance with GAAP. 
+
+
+
+All of the items included in the reconciliation from net loss before taxes to EBITDA and from EBITDA to Adjusted EBITDA are either (i) non-cash items (e.g., depreciation, amortization of purchased intangibles, stock-based compensation, etc.) or (ii) items that management does not consider to be useful in assessing the Company's ongoing operating performance (e.g., M&A costs, income taxes, gain on sale of investments, loss on disposal of assets, etc.). In the case of the non-cash items, management believes that investors can better assess the Company's operating performance if the measures are presented without such items because, unlike cash expenses, these adjustments do not affect the Company's ability to generate free cash flow or invest in its business.
+
+
+
+We use, and we believe investors benefit from the presentation of, EBITDA and Adjusted EBITDA in evaluating our operating performance because it provides us and our investors with an additional tool to compare our operating performance on a consistent basis by removing the impact of certain items that management believes do not directly reflect our core operations. We believe that EBITDA is useful to investors and other external users of our financial statements in evaluating our operating performance because EBITDA is widely used by investors to measure a company's operating performance without regard to items such as interest expense, taxes, and depreciation and amortization, which can vary substantially from company to company depending upon accounting methods and book value of assets, capital structure and the method by which assets were acquired.
+
+
+
+Because not all companies use identical calculations, the Company's presentation of non-GAAP financial measures may not be comparable to other similarly titled measures of other companies. However, these measures can still be useful in evaluating the Company's performance against its peer companies because management believes the measures provide users with valuable insight into key components of GAAP financial disclosures.
+
+39
+
+
+
+
+
+A reconciliation of net loss before taxes to non-GAAP EBITDA and Adjusted EBITDA is as follows:
+
+
+
+(in thousands)                                                                                          Three Months Ended March 31,
+
+                                                                                                           2024             2023
+
+
+
+Net loss before tax plus:                                                                            $       (4,766)  $       (3,796)
+
+Depreciation expense                                                                                             40                 7 
+
+Amortization of intangibles                                                                                     481               386 
+
+
+
+Amortization of debt discount                                                                                   615               305 
+
+Other interest expense                                                                                           11                 6 
+
+Interest expense - Centre Lane Senior Secured Credit Facility and Convertible Promissory Notes -              2,378               864 
+
+ related
+
+ party
+
+EBITDA                                                                                                       (1,241)           (2,228)
+
+Stock compensation expense                                                                                       65                25 
+
+
+
+Non-restructuring severance expense                                                                               8               122 
+
+
+
+
+
+Adjusted EBITDA                                                                                      $       (1,168)  $       (2,081)
+
+Liquidity and Capital Resources
+
+
+
+Liquidity is the ability of a company to generate sufficient cash to satisfy its needs for cash. The following table summarizes total current assets, total current liabilities and net working capital (deficit) as of March 31, 2024, as compared to December 31, 2023.
+
+
+
+
+
+(in thousands)                                                                                     March 31, 2024   December 31, 2023
+
+Total current assets                                                                             $        18,573   $        19,737 
+
+Total current liabilities                                                                                  31,831             30,802 
+
+Net working capital deficit                                                                      $       (13,258)  $       (11,065)
+
+
+
+As of March 31, 2024, we had a cash balance of $4.9 million compared with a cash balance of $4.0 million as of December 31, 2023. The Company’s liquidity needs, and a discussion of how it intends to meet those needs, is discussed below. See –“Going Concern.”
+
+
+
+Going Concern
+
+Historically, the Company has incurred losses, which has resulted in an accumulated deficit of approximately $154.6 million as of March 31, 2024. Cash flows provided by (used in) operating activities were $920,000 and $(1.0) million for the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024, the Company had a working capital deficit of approximately $13.3 million, inclusive of $4.9 million in cash and cash equivalents.
+
+
+
+The Company’s ability to continue as a going concern is dependent upon its ability to meet its liquidity needs through a combination of factors. During the next year, we anticipate that we will need approximately $10.3 million to meet our contractual obligations in addition to amounts needed for our working capital needs. The Company is currently exploring several strategic alternatives, including restructuring or refinancing its debt, or seeking additional debt, including borrowing under the Centre Lane Senior Secured Credit Agreement or raising equity capital. The ability to access the capital markets is also dependent upon the volume and market price of the Company's stock, which cannot be assured. Other measures include reducing or delaying certain business activities, or reducing general and administrative expenses, including a reduction in headcount. The ultimate success of these plans is not guaranteed.
+
+
+
+The Company's current cash and working capital, as of the filing of this Quarterly Report on Form 10-Q, is not expected to be sufficient to fund its anticipated level of operations over the next twelve months. As a result, such matters create a substantial doubt regarding the Company’s ability to meet its financial needs and continue as a going concern.
+
+
+
+40
+
+
+
+
+
+The accompanying unaudited consolidated financial statements are prepared on a going concern basis and do not include any adjustments that might result from uncertainty about the Company’s ability to continue as a going concern.
+
+
+
+Financing Arrangement Summary
+
+
+
+Centre Lane Senior Secured Credit Facility
+
+
+
+On June 5, 2020, the Company and its subsidiaries entered into to the Amended and Restated Senior Secured Credit Agreement between themselves, the lenders party thereto and Centre Lane Partners Master Credit Fund II, L.P., as Administrative Agent and Collateral Agent (“Centre Lane Partners”), as amended (the “Credit Agreement”). The Credit Agreement has been amended numerous times to change the terms, including the amounts outstanding, the interest rate, the maturity date and other payment terms.
+
+
+
+The outstanding principal owed to Centre Lane Partners was $72.5 million and $70.2 million as of March 31, 2024 and December 31, 2023, respectively, and matures on April 20, 2026. Of the amount outstanding at March 31, 2024, $879,000, $3.0 million, $879,000, $879,000 and $879,000 are due on March 31, 2024, June 30, 2024, September 30, 2024 December 31, 2024 and March 31, 2025, respectively. The balance of $66.0 million is due in 2025 or later.
+
+
+
+The amount due under the Credit Agreement bears interest of 7.0% per annum plus the Secured Overnight Financing Rate ("SOFR"). At March 31, 2024, the SOFR was 5.33%, thus the overall interest rate on this facility was 12.33% per annum at March 31, 2024.
+
+
+
+Interest is paid in kind at 12.33% per annum on approximately $35.2 million of the amount owed under the Credit Agreement, and at 15% per annum on $30.3 million of the amount owed under the Credit Agreement. With respect to the remaining $7.0 million owed under the facility, interest is paid in kind at 4% per annum and in cash at the SOFR plus 3.0% (for a total interest rate of 8.33% per annum at March 31, 2024).
+
+
+
+Effective July 1, 2024, the $35.2 million outstanding under the Centre Lane Senior Secured Credit Facility will bear interest at 7.0% per annum, plus the SOFR plus 5.0%. 
+
+
+
+For a full description of the Centre Lane Senior Secured Credit Facility, see Note 10, "Centre Lane Senior Secured Credit Facility," to the consolidated financial statements.
+
+
+
+10% Convertible Promissory Note
+
+
+
+During November 2018, the Company issued a 10% convertible promissory note (the "Convertible Note") in the amount of $80,000 to the Chairman of the Board, a related party. The Convertible Note is unsecured, matured five years from issuance and was convertible at the option of the holder into shares of our common stock at any time prior to maturity at a conversion price of $0.40 per share. The outstanding principal and interest of the Convertible Note was due and payable in November 2023. At March 31, 2024, approximately $121,000 inclusive of principal and interest is due and payable, and the outstanding principal continues to accrue interest.
+
+
+
+For a full description of the Convertible Note, see Note 11, "10% Convertible Promissory Note" to the consolidated financial statements.
+
+
+
+Summary of Cash Flows
+
+
+
+The following table summarizes cash flow activities during for the three months ended March 31, 2024 and 2023:
+
+
+
+(in thousands)                                                                                      Three Months Ended March 31, 2024
+
+                                                                                                        2024               2023
+
+Cash flow provided by (used) in operating activities                                              $           920   $        (1,031)
+
+Cash flow (used in) investing activities                                                                        (2)                (5)
+
+Cash flow (used in) provided by financing activities                                                            (4)             1,500 
+
+Net increase in cash and cash equivalents, net of impact of exchange rates                        $           926   $           468 
+
+41
+
+
+
+
+
+
+
+Operating Activities
+
+
+
+Our largest source of operating cash is cash collections from customers from revenue. Our primary uses of our operating cash, are for cost of revenue expenses, personnel-related expenditures and other general administrative expenses.
+
+
+
+For the three months ended March 31, 2024, cash flow provided by operating activities was $920,000. The primary factors affecting our operating cash flows during the period were our net loss of $4.8 million, adjusted for non-cash charges of $481,000 for amortization of intangible assets, $615,000 of amortization of debt discount, $2.2 million in interest paid in kind on the Centre Lane Senior Secured Credit Facility, $65,000 for stock option compensation expense, and a $2.3 million net change in operating assets and liabilities. The primary drivers of the changes in operating assets and liabilities were a $2.2 million decrease in accounts receivables partially offset by a $1.7 million decrease in accounts payable and accrued expenses, an increase in prepaid expenses and other current assets of $123,000, a $138,000 increase in interest payable on the Centre Lane Senior Secured Credit Facility, and a $1.7 million increase in deferred revenue.
+
+
+
+For the three months ended March 31, 2023, cash used in operating activities was $1.0 million. The primary factors affecting our operating cash flows during the period were our net loss of $3.8 million, adjusted for non-cash charges of $386,000 for amortization of intangible assets, $305,000 of amortization of debt discount, $789,000 in interest paid in kind on the Centre Lane Senior Secured Credit Facility, $25,000 of stock-based compensation expense, $188,000 for the recoveries of expected credit losses, and a $1.4 million net change in operating assets and liabilities. The primary drivers of the changes in operating assets and liabilities were a $2.5 million increase in accounts receivable and a $142,000 increase in prepaid and other current assets, offset by a $1.5 million decrease in accounts payable and accrued expense, a $72,000 decrease in interest payable on the Centre Lane Senior Secured Credit Facility, and a $237,000 decrease in deferred revenue.
+
+Investing Activities
+
+
+
+Cash used in investing activities of $2,000 and $5,000 for the three months ended March 31, 2024 and 2023, respectively, was due entirely to the purchase of property and equipment.
+
+Financing Activities
+
+
+
+During the three months ended March 31, 2024, and 2023 the Company raised $0 and $1.5 million, respectively, of debt financing from the Centre Lane Senior Secured Credit Facility, which was used primarily to fund our working capital.
+
+Contractual Obligations and Commitments
+
+
+
+The Company leases its corporate offices in Boca Raton, Florida under a long-term non-cancellable lease agreement which was signed on June 14, 2022, with a lease term of five years beginning upon completion of improvements to the office space by the landlord, which was completed on September 12, 2022. The annual base rent is $100,000, with a provision for a 3% increase on each anniversary of the rent commencement date. The Company has the option to renew the lease for one additional five-year term. See Note 12, Leases for details regarding the Company’s lease.
+
+There were no other material changes in our contractual obligations and commitments from those disclosed above and in the Annual Report on Form 10-K for the year ended December 31, 2023.
+
+Off-Balance Sheet Arrangements
+
+As of March 31, 2024 and December 31, 2023, there were no off-balance sheet arrangements between us and any other entity that have, or are reasonably likely to have, a current or future effect on our financial condition, changes in financial condition, revenue or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to shareholders.
+
+Critical Accounting Policies and Estimates
+
+The preparation of financial statements in conformity with GAAP requires management to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions are made. These estimates, judgments, and assumptions can affect the reported amounts of assets and liabilities as of the date of our unaudited consolidated financial statements as well as reported amounts of revenue and expenses during the periods 
+
+42
+
+
+
+
+
+presented. Our unaudited consolidated financial statements would be affected to the extent there are material differences between these estimates and actual results. In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment in its application. There are also areas in which management’s judgment in selecting any available alternative would not produce a materially different result.
+
+
+
+Significant estimates included in the accompanying consolidated financial statements include, valuation of goodwill and intangible assets, allowance for current expected credit losses, the determination of the relative selling prices of our services, percentage of completion for revenue recognition, estimates of amortization period for intangible assets, estimates of depreciation period for property and equipment, discount rates used in the valuation of right-of-use assets and lease liabilities, litigation reserves, the valuation of equity-based transactions, valuation of the Center Lane Senior Secured Facility carrying value regarding debt modification or extinguishment, and the valuation allowance on deferred tax assets.
+
+
+
+Critical accounting policies are those policies that management believes are very important to the portrayal of our financial position and results of operations, and that require management to make estimates that are difficult, subjective or otherwise complex. For further information on all of our significant accounting policies, see the Company’s audited consolidated financial statements and accompanying notes included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2023.
+
+Recent Accounting Pronouncements
+
+Recent accounting pronouncements are detailed in the “Summary of Significant Accounting Policies” in Note 2 to our unaudited consolidated financial statements.
+
+Smaller Reporting Company Status
+
+We are a “smaller reporting company” as defined in the Securities Exchange Act of 1934, as amended (the “Exchange Act”). We may continue to be a smaller reporting company even though we are no longer an emerging growth company. We may take advantage of certain of the scaled disclosures available to smaller reporting companies and will be able to take advantage of these scaled disclosures for so long as the market value of our voting and non-voting common stock held by non-affiliates is less than $250.0 million measured on the last business day of our second fiscal quarter, or our annual revenue is less than $100.0 million during the most recently completed fiscal year and the market value of our voting and non-voting common stock held by non-affiliates is less than $700.0 million measured on the last business day of our second fiscal quarter.
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+
+
+As a smaller reporting company as defined in Rule 12b-2 of the Exchange Act, we are not required to include information otherwise required by this Item 3 to Form 10-Q.
+
+Item 4. Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures
+
+The Company’s management, with the participation of the Company’s Chief Executive Officer (its principal executive officer) and Chief Financial Officer (its principal financial officer), have evaluated the effectiveness of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of March 31, 2024. Based on that evaluation, the Company’s Chief Executive Officer and Chief Financial Officer have concluded that as of and for the period ended March 31, 2024, due to the existence of the material weaknesses in the Company’s internal control over financial reporting described below, the Company’s disclosure controls and procedures were not effective.
+
+
+
+Our senior management is responsible for establishing and maintaining adequate internal control over financial reporting. Internal control over financial reporting is defined in Rules 13a-15(f) and 15d-15(f) promulgated under the Exchange Act as a process designed by, or under the supervision of, our principal executive and principal financial officers, or persons performing similar functions, and effected by our Board, senior management and other personnel, to provide 
+
+43
+
+
+
+
+
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. GAAP.
+
+
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. We continue to review our internal control over financial reporting and may from time to time make changes aimed at enhancing their effectiveness and to ensure that our systems evolve with our business.
+
+
+
+Under the supervision and with the participation of management, including the Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in “Internal Control — Integrated Framework (2013)” issued by the Committee of Sponsoring Organizations of the Treadway Commission ("COSO"). 
+
+
+
+As the Company integrates the operations acquired through the Big Village Acquisition, there is a risk of identifying deficiencies in our overall internal controls. Our focus is on implementing and maintaining effective financial management systems and internal controls, on an ongoing process. However, given that all such controls are not yet fully operational, management has concluded that a material weakness exists in the Company’s internal controls over financial reporting, rendering them ineffective at December 31, 2023.
+
+
+
+As set forth below, management will take steps to remediate the material weaknesses identified below. Notwithstanding the material weaknesses described below, we have performed additional analyses and other procedures to enable management to conclude that our consolidated financial statements included in this Quarterly Report on Form 10-Q fairly present, in all material respects, our financial condition and results of operations as of and for the quarter ended March 31, 2024.
+
+
+
+Outlined below are the material weaknesses identified by management, along with the remedial actions planned.
+
+
+
+Material Weaknesses
+
+
+
+A material weakness is a deficiency, or a combination of deficiencies, in internal controls over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company’s annual or interim financial statements will not be prevented or detected on a timely basis. As of December 31, 2023, management identified certain material weaknesses.
+
+
+
+As the Company continues to integrate the operations assumed as part of the Big Village Acquisition, we have identified deficiencies in our overall internal controls, specifically as identified below:
+
+
+
+•Inadequate controls related to revenue recognition, cost of revenue, and the accounts payable and accrual process
+
+leading to potential omission or misstatement of material transactions impacting financial statements; and
+
+
+
+•Ineffectiveness of the Company’s information technology systems and controls concerning financial information.
+
+
+
+To address these weaknesses, the Company has initiated a remediation plan comprising the following measures: 
+
+
+
+•Updating the information technology general controls ("ITGC") risk assessment to incorporate operations from the Big Village Acquisition;
+
+
+
+•Examination of information technology systems to ascertain necessary updates to support the financial reporting process;
+
+
+
+•Collaboration with a third-party company to ensure SOX compliance, establish and document controls related to revenue recognition, accounts payable, and other processes to enhance internal controls over financial reporting; and
+
+
+
+•Expansion of our finance department through the hiring of certified public accountants with prior auditing experience, knowledge of SEC filings and technical issues. In the year ended December 31, 2023, two additional certified public accountants were onboarded, tasked with month end close oversights and SEC reporting. We believe this will strengthen our finance department as we work towards strong internal controls and provide 
+
+44
+
+
+
+
+
+guidance beyond the finance functions for those we rely on to provide information to support our financial reporting process.
+
+
+
+We will continue to monitor and evaluate the effectiveness of our internal controls over financial reporting on an ongoing basis and are committed to taking further action and implementing additional enhancements or improvements, as necessary and as funds allow.
+
+
+
+45
+
+
+
+
+
+Changes in Internal Control over Financial Reporting
+
+
+
+Other than the matters set forth above, there were no changes in our internal control over financial reporting identified in management’s evaluation pursuant to Rules 13a-15(d) or 15d-15(d) of the Exchange Act during the quarter ended March 31, 2024 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+
+Limitations on Effectiveness of Controls and Procedures
+
+
+
+In designing and evaluating the disclosure controls and procedures and internal control over financial reporting, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures and internal control over financial reporting must reflect the fact that there are resource constraints, and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+
+
+
+
+
+
+
+46
+
+
+
+
+
+PART II – OTHER INFORMATION
+
+Item 1. Legal Proceedings.
+
+For a description of developments to legal proceedings during the three months ended March 31, 2024, see “Litigation” under Note 16, “Commitments and Contingencies” to our consolidated financial statements.
+
+Item 1A. Risk Factors.
+
+There have been no material changes to the Risk Factors previously disclosed in our Annual Report on Form 10-K for the year ended December 31, 2023.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+
+
+On March 26, 2024, the Company issued an aggregate of 279,452 shares of its common stock to the independent members of the Board for services rendered. Such issuances were exempt from the registration requirements of the Securities Act pursuant to Section 4(a)(2) thereof because they involved a private offering.
+
+Item 3. Defaults Upon Senior Securities.
+
+None.
+
+Item 4. Mine Safety Disclosures.
+
+None.
+
+Item 5. Other Information.
+
+None.
+
+47
+
+
+
+
+
+Item 6. Exhibits.
+
+
+
+No.             Exhibit Description                                        Form     Date Filed       Number          Herewith
+
+
+
+31.1            Certification of the Principal Executive Officer                                                       Filed
+
+                 pursuant to Rule
+
+                 13a-14(a)/15d-14(a)
+
+
+
+31.2            Certification of the Principal Financial Officer                                                       Filed
+
+                 pursuant to Rule
+
+                 13a-14(a)/15d-14(a)
+
+
+
+32.1*           Certification of the Principal Executive                                                               Filed
+
+                 Officerpursuant to Section
+
+                 1350
+
+
+
+32.2*           Certification of the Principal FinancialOfficer                                                        Filed
+
+                 pursuant to Section
+
+                 1350
+
+
+
+101.INS         Inline XBRL Instance Document                                                                          Filed
+
+
+
+101.SCH         Inline XBRL Taxonomy Extension Schema Document                                                         Filed
+
+
+
+101.CAL         Inline XBRL Taxonomy Extension Calculation Linkbase                                                    Filed
+
+                 Document
+
+
+
+101.DEF         Inline XBRL Taxonomy Extension Definition Linkbase                                                     Filed
+
+                 Document
+
+
+
+101.LAB         Inline XBRL Taxonomy Extension Label Linkbase Document                                                 Filed
+
+
+
+101.PRE         Inline XBRL Taxonomy Extension Presentation Linkbase                                                   Filed
+
+                 Document
+
+
+
+104             Cover Page Interactive Data File (embedded within the
+
+                 Inline XBRL
+
+                 document)
+
+*    This certification is being furnished and shall not be deemed “filed” with the SEC for purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, and shall not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the Registrant specifically incorporates it by reference. 
+
+
+
+48
+
+
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+
+
+                                                               BRIGHT MOUNTAIN MEDIA, INC.
+
+
+
+May 14, 2024                                                   By:     /s/ Matthew Drinkwater
+
+                                                                       Matthew Drinkwater,
+
+                                                                       Chief Executive Officer and Director 
+
+                                                                       (Principal Executive Officer)
+
+
+
+                                                               By:     /s/ Ethan Rudin
+
+                                                                       Ethan Rudin,
+
+                                                                       Chief Financial Officer
+
+                                                                       (Principal Financial and Accounting Officer)
+
+49

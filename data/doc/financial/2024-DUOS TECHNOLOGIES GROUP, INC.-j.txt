@@ -1,0 +1,3113 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                                                                    
+
+                                             For the quarterly period ended March 31, 2024
+
+                                                                    
+
+                                                                   OR
+
+   
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from ________________ to ________________ 
+
+ 
+
+Commission file number 000-55497
+
+ 
+
+                                                     Duos Technologies Group, Inc.
+
+                                        (Exact name of registrant as specified in its charter)
+
+ 
+
+                                     Florida                                                                          65-0493217
+
+                         (State or other jurisdiction of                                                  (IRS Employer Identification No.)
+
+                          incorporation or organization)
+
+ 
+
+7660 Centurion Parkway, Suite 100, Jacksonville, Florida 32256
+
+(Address of principal executive offices)
+
+ 
+
+(904) 296-2807
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+                Title of each class                                Trading Symbol(s)                    Name of each exchange on which registered
+
+          Common Stock, par value $0.001                                  DUOT                                  The Nasdaq Capital Market
+
+ 
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒   No ☐
+
+  
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒   No ☐
+
+  
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer ☐                                                                 Accelerated filer ☐
+
+Non-accelerated filer ☒                                                                   Smaller reporting company ☒
+
+Emerging growth company ☐                                                                  
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐   No ☒
+
+  
+
+As of May 10, 2024, the registrant has one class of common equity, and the number of shares outstanding of such common equity is 7,531,986.
+
+ 
+
+ 
+
+                                                         
+
+
+
+                                                         
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                   PART I – FINANCIAL INFORMATION                                        
+
+                                                                                                                         
+
+Item 1.     Financial Statements                                                                                          1
+
+                                                                                                                           
+
+Item 2.     Management’s Discussion and Analysis of Financial Condition and Results of Operations                         28
+
+                                                                                                                           
+
+Item 3.     Quantitative and Qualitative Disclosures about Market Risk                                                    36
+
+                                                                                                                           
+
+Item 4.     Controls and Procedures                                                                                       36
+
+                                                                                                                           
+
+                                                    PART II – OTHER INFORMATION                                            
+
+                                                                                                                           
+
+Item 1.     Legal Proceedings                                                                                             37
+
+                                                                                                                           
+
+Item 1A.    Risk Factors                                                                                                  37
+
+                                                                                                                           
+
+Item 2.     Unregistered Sales of Equity Securities and Use of Proceeds                                                   37
+
+                                                                                                                           
+
+Item 3.     Defaults Upon Senior Securities                                                                               37
+
+                                                                                                                           
+
+Item 4.     Mine Safety Disclosures                                                                                       37
+
+                                                                                                                           
+
+Item 5.     Other Information                                                                                             37
+
+                                                                                                                           
+
+Item 6.     Exhibits                                                                                                      38
+
+ 
+
+SIGNATURES                                                                                                          39
+
+ 
+
+ 
+
+i
+
+                                                         
+
+
+
+                                                         
+
+ 
+
+ 
+
+PART I FINANCIAL INFORMATION
+
+ 
+
+Item 1. Financial Statements.
+
+ 
+
+DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+ 
+
+                                                                                                                                      
+
+                                                                                                March 31,            December 31,     
+
+                                                                                                   2024                  2023         
+
+                                                                                                (Unaudited)                           
+
+                                          ASSETS                                                                                      
+
+ CURRENT ASSETS:                                                                                                                      
+
+ Cash                                                                                      $          2,977,592  $          2,441,842 
+
+ Accounts receivable, net                                                                               596,090             1,462,463 
+
+ Contract assets                                                                                        912,046               641,947 
+
+ Inventory                                                                                            1,502,337             1,526,165 
+
+ Prepaid expenses and other current assets                                                              398,856               184,478 
+
+                                                                                                                                      
+
+ Total Current Assets                                                                                 6,386,921             6,256,895 
+
+                                                                                                                                      
+
+ Property and equipment, net                                                                            645,342               726,507 
+
+ Operating lease right of use asset                                                                   4,289,807             4,373,155 
+
+ Security deposit                                                                                       550,000               550,000 
+
+                                                                                                                                      
+
+ OTHER ASSETS:                                                                                                                        
+
+ Note Receivable, net                                                                                   155,625               153,750 
+
+ Patents and trademarks, net                                                                            127,357               129,140 
+
+ Software development costs, net                                                                        587,388               652,838 
+
+ Total Other Assets                                                                                     870,370               935,728 
+
+                                                                                                                                      
+
+ TOTAL ASSETS                                                                              $         12,742,440  $         12,842,285 
+
+                                                                                                                                      
+
+                           LIABILITIES AND STOCKHOLDERS' EQUITY                                                                       
+
+                                                                                                                                      
+
+ CURRENT LIABILITIES:                                                                                                                 
+
+ Accounts payable                                                                          $            179,916  $            595,634 
+
+ Notes payable - financing agreements                                                                   183,763                41,976 
+
+ Accrued expenses                                                                                       240,483               164,113 
+
+ Operating lease obligations-current portion                                                            783,944               779,087 
+
+ Contract liabilities                                                                                 1,692,940             1,666,243 
+
+                                                                                                                                      
+
+ Total Current Liabilities                                                                            3,081,046             3,247,053 
+
+                                                                                                                                      
+
+ Operating lease obligations, less current portion                                                    4,141,555             4,228,718 
+
+                                                                                                                                      
+
+ Total Liabilities                                                                                    7,222,601             7,475,771 
+
+                                                                                                                                      
+
+ Commitments and Contingencies (Note 4)                                                                       —                     — 
+
+                                                                                                                                      
+
+ STOCKHOLDERS' EQUITY:                                                                                                                
+
+Preferred stock: $0.001 par value, 10,000,000 shares authorized, 9,441,000 shares                                                     
+
+ available to be
+
+ designated
+
+Series A redeemable convertible preferred stock, $10 stated value per share,                                  —                     — 
+
+500,000 shares designated; 0 issued and outstanding at March 31, 2024 and December 31,
+
+ 2023, respectively, convertible into common stock at $6.30 per
+
+ share
+
+Series B convertible preferred stock, $1,000 stated value per share, 15,000 shares                            —                     — 
+
+ designated; 0 and 0 issued and outstanding at March 31, 2024 and December 31, 2023,
+
+ respectively, convertible into common stock at $7 per
+
+ share
+
+Series C convertible preferred stock, $1,000 stated value per share, 5,000 shares                             —                     — 
+
+ designated; 0 and 0 issued  and outstanding at March 31, 2024 and December 31, 2023,
+
+ respectively, convertible into common stock at $5.50 per
+
+ share
+
+Series D convertible preferred stock, $1,000 stated value per share, 4,000 shares                             2                     1 
+
+ designated; 1,919 and 1,299 issued  and outstanding at March 31, 2024 and December 31,
+
+ 2023, respectively, convertible into common stock at $3 per
+
+ share
+
+Series E convertible preferred stock, $1,000 stated value per share, 30,000 shares                           14                    12 
+
+ designated; 13,625 and 11,500 issued and outstanding at March 31, 2024 and December 31,
+
+ 2023, respectively, convertible into common stock at $3 per
+
+ share
+
+Series F convertible preferred stock, $1,000 stated value per share, 5,000 shares                             —                     — 
+
+ designated; 0 and 0 issued and outstanding at March 31, 2024 and December 31, 2023,
+
+ respectively, convertible into common stock at $6.20
+
+ share
+
+Common stock: $0.001 par value; 500,000,000 shares authorized, 7,315,318 and 7,306,663                    7,315                 7,306 
+
+ shares issued, 7,313,994 and 7,305,339 shares outstanding at March 31, 2024 and December
+
+ 31, 2023,
+
+ respectively
+
+ Additional paid-in-capital                                                                          72,025,821            69,120,199 
+
+ Accumulated deficit                                                                                (66,355,861)          (63,603,552)
+
+ Sub-total                                                                                            5,677,291             5,523,966 
+
+ Less:  Treasury stock (1,324 shares of common stock                                                                                  
+
+ at March 31, 2024 and December 31, 2023)                                                              (157,452)             (157,452)
+
+ Total Stockholders' Equity                                                                           5,519,839             5,366,514 
+
+                                                                                                                                      
+
+ Total Liabilities and Stockholders' Equity                                                $         12,742,440  $         12,842,285 
+
+  
+
+ 
+
+See accompanying condensed notes to the unaudited consolidated financial statements.
+
+  
+
+ 
+
+                                                                          1 
+
+
+
+                                                         
+
+ 
+
+DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Unaudited)
+
+   
+
+                                                                                                                                      
+
+                                                                                                    For the Three Months Ended          
+
+                                                                                                            March 31,
+
+                                                                                                   2024                  2023         
+
+                                                                                                                                      
+
+ REVENUES:                                                                                                                            
+
+ Technology systems                                                                        $            269,855  $          1,827,764 
+
+ Services and consulting                                                                                800,825               816,524 
+
+                                                                                                                                      
+
+ Total Revenues                                                                                       1,070,680             2,644,288 
+
+                                                                                                                                      
+
+ COST OF REVENUES:                                                                                                                    
+
+ Technology systems                                                                                     583,437             1,767,209 
+
+ Services and consulting                                                                                392,611               339,907 
+
+                                                                                                                                      
+
+ Total Cost of Revenues                                                                                 976,048             2,107,116 
+
+                                                                                                                                      
+
+ GROSS MARGIN                                                                                            94,632               537,172 
+
+                                                                                                                                      
+
+ OPERATING EXPENSES:                                                                                                                  
+
+ Sales and marketing                                                                                    553,486               307,577 
+
+ Research and development                                                                               382,142               404,885 
+
+ General and Administration                                                                           1,920,050             1,971,508 
+
+                                                                                                                                      
+
+ Total Operating Expenses                                                                             2,855,678             2,683,970 
+
+                                                                                                                                      
+
+ LOSS FROM OPERATIONS                                                                                (2,761,046)           (2,146,798)
+
+                                                                                                                                      
+
+ OTHER INCOME (EXPENSES):                                                                                                             
+
+    Interest expense                                                                                       (445)               (1,180)
+
+    Other income, net                                                                                     9,182                 4,295 
+
+                                                                                                                                      
+
+ Total Other Income (Expenses)                                                                            8,737                 3,115 
+
+                                                                                                                                      
+
+ NET LOSS                                                                                  $         (2,752,309) $         (2,143,683)
+
+                                                                                                                                      
+
+                                                                                                                                      
+
+ Basic and Diluted Net Loss Per Share                                                      $              (0.38) $              (0.30)
+
+                                                                                                                                      
+
+                                                                                                                                      
+
+ Weighted Average Shares-Basic and Diluted                                                            7,306,949             7,156,876 
+
+ 
+
+ 
+
+See accompanying condensed notes to the unaudited consolidated financial statements.
+
+ 
+
+ 
+
+                                                                          2 
+
+
+
+                                                         
+
+ 
+
+ 
+
+  
+
+DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+
+For the Three Months Ended March 31, 2024 and 2023
+
+(Unaudited)
+
+ 
+
+                                                                                                                                                   
+
+                  Preferred     Preferred Stock     Preferred        Common Stock        Additional     Accumulated                             
+
+                     Stock              E              Stock
+
+                       D                                 F
+
+                 # of   Amount    # of    Amount    # of   Amount   # of Shares  Amount   Paid-in-Capita     Deficit       Treasury      Total     
+
+                 Share            Shares            Share                                       l                            Stock
+
+                  s                                  s
+
+                                                                                                                                                   
+
+Balance           1,299  $     1         —  $     —       —  $     —     7,156,876  $ 7,156  $  56,562,600  $ (52,361,834) $ (157,452) $  4,050,471 
+
+ December 31,
+
+ 2022
+
+                                                                                                                                                    
+
+Series E              —        —     4,000        4       —        —             —        —      3,999,996              —           —     4,000,000 
+
+ preferred
+
+ stock
+
+ issued
+
+                                                                                                                                                    
+
+Stock options         —        —         —        —       —        —             —        —         75,128              —           —        75,128 
+
+ compensation
+
+                                                                                                                                                    
+
+Stock issuance        —        —         —        —       —        —             —        —       (299,145)             —           —      (299,145)
+
+ cost
+
+                                                                                                                                                    
+
+Stock issued          —        —         —        —       —        —        12,463       12         32,488              —           —        32,500 
+
+ for
+
+ services
+
+                                                                                                                                                    
+
+Net loss for          —        —         —        —       —        —             —        —              —     (2,143,683)          —    (2,143,683)
+
+ the three
+
+ months ended
+
+ March 31,
+
+ 2023
+
+                                                                                                                                                    
+
+Balance March     1,299  $     1     4,000  $     4       —  $     —     7,169,339  $ 7,168  $  60,371,067  $ (54,505,517) $ (157,452) $  5,715,271 
+
+ 31,
+
+ 2023
+
+                                                                                                                                                    
+
+Balance           1,299  $     1    11,500  $    12       —  $     —     7,306,663  $ 7,306  $  69,120,199  $ (63,603,552) $ (157,452)    5,366,514 
+
+ December 31,
+
+ 2023
+
+                                                                                                                                                    
+
+Series D            620        1         —        —       —        —             —        —        619,999              —           —       620,000 
+
+ preferred
+
+ stock
+
+ issued
+
+                                                                                                                                                    
+
+Series E              —        —     2,125        2       —        —             —        —      2,125,000              —           —     2,125,002 
+
+ preferred
+
+ stock
+
+ issued
+
+                                                                                                                                                    
+
+Stock options         —        —         —        —       —        —             —        —        141,204              —           —       141,204 
+
+ compensation
+
+                                                                                                                                                    
+
+Stock issuance        —        —         —        —       —        —             —        —        (36,188)             —           —       (36,188)
+
+ cost
+
+                                                                                                                                                    
+
+Stock issued          —        —         —        —       —        —         8,655        9         37,491              —           —        37,500 
+
+ for
+
+ services
+
+                                                                                                                                                    
+
+Stock                 —        —         —        —       —        —             —        —         18,116              —           —        18,116 
+
+ compensation
+
+ under
+
+ ESPP
+
+                                                                                                                                                    
+
+Net loss for          —        —         —        —       —        —             —        —              —     (2,752,309)          —    (2,752,309)
+
+ the three
+
+ months ended
+
+ March 31,
+
+ 2024
+
+                                                                                                                                                    
+
+Balance March     1,919  $     2    13,625  $    14       —  $     —     7,315,318  $ 7,315  $  72,025,821  $ (66,355,861) $ (157,452) $  5,519,839 
+
+ 31,
+
+ 2024
+
+ 
+
+ 
+
+ 
+
+See accompanying condensed notes to the unaudited consolidated financial statements.
+
+ 
+
+ 
+
+ 
+
+                                                                          3 
+
+
+
+                                                         
+
+ 
+
+ 
+
+ 
+
+DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited)
+
+                                                                                                                                      
+
+                                                                                                    For the Three Months Ended          
+
+                                                                                                            March 31,                   
+
+                                                                                                   2024                  2023         
+
+                                                                                                                                      
+
+Cash from operating activities:                                                                                                       
+
+Net loss                                                                                   $         (2,752,309) $         (2,143,683)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                           
+
+Depreciation and amortization                                                                           158,208               116,588 
+
+Stock based compensation                                                                                159,320                75,128 
+
+Stock issued for services                                                                                37,500                32,500 
+
+Amortization of operating lease right of use asset                                                       83,348                77,101 
+
+Changes in assets and liabilities:                                                                                                    
+
+   Accounts receivable                                                                                  866,373             2,700,917 
+
+   Note receivable                                                                                       (1,875)                    — 
+
+   Contract assets                                                                                     (270,099)           (1,000,590)
+
+   Inventory                                                                                             23,828              (101,167)
+
+   Prepaid expenses and other current assets                                                             57,944               228,941 
+
+   Accounts payable                                                                                    (415,718)           (1,008,207)
+
+   Accrued expenses                                                                                      76,370               (85,371)
+
+   Operating lease obligation                                                                           (82,306)               (8,107)
+
+   Contract liabilities                                                                                  26,697             1,108,864 
+
+                                                                                                                                      
+
+Net cash used in operating activities                                                                (2,032,719)               (7,086)
+
+                                                                                                                                      
+
+Cash flows from investing activities:                                                                                                 
+
+    Purchase of patents/trademarks                                                                         (980)               (7,339)
+
+    Purchase of software development                                                                          —              (212,067)
+
+    Purchase of fixed assets                                                                             (8,830)              (41,738)
+
+                                                                                                                                      
+
+Net cash used in investing activities                                                                    (9,810)             (261,144)
+
+                                                                                                                                      
+
+Cash flows from financing activities:                                                                                                 
+
+   Repayments on financing agreements                                                                  (130,535)             (201,485)
+
+   Repayment of finance lease                                                                                 —               (11,285)
+
+   Stock issuance cost                                                                                  (36,188)             (299,145)
+
+   Proceeds from preferred stock issued                                                               2,745,002             4,000,000 
+
+                                                                                                                                      
+
+Net cash provided by financing activities                                                             2,578,279             3,488,085 
+
+                                                                                                                                      
+
+Net increase in cash                                                                                    535,750             3,219,855 
+
+Cash, beginning of period                                                                             2,441,842             1,121,092 
+
+Cash, end of period                                                                        $          2,977,592  $          4,340,947 
+
+                                                                                                                                      
+
+Supplemental Disclosure of Cash Flow Information:                                                                                     
+
+Interest paid                                                                              $                  —  $              1,180 
+
+Taxes paid                                                                                 $                  —  $                  — 
+
+                                                                                                                                      
+
+Supplemental Non-Cash Investing and Financing Activities:                                                                             
+
+Notes issued for financing of insurance premiums                                           $            272,322  $            320,004 
+
+ 
+
+   
+
+See accompanying condensed notes to the unaudited consolidated financial statements.
+
+ 
+
+ 
+
+ 
+
+                                                                          4 
+
+
+
+                                                         
+
+ 
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+NOTE 1 – NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+
+Nature of Operations
+
+ 
+
+Duos Technologies Group, Inc. (the “Company”), through its operating subsidiary, Duos Technologies, Inc. (“Duos”) (collectively the “Company”), is a company that specializes in machine vision and artificial intelligence to analyze fast moving objects such as trains, trucks, automobiles, and aircraft. This technology can help improve safety, maintenance, and operating metrics.
+
+ 
+
+The Company is the inventor of the Railcar Inspection Portal (RIP) and is currently the rail industry leader for machine vision/camera wayside detection systems that include the use of Artificial Intelligence at speeds up to 125 mph. The RIP inspects a train at full speed from the top, sides, and bottom looking at FRA/AAR mandated safety inspection points. The system also detects illegal riders, which can assist law enforcement agencies. Each rail car is scanned with machine vision cameras and other sensors from the top, sides, and bottom, where images are produced within seconds of the railcar passing. These images can then be used by the customer to help prevent derailments, improve maintenance operations, and assist with security. The Company self-performs all aspects of hardware, software, Information Technology (“IT”), and Artificial Intelligence development and engineering. The Company maintains significant intellectual property and continues to be awarded additional patents for both the technology and methodologies used. The Company also has a proprietary portfolio of approximately 50 Artificial Intelligence “Use Cases” that automatically flag defects. The Company has deployed this system with several Class 1 railroads and one major passenger carrier and anticipates an increased demand in the future from railcar operators, owners, shippers, transit railroads as well as law enforcement agencies.
+
+ 
+
+The Company has also developed the Automated Logistics Information System (“ALIS”) which automates gatehouse operations where trucks enter and exit large logistics and intermodal facilities. This solution also incorporates sensors and data points as necessary for each operation and directly interconnects with backend logistics databases and processes to streamline and significantly improve operations and security and, importantly, dramatically improve throughput on each lane on which the technology is deployed. The Company is not currently actively pursuing further customers for ALIS but will continue to analyze the potential market and expects to deploy an upgraded Truck Inspection Portal (TIP) which uses the same technology and lessons learned from the ALIS and RIP systems at some point in the future.
+
+ 
+
+The Company’s strategy for the rail industry is to expand beyond our existing customer base in the Class 1 and major passenger transit market and we expect to add additional users in the short line and regional transit markets in North America. In addition, we plan to expand our subscription offering to car owners and shippers and expand operations to meet the demand from international customers. The Company is prepared to respond and scale, if necessary, to react to increased demand from potential regulations that may be imposed around wayside detection technology. In the future the Company may put more emphasis on the trucking and intermodal sector with an updated Truck Inspection Portal solution. The Company continues to focus on operational and technical excellence, customer satisfaction, and maintaining a highly skilled and performance-based work force. The Company is also further investigating market opportunities for subsets of its technology including deployment and management of Edge Data Centers, a fundamental component of the distributed, rapid response data analysis used in the RIP.
+
+ 
+
+ 
+
+ 
+
+                                                                          5 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+ 
+
+Basis of Presentation
+
+ 
+
+The accompanying unaudited consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”) for interim financial information and with the instructions to Form 10-Q and Article 8 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements. In the opinion of management, all adjustments (all of which are of a normal recurring nature) considered necessary for a fair presentation have been included. Operating results for the three months ended March 31, 2024 are not necessarily indicative of the results that may be expected for the year ending December 31, 2024 or for any other future period. These unaudited consolidated financial statements and the unaudited condensed notes thereto should be read in conjunction with the audited consolidated financial statements and notes thereto included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2023 filed with the Securities and Exchange Commission (the “SEC”) on April 1, 2024.
+
+ 
+
+Principles of Consolidation
+
+ 
+
+The unaudited consolidated financial statements include Duos Technologies Group, Inc. and its wholly owned subsidiary, Duos Technologies, Inc. All inter-company transactions and balances are eliminated in consolidation.
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results may differ from these estimates. The most significant estimates in the accompanying unaudited consolidated financial statements include the allowance on accounts receivable and notes receivable, valuation of common stock warrants received in exchange for an asset sale, valuation of deferred tax assets, valuation of intangible and other long-lived assets, estimates of net contract revenues and the total estimated costs to determine progress towards contract completion, valuation of inventory, estimates of the valuation of right of use assets and corresponding lease liabilities, valuation of warrants issued with debt and valuation of stock-based awards. We base our estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates.
+
+  
+
+Concentrations 
+
+ 
+
+Cash Concentrations
+
+ 
+
+Cash is maintained at financial institutions and at times, balances may exceed federally insured limits. We have not experienced any losses related to these balances. As of March 31, 2024, the balance in one financial institution exceeded federally insured limits by approximately $2,485,140. Any loss incurred or a lack of access to such funds could have a significant adverse impact on the Company’s consolidated financial condition, results of operation and cash flows.
+
+ 
+
+Significant Customers and Concentration of Credit Risk
+
+ 
+
+The Company had certain customers whose revenue individually represented 10% or more of the Company’s total revenue, or whose accounts receivable balances individually represented 10% or more of the Company’s total accounts receivable, as follows:
+
+ 
+
+For the three months ended March 31, 2024, three customers accounted for 31%, 30% and 26% of revenues. For the three months ended March 31, 2023, two customers accounted for 70%, and 20% of revenues. In all cases, there are no minimum contract values stated. Each contract covers an agreement to deliver a Railcar Inspection Portal which, once accepted, must be paid in full, with 30% or more being due and payable prior to delivery. The balances of the contracts are for service and maintenance which is may be paid annually in advance with revenues recorded ratably over the contract period.
+
+  
+
+ 
+
+ 
+
+                                                                          6 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+At March 31, 2024, three customers accounted for 49%, 38%, and 13% of accounts receivable. At December 31, 2023, two customers accounted for 83%, and 11% of accounts receivable. Much of the credit risk is mitigated since all the customers listed here are Class 1 railroads with a history of timely payments to us.
+
+  
+
+ 
+
+Geographic Concentration
+
+ 
+
+For the three months ended March 31, 2024, approximately 61% of revenue was generated from three customers outside of the United States. For the three months ended March 31, 2023, approximately 25% of revenue was generated from three customers outside of the United States.
+
+ 
+
+Significant Vendors and Concentration of Credit Risk
+
+ 
+
+In some instances, the Company relies on a limited pool of vendors for key components related to the manufacturing of its subsystems. These vendors are primarily focused on camera, server, and lighting technologies integral to the Company’s solution. Where possible, the Company seeks multiple vendors for key components to mitigate vendor concentration risk.
+
+ 
+
+Fair Value of Financial Instruments and Fair Value Measurements
+
+ 
+
+The Company follows Accounting Standards Codification (“ASC”) 820, “Fair Value Measurements and Disclosures” (“ASC 820”), for assets and liabilities measured at fair value on a recurring basis. ASC 820 establishes a common definition for fair value to be applied to existing generally accepted accounting principles that requires the use of fair value measurements, establishes a framework for measuring fair value and expands disclosure about such fair value measurements.
+
+ 
+
+ASC 820 defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Additionally, ASC 820 requires the use of valuation techniques that maximize the use of observable inputs and minimize the use of unobservable inputs.
+
+ 
+
+These inputs are prioritized below: 
+
+ 
+
+Level 1:     Observable inputs such as quoted market prices in active markets for identical assets or liabilities. 
+
+Level 2:     Observable market-based inputs or unobservable inputs that are corroborated by market data. 
+
+Level 3:     Unobservable inputs for which there is little or no market data, which require the use of the reporting entity’s own
+
+              assumptions that the market participants would use in the valuation of the asset or liability based on the best
+
+              available
+
+              information.
+
+ 
+
+The Company analyzes all financial instruments with features of both liabilities and equity under the Financial Accounting Standard Board’s (“FASB”) accounting standard for such instruments. Under this standard, financial assets and liabilities are classified in their entirety based on the lowest level of input that is significant to the fair value measurement.
+
+ 
+
+The estimated fair value of certain financial instruments, including accounts receivable, prepaid expenses, accounts payable, accrued expenses and notes payable are carried at historical cost basis, which approximates their fair values because of the short-term nature of these instruments.
+
+ 
+
+Accounts Receivable
+
+  
+
+On January 1, 2023, the Company adopted ASC 326, “Financial Instruments - Credit Losses”. In accordance with ASC 326, an allowance is maintained for estimated forward-looking losses resulting from the possible inability of customers to make the required payments (current expected losses). The amount of the allowance is determined principally on the basis of past collection experience and known financial factors regarding specific customers.
+
+ 
+
+ 
+
+                                                                          7 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+Accounts receivable are stated at estimated net realizable value. Accounts receivable are comprised of balances due from customers net of estimated credit loss allowances for uncollectible accounts. In determining the collections on the account, historical trends are evaluated, and specific customer issues are reviewed to arrive at appropriate allowances. The Company reviews its accounts to estimate losses resulting from the inability of its customers to make the required payments. Any required allowance is based on specific analysis of past due accounts and also considers historical trends of write-offs. Past due status is based on how recently payments have been received from customers.
+
+ 
+
+Inventory
+
+ 
+
+Inventory consists primarily of spare parts and consumables and long-lead time components to be used in the production of our technology systems or in connection with maintenance agreements with customers. Any inventory deemed to be obsolete is written off. Inventory is stated at the lower of cost or net realizable value. Inventory cost is primarily determined using the weighted average cost method.
+
+ 
+
+ 
+
+Software Development Costs
+
+ 
+
+Software development costs incurred prior to establishing technological feasibility are charged to operations and included in research and development costs. The technological feasibility of a software product is established when the Company has completed all planning, designing, coding, and testing activities that are necessary to establish that the product meets its design specifications, including functionality, features, and technical performance requirements. Software development costs incurred after establishing technological feasibility for software sold as a perpetual license, as defined within ASC 985-20 (Software – Costs of Software to be Sold, Leased, or Marketed), are capitalized and amortized on a product-by-product basis when the product is available for general release to customers. Software development costs are evaluated for impairment annually by comparing the net realizable value to the unamortized capitalized costs and writing these costs down to net realizable value.
+
+ 
+
+Stock-Based Compensation
+
+ 
+
+The Company accounts for employee and non-employee stock-based compensation in accordance with ASC 718-10, “Share-Based Payment,” which requires the measurement and recognition of compensation expense for all share-based payment awards made to employees and directors including stock options, restricted stock units, and employee stock purchases based on estimated fair values. The stock-based compensation carries a graded vesting feature subject to the condition of time of employment service with awarded stock-based compensation tranches vesting evenly upon the anniversary date of the award.
+
+ 
+
+The Company estimates the fair value of stock options granted using the Black-Scholes option-pricing formula. In accordance with ASC 718-10-35-8, the Company elected to recognize the fair value of the stock award using the graded vesting method as time of employment service is the criteria for vesting. The Company’s determination of fair value using an option-pricing model is affected by the stock price as well as assumptions regarding a number of highly subjective variables.
+
+ 
+
+The Company estimates volatility based upon the historical stock price of the Company and estimates the expected term for stock options using the simplified method for employees and directors and the contractual term for non-employees. The risk-free rate is determined based upon the prevailing rate of United States Treasury securities with similar maturities. 
+
+ 
+
+Revenue Recognition
+
+ 
+
+The Company follows Accounting Standards Codification 606, Revenue from Contracts with Customers (“ASC 606”), that affects the timing of when certain types of revenues will be recognized. The basic principles in ASC 606 include the following: a contract with a customer creates distinct contract assets and performance obligations, satisfaction of a performance obligation creates revenue, and a performance obligation is satisfied upon transfer of control to a good or service to a customer.
+
+ 
+
+Revenue is recognized by evaluating our revenue contracts with customers based on the five-step model under ASC 606:
+
+ 
+
+     1.   Identify the contract with the customer;
+
+ 
+
+     2.   Identify the performance obligations in the contract;
+
+ 
+
+     3.   Determine the transaction price;
+
+ 
+
+ 
+
+                                                                          8 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+     4.   Allocate the transaction price to separate performance obligations; and
+
+ 
+
+     5.   Recognize revenue when (or as) each performance obligation is satisfied.
+
+ 
+
+The Company generates revenue from four sources:
+
+ 
+
+(1) Technology Systems
+
+ 
+
+(2) AI Technologies
+
+ 
+
+(3) Technical Support
+
+ 
+
+(4) Consulting Services
+
+ 
+
+Technology Systems
+
+ 
+
+For revenues related to technology systems, the Company recognizes revenue over time using a cost-based input methodology in which significant judgment is required to estimate costs to complete projects. These estimated costs are then used to determine the progress towards contract completion and the corresponding amount of revenue to recognize.
+
+ 
+
+Accordingly, the Company now bases its revenue recognition on ASC 606-10-25-27, where control of a good or service transfers over time if the entity’s performance does not create an asset with an alternative use to the entity and the entity has an enforceable right to payment for performance completed to date including a profit margin or reasonable return on capital. Control is deemed to pass to the customer instantaneously as the goods are manufactured and revenue is recognized accordingly.
+
+ 
+
+In addition, the Company has adopted ASC 606-10-55-21 such that if the cost incurred is not proportionate to the progress in satisfying the performance obligation, we adjust the input method to recognize revenue only to the extent of the cost incurred. Therefore, the Company will recognize revenue at an equal amount to the cost of the goods to satisfy the performance obligation. To accurately reflect revenue recognition based on the input method, the Company has adopted the implementation guidance as set out in ASC-606-10-55-187 through 192.
+
+ 
+
+Under this method, contract revenues are recognized over the performance period of the contract in direct proportion to the costs incurred. Costs include direct material, direct labor, subcontract labor and other allocable indirect costs. All un-allocable indirect costs and corporate general and administrative costs are also charged to the periods as incurred. Any recognized revenues that have not been billed to a customer are recorded as an asset in “contract assets”. Any billings of customers more than recognized revenues are recorded as a liability in “contract liabilities”. However, in the event a loss on a contract is foreseen, the Company will recognize the loss when such loss is determined to be both probable and reasonably estimable.
+
+ 
+
+ 
+
+ 
+
+                                                                          9 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+ 
+
+AI Technologies
+
+ 
+
+The Company has revenue from applications that incorporate artificial intelligence (AI) in the form of predetermined algorithms which provide important operating information to the users of our systems. The revenue generated from these applications of AI consists of a fixed fee related to the design, development, testing and incorporation of new algorithms into the system, which is recognized as revenue at a point in time upon acceptance, as well as an annual application maintenance fee, which is recognized as revenue ratably over the contracted maintenance term.
+
+ 
+
+Technical Support
+
+ 
+
+Technical support services are provided on both an as-needed and extended-term basis and may include providing both parts and labor. Maintenance and technical support provided outside of a maintenance contract are on an “as-requested” basis, and revenue is recognized over time as the services are provided. Revenue for maintenance and technical support provided on an extended-term basis is recognized over time ratably over the term of the contract.
+
+ 
+
+Consulting Services 
+
+ 
+
+The Company’s consulting services business generates revenues under contracts with customers from three sources: (1) Professional Services (consulting and auditing); (2) Customer service training and (3) Maintenance/support.
+
+ 
+
+(1) Revenues for professional services, which are of short-term duration, are recognized when services are completed;
+
+ 
+
+(2) Training sales are one-time upfront short-term training sessions and are recognized after the service has been performed; and
+
+ 
+
+(3) Maintenance/support is an optional product sold to our software license customers under one-year or longer contracts. Accordingly, maintenance payments received upfront are deferred and recognized over the contract term.
+
+ 
+
+Multiple Performance Obligations and Allocation of Transaction Price 
+
+ 
+
+Arrangements with customers may involve multiple performance obligations including project revenue and maintenance services in our Technology Systems business. Maintenance will occur after the project is completed and may be provided on an extended-term basis or on an as-needed basis. In our consulting services business, multiple performance obligations may include any of the above four sources. Training and maintenance on software products may occur after the software product sale while other services may occur before or after the software product sale and may not relate to the software product. Revenue recognition for a multiple performance obligations arrangement is as follows:
+
+ 
+
+Each performance obligation is accounted for separately when each has value to the customer on a standalone basis and there is Company specific objective evidence of the selling price of each deliverable. For revenue arrangements with multiple deliverables, the Company allocates the total customer arrangement to the separate units of accounting based on their relative selling prices as determined by the price of the items when sold separately. Once the selling price is allocated, the revenue for each performance obligation is recognized using the applicable criteria under GAAP as discussed above for performance obligations sold in single performance obligation arrangements. A delivered item or items that do not qualify as a separate unit of accounting within the arrangement are combined with the other applicable undelivered items within the arrangement. The allocation of arrangement consideration and the recognition of revenue is then determined for those combined deliverables as a single unit of accounting. The Company sells its various services and software and hardware products at established prices on a standalone basis which provides Company specific objective evidence of selling price for purposes of performance obligations relative selling price allocation. The Company only sells maintenance services or spare parts based on its established rates after it has completed a system integration project for a customer. The customer is not required to purchase maintenance services. All elements in multiple performance obligations arrangements with Company customers qualify as separate units of account for revenue recognition purposes.
+
+ 
+
+ 
+
+                                                                          10 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+Leases
+
+ 
+
+The Company follows ASC 842 “Leases”. This guidance requires lessees to recognize right-of-use (“ROU”) assets and lease liabilities for most operating leases. In addition, this guidance requires that lessors separate lease and non-lease components in a contract in accordance with the revenue guidance in ASC 606.
+
+ 
+
+The Company made an accounting policy election to not recognize short-term leases with terms of twelve months or less on the balance sheet and instead recognize the lease payments as an expense when incurred. The Company has also elected to account for real estate leases that contain both lease and non-lease components as a single lease component.
+
+ 
+
+At the inception of a contract the Company assesses whether the contract is, or contains, a lease. The Company’s assessment is based on: (1) whether the contract involves the use of a distinct identified asset, (2) whether we obtain the right to substantially all the economic benefit from the use of the asset throughout the period, and (3) whether we have the right to direct the use of the asset.
+
+ 
+
+Operating ROU assets represent the right to use the leased asset for the lease term and operating lease liabilities are recognized based on the present value of minimum lease payments over the lease term at commencement date. As most leases do not provide an implicit rate, the Company uses an incremental borrowing rate based on the information available at the lease commencement date to determine the present value of future payments. The lease term includes all periods covered by renewal and termination options where the Company is reasonably certain to exercise the renewal options or not to exercise the termination options. Operating lease expense is recognized on a straight-line basis over the lease term and is included in general and administration expenses in the consolidated statements of operations.
+
+ 
+
+Earnings (Loss) Per Share
+
+ 
+
+Basic earnings per share (EPS) are computed by dividing the net loss applicable to common stock by the weighted average number of common shares outstanding. Diluted net loss per common share is computed by dividing the net loss applicable to common stock by the weighted average number of common shares outstanding for the period and, if dilutive, potential common shares outstanding during the period. Potential common shares consist of the incremental common shares issuable upon the exercise or conversion of stock options, stock warrants, convertible debt instruments, convertible preferred stock or other common stock equivalents. Potentially dilutive securities are excluded from the computation if their effect is anti-dilutive.  
+
+ 
+
+At March 31, 2024, there were (i) an aggregate of 44,644 outstanding warrants to purchase shares of common stock, (ii) employee stock options to purchase an aggregate of 1,387,775 shares of common stock, (iii) 639,667 common shares issuable upon conversion of Series D Convertible Preferred Stock, and (iv) 4,541,667 common shares issuable upon conversion of Series E Convertible Preferred Stock, all of which were excluded from the computation of diluted net earnings per share because their inclusion would have been anti-dilutive.
+
+ 
+
+At March 31, 2023, there were (i) an aggregate of 80,091 outstanding warrants to purchase shares of common stock, (ii) employee stock options to purchase an aggregate of 924,658 shares of common stock, (iii) 433,000 common shares issuable upon conversion of Series D Convertible Preferred Stock and (iv) 1,333,334 common shares issuable upon conversion of Series E Convertible Preferred Stock, all of which were excluded from the computation of diluted earnings per share because their inclusion would have been anti-dilutive.
+
+ 
+
+                                                                          11 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+From time to time, the FASB or other standards setting bodies will issue new accounting pronouncements. Updates to the FASB ASC are communicated through issuance of an Accounting Standards Update (“ASU”).
+
+ 
+
+In November 2023, the FASB issued ASU 2023-07 Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures. ASU 2023-07 requires companies to disclose significant segment expenses that are regularly provided to the chief operating decision maker. ASU 2023-07 is effective for annual periods beginning on January 1, 2024 and interim periods beginning on January 1, 2025. ASU 2023-07 must be applied retrospectively to all prior periods presented in the financial statements. The Company has evaluated the disclosure impact of ASU 2023-07; and determined the standard will not have an impact on the Company’s consolidated financial statements.
+
+ 
+
+In December 2023, the FASB issued ASU No. 2023-09 Income Taxes (Topic 740): Improvements to Income Tax Disclosures. ASU 2023-09 requires companies to disclose, on an annual basis, specific categories in the effective tax rate reconciliation and provide additional information for reconciling items that meet a quantitative threshold. Further, ASU 2023-09 requires companies to disclose additional information about income taxes paid. ASU 2023-09 is effective for annual periods beginning January 1, 2025 and will be applied on a prospective basis with the option to apply the standard retrospectively. The Company is evaluating the disclosure impact of ASU 2023-09; however, the standard will not have an impact on the Company’s consolidated financial statements.
+
+ 
+
+Management does not believe that any other recently issued, but not yet effective accounting pronouncements, if adopted, would have a material effect on the accompanying financial statements.
+
+ 
+
+NOTE 2 – LIQUIDITY
+
+ 
+
+Under Accounting Codification ASC 205, Presentation of Financial Statements—Going Concern (Subtopic 205-40) (“ASC 205-40”), the Company has the responsibility to evaluate whether conditions and/or events raise substantial doubt about its ability to meet its future financial obligations as they become due within one year after the date that the financial statements are issued. As required by ASC 205-40, this evaluation shall initially not take into consideration the potential mitigating effects of plans that have not been fully implemented as of the date the financial statements are issued. Management has assessed the Company’s ability to continue as a going concern in accordance with the requirement of ASC 205-40.
+
+ 
+
+As reflected in the accompanying consolidated financial statements, the Company had a net loss of $2,752,309 for the three months ended March 31, 2024. During the same period, cash used in operating activities was $2,032,719. The working capital surplus and accumulated deficit as of March 31, 2024, were $3,305,875 and $66,355,861, respectively. In previous financial reports, the Company had raised substantial doubt about continuing as a going concern. This was principally due to a lack of working capital prior to underwritten offerings and private placements which were completed during 2022, 2023, and now the first and second quarters of 2024 as well.
+
+ 
+
+                                                                          12 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+ 
+
+As previously noted, the Company was successful during 2023 in raising gross proceeds of over $11,500,000 from the sale of Series E and F Preferred Stock. Additionally, late in the first quarter of 2024, the Company raised gross proceeds of $2,745,000 from the issuance of a combination of Series D and E Preferred Stock (See Note 5). As part of its strategy, the Company will endeavor to utilize the Preferred Series E and the remainder of the Series D as additional funding mechanisms. Additionally, during the second quarter of 2024, the Company will again have access to its S-3 “shelf registration” statement allowing the Company to sell additional common shares. At the time of filing this document, the Company estimates that it has available capacity on its shelf registration which it can utilize to bolster working capital and growth of the business in the event it did not have an uptake in the preferred classes of shares previously noted. Although additional investment is not assured, the Company is comfortable that it would be able to raise sufficient capital to support expanded operations based on an anticipated increase in business activity. In the long run, the continuation of the Company as a going concern is dependent upon the ability of the Company to continue executing its business plan, generate enough revenue, and attain consistently profitable operations. Although the lingering effects of the global pandemic related to the coronavirus (Covid-19) previously affected our operations, particularly in our supply chain, we now believe that the supply chain lags have largely been abated. We have analyzed our cash flow under “stress test” conditions and have determined that we have sufficient liquid assets on hand or available via the capital markets to maintain operations for at least twelve months from the issuance date of this report.  
+
+ 
+
+In the long run, the continuation of the Company as a going concern is dependent upon the ability of the Company to continue executing its business plan, and growing the Company sufficiently to generate enough revenue to attain consistently profitable operations. The Company cannot currently quantify the uncertainty related to previous supply chain delays or the persistence of inflation and their effects on our customers in the coming quarters. We have analyzed our cash flow under “stress test” conditions and have determined that we have sufficient liquid assets on hand, forthcoming with ongoing business or available via the capital markets to maintain operations for at least twelve months from the date of this report.
+
+ 
+
+In addition, management has been taking and continues to take actions including, but not limited to, elimination of certain costs that do not contribute to short term revenue, and re-aligning both management and staffing with a focus on improving certain skill sets necessary to build growth and profitability and focusing product strategy on opportunities that are likely to bear results in the relatively short term. The Company believes that, as described above, it will have sufficient sources of working capital to meet its obligations over the following twelve months. In the last twelve months the Company has experienced relatively steady contracted backlog as well as seen positive signs from new commercial engagements that indicate improvements in future commercial opportunities for both one-time capital and recurring services revenues.
+
+ 
+
+Management believes that, at this time, the conditions in our market space with ongoing contract delays, the consequent need to procure certain materials in advance of a binding contract and the additional time needed to execute on new contracts previously reported have put a strain on our cash reserves. However, proactive management of our existing contracts, recent stock offerings and private placements as well as the availability to raise capital via our shelf registration indicate there is no substantial doubt that the Company can continue as a going concern for a period of twelve months from the issuance date of this report. We continue executing the plan to grow our business and achieve profitability. The Company may selectively look at opportunities for fund raising in the future. Management has extensively evaluated our requirements for the next twelve months and has determined that the Company currently has sufficient cash and access to capital to operate for at least that period.
+
+ 
+
+While no assurance can be provided, management believes that these actions provide the opportunity for the Company to continue as a going concern and to grow its business and achieve profitability with access to additional capital funding. Ultimately the continuation of the Company as a going concern is dependent upon the ability of the Company to continue executing the plan described above which was put in place in late 2022, continued in 2023, and will continue in 2024 and beyond. These consolidated financial statements do not include any adjustments related to the recoverability and classification of recorded asset amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern.
+
+ 
+
+ 
+
+                                                                          13 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+NOTE 3 – DEBT
+
+ 
+
+Notes Payable - Financing Agreements
+
+  
+
+The Company’s notes payable relating to financing agreements classified as current liabilities consist of the following as of March 31, 2024 and December 31, 2023:
+
+Schedule of notes payable                                                                                                              
+
+                                                                            March 31, 2024                     December 31, 2023         
+
+Notes Payable                                                         Principal        Interest          Principal        Interest     
+
+                                                                                                                                       
+
+Third Party - Insurance Note 1                                     $             —               —%  $       39,968            8.00%
+
+Third Party - Insurance Note 2                                              22,438               —            2,008               — 
+
+Third Party - Insurance Note 3                                             161,325               —                —               — 
+
+Total                                                              $       183,763               —   $       41,976               — 
+
+  
+
+The Company entered into an agreement on April 15, 2023 with its insurance provider by issuing a note payable (Insurance Note 1) for the purchase of an insurance policy in the amount of $142,734, secured by that policy with an annual interest rate of 8.00% and payable in 11 monthly installments of principal and interest totaling $13,501. At March 31, 2024 and December 31, 2023, the balance of Insurance Note 1 was zero 0 and $39,968, respectively.
+
+ 
+
+The Company renewed it’s agreement on February 3, 2024 with its insurance provider by issuing a note payable (Insurance Note 2) for the purchase of an insurance policy in the amount of $24,140, and payable in 12 monthly installments of $2,012. At March 31, 2024 and December 31, 2023, the balance of Insurance Note 2 was $22,438 and $2,008, respectively.
+
+ 
+
+The Company entered into an agreement on February 3, 2024 with its insurance provider by issuing a note payable (Insurance Note 3) for the purchase of an insurance policy in the amount of $245,798 with a down payment paid in the amount of $84,473 in the first quarter of 2024 and ten monthly installments of $20,169. At March 31, 2024 and December 31, 2023, the balance of Insurance Note 4 was $161,325 and zero 0 , respectively.
+
+ 
+
+ 
+
+                                                                          14 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+NOTE 4 – COMMITMENTS AND CONTINGENCIES
+
+ 
+
+Operating Lease Obligations 
+
+ 
+
+On July 26, 2021, the Company entered a new operating lease agreement for office and warehouse combination space of 40,000 square feet, with the lease commencing on November 1, 2021 and ending April 30, 2032. This new space combines the Company’s two separate work locations into one facility, which allows for greater collaboration and also accommodates a larger anticipated workforce and manufacturing facility. On November 24, 2021, the lease was amended to commence on December 1, 2021 and end on May 31, 2032. The Company recognized a ROU asset and operating lease liability in the amount of $4,980,104   at lease commencement. Rent for the first eleven months of the term was calculated based on 30,000 rentable square feet. The rent is subject to an annual escalation of 2.5%, beginning November 1, 2023. The Company made a security deposit payment in the amount of $600,000 on July 26, 2021. Per the contract, in the 18th month, the security deposit was reduced by $50,000. The right of use asset balance at March 31, 2024, net of accumulated amortization, was $4,289,807.
+
+ 
+
+As of March 31, 2024, the office and warehouse lease is the Company’s only lease with a term greater than twelve months. The office and warehouse lease has a remaining term of approximately 8.3 years and includes an option to extend for two renewal terms of five years each. The renewal options are not reasonably certain to be exercised, and therefore, they are not included when determining the lease term used to establish the right-of use asset and lease liability. The Company also has several short-term leases, primarily related to equipment. The Company made an accounting policy election to not recognize short-term leases with terms of twelve months or less on the consolidated balance sheet and instead recognize the lease payments in expense as incurred. The Company has also elected to account for real estate leases that contain both lease and non-lease components (such as common area maintenance) as a single lease component.
+
+ 
+
+The following table shows supplemental information related to leases:
+
+Schedule of supplemental information related to leases                                                                           
+
+                                                                                                   Three Months Ended              
+
+                                                                                                        March 31,
+
+                                                                                              2024                  2023         
+
+Lease cost:                                                                                                                      
+
+Operating lease cost                                                                   $           195,410   $           195,409 
+
+Short-term lease cost                                                                  $             4,296   $             7,104 
+
+                                                                                                                                 
+
+Other information:                                                                                                               
+
+Operating cash outflow used for operating leases                                       $           194,367   $           126,416 
+
+Weighted average discount rate                                                                         9.0%                  9.0%
+
+Weighted average remaining lease term                                                            8.3 years             9.2 years 
+
+  
+
+ 
+
+                                                                          15 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+ 
+
+As of March 31, 2024, future minimum lease payments due under our operating leases are as follows:
+
+Schedule of future minimum lease payments due under the operating lease                                                              
+
+                                                                                                                       Amount        
+
+Calendar year:                                                                                                                      
+
+2024                                                                                                            $           584,720 
+
+2025                                                                                                                        798,556 
+
+2026                                                                                                                        818,518 
+
+2027                                                                                                                        838,984 
+
+2028                                                                                                                        859,856 
+
+Thereafter                                                                                                                3,183,571 
+
+Total undiscounted future minimum lease payments                                                                          7,084,205 
+
+Less: Impact of discounting                                                                                              (2,158,706)
+
+Total present value of operating lease obligations                                                                        4,925,599 
+
+Current portion                                                                                                            (783,944)
+
+Operating lease obligations, less current portion                                                               $         4,141,555 
+
+  
+
+NOTE 5 – STOCKHOLDERS’ EQUITY 
+
+ 
+
+Series B Convertible Preferred Stock
+
+ 
+
+The following summary of certain terms and provisions of our Series B Convertible Preferred Stock (the “Series B Convertible Preferred Stock”) is subject to, and qualified in its entirety by reference to, the terms and provisions set forth in our certificate of designation of preferences, rights and limitations of Series B Convertible Preferred Stock (the “Series B Convertible Preferred Certificate of Designation”) as previously filed. Subject to the limitations prescribed by our articles of incorporation, our board of directors is authorized to establish the number of shares constituting each series of preferred stock and to fix the designations, powers, preferences, and rights of the shares of each of those series and the qualifications, limitations and restrictions of each of those series, all without any further vote or action by our stockholders. Our board of directors designated 15,000 of the 10,000,000 authorized shares of preferred stock as Series B Convertible Preferred Stock with a stated value of $1,000 per share. The shares of Series B Convertible Preferred Stock were validly issued, fully paid and non-assessable.
+
+ 
+
+Each share of Series B Convertible Preferred Stock was convertible at any time at the holder’s option into a number of shares of common stock equal to $1,000 divided by the conversion price of $7.00 per share. Notwithstanding the foregoing, we could not effect any conversion of Series B Convertible Preferred Stock, with certain exceptions, to the extent that, after giving effect to an attempted conversion, the holder of shares of Series B Convertible Preferred Stock (together with such holder’s affiliates, and any persons acting as a group together with such holder or any of such holder’s affiliates) would beneficially own a number of shares of our common stock in excess of 4.99% (or, at the election of the purchaser, 9.99%) of the shares of our common stock then outstanding after giving effect to such conversion. The Series B Convertible Preferred Certificate of Designation does not prohibit the Company from waiving this limitation. Upon any liquidation, dissolution or winding-up of Company, whether voluntary or involuntary (a “Liquidation”), the holders shall be entitled to participate on an as-converted-to-common stock basis (without giving effect to the Beneficial Ownership Limitation) with holders of the common stock in any distribution of assets of the Company to the holders of the common stock. As of March 31, 2024 and December 31, 2023, respectively, there are zero 0 and zero 0 shares of Series B Convertible Preferred Stock issued and outstanding. 
+
+ 
+
+Series C Convertible Preferred Stock
+
+ 
+
+The Company’s Board of Directors designated 5,000 shares as the Series C Convertible Preferred Stock (the “Series C Convertible Preferred Stock”). Each share of the Series C Convertible Preferred Stock had a stated value of $1,000. The holders of the Series C Convertible Preferred Stock, the holders of the common stock and the holders of any other class or series of shares entitled to vote with the common stock shall vote together as one class on all matters submitted to a vote of shareholders of the Company. Each share of Series C Convertible Preferred Stock has 172 votes (subject to adjustment); provided that in no event may a holder of Series C Convertible Preferred Stock be entitled to vote a number of shares in excess of such holder’s Beneficial Ownership Limitation (as defined in the Certificate of Designation and as described below). Each share of Series C Convertible Preferred Stock was convertible, at any time and from time to time, at the option of the holder, into that number of shares of common stock (subject to the Beneficial Ownership Limitation) determined by dividing the stated value of such share ($1,000) by the conversion price, which is $5.50 (subject to adjustment). The Company shall not effect any conversion of the Series C Convertible Preferred Stock, and a holder shall not have the right to convert any portion of the Series C Convertible Preferred Stock, to the extent that after giving effect to the conversion sought by the holder such holder (together with such holder’s Attribution Parties (as defined in the Certificate of Designation)) would beneficially own more than 4.99% (or upon election by a holder, 19.99%) of the number of shares of common stock outstanding immediately after giving effect to the issuance of shares of common stock issuable upon such conversion (the “Beneficial Ownership Limitation”). All holders of the Series C Preferred Stock elected the 19.99% Beneficial Ownership Limitation.
+
+ 
+
+ 
+
+                                                                          16 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+On February 26, 2021, the Company entered into a Securities Purchase Agreement (the “Purchase Agreement”) with certain existing investors in the Company (the “Purchasers”). Pursuant to the Purchase Agreement, the Purchasers purchased 4,500 shares of a newly authorized Series C Convertible Preferred Stock, and the Company received proceeds of $4,500,000. The Purchase Agreement contains customary representations, warranties, agreements and indemnification rights and obligations of the parties. In January 2022, the 2,500 outstanding shares of Series C Convertible Preferred Stock were converted into 454,546 shares of common stock. As of March 31, 2024 and December 31, 2023, respectively, there were zero 0 and zero 0 shares of Series C Convertible Preferred Stock issued and outstanding.
+
+ 
+
+In connection with the Purchase Agreement, the Company also entered into a Registration Rights Agreement with the Purchasers. Pursuant to the Registration Rights Agreement, the Company filed with the SEC a registration statement covering the resale by the Purchasers of the shares of common stock into which the shares of Series C Convertible Preferred Stock were convertible. The Registration Rights Agreement contains customary representations, warranties, agreements and indemnification rights and obligations of the parties.
+
+ 
+
+Series D Convertible Preferred Stock 
+
+ 
+
+On September 28, 2022, the Company amended its articles of incorporation to designate 4,000 shares as the Series D Convertible Preferred Stock (the “Series D Convertible Preferred Stock”). Each share of the Series D Convertible Preferred Stock has a stated value of $1,000. The holders of the Series D Convertible Preferred Stock, the holders of the common stock and the holders of any other class or series of shares entitled to vote with the common stock shall vote together as one class on all matters submitted to a vote of shareholders of the Company. Each share of Series D Convertible Preferred Stock has 333 votes (subject to standard anti-dilution adjustment); provided that in no event may a holder of Series D Convertible Preferred Stock be entitled to vote a number of shares in excess of such holder’s Beneficial Ownership Limitation (as defined in the Certificate of Designation and as described below). Each share of Series D Convertible Preferred Stock is convertible, at any time and from time to time, at the option of the holder, into that number of shares of common stock (subject to the Beneficial Ownership Limitation) determined by dividing the stated value of such share ($1,000) by the conversion price, which is $3.00 (subject to adjustment). The Company shall not effect any conversion of the Series D Convertible Preferred Stock, and a holder shall not have the right to convert any portion of the Series D Convertible Preferred Stock, to the extent that after giving effect to the conversion sought by the holder such holder (together with such holder’s Attribution Parties (as defined in the Certificate of Designation)) would beneficially own more than 4.99% (or upon election by a holder, 19.99%) of the number of shares of common stock outstanding immediately after giving effect to the issuance of shares of common stock issuable upon such conversion (the “Beneficial Ownership Limitation”). All holders of the Series D Preferred Stock are subject to the 4.99% restriction, with the exception of one who elected the 19.99% Beneficial Ownership Limitation. The Company shall reserve and keep available out of its authorized and unissued Common Stock, solely for the issuance upon the conversion of the Series D Convertible Preferred Stock, such a number of shares of Common Stock as shall from time to time be issuable upon the conversion of all of the shares of the Series D Convertible Preferred Stock then outstanding. Additionally, the Series D Convertible Preferred Stock does not have the right to dividends and in the event of an involuntary liquidation, the Series D shares shall be treated as a pro rata equivalent of common stock outstanding at the date of the liquidation event and have no liquidation preference.
+
+ 
+
+On September 30, 2022, the Company entered into a Securities Purchase Agreement (the “Purchase Agreement”) with certain existing investors in the Company (the “Purchasers”). Pursuant to the Purchase Agreement, the Purchasers purchased 999 shares of the newly authorized Series D Convertible Preferred Stock, and the Company received proceeds of $999,000. The Purchase Agreement contains customary representations, warranties, agreements and indemnification rights and obligations of the parties.
+
+ 
+
+On October 29, 2022, the Company entered into a Securities Purchase Agreement (the “Purchase Agreement”) with a certain existing investor in the Company (the “Purchaser”). Pursuant to the Purchase Agreement, the Purchaser purchased 300 shares of the newly authorized Series D Convertible Preferred Stock, and the Company received proceeds of $300,000. The Purchase Agreement contains customary representations, warranties, agreements and indemnification rights and obligations of the parties.
+
+ 
+
+On May 16, 2023, the Series D Convertible Preferred Stock was approved for conversion to common shares during the Company’s annual shareholder meeting. 
+
+ 
+
+On March 22, 2024 and March 28, 2024, the Company entered into Securities Purchase Agreements (the “Purchase Agreements”) with certain existing and other accredited investors (the “2024 Purchasers”). Pursuant to the Purchase Agreements, the 2024 Purchasers purchased an aggregate of 620 shares of Series D Preferred Stock, at a price of $1,000 per share, and the Company received proceeds of $620,000. The Series D Preferred Stock is convertible into Common Stock at $3.00 a share. If all of the 620 shares of Series D Preferred Stock were converted, the Company would issue 206,667 shares of Common Stock.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, respectively, there were 1,919 and 1,299 shares of Series D Convertible Preferred Stock issued and outstanding.
+
+ 
+
+In connection with such Purchase Agreements, the Company also entered into a Registration Rights Agreement with the Purchasers. Pursuant to the Registration Rights Agreement, the Company filed with the SEC a registration statement covering the resale by the Purchasers of the shares of common stock into which the shares of Series D Convertible Preferred Stock are convertible. The Registration Rights Agreement contains customary representations, warranties, agreements and indemnification rights and obligations of the parties.
+
+ 
+
+The Registration Rights Agreement contains provisions for liquidated damages equal to 1% multiplied by the aggregate subscription amount paid, paid each month, in the event certain deadlines are missed.
+
+ 
+
+                                                                          17 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+Series E Convertible Preferred Stock
+
+ 
+
+The Company’s Board of Directors has designated 30,000 shares as the Series E Convertible Preferred Stock (the “Series E Convertible   Preferred Stock”). Each share of the Series E Convertible Preferred Stock has a stated value of $1,000. The holders of the Series E Convertible Preferred Stock, the holders of the common stock and the holders of any other class or series of shares entitled to vote with the common stock shall vote as one class on all matters submitted to a vote of shareholders of the Company. Each share of Series E Convertible Preferred Stock has 333 votes (subject to adjustment); provided that in no event may a holder of Series E Convertible Preferred Stock be entitled to vote a number of shares in excess of such holder’s Beneficial Ownership Limitation. Each share of Series E Convertible Preferred Stock is convertible, subject to shareholder approval (which has not yet been granted); at any time and from time to time, at the option of the holder, into that number of shares of common stock (subject to the Beneficial Ownership Limitation) determined by dividing the stated value of such share ($1,000) by the conversion price, which is $3.00 (subject to adjustment). The Company shall not effect any conversion of the Series E Convertible Preferred Stock, and the holder shall not have the right to convert any portion of the Series E Convertible Preferred Stock, to the extent that after giving effect to the conversion sought by the holder such holder (together with such holder’s Attribution Parties (as defined in the Certificate of Designation)) would beneficially own more than 4.99% (or upon election by a holder, 19.99%) of the number of shares of common stock outstanding immediately after giving effect to the issuance of shares of common stock issuable upon such conversion (the “Beneficial Ownership Limitation”). All holders of the Series E Convertible Preferred Stock are subject to the 4.99% restriction, with the exception of one who elected the 19.99% Beneficial Ownership Limitation
+
+ 
+
+The Company on March 27, 2023 entered into a Securities Purchase Agreement (the “Purchase Agreement”) with an existing investor in the Company (the “Purchaser”). Pursuant to the Purchase Agreement, the Purchaser purchased 4,000 shares of a newly authorized Series E Convertible Preferred Stock at a price of $1,000 per share, and the Company received proceeds of $4,000,000. The Purchase Agreement contains customary representations, warranties, agreements and indemnification rights and obligations of the parties.
+
+ 
+
+The existing investor’s Purchase Agreement also provides that the Company will not, with certain exceptions, sell or issue common stock or Common Stock Equivalents (as defined in the Purchase Agreement) on or prior to December 31, 2023 that entitles any person to acquire shares of common stock at an effective price per share less than the then conversion price of the Series E Convertible Preferred Stock without the consent of the Purchaser.
+
+ 
+
+On November 9, 2023, the Company entered into a Securities Purchase Agreement (the “Purchase Agreement”) with an existing investor in the Company (the “Purchaser”). Pursuant to the Purchase Agreement, the Purchaser purchased 2,500 shares of authorized Series E Convertible Preferred Stock, at a price of $1,000 per share, and the Company received proceeds of $2,500,000. In connection with the November 2023 Series E Convertible Preferred Stock offering, the Company entered into an Exchange Agreement with the investor and issued an additional 5,000 shares of Series E Convertible Preferred Stock at $1,000 per share with the $3.00 per common share common stock equivalent conversion price in exchange for 5,000 outstanding and issued shares of Series F Convertible Preferred Stock, which were convertible to common stock at $6.20 per common share. All shares of Series F Convertible Preferred Stock were held by a single shareholder.
+
+ 
+
+The November Purchase Agreement also provides that the Company will not, with certain exceptions, sell or issue common stock or Common Stock Equivalents (as defined in the November Purchase Agreement) on or prior to June 30, 2024 that entitles any person to acquire shares of common stock at an effective price per share less than the then conversion price of the Series E Convertible Preferred Stock without the consent of the Purchasers. The conversion price of the Series E Convertible Preferred Stock currently is $3.00 per share (subject to adjustment).
+
+ 
+
+The Purchasers under the November Purchase Agreement also were the holders of the Company’s Series F Convertible Preferred Stock issued on August 1, 2023. The purchase agreement relating to the shares of Series F Convertible Preferred Stock required the consent of the holders in the event the Company were to issue common stock or rights to acquire common stock prior to December 31, 2023 at an effective price per share less than the then conversion price of the Series F Convertible Preferred Stock, which was $6.20 per share. As a result, on November 10, 2023 the Company and the holders of the Series F Convertible Preferred Stock entered into Exchange Agreements pursuant to which the holders of Series F Convertible Preferred Stock exchanged their 5,000 shares of Series F Convertible Preferred Stock for an equal number of shares of Series E Convertible Preferred Stock. As a result of the November Purchase Agreement and the Exchange Agreements, the Company issued a total of 7,500 shares of Series E Convertible Preferred Stock and the 5,000 shares of Series F Convertible Preferred Stock were cancelled.
+
+  
+
+On March 22, 2024 and March 28, 2024, the Company entered into Securities Purchase Agreements (the “Purchase Agreements”) with certain existing and other accredited investors (the “2024 Purchasers”). Pursuant to the Purchase Agreements, the 2024 Purchasers purchased an aggregate of  2,125 shares of Series E Convertible Preferred Stock, at a price in each case of $1,000 per share, and the Company received proceeds of $2,125,002. The Series E Preferred Stock is convertible into Common Stock at $3.00 a share. If all of the 2,125 shares of Series E Convertible Preferred Stock were converted, the Company would issue 708,333 shares of Common Stock.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, respectively, there were 13,625 and 11,500 shares of Series E Convertible Preferred Stock issued and outstanding. 
+
+ 
+
+In connection with such Purchase Agreements, the Company also entered into a Registration Rights Agreement with the Purchasers. Pursuant to the Registration Rights Agreement, the Company filed with the SEC a registration statement covering the resale by the Purchasers of the shares of common stock into which the shares of Series E Convertible Preferred Stock are convertible. The Registration Rights Agreement contains customary representations, warranties, agreements and indemnification rights and obligations of the parties.
+
+ 
+
+The Registration Rights Agreement contains provisions for liquidated damages equal to 1% multiplied by the aggregate subscription amount paid, paid each month, in the event certain deadlines are missed.
+
+ 
+
+                                                                          18 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+Series F Convertible Preferred Stock
+
+ 
+
+On August 2, 2023, the Company entered into a Securities Purchase Agreement (the “Purchase Agreement”) with an existing, accredited investor in the Company (the “Purchaser”). Pursuant to the Purchase Agreement, the Purchaser purchased 5,000 shares of a newly authorized Series F Convertible Preferred Stock (the “Series F Convertible Preferred Stock”), and the Company received proceeds of $5,000,000. The Purchase Agreement contains customary representations, warranties, agreements and indemnification rights and obligations of the parties.
+
+ 
+
+The Company's Board of Directors designated 5,000 shares as the Series F Preferred Stock. Each share of Series F Preferred Stock is convertible, at any time and from time to time, at the option of the holder, into that number of shares of common stock (subject to the beneficial ownership limitation described below) determined by dividing the stated value of such share ($1,000) by the conversion price, which is $6.20 (subject to adjustment) which equates to 161 common shares for each converted Series F preferred share. The Company, however, shall not effect any conversion of the Series F Preferred Stock, and the holder shall not have the right to convert any portion of the Series F Preferred Stock, to the extent that after giving effect to the conversion sought by the holder such holder (together with such holder’s Attribution Parties (as defined in the Certificate of Designation)) would beneficially own more than 4.99% (or upon election by a holder, 19.99%) of the number of shares of common stock outstanding immediately after giving effect to the issuance of shares of common stock issuable upon such conversion. The purchasers of the Series F Preferred Stock elected that their ownership limitation would be 19.99%.
+
+ 
+
+The holders of the Series F Preferred Stock, the holders of the common stock and the holders of any other class or series of shares entitled to vote with the common stock shall vote together as one class on all matters submitted to a vote of shareholders of the Company. Each share of Series F Preferred Stock had 161 votes (subject to adjustment); provided that in no event may a holder of Series F Preferred Stock be entitled to vote a number of shares in excess of such holder’s ownership limitation.
+
+ 
+
+The Company also agreed that it would not, with certain exceptions, sell or issue common stock or Common Stock Equivalents (as defined in the Purchase Agreement relating to the Series F Preferred Stock) on or prior to December 31, 2023 that entitled any person to acquire shares of common stock at an effective price per share less than the then conversion price of the Series F Preferred Stock without the consent of the holders. As a result of that agreement, upon the issuance of 2,500 shares of Series E Preferred Stock (which have a conversion price of $3.00 per share) on November 10, 2023, the holders exchanged their 5,000 shares of Series F Preferred Stock for 5,000 shares of Series E Preferred Stock. All of the shares of Series F Preferred Stock thereupon were cancelled with 0 shares now outstanding.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, respectively, there were zero 0 and zero 0 shares of Series F Convertible Preferred Stock issued and outstanding. 
+
+ 
+
+Common stock issued
+
+ 
+
+Three Months Ended March 31, 2024
+
+ 
+
+During the three months ended March 31, 2024, the Company issued 8,655 shares of common stock for payment of board fees to three directors in the amount of $37,500 for services to the board which was expensed during the three months ended March 31, 2024. The volume-weighted average price (VWAP) per share is $4.33. 
+
+ 
+
+ 
+
+Three Months Ended March 31, 2023
+
+ 
+
+During the three months ended March 31, 2023, the Company issued 12,463 shares of common stock for payment of board fees to three directors in the amount of $32,500 for services to the board which was expensed during the three months ended March 31, 2023. The volume-weighted average price (VWAP) per share is $2.61. 
+
+ 
+
+ 
+
+                                                                          19 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+Employee Stock Purchase Plan
+
+ 
+
+In the fourth quarter of 2022, the board of directors adopted an Employee Stock Purchase Plan (“ESPP”) which was effective as of January 1, 2023 with a term of 10 years. The ESPP allows eligible employees to purchase shares of the Company's common stock at a discounted price, through payroll deductions from a minimum of 1% and up to 25% of their eligible compensation up to a maximum of $25,000 or the IRS allowable limit per calendar year. The Company’s Chief Financial Officer administers the ESPP in conjunction with approvals from the Company’s Compensation Committee, including with respect to the frequency and duration of offering periods, the maximum number of shares that an eligible employee may purchase during an offering period, and, subject to certain limitations set forth in the ESPP, the per-share purchase price. Currently, the maximum number of shares that can be purchased by an eligible employee under the ESPP is 10,000 shares per offering period and there are two six-month offering periods that begin in the first and third quarters of each fiscal year. The purchase price for one share of Common Stock under the ESPP is currently equal to 85% of the fair market value of one share of Common Stock on the first trading day of the offering period or the purchase date, whichever is lower (look-back feature). Although not required by the ESPP, all payroll deductions received or held by the Company under the ESPP are segregated and deemed as “restricted cash” until the completion of the offering period and redemption of the applicable shares and those withheld amounts are recorded as liabilities. The ESPP employee contribution for the three months ended March 31, 2024 is less than 2 % of total cash and is not deemed material, therefore it is not presented separately on the Balance Sheet as “restricted cash”. The maximum aggregate number of shares of the Common Stock that may be issued under the ESPP is 1,000,000 shares.
+
+ 
+
+Under ASC 718-50 “Employee Share Purchase Plans” the plan is considered a compensatory plan and the compensation for each six-month offering period is computed based upon the grant date fair value of the estimated shares to be purchased based on the estimated payroll deduction withholdings. The grant date fair value was computed as the sum of (a) 15% purchase discount off of the grant date quoted trading price of the Company’s common stock and (b) the fair value of the look-back feature of the Company’s common stock on the grant date which consists of a call option on 85% of a share of common stock and a put option on 15% of a share of common stock.
+
+ 
+
+As of the three months ended March 31, 2024, the Company has an accrued liability of $44,686 included in accrued expenses of employee contributions for the ESPP which may convert to shares of common stock upon the close of the offering period open from January 1, 2024 to June 30, 2024. The liability is offset by restricted cash held by the Company in the same amount for employee contributions which the Company expects to convert to common stock upon closure of the offering period at June 30, 2024. Additionally, the Company recorded a stock-based expense associated with the ESPP for the three months ended March 31, 2024 of $18,116.
+
+ 
+
+The Company computed the fair value of the look-back feature call and put options for January 1, 2024 to March 31, 2024 using a Black Scholes option pricing model using the following assumptions:
+
+Schedule of black scholes option pricing model                                                                                    
+
+                                                                                                                      At          
+
+                                                                                                                March 31, 2024
+
+Grant date share price                                                                                              $2.70 - $4.34 
+
+Grant date exercise price                                                                                           $2.30 - $3.69 
+
+Expected term                                                                                                          0.25 years 
+
+Expected volatility                                                                                                          66.8%
+
+Risk-free rate                                                                                                               5.41%
+
+Expected dividend rate                                                                                                          0%
+
+ 
+
+During the offer period, the Company records stock-based compensation pro rata as an expense and a credit to additional paid-in capital. The following table discloses relevant information for the ESPP at March 31, 2024 and for three months then ended.
+
+Schedule of stock-based compensation                                                                                       
+
+                                                                                                                         At 
+
+                                                                                                                    March 31, 2024
+
+Cash payment received from employee withholdings                                                                 $            44,686
+
+Cash from employee withholdings used to purchase shares under ESPP                                                                  —
+
+Cash and ESPP employee withholding liability                                                                     $            44,686
+
+ 
+
+                                                                                                                                  
+
+                                                                                                                       For the Three Months
+
+                                                                                                                               ended
+
+                                                                                                                             March 31,
+
+                                                                                                                               2024
+
+Cash from employee withholdings used to purchase ESPP shares                                                           $                  —
+
+Stock based compensation expense                                                                                                     18,116
+
+Total increase to equity for three months ended March 31, 2024                                                         $             18,116
+
+ 
+
+Stock-Based Compensation
+
+ 
+
+Stock-based compensation expense recognized under ASC 718-10 for the three months ended March 31, 2024 and 2023, was $141,204 and $75,128, respectively, for stock options granted to employees. This expense is included in selling, general and administrative expenses in the unaudited consolidated statements of operations. Stock-based compensation expense recognized during the periods is based on the grant-date fair value of the portion of share-based payment awards that are ultimately expected to vest during the period. At March 31, 2024, the total compensation cost for stock options not yet recognized was $438,998. This cost will be recognized over the remaining vesting term of the options ranging from nine months to two and one-half years.
+
+  
+
+ 
+
+                                                                          20 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+On May 12, 2021, the Board adopted, with shareholder approval, the 2021 Equity Incentive Plan (the “2021 Plan”) providing for the issuance of up to 1,000,000 shares of our common stock. The purpose of the 2021 Plan is to assist the Company in attracting and retaining key employees, directors and consultants and to provide incentives to such individuals to align their interests with those of our shareholders. During the third quarter of 2021, the shareholders approved the issuance of up to one million shares or share equivalents pursuant to the 2021 Plan. The Company filed an S-8 registration statement in concert with the 2021 Plan which was deemed effective on August 5, 2021. The plan covers a period of ten years.
+
+ 
+
+As of March 31, 2024, and December 31, 2023, options to purchase a total of 1,387,775 (net of forfeitures discussed below) shares of common stock and 1,387,775 shares of common stock were outstanding, respectively. At March 31, 2024, 766,323 options were exercisable. Of the total options issued, 269,658 and 269,658 options were outstanding under the 2016 Equity Incentive Plan, 788,117 and 788,117 were outstanding under the 2021 Plan and a further 330,000 and 330,000 non-plan options to purchase common stock were outstanding as of March 31, 2024 and December 31, 2023, respectively. The non-plan options were granted to four executives as hiring incentives, including the Company’s CEO in the fourth quarter of 2020.
+
+Schedule of stock option issuance of shares                                                                                          
+
+                                                                                     Weighted          Average                       
+
+                                                                                      Average         Remaining        Aggregate     
+
+                                                                    Number of        Exercise        Contractual       Intrinsic     
+
+                                                                     Options           Price        Term (Years)         Value       
+
+ Outstanding at December 31, 2022                                       926,266  $         5.74             3.3  $              — 
+
+ Granted                                                                463,117  $         4.22            4.35  $              — 
+
+ Forfeited                                                               (1,608) $        14.00               —  $              — 
+
+ Outstanding at December 31, 2023                                     1,387,775  $         5.23             3.0  $              — 
+
+ Exercisable at December 31, 2023                                       581,324  $         5.38             1.8  $              — 
+
+                                                                                                                                  
+
+ Outstanding at December 31, 2023                                     1,387,775  $         5.23             3.0  $              — 
+
+ Granted                                                                      —  $            —               —  $              — 
+
+ Exercised/Forfeited/Expired                                                  —  $            —               —  $              — 
+
+ Outstanding at March 31, 2024                                        1,387,775  $         5.23             2.8  $              — 
+
+ Exercisable at March 31, 2024                                          766,323  $         5.55             1.8  $              — 
+
+  
+
+ Warrants
+
+Schedule of warrants outstanding                                                                                                      
+
+                                                                                                       Weighted                       
+
+                                                                                     Weighted          Average                        
+
+                                                                                      Average         Remaining         Aggregate     
+
+                                                                    Number of        Exercise        Contractual        Intrinsic     
+
+                                                                    Warrants           Price         Term (Years)         Value       
+
+Outstanding at December 31, 2022                                         80,091  $          8.63              0.8                — 
+
+Warrants expired, forfeited, cancelled or exercised                    (102,947)               —                —                — 
+
+Warrants issued                                                               —                —                —                — 
+
+Outstanding at December 31, 2023                                         44,644  $          7.70              0.7                — 
+
+Exercisable at December 31, 2023                                         44,644  $          7.70              0.7                — 
+
+                                                                                                                                   
+
+Outstanding at December 31, 2023                                         44,644  $          7.70              0.7                — 
+
+Warrants expired, forfeited, cancelled or exercised                           —                —                —                — 
+
+Warrants issued                                                               —                —                —                — 
+
+Outstanding at March 31, 2024                                            44,644  $          7.70              0.5                — 
+
+Exercisable at March 31, 2024                                            44,644  $          7.70              0.5                — 
+
+ 
+
+ 
+
+ 
+
+                                                                          21 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+NOTE 6 - REVENUE AND CONTRACT ACCOUNTING
+
+ 
+
+Revenue Recognition and Contract Accounting
+
+ 
+
+The Company generates revenue from four sources: (1) Technology Systems; (2) AI Technology which is included in the consolidated statements of operations line-item Technology Systems; (3) Technical Support; and (4) Consulting Services which is included in the consolidated statements of operations line-item Services and Consulting.
+
+ 
+
+Contract assets and contract liabilities on uncompleted contracts for revenues recognized over time are as follows:
+
+ 
+
+Contract Assets
+
+ 
+
+Contract assets on uncompleted contracts represent cumulative revenues recognized in excess of billings and/or cash received on uncompleted contracts accounted for under the cost-to-cost input method, which recognizes revenue based on the ratio of cost incurred to total estimated costs.
+
+ 
+
+At March 31, 2024 and December 31, 2023, contract assets on uncompleted contracts consisted of the following:
+
+Schedule of contract assets on uncompleted contracts                                                                                
+
+                                                                                              March 31,            December 31,     
+
+                                                                                                 2024                  2023
+
+Cumulative revenues recognized                                                           $         9,090,355  $         8,820,256 
+
+Less: Billings or cash received                                                                   (8,178,309)          (8,178,309)
+
+Contract assets                                                                          $           912,046  $           641,947 
+
+ 
+
+Contract Liabilities
+
+ 
+
+Contract liabilities on uncompleted contracts represent billings and/or cash received that exceed cumulative revenues recognized on uncompleted contracts accounted for under the cost-to-cost input method, which recognizes revenues based on the ratio of the cost incurred to total estimated costs.
+
+ 
+
+Contract liabilities on services and consulting revenues represent billings and/or cash received in excess of revenue recognized on service agreements that are not accounted for under the cost-to-cost input method.
+
+ 
+
+At March 31, 2024 and December 31, 2023, contract liabilities on uncompleted contracts and contract liabilities on services and consulting consisted of the following:
+
+Schedule of contract liabilities on uncompleted contracts                                                                           
+
+                                                                                              March 31,            December 31,     
+
+                                                                                                 2024                  2023
+
+Billings and/or cash receipts on uncompleted contracts                                   $         1,264,658  $         1,264,658 
+
+Less: Cumulative revenues recognized                                                                (199,976)            (199,976)
+
+Contract liabilities, technology systems                                                           1,064,682            1,064,682 
+
+Contract liabilities, services and consulting                                                        628,258              601,561 
+
+Total contract liabilities                                                               $         1,692,940  $         1,666,243 
+
+ 
+
+Contract liabilities at December 31, 2023 were $1,666,243; of which zero 0 for technology systems and $292,947 in services and consulting have been recognized as of March 31, 2024.
+
+ 
+
+The Company expects to recognize all contract liabilities within 12 months from the respective consolidated balance sheet date.
+
+ 
+
+ 
+
+                                                                          22 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+Disaggregation of Revenue 
+
+ 
+
+The Company is following the guidance of ASC 606-10-55-296 and 297 for disaggregation of revenue. Accordingly, revenue has been disaggregated according to the nature, amount, timing and uncertainty of revenue and cash flows. We are providing qualitative and quantitative disclosures.
+
+ 
+
+Qualitative:
+
+ 
+
+     1.   We have four distinct revenue sources:
+
+ 
+
+               a.   Technology Systems (Turnkey, engineered projects);
+
+ 
+
+               b.   AI Technology (Associated maintenance and support services);
+
+ 
+
+               c.   Technical Support (Licensing and professional services related to auditing of data center assets); and
+
+ 
+
+               d.   Consulting Services (Predetermined algorithms to provide important operating information to the users of our
+
+                     systems).
+
+ 
+
+     2.   We currently operate in North America including the USA, Mexico and Canada.
+
+ 
+
+     3.   Our customers include rail transportation, commercial, government, banking and IT suppliers.
+
+ 
+
+     4.   Our services & maintenance contracts are fixed price and fall into two duration types:
+
+ 
+
+               a.   Turnkey engineered projects and professional service contracts that are less than one year in duration and are
+
+                     typically one to two quarters in length;
+
+                     and
+
+ 
+
+               b.   Maintenance and support contracts ranging from one to five years in length.
+
+ 
+
+ 
+
+                                                                          23 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+ 
+
+Quantitative:
+
+ 
+
+For the Three Months Ended March 31, 2024
+
+Schedule of disaggregation of revenue                                                                                          
+
+Segments                                         Rail         Commercial       Government        Artificial         Total      
+
+                                                                                                Intelligence
+
+Primary Geographical Markets                                                                                                   
+
+                                                                                                                               
+
+North America                               $   1,067,449  $        3,231  $              —  $             —  $   1,070,680 
+
+                                                                                                                            
+
+Major Goods and Service Lines                                                                                               
+
+                                                                                                                            
+
+Turnkey Projects                            $     270,099  $            —  $              —  $             —  $     270,099 
+
+Maintenance and Support                           601,379           3,231                 —                —        604,610 
+
+Algorithms                                        195,971               —                 —                —        195,971 
+
+                                            $   1,067,449  $        3,231  $              —  $                $   1,070,680 
+
+                                                                                                                            
+
+Timing of Revenue Recognition                                                                                               
+
+                                                                                                                            
+
+Goods transferred over time                 $     270,099  $            —  $              —  $             —  $     270,099 
+
+Services transferred over time                    797,350           3,231                 —                —        800,581 
+
+                                            $   1,067,449  $        3,231  $              —  $             —  $   1,070,680 
+
+  
+
+ 
+
+ 
+
+                                                                          24 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+For the Three Months Ended March 31, 2023
+
+                                                                                                                                    
+
+Segments                                             Rail          Commercial       Government       Artificial          Total      
+
+                                                                                                     Intelligence
+
+Primary Geographical Markets                                                                                                        
+
+                                                                                                                                    
+
+North America                                   $    2,376,449  $       28,831  $       11,353  $      227,655  $    2,644,288 
+
+                                                                                                                               
+
+Major Goods and Service Lines                                                                                                  
+
+                                                                                                                               
+
+Turnkey Projects                                $    1,827,764  $            —  $            —  $            —  $    1,827,764 
+
+Maintenance and Support                                548,685          28,831          11,353               —         588,869 
+
+Algorithms                                                   —               —               —         227,655         227,655 
+
+                                                $    2,376,449  $       28,831  $       11,353  $      227,655  $    2,644,288 
+
+                                                                                                                               
+
+Timing of Revenue Recognition                                                                                                  
+
+                                                                                                                               
+
+Goods transferred over time                     $    1,827,764  $            —  $            —  $            —  $    1,827,764 
+
+Services transferred over time                         548,685          28,831          11,353         227,655         816,524 
+
+                                                $    2,376,449  $       28,831  $       11,353  $      227,655  $    2,644,288 
+
+  
+
+ 
+
+ 
+
+                                                                          25 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+NOTE 7 – DEFINED CONTRIBUTION PLAN
+
+ 
+
+The Company has a 401(k)-retirement savings plan (the “401(k) Plan”) covering all eligible employees. The 401(k) Plan allows employees to defer a portion of their annual compensation, and the Company may match a portion of the employees’ contributions generally after the first six months of service. During the three months ended March 31, 2024, the Company matched 100% of the first 4% of eligible employee compensation that was contributed to the 401(k) Plan. For the three months ended March 31, 2024, the Company recognized expense for matching cash contributions to the 401(k) Plan totaling $55,099.
+
+  
+
+NOTE 8 – RELATED PARTY TRANSACTIONS
+
+ 
+
+There were no related party transactions for the periods reflected in this report.
+
+ 
+
+NOTE 9 – SALE OF ASSETS
+
+ 
+
+On June 29, 2023, the Company completed a transaction whereby it sold assets related to its Integrated Correctional Automation System (iCAS) business with a single customer. In the fourth quarter of 2022, the Company elected to not renew a support contract due to the limited nature of the business. The transaction was completed with a third-party buyer of which the Company’s former and now current Chief Financial Officer is a director. Said officer did not participate in the transaction on behalf of the Company.
+
+ 
+
+The assets of the iCAS business were sold for a convertible promissory note with a principal amount of $165,000 with a 10% original issue discount as well as common stock purchase warrants. The note matures in 2 years from the date of sale and is convertible immediately through the later of the maturity date or payment by the borrower of the default amount, as defined in the note, into shares of the buyer’s common stock at a conversion price of $0.003 or 55,000,000 shares. The conversion of the note carries restrictions which include limiting conversion to the extent it would exceed 4.99% of the common stock outstanding of the buyer. The convertible promissory note is subject to standard anti-dilution provisions.
+
+ 
+
+The common stock purchase warrants are for a total of 55,000,000 common shares of the buyer at an exercise price of $0.01 per share. The warrants are subject to standard anti-dilution provisions. The warrants are not exercisable until on or after six months from the issuance date and no later than on or before the third anniversary of the issuance date. The Company may exercise the warrants at any time after the six-month anniversary of the issuance date on a cashless basis if there is no effective registration statement covering the resale of the Warrant Shares at prevailing market prices by the holder. The exercise of these warrants is subject to beneficial ownership limits of 4.99% which may be increased by the holder up to 9.99% as defined in the warrant. Given that the shares carried no intrinsic value at the time of the transaction and that the overall fair value is de minimis, the Company has not recorded the warrants associated with the transaction.
+
+ 
+
+The Company recognized a gain on sale of assets of $150,000, which is included in other income in 2023.
+
+ 
+
+The original issue discount is being accrued into interest income over the term of the note.
+
+ 
+
+The note receivable was recorded as follows on March 31, 2024:
+
+Schedule of note receivable                                                                                                         
+
+                                                                                                                    March 31,       
+
+                                                                                                                       2024
+
+Convertible note receivable                                                                                    $           165,000 
+
+Unamortized discount                                                                                                        (9,375)
+
+Convertible note receivable, net                                                                               $           155,625 
+
+ 
+
+ 
+
+                                                                          26 
+
+
+
+                                             DUOS TECHNOLOGIES GROUP, INC. AND SUBSIDIARIES
+
+                                        CONDENSED NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                             March 31, 2024
+
+                                                              (Unaudited)
+
+                                                                    
+
+ 
+
+NOTE 10 – SUBSEQUENT EVENTS
+
+ 
+
+On April 3, 2024, the Company received aggregate proceeds of $250,000 related to the sale of 250 shares of Series D Preferred Stock. The Series D Preferred Stock is convertible into Common Stock at a conversion price of $3.00 per share.
+
+ 
+
+In connection with the Purchase Agreement, the Company also entered into a Registration Rights Agreement with the Purchasers. Pursuant to the Registration Rights Agreement, the Company shall file with the SEC a registration statement covering the resale by the Purchasers of the shares of common stock into which the shares of Series D Preferred Stock are convertible. Subject to certain conditions, the Company must cause the registration statement to be declared effective by 90 days after closing (or in the event of a full review by the SEC, by 120 days). The Registration Rights Agreement contains customary representations, warranties, agreements and indemnification rights and obligations of the parties. Under the Purchase Agreement, the Company is required to hold a meeting of shareholders at the earliest practical date, but in no event later than 120 days after closing (or 150 days in the event of a review of the proxy statement by the Securities and Exchange Commission (the “SEC”)).
+
+ 
+
+On April 23, 2024, the Company changed the name of its dormant subsidiary “Duos Technologies International, Inc.” to “Duos Edge AI, Inc.”
+
+ 
+
+On April 23, 2024, a holder of our Series D Preferred Stock converted 225 shares of Series D Preferred Stock into 75,000 shares of Common Stock.
+
+ 
+
+On April 30, 2024, two holders of our Series D Preferred Stock converted an aggregate of 350 shares of Series D Preferred Stock into 116,668 shares of Common Stock.
+
+ 
+
+On May 7, 2024, a holder of our Series D Preferred Stock converted 75 shares of Series D Preferred Stock into 25,000 shares of Common Stock.
+
+ 
+
+ 
+
+ 
+
+                                                                          27 
+
+
+
+                                                         
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operation. 
+
+ 
+
+This quarterly report on Form 10-Q and other reports filed by Duos Technologies Group, Inc., and its operating subsidiary, Duos Technologies, Inc. (“Duos”) (Duos Technologies Group, Inc. and Duos, collectively the “Company” “we”, “our”, and “us”) from time to time with the Securities and Exchange Commission (the “SEC”) contain or may contain forward-looking statements and information that are based upon beliefs of, and information currently available to, the Company’s management as well as estimates and assumptions made by Company’s management. Readers are cautioned not to place undue reliance on these forward-looking statements, which are only predictions and speak only as of the date hereof. When used in the filings, the words “anticipate,” “believe,” “estimate,” “expect,” “future,” “intend,” “plan,” “aim,” “project,” “target,” “will,” “may,” “should,” “forecast” or the negative of these terms and similar expressions as they relate to the Company or the Company’s management identify forward-looking statements. Such statements typically address the Company’s expected future business and financial performance and are subject to risks, uncertainties, assumptions, and other factors, including the risks contained in the “Risk Factors” section of the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023, relating to the Company’s industry, the Company’s operations and results of operations, and any businesses that the Company may acquire. Should one or more of these risks or uncertainties materialize, or should the underlying assumptions prove incorrect, actual results may differ materially from those anticipated, believed, estimated, expected, intended, or planned.
+
+ 
+
+These factors include, but are not limited to, risks related to the Company’s ability to continue as a going concern, the Company’s ability to generate sufficient cash to continue and expand operations, the competitive environment generally and in the Company’s specific market areas, changes in technology, the availability of and the terms of financing, changes in costs and availability of goods and services, economic conditions in general and in the Company’s specific market areas, changes in federal, state and/or local government laws and regulations potentially affecting the use of the Company’s technology, changes in operating strategy or development plans and the ability to attract and retain qualified personnel. The Company cautions that the foregoing list of risks, uncertainties and factors is not exclusive. Additional information concerning these and other risk factors is contained in the Company’s most recently filed Annual Report on Form 10-K, subsequent Quarterly Reports on Form 10-Q, recent Current Reports on Form 8-K, and other filings filed by the Company with the SEC, which are available at the SEC’s website, http://www.sec.gov. The Company believes its plans, intentions and expectations reflected in or suggested by these forward-looking statements are based on reasonable assumptions. No assurance, however, can be given that the Company will achieve or realize these plans, intentions or expectations. Indeed, it is likely that some of the Company’s assumptions may prove to be incorrect. The Company’s actual results and financial position may vary from those projected or implied in the forward-looking statements and the variances may be material. Each forward-looking statement speaks only as of the date of the particular statement. We do not undertake or accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect any change in our expectations or any change in events, conditions or circumstances on which any forward-looking statement is based, except as required by law. All subsequent written and oral forward-looking statements concerning the Company or other matters attributable to the Company or any person acting on its behalf are expressly qualified in their entirety by the cautionary statements above.
+
+ 
+
+Our financial statements are prepared in accordance with accounting principles generally accepted in the United States (“GAAP”). These accounting principles require us to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented. Our financial statements would be affected to the extent there are material differences between these estimates and actual results. In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment in its application. There are also areas in which management’s judgment in selecting any available alternative would not produce a materially different result. The following discussion should be read in conjunction with our financial statements and notes thereto appearing elsewhere in this report.
+
+ 
+
+Overview
+
+ 
+
+The Company, operating under its brand name duostech, develops and deploys technology systems with focus on inspecting and evaluating moving vehicles. Its technology focus is within the Vision Technology market sector and, more specifically, the Machine Vision subsector. Machine Vision companies provide imaging-based automatic inspection and analysis for process control for industry with potential expansion into other markets. Duos has developed key technologies over the past several years in software, industry specific hardware and artificial intelligence and has demonstrated industrial strength usability of its systems supporting rail, logistics and intermodal businesses that streamline operations, improve safety and reduce costs. Our team includes engineering subject matter expertise in hardware, software, and information technology as well as industry specific applications of artificial intelligence also referred to as Expert Artificial Intelligence. We also have specific industry experts in the rail industry on staff and as consultants. 
+
+ 
+
+ 
+
+                                                                          28 
+
+
+
+                                                         
+
+ 
+
+Duos is currently developing industry solutions for its target markets which will address rail, trucking, aviation and other vehicle-based processes. Duos’ initial offering, the Railcar Inspection Portal (RIP), provides both freight and transit railroad customers and select government agencies the ability to conduct fully remote railcar inspections of trains while they are moving at full speed. The RIP utilizes a variety of sophisticated optical, laser and speed sensors to scan each passing railcar to create a high-resolution image-set of the top, sides and undercarriage. These images are then processed with our edge data center using artificial intelligence (AI) algorithms to identify safety and security defects on each railcar. The algorithms are developed in conjunction with industrial application experts, in this case resident Railcar Mechanical Engineers, to provide specific guidance in the analysis (“human in the loop”). Within seconds of the railcar passing through the RIP, a detailed report is sent to the customer where they are able to take action on identified issues. This solution has the potential to transform the railroad industry immediately increasing safety, improving efficiency and reducing costs. The Company has already deployed this system with several Class 1 railroads and anticipates an increased demand from transit and other railroad customers along with selected government agencies that operate and/or manage rail traffic. The Company has deployed RIPs in Canada, Mexico and the United States and anticipates expanding this solution into Europe, Asia and the Middle East in coming years.
+
+ 
+
+The Company has also developed the Automated Logistics Information System (ALIS) which automates gatehouse operations where transport trucks enter and exit large logistics and intermodal facilities. This solution incorporates a similar set of sensors, data processing and artificial intelligence to streamline the customer’s logistics transactions and tracking and can also automate the security and safety inspection if called for. The Company is evaluating other solutions for moving vehicles including aircraft, which could provide similar benefits in terms of safety and efficiency for required inspections as part of an operations process. The Company is not currently actively pursing further customers for ALIS but will continue to analyze the potential market and expects to deploy an upgraded Truck Inspector Portal (TIP) which uses the same technology and lessons learned from ALIS and RIP systems at some point in the future.
+
+ 
+
+We have developed two proprietary solutions that operate our software and artificial intelligence.centraco® is an Enterprise Information Management Software platform that consolidates data and events from multiple sources into a unified and distributive user interface. Customized to the end user’s Concept of Operations (CONOPS), it provides improved situational awareness and data visualization for operational objectives compared to traditional manual inspections. truevue360™ is our fully integrated platform that we utilize to develop and deploy Artificial Intelligence (AI) algorithms, including Machine Learning, Computer Vision, Object Detection and Deep Neural Network-based processing for real-time applications.
+
+ 
+
+These same Artificial Intelligence applications have begun to open up other opportunities for the Company to provide revenue producing solutions with potentially high market adoption.
+
+ 
+
+In 2021, the Company ended support of its IT Asset Management (ITAM) solution which cataloged results for data center asset inventory and audit services. We are currently evaluating using our current operations experience within “edge data centers” (as deployed for our Railcar Inspection Portal) to drive additional revenues within other markets requiring this type of solution although no specific offering has been developed at this time.
+
+ 
+
+In the last quarter of 2022, the Company elected not to renew a support contract for its Integrated Correctional Automation System (iCAS) for one customer. The Company subsequently sold its iCAS assets to a buyer during the second quarter of 2023 for $165,000 via a convertible note.
+
+ 
+
+The year 2022 ushered in a new phase in the Company’s development. Although we continue to see an extension of challenges faced in past years, we also see positive changes and opportunities for our business that will be discussed in greater detail herein. They include:
+
+ 
+
+ ·    Introducing a new “subscription” based offering for access to data and images by a much broader target market including Class 1
+
+       railroads, railcar owners and lessors, and short-line
+
+       railroads.
+
+
+
+ ·    Owning and operating a network of RIPs with multiple subscribers outside of the Company’s traditional customer base. 
+
+
+
+ ·    Selling customized RIPs to Class 1, short-line and other industrial companies where specialized applications or routes demand a
+
+       bespoke
+
+       solution.
+
+ 
+
+ 
+
+ 
+
+                                                                          29 
+
+
+
+                                                         
+
+ 
+
+Prospects and Outlook
+
+ 
+
+The Company’s focus for the last several years was to improve operational and technical execution which will continue into the foreseeable future. This we expect will enable the commercial side of the business to expand delivery of the Company’s products and services into existing customers and to expand and diversify our current customer base as well as enter new markets. The Company’s primary customers have indicated readiness to order more equipment and services should the Company execute as expected on key deliverables. With the Company working toward a subscription platform approach for current and planned offerings and its expansion of its artificial intelligence offering, this will also open up additional commercial avenues to the Company. Historically, the Company has been focused on large, one-time sales with the subscription opportunities representing an expanded addressable market with an increasing emphasis on recurring revenues.
+
+ 
+
+The Company is making engineering and software upgrades to the RIP to meet anticipated Federal Railroad Association (FRA) and Association of American Railroad (AAR) standards. In addition, the Company is expanding its offerings by taking subsets of its integrated RIP and associated products and pursuing revenues outside of its traditional markets. Both the products upgrades and the additional offerings will continue to be released throughout 2024 and are expected to drive revenue growth this year and beyond.
+
+ 
+
+The Company expanded its focus in the rail industry to encompass passenger transportation and was awarded a large, multi-year contract with a national rail carrier in 2022. The Company has been developing and constructing the enhanced systems for this contract and anticipates that it will install a high performance, two-RIP solution for the carrier in 2024, with a long-term services agreement commencing upon delivery of the system.
+
+ 
+
+Although the Company’s prospects for future revenue growth are anticipated to be favorable, investing in our securities involves risk and careful consideration should be made before deciding to purchase our securities. There are many risks that affect our business and results of operations, some of which are beyond our control and unexpected macro events can have a severe impact on the business. Please see the risk factors identified in “Item 1A – Risk Factors” of our Annual Report on Form 10-K filed with the SEC on April 1, 2024.
+
+ 
+
+Results of Operations 
+
+ 
+
+The following discussion should be read in conjunction with the unaudited financial statements included in this report.
+
+ 
+
+Comparison for the Three Months Ended March 31, 2024 Compared to Three Months Ended March 31, 2023 
+
+ 
+
+The following table sets forth a summary of our unaudited Consolidated Statements of Operations and is used in the following discussions of our results of operations:
+
+ 
+
+                                                                                                      For the Three Months Ended           
+
+                                                                                                               March 31,                   
+
+                                                                                                     2024                   2023          
+
+                                                                                                                                          
+
+Revenues                                                                                     $          1,070,680  $          2,644,288 
+
+Cost of revenues                                                                                          976,048             2,107,116 
+
+Gross margin                                                                                               94,632               537,172 
+
+Operating expenses                                                                                      2,855,678             2,683,970 
+
+Loss from operations                                                                                   (2,761,046)           (2,146,798)
+
+Other income (expense)                                                                                      8,737                 3,115 
+
+Net loss                                                                                     $         (2,752,309) $         (2,143,683)
+
+ 
+
+  
+
+ 
+
+ 
+
+                                                                          30 
+
+
+
+                                                         
+
+ 
+
+Revenues
+
+ 
+
+                                                                                           For the Three Months Ended                       
+
+                                                                                                    March 31,                               
+
+                                                                              2024                   2023                 % Change        
+
+Revenues:                                                                                                                                 
+
+Technology systems                                                    $            269,855  $          1,827,764                   -85%
+
+Services and consulting                                                            800,825               816,524                    -2%
+
+Total revenues                                                        $          1,070,680  $          2,644,288                   -60%
+
+    
+
+The decrease in overall revenues for the quarter ended March 31, 2024, compared to the quarter ended March 31, 2023, is primarily attributed to delays outside of the Company’s control with deployment of our two high-speed Railcar Inspection Portals, which are recorded in the technology systems portion of our business. Although these systems were largely ready for deployment in 2023, customer delays at the deployment site prevented installation even though these two high-speed Railcar Inspection Portals were deep into their production and manufacturing phases, which did not allow us to record the next phase of recognition. We believe that the customer is approaching the completion of the local site preparation and is preparing for field installation later this year. Additionally, the Company continues to see opportunities for expansion of its programs with existing customers. In spite of the timing delays that continue to impact the quarterly results, management remains confident in the long-term potential of the RIP product.
+
+ 
+
+The slight variation in the services portion of our revenues stems from two of our sites pausing their service payments in exchange for the chance to offer subscriptions at these locations, a change offset by the subscription revenue from these sites. The Company expects growth with new revenue from existing customers, including services revenue as the result of new maintenance contracts being established on installations coming on-line during 2024. The Company also anticipates renewals of existing and backlog contracts and a shift to the next generation of technology systems which are currently being manufactured and expect to be completed during 2024.
+
+  
+
+Cost of Revenues
+
+ 
+
+                                                                                           For the Three Months Ended                       
+
+                                                                                                    March 31,                               
+
+                                                                              2024                   2023                 % Change        
+
+Cost of revenues:                                                                                                                         
+
+Technology systems                                                    $            583,437  $          1,767,209                   -67%
+
+Services and consulting                                                            392,611               339,907                    16%
+
+Total cost of revenues                                                $            976,048  $          2,107,116                   -54%
+
+   
+
+Cost of revenues largely comprises equipment and labor necessary to support the implementation of new systems and support and maintenance of existing systems and software projects.
+
+ 
+
+During the three months ended March 31, 2024, the cost of revenues on technology systems decreased compared to the equivalent period in 2023. This reduction is primarily due to the company being well into the middle of production and manufacturing phase of our two high-speed Railcar Inspection Portals during the first quarter of 2023. By the first quarter of 2024, we are approaching the end of the manufacturing cycle and beginning preparations for field installation later in the year, and thereby contributing to the decrease in cost of revenues year-over-year. Additionally, the Company records certain fixed, operating and servicing costs for both technology systems and services and consulting. These fixed costs, in part, contribute to the cost of revenues declining at a slower rate than that of revenue. The Company continues to face headwinds with supply disruption and cost. While we expect that macro-economic factors will continue to drive prices, the Company continues to manage its costs and, where possible, pass through increased costs to customers in the form of higher prices, although this is not assured.
+
+ 
+
+Cost of revenues on services and consulting increased in the three months ended March 31, 2024 compared to the prior year period. This rise in costs is due to one-time site improvements carried out for a customer in the first quarter of 2024, unlike in the corresponding period of 2023. Additionally, sales commissions associated with site services were reclassified from sales and marketing expenses to direct costs.
+
+ 
+
+Gross Margin
+
+ 
+
+                                                                                            For the Three Months Ended                       
+
+                                                                                                    March 31,                                
+
+                                                                              2024                   2023                 % Change        
+
+                                                                                                                                          
+
+Revenues                                                              $          1,070,680  $          2,644,288                   -60%
+
+Cost of revenues                                                                   976,048             2,107,116                   -54%
+
+Gross margin                                                          $             94,632  $            537,172                   -82%
+
+ 
+
+Gross margin decreased for the first quarter of 2024 as compared to the same period in 2023 largely in line with the decline in revenue. As noted above, the decrease in margin was a direct result of the timing of business activity related to the manufacturing of two high-speed, transit-focused Railcar Inspection Portals. Those same project revenues and subsequent margin contributions were not present during the first quarter of 2024. It should be noted that when comparing the results between two periods, the stage of completion for manufacturing and installation can factor into those comparisons and should be taken into account when analyzing those periods. 
+
+ 
+
+ 
+
+                                                                          31 
+
+
+
+                                                         
+
+  
+
+Operating Expenses
+
+ 
+
+                                                                                          For the Three Months Ended                      
+
+                                                                                                  March 31,                               
+
+                                                                             2024                   2023                 % Change        
+
+Operating expenses:                                                                                                                   
+
+Sales and marketing                                                  $            553,486  $            307,577                    80%
+
+Research and development                                                          382,142               404,885                    -6%
+
+General and administration                                                      1,920,050             1,971,508                    -3%
+
+Total operating expenses                                             $          2,855,678  $          2,683,970                     6%
+
+ 
+
+During the three months ended March 31, 2024, the Company experienced a modest increase in overall operating expenses compared to the same period in 2023. There was a significant uptick in sales and marketing costs, primarily due to an expansion in staff after strengthening our commercial team in the latter half of 2023 in preparation for entering new markets. Conversely, research and development expenses fell by 6% owing to reduced personnel and scaled-back testing of prospective technologies. Overall, the Company continues to focus on stabilizing operating expenses while meeting the increased needs of our customers. It should be noted that when comparing the results between two periods, the stage of completion for manufacturing and installation can factor into those comparisons and should be taken into account when analyzing those periods.
+
+ 
+
+Loss from Operations
+
+ 
+
+The loss from operations for the three months ended March 31, 2024 and 2023 was $2,761,046 and $2,146,798, respectively. The increase in loss from operations was primarily the result of lower revenues recorded in the quarter as a consequence of delays in going to field for the two high-speed RIPs for a passenger transit client offset by a planned reduction in expenses which resulted in a lower percentage increase in operating loss compared to a larger percentage decrease in revenue recorded during the quarter.
+
+ 
+
+Other Income/Expense
+
+ 
+
+Other income for the three months ended March 31, 2024 was $9,182 and $4,295 for the comparative period in 2023. Interest expense for the three months ended March 31, 2024 was $445 and $1,180 for the comparative period in 2023.
+
+ 
+
+Net Loss
+
+ 
+
+The net loss for the three months ended March 31, 2024 and 2023 was $2,752,309 and $2,143,683 respectively. The 28% increase in net loss was mostly attributed to the decrease in revenues as described above from timing delays along with growing expenses. Net loss per common share was $0.38 and $0.30 for the three months ended March 31, 2024 and 2023, respectively.
+
+  
+
+Liquidity and Capital Resources
+
+ 
+
+As of March 31, 2024, the Company has a working capital surplus of $3,305,875 and the Company had a net loss of $2,752,309 for the three months ended March 31, 2024.
+
+ 
+
+Cash Flows
+
+ 
+
+The following table sets forth the major components of our statements of cash flows data for the periods presented:
+
+ 
+
+                                                                                                       For the Three Months Ended           
+
+                                                                                                                March 31,
+
+                                                                                                      2024                   2023          
+
+Net cash used in operating activities                                                         $         (2,032,719) $             (7,086)
+
+Net cash used in investing activities                                                                       (9,810)             (261,144)
+
+Net cash provided by financing activities                                                                2,578,279             3,488,085 
+
+Net increase in cash                                                                          $            535,750  $          3,219,855 
+
+  
+
+Net cash used in operating activities for the three months ended March 31, 2024 and 2023 was $2,032,719 and $7,086, respectively. The increase in net cash used in operating activities for the three months ended March 31, 2024, was the result of cash outflows to procure necessary materials and overall sales and marketing, general and administration expenses offset by cash inflows from milestone payments related to current projects. In addition, there are two material changes in assets and liabilities that increased the use of cash in operating activities, notably the cash used for the reduction in accounts payable and decreased contract assets related to lower overall project activities reported during the quarter.
+
+  
+
+ 
+
+                                                                          32 
+
+
+
+                                                         
+
+ 
+
+Net cash used in investing activities for the three months ended March 31, 2024 and 2023 was $9,810 and $261,144 respectively, representing an decrease in the purchase of various fixed assets for computer equipment and product and software development and disbursements for patent costs.
+
+  
+
+Net cash provided by financing activities for the three months ended March 31, 2024 and 2023 was $2,578,279 and $3,488,085, respectively. Cash flows provided by financing activities during the first three months of 2024 were primarily attributable to gross proceeds of approximately $2,745,002 from issuances of Series D and Series E Convertible Preferred Stock. Cash flows from financing activities during the first three months of 2023 were primarily attributable to the issuance of Series E Convertible Preferred shares for $4,000,000 of gross proceeds offset by repayments of certain loans related to financing of insurance costs.
+
+ 
+
+On a long-term basis, our liquidity is dependent on the continuation and expansion of operations and receipt of revenues. We believe our current capital and revenues are sufficient to fund such expansion and our operations over the next twelve months, although we are dependent on timely payments from our customers for projects and work in process. However, we expect such timely payments to continue. Material cash requirements will be satisfied within the normal course of business including substantial upfront payments from our customers prior to starting projects. The Company may elect to purchase materials and supplies in advance of contract award but where there is a high probability of that award.
+
+ 
+
+Demand for our products and services will be dependent on, among other things, market acceptance of our products and services, the technology market in general, and general economic conditions, which are cyclical in nature. Because a major portion of our activities is the receipt of revenues from the sales of our products and services, our business operations may continue to be challenged by our competitors and prolonged recession periods.
+
+ 
+
+Liquidity
+
+ 
+
+Under Accounting Codification ASC 205, Presentation of Financial Statements—Going Concern (Subtopic 205-40) (“ASC 205-40”), the Company has the responsibility to evaluate whether conditions and/or events raise substantial doubt about its ability to meet its future financial obligations as they become due within one year after the date that the financial statements are issued. As required by ASC 205-40, this evaluation shall initially not take into consideration the potential mitigating effects of plans that have not been fully implemented as of the date the financial statements are issued. Management has assessed the Company’s ability to continue as a going concern in accordance with the requirement of ASC 205-40.
+
+ 
+
+As reflected in the accompanying consolidated financial statements, the Company had a net loss of $2,752,309 for the three months ended March 31, 2024. During the same period, cash used in operating activities was $2,032,719. The working capital surplus and accumulated deficit as of March 31, 2024, were $3,305,875 and $66,355,861, respectively. In previous financial reports, the Company had raised substantial doubt about continuing as a going concern. This was principally due to a lack of working capital prior to underwritten offerings and private placements which were completed during 2022, 2023, and now the first and second quarters of 2024 as well. 
+
+ 
+
+As previously noted, the Company was successful during 2023 in raising gross proceeds of over $11,500,000 from the sale of Series E and F Preferred Stock. Additionally, late in the first quarter of 2024, the Company raised gross proceeds of $2,745,000 from the issuance of a combination of Series D and E Preferred Stock (See Note 5). As part of its strategy, the Company will endeavor to utilize the Preferred Series E and the remainder of the Series D as additional funding mechanisms. Additionally, during the second quarter of 2024, the Company will again have access to its S-3 “shelf registration” statement allowing the Company to sell additional common shares. At the time of filing this document, the Company estimates that it has available capacity on its shelf registration which it can utilize to bolster working capital and growth of the business in the event it did not have an uptake in the preferred classes of shares previously noted. Although additional investment is not assured, the Company is comfortable that it would be able to raise sufficient capital to support expanded operations based on an anticipated increase in business activity. In the long run, the continuation of the Company as a going concern is dependent upon the ability of the Company to continue executing its business plan, generate enough revenue, and attain consistently profitable operations. Although the lingering effects of the global pandemic related to the coronavirus (Covid-19) previously affected our operations, particularly in our supply chain, we now believe that the supply chain lags have largely been abated. We have analyzed our cash flow under “stress test” conditions and have determined that we have sufficient liquid assets on hand or available via the capital markets to maintain operations for at least twelve months from the issuance date of this report.
+
+ 
+
+In addition, management has been taking and continues to take actions including, but not limited to, elimination of certain costs that do not contribute to short term revenue, and re-aligning both management and staffing with a focus on improving certain skill sets necessary to build growth and profitability and focusing product strategy on opportunities that are likely to bear results in the relatively short term. The Company believes that, as described above, it will have sufficient sources of working capital to meet its obligations over the following twelve months. In the last twelve months the Company has experienced relatively steady contracted backlog as well as seen positive signs from new commercial engagements that indicate improvements in future commercial opportunities for both one-time capital and recurring services revenues.
+
+ 
+
+ 
+
+                                                                          33 
+
+
+
+                                                         
+
+ 
+
+ 
+
+Management believes that, at this time, the conditions in our market space with ongoing contract delays, the consequent need to procure certain materials in advance of a binding contract and the additional time needed to execute on new contracts previously reported have put a strain on our cash reserves. However, proactive management of our existing contracts, recent stock offerings and private placements as well as the availability to raise capital via our shelf registration indicate there is no substantial doubt that the Company can continue as a going concern for a period of twelve months from the issuance date of this report. We continue executing the plan to grow our business and achieve profitability. The Company may selectively look at opportunities for fund raising in the future. Management has extensively evaluated our requirements for the next twelve months and has determined that the Company currently has sufficient cash and access to capital to operate for at least that period.
+
+ 
+
+While no assurance can be provided, management believes that these actions provide the opportunity for the Company to continue as a going concern and to grow its business and achieve profitability with access to additional capital funding. Ultimately the continuation of the Company as a going concern is dependent upon the ability of the Company to continue executing the plan described above which was put in place in late 2022 and continued in 2023, and will continue in 2024 and beyond. These consolidated financial statements do not include any adjustments related to the recoverability and classification of recorded asset amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern.
+
+ 
+
+Critical Accounting Estimates 
+
+ 
+
+Revenue Recognition
+
+ 
+
+The Company follows Accounting Standards Codification 606, Revenue from Contracts with Customers (“ASC 606”), that affects the timing of when certain types of revenues will be recognized. The basic principles in ASC 606 include the following: a contract with a customer creates distinct contract assets and performance obligations, satisfaction of a performance obligation creates revenue, and a performance obligation is satisfied upon transfer of control to a good or service to a customer.
+
+ 
+
+Revenue is recognized by evaluating our revenue contracts with customers based on the five-step model under ASC 606:
+
+ 
+
+     1.   Identify the contract with the customer;
+
+     2.   Identify the performance obligations in the contract;
+
+     3.   Determine the transaction price;
+
+     4.   Allocate the transaction price to separate performance obligations; and
+
+     5.   Recognize revenue when (or as) each performance obligation is satisfied.
+
+ 
+
+ 
+
+                                                                          34 
+
+
+
+                                                         
+
+ 
+
+ 
+
+The Company generates revenue from four sources:
+
+ 
+
+1. Technology Systems
+
+2. AI Technologies
+
+3. Technical Support
+
+4. Consulting Services 
+
+  
+
+Stock Based Compensation
+
+ 
+
+The Company accounts for employee and non-employee stock-based compensation in accordance with ASC 718-10, “Share-Based Payment,” which requires the measurement and recognition of compensation expense for all share-based payment awards made to employees and directors including stock options, restricted stock units, and employee stock purchases based on estimated fair values. The stock-based compensation carries a graded vesting feature subject to the condition of time of employment service with awarded stock-based compensation tranches vesting evenly upon the anniversary date of the award.
+
+ 
+
+The Company estimates the fair value of stock options granted using the Black-Scholes option-pricing formula. In accordance with ASC 718-10-35-8, the Company elected to recognize the fair value of the stock award using the graded vesting method as time of employment service is the criteria for vesting. The Company’s determination of fair value using an option-pricing model is affected by the stock price as well as assumptions regarding a number of highly subjective variables.
+
+  
+
+The Company estimates volatility based upon the historical stock price of the Company and estimates the expected term for stock options using the simplified method for employees and directors and the contractual term for non-employees. The risk-free rate is determined based upon the prevailing rate of United States Treasury securities with similar maturities.
+
+ 
+
+ 
+
+ 
+
+                                                                          35 
+
+
+
+                                                         
+
+ 
+
+ 
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+ 
+
+Not applicable.
+
+ 
+
+ 
+
+ Item 4. Controls and Procedures.
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+With the participation of our Chief Executive Officer, Chief Financial Officer and Contoller, we have evaluated the effectiveness of our disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)), as of the end of the period covered by this Report. Based upon such evaluation, our Chief Executive Officer, Chief Financial Officer and Controller have concluded that, as of the end of such period, our disclosure controls and procedures were effective to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and is accumulated and communicated to our management, including our Chief Executive Officer, Chief Financial Officer and Controller, as appropriate to allow timely decisions regarding required disclosure.
+
+ 
+
+Changes in Internal Control over Financial Reporting 
+
+ 
+
+There were no changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act) during the quarter ended March 31, 2024 that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+
+ 
+
+ 
+
+                                                                          36 
+
+
+
+                                                         
+
+ 
+
+ 
+
+PART II OTHER INFORMATION
+
+ 
+
+Item 1. Legal Proceedings.
+
+ 
+
+From time to time, we may be involved in litigation relating to claims arising out of our operations in the normal course of business. We are currently not involved in any litigation that we believe could have a material adverse effect on our financial condition or results of operations. There is no action, suit, proceeding, inquiry or investigation before or by any court, public board, government agency, self-regulatory organization or body pending or, to the knowledge of the executive officers of our Company or any of our subsidiaries, threatened against or affecting our Company, our common stock, any of our subsidiaries or any of our Company’s or our subsidiaries’ officers or directors in their capacities as such, in which an adverse decision could have a material adverse effect.
+
+ 
+
+Item 1A. Risk Factors.
+
+ 
+
+We believe there are no changes that constitute material changes from the risk factors previously disclosed in our Annual Report on Form 10-K, filed with the Securities and Exchange Commission on April 1, 2024.
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+ 
+
+None
+
+ 
+
+Item 3. Defaults Upon Senior Securities.
+
+ 
+
+There has been no default in the payment of principal, interest, sinking or purchase fund installment, or any other material default, with respect to any indebtedness of the Company.
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+ 
+
+Not applicable
+
+ 
+
+Item 5. Other Information.
+
+ 
+
+Trading Plans
+
+ 
+
+During the quarter ended March 31, 2024, no director or Section 16 officer adopted or terminated any Rule 10b5-1 trading arrangements or non-Rule 10b5-1 trading arrangements (in each case, as defined in Item 408(a) of Regulation S-K).
+
+ 
+
+ 
+
+                                                                          37 
+
+
+
+                                                         
+
+ 
+
+ 
+
+Item 6. Exhibits.
+
+ 
+
+Exhibit No.   Description
+
+               
+
+10.1          Form of Securities Purchase Agreement for Series D Preferred Stock (incorporated herein by reference to Exhibit 10.1
+
+               to the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on March 25,
+
+               2024)
+
+10.2          Form of Registration Rights Agreement for Series D Preferred Stock (incorporated herein by reference to Exhibit 10.2
+
+               to the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on March 25,
+
+               2024)
+
+10.3          Form of Securities Purchase Agreement for Series E Preferred Stock (incorporated herein by reference to Exhibit 10.3
+
+               to the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on March 25,
+
+               2024)
+
+10.4          Form of Registration Rights Agreement for Series E Preferred Stock (incorporated herein by reference to Exhibit 10.4
+
+               to the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on March 25,
+
+               2024)
+
+31.1*         Certification by the Principal Executive Officer of Registrant pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+               2002 (Rule 13a-14(a) or Rule
+
+               15d-14(a)).
+
+31.2*         Certification by the Principal Financial Officer of Registrant pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+               2002 (Rule 13a-14(a) or Rule
+
+               15d-14(a)).
+
+32.1**        Certification by the Principal Executive Officer pursuant to 18 U.S.C. 1350 as adopted pursuant to Section 906 of
+
+               the Sarbanes-Oxley Act of
+
+               2002.
+
+32.2**        Certification by the Principal Financial Officer pursuant to 18 U.S.C. 1350 as adopted pursuant to Section 906 of
+
+               the Sarbanes-Oxley Act of
+
+               2002.
+
+101.INS*      Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL
+
+               tags are embedded within the Inline XBRL
+
+               document)
+
+101.SCH*      Inline XBRL Taxonomy Extension Schema Document
+
+101.CAL*      Inline XBRL Taxonomy Extension Calculation Linkbase Document
+
+101.DEF*      Inline XBRL Taxonomy Extension Definition Linkbase Document
+
+101.LAB*      Inline XBRL Taxonomy Extension Label Linkbase Document
+
+101.PRE*      Inline XBRL Taxonomy Extension Presentation Linkbase Document
+
+104*          Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+ 
+
+ 
+
+* Filed
+
+** Furnished herewith
+
+ 
+
+ 
+
+                                                                          38 
+
+
+
+                                                         
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                                                   
+
+                                                                  DUOS TECHNOLOGIES GROUP, INC.
+
+                                                                   
+
+Date: May 13, 2024                                                By:   /s/ Charles P. Ferry
+
+                                                                         Charles P. Ferry
+
+                                                                         Chief Executive Officer
+
+                                                                          
+
+Date: May 13, 2024                                                By:   /s/ Adrian G. Goldfarb
+
+                                                                         Adrian G. Goldfarb
+
+                                                                         Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                          39

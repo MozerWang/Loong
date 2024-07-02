@@ -1,0 +1,2377 @@
+Table of Contents
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+(Mark One)
+
+ 
+
+x   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024 
+
+ 
+
+or
+
+ 
+
+o   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from ____________________ to ________________________
+
+ 
+
+Commission file number: 000-39158
+
+ 
+
+AppTech Payments Corp.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+                 Delaware                                       7389                                      65-0847995
+
+      (State or other jurisdiction of               (Primary Standard Industrial                       (I.R.S. Employer
+
+      incorporation or organization)                 Classification Code Number)                      Identification No.)
+
+5876 Owens Avenue 
+
+Suite 100
+
+Carlsbad, California 92008
+
+(760) 707-5959
+
+(Address, including zip code, and telephone number, including area code, of registrant’s principal executive offices)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+                 Title of each class                       Trading Symbol(s)           Name of each exchange on which registered
+
+       Common Stock, $0.001 par value per share                  APCX                            Nasdaq Capital Market
+
+   Warrants, each whole warrant exercisable for one              APCXW                           Nasdaq Capital Market
+
+     share of common stock at an exercise price of
+
+                         4.15
+
+ 
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+None
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No o
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes x No o
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer    o                                                                    Accelerated filer                 o
+
+                                                                                                                                   
+
+Non-accelerated filer      x                                                                    Smaller reporting company         x
+
+                                                                                                                                   
+
+                                                                                                Emerging growth company           o
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes o No x
+
+ 
+
+As of May 14, 2024, the registrant had 24,729,922 shares of common stock issued and outstanding.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                                                                                        
+
+ 
+
+ 
+
+AppTech Payments Corp.
+
+Form 10-Q
+
+ 
+
+Table of Contents 
+
+ 
+
+                                                                                                                               Page
+
+                                                                Part I                                                      
+
+                                                                                                                            
+
+            Special Note Regarding Forward-Looking Statements and Projections                                                         3
+
+Item 1.     Consolidated Financial Statements (unaudited)                                                                             4
+
+Item 2.     Management’s Discussion and Analysis of Financial Condition and Results of Operations                                    23
+
+Item 3.     Quantitative and Qualitative Disclosures about Market Risk                                                               29
+
+Item 4.     Controls and Procedures                                                                                                  30
+
+                                                                                                                            
+
+                                                                Part II                                                     
+
+                                                                                                                            
+
+Item 1.     Legal Proceedings                                                                                                        31
+
+Item 1A.    Risk Factors                                                                                                             32
+
+Item 2.     Unregistered Sales of Equity Securities and Use of Proceeds                                                              32
+
+Item 3.     Defaults Upon Senior Securities                                                                                          32
+
+Item 4.     Mine Safety Disclosures                                                                                                  32
+
+Item 5.     Other Information                                                                                                        32
+
+Item 6.     Exhibits                                                                                                                 32
+
+            Signatures                                                                                                               33
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   2                                                                    
+
+ 
+
+ 
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS AND PROJECTIONS
+
+ 
+
+Various statements in this Quarterly on Form 10-Q of AppTech Payments Corp. (we, our, AppTech or the Company) are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements involve substantial risks and uncertainties. All statements, other than statements of historical facts, included in this report regarding our strategy, future operations, future financial position, future revenues, projected costs, prospects, plans and objectives of management are forward-looking statements. These statements are subject to risks and uncertainties and are based on information currently available to our management. Words such as “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “plan,” “contemplates,” “predict,” “project,” “target,” “likely,” “potential,” “continue,” “ongoing,” “will,” “would,” “should,” “could,” or the negative of these terms and similar expressions or words, identify forward-looking statements. The events and circumstances reflected in our forward-looking statements may not occur and actual results could differ materially from those projected in our forward-looking statements. Meaningful factors that could cause actual results to differ include:
+
+ 
+
+     ·    delays and uncertainty associated with the boarding of clients onto our platform;
+
+           
+
+     ·    substantial investment and costs associated with new potential revenue streams and their corresponding contractual
+
+           obligations;
+
+           
+
+     ·    a slowdown or reduction in our sales due to a reduction in end user demand, unanticipated competition, regulatory issues, or
+
+           other unexpected
+
+           circumstances;
+
+           
+
+     ·    uncertainty regarding adverse macroeconomic conditions, including inflation, a recession, changes to fiscal and monetary
+
+           policy, tighter credit, higher interest rates, consumer confidence and spending, and high
+
+           unemployment;
+
+           
+
+     ·    dependence on third-parties needed to facilitate our automated clearing house ("ACH") and merchant service capabilities;
+
+           
+
+     ·    delay in or failure to obtain regulatory approval for any future products in additional countries, and;
+
+           
+
+     ·    current and future laws and regulations.
+
+ 
+
+All written and oral forward-looking statements attributable to us or any person acting on our behalf are expressly qualified in their entirety by the cautionary statements contained or referred to in this section. We caution investors not to rely too heavily on the forward-looking statements we make or that are made on our behalf. We undertake no obligation and specifically decline any obligation, to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. Please see, however, any further disclosures we make on related subjects in any annual, quarterly or current reports that we may file with the Securities and Exchange Commission (SEC).
+
+ 
+
+We encourage you to read the discussion and analysis of our financial condition and our financial statements contained in this Quarterly Report on Form 10-Q. There can be no assurance that we will in fact achieve the actual results or developments we anticipate or, even if we do substantially realize them, that they will have the expected consequences to, or effects on, us. Therefore, we can give no assurances that we will achieve the outcomes stated in those forward-looking statements and estimates.
+
+ 
+
+Unless the context otherwise requires, throughout this Quarterly Report on Form 10-Q, the words “AppTech” “we,” “us,” the “registrant” or the “Company” refer to AppTech Payments Corp.
+
+ 
+
+ 
+
+ 
+
+                                                                   3                                                                    
+
+ 
+
+ 
+
+PART I – FINANCIAL INFORMATION
+
+ 
+
+Item 1. Financial Statements
+
+ 
+
+APPTECH PAYMENTS CORP.
+
+CONSOLIDATED FINANCIAL STATEMENTS
+
+INDEX TO UNAUDITED FINANCIAL STATEMENTS
+
+(The financial statements have been condensed for presentation purposes)
+
+ 
+
+                                                                                                                               Pages
+
+                                                                                                                             
+
+Consolidated Balance Sheets as of March 31, 2024 and December 31, 2023                                                           5
+
+                                                                                                                             
+
+Consolidated Statements of Operations for the three months ended March 31, 2024 and 2023                                         6
+
+                                                                                                                             
+
+Consolidated Statements of Stockholders’ Equity for the three months ended March 31, 2024 and 2023                               7
+
+                                                                                                                             
+
+Consolidated Statements of Cash Flows for the three months ended March 31, 2024 and 2023                                         8
+
+                                                                                                                             
+
+Notes to the Consolidated Financial Statements                                                                                   9
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   4                                                                    
+
+ 
+
+ 
+
+APPTECH PAYMENTS CORP.
+
+CONSOLIDATED BALANCE SHEETS 
+
+AS OF MARCH 31, 2024 AND DECEMBER 31, 2023
+
+(UNAUDITED)
+
+(in thousands, except shares and per share data)
+
+ 
+
+                                                                                                                                      
+
+                                                                                                  March 31,          December 31,     
+
+                                                                                                    2024                 2023
+
+ASSETS                                                                                                                              
+
+Current assets                                                                                                                      
+
+Cash and cash equivalents                                                                    $            1,553  $            1,281 
+
+Accounts receivable                                                                                          22                  30 
+
+Prepaid expenses                                                                                            185                 205 
+
+Total current assets                                                                                      1,760               1,516 
+
+Note receivable                                                                                              26                  26 
+
+Right of use asset                                                                                           66                  66 
+
+Security deposit                                                                                              9                   9 
+
+Intangible assets, net of accumulated amortization                                                        4,173               4,428 
+
+Goodwill                                                                                                  1,161               1,161 
+
+Capitalized software development, net of accumulated amortization                                         1,055               1,147 
+
+TOTAL ASSETS                                                                                 $            8,250  $            8,353 
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY                                                                                                
+
+Current liabilities                                                                                                                 
+
+Accounts payable                                                                             $            1,865  $            1,680 
+
+Accounts payable - related party                                                                            102                 119 
+
+Accrued liabilities                                                                                       1,868               1,958 
+
+Notes payable                                                                                                 1                   1 
+
+Deferred revenue                                                                                            182                 244 
+
+Right of use liability                                                                                       87                  78 
+
+Total current liabilities                                                                                 4,105               4,080 
+
+Long-term liabilities                                                                                                               
+
+Right of use liability, net of current portion                                                                –                  14 
+
+Notes payable, net of current portion                                                                        63                  65 
+
+Total long-term liabilities                                                                                  63                  79 
+
+TOTAL LIABILITIES                                                                                         4,168               4,159 
+
+Commitments and contingencies (Note 7)                                                                        –                   – 
+
+Stockholders’ equity                                                                                                                
+
+Series A preferred stock; $0.001 par value; 10,526 shares authorized; 14 shares issued and                    –                   – 
+
+ outstanding at March 31, 2024 and December 31,
+
+ 2023
+
+Common stock, $0.001 par value; 105,263,158 shares authorized; 24,729,922 and 22,251,742                     25                  22 
+
+ issued and outstanding at March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Additional paid-in capital                                                                              166,843             163,921 
+
+Accumulated deficit                                                                                    (162,786)           (159,749)
+
+Total stockholders’ equity                                                                                4,082               4,194 
+
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY                                                   $            8,250  $            8,353 
+
+ 
+
+See accompanying notes to the consolidated financial statements.
+
+ 
+
+ 
+
+ 
+
+                                                                   5                                                                    
+
+ 
+
+ 
+
+APPTECH PAYMENTS CORP. 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 and 2023
+
+(UNAUDITED)
+
+(in thousands, except shares and per share data)
+
+ 
+
+                                                                                                                                    
+
+                                                                                               For the Three Months Ended March 31,    
+
+                                                                                                    2024                 2023         
+
+Revenues                                                                                     $              105  $               89 
+
+Cost of revenues                                                                                             11                  53 
+
+Gross profit                                                                                                 94                  36 
+
+                                                                                                                                    
+
+Operating expenses:                                                                                                                 
+
+Selling, general and administrative, including stock based compensation of $447 thousand                  2,481               2,073 
+
+ and $466 thousand, for the three months ended March 31, 2024 and 2023,
+
+ respectively
+
+Research and development, including stock based compensation of $40 thousand and $628                       644               1,525 
+
+ thousand, for the three months ended March 31, 2024 and 2023,
+
+ respectively
+
+Total operating expenses                                                                                  3,125               3,598 
+
+                                                                                                                                    
+
+Loss from operations                                                                                     (3,031)             (3,562)
+
+                                                                                                                                    
+
+Other income (expenses)                                                                                                             
+
+Interest expense                                                                                             (3)                (46)
+
+Change in fair value of derivative liability                                                                  –                  27 
+
+Other income (expenses)                                                                                      (3)                430 
+
+Total other expenses                                                                                         (6)                411 
+
+                                                                                                                                    
+
+Loss before provision for income taxes                                                                   (3,037)             (3,151)
+
+Provision for income taxes                                                                                    –                   – 
+
+Net loss                                                                                     $           (3,037) $           (3,151)
+
+Deemed dividend related to warrant resets                                                                     –                (763)
+
+Net loss attributable to common stockholders                                                 $           (3,037) $           (3,914)
+
+                                                                                                                                    
+
+Basic and diluted net loss per common share                                                  $            (0.13) $            (0.22)
+
+Weighted-average number of shares used basic and diluted per share amounts                           22,541,100          17,847,780 
+
+ 
+
+See accompanying notes to the consolidated financial statements.
+
+ 
+
+ 
+
+ 
+
+                                                                   6                                                                    
+
+ 
+
+ 
+
+APPTECH PAYMENTS CORP. 
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 and 2023
+
+(UNAUDITED)
+
+(in thousands, except shares and per share data)
+
+ 
+
+                                                                                                                                            
+
+                                                Series A                   Common Stock            Additional     Accumulated     Stockholders’   
+
+                                               Preferred                                             Paid-in
+
+                                         Shares       Amount          Shares         Amount       Capital         Deficit           Equity      
+
+Balance December 31, 2022                      14  $          –      16,697,280  $         17  $   147,881  $     (140,474) $         7,424 
+
+Net loss                                        –             –               –             –            –          (3,151)          (3,151)
+
+Stock based compensation                        –             –         178,750             –        1,094               –            1,094 
+
+Repricing of warrants                           –             –               –             –          763            (763)               – 
+
+Net proceeds from sale of offering              –             –       1,666,667             2        4,488               –            4,490 
+
+ shares
+
+Balance March 31, 2023                         14  $          –      18,542,697  $         19  $   154,226  $     (144,388) $         9,857 
+
+ 
+
+ 
+
+                                                 Series A                    Common Stock            Additional     Accumulated     Stockholders’   
+
+                                                 Preferred                                             Paid-in
+
+                                          Shares       Amount          Shares         Amount       Capital         Deficit           Equity      
+
+Balance December 31, 2023                       14  $          –      22,251,742  $         22  $   163,921  $     (159,749) $         4,194 
+
+Net loss                                         –             –               –             –            –          (3,037)          (3,037)
+
+Stock based compensation                         –             –          55,000             1          486               –              487 
+
+Net proceeds from sale of common shares          –             –       2,423,180             2        2,436               –            2,438 
+
+Balance March 31, 2024                          14  $          –      24,729,922  $         25  $   166,843  $     (162,786) $         4,082 
+
+ 
+
+See accompanying notes to the consolidated financial statements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   7                                                                    
+
+ 
+
+ 
+
+APPTECH PAYMENTS CORP. 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 and 2023
+
+(UNAUDITED)
+
+(in thousands, except shares and per share data)
+
+ 
+
+                                                                                                                                      
+
+                                                                                               March 31, 2024       March 31, 2023    
+
+CASH FLOWS FROM OPERATING ACTIVITIES:                                                                                               
+
+Net loss                                                                                     $           (3,037) $           (3,151)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                         
+
+Stock based compensation                                                                                    487               1,094 
+
+Cancellation of stock repurchase liabilities                                                                  –                (430)
+
+Amortization of debt discount                                                                                 –                   4 
+
+Amortization of intangible assets and software                                                              347                 293 
+
+Change in fair value of derivative liabilities                                                                –                 (27)
+
+Changes in operating assets and liabilities:                                                                                        
+
+Accounts receivable                                                                                           8                 (12)
+
+Prepaid expenses                                                                                             21                (407)
+
+Prepaid license costs                                                                                         –                 180 
+
+Accounts payable                                                                                            166                 114 
+
+Accrued liabilities                                                                                         (89)               (706)
+
+Deferred revenue                                                                                            (62)                  – 
+
+Right of use asset and liability, net                                                                        (5)                 (2)
+
+Net cash used in operating activities                                                                    (2,164)             (3,050)
+
+CASH FLOWS FROM INVESTING ACTIVITIES                                                                                                
+
+Net cash used in investing activities                                                                         –                   – 
+
+CASH FLOWS FROM FINANCING ACTIVITIES:                                                                                               
+
+Payments on loans payable - related parties                                                                   –                 (88)
+
+Proceeds from sale of common stock                                                                        2,438               4,490 
+
+Repayment of notes payable                                                                                   (2)             (1,020)
+
+Repayment of convertible notes payable                                                                        –                (400)
+
+Net cash provided by financing activities                                                                 2,436               2,982 
+
+Changes in cash and cash equivalents                                                                        272                 (68)
+
+Cash, cash equivalents, and restricted cash, beginning of period                                          1,281               3,462 
+
+Cash, cash equivalents, and restricted cash, end of period                                   $            1,553  $            3,394 
+
+Supplemental disclosures of cash flows information:                                                                                 
+
+Cash paid for interest                                                                       $                1  $              967 
+
+Cash paid for income taxes                                                                   $                –  $                – 
+
+NON-CASH INVESTING AND FINANCING ACTIVITIES                                                                                         
+
+Issuance of stock for prepaid services                                                       $               48  $              234 
+
+Cancellation of stock repurchase liabilities                                                 $                –  $              430 
+
+Reconciliation of cash, cash equivalents and restricted cash to the consolidated balance                                            
+
+Cash and cash equivalents                                                                    $            1,553  $            2,067 
+
+Restricted cash                                                                              $                –  $            1,327 
+
+Total cash, cash equivalents, and restricted cash in the consolidated statements of cash     $            1,553  $            3,394 
+
+ flows
+
+ 
+
+See accompanying notes to the consolidated financial statements.
+
+ 
+
+ 
+
+ 
+
+                                                                   8                                                                    
+
+ 
+
+ 
+
+APPTECH PAYMENTS CORP. 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+(in thousands, except per share data)
+
+ 
+
+NOTE 1 - ORGANIZATION AND DESCRIPTION OF BUSINESS
+
+ 
+
+AppTech Payments Corp. (“AppTech” or the “Company”), a Delaware corporation, is a Fintech Company headquartered in Carlsbad, California. AppTech utilizes innovative payment processing and digital banking technologies to complement its core merchant services capabilities. The Company’s patented and proprietary software will provide progressive and adaptable products that are available through a suite of synergistic offerings directly to merchants, banking institutions, and business enterprises.
+
+ 
+
+AppTech has a highly secure digital payments platform that we acquired and are further developing digital banking products to power commerce experiences for clients and their customers. Based upon industry standards for payment and banking protocols, we will offer standalone products and fully integrated solutions that deliver innovative, unparalleled payments, banking, and financial services experiences. Our processing technologies can be taken off-the-shelf or tapped into via our RESTful APIs to build fully branded and customizable experiences while supporting tokenized, multi-channel, and multi-method transactions.
+
+ 
+
+AppTech stock trades under the symbol “APCX” and its warrants trade under the symbol “APCXW,” on the Nasdaq Capital Market ("NASDAQ").
+
+  
+
+In June 2023, the Company entered into licensing agreements with InstaCash and PayToMe.co. As part of the arrangement with these parties, the Company negotiated a 7.5% preferred share equity interest. As of the date of this filing, the shares have not been issued to AppTech. InstaCash's CEO also provides investor relation services to the company. The shares have not been issued as of the date of this filing. Additionally, PayToMe.co is a related party to AppTech. Senior members of the Company sit on PayToMe.co's board of directors and AppTech's Chief Financial Officer (“CFO”) is married to its founder and Chief Executive Officer (“CEO”).
+
+ 
+
+In August 2023, the Company entered into a sales agreement under which the Company may offer and sell shares of its common stock having an aggregate offering price of up to $18.0 million through “at-the-market” offerings (ATM), pursuant to its shelf registration statement on Form S-3 on file with the SEC.
+
+  
+
+On October 13, 2023, the Company entered into a Membership Interest Purchase Agreement (the “Membership Interest Purchase Agreement”) with Alliance Partners, LLC, a Nevada based software development limited liability company (“Alliance Partners”, “FinZeo”), and Chris Leyva (the “Seller” and collectively the “Parties”) pursuant to which the Company agreed, upon the terms and subject to the conditions of the Membership Interest Purchase Agreement, to purchase 100% of the Seller’s interest in, to and under the membership interests of Alliance Partners (the “Transaction”). As consideration for the purchase of the membership interests of Alliance Partners, the Company agreed to pay the Seller total consideration of $2.0 million in cash and assume certain short-term and long-term liabilities of Alliance Partners. The primary reason for the purchase was to acquire FinZeo’s intellectual property, personnel, and software platform needed to board AppTech’s potential customers.
+
+ 
+
+The Company closed the Transaction on October 26, 2023 (the “Closing Date”).
+
+ 
+
+On October 31, 2023, the Company issued 1 million shares of its common stock to an entity owned by the Seller. In exchange for the shares, the Seller waived, cancelled, and forgave the long-term debt of FinZeo. Also, the entire FinZeo team elected to join the Company and certain employees received non-guaranteed stock options based on performance.
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   9                                                                    
+
+ 
+
+ 
+
+On December 28, 2023, the Parties entered into an Amendment to the Membership Interest Purchase Agreement (the “First Amendment”). The First Amendment amends the Purchase Agreement to change Section 2.2 and the terms under which the Cash Purchase Price shall be paid. Under the First Amendment, the Cash Purchase Price shall be paid, without setoff or deduction, by wire transfer or immediately available United States funds: On the Closing Date, $500,000 paid on October 27, 2023; on or before January 31, 2024, $375,000; on or before February 29, 2024, $375,000; on or before April 30, 2024, $375,000.
+
+ 
+
+On January 31, 2024, the parties entered into a Second Amendment to the Membership Interest Purchase Agreement (“Second Amendment”). The Second Amendment modifies the Purchase Agreement, specifically revising the terms under which the Cash Purchase Price will be paid. According to the revised terms, $75,000 is due on or before January 31, 2024; $300,000 on or before February 29, 2024; and $375,000 on or before May 31, 2024.
+
+ 
+
+On March 1, 2024, the Parties entered into an Amendment to the Membership Interest Purchase Agreement (the “Third Amendment”). The Third Amendment amends the Purchase Agreement to change the terms under which the Cash Purchase Price shall be paid. Under the Third Amendment, the Cash Purchase Price on January 31, 2024, 75,000, was paid; and the remaining Purchase shall be paid, without setoff or deduction, by wire transfer or immediately available United States funds: On or before March 8, 2024, $75,000; on or before April 5, 2024, $75,000; on or before April 30, 2024, $150,000; on or before May 31, 2024, $375,000; on or before June 30, 2024, $375,000; on or before July 31, 2024, $375,000. Further, the Third Amendment provides that in consideration of modifying the payment schedule, the Seller will receive 15,000 shares of the Company, the payment terms will be reviewed in 60 days and any modifications will be mutually agreed upon.
+
+ 
+
+On April 29, 2024, the Parties entered into an Amendment to the Membership Interest Purchase Agreement (the “Fourth Amendment”) . This amendment modifies the terms under which the Cash Purchase Price is paid, including the $75,000 payment made on March 8, 2024, and the $150,000 due by June 21, 2024. Further payments are deferred under the conditions specified in the amendment, with subsequent payments outlined in the revised schedule. For specific payment details and conditions, refer to the previous disclosure.
+
+ 
+
+The remaining outstanding payable as of March 31, 2024 is $1.35 million and the payable is secured by substantially all the Company’s assets.
+
+ 
+
+Management’s Plan to Address Going Concern Considerations
+
+ 
+
+The Company has experienced recurring operating losses, primarily due to limited revenues. The Company’s current financial conditions and recurring losses raise substantial doubt about its ability to continue as a going concern.
+
+ 
+
+In addition to an open S-3 filed with the SEC, management is actively pursuing additional funding options and is confident that two of its revenue streams will begin generating revenue during the following twelve months from the issuance date of these financial statements, although no assurances can be made.
+
+ 
+
+Management intends to maintain adequate working capital and adhere to prudent financial forecasting.
+
+ 
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+
+Basis of Presentation
+
+ 
+
+The accompanying consolidated unaudited financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”) for interim financial information and the rules and regulations of the Securities and Exchange Commission (“SEC”). In the opinion of the Company’s management, the accompanying financial statements reflect all adjustments, consisting of normal, recurring adjustments, considered necessary for a fair presentation of the results for the interim periods ended March 31, 2024 and March 31, 2023. Although management believes that the disclosures in these unaudited financial statements are adequate to make the information presented not misleading, certain information and footnote disclosures normally included in financial statements that have been prepared in accordance with U.S. GAAP have been omitted pursuant to the rules and regulations of the SEC.
+
+ 
+
+The accompanying consolidated unaudited financial statements should be read in conjunction with the Company’s financial statements and notes related thereto included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on April 1, 2024. The interim results for the three months ended March 31, 2024 are not necessarily indicative of the results to be expected for the year ended December 31, 2024 or for any future interim periods.
+
+ 
+
+ 
+
+ 
+
+                                                                   10                                                                   
+
+ 
+
+ 
+
+Basis of Consolidation
+
+ 
+
+The consolidated unaudited financial statements include the accounts of AppTech Payments Corp., and wholly owned subsidiaries of which the Company is the primary beneficiary. All significant inter-company accounts and transactions are eliminated in consolidation.
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of the financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period.
+
+ 
+
+The Company makes critical estimates and assumptions in valuing: stock-based awards, intangible assets and the related goodwill impairment test. Actual results could differ from those estimates.
+
+ 
+
+Prior Period Reclassifications
+
+ 
+
+Certain prior period amounts have been reclassified to conform to the current period presentation. Specifically, the Company reclassified 'Accounts Payable - Related Party' from 'Accounts Payable' within the consolidated balance sheet. As a result, 'Accounts Payable - Related Party' is presented separately as of March 31, 2024 and December 31, 2023.
+
+ 
+
+Concentration of Credit Risk
+
+ 
+
+Cash and cash equivalents are maintained at financial institutions and, at times, balances may exceed federally insured limits of $250,000 per institution that pays Federal Deposit Insurance Corporation (“FDIC”) insurance premiums. The Company has never experienced any losses related to these balances.
+
+ 
+
+The accounts receivable from merchant services are paid by the financial institutions on a monthly basis. As of March 31, 2024, 88% of the accounts receivable balance was generated from three customers. As of December 31, 2023, the same three customers accounted for 96% of total accounts receivable.
+
+ 
+
+For the three months ended March 31, 2024, 87% of the revenue was generated from three customers. For the three months ended March 31, 2023, the same three customers represented 89% of total revenues. The loss of the customer would have a significant impact on the Company's financials.
+
+ 
+
+Software Development Costs 
+
+ 
+
+The Company capitalizes certain costs related to the development of its digital banking platform. Costs incurred during the development phase are capitalized only when we believe it is probable the development will result in new or additional functionality. The types of costs capitalized during the development phase include employee compensation and consulting fees for third party developers working on these projects. Costs related to the preliminary project planning phase and post implementation phase are expensed as incurred. The digital banking platform is amortized on a straight line basis over the estimated useful life of the asset.
+
+ 
+
+ 
+
+ 
+
+                                                                   11                                                                   
+
+ 
+
+ 
+
+Revenue Recognition
+
+ 
+
+The Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2014-09, codified as Accounting Standards Codification (“ASC”) 606 Revenue from Contracts with Customers, which provides a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers.
+
+ 
+
+The Company provides merchant processing solutions for credit cards and electronic payments. In all cases, the Company acts as an agent between the merchant which generates the credit card and electronic payments, and the bank, which processes such payments.
+
+ 
+
+The Company’s revenue is generated on services priced as a percentage of transaction value or a specified fee transaction, depending on the card or transaction type. Revenue is recorded as services are performed, which is typically when the bank processes the merchant’s credit card and electronic payments. Consideration paid to channel partners is recorded as a reduction in revenues.
+
+ 
+
+Licensing Revenue
+
+ 
+
+The Company is actively pursuing strategic partnership agreements that licenses our portfolio of patents in return for a fee. The licensing fee is deferred and recognized evenly on a monthly basis over the term of the service period or contract.
+
+ 
+
+Intangible Assets and Intellectual Property
+
+ 
+
+Intellectual Property
+
+ 
+
+The Company amortizes intellectual property based on the estimated period over which the economic benefits of the intangible assets are expected to be consumed. Typically, the Company amortizes its intellectual property, including patents and other identifiable intangible assets, on a straight-line basis. The amortization periods generally range from three years to fifteen years, depending on the nature of the asset and its expected useful life. 
+
+ 
+
+Capitalized Development Cost
+
+ 
+
+The Company capitalizes certain costs related to the development of its digital payment and banking platform. Costs incurred during the development phase are capitalized only when we believe it is probable the development will result in new or additional functionality. The Company recorded the identifiable intangible assets, which included the acquired technology, intellectual property, and non-competes, at their acquisition-date fair value using a combination of the income and cost approaches. Costs related to the preliminary project planning phase and post implementation phase are expensed as incurred. The capitalized development costs are amortized on a straight line basis over the estimated useful life of the asset. 
+
+ 
+
+Goodwill 
+
+ 
+
+The Company accounts for goodwill in accordance with ASC 350, Intangibles – Goodwill and Other (“ASC 350”). ASC 350 requires that goodwill and other intangibles with indefinite lives should be tested for impairment annually or on an interim basis if events or circumstances indicate that the fair value of an asset has decreased below its carrying value.
+
+ 
+
+ 
+
+ 
+
+                                                                   12                                                                   
+
+ 
+
+ 
+
+Research and Development
+
+ 
+
+In accordance with ASC 730, Research and Development (“R&D”) costs are expensed when incurred. R&D costs include costs of acquiring patents and other unproven technologies, contractor fees and other costs associated with the development of the SMS short code texting platform, contract and other outside services. Total R&D costs for the three months ended March 31, 2024 and 2023 were approximately $0.6 million and $1.5 million, respectively.
+
+ 
+
+Per Share Information
+
+ 
+
+Basic net income (loss) per common share is computed by dividing net income (loss) by the weighted average number of shares of common stock outstanding during the year. Diluted net income (loss) per common share is computed by dividing net income (loss) by the weighted average number of shares of common stock outstanding during the year, increased by the potentially dilutive common shares that were outstanding during the year. Dilutive securities include stock options, warrants granted, and convertible preferred stock.
+
+ 
+
+The number of common stock equivalents not included in diluted income per share was 11,245,422 and 7,210,767 for the three months ended March 31, 2024 and 2023, respectively. The weighted average number of common stock equivalents is not included in diluted income (loss) per share, because the effects are anti-dilutive. 
+
+Schedule of anti-dilutive shares                                                                                                      
+
+                                                                                               March 31, 2024        March 31 2023    
+
+                                                                                                                                      
+
+Series A preferred stock                                                                                  1,148               1,148 
+
+Convertible debt                                                                                              –             177,620 
+
+Warrants                                                                                              7,489,960           5,942,131 
+
+Options                                                                                               3,754,314           1,089,868 
+
+Total                                                                                                11,245,422           7,210,767 
+
+ 
+
+Stock Based Compensation
+
+ 
+
+The Company recognizes as compensation expense all share-based payment awards made to employees, directors, and consultants, including grants of stock, stock options, and warrants, based on their estimated fair values. For stock awards, fair value is determined based on the closing price of the Company’s common stock on the grant date and is recognized over the service period required for the employees, directors, and consultants to earn the awards. For stock options and warrants, fair value is estimated using an appropriate valuation model at the grant date, considering the terms and conditions under which the awards were granted. The expense is similarly recognized over the period during which the service conditions are expected to be met. Additionally, the Company has several grant agreements that include options awarded based on contingent performance. For these performance-based option grants, the Company records the fair market value of the options at the time the performance criteria are fully met.
+
+ 
+
+New Accounting Pronouncements
+
+ 
+
+The FASB issues ASUs to amend the authoritative literature in ASC. There have been a number of ASUs to date that amend the original text of ASC. The Company believes those issued to date either (i) provide supplemental guidance, (ii) are technical corrections, (iii) are not applicable to the Company or (iv) are not expected to have a significant impact on the Company.
+
+ 
+
+ 
+
+ 
+
+                                                                   13                                                                   
+
+ 
+
+ 
+
+NOTE 3 – INTANGIBLE ASSETS
+
+ 
+
+Intellectual Property
+
+ 
+
+The Company has two patent portfolios, which include:
+
+ 
+
+Mobile Payment Technology This portfolio consists of four mobile technology patents that range from System & Method for Delivering Web Content to a Mobile Device, Computer to Mobile Two-Way Chat System & Method, and Mobile to Mobile payment.; and
+
+ 
+
+Geolocation Technology This portfolio consists of 13 patents that are focused on the delivery, purchase, or request of any products or services within specific geolocation and time parameters, provided by a consumer’s mobile phone anywhere in the United States. This portfolio houses the patent that protects all advertising on a mobile phone, including in a store’s mobile application. We amortize the patents on a straight-line basis from three years to 15 years, which approximates the way the economic benefits of the intangible asset will be consumed.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the gross value of patents is $407 thousand. As of March 31, 2024 and December 31, 2023, cumulative amortization is approximately $266 thousand and $232 thousand, respectively.
+
+ 
+
+On October 26, 2023, the Company acquired FinZeo, a Nevada based LLC. The gross value of acquired intangible assets is $4.4 million. As of March 31, 2024 and December 31, 2023, cumulative amortization is approximately $368 thousand and $147 thousand, respectively. The estimated aggregate amortization of the intellectual property for each of the five succeeding fiscal years is approximately $882 thousand. Intellectual Property as of March 31, 2024 and December 31, 2023 are as follows: 
+
+Schedule of intellectual property                                                                                                    
+
+Intellectual Property                                                                          March 31, 2024      December 31, 2023  
+
+Beginning Balance                                                                            $            4,428  $               311 
+
+Acquisition of intangible assets                                                                              –                4,400 
+
+Amortization expenses                                                                                      (255)                (283)
+
+Ending Balance                                                                               $            4,173  $             4,428 
+
+ 
+
+Capitalized Development Cost 
+
+ 
+
+The Company capitalizes certain costs related to the development of its digital payment and banking platform.
+
+ 
+
+As of March 31, 2024, the gross value of capitalized development cost is $1.6 million. As of March 31, 2024 and December 31, 2023, cumulative amortization is approximately $511 thousand and $419 thousand, respectively. The estimated aggregate amortization of the capitalized development cost for each of the four succeeding fiscal years is approximately $368 thousand. 
+
+Schedule of capitalized development cost                                                                                            
+
+Capitalized Development Cost                                                                   March 31, 2024      December 31, 2023  
+
+Beginning Balance                                                                            $            1,147  $            4,921 
+
+Additions                                                                                                     –                   – 
+
+Impairment                                                                                                    –              (3,072)
+
+Amortization expenses                                                                                       (92)               (702)
+
+Ending Balance                                                                               $            1,055  $            1,147 
+
+ 
+
+See Note 7 - Commitments and Contingencies for discussions of Infinios Financial Services (formerly NEC Payments B.S.C.) and write off capitalized development cost. 
+
+ 
+
+ 
+
+ 
+
+                                                                   14                                                                   
+
+ 
+
+ 
+
+Goodwill
+
+ 
+
+On October 26, 2023 (the “Closing Date”), the Company completed the acquisition of Alliance Partners, LLC, a Nevada limited liability company. The difference between the fair value of the purchase price and the net assets acquired (including the assembled workforce) is recorded as goodwill. As of March 31, 2024, the Company recorded goodwill of approximately $1.2 million.
+
+ 
+
+See Note 1 - Purchase of Alliance Partners, LLC. 
+
+ 
+
+NOTE 4 – ACCRUED LIABILITIES 
+
+ 
+
+Related parties noted below are either members of management, board of directors, significant shareholders, or individuals that have significant influence over the Company.
+
+ 
+
+Accrued liabilities as of March 31, 2024 and December 31, 2023 are as follows: 
+
+Schedule of accrued liabilities                                                                                                       
+
+                                                                                               March 31, 2024      December 31, 2023  
+
+Accrued payroll                                                                              $              256  $               189 
+
+Anti-dilution provision                                                                                      72                   72 
+
+Payables due to related party                                                                             1,350                1,500 
+
+Other                                                                                                       190                  197 
+
+Total accrued liabilities                                                                    $            1,868  $             1,958 
+
+ 
+
+As consideration for the purchase of the membership interests of Alliance Partners, the Company agreed to pay the Seller total consideration of $2.0 million in cash and assume certain short-term and long-term liabilities of Alliance Partners. Of the original purchase price, $1.35 million remains outstanding as of March 31, 2024. The payable amount is secured by substantially all the Company’s assets. On April 29, 2024, the Parties entered into an Amendment to the Membership Interest Purchase Agreement (the “Fourth Amendment”). See Note 1.
+
+ 
+
+See Note 1 Purchase of Alliance Partners, LLC (Business Combinations).
+
+ 
+
+Anti-dilution provision
+
+ 
+
+In connection with the shares to be issued as part of the HotHand acquisition, and anti-dilution provision with Infiinios, the Company accrued an additional 39,706 shares of its common stock at $1.81 per share for a total of $72 thousand. The shares have not been issued to Infinios as of March 31, 2024.
+
+ 
+
+The Company and Infinios are currently in arbitration.
+
+ 
+
+See Note 7 - Commitment and Contingencies.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   15                                                                   
+
+ 
+
+ 
+
+NOTE 5 – NOTES PAYABLE 
+
+ 
+
+The following is a summary of loans and notes payable outstanding as of March 31, 2024 and December 31, 2023.
+
+  
+
+Notes Payable
+
+ 
+
+In 2020, the Company entered into a 30-year unsecured note payable with U.S. Small Business Administration for $68 thousand in proceeds. The notes payable incurred a $100 fee upon issuance and incurs interest at 3.75% per annum. All payments of principal and interest are deferred for thirty months from the date of the note. Payments totaling $4 thousand are due each year through the maturity date of July 1, 2050.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the balance of the note payable was $64 thousand and $66 thousand, and accrued interest was $0 and $0, respectively.
+
+ 
+
+NOTE 6 – RIGHT OF USE ASSET
+
+ 
+
+Lease Agreement
+
+ 
+
+In January 2020, the Company entered into a lease agreement commencing February 8, 2020 for its current Carlsbad, California facility, which expires in 2025. The term of the lease is for five years. At inception of the lease, the Company recorded a right of use asset and liability. The Company used an effective borrowing rate of 12% within the calculation.
+
+ 
+
+In October 2023, the Company entered into a lease agreement commencing October 1, 2023 for its Austin, Texas office, which expires in March 2025. The term of the lease is for 20 months.
+
+ 
+
+The rent expense was $22 thousand and $22 thousand for the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+NOTE 7 – COMMITMENTS AND CONTINGENCIES
+
+ 
+
+NCR Lawsuit
+
+ 
+
+On November 30, 2022, AppTech filed a complaint against NCR Payment Solutions, LLC in the United States District Court for the Southern District of California alleging Breach of Contract, Breach of Implied Covenant of Good Faith and Fair Dealing, Specific Performance and Accounting. NCR filed a motion to dismiss, motion to transfer venue and motion to compel arbitration. 
+
+ 
+
+In March 2024, the Company and NCR reached a Settlement and Release Agreement (“Settlement Agreement”). Both parties affirm that this agreement is solely for settlement purposes and does not imply any admission of liability. Each party expressly denies any liability, and nothing within this Settlement Agreement should be interpreted as an admission of liability by either party. No further other actions required by either party.
+
+ 
+
+Infinios Financial Services (formerly NEC Payments B.S.C.)
+
+ 
+
+On October 1, 2020, the Company entered into a strategic partnership with Infinios Financial Services BSC (formally NEC Payments B.S.C) (“Infinios”) through a series of agreements, which included the following: (a) Subscription License and Services Agreement; (b) Digital Banking Platform Operating Agreement; (c) Subscription License Order Form; and (d) Registration Rights Agreement (collectively, the “Agreements”).
+
+ 
+
+ 
+
+ 
+
+                                                                   16                                                                   
+
+ 
+
+ 
+
+On February 11, 2021, the Company entered into an amended and restated Subscription License and Services Agreement, Digital Banking Platform Operating Agreement and Subscription License Order Form with Infinios (collectively, the “Restated Agreements”). The gross total fees due under the Restated Agreements are $2.2 million excluding pass-through costs associated with infrastructure hosting fees.
+
+ 
+
+In the years of 2021 and 2022, the Company paid Infinios $1.8 million and issued to an Infinios’ affiliate about 2,347,905 shares of common stock of the Company.
+
+ 
+
+On May 4, 2023, unsatisfied with Infinios’ performance of its contractual obligations, the Company notified Infinios of its intent to terminate its relationship and commenced a good-faith negotiation with Infinios regarding the termination terms.
+
+ 
+
+In June 2023, Infinios turned off all its services, and the Company wrote off the $6.1 million net capitalized assets included in Capitalized software development and license and Prepaid license fees, as they were deemed to be impaired.
+
+ 
+
+On or about October 5, 2023, Infinios filed a demand for arbitration and a Statement of Claim before the International Centre for Dispute Resolution, Case No. 01-23-0004-3881 (the “Arbitration Claim”). In the Arbitration Claim, Infinios asserts claims for breach of contract, quantum meruit, and account stated. Infinios alleges damages of $598,525, and asserts a demand for the grant and registration of shares.
+
+ 
+
+On November 13, 2023, the Company filed an Answer to the Arbitration Claim, along with Counterclaims for breach of contract, fraudulent inducement, unjust enrichment, breach of fiduciary duty, and breach of the covenant of good faith and fair dealing.
+
+ 
+
+At a Preliminary Hearing held on February 22, 2024, hearing dates of August 12 and 13, 2024, August 19 and 20, 2024, and October 21 and 22, 2024 were scheduled.
+
+ 
+
+While the Company will continue to pursue consensual means of resolving this dispute, it intends to vigorously defend the claims in the Arbitration Claim, and prosecute the causes of action in its Counterclaims.
+
+ 
+
+Terminated Employees
+
+ 
+
+As of March 31, 2024, the Company was engaged in ongoing negotiations regarding severance payments with three former employees. These employees have not complied fully with the contractual terms of their employment and separation agreements. This non-compliance leads the Company to assess that it is less likely than not that a severance obligation will be incurred. Given this assessment and the ongoing status of negotiations, the Company has determined that no accrual for severance payments is necessary at this time due to the uncertainty of the obligation. The outcome of these negotiations could lead to potential arbitration or litigation, the impact of which is currently indeterminate.
+
+ 
+
+NOTE 8 – STOCKHOLDERS’ EQUITY 
+
+ 
+
+Series A Preferred Stock
+
+ 
+
+The Company is authorized to issue 10,526 shares of $0.001 par value Series A preferred stock (“Series A”). There were fourteen (14) shares of Series A preferred stock outstanding as of March 31, 2024 and December 31, 2023. The holders of Series A preferred stock are entitled to one vote per share on an “as converted” basis on all matters submitted to a vote of stockholders and are not entitled to cumulate their votes in the election of directors. The holders of Series A preferred stock are entitled to any dividends that may be declared by the Board of Directors out of funds legally available, therefore on a pro rata basis according to their holdings of shares of Series A preferred stock, on an as converted basis. In the event of liquidation or dissolution of the Company, holders of Series A preferred stock are entitled to share ratably in all assets remaining after payment of liabilities and have no liquidation preferences. Holders of Series A preferred stock have a right to convert each share of Series A into 82 shares common stock.
+
+ 
+
+ 
+
+ 
+
+                                                                   17                                                                   
+
+ 
+
+ 
+
+Common Stock
+
+ 
+
+The Company is authorized to issue 105,263,158 shares of $0.001 par value as of March 31, 2024 and December 31, 2023. There were 24,729,922 and 22,251,742, respectively, shares of common stock outstanding as of March 31, 2024 and December 31, 2023. The holders of common stock are entitled to one vote per share on all matters submitted to a vote of stockholders and are not entitled to cumulate their votes in the election of directors. The holders of common stock are entitled to any dividends that may be declared by the board of directors out of funds legally available, therefore subject to the prior rights of holders of any outstanding shares of preferred stock and any contractual restrictions against the payment of dividends on common stock. In the event of liquidation or dissolution of the Company, holders of common stock are entitled to share ratably in all assets remaining after payment of liabilities and the liquidation preferences of any outstanding shares of preferred stock. Holders of common stock have no preemptive or other subscription rights and no right to convert their common stock into any other securities.
+
+ 
+
+Public Offerings
+
+ 
+
+In February 2023, the Company announced the closing of its previously announced $5.0 million registered direct offering (the “Registered Direct Offering”) with a single institutional investor to sell 1,666,667 shares of its common stock (the “Shares”) and warrants to purchase up to 1,666,667 shares (the “Warrants”) in a concurrent private placement (the “Private Placement”). The combined purchase price for one Share and one Warrant was $3.00. Each of the Warrants has an exercise price of $4.64 per share of common stock and are exercisable on and after August 1, 2023. The Warrants expire five years from the date on which they become exercisable. The aggregate gross proceeds from the Registered Direct Offering and the concurrent Private Placement were approximately $5.0 million before deducting placement agent fees and other estimated offering expenses. The offering that was completed in February 2023, caused a reset to the exercise price of existing warrants from the S-1 offering that had a strike price of $5.19 and a future offerings floor price of $4.15. Accordingly, the floor price was reset to $4.15 in February 2023. 4,156,626 warrants were reset and $763 thousand was recorded to additional paid-in capital and accumulated deficit as a result of the reset.
+
+ 
+
+In August 2023, the Company entered into a sales agreement under which the Company may offer and sell shares of its common stock having an aggregate offering price of up to $18.0 million through “at-the-market” offerings (ATM), pursuant to its shelf registration statement on Form S-3 on file with the SEC. In total, as of the end of March 31, 2024, the Company sold 898,780 shares of common stock under the ATM, for which the Company received net proceeds of $2.1 million, after deducting commissions, fees and expenses.
+
+ 
+
+In October 2023, the Company entered into a Securities Purchase Agreement (the “Securities Purchase Agreement”) with a certain accredited and institutional investor (the “Purchaser”) pursuant to which the Company has agreed to issue and sell to Purchaser an aggregate of: (i) 1,666,667 shares (the “Shares”) of the Company’s common stock, par value $0.001 per share (the “Common Stock”) and (ii) warrants (the “Purchase Warrants”) to purchase up to 1,666,667 shares of Common Stock, exercisable at $2.74 per share (the “Offering”). The offering price per Share and associated Purchase Warrants is $2.10. The October Warrants will expire five years from the date on which they become exercisable. On October 26, 2023, the Company closed the Offering and raised $3.5 million in gross proceeds from the Offering.
+
+ 
+
+On March 26, 2024, AppTech Payments Corp. (the “Company”) entered into an underwriting agreement (the “Underwriting Agreement”) with EF Hutton LLC, as representative of the several underwriters (the “Underwriters”), relating to the public offering of 2,000,000 shares of common stock, par value $0.001 per share (“Common Stock”), at a purchase price per share to the public of $1.00 (the “Offering Price”). Pursuant to the Underwriting Agreement, the Company granted the Underwriters a 45-day option to purchase up to an additional 300,000 shares of Common Stock at the Offering Price, less any underwriting discounts and commissions, for use solely in covering any over-allotments.
+
+ 
+
+ 
+
+ 
+
+                                                                   18                                                                   
+
+ 
+
+ 
+
+As of March 31, 2024, approximately $61.9 million remains available under the shelf registration statement Form S-3 (File No. 333-265526) previously filed and declared effective by the Securities and Exchange Commission (SEC) on July 15, 2022. SEC regulations limit the amount of funds we can raise during any 12-month period pursuant to our effective shelf registration statement on Form S-3. We are currently limited by the Baby Shelf Rule as of the filing of this Annual Report, until such time as our public float exceeds $75 million. However, factors such as stock price, volatility, trading volume, market conditions, demand and regulatory requirements may adversely affect the Company’s ability to raise capital in an efficient manner.
+
+ 
+
+Stock Issued for Services
+
+ 
+
+During the three months ended March 31, 2024 and 2023, the Company issued 40,000 and 150,000, respectively, shares of common stock to several consultants in connection with business development and professional services. The Company valued the common stock issuances at $60 thousand and $466 thousand, respectively, based upon the closing market price of the Company’s common stock on the date of the agreement.
+
+ 
+
+Stock Issued related to Acquisition
+
+ 
+
+On October 26, 2023 (the “Closing Date”), the Company completed acquisition of Alliance Partners, LLC, a Nevada limited liability company (“Alliance Partners”, “FinZeo”). On October 31, 2023, the Company issued 1,000,000 shares of common stock valued at $2.44 per share to an entity owned by the Seller. In exchange for the shares, the Seller waived, cancelled, and forgave the long-term debt of FinZeo. Also, the entire FinZeo team elected to join AppTech and certain employees received non-guaranteed stock options based on performance.
+
+ 
+
+On March 1, 2024, the Company issued 15,000 shares of common stock valued at $1.75 per share to the former owner of Alliance Partners, LLC as consideration for extending the payment due date for the remaining balance due of the acquisition consideration.
+
+ 
+
+See Note 1 - Purchase of Alliance Partners, LLC.
+
+ 
+
+Stock Options 
+
+ 
+
+The Company grants stock options as part of employee compensation and recognizes these options’ expense over the vesting period. If an employee does not meet certain conditions such as sales targets or leaves the Company before the options vest, these options are forfeited as they occur.
+
+ 
+
+On December 7, 2021, the board authorized the Company’s Equity Incentive Plan in order to facilitate the grant of equity incentives to employees (including our named executive officers), directors, independent contractors, merchants, referral partners, channel partners and employees of our company to enable our company to attract, retain and motivate employees, directors, merchants, referral partners and channel partners, which is essential to our long-term success. The shareholders approved an additional 700,000 shares for the Company’s Equity Incentive plan in May 2023. A total of 1,752,632 shares of common stock were authorized under the Equity Incentive Plan, for which as of March 31, 2024, a total of 378,364 are available for issuance.
+
+ 
+
+On October 26, 2023, the Company acquired FinZeo, a Nevada based LLC. As part of the acquisition of FinZeo, the previous management team received 1.5 million options of AppTech’s common stock, with vesting contingent upon reaching specified sales milestones. The options would be forfeited if they left the Company prior to achieving their target. The Company did not record any stock-based compensation expense during the three months ended March 31, 2024 as these were not determined to be probable of vesting. See Note 1 - Purchase of Alliance Partners, LLC.
+
+ 
+
+ 
+
+ 
+
+                                                                   19                                                                   
+
+ 
+
+ 
+
+On March 20, 2024, the Company extended the expiration term of vested and outstanding stock options to 10 years from the original grant date for current employees and consultants. The fair value was calculated both on the modification date and prior to the modification. During the three months ended March 31, 2024, the Company recorded the option modification expense of $325 thousand.
+
+ 
+
+During the three months ended March 31, 2024, the Company granted 1,028,750 options to purchase of common stock. The grants included:
+
+ 
+
+1) 1,000,000 shares of common stock to a consultant, with vesting contingent upon reaching specified sales milestones. The fair value of these options, which are non-plan with a one-year life, will be recognized as an expense when vesting appears probable. These options have an exercise price of $1.58 per share and a fair value of $0.64 per share on the issuance date. The Company did not record any stock based compensation expense during the three months ended March 31, 2024 as these were not determined to be probable of vesting.
+
+ 
+
+2) 28,750 shares of common stock granted to the board of directors, with an exercise price of $2.11 per share and a fair value at $1.78 per share.
+
+ 
+
+The following table summarizes option activity: 
+
+Schedule of option activity                                                                                                           
+
+                                                                           Number of             Weighted              Weighted       
+
+                                                                             shares               Average              Average 
+
+                                                                                               exercise price       remaining years
+
+Outstanding December 31, 2023                                                   2,725,564  $              1.84                4.07 
+
+Issued                                                                          1,028,750                 1.59                     
+
+Exercised                                                                               –                    –                     
+
+Cancelled                                                                               –                    –                     
+
+Outstanding as of March 31, 2024                                                3,754,314  $              1.78                6.56 
+
+Outstanding as of March 31, 2024, vested                                        1,204,317  $              1.29                7.45 
+
+ 
+
+The unvested options includes a total of 2.5 million options contingent upon reaching specified sales milestones. The remaining expense to be recognized, exclusive of the contingent performance-based options, is $30 thousand as of March 31, 2024. This amount is expected to be recognized by the end of July 2025.
+
+ 
+
+During the three months ended March 31, 2024, the Company recorded $400 thousand in option expenses, which includes the modification expense noted above of $325 thousand.
+
+ 
+
+ 
+
+ 
+
+                                                                   20                                                                   
+
+ 
+
+ 
+
+The options vest in equal monthly installments ranging from instantly to 12 months. For the three months ended March 31, 2024, the fair value of the options were valued using a Black-Scholes option pricing model with the following range of assumptions:
+
+Schedule of assumptions                                                                                                               
+
+Market value of common stock on issuance date                                                                           $0.72 - $3.12 
+
+Exercise price                                                                                                          $0.72 - $3.12 
+
+Expected volatility                                                                                                       102% - 144% 
+
+Expected term (in years)                                                                                                   1.0 - 10.0 
+
+Risk-free interest rate                                                                                                 3.84% - 5.00% 
+
+Expected dividend yields                                                                                                            – 
+
+ 
+
+Warrants 
+
+ 
+
+See Note 8 - Common Stock - related to the issuance of warrants.
+
+ 
+
+As of March 31, 2024, the Company has 7,489,960 warrants outstanding. The following table summarizes warrant activity: 
+
+Schedule of warrant activity                                                                                                          
+
+                                                                           Number of             Weighted              Weighted       
+
+                                                                             shares               Average              Average 
+
+                                                                                               exercise price       remaining years
+
+Outstanding December 31, 2023                                                   7,489,960  $              3.52                3.83 
+
+Cancelled                                                                               –                    –                     
+
+Issued                                                                                  –                    –                     
+
+Outstanding as of March 31, 2024                                                7,489,960  $              3.52                3.58 
+
+ 
+
+See Note 1 for information on warrants issued during the Offering
+
+ 
+
+NOTE 9 – SUBSEQUENT EVENTS
+
+ 
+
+On April 4, 2024, the Company granted 406,000 options to current employees and consultants with an exercise price of $0.95, a ten-year expiration term, and a fair value on the grant date of $0.86. The Company recognized $349,000 related to this grant. The options were fully vested upon on the grant date.
+
+ 
+
+As previously disclosed in a Form 10-K filed with the Securities and Exchange Commission on April 1, 2024, the Company completed its acquisition of Alliance Partners on October 26, 2023. The Parties entered into an Amendment to the Membership Interest Purchase Agreement (the “Fourth Amendment”) on April 29, 2024. See Note 1.
+
+ 
+
+In May 2024, the Company received a notification of a lawsuit filed by three former employees seeking severance payments.
+
+See Note 7.
+
+ 
+
+On May 9, 2024, AppTech Payments Corp. received a deficiency notification from Nasdaq due to the Company’s common stock trading below the minimum bid price of $1.00 for thirty consecutive business days, as required by Nasdaq Listing Rule 5550(a)(2). While the notice does not currently affect the Company’s listing, AppTech Payments Corp. has until November 5, 2024, to regain compliance. The Company may consider actions such as a reverse stock split to address compliance issues. However, there is no assurance of regaining compliance within the prescribed timeframe or maintaining compliance with other Nasdaq requirements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   21                                                                   
+
+ 
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ 
+
+The following discussion and analysis of our financial condition and results of operations should be read together with the audited consolidated financial statements and related notes included elsewhere in this report. Certain statements contained in this report, including statements regarding the anticipated development and expansion of our business, our intent, belief or current expectations, primarily with respect to the future operating performance of our company and the products and services we expect to offer and other statements contained herein regarding matters that are not historical facts, are “forward-looking” statements. Our Management’s Discussion and Analysis contains not only statements that are historical facts, but also forward-looking statements which involve risks, uncertainties, and assumptions. Because forward-looking statements are inherently subject to risks and uncertainties, our actual results may differ materially from the results discussed in the forward-looking statements.
+
+ 
+
+Business Overview
+
+ 
+
+The financial services industry is going through a period of intensive growth driven by the advancement of technology and the rapid rise of contactless transactions due to societal changes, in part, as a response to COVID-19. End-users expect ease of use and an enhanced user experience in all their daily financial interactions. In this rapidly evolving digital marketplace, businesses have broad and frequently changing requirements to meet consumer expectations and operational efficiencies to maintain their competitive edge.
+
+ 
+
+To flourish in this environment, businesses need to adopt new technologies to engage, communicate and process payments and manage payouts with their customers from a supplier that widely supports innovation and adaptation as the industry evolves. We believe our technologies will greatly increase the adoption of omni-channel payments and digital banking solutions in sectors that must quickly adapt and migrate to new, secure digital Fintech technologies. By embracing advancements in the payment and banking industries, we are well-positioned to meet the growing needs of existing and prospective clients and intend for our current and future products to be at the forefront of solving these accelerated market needs.
+
+ 
+
+AppTech’s all-in-one Fintech platform, FinZeo™, delivers best-in-class financial technologies and capabilities through an ever-evolving modular cloud/edge-based architecture. The FinZeo platform houses a large array of financial products and services that can be implemented off-the-shelf or customized via modern APIs. Within its FinZeo platform, AppTech offers Payments-as-a-Service (“PaaS”), Banking-as-a-Service (“BaaS”), and the Commerse™ Portal.
+
+ 
+
+FinZeo provides PaaS via integrated solutions for frictionless digital and mobile payment acceptance. These solutions provide advanced payment processing solutions by catering to the unique needs of each merchant. FinZeo’s PaaS solutions include ACH (automatic clearing house), credit & debit cards, eCheck, mobile processing, electronic billing, and text-to-pay. PaaS will also solve for multi-use case, multi-channel, API-driven, account-based issuer processing for card, digital tokens, and payment transfer transactions.
+
+ 
+
+AppTech is positioned to further accelerate digital transformation through BaaS, layered with financial management tools that empower financial institutions to provide businesses, professionals, and individuals with the ability to better manage their finances anywhere, anytime at a fraction of the cost of traditional banking and financial services. BaaS fosters an ecosystem of immersive and scalable digital financial management services, including FinZeo’s groundbreaking automated underwriting portal. By digitizing the underwriting process, Automated Underwriting expedites business onboarding with its intuitive digital application and e-signature capabilities. This portal offers customizable pricing, risk models, and access to multiple processors, ensuring tailored solutions for diverse needs.
+
+ 
+
+The Commerse Portal empowers Independent Sales Organizations (ISOs) and Independent Software Vendors (ISVs) to seamlessly integrate their businesses, facilitating swift technology adoption. By leveraging the Commerse portal, ISOs/ISVs can streamline operations and foster growth, meeting the economic demands of their merchants. Through personalized portals, ISOs/ISVs have the flexibility to select and integrate FinZeo payments and banking services, thereby enhancing their offerings to clients.
+
+ 
+
+FinZeo has a flexible architecture and can be fully white labeled to allow for rich, personalized payment and banking experiences. This cloud-based platform packages together elements of AppTech’s intellectual property, BaaS, PaaS and Commerse™ Portal to create a one-hub connection point of multi tenant portals giving the merchant, ISO/ISV, and each customer a well-defined user experience.
+
+ 
+
+ 
+
+ 
+
+                                                                   22                                                                   
+
+ 
+
+ 
+
+AppTech was reincorporated in Delaware on December 23, 2021. During this time, the business name was changed to AppTech Payments Corp. AppTech’s executive offices are located at 5876 Owens Avenue, Suite 100, Carlsbad, California 92008. The Company’s phone number is (760) 707-5959. The Company’s website address is www.apptechcorp.com. AppTech does not incorporate the information on or accessible through our website into this report. The Company has included our website address in this report solely as an inactive textual reference.
+
+ 
+
+Recent Developments
+
+ 
+
+On May 9, 2024, we received a deficiency notification from Nasdaq due our common stock trading below the minimum bid price of $1.00 for thirty consecutive business days, as required by Nasdaq Listing Rule 5550(a)(2). While the notice does not currently affect our listing, we have until November 5, 2024 to regain compliance. We may consider actions such as a reverse stock split to address compliance issues. However, there is no assurance that we will regain compliance within the prescribed timeframe or maintaining compliance with other Nasdaq requirements.
+
+ 
+
+Financial Operations Overview
+
+ 
+
+The following discussion sets forth certain components of our statements of operations as well as factors that impact those items (in thousands, except per share data).
+
+ 
+
+Revenues
+
+ 
+
+Our Revenues. We derive our revenue by providing financial processing services to businesses.
+
+ 
+
+Expenses
+
+ 
+
+Cost of Revenue. Cost of revenue includes costs directly attributable to processing and other services the company provides. These also include related costs such as residual payments to our business development partners, which are based on a percentage of the net revenue generated from client referrals.
+
+ 
+
+General and administrative. General and administrative expenses include professional services, rent and utilities, and other operating costs.
+
+ 
+
+Research and development. Research and development costs include costs of acquiring patents and other unproven technologies, contractor fees and other costs associated with the development of the SMS short code texting platform, contract and outside services.
+
+ 
+
+Interest expense, net. Our interest expense consists of interest on our outstanding indebtedness and amortization of debt issuance costs.
+
+ 
+
+Results of Operations
+
+ 
+
+This section includes a summary of our historical results of operations, followed by detailed comparisons of our results for the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+The following table presents our historical results of operations for the periods indicated:
+
+ 
+
+                                                       Three Months Ended March 31                          Change                   
+
+(in thousands, except per share data)                   2024                 2023                Amount                 %          
+
+Revenue                                          $              105  $               89  $                16                 18% 
+
+Cost of revenue                                                  11                  53                  (42)               (79%)
+
+Gross profit                                                     94                  36                   58                161% 
+
+Operating expenses                                                                                                               
+
+General and administrative                                    2,481               2,073                  408                (20%)
+
+Research and development                                        644               1,525                 (881)               (58%)
+
+Total operating expenses                                      3,125               3,598                 (473)               (13%)
+
+                                                                                                                                 
+
+Loss from operations                                         (3,031)             (3,562)                 531                (15%)
+
+Other income (expenses)                                                                                                          
+
+Interest expense, net                                            (3)                (46)                  43                (93%)
+
+Change in fair value of Derivative Liability                      –                  27                  (27)              (100%)
+
+Other income (expenses)                                          (3)                430                 (433)              (101%)
+
+Total other expenses                                             (6)                411                 (417)              (101%)
+
+                                                                                                                                 
+
+Loss before income taxes                                     (3,037)             (3,151)                 114                 (4%)
+
+Provision for income taxes                                        –                   –                    –                   – 
+
+Net loss                                         $           (3,037) $           (3,151) $               114                 (4%)
+
+ 
+
+ 
+
+ 
+
+                                                                   23                                                                   
+
+ 
+
+ 
+
+Revenue
+
+ 
+
+Revenue was approximately $105 thousand for the three months ended March 31, 2024, compared to $89 thousand for the three months ended March 31, 2023, representing an increase of 18%. The increase was principally driven by the new licensing revenue and offset by lower merchant processing revenue.
+
+ 
+
+Cost of Revenue
+
+ 
+
+Cost of revenue was approximately $11 thousand for the three months ended March 31, 2024, compared to $53 thousand for the three months ended March 31, 2023, representing a decrease of 79%. The decrease was principally driven by lower transaction volume, and the licensing revenue has no corresponding costs of revenue.
+
+ 
+
+General and Administrative Expenses
+
+ 
+
+General and administrative expenses were approximately $2.5 million for the three months ended March 31, 2024, compared to $2.1 million or the three months ended March 31, 2023, representing an increase of $408 thousand or 20%. The increase was primarily due to higher professional fees.
+
+ 
+
+Research and Development Expenses
+
+ 
+
+Research and development expenses were approximately $0.6 million for the three months ended March 31, 2024, compared to $1.5 million for the three months ended March 31, 2023, representing a decrease of $881 thousand or 58%. The decrease was primarily due to lower stock based compensation of $588 thousand, lower payroll and benefit of $605 thousand, and offset by higher outsourced development consultants of $294 thousand.
+
+ 
+
+Interest Expense, net
+
+ 
+
+Interest expense, net was approximately $3 thousand for the three months ended March 31, 2024, compared to $46 thousand for the year ended March 31, 2023, representing a decrease of 93%. The decrease was primarily due to the Company's repayment of forbearance loan and interest in February 2023.
+
+ 
+
+Change in Fair Value of Derivative Liability
+
+ 
+
+Change in fair value of derivative liability was approximately $0 for the three months ended March 31, 2024, compared to $27 thousand for the year ended March 31, 2023, representing a decrease of 100%. The decrease was primarily due to the Company's settlement of the notes and warrants that contained the embedded derivative liabilities in April 2023.
+
+ 
+
+Other income (expenses)
+
+ 
+
+Other income was approximately $3 thousand for the three months ended March 31, 2024, compared to approximately $430 thousand for the three months ended March 31, 2023. The decrease was primarily driven by $430 thousand gain from cancellation of stock repurchase liabilities during the three months ended March 31, 2023.
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   24                                                                   
+
+ 
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+In March 2024, AppTech Payments Corp. (the “Company”) entered into an underwriting agreement (the “Underwriting Agreement”) with EF Hutton LLC, as representative of the several underwriters (the “Underwriters”), relating to the public offering of 2,000,000 shares of common stock, par value $0.001 per share (“Common Stock”), at a purchase price per share to the public of $1.00 (the “Offering Price”). Pursuant to the Underwriting Agreement, the Company granted the Underwriters a 45-day option to purchase up to an additional 300,000 shares of Common Stock at the Offering Price, less any underwriting discounts and commissions, for use solely in covering any over-allotments.
+
+ 
+
+In August 2023, the Company entered into a sales agreement under which the Company may offer and sell shares of its common stock having an aggregate offering price of up to $18.0 million through “at-the-market” offerings (ATM), pursuant to its shelf registration statement on Form S-3 on file with the SEC. During the three months ended March 31, 2024, the Company sold 423,180 shares of common stock under the ATM, for which the Company received net proceeds of $701 thousand, after deducting commissions, fees and expenses. As of March 31, 2024, the Company has sold a total of 898,780 shares of common stock under the ATM, for which the Company received net proceeds of $2.1 million, after deducting commissions, fees and expenses.
+
+ 
+
+As of March 31, 2024, approximately $61.9 million remains available under the shelf registration statement Form S-3 (File No. 333-265526) previously filed and declared effective by the Securities and Exchange Commission (SEC) on July 15, 2022. SEC regulations limit the amount of funds we can raise during any 12-month period pursuant to our effective shelf registration statement on Form S-3. We are currently limited by the Baby Shelf Rule as of the filing of this Annual Report, until such time as our public float exceeds $75 million. However, factors such as stock price, volatility, trading volume, market conditions, demand and regulatory requirements may adversely affect the Company’s ability to raise capital in an efficient manner.
+
+ 
+
+As of March 31, 2024, we had cash and cash equivalents of approximately $1.6 million, working capital of negative $2.3 million, and stockholders’ equity of approximately $4.1 million.
+
+ 
+
+During the three months ended March 31, 2024, we met our immediate cash requirements through existing cash balances, public offerings, and “at-the-market” offerings (ATM). See Note 8 – Stockholders’ Equity.
+
+ 
+
+Additionally, we used equity and equity-linked instruments to pay for services and compensation.
+
+ 
+
+ 
+
+                                                                   26                                                                   
+
+ 
+
+ 
+
+Management's Plan to Address Going Concern Considerations
+
+ 
+
+The Company has experienced recurring operating losses, primarily due to limited revenues. The Company's current financial conditions and recurring losses raise substantial doubt about its ability to continue as a going concern.
+
+ 
+
+In addition to an open S-3 filed with the SEC, management is actively pursuing additional funding options and is confident that two of its revenue streams will begin generating revenue in the following twelve months from the issuance date of these financial statements.
+
+ 
+
+Management intends to maintain adequate working capital and adhere to prudent financial forecasting.
+
+ 
+
+Cash Flows
+
+ 
+
+The following table presents a summary of cash flows from operating, investing and financing activities for the following comparative periods (in thousands).
+
+ 
+
+Three Months Ended March 31, 2024 and 2023
+
+ 
+
+                                                                                                   Three Months Ended March 31,        
+
+                                                                                                    2024                 2023         
+
+                                                                                                                                      
+
+Net cash used in operating activities                                                        $           (2,164) $           (3,050)
+
+Net cash provided by (used in) investing activities                                          $                –  $                – 
+
+Net cash provided by financing activities                                                    $            2,436  $            2,982 
+
+ 
+
+Cash Flow from Operating Activities
+
+ 
+
+Net cash used in operating activities during the year ended March 31, 2024, was approximately $2.2 million, which is comprised of (i) our net loss of $3.0 million, adjusted for non-cash expenses totaling $0.8 million (which includes adjustments for equity-based compensation, depreciation and amortization), and (ii) changes in operating assets and liabilities of approximately $39 thousand.
+
+ 
+
+Net cash used in operating activities during the three months ended March 31, 2023 was approximately $3.1 million, which is comprised of (i) our net loss of $3.2 million, adjusted for non-cash expenses totaling $0.9 million (which includes adjustments for equity-based compensation, depreciation and amortization), and (ii) increased by changes in operating assets and liabilities of approximately $0.8 million.
+
+ 
+
+Cash Flow from Investing Activities
+
+ 
+
+There no cash used by investing activities during the three months ended March 31, 2024 and 2023.
+
+ 
+
+Cash Flow from Financing Activities
+
+ 
+
+During the three months ended March 31, 2024, net cash provided by financing activities was approximately $2.4 million. This amount primarily consists of $1.8 million in net proceeds from the issuance of common shares in our public offering, and $0.7 million from the At-The-Market (ATM) offering.
+
+ 
+
+Net cash provided by financing activities during the year ended March 31, 2023 was approximately $3.0 million, which principally consists of net proceeds of $4.5 million through the issuance of common shares and warrants in our public offering.
+
+ 
+
+ 
+
+ 
+
+                                                                   27                                                                   
+
+ 
+
+ 
+
+Critical Accounting Policies and Estimates
+
+ 
+
+Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses. Significant estimates include those related to the valuation of goodwill impairment and intangible assets, and equity-based compensation. These estimates are based on historical experience and assumptions believed to be reasonable under current conditions. It’s important to note that actual results could differ from these estimates.
+
+ 
+
+Critical accounting policies are those that we consider the most critical to understanding our financial condition and results of operations. The accounting policies we believe to be most critical to understanding our financial condition and results of operations are discussed below. As of March 31, 2024, there have been no significant changes to our critical accounting estimates nor to our recently issued accounting pronouncements, except as described in Note 2 to our consolidated financial statements.
+
+ 
+
+Equity-Based Compensation: We estimate the fair value of stock options granted using the Black-Scholes option pricing model, which requires input of subjective assumptions. The model inputs include expected stock price volatility, expected term, risk-free interest rate, and dividend yield. The assumptions about future stock price volatility and the option’s expected term involve significant judgments based on historical data and future expectations. The reported equity-based compensation expense is sensitive to changes in the volatility assumption. An increase in expected volatility could materially impact the amount of compensation expense recognized.
+
+ 
+
+Business Combination
+
+ 
+
+Recognition and Measurement: Companies must recognize the assets acquired, liabilities assumed, and any non-controlling interest in the acquiree at their fair value on the acquisition date.
+
+ 
+
+Goodwill: Arises when the consideration transferred in a business combination exceeds the fair value of the net identifiable assets acquired. It represents future economic benefits arising from assets that are not individually identified and separately recognized.
+
+ 
+
+Intangible Assets: Identifiable intangible assets, distinguishable either by separability from the acquired entity or through contractual or other legal rights, are valued and reported independently from goodwill. These assets include, but are not limited to, trademarks, customer relationships, proprietary technology, and patents. The fair value of these intangible assets is determined at the time of acquisition and is subject to subsequent impairment tests.
+
+ 
+
+The fair value of identifiable intangible assets is estimated using income, market, or cost approach methods. The income approach, often applied through the discounted cash flow (DCF) method, involves projecting future cash flows attributable to the asset and discounting them to present value using a discount rate that reflects the risk associated with those cash flows. The estimation of fair value is inherently uncertain due to the assumptions and judgments involved in projecting future cash flows, determining appropriate discount rates, and estimating the useful life of each asset.
+
+ 
+
+Over the reporting period, changes in market conditions, technological advancements, or strategic shifts in the business may necessitate revisions to the assumptions used in the valuation of identifiable intangible assets. Management closely monitors these factors and will adjust the valuation of intangible assets as appropriate, reflecting the impact of any such changes in our financial statements.
+
+ 
+
+Contingent Consideration: Any contingent consideration, such as earn-outs, is measured at fair value at the acquisition date and can be adjusted in subsequent periods if the fair value changes.
+
+ 
+
+ 
+
+ 
+
+                                                                   28                                                                   
+
+ 
+
+ 
+
+Goodwill Impairment 
+
+ 
+
+Goodwill Impairment Testing: The process requires an annual test for impairment of goodwill, and more frequent testing if certain indicators suggest that the goodwill might be impaired. This assessment involves comparing the carrying amount of a reporting unit, including goodwill, to its fair value. Key estimates in determining fair value include: a) Cash Flow Projections: Utilizing the DCF method, management estimates future cash flows based on current performance, business plans, and expected market growth, introducing judgment due to forecasting uncertainties. b) Discount Rate: The discount rate, reflecting the WACC and adjusted for unit-specific risks, is crucial for present value calculations, with changes significantly affecting fair value estimations; c) Long-term Growth Rates: Assumptions on sustainable growth rates impact the terminal value in the DCF model, thus influencing the overall fair value of the reporting unit.
+
+ 
+
+Impairment Loss Calculation: The impairment loss, representing the excess of the carrying amount of goodwill over its implied fair value, is highly sensitive to the estimates and assumptions used in the fair value calculation. Small changes in cash flow projections, discount rates, or long-term growth rates can result in significant adjustments to the impairment loss recognized in the income statement. Given the dynamic nature of business conditions, technological advancements, and market competition, estimates used in goodwill impairment testing may change from one period to another. Management is tasked with regularly reviewing and updating these estimates to reflect the latest available information and market conditions.
+
+ 
+
+Once an impairment loss is recognized, it is not reversible in subsequent periods. This finality places additional importance on the accuracy and reasonableness of the underlying estimates and assumptions.
+
+ 
+
+Impairment of Long-Lived Assets
+
+ 
+
+Our company evaluates long-lived assets, including capitalized software, for impairment when there are indicators that the carrying amount may not be recoverable. This process involves comparing the carrying amount to the expected future undiscounted cash flows from the asset. If the carrying amount exceeds the expected cash flows, an impairment charge is recognized to reduce the asset’s carrying amount to its fair value.
+
+ 
+
+Indicators of impairment include significant underperformance against projections, market or economic downturns, and technological obsolescence. The fair value is determined using market data or discounted cash flow models. An impairment loss is recorded as an expense immediately.
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+As of March 31, 2024, there have been no significant changes to our recently issued accounting pronouncements, except as described in Note 2 to our consolidated financial statements.
+
+ 
+
+Off-Balance Sheet Arrangements
+
+ 
+
+We do not have any relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, that would have been established to facilitate off-balance sheet arrangements (as that term is defined in Item 303(a)(4)(ii) of Regulation S-K) or other contractually narrow or limited purposes. As such, we are not exposed to any financing, liquidity, market or credit risk that could arise if we had engaged in those types of relationships. We enter into guarantees in the ordinary course of business related to the guarantee of our own performance.
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+ 
+
+Because we are allowed to comply with the disclosure obligations applicable to a “smaller reporting company,” as defined by Rule 12b-2 of the Exchange Act, with respect to this Form 10-Q, we are not required to provide the information required by this item.
+
+ 
+
+ 
+
+ 
+
+                                                                   29                                                                   
+
+ 
+
+ 
+
+Item 4. Controls and Procedures.
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+Under the supervision and with the participation of our management, including the Chief Executive Officer and the Chief Financial Officer, we evaluated the effectiveness of the design and operation of our “disclosure controls and procedures” (as defined in Rule 13a-15(e) under the Exchange Act) as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and the Chief Financial Officer concluded that our disclosure controls and procedures were not effective as of March 31, 2024.
+
+ 
+
+Changes in Internal Control over Financial Reporting
+
+ 
+
+There have not been any changes in our internal control over financial reporting during the three months ended March 31, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+ 
+
+Limitations on the Effectiveness of Controls
+
+ 
+
+Control systems, no matter how well conceived and operated, are designed to provide a reasonable, but not an absolute, level of assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. Because of the inherent limitations in any control system, misstatements due to error or fraud may occur and not be detected.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   30                                                                   
+
+ 
+
+ 
+
+PART II - Other Information
+
+ 
+
+Item 1. Legal Proceedings.
+
+ 
+
+NCR Lawsuit
+
+ 
+
+On November 30, 2022, AppTech filed a complaint against NCR Payment Solutions, LLC in the United States District Court for the Southern District of California, alleging Breach of Contract, Breach of Implied Covenant of Good Faith and Fair Dealing, Specific Performance and Accounting. NCR filed a motion to dismiss, motion to transfer venue and motion to compel arbitration.
+
+ 
+
+In March 2024, the Company and NCR reached a Settlement and Release Agreement ("Settlement Agreement"). Both parties affirm that this agreement is solely for settlement purposes and does not imply any admission of liability. Each party expressly denies any liability, and nothing within this Settlement Agreement should be interpreted as an admission of liability by either party. No further other actions required by either party.
+
+ 
+
+Infinios Financial Services (formerly NEC Payments B.S.C.)
+
+ 
+
+On October 1, 2020, the Company entered into a strategic partnership with Infinios Financial Services BSC (formally NEC Payments B.S.C) (“Infinios”) through a series of agreements, which included the following: (a) Subscription License and Services Agreement; (b) Digital Banking Platform Operating Agreement; (c) Subscription License Order Form; and (d) Registration Rights Agreement (collectively, the “Agreements”).
+
+ 
+
+On February 11, 2021, the Company entered into an amended and restated Subscription License and Services Agreement, Digital Banking Platform Operating Agreement and Subscription License Order Form with Infinios (collectively, the “Restated Agreements”). The gross total fees due under the Restated Agreements are $2.2 million excluding pass-through costs associated with infrastructure hosting fees.
+
+ 
+
+In the years of 2021 and 2022, the Company paid Infinios $1.8 million and issued to an Infinios’ affiliate about 1,895,948 shares of common stock of the Company.
+
+ 
+
+On May 4, 2023, unsatisfied with Infinios’ performance of its contractual obligations, the Company notified Infinios of its intent to terminate its relationship and commenced a good-faith negotiation with Infinios regarding the termination terms.
+
+ 
+
+In June 2023, Infinios turned off all its services, and the Company wrote off the $6.1 million net capitalized asset as it was deemed to be impaired.
+
+ 
+
+On or about October 5, 2023, Infinios filed a demand for arbitration and a Statement of Claim before the International Centre for Dispute Resolution, Case No. 01-23-0004-3881 (the “Arbitration Claim”). In the Arbitration Claim, Infinios asserts claims for breach of contract, quantum meruit, and account stated. Infinios alleges damages of $598,525, and asserts a demand for the grant and registration of shares.
+
+ 
+
+On November 13, 2023, the Company filed an Answer to the Arbitration Claim, along with Counterclaims for breach of contract, fraudulent inducement, unjust enrichment, breach of fiduciary duty, and breach of the covenant of good faith and fair dealing.
+
+ 
+
+At a Preliminary Hearing held on February 22, 2024, hearing dates of August 12 and 13, 2024, August 19 and 20, 2024, and October 21 and 22, 2024 were scheduled.
+
+ 
+
+While the Company will continue to pursue consensual means of resolving this dispute, it intends to vigorously defend the claims in the Arbitration Claim, and prosecute the causes of action in its Counterclaims.
+
+ 
+
+ 
+
+ 
+
+                                                                   31                                                                   
+
+ 
+
+ 
+
+Former Employees
+
+ 
+
+In May 2024, the Company received a notification of a lawsuit filed by three former employees seeking severance payments. Upon assessing the merits of the case, the Company has determined that the likelihood of loss is less than likely, as the employees failed to fulfill certain contractual obligations. The Company remains committed to vigorously defending its position and will continue to closely monitor developments in this case.
+
+ 
+
+Item 1A. Risk Factors.
+
+ 
+
+As a smaller reporting company, as defined in Rule 12b-2 of the Exchange Act, we are not required to provide the information required by this Item.
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+ 
+
+As previously disclosed on a Form 10-K filed with the Securities and Exchange Commission on April 1, 2024, the Company completed its acquisition of Alliance Partners on October 26, 2023. On October 31, 2023, the Company issued 1,000,000 shares of common stock valued at $2.44 per share to an entity owned by the Seller in exchange for the cancellation of long-term debt of FinZeo. On May 2, 2024, the Board approved the cancellation and reissuance of these shares to accommodate an internal request by the Seller, with no impact on equity or the value of the asset.
+
+ 
+
+Item 3. Defaults Upon Senior Securities.
+
+ 
+
+Not applicable.
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+ 
+
+Not applicable.
+
+ 
+
+Item 5. Other Information
+
+ 
+
+During the quarter ended March 31, 2024, no director or officer adopted or terminated any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as each term is defined in Item 408(a) of Regulation S-K.
+
+ 
+
+Item 6. Exhibits
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   32                                                                   
+
+ 
+
+ 
+
+EXHIBIT INDEX
+
+ 
+
+ Exhibit Number                                                       Exhibit Title
+
+                   
+
+2.1               Amendment to the Membership Interest Purchase Agreement, dated December 28, 2023, by and between AppTech Payments
+
+                   Corp., Alliance Global Partners, LLC and Chris Leyva (filed as Exhibit 2.1 to Form 8-K as filed on May 3, 2024 and
+
+                   incorporated herein by
+
+                   reference)
+
+                   
+
+2.2               Amendment to the Membership Interest Purchase Agreement, dated January 31, 2024, by and between AppTech Payments
+
+                   Corp., Alliance Global Partners, LLC and Chris Leyva (filed as Exhibit 2.2 to Form 8-K as filed on May 3, 2024 and
+
+                   incorporated herein by
+
+                   reference)
+
+                   
+
+2.3               Amendment to the Membership Interest Purchase Agreement, dated March 1, 2024, by and between AppTech Payments Corp.,
+
+                   Alliance Global Partners, LLC and Chris Leyva (filed as Exhibit 2.3 to Form 8-K as filed on May 3, 2024 and
+
+                   incorporated herein by
+
+                   reference)
+
+                   
+
+2.4               Amendment to the Membership Interest Purchase Agreement, dated April 29, 2024, by and between AppTech Payments
+
+                   Corp., Alliance Global Partners, LLC and Chris Leyva (filed as Exhibit 2.4 to Form 8-K as filed on May 3, 2024 and
+
+                   incorporated herein by
+
+                   reference)
+
+                   
+
+31.1              Certification of the Chief Executive Officer under Section 302 of the Sarbanes-Oxley Act of 2002 dated May 14, 2024
+
+                   
+
+31.2              Certification of the Chief Financial Officer under Section 302 of the Sarbanes-Oxley Act of 2002 dated May 14, 2024
+
+                   
+
+32.1              Certification of the Chief Executive Officer under Section 906 of the Sarbanes-Oxley Act of 2002 dated May 14, 2024
+
+                   
+
+32.2              Certification of the Chief Financial Officer under Section 906 of the Sarbanes-Oxley Act of 2002 dated May 14, 2024
+
+                   
+
+101.INS           Inline XBRL Instance Document
+
+                   
+
+101.SCH           Inline XBRL Schema Document
+
+                   
+
+101.CAL           Inline XBRL Calculation Linkbase Document
+
+                   
+
+101.DEF           Inline XBRL Definition Linkbase Document
+
+                   
+
+101.LAB           Inline XBRL Label Linkbase Document
+
+                   
+
+101.PRE           Inline XBRL Presentation Linkbase Document
+
+                   
+
+104.0             Cover Page Interactive Data File (Embedded within the Inline XBRL document)
+
+ 
+
+ 
+
+                                                                   33                                                                   
+
+ 
+
+ 
+
+Signatures
+
+ 
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+                                                                    AppTech Payments Corp.
+
+                                                                              
+
+Date: May 14, 2024                                                  By:      /s/ Luke D’Angelo
+
+                                                                    Name:    Luke D’Angelo
+
+                                                                    Title:   Chief Executive Officer
+
+                                                                              
+
+Date: May 14, 2024                                                  By:      /s/ Meilin Yu
+
+                                                                             Meilin Yu
+
+                                                                             Chief Financial Officer and Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                   34

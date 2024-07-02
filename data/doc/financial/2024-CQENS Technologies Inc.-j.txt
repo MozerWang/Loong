@@ -1,0 +1,1291 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+
+ 
+
+FORM 10-Q
+
+ 
+
+(Mark One)
+
+ 
+
+☒         QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+           
+
+For the quarterly period ended March 31, 2024
+
+ 
+
+or
+
+ 
+
+☐         TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+           
+
+For the transition period from ___________ to _____________
+
+           
+
+Commission file number 000-55470
+
+ 
+
+CQENS Technologies Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                             Delaware                                                           27-1521407
+
+                 (State or other jurisdiction of                                             (I.R.S. Employer
+
+                  incorporation or organization)                                           Identification No.)
+
+ 
+
+              5550 Nicollet Avenue, Minneapolis, MN                                               55419
+
+             (Address of principal executive offices)                                           (Zip Code)
+
+ 
+
+(612) 812-2037
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+not applicable
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+            Title of each class                 Trading Symbol(s)                Name of each exchange on which registered
+
+                   None                           not applicable                               not applicable
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer ☐                                           Accelerated filer ☐
+
+Non-accelerated filer ☒                                             Smaller reporting company ☒
+
+Emerging growth company ☐                                            
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+
+ 
+
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date. 26,228,383 shares of common stock are issued and outstanding as of May 13, 2024.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                          Page No.
+
+                                                    PART 1 – FINANCIAL INFORMATION
+
+                                                                                                                               
+
+Item 1.        Financial Statements (Unaudited).                                                                              2
+
+Item 2.        Management Discussion and Analysis of Financial Condition and Results of Operations.                          10
+
+Item 3.        Quantitative and Qualitative Disclosures About Market Risk.                                                   14
+
+Item 4.        Controls and Procedures.                                                                                      14
+
+                                                                                                                               
+
+                                                     PART II – OTHER INFORMATION
+
+                                                                                                                               
+
+Item 1.        Legal Proceedings.                                                                                            15
+
+Item 1A.       Risk Factors.                                                                                                 15
+
+Item 2.        Unregistered Sales of Equity Securities and Use of Proceeds.                                                  15
+
+Item 3.        Defaults upon Senior Securities.                                                                              15
+
+Item 4.        Mine Safety Disclosures.                                                                                      15
+
+Item 5.        Other Information.                                                                                            15
+
+Item 6.        Exhibits.                                                                                                     16
+
+ 
+
+ 
+
+ 
+
+ 
+
+CAUTIONARY STATEMENTS REGARDING FORWARD-LOOKING INFORMATION
+
+ 
+
+This report includes forward-looking statements that relate to future events or our future financial performance and involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to differ materially from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. Words such as, but not limited to, “believe,” “expect,” “anticipate,” “estimate,” “intend,” “plan,” “targets,” “likely,” “aim,” “will,” “would,” “could,” and similar expressions or phrases identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and future events and financial trends that we believe may affect our financial condition, results of operation, business strategy and financial needs. Forward-looking statements include, but are not limited to, statements about:
+
+ 
+
+          ●    financial risks, including:
+
+ 
+
+               ●    our history of losses, lack of revenues and insufficient working capital;
+
+               ●    our ability to continue as a going concern;
+
+               ●    our ability to raise capital;
+
+ 
+
+          ●    business risks, including:
+
+ 
+
+               ●    our limited operating history and lack of products;
+
+               ●    the lack of operating history of Leap Technology LLC;
+
+               ●    the joint venture with the Barker Group/Firebird Manufactures remains to be finalized;
+
+               ●    potential conflicts of interest of our management;
+
+               ●    reliance on third parties;
+
+               ●    potential FDA oversight;
+
+               ●    lack of marketing and distributing experience;
+
+               ●    possible inability to establish and maintain strategic partnerships;
+
+               ●    possible dependence on licensing or collaboration agreements;
+
+ 
+
+          ●    risks relating to our common stock, including:
+
+ 
+
+               ●    the lack of a public market for our common stock; and
+
+               ●    possible impact of Delaware’s anti-takeover statutes on our shareholders.
+
+ 
+
+You should read thoroughly this report and the documents that we refer to herein with the understanding that our actual future results may be materially different from and/or worse than what we expect. We qualify all of our forward-looking statements by these cautionary statements, Part 1. Item 1A. Risk Factors appearing in our Annual Report on Form 10-K for the year ended December 31, 2023 as filed on April 15, 2024 (the “2023 10-K”) and our other filings with the Securities and Exchange Commission. New risk factors emerge from time to time and it is not possible for our management to predict all risk factors, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. Except for our ongoing obligations to disclose material information under the Federal securities laws, we undertake no obligation to release publicly any revisions to any forward-looking statements, to report events or to report the occurrence of unanticipated events. These forward-looking statements speak only as of the date of this report, and you should not rely on these statements without also considering the risks and uncertainties associated with these statements and our business.
+
+ 
+
+OTHER PERTINENT INFORMATION
+
+ 
+
+Unless specifically set forth to the contrary, when used in this report the terms “CQENS,” “we,” “our,” “us,” and similar terms refer to CQENS Technologies Inc., a Delaware corporation. In addition, “first quarter of 2024” refers to the three months ended March 31, 2024, “first quarter of 2023” refers to the three months ended March 31, 2023, “2024” refers to the year ended December 31, 2024, and “2023” refers to the year ended December 31, 2023. The information which appears on our web site at www.cqens.com is not part of this report.
+
+ 
+
+                                                                   1
+
+ 
+
+ 
+
+PART 1 – FINANCIAL INFORMATION
+
+ 
+
+Item 1. Consolidated Financial Statements.
+
+ 
+
+CQENS Technologies, Inc.
+
+Consolidated Balance Sheets
+
+ 
+
+                                                                                       March 31, 2024           December 31, 2023    
+
+                                                                                         (Unaudited)                               
+
+ASSETS                                                                                                                             
+
+Current Assets                                                                                                                     
+
+Cash and cash equivalents                                                          $              350,617   $              350,565 
+
+Prepaid expenses                                                                                  336,196                   43,891 
+
+Total Current Assets                                                                              686,813                  394,456 
+
+Equipment, net                                                                                    152,537                  157,574 
+
+Intellectual property, net                                                                      1,180,960                1,144,024 
+
+Right-of-use asset - lease, net                                                                    65,259                   79,800 
+
+Leasehold improvement, net                                                                          6,799                    8,368 
+
+Prepaid expenses - noncurrent portion                                                             526,253                  498,408 
+
+TOTAL ASSETS                                                                       $            2,618,621   $            2,282,630 
+
+LIABILITIES & STOCKHOLDERS’ EQUITY                                                                                                 
+
+LIABILITIES                                                                                                                        
+
+Current Liabilities                                                                                                                
+
+Accounts payable                                                                   $              207,970   $              104,179 
+
+Accrued expenses                                                                                  370,839                  248,438 
+
+Related party loan                                                                              1,006,284                  904,247 
+
+Investor deposits                                                                                 250,000                        - 
+
+Current portion of lease liability                                                                 61,228                   59,324 
+
+Total Current Liabilities                                                                       1,896,321                1,316,188 
+
+Lease liability, net of current portion                                                             4,031                   20,476 
+
+TOTAL LIABILITIES                                                                               1,900,352                1,336,664 
+
+STOCKHOLDERS’ EQUITY                                                                                                               
+
+Preferred Stock: $0.0001 par value: 10,000,000 shares authorized no shares                              -                        - 
+
+ issued and outstanding at March 31, 2024 and December 31,
+
+ 2023
+
+Common Stock: $0.0001 par value; 200,000,000 shares authorized: 26,202,670                          2,620                    2,618 
+
+ shares issued and outstanding at March 31, 2024 and 26,174,520 issued and
+
+ outstanding at December 31,
+
+ 2023
+
+Additional paid-in capital                                                                     25,567,373               24,799,273 
+
+Non-controlling interests                                                                            (635)                     514 
+
+Accumulated other comprehensive loss                                                                  (17)                       - 
+
+Accumulated deficit                                                                           (24,851,072)             (23,856,439)
+
+TOTAL STOCKHOLDERS’ EQUITY                                                                        718,269                  945,966 
+
+TOTAL LIABILITIES & STOCKHOLDERS’ EQUITY                                           $            2,618,621   $            2,282,630 
+
+ 
+
+See accompanying notes to unaudited consolidated financial statements
+
+ 
+
+                                                                   2
+
+ 
+
+ 
+
+CQENS Technologies, Inc.
+
+Consolidated Statements of Operations and Comprehensive Loss
+
+(Unaudited)
+
+ 
+
+                                                                                              Three months ended March 31,            
+
+                                                                                            2024                     2023          
+
+Operating Expenses                                                                                                                 
+
+General and administrative                                                         $              288,829   $              684,523 
+
+Research and development                                                                          390,432                  337,072 
+
+Professional fees                                                                                 316,657                  161,351 
+
+Total Operating Expenses                                                                          995,918                1,182,946 
+
+Total Operating Loss                                                                             (995,918)              (1,182,946)
+
+Other Income (Expense)                                                                                153                   (3,361)
+
+Net Loss                                                                                         (995,765)              (1,186,307)
+
+Net loss attributable to non-controlling interests                                                 (1,132)                       - 
+
+Net Loss attributable to CQENS Technologies, Inc.                                  $             (994,633)  $           (1,186,307)
+
+                                                                                                                                   
+
+Basic and diluted loss per common share                                            $                (0.04)  $                (0.05)
+
+Basic and diluted weighted average shares outstanding                                          26,184,670               26,069,645 
+
+                                                                                                                                   
+
+Comprehensive Loss:                                                                                                                
+
+Change in foreign currency translation adjustments                                                    (34)                       - 
+
+Comprehensive Loss                                                                               (995,799)              (1,186,307)
+
+Comprehensive loss attributable to non-controlling interests                                          (17)                       - 
+
+Comprehensive loss attributable to CQENS Technologies, Inc.                        $             (995,782)  $           (1,186,307)
+
+ 
+
+See accompanying notes to unaudited consolidated financial statements
+
+ 
+
+                                                                   3
+
+ 
+
+ 
+
+CQENS Technologies, Inc
+
+Consolidated Statements of Changes in Stockholders’ Equity
+
+For the three months ended March 31, 2024 and 2023
+
+(Unaudited)
+
+ 
+
+                           Common Stock                                                                                                     
+
+                       Number of      $0.0001     Additional      Accumulated        Accumulated        Total     Non-controll     Total   
+
+                         Shares         Par         Paid in         Deficit             Other                         ing
+
+                                       Value        Capital                         Comprehensive                   Interest
+
+                                                                                         Loss
+
+                                                                                           
+
+Balance, December       26,174,520  $           $  24,799,273  $    (23,856,439) $                -  $  945,452  $         514  $  945,966 
+
+ 31,                                     2,618
+
+ 2023
+
+                                                                                                                                           
+
+Stock options                    -           -        205,102                 -                   -     205,102              -  $  205,102 
+
+ expense
+
+                                                                                                                                           
+
+Common stock issued         15,650           1        312,999                 -                   -     313,000              -  $  313,000 
+
+ for
+
+ cash
+
+                                                                                                                                           
+
+Common stock issued         12,500           1        249,999                 -                   -     250,000              -  $  250,000 
+
+ for
+
+ services
+
+                                                                                                                                           
+
+Other comprehensive              -           -              -                 -                 (17)        (17)           (17) $      (34)
+
+ loss
+
+                                                                                                                                           
+
+Net loss                         -           -              -          (994,633)                  -    (994,633)        (1,132) $ (995,765)
+
+                                                                                                                                           
+
+Balance March 31,       26,202,670  $    2,620  $  25,567,373  $    (24,851,072) $              (17) $  718,904  $        (635) $  718,269 
+
+ 2024
+
+ 
+
+                     Common Stock                                                                                                             
+
+                  Number of      $0.0001     Additional       Accumulated     Accumulated Other      Total       Non-controll      Total    
+
+                    Shares         Par         Paid in          Deficit          Comprehensive                       ing
+
+                                  Value        Capital                               Loss                          Interest
+
+                                                                                       
+
+Balance,           26,065,595  $           $   21,261,500  $    (19,553,696) $                 -  $  1,710,411  $           -  $  1,710,411 
+
+ December 31,                       2,607
+
+ 2022
+
+                                                                                                                                            
+
+Stock options               -           -         384,441                 -                    -       384,441              -  $    384,441 
+
+ expense
+
+                                                                                                                                            
+
+Common stock            9,000           1         179,999                 -                    -       180,000              -  $    180,000 
+
+ issued for
+
+ cash
+
+                                                                                                                                            
+
+Net loss                    -           -               -        (1,186,307)                   -    (1,186,307)             -  $ (1,186,307)
+
+                                                                                                                                            
+
+Balance,           26,074,595  $    2,608  $   21,825,940  $    (20,740,003) $                 -  $  1,088,545  $           -  $  1,088,545 
+
+ March 31,
+
+ 2023
+
+ 
+
+See accompanying notes to unaudited consolidated financial statements
+
+ 
+
+                                                                   4
+
+ 
+
+ 
+
+CQENS Technologies Inc.
+
+Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+ 
+
+                                                                                              Three Months Ended March 31,            
+
+                                                                                            2024                      2023           
+
+                                                                                                                                   
+
+Cash flows from operating activities                                                                                               
+
+Net loss                                                                           $             (995,765)  $           (1,186,307)
+
+Adjustments to reconcile net loss to net cash used in operations:                                                                  
+
+Amortization expense                                                                               29,137                   23,729 
+
+Lease expense                                                                                      14,541                   12,799 
+
+Depreciation expense                                                                                5,037                    5,037 
+
+Stock options expense                                                                             205,102                  384,441 
+
+Common stock issued for services                                                                  250,000                        - 
+
+Changes in operating assets and liabilities:                                                                                       
+
+Prepaid expenses                                                                                 (292,305)                  80,612 
+
+Prepaid expenses - noncurrent portion                                                             (27,845)                       - 
+
+Accounts payable                                                                                  103,791                  (92,174)
+
+Investor deposits                                                                                 250,000                        - 
+
+Lease liability                                                                                   (14,541)                 (12,799)
+
+Accrued expenses                                                                                  122,401                   90,686 
+
+Net cash used in operating activities                                                            (350,447)                (693,976)
+
+                                                                                                                                   
+
+Cash flows from investing activities                                                                                               
+
+Additions to intellectual property                                                                (64,504)                 (57,484)
+
+Net cash used in investing activities                                                             (64,504)                 (57,484)
+
+                                                                                                                                   
+
+Cash flows from financing activities                                                                                               
+
+Proceeds from issuance of common stock                                                            313,000                  180,000 
+
+Borrowing on debt from related party                                                              102,037                  450,000 
+
+Net cash provided by financing activities                                                         415,037                  630,000 
+
+                                                                                                                                   
+
+Effect of Exchange Rate Changes on Cash                                                               (34)                       - 
+
+                                                                                                                                   
+
+Net change in cash and cash equivalents                                                                52                 (121,460)
+
+Cash and cash equivalents, beginning of period                                                    350,565                  219,781 
+
+Cash and cash equivalents, end of period                                           $              350,617   $               98,321 
+
+ 
+
+See accompanying notes to unaudited consolidated financial statements
+
+ 
+
+                                                                   5
+
+ 
+
+ 
+
+CQENS Technologies, Inc.
+
+Notes to Consolidated Financial Statements
+
+March 31, 2024
+
+ 
+
+NOTE 1 - NATURE OF BUSINESS AND SUMMARY OF BASIS OF PRESENTATION
+
+ 
+
+Nature of Business
+
+ 
+
+CQENS Technologies, Inc. (“we”, “our”, the “Company”, “CQENS”) is a technology company with a proprietary method of heating plant-based consumable formulations that produce an aerosol that lead to the effective and efficient inhalation of the plant’s constituents. This is accomplished at a high temperature but without the accompanying constituents of combustion. Our system of heating is a high temperature, non-combustion system. Our Heat-not-Burn Tobacco Product (HTP) system is a patent-pending method of heating plant-based consumables for inhalation that is superior to other methods of ingestion, smoking, vaping, swallowing or via topical application.
+
+ 
+
+On December 20, 2023 we entered into a Shareholder Agreement with Asahi Corporation to establish CQENS Electronics (Hong Kong) Limited (“CEL”), a Hong Kong company, for design, development and manufacture of our heat-not-burn device (“Device”). CQENS acquired 50% membership of CEL and holds majority of the board seats including the chair. Pursuant to the establishment of CEL, CQENS entered into an exclusive, worldwide License Agreement with CEL for designing and manufacturing a consumer device consistent with our IP. Although the activities of CEL in the first quarter of 2024 are minimal, CEL is included in our consolidated financial statements.
+
+ 
+
+Our business model is further dependent upon our ability to enter into additional strategic partnerships in the future, including alliances or joint ventures with consumer product companies, to enhance and accelerate the development and commercialization of our proposed products. We will be dependent upon third party marketing and distribution companies. We believe that our business opportunities are international in nature and include potential partnerships in the UK, the EU and Asia, including the People’s Republic of China. The recent and relatively prolonged worldwide pandemic caused by COVID-19 and current recessionary conditions has caused certain of these opportunities to be delayed. Our product development and commercialization timelines have been reset and we expect to be able to adhere that schedule over the next 12 months provided we are able to successfully raise and deploy capital. Key milestones for us over these next 12 months include entering into international joint ventures, preparing and filing certain regulatory submissions with the US FDA, and undertaking market tests in the EU. Any prolonged recessionary pressures on the international capital markets will make it more difficult for small, pre-revenue companies such as ours to raise capital. We continue to assess the impact of any recessionary conditions on our company, and at this time, we are unable to predict all possible impacts on our company, our operations and our prospects.
+
+ 
+
+Basis of Presentation 
+
+ 
+
+Basis of Presentation - The following unaudited interim consolidated financial statements have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”). Accordingly, such interim consolidated financial statements do not include all the information and footnotes required by accounting principles generally accepted in the United States (“GAAP”) for complete annual consolidated financial statements. The information furnished reflects all adjustments, consisting only of normal recurring items which are, in the opinion of management, necessary in order to make the consolidated financial statements not misleading. The results of operations for the interim periods are not necessarily indicative of the results to be expected for the full year. The balance sheet as of March 31, 2024, has been derived from the Company’s annual consolidated financial statements that were audited by our independent registered public accounting firm but does not include all of the information and footnotes required for complete annual consolidated financial statements. These consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto which are included in our Annual Report on Form 10-K for the year ended December 31, 2023, and filed with the SEC on April 15, 2024, for a broader discussion of our business and the risks inherent in such business.
+
+ 
+
+Recent Accounting Pronouncements – The Company does not believe that any recently issued effective pronouncements, or pronouncements issued but not yet effective, if adopted, would have a material effect on the accompanying consolidated financial statements.
+
+ 
+
+                                                                   6
+
+ 
+
+ 
+
+NOTE 2 – GOING CONCERN 
+
+ 
+
+The Company’s consolidated financial statements are prepared in accordance with United States generally accepted accounting principles (“U.S. GAAP”) applicable to a going concern. This contemplates the realization of assets and the liquidation of liabilities in the normal course of business. Currently, the Company has recurring losses, with limited cash resources, with renewed research and development efforts and with no source of revenue sufficient to cover its operations costs over the next 12 months these may not allow it to continue as a going concern. These conditions raise substantial doubt about the Company’s ability to continue as a going concern. The Company will be dependent upon the raising of additional capital. The consolidated financial statements do not include any adjustment that might result from the outcome of this uncertainty.
+
+ 
+
+NOTE 3 – STOCKHOLDERS’ EQUITY
+
+ 
+
+On January 29, 2024, we issued 12,500 shares valued at $250,000 as a retainer pursuant to our engagement of Anglo-Chinese Financial as our investment banker.
+
+ 
+
+On March 4, 2024, we sold 1,400 shares of our common stock for $28,000 in a private transaction. We did not pay commissions or finder’s fees and are using the proceeds for working capital.
+
+ 
+
+On March 25, 2024, we sold 14,250 shares of our common stock for $285,000 in a private transaction. We did not pay commissions or finder’s fees and are using the proceeds for working capital. 
+
+ 
+
+On February 16, 2023, we sold 7,500 shares of our common stock for $150,000 in a private transaction. We did not pay a commission or finder’s fee and are using the proceeds for working capital.
+
+ 
+
+On March 9, 2023, we sold 1,500 shares of our common stock for $30,000 in a private transaction. We did not pay a commission or finder’s fee and are using the proceeds for working capital.
+
+ 
+
+For the three-month period ended March 31, 2024, stock option expense totaled $205,102 compared to $384,441 for the same period in 2023. As of March 31, 2024, the Company had 26,202,670 shares of common stock issued and outstanding.
+
+ 
+
+NOTE 4 – RELATED PARTY TRANSACTIONS 
+
+ 
+
+We maintain our corporate offices at 5550 Nicollet Avenue, Minneapolis, MN 55419. We lease the premises on a month-to-month basis from 5550 Nicollet, LLC, a company owned by Mr. Chong. Rent for each of the first quarters of 2024 and 2023 was $2,325. As of March 31, 2024, there was an outstanding balance for rent due to 5550 Nicollet LLC of $2,325.
+
+ 
+
+During the first quarter of 2024, the Company borrowed $100,000 from Xten Capital Group, a common control entity, while during the first quarter of 2023, the Company borrowed $450,000. The loan is due upon demand and is non-interest bearing.
+
+ 
+
+At March 31, 2024, we owe $1,000,000 to Xten.
+
+ 
+
+In the first quarter of 2024, Liu Mei Chong loaned CQENS Electronics (Hong Kong) Limited $2,037 to fund operations. The loan is due upon demand and is non-interest bearing. At March 31, 2024, the loan balance is $6,284.
+
+ 
+
+NOTE 5 – LEASES
+
+ 
+
+In March 2022 we entered into a three-year lease agreement commencing April 15, 2022 through April 30, 2025 at an initial annual rate of $57,400 paid in monthly installments of $4,800. We have an option to extend for an additional five-year period. Annual increases are tied to the U.S. Consumer Price Index of the Bureau of Labor Statistics of the Department of Labor for all Urban Consumers for San Francisco-Oakland-San Jose area. Based on the aforementioned consumer price index, the annual increase to rent beginning May 1, 2023 was $375 bringing monthly installments to $5,175 and the annual rate to $62,100. On May 1, 2024, the monthly increase will be $80 bringing monthly installments to $5,255 and the annual rate to $63,060.
+
+ 
+
+                                                                   7
+
+ 
+
+ 
+
+We account for our leases under ASC 842, Leases, which requires all leases to be reported on the balance sheet as right-of-use assets and lease obligations. We elected the expedients permitted under the transition guidance that retained lease classification and initial direct costs for any leases that existed prior to adoption of the standard.
+
+ 
+
+We categorized leases with terms longer than twelve months as either operating or finance. Finance leases are generally those leases that would allow us to substantially utilize or pay for the entire asset over its estimated life. Assets acquired under finance leases are recorded in property and equipment, net. All other leases are categorized as operating leases. We did not have any finance leases as of March 31, 2024. Our lease for property is for three years. We elected the accounting policy to include both the lease and non-lease components of our agreements as a single component and account for them as a lease.
+
+ 
+
+Lease liabilities are recognized at the present value of the fixed lease payments using a discount rate based on similarly secured borrowings available to us. Lease assets are recognized based on the initial present value of the fixed lease payments, reduced by landlord incentives, plus any direct costs from executing the lease. Lease assets are tested for impairment in the same manner as long-lived assets used in operations. Leasehold improvements are capitalized at cost over the lesser of their expected useful life or the lease term. When we have options to extend the lease term, terminate the lease before the contractual expiration date, or purchase the leased asset, and it is reasonably certain that we will exercise the option, we consider these options in determining the classification and measurement of the lease. Costs associated with the operating lease are recognized on a straight-line basis within operating expenses over the term of the lease.
+
+ 
+
+The following table presents the lease-related asset and liability recorded on the balance sheets:
+
+ SCHEDULE OF LEASE RELATED ASSETS AND LIABILITIES  
+
+                                                                                                                  March 31, 2024      
+
+Assets                                                                                                                                
+
+Leasehold improvement, net                                                                                  $                   6,799 
+
+Operating lease asset                                                                                       $                  65,259 
+
+                                                                                                                                      
+
+Liabilities                                                                                                                           
+
+Current                                                                                                                               
+
+Operating lease liabilities                                                                                 $                  61,228 
+
+                                                                                                                                      
+
+Noncurrent                                                                                                                            
+
+Operating lease liabilities                                                                                 $                   4,031 
+
+ 
+
+Supplemental cash flow information related to leases were as follows:
+
+ SCHEDULE OF CASH FLOW INFORMATION RELATED LEASE  
+
+                                                                                                                  Three Months        
+
+                                                                                                                      Ended 
+
+                                                                                                                  March 31, 2024
+
+Cash paid for amounts included in the measurement of lease liabilities                                                                
+
+Operating cash flows from operating leases                                                                  $                  14,541 
+
+ 
+
+The table below presents the remaining lease terms and discount rates for operating lease.
+
+ 
+
+ SCHEDULE OF REMAINING LEASE TERMS AND DISCOUNT RATES
+
+                                                                                                                 March 31, 2024      
+
+Weighted-average remaining lease term                                                                                                
+
+Operating lease                                                                                                           1.08 years 
+
+Weighted-average discount rate                                                                                                       
+
+Operating lease                                                                                                                 5.25%
+
+ 
+
+                                                                   8
+
+ 
+
+ 
+
+Maturities of lease liabilities as of March 31, 2024, were as follows:
+
+ SCHEDULE OF MATURITIES OF LEASE LIABILITIES 
+
+                                                                                                                 Operating Lease      
+
+2024 (nine months remaining)                                                                                                   46,575 
+
+2025                                                                                                                           20,700 
+
+Thereafter                                                                                                                          - 
+
+Total lease payments                                                                                                           67,275 
+
+Less: amount of lease payments representing interest                                                                           (2,016)
+
+Present value future minimum lease payments                                                                 $                  65,259 
+
+Less: current obligations under lease                                                                                         (61,228)
+
+Non-current obligations                                                                                     $                   4,031 
+
+ 
+
+NOTE 6 - PREPAID EXPENSE – NONCURRENT PORTION 
+
+ 
+
+Effective July 13, 2022, the Company entered into a manufacturing contract with Montrade S.p.A., (“Montrade”) a company based in Bologna, Italy, for Montrade to manufacture and install the consumable manufacturing equipment. The Company made an initial payment of $589,265 USD on July 11, 2022 and was required to make additional payments, prior to Amendments, of up to $1,086,465 USD for the module as certain stages are completed.
+
+ 
+
+On February 23, 2023, the Company made a payment of $138,386 for completion of the design phase. On March 29, 2023, the Company signed Amendment 1 to the manufacturing contract for additional design work and paid $12,465 of the additional $36,809 cost. As Amendment 1 was for design work, the $12,465 was expensed. On October 18, 2023, the Company signed Amendment 2 to the manufacturing contract to modify certain components and paid $40,091 of the $114,546 cost.
+
+ 
+
+In 2022, $130,948 of the initial payment was expensed for design services completed by Montrade. The remaining payment of $458,317 and the additional payment on October 24, 2023, for Amendment 2 of $40,091 for a combined total of $498,408 are related to the manufacturing of the module for the automated manufacture of consumables for the Company’s proprietary, patented and patent pending Heat-not-Burn system. These payments totaling $498,408 were recorded as prepaid expenses – noncurrent portion.
+
+ 
+
+On February 26, 2024, the Company signed Amendment 3 to the manufacturing contract with Montrade, for a change to a component with a cost of $27,845. Full payment for this Amendment was made March 6, 2024.
+
+ 
+
+With the three amendments added and with payments made in 2023 and 2024, the Company will be required to pay up to $1,046,878. The Prepaid Expense – Noncurrent Portion balance at March 31, 2024 is $526,253. Montrade is an industry leading designer and manufacturer of machines for a wide range of products, including heated tobacco products.
+
+ 
+
+NOTE 7 – SUBSEQUENT EVENTS
+
+ 
+
+On April 24, 2024, we issued 713 shares of our common stock to an unrelated third party as compensation for their consulting services. The stock was valued at $14,260.
+
+ 
+
+On May 7, 2024, we issued 25,000 shares of our common stock for $500,000 in a private transaction. We did not pay a commission or finder’s fee and are using the proceeds for working capital.
+
+ 
+
+                                                                   9
+
+ 
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+ 
+
+The following discussion of our financial condition and results of operations for the three months ended March 31, 2024 and 2023 should be read in conjunction with the unaudited consolidated financial statements and the notes to those statements that are included elsewhere in this report. Our discussion includes forward-looking statements based upon current expectations that involve risks and uncertainties, such as our plans, objectives, expectations and intentions. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of a number of factors, including those set forth under “Cautionary Statements Regarding Forward-Looking Information” appearing earlier in this report, Part I. Item 1A. Risk Factors appearing in our 2023 10-K, and our other filings with the Securities and Exchange Commission. We use words such as “anticipate,” “estimate,” “plan,” “project,” “continuing,” “ongoing,” “expect,” “believe,” “intend,” “may,” “will,” “should,” “could,” and similar expressions to identify forward looking statements. In addition, any statements that refer to projections of our future financial performance, our anticipated growth and trends in our businesses, and other characterizations of future events or circumstances are forward-looking statements. Such statements are based on our current expectations and could be affected by the uncertainties and risk factors described throughout this report.
+
+ 
+
+Overview
+
+ 
+
+We are a technology company. We design and develop innovative methods to heat plant-based and/or medicant-infused formulations to produce aerosols for the efficient and efficacious inhalation of the plant and medicant constituents contained therein. We have two ways of accomplishing this: 1) at high temperatures via induction without combustion or the constituents of combustion; and 2) at low temperatures, where we heat an inert carrier, producing inhalable, medicant-infused aerosols while maintaining the integrity of the active ingredient(s).
+
+ 
+
+Our high-temperature non-combusting technology is supported by 44 U.S. and international patents and pending patents. Among the applications of our patented and patent-pending technology are those for Heat-not-Burn (“HnB”) devices. Independent tests performed by an accredited lab on our system’s prototypes supported the benefits of rapid heating, confirmed non-combustion, even at high temperatures, and produced better toxicology results, greater than 99% better, when compared to products requiring combustion and compared to other non-combusting technologies currently on the market.
+
+ 
+
+Our low-temperature, aerosolizing technology is supported by 31 U.S. and international patents and pending patents. This portfolio includes intellectual property around device designs and formulations containing a wide variety of herbal and pharmaceutical preparations. The development stage devices feature the ability to verify the user, validate the medicant or pharmaceutical preparation and measure, meter and monitor the proper, prescribed dosage.
+
+ 
+
+We define our target market as the “international inhalation market,” a market that includes herbal, pharmaceutical, medical, recreational and lifestyle products and ingredients. Industry experts, like Nielsen, Grand View Research, Fior Markets, published reports in 2022 and 2023 that we have consolidated; these consolidated estimates support that this is a $950 billion USD annual market currently and it’s expected to grow to $1.1 trillion USD by 2025. The largest category within this market is the combustible tobacco market, comprising 92% of the total. Our near term focus is on this segment, which represents the greatest opportunity for growth and the greatest opportunity to positively impact public health and wellness.
+
+ 
+
+We believe our HnB technologies have applications to the international tobacco industry and the growing hemp/CBD and cannabis industries. HnBs represent the latest in tobacco and inhalable technologies, and it’s likely to supplant the electronic vapor system (EVS) technologies that include e-cigarettes and electronic nicotine delivery systems. We believe HnBs, if properly designed, will avoid many of the issues that have proved troublesome for EVS’ including thermal decomposition, heating irregularities and the formation and presence of high levels of acrolein and formaldehyde. In late 2019 Philip Morris International sought to introduce its HnB product to U.S. markets. This product, which was sold in more than 40 countries before entering U.S. markets, like other HnB technologies, is a device that heats a tobacco stick, rather than burning it, and testing by an independent accredited lab supports claims that the product can potentially reduce the number of noxious chemicals found in cigarette smoke by 95%. The Philip Morris product received the approval of the US FDA in 2019, via both a Pre-market Tobacco Authorization (“PMTA”) and in 2020 with a Modified Risk Tobacco Product (“MRTP”) designation to market the product in the US. However, the International Trade Commission ruled on September 29, 2021 that the Philip Morris product violated certain British American Tobacco patents and ruled that the Philip Morris product could not be imported to or sold in the US. In 2023 Phillip Morris and British American Tobacco settled their patent litigation, but, as of the date of this report, there are no HnB products on the market in the US.
+
+ 
+
+                                                                   10
+
+ 
+
+ 
+
+Since late 2019 we have focused our efforts on commercializing our HnB technology. This entry began with the December 31, 2019 transaction pursuant to which we acquired the following assets from Xten Capital Group, Inc., formerly known as Chong Corporation (“Xten”), a related party: 1) all patent applications and patent related documents and materials that had been assigned, owned, or held by Xten in the field of HnB methods and designs, the backbone of the CQENS HnB system, 2) all documents and files related to device and tobacco consumable development, 3) all versions of prototyped embodiments, consisting of both device and tobacco consumable embodiments, and 4) all files, correspondence, communications and testing related to toxicology test results and consumer focus groups. On September 30, 2020, we entered into an Asset Purchase Agreement with Xten pursuant to which we acquired a portfolio of 29 U.S. and international patents and patent applications in the areas of devices and technologies for aerosolizing certain remedies and pharmaceutical preparations, as well as the solutions and preparation for inhaled delivery. This transaction effectively terminated all prior licensing agreements and resulting with the portfolio being assigned to the Company.
+
+ 
+
+On September 30, 2020, we also entered into a second Asset Purchase Agreement with Xten pursuant to which we acquired certain assets including, but not limited to, a custom-built plume and inhalation testing machine, oscilloscope with probe, multiple pieces of laboratory and workshop equipment, computers, monitors and accessories.
+
+ 
+
+On July 24, 2020, we entered into an Amended and Restated Operating Agreement (the “Operating Agreement”) of Leap Technology LLC (“Leap Technology”) with Zong Group Holdings LLC (“Zong”) and Leap Management LLC (“LM”). Under the terms of the Operating Agreement and the related Contribution Agreement dated July 24, 2020 (the “Contribution Agreement”), we acquired a 55% membership interest in Leap Technology in exchange for the contribution of an exclusive, royalty-free license (the “Leap License Agreement”) for the use in the Asia Pacific countries listed in the Contribution Agreement of certain of our intellectual property, patents pending and patents related to our heated tobacco product technology. It is expected that Leap Technology will form additional business entities to commercialize our propriety technology in those Asia Pacific countries which include China, India, Indonesia, Vietnam, the Philippines, Thailand, Malaysia, Singapore and Hong Kong. The goal of the joint venture is the market development of the Company’s intellectual property in the Asia Pacific region together with other initiatives and the formation business relationships with tobacco companies who operate in the Asia Pacific region. As of the date of this report, the joint venture is still in a pre-formative stage expected to be formalized consistent with the completion of a Restated Operating Agreement sometime in 2024.
+
+ 
+
+On August 17, 2021, as a result of a previously executed Memorandum of Understanding with the Barker Group of Companies, we entered into a Joint Venture Agreement (the “JV Agreement”) with Firebird Manufacturing, LLC (“Firebird”), a Barker Group company. Under the terms of the JV Agreement the parties have agreed to organize, negotiate, and establish a limited liability company joint venture entity (the “Joint Venture Entity”) for the purposes of developing, manufacturing, and distributing HnB products in the United States for an initial term of four years, subject to an automatic renewal for successive one-year terms provided certain conditions are met. The Joint Venture Entity will be owned equally by the Company and Firebird. The Company will license its intellectual property to the Joint Venture Entity, receiving a 10% royalty on direct consumable sales and will be responsible for designing and coordinating the manufacture of an HnB device exclusively conformed to heat but not combust. Firebird will be responsible for manufacturing the consumable and distributing both the device and consumables to the retail locations where the product can be lawfully sold.
+
+ 
+
+Pursuant to the JV Agreement, the Company and Firebird will each receive on a monthly basis a distribution out of the Joint Venture profits, if any, equal to 30% after payment of expenses. The remaining profits, if any, will be distributed annually. The JV Agreement also provides that the parties will be prohibited from marketing a competing product for two years following the termination of the Joint Venture Entity, subject to penalty in the amount of $5 million. The JV Agreement also sets forth in general terms the respective contributions of the parties, including equipment, manufacturing facilities, intellectual property, and expertise. Under the terms of the JV Agreement, there will be five managers of the Joint Venture Entity, three of whom will be designated by the Company and two of whom will be designated by Firebird. In the event the parties formalize and enter into a Joint Venture Entity Operating Agreement, Jay Barker, an affiliate of Firebird, may be appointed to the Company’s board of directors. The JV Agreement contains customary representations and warranties.
+
+ 
+
+The execution of the Joint Venture Entity Operating Agreement is subject to formalizing the definitive Joint Venture Operating Agreement and the execution of additional agreements, including a license agreement for the use of intellectual property, certain product development agreements, supply agreements and such other agreements as may be necessary to further the purpose of the JV Agreement. The parties anticipate completing all of the relevant agreements in 2024 although there are no assurances that the parties will complete and formalize these agreements.
+
+ 
+
+                                                                   11
+
+ 
+
+ 
+
+On July 13, 2022, we announced that we completed R&D stages for the module for the automated manufacture of consumables for its proprietary, patented and patent pending Heat-not-Burn system. The system heats plant-based and/or medicant-infused formulations to produce aerosols for the inhalation of the plant and medicant constituents without combustion or the constituents of combustion, although there are no assurances its products can be commercialized. Contemporaneous with the completion of these R&D stages, effective July 13, 2022, the Company entered into a manufacturing contract with Montrade S.p.A., (“Montrade”) a company based in Bologna, Italy, for Montrade to manufacture and install the module. The Company made an initial payment of $589,265 USD and is required to make additional payments of up to $1,086,465 USD for the module as certain stages are completed. Montrade is an industry leading designer and manufacturer of machines for a wide range of products, including heated tobacco products.
+
+ 
+
+On February 23, 2023, the Company made a payment of $138,386 for completion of the design phase. On March 29, 2023, the Company signed Amendment 1 to the manufacturing contract for additional design work and paid $12,465 of the additional $36,809 cost. As Amendment 1 was for design work, the $12,465 was expensed. On October 18, 2023, the Company signed Amendment 2 to the manufacturing contract to modify certain components and paid $40,091 of the $114,546 cost.
+
+ 
+
+In 2022, $130,948 of the initial payment was expensed for design services completed by Montrade. The remaining payment of $458,317 and the additional payment on October 24, 2023, for Amendment 2 of $40,091 for a combined total of $498,408 are related to the manufacturing of the module for the automated manufacture of consumables for the Company’s proprietary, patented and patent pending Heat-not-Burn system. The $498,408 payment is recorded as Prepaid expenses – noncurrent portion. With the two amendments added and with payments made in 2023 the Company will be required to pay up to $1,046,878. On February 26, 2024, the Company signed Amendment 3 to the manufacturing contract, for a change to a component with a cost of $27,845 and made payment in full on March 6, 2024 for this change.
+
+ 
+
+On December 20, 2023 we entered into a Shareholder Agreement with Asahi Corporation to establish CQENS Electronics (Hong Kong) Limited (“CEL”), a Hong Kong company, for design, development and manufacture of our heat-not-burn device (“Device”). CQENS acquired 50% membership of CEL and holds majority of the board seats including the chair. Pursuant to the establishment of CEL, CQENS entered into an exclusive, worldwide License Agreement with CEL for designing, manufacturing a consumer device consistent with our IP. Although the activities of CEL in 2023 are minimal and are reflective of its set-up, CEL is included in our consolidated financial statements.
+
+ 
+
+Going concern
+
+ 
+
+For the first quarter of 2024, we reported a consolidated net loss of $995,765 and net cash used in operations of $350,447 compared to a net loss of $1,186,307 and net cash used in operations of $693,976 for the first quarter of 2023. At March 31, 2024, we had cash on hand of $350,617 and an accumulated deficit of $24,851,072. The report of our independent registered public accounting firm on our consolidated financial statements for the year ended December 31, 2023, contains an explanatory paragraph regarding our ability to continue as a going concern based upon our limited cash and no source of revenues which may not be sufficient to cover our operating costs. These factors, among others, raise substantial doubt about our ability to continue as a going concern and pay our obligations as they become due over the next year. Our financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+
+ 
+
+Results of operations
+
+ 
+
+We did not generate any revenues from our operations in either the first quarter of 2024 or the first quarter of 2023. Our total operating expenses for the first quarter of 2024 decreased 15.8% over those reported in the first quarter of 2023 principally due to a reduction of general and administrative expenses despite an increase in both research and development and professional fees. General and administrative expenses decreased 57.8% in the first quarter of 2024 from the comparable period in 2023 due mainly to the decrease in compensation expense from previous stock option grants.
+
+ 
+
+Research and development expenses in the first quarter of 2024 increased 15.8% over this same period in 2023. This increase was the result of increased engineering services relating to work on our devices and consumables. Professional fees increased 96.3% in the first quarter of 2024 compared to the first quarter of 2023. This increase is attributable to consulting services and previous stock options grants.
+
+ 
+
+                                                                   12
+
+ 
+
+ 
+
+We expect that our operating expenses will increase as we continue to develop our business and we devote additional resources towards promoting that growth, most notably reflected in anticipated increases in research and development, general overhead, salaries for personnel and technical resources, as well as increased costs associated with our SEC reporting obligations. However, as set forth elsewhere in this report, our ability to continue to develop our business and achieve our operational goals is dependent upon our ability to raise significant additional working capital. As the availability of this capital is unknown, we are unable to quantify at this time the expected increases in operating expenses in future periods.
+
+ 
+
+Liquidity and capital resources
+
+ 
+
+Liquidity is the ability of a company to generate sufficient cash to satisfy its needs for cash. As of March 31, 2024, we had $350,617 in cash and cash equivalents and a working capital deficit of $1,209,508 compared to $350,565 in cash and cash equivalents and a working capital deficit of $921,732 at December 31, 2023. Our current liabilities increased $580,133 from December 31, 2023, reflecting a $103,791 increase in accounts payable, an increase of $122,401 in accrued expenses, a $102,037 increase in our borrowing from related parties, a $1,904 increase in the current portion of our lease liability, and an investor deposit of $250,000 for the purchase of our common stock where the transaction has not yet been completed. Our source of operating capital in the first quarter of 2024 came from our cash on hand at the end of 2023 and from $313,000 of proceeds from the sale of our common stock and $102,037 borrowed from related parties. Our source of operating capital in the first quarter of 2023 came from the cash on hand at the end of 2022, $450,000 in advances from Xten, a common control entity and $180,000 of proceeds from the sale of our common stock.
+
+ 
+
+The ability of the Company to continue as a going concern is dependent upon the Company obtaining adequate capital to fund operating losses until it becomes profitable. As the company is not generating revenues, continued activities and expenditures to bring product(s) to market as soon as we are able is important. Management believes the currently available funding will be insufficient to finance the Company’s operations for a year from the date of these consolidated financial statements and to satisfy our obligations as they become due.
+
+ 
+
+On January 15, 2023, we entered into an agreement to borrow up to $1,000,000 from our largest shareholder, Xten Capital Group, on an as needed basis. Such borrowings are for operations, interest free and due upon demand. At March 31, 2024 and as of the date of this filing, we have borrowed $1,000,000. On March 4, 2024, we sold 1,400 shares of our common stock for $28,000 in a private transaction. On March 25, 2024, we sold 14,250 shares of our common stock for $285,000 in a private transaction. We did not pay a commission or finder’s fee and are using the proceeds for working capital. We raised $180,000 from the private sale of our common stock during the first quarter of 2023.
+
+ 
+
+As of March 31, 2024, we owe $1,000,000 to Xten Capital Group and $6,284 to Liu Mei Chong, both related parties. At the end of the first quarter of 2023, we owed Xten $450,000.
+
+ 
+
+As of the date of this report, we still will need to raise $3,000,000 to $5,000,000 in additional capital during the next 12 months. There are no assurances we will have sufficient funds to fund our operating expenses and continued development of our products and to satisfy our obligations as they become due over the next 12 months. In that event, our ability to continue as a going concern is in jeopardy. There are no assurances we will be successful in our efforts to raise additional capital, develop a source of revenues, report profitable operations or to continue as a going concern, in which event investors would lose their entire investment in our company.
+
+ 
+
+Summary of cash flows
+
+ 
+
+                                                                                       March 31, 2024           March 31, 2023     
+
+Net cash (used) in operating activities                                            $             (350,447)  $             (693,976)
+
+Net cash (used) in investing activities                                            $              (64,504)  $              (57,484)
+
+Net cash provided by financing activities                                          $              415,037   $              630,000 
+
+ 
+
+                                                                   13
+
+ 
+
+ 
+
+Our cash used in operating activities decreased 49.5% in the first three months of 2024 compared to the first three months of 2023. During these time periods, we primarily used the cash to fund our net losses.
+
+ 
+
+In the first quarter of 2024, there was $64,504 net cash used in investing activities from the capitalization of our intellectual property compared to net cash used in investing activities of $57,484 in the same period in 2023 for capitalization of our intellectual property.
+
+ 
+
+In the first quarter of 2024, we had net cash provided by financing activities of $415,037 from the sale of our common stock and borrowing from related parties. We had net cash provided by financing activities in the first quarter of 2023 of $630,000 from the sale of our common stock and from borrowing from a related party.
+
+ 
+
+Critical accounting policies
+
+ 
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amount of assets and liabilities, the disclosure of contingent assets and liabilities and the reported amounts of revenue and expenses during the reported periods. The more critical accounting estimates include estimates related to revenue recognition, accounts receivable allowances and impairment of long-lived assets. We also have other key accounting policies, which involve the use of estimates, judgments and assumptions that are significant to understanding our results, which are described in Note 2 to our unaudited consolidated financial statements appearing later in this report and Note 2 to our audited consolidated financial statements appearing in our 2023 10-K.
+
+ 
+
+Off balance sheet arrangements
+
+ 
+
+As of the date of this report, we do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. The term “off-balance sheet arrangement” generally means any transaction, agreement or other contractual arrangement to which an entity unconsolidated with us is a party, under which we have any obligation arising under a guarantee contract, derivative instrument or variable interest or a retained or contingent interest in assets transferred to such entity or similar arrangement that serves as credit, liquidity or market risk support for such assets.
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+ 
+
+Not applicable for a smaller reporting company.
+
+ 
+
+Item 4. Controls and Procedures.
+
+ 
+
+Evaluation of Disclosure Controls and Procedures.
+
+ 
+
+We maintain “disclosure controls and procedures” as such term is defined in Rules 13a-15(e) under the Securities Exchange Act of 1934. In designing and evaluating our disclosure controls and procedures, our management recognized that disclosure controls and procedures, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of disclosure controls and procedures are met. Additionally, in designing disclosure controls and procedures, our management necessarily was required to apply its judgment in evaluating the cost benefit relationship of possible disclosure controls and procedures. The design of any disclosure controls and procedures also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions.
+
+ 
+
+Based on their evaluation as of the end of the period covered by this report, our Chief Executive Officer and our Chief Financial Officer have concluded that our disclosure controls and procedures were not effective to ensure that the information relating to our company required to be disclosed in our Securities and Exchange Commission reports (i) is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) is accumulated and communicated to our management, including our Chief Executive Officer, to allow timely decisions regarding required disclosure due to the presence of continuing material weakness in our internal control over financial reporting as reported in our 2023 10-K. These material weaknesses in our internal control over financial reporting result from limited segregation of duties and limited multiple level of review in the financial close process.
+
+ 
+
+                                                                   14
+
+ 
+
+ 
+
+The existence of the continuing material weaknesses in our internal control over financial reporting increases the risk that a future restatement of our financials is possible. In order to remediate these material weaknesses, we will need to expand our accounting resources. We will continue to monitor and evaluate the effectiveness of our disclosure controls and procedures and our internal control over financial reporting on an ongoing basis, however, we do not expect that the deficiencies in our disclosure controls will be remediated until such time as we have remediated the material weaknesses in our internal control over financial reporting. Subject to the availability of sufficient capital, we expect to expand our accounting resources during 2024. in an effort to remediate the material weaknesses in our internal control over financial reporting.
+
+ 
+
+Changes in Internal Control over Financial Reporting.
+
+ 
+
+There have been no changes in our internal control over financial reporting during our last fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+ 
+
+PART II – OTHER INFORMATION
+
+ 
+
+Item 1. Legal Proceedings.
+
+ 
+
+None.
+
+ 
+
+Item 1A. Risk Factors.
+
+ 
+
+In addition to the other information set forth in this report you should carefully consider the risk factors in Part I, Item 1A in our 2023 10-K and our subsequent filings with the Securities and Exchange Commission, which could materially affect our business, financial condition or future results. These cautionary statements are to be used as a reference in connection with any forward-looking statements, written or oral, which may be made or otherwise addressed in connection with a forward-looking statement or contained in any of our subsequent filings with the Securities and Exchange Commission.
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+ 
+
+None.
+
+ 
+
+Item 3. Defaults Upon Senior Securities.
+
+ 
+
+None.
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+ 
+
+Not applicable to our company’s operations.
+
+ 
+
+Item 5. Other Information.
+
+ 
+
+None.
+
+ 
+
+                                                                   15
+
+ 
+
+ 
+
+Item 6. Exhibits.
+
+ 
+
+No.              Exhibit Description                                  Form        Date             Number           Herewith
+
+                                                                                  Filed
+
+2.1              Share Exchange Agreement and Plan of                 8-K         4/11/14          2a                
+
+                  Reorganization dated April 11, 2014 by and
+
+                  between OICco Acquisition IV, Inc., VapAria
+
+                  Corporation and the listed
+
+                  shareholders+
+
+3.1              Amended and Restated Certificate of Incorporation    S-1         6/30/14          3.C               
+
+3.2              Certificate of Amendment to the Amended and          8-K         8/21/14          3.4               
+
+                  Restated Certificate of
+
+                  Incorporation
+
+3.3              Certificate of Amendment to the Amended and          10-Q        11/19/16         3.5               
+
+                  Restated Certificate of
+
+                  Incorporation
+
+3.4              Certificate of Amendment to the Amended and          8-K         12/18/19         3.5               
+
+                  Restated Certificate of
+
+                  Incorporation
+
+3.5              Bylaws                                               S-1         3/29/10          3(b)              
+
+31.1             Rule 13a-14(a)/15d-14(a) Certification of Chief                                                    Filed
+
+                  Executive
+
+                  Officer
+
+31.2             Rule 13a-14(a)/15d-14(a) Certification of Chief                                                    Filed
+
+                  Financial Officer and Chief Financial
+
+                  Officer
+
+32.1             Section 1350 Certification                                                                         Furnished*
+
+101.INS          Inline XBRL Instance Document                                                                      Filed
+
+101.SCH          Inline XBRL Taxonomy Extension Schema Document                                                     Filed
+
+101.CAL          Inline XBRL Taxonomy Extension Calculation                                                         Filed
+
+                  Linkbase
+
+                  Document
+
+101.DEF          Inline XBRL Taxonomy Extension Definition Linkbase                                                 Filed
+
+                  Document
+
+101.LAB          Inline XBRL Taxonomy Extension Label Linkbase                                                      Filed
+
+                  Document
+
+101.PRE          Inline XBRL Taxonomy Extension Presentation                                                        Filed
+
+                  Linkbase
+
+                  Document
+
+104              Cover Page Interactive Data File (embedded within                                                  Filed
+
+                  the Inline XBRL
+
+                  document)
+
+ 
+
++ Exhibits and/or schedules have been omitted. The Company agrees to furnish to the staff of the Securities and Exchange Commission upon request for any omitted information.
+
+* This exhibit is being furnished rather than filed and shall not be deemed incorporated by reference into any filing, in accordance with Item 601 of Regulation S-K.
+
+ 
+
+                                                                   16
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+                                                                    CQENS Technologies Inc.
+
+                                                                     
+
+May 15, 2024                                                        By: /s/ Alexander Chong
+
+                                                                        Alexander Chong, Chief Executive Officer
+
+                                                                         
+
+May 15, 2024                                                        By: /s/ Daniel Markes
+
+                                                                        Daniel Markes, Chief Financial Officer
+
+ 
+
+                                                                   17

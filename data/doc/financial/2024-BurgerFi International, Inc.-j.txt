@@ -1,0 +1,3135 @@
+Table of Contents
+
+
+
+
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+________________________________________________
+
+FORM 10-Q
+
+________________________________________________
+
+(Mark One)
+
+
+
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended April 1, 2024
+
+OR
+
+
+
+☐     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from __________ to __________
+
+Commission File Number: 001-38417
+
+__________________________________________________
+
+BurgerFi International, Inc.
+
+(Exact name of Registrant as specified in its Charter)
+
+____________________________________________________
+
+
+
+                                      Delaware                                                                            82-2418815
+
+                           (State or other jurisdiction of                                                             (I.R.S. Employer
+
+                           incorporation or organization)                                                             Identification No.)
+
+
+
+                        200 West Cypress Creek Rd., Suite 220                                                                33309
+
+                                 Fort Lauderdale, FL
+
+                      (Address of principal executive offices)                                                            (Zip Code)
+
+(954) 618-2000
+
+(Registrant’s telephone number, including area code) 
+
+(Former name, former address and former fiscal year, if changed since last report) 
+
+________________________________________________
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+                           Title of each class                                           Trading                       Name of each exchange on which registered
+
+                                                                                        Symbol(s)
+
+                Common Stock, par value $0.0001 per share                                  BFI                                The Nasdaq Stock Market LLC
+
+ Redeemable warrants, each exercisable for one share of common stock at                   BFIIW                               The Nasdaq Stock Market LLC
+
+                     an exercise price of $11.50 per
+
+                                  share
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+
+
+Large accelerated filer                                  ☐                           Accelerated filer                                        ☐
+
+
+
+Non-accelerated filer                                    ☒                           Smaller reporting company                                ☒
+
+
+
+                                                                                     Emerging growth company                                  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+The number of shares of the registrant’s Common Stock outstanding as of May 10, 2024 was 27,403,547
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+Table of Contents
+
+
+
+
+
+                                                                                                                           Page
+
+Part I Financial Information
+
+Item 1.            Financial Statements                                                                                               1
+
+Item 2.            Management’s Discussion and Analysis of Financial Condition and Results of Operations                             22
+
+Item 3.            Quantitative and Qualitative Disclosures About Market Risk                                                        31
+
+Item 4.            Controls and Procedures                                                                                           31
+
+Part II Other Information
+
+Item 1.            Legal Proceedings                                                                                                 32
+
+Item 1A.           Risk Factors                                                                                                      32
+
+Item 2.            Unregistered Sales of Equity Securities and Use of Proceeds                                                       32
+
+Item 5.            Other Information                                                                                                 32
+
+Item 6.            Exhibits                                                                                                          33
+
+Signatures                                                                                                                           34
+
+i
+
+
+
+Table of Contents
+
+Forward-Looking and Cautionary Statements
+
+
+
+This Quarterly Report on Form 10-Q contains forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements may appear throughout this Quarterly Report on Form 10-Q, including without limitation, the following sections: Part 1, Item 2. “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Forward-looking statements generally can be identified by words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “projects,” “will be,” “will continue,” “will likely result,” and similar expressions. These forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties, which could cause our actual results to differ materially from those reflected in the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in our Annual Report on Form 10-K for the year ended January 1, 2024 and this Quarterly Report on Form 10-Q, and in particular, the risks discussed under the caption “Risk Factors” in Item 1A of such reports and those discussed in other documents we file with the Securities and Exchange Commission (the “SEC”). We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+
+ii
+
+
+
+Table of Contents
+
+Part I. Financial Information.
+
+
+
+Item 1. Financial Statements. 
+
+BurgerFi International Inc., and Subsidiaries
+
+Consolidated Balance Sheets
+
+
+
+                                                                                                                Unaudited
+
+(in thousands, except for per share data)                                                                     April 1, 2024         January 1, 2024
+
+Assets
+
+Current Assets
+
+Cash and cash equivalents                                                                                 $              4,147   $            7,556 
+
+Accounts receivable, net                                                                                                 1,355                 1,368 
+
+Inventory                                                                                                                1,305                 1,190 
+
+Assets held for sale                                                                                                       732                   732 
+
+Prepaid expenses and other current assets                                                                                2,420                 1,654 
+
+Total Current Assets                                                                                      $              9,959   $           12,500 
+
+Property & Equipment, net                                                                                               16,586                16,121 
+
+Operating right-of-use assets, net                                                                                      44,260                46,052 
+
+
+
+Goodwill                                                                                                                31,621                31,621 
+
+Intangible assets, net                                                                                                 148,791               150,856 
+
+Other assets                                                                                                             1,391                 1,326 
+
+Total Assets                                                                                              $            252,608   $          258,476 
+
+Liabilities and Stockholders' Equity
+
+Current Liabilities
+
+Accounts payable - trade and other                                                                        $              5,128   $            7,093 
+
+Accrued expenses                                                                                                        11,226                 8,537 
+
+Short-term operating lease liability                                                                                    10,229                10,111 
+
+Other current liabilities                                                                                                2,951                 4,117 
+
+Short-term borrowings, including finance leases                                                                         53,064                52,834 
+
+Total Current Liabilities                                                                                 $             82,598   $           82,692 
+
+Non-Current Liabilities
+
+Long term borrowings, including finance leases                                                                           2,223                 1,718 
+
+Redeemable preferred stock, $0.0001 par value, 10,000,000 shares authorized, 2,120,000 shares issued and                56,734                55,629 
+
+ outstanding, as of April 1, 2024 and January 1, 2024, $53 million principal redemption value
+
+ 
+
+Long-term operating lease liability                                                                                     42,555                44,631 
+
+Related party note payable                                                                                              14,526                14,488 
+
+Warrant liability                                                                                                           38                   182 
+
+Other non-current liabilities                                                                                              694                   740 
+
+Deferred income taxes                                                                                                    1,146                 1,146 
+
+Total Liabilities                                                                                                      200,514               201,226 
+
+Commitments and Contingencies - Note 8
+
+Stockholders' Equity
+
+Common stock, $0.0001 par value, 100,000,000 shares authorized, 27,042,213 and 26,832,691 shares issued                      2                     2 
+
+ and outstanding as of April 1, 2024 and January 1, 2024,
+
+ respectively
+
+Additional paid-in capital                                                                                             315,989               315,107 
+
+Accumulated deficit                                                                                                   (264,397)             (257,859)
+
+Total Stockholder's Equity Attributable to BurgerFi                                                                     51,594                57,250 
+
+Non-controlling interests in subsidiaries                                                                                  500                     — 
+
+Total Stockholders' Equity                                                                                              52,094                57,250 
+
+Total Liabilities and Stockholders' Equity                                                                $            252,608   $          258,476 
+
+
+
+See accompanying notes to consolidated financial statements.
+
+1
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Consolidated Statements of Operations
+
+(Unaudited)
+
+
+
+
+
+                                                                                         Quarter Ended
+
+(in thousands, except for per share data)                                    April 1, 2024       April 3, 2023
+
+Revenue
+
+Restaurant Sales                                                           $         40,885    $         43,316 
+
+Royalty and other fees                                                                 1,558               1,969 
+
+Royalty - brand development and co-op                                                    436                 441 
+
+
+
+Total Revenue                                                                         42,879              45,726 
+
+Restaurant level operating expenses:
+
+Food, beverage and paper costs                                                        10,977              11,611 
+
+Labor and related expenses                                                            13,912              13,216 
+
+Other operating expenses                                                               7,128               7,456 
+
+Occupancy and related expenses                                                         3,890               3,834 
+
+General and administrative expenses                                                    5,309               6,573 
+
+Depreciation and amortization expense                                                  3,044               3,227 
+
+Share-based compensation expense                                                         954               4,674 
+
+Brand development, co-op and advertising expense                                       1,252               1,096 
+
+
+
+Lease termination recovery                                                               (56)                  — 
+
+Store closure costs                                                                      435                 121 
+
+Restructuring costs                                                                       79                 918 
+
+Pre-opening costs                                                                        163                   — 
+
+
+
+Operating Loss                                                                        (4,208)             (7,000)
+
+Other income, net                                                                          3                   — 
+
+Gain (loss) on change in fair value of warrant liability                                 144                 (73)
+
+Interest expense, net                                                                 (2,477)             (2,078)
+
+
+
+
+
+Loss before income taxes                                                              (6,538)             (9,151)
+
+Income tax provision                                                                       —                   — 
+
+Net Loss                                                                              (6,538)             (9,151)
+
+Net Loss attributable to non-controlling interest in subsidiaries                          —                   — 
+
+Net Loss attributable to BurgerFi                                          $         (6,538)   $         (9,151)
+
+
+
+
+
+
+
+
+
+Weighted average common shares outstanding:
+
+Basic and Diluted                                                                 27,021,716          23,568,032 
+
+
+
+
+
+Net loss per common share:
+
+Basic and Diluted                                                          $          (0.24)   $          (0.39)
+
+
+
+
+
+See accompanying notes to consolidated financial statements.
+
+2
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Consolidated Statements of Changes in Stockholders’ Equity
+
+(Unaudited)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Common Stock           Additional      Accumulated          Total        Non-controllin       Total
+
+                                                     Paid-in         Deficit         Stockholders’         g          Stockholders’
+
+                                                     Capital                            Equity          interests         Equity
+
+                                                                                    Attributable to
+
+                                                                                       BurgerFi
+
+(in thousands,          Shares       Amount
+
+ except for share
+
+ data)
+
+Balance at January     22,257,772   $      2   $    306,096   $      (227,151)  $        78,947   $         —   $       78,947 
+
+ 2,
+
+ 2023
+
+Share-based                     —          —          4,674                                4,674              —             4,674 
+
+ compensation
+
+Vested shares issued    1,639,174          —              —                 —                  —              —                 — 
+
+Shares issued in          200,000                        351                                  351              —               351 
+
+ legal
+
+ settlement
+
+Shares withheld for      (273,841)         —           (353)                —               (353)             —              (353)
+
+ taxes
+
+Net loss                        —          —              —            (9,151)            (9,151)             —            (9,151)
+
+Balance at April 3,    23,823,105   $      2   $    310,768   $      (236,302)  $        74,468   $         —   $       74,468 
+
+ 2023
+
+
+
+
+
+                            Common Stock           Additional      Accumulated          Total        Non-controllin       Total
+
+                                                     Paid-in         Deficit         Stockholders’         g          Stockholders’
+
+                                                     Capital                            Equity          interests         Equity
+
+                                                                                    Attributable to
+
+                                                                                       BurgerFi
+
+(in thousands,          Shares       Amount
+
+ except for share
+
+ data)
+
+Balance at January     26,832,691   $      2   $    315,107   $      (257,859)  $        57,250   $         —   $       57,250 
+
+ 1,
+
+ 2024
+
+Issuance of shares              —          —              —                                    —            500               500 
+
+ in
+
+ subsidiary
+
+Share-based                     —          —            954                 —                954              —               954 
+
+ compensation
+
+Vested shares issued      209,522          —              —                 —                  —              —                 — 
+
+
+
+Shares withheld for             —          —            (72)                —                (72)             —               (72)
+
+ taxes
+
+Net loss                        —          —              —            (6,538)            (6,538)             —            (6,538)
+
+Balance at April 1,    27,042,213   $      2   $    315,989   $      (264,397)  $        51,594   $       500   $       52,094 
+
+ 2024
+
+
+
+
+
+
+
+See accompanying notes to consolidated financial statements.
+
+3
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+
+
+                                                                                                                         Quarter Ended
+
+(in thousands)                                                                                              April 1, 2024          April 3, 2023
+
+Cash Flows Used In (Provided By) Operating Activities
+
+Net loss                                                                                                $             (6,538)  $             (9,151)
+
+Adjustments to reconcile net loss to net cash (used in) provided by operating activities
+
+
+
+Lease termination recovery                                                                                               (56)                     — 
+
+Depreciation and amortization                                                                                          3,044                  3,227 
+
+
+
+Share-based compensation                                                                                                 954                  4,674 
+
+Gain on legal settlement                                                                                                   —                    131 
+
+Gift card and loyalty program breakage                                                                                  (425)                  (201)
+
+Forfeited franchise deposits                                                                                             (56)                   (41)
+
+Non-cash lease cost                                                                                                     (163)                   123 
+
+(Gain) loss on change in value of warrant liability                                                                     (144)                    73 
+
+
+
+
+
+Other non-cash interest                                                                                                1,283                  1,167 
+
+Other, net                                                                                                                 —                     20 
+
+Changes in operating assets and liabilities
+
+Accounts receivable                                                                                                       13                    (34)
+
+Inventory                                                                                                               (115)                  (108)
+
+Prepaid expenses and other assets                                                                                       (831)                  (180)
+
+Accounts payable - trade and other                                                                                    (1,839)                   426 
+
+Accrued expenses and other current liabilities                                                                         1,947                 (2,176)
+
+Other long-term liabilities                                                                                               10                     89 
+
+Cash Flows Used in Operating Activities                                                                 $             (2,916)  $             (1,961)
+
+Net Cash Flows Used In Investing Activities
+
+Purchases of property and equipment                                                                                     (837)                  (802)
+
+
+
+Other investing activities                                                                                                 3                      — 
+
+
+
+Net Cash Flows Used In Investing Activities                                                             $               (834)  $               (802)
+
+Net Cash Flows Provided By (Used In) Financing Activities
+
+
+
+Contributions from non-controlling interests in subsidiaries                                                             500                      — 
+
+
+
+Payments on borrowings                                                                                                   (21)                (4,836)
+
+Proceeds from related party note payable                                                                                   —                  5,100 
+
+
+
+Tax payments for restricted stock upon vesting                                                                           (72)                  (353)
+
+
+
+Repayments of finance leases                                                                                             (66)                   (39)
+
+Net Cash Flows Provided By (Used in) Financing Activities                                               $                341   $               (128)
+
+Net Decrease in Cash and Cash Equivalents                                                                             (3,409)                (2,891)
+
+Cash and Cash Equivalents, beginning of period                                                                         7,556                 11,917 
+
+Cash and Cash Equivalents, end of period                                                                $              4,147   $              9,026 
+
+
+
+
+
+Supplemental cash flow disclosures:
+
+
+
+Cash paid for interest                                                                                $               1,296   $               1,562 
+
+
+
+Fair value of net liabilities assumed in legal settlement                                             $                   —   $                 (79)
+
+Fair value of common stock issued in legal settlement                                                 $                   —   $                (351)
+
+ROU assets obtained in the exchange for lease liabilities:
+
+Finance leases                                                                                        $                 738   $                   — 
+
+Operating leases                                                                                      $                   —   $               1,433 
+
+
+
+
+
+
+
+
+
+See accompanying notes to consolidated financial statements.
+
+4
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+
+
+1.    Organization
+
+
+
+BurgerFi International, Inc. and its wholly owned subsidiaries (“BurgerFi,” or the “Company,” also “we,” “us,” and “our”), is a multi-brand restaurant company that develops, markets and acquires fast-casual and premium-casual dining restaurant concepts around the world, including corporate-owned stores and franchises located in the United States, Puerto Rico and Saudi Arabia. As of April 1, 2024, the Company had 162 franchised and corporate-owned restaurants of the two following brands:
+
+
+
+BurgerFi. BurgerFi is a fast-casual “better burger” concept with 102 franchised and corporate-owned restaurants as of April 1, 2024, offering burgers, hot dogs, crispy chicken, hand-cut fries, frozen custard and shakes, beer, wine and more.
+
+
+
+Anthony’s. Anthony’s is a pizza and wing brand that operated 60 restaurants including 59 corporate-owned and one franchise location co-branded with BurgerFi as of April 1, 2024. The concept is centered around a coal-fired oven, and its menu offers “well-done” pizza, coal-fired chicken wings, homemade meatballs, and a variety of handcrafted sandwiches and salads.
+
+
+
+Corporate-owned stores and Franchised stores
+
+
+
+Store activity for the quarter ended April 1, 2024 and the year ended January 1, 2024 is as follows:
+
+
+
+
+
+                                                          April 1, 2024                                          January 1, 2024
+
+                                      Corporate-owned       Franchised          Total      Corporate-owned       Franchised          Total
+
+Total BurgerFi and Anthony's                      86                  76            162                87                  81           168 
+
+
+
+BurgerFi stores, beginning of the                 28                  80            108                25                  89           114 
+
+ period
+
+BurgerFi stores opened                             1                   1              2                 —                   8             8 
+
+BurgerFi stores acquired /                         —                   —              —                 4                  (4)            — 
+
+ (transferred)
+
+BurgerFi stores closed                            (2)                 (6)            (8)               (1)                (13)          (14)
+
+BurgerFi total stores, end of the                 27                  75            102                28                  80           108 
+
+ period
+
+
+
+Anthony's stores, beginning of period             59                   1             60                60                   —            60 
+
+Anthony's stores opened                            —                   —              —                 —                   1             1 
+
+Anthony's stores closed                            —                   —              —                (1)                  —            (1)
+
+Anthony's total stores, end of the                59                   1             60                59                   1            60 
+
+ period
+
+
+
+
+
+End of period store totals included one international store at April 1, 2024 and at January 1, 2024, respectively. 
+
+
+
+
+
+2.    Summary of Significant Accounting Policies
+
+
+
+Basis of Presentation
+
+
+
+The accompanying Consolidated Financial Statements have been prepared in accordance with generally accepted accounting principles in the United States of America (“GAAP”) and the rules and regulations of the Securities and Exchange Commission (“SEC”) assuming the Company will continue as a going concern. The going concern assumption contemplates the realization of assets and satisfaction of liabilities in the normal course of business. However, as discussed below and elsewhere through this Quarterly Report on Form 10-Q, substantial doubt about the Company’s ability to continue as a going concern existed as of April 1, 2024 as a result of non-compliance of the Company’s liquidity covenant within the Company’s Credit Agreement. Please see Part I, Item 2. Management’s Discussion and Analysis of Financial 
+
+5
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+Condition and Results of Operations, as well as Risk Factors in the Company’s Annual Report on Form 10-K for the year ended January 1, 2024 (the “2023 Form 10-K”) and this Quarterly Report on Form 10-Q, for further information.
+
+
+
+The Company’s credit agreement (“Credit Agreement”) with a syndicate of banks has Term Loan and Revolving line of credit financing of approximately $51.3 million and $2.0 million, respectively, outstanding as of April 1, 2024, and expires on September 30, 2025. The Credit Agreement contains various covenants, including requirements for the Company to meet certain trailing twelve-month quarterly financial ratios and a minimum liquidity threshold. As of April 1, 2024, the Company was not in compliance with the minimum liquidity requirement of the Credit Agreement, which constitutes a breach of the Credit Agreement and an event of default. Accordingly, the outstanding balance of the Credit Agreement is included in short-term borrowings together with the short term portion of other notes payable and outstanding balances under its finance leases on the accompanying consolidated balance sheets.
+
+
+
+This event of default entitles the lenders to call the debt sooner than its maturity date of September 30, 2025. The Company does not have and is not forecasted to have the readily available funds to repay the debt if called by the lenders.
+
+
+
+The Company has been actively engaged in discussions with its lenders to explore potential solutions regarding the default event and its resolution. We cannot, however, predict the results of any such negotiations. The consolidated financial statements do not include any adjustments to the carrying amounts and classification of assets, liabilities, and reported expenses that may be necessary if the Company were unable to continue as a going concern. 
+
+
+
+From April 15, 2024 to April 17, 2024, the Company received notices from the syndicate of commercial bank lenders under the Credit Agreement that each lender’s respective (i) rights and obligations as a lender under the Credit Agreement and any other document or instruments delivered pursuant thereto to the extent related to the amount and percentage interest of the loans and commitments under the Credit Agreement held by such lender and (ii) to the extent permitted by applicable law, all claims, suits, causes of action and any other right of such lender against any person, whether known or unknown, arising under or in connection with the Credit Agreement, any other documents or instruments delivered pursuant thereto or the loan transactions governed thereby or in any way based on or related to any of the foregoing rights and obligations under the Credit Agreement were assigned to TREW Capital Management Private Credit 2 LLC (“TREW”). The foregoing assignments represented 100% of the amount of revolving loan commitments under the Credit Agreement and 100% of the amount of term loan under the Credit Agreement. The Company has initiated discussions with TREW with respect to potential solutions regarding the event of default described above. See Note 10, “Debt,” for additional disclosure surrounding the amended Credit Agreement. 
+
+
+
+The accompanying condensed consolidated financial statements are unaudited and have been prepared in accordance with GAAP for interim financial information and with the instructions for Form 10-Q and Rule 8-03 of Regulation S-X. Pursuant to these rules and regulations, certain information and footnote disclosures normally included in the annual audited consolidated financial statements prepared in accordance with GAAP have been condensed or omitted. The accompanying condensed consolidated balance sheet as of January 1, 2024 is derived from the Company’s audited financial statements as of that date. Because certain information and footnote disclosures have been condensed or omitted, these condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto as of and for the year ended January 1, 2024 contained in the 2023 Form 10-K. In the opinion of management, all normal recurring adjustments necessary for a fair presentation have been included in the condensed consolidated financial statements.
+
+
+
+We are required to evaluate events occurring after April 1, 2024 for recognition and disclosure in the unaudited consolidated financial statements for the quarter ended April 1, 2024. Events are evaluated based on whether they represent information existing as of April 1, 2024, which require recognition, or new events occurring after April 1, 2024 which do not require recognition but require disclosure if the event is significant. We evaluated events occurring subsequent to April 1, 2024 through the date of issuance of these unaudited consolidated financial statements.
+
+
+
+The Company reports on a 52-53-week fiscal year ending on the Monday nearest to December 31 of each year. Our first fiscal quarter of 2024 ended on April 1, 2024. Our current fiscal year will end on December 30, 2024.
+
+
+
+Principles of Consolidation 
+
+
+
+6
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+The consolidated financial statements present the consolidated financial position, results from operations and cash flows of BurgerFi International, Inc., and its wholly owned subsidiaries. All material balances and transactions between the entities have been eliminated in consolidation.
+
+
+
+Use of Estimates 
+
+
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingencies at the date of the unaudited consolidated financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates.
+
+
+
+New Accounting Pronouncements
+
+
+
+The Company reviewed all recently issued accounting pronouncements and concluded that they were not applicable or not expected to have a significant impact on the accompanying consolidated financial statements.
+
+
+
+Prepaid expenses
+
+
+
+The Company routinely issues prepayments to landlords, insurers and vendors in the ordinary course of business. As of April 1, 2024 and January 1, 2024, the Company had $2.2 million and $1.3 million, respectively of prepayments included in prepaid expenses and other current assets in the accompanying consolidated balance sheets.
+
+
+
+Assets Held for Sale
+
+
+
+In February 2020, the Company entered into an asset purchase agreement with an unrelated third party for the sale of substantially all of the assets used in connection with the operation of BF Dania Beach, LLC. The closing of this transaction has been delayed due to additional on-going negotiations. In the event the transaction is terminated, the Company will begin operating this BurgerFi restaurant, and return the deposit of $0.9 million included in other current liabilities to the unrelated third-party purchaser. Assets used in the operations of BF Dania Beach, LLC totaling $0.7 million have been classified as held for sale in the accompanying consolidated balance sheets as of April 1, 2024 and January 1, 2024. On April 28, 2024, the parties executed a settlement term sheet to continue the trial related to this matter. The parties are drafting a formal settlement agreement for Court ratification. Refer to Note 8, “Commitments and Contingencies,” for further discussion.
+
+
+
+Other Current Liabilities
+
+
+
+The Company incurs liabilities associated with the sale of gift cards and gift certificates. As of April 1, 2024 and January 1, 2024, the Company had $1.2 million and $2.2 million, respectively of gift card and gift certificate liabilities included in other current liabilities on the accompanying consolidated balance sheets. The decrease in gift card liabilities at April 1, 2024 compared to January 1, 2024 relates to the expiration of the Company’s Holiday Gift Card Program.
+
+
+
+The Company incurs liabilities resulting from its customer loyalty program. As of April 1, 2024 and January 1, 2024, the Company had $0.8 million and $1.0 million, respectively of liabilities for its loyalty program in the accompanying consolidated balance sheets.
+
+
+
+Restructuring Costs
+
+
+
+Restructuring costs for the periods shown consist of the following: 
+
+
+
+7
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+
+
+                                                                                Quarter Ended
+
+(in thousands)                                                        April 1, 2024     April 3, 2023
+
+Expenses related to financing                                        $           73    $         891 
+
+Severance and onboarding costs associated with change in CEO and CFO              6                  27
+
+
+
+
+
+
+
+Total                                                                $           79    $         918 
+
+
+
+3.    Property & Equipment
+
+
+
+Property and equipment consisted of the following: 
+
+
+
+(in thousands)                                                                                            April 1, 2024          January 1, 2024
+
+Leasehold improvements                                                                               $              18,373   $              17,579 
+
+Kitchen equipment and other equipment                                                                                 8,928                    8,708 
+
+Computers and office equipment                                                                                        1,586                    1,536 
+
+Furniture and fixtures                                                                                                2,868                    2,828 
+
+Vehicles                                                                                                                  9                        8 
+
+                                                                                                                     31,764                   30,659 
+
+Less: Accumulated depreciation and amortization                                                                     (15,178)                 (14,538)
+
+Property and equipment – net                                                                         $              16,586   $              16,121 
+
+
+
+Depreciation and amortization expense on property and equipment totaled $1.0 million and $1.1 million for the quarters ended April 1, 2024 and April 3, 2023, respectively. 
+
+
+
+8
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+
+
+4.    Goodwill and Intangible Assets, Net 
+
+
+
+The following is a summary of the components of intangible assets and the related amortization expense and impairment 
+
+charges:
+
+
+
+
+
+                                                                April 1, 2024
+
+(in thousands)            Weighted Average      Amount         Accumulated        Accumulated      Net Carrying
+
+                           Remaining Useful                    Amortization        Impairment          Value
+
+                                 Life                                                Charges
+
+                               (years)
+
+Franchise agreements                     3.7$     24,839    $       (11,680)  $             —          13,159 
+
+BurgerFi trade names /                  26.7       83,033              (9,111)                 —          73,922 
+
+ trademarks
+
+Anthony's trade names                   27.6       60,690              (4,889)                 —          55,801 
+
+ /
+
+ trademarks
+
+Other intangibles                        6.7        9,018              (1,221)            (7,706)             91 
+
+
+
+  Subtotal                                        177,580             (26,901)            (7,706)        142,973 
+
+Liquor licenses                                     5,930                   —               (113)          5,818 
+
+Total intangible                            $    183,510    $       (26,901)  $        (7,818)  $    148,791 
+
+ assets,
+
+ net
+
+
+
+
+
+
+
+                                                               January 1, 2024
+
+(in thousands)            Weighted Average      Amount         Accumulated        Accumulated      Net Carrying
+
+                           Remaining Useful                    Amortization        Impairment          Value
+
+                                 Life                                                Charges
+
+                               (years)
+
+Franchise agreements                     4.0$     24,839    $       (10,793)  $             —          14,046 
+
+BurgerFi trade names /                  27.0       83,033              (8,419)                 —          74,614 
+
+ trademarks
+
+Anthony's trade names                   27.8       60,690              (4,383)                 —          56,307 
+
+ /
+
+ trademarks
+
+Other intangibles                        7.0        9,018              (1,241)            (7,706)             71 
+
+
+
+  Subtotal                                        177,580             (24,836)            (7,706)        145,038 
+
+Liquor licenses                                     5,930                   —               (113)          5,818 
+
+Total intangible                            $    183,510    $       (24,836)  $        (7,818)  $    150,856 
+
+ assets,
+
+ net
+
+
+
+9
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+
+
+(in thousands)                               Anthony’s Segment  BurgerFi Segment       Total
+
+Balance as of January 2, 2023
+
+Goodwill                                     $        80,684           123,981    $      204,665 
+
+Accumulated impairment losses                        (49,064)         (123,981)         (173,045)
+
+Goodwill, net as of January 1, 2024          $        31,621    $            —    $       31,621 
+
+
+
+Goodwill                                     $        80,684    $      123,981    $      204,665 
+
+Accumulated impairment losses                        (49,064)   $     (123,981)         (173,045)
+
+Goodwill, net as of April 1, 2024            $        31,621    $            —    $       31,621 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intangible asset amortization expense totaled $2.1 million and $2.1 million for the quarters ended April 1, 2024 and April 3, 2023, respectively. 
+
+
+
+5.    Contract Liabilities
+
+
+
+A roll forward of contract liabilities is as follows: 
+
+
+
+
+
+                                                                                                    Quarter Ended
+
+(in thousands)                                                                          April 1, 2024         April 3, 2023
+
+Balance, beginning of period                                                         $             745     $            1,092 
+
+Initial/Transfer franchise fees received                                                             —                    156 
+
+Revenue recognized for stores open and transfers during period                                      (4)                   (68)
+
+Revenue recognized related to franchise agreement terminations                                     (56)                   (41)
+
+Other unearned revenue (recognized) received                                                         —                    (24)
+
+Balance, end of period                                                               $             685     $            1,115 
+
+
+
+Franchise Revenue
+
+
+
+Revenue recognized during the periods included in royalty and other fees on our consolidated statement of operations was as follows: 
+
+
+
+
+
+                                                                                                  Quarter Ended
+
+                                                                                        April 1, 2024       April 3, 2023
+
+Franchise Fees                                                                       $              60   $            133 
+
+10
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+
+
+6.     Net Loss Per Share
+
+
+
+Net Loss per common share is computed by dividing Net Loss by the weighted average number of common shares outstanding for the period. The Company has considered the effect of (1) warrants outstanding to purchase 15,063,800 shares of common stock, (2) 2,423,069 shares of restricted stock units outstanding in the calculation of net loss per common share, and (3) the impact of any dividends associated with our redeemable preferred stock. As the effect of these on the computation of net loss per common share would have been anti-dilutive, they were excluded from the weighted average number of common shares outstanding.
+
+
+
+Basic and diluted net loss per common share is calculated as follows:
+
+
+
+
+
+(in thousands, except for per share data)                                        Quarter Ended
+
+Numerator:                                                            April 1, 2024       April 3, 2023
+
+
+
+
+
+Net loss available to common stockholders - diluted                 $         (6,538)  $          (9,151)
+
+
+
+Denominator:
+
+
+
+
+
+
+
+
+
+Basic and diluted weighted-average shares outstanding                     27,021,716           23,568,032 
+
+
+
+Basic and diluted net loss per common share                         $          (0.24)  $           (0.39)
+
+
+
+
+
+For the quarter ended April 1, 2024 and April 3, 2023, there were no dilutive warrants. 
+
+
+
+11
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+7.    Related Party Transactions
+
+
+
+The Company is affiliated with various entities through common control and ownership.
+
+
+
+On January 23, 2023, the Company settled a claim filed by a significant stockholder. The settlement resulted in the transfer of five BurgerFi entities from the stockholder to the Company of which two were operating stores and three were entities that historically had operated stores but have since closed. The fair value of consideration paid in the settlement was $0.9 million and included $0.5 million in cash and the issuance of 200,000 shares in common stock valued at $0.4 million. The fair value of net liabilities assumed in the transaction was $0.1 million which included lease liabilities and operating assets and liabilities including property and equipment of two operating stores, net of pre-existing liabilities accrued.
+
+
+
+Pursuant to a lease amendment entered into in February 2022, the Company leases building space for its corporate office from an entity controlled by the Company's Executive Chairman of the Board. This lease has a 10-year term with an option to renew. Rent expense was approximately $0.2 million for each of the quarters ended April 1, 2024 and April 3, 2023,
+
+
+
+On June 3, 2023, the Company entered into a stock purchase agreement with an investing entity for the sale of 2,868,853 shares of Company common stock at an issuance price of $1.22 per share for total proceeds of $3.4 million. Upon the execution of this agreement, the investing entity became a holder of approximately 11% of the Company’s outstanding common stock. During the year ended January 1, 2024, the Company entered into four franchise agreements with an affiliate of this entity. The Company received royalty revenue from such franchises related to a significant stockholder totaling approximately $0.1 million for the quarter ended April 1, 2024.
+
+
+
+8.    Commitments and Contingencies
+
+
+
+Litigation
+
+
+
+Lion Point Capital, L.P.(“Lion Point”) v. BurgerFi International, Inc. (Supreme Court of the State of New York County of New York, Index No. 653099/2022, filed August 26, 2022. A lawsuit filed by Lion Point against the Company, alleging that the Company failed to timely register Lion Point’s shares in violation of the registration rights agreement to which Lion Point is a party, which allegedly resulted in losses in excess of $26.0 million. In November 2022, as amended in February 2023, the Company filed its answer to the complaint. On April 13, 2023, Lion Point filed a Motion for Summary Judgment, and the Company responded with its reply on June 22, 2023. On October 12, 2023, the Court granted Lion Point’s Motion for Summary Judgment and set a status conference for November 15, 2023 to begin the damages phase of the case. At status conference on November 15, 2023, a schedule for discovery deadlines was discussed and set out by the Court. The next status conference was continued from March 13, 2024 to April 24, 2024. At the April 24, 2024 status conference a revised discovery schedule was agreed to and the case is scheduled to proceed with the discovery schedule and depositions. The Company continues to believe that all claims are meritless and plans to vigorously defend such claims. The Company is unable to determine the likelihood of a loss or range of loss, if any, which may result from the case described above, and any losses, however, may be material to the Company's financial position and results of operations.
+
+
+
+Burger Guys of Dania Pointe, et. al. v. BFI, LLC (Circuit Court of the 15th Judicial Circuit in and for Palm Beach County, Florida, Case No. 50-2021-CA -006501-XXXX-MB filed May 21, 2021). In response to a demand letter issued by BurgerFi to Gino Gargiulo, a former franchisee, demanding that Mr. Gargiulo pay the balance owed under an asset purchase agreement wherein BurgerFi sold the Dania Beach, Florida BurgerFi location to Mr. Gargiulo, Mr. Gargiulo filed suit against BurgerFi claiming, in addition to other matters, that no further monies are owed under the asset purchase agreement and alleges that the Company is responsible for one of Mr. Gargiulo’s failed franchises in Sunny Isles, Florida, losses he has allegedly sustained at his Dania Beach location, and reimbursement of expenses in connection with his marketing company. Mr. Gargiulo seeks damages in excess of $2.0 million in the aggregate. The parties attended mediation on January 20, 2022, which ended in an impasse. Mr. Gargiulo amended his complaint in April 2022, which, among other matters, amended the defendant parties. In October 2022, the Company filed an additional motion to dismiss the amended complaint and a motion to stay discovery. In January 2023, Mr. Gargiulo filed a third amended complaint. In March 2023, the Company filed an answer to Mr. Gargiulo’s complaint and a counterclaim against Mr. Gargiulo relating to the breach of the asset purchase agreement discussed above. On November 5, 2023, the parties attended mediation, which ended in an impasse. Depositions are ongoing and a trial was set for the 5 week docket beginning the week of April 15, 2024. On April 28, 2024, the parties executed a settlement term sheet to continue the trial. The parties are in the process of drafting a 
+
+12
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+formal settlement agreement for Court ratification. On May 1, 2024, a joint stipulation to stay the case for 90 days was filed with the Court to allow for completion of the settlement agreement. On May 12, 2024, the Court entered an order staying the case for 90 days.
+
+
+
+The settlement term sheet provides for $2.0 million in payments for purchase of the two franchised locations in Aventura and Dania Pointe. Transfer of ownership to the Company is intended to occur upon the completion of the settlement payment requirements or earlier buyout. The settlement payments consist of an initial payment of $0.3 million due on August 1, 2024 and additional payments of $1.7 million in royalty relief for the Aventura and Dania Pointe locations. 
+
+
+
+Employment Related Claims. 
+
+
+
+In July 2021, the Company received a demand letter from the attorney of one of its now former hourly restaurant employees. The letter alleges that the former employee was sexually harassed by one of her co-workers. The demand letter claims that the Company discriminated and retaliated against the former employee based on her gender and age and also alleged intentional infliction of emotional distress, negligent hiring, negligent training, and negligent supervision. While the Company entered into a partial settlement with the former employee in December 2022 for a de minimis cash amount relating solely to the discrimination claim, the other claims remain. 
+
+
+
+In March 2020, the Company received notification of a U.S. Equal Employment Opportunity Commission (the “EEOC”) complaint claiming sexual harassment and assault. On July 5, 2023, the EEOC issued a determination letter declining to investigate the matter further and issued a right to sue letter. On September 29, 2023, the claimant filed a lawsuit. The suit is in the early stages and the Company is currently working through initial responses. 
+
+
+
+On or about April 4, 2024, the Company received a demand letter regarding a former employee’s claims of a racially and sexually abusive, discriminatory, hostile and retaliatory work environment. The demand letter is in the early stages and the Company is currently working through the allegations.
+
+
+
+On or about April 15, 2024, the Company was served with a lawsuit alleging wrongful termination of a store manager that is seeking damages for among other items, back pay, emotional distress and front pay. The suit is in the early stages and the Company is currently working through initial responses.
+
+
+
+While the Company believes that all claims of the above mentioned Employment Related Claims, which are covered under the Company’s insurance policies, are meritless, and it plans to defend these allegations, it is reasonably possible that the Company may ultimately be required to pay damages to the claimants, which could be up to $0.5 million or more in aggregate compensatory damages, attorneys’ fees and costs. Management believes that any liability, in excess of applicable insurance coverages or accruals, which may result from these claims, would not be significant to the Company’s financial position or results of operations.
+
+
+
+General Liability and Other Claims.
+
+
+
+The Company is subject to other legal proceedings and claims that arise during the normal course of business, including landlord disputes, slip and fall cases, and various food related matters. While it intends to vigorously defend these matters, it is reasonably possible that the Company may be required to pay substantial damages to the claimants. Management believes that any liability, in excess of applicable insurance coverages or accruals, which may result from these claims, would not be significant to the Company’s financial position or results of operations.
+
+
+
+Purchase Commitments
+
+
+
+From time to time, we enter into purchase commitments for certain food commodities in the normal course of business. As of April 1, 2024, we entered into approximately $5.7 million in unconditional purchase obligations over the next twelve months.
+
+
+
+
+
+9.    Leases
+
+
+
+The Company has entered into various lease agreements and these agreements expire on various dates through 2032 and have renewal options. 
+
+13
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+
+
+The components of lease expense for the periods shown is as follows:
+
+
+
+
+
+                                                                                                 Quarter Ended
+
+(in thousands)                               Classification                             April 1, 2024    April 3, 2023
+
+Operating lease cost                         Occupancy and related expenses            $       3,271   $       3,107 
+
+                                             Pre-opening costs                                     77                — 
+
+                                             Store closure costs                                  115                — 
+
+
+
+Lease termination recovery                   Asset impairment                                     (56)  $           — 
+
+
+
+Finance lease cost:
+
+Amortization of right-of use assets          Depreciation and amortization expense                 88               58 
+
+Interest on lease liabilities                Interest expense                                      45               14 
+
+Less: Sublease income                        Occupancy and related expenses                       (71)             (47)
+
+Total lease cost                                                                       $       3,469   $       3,132 
+
+
+
+The maturity of the Company's operating and finance lease liabilities as of April 1, 2024 is as follows:
+
+
+
+
+
+(in thousands)                                         Operating Leases            Finance Leases
+
+2024                                                $              10,394      $                410 
+
+2025                                                               13,331                       533 
+
+2026                                                               11,672                       504 
+
+2027                                                               10,033                       472 
+
+2028                                                                8,397                       448 
+
+2029 and thereafter                                                10,125                       561 
+
+
+
+Total undiscounted lease payments                                  63,952                     2,928 
+
+Less: present value adjustment                                    (11,168)                     (736)
+
+Total net lease liabilities                         $              52,784      $              2,192 
+
+
+
+As most of the Company's leases do not provide an implicit rate, the Company uses its incremental borrowing rate based on the information available at the commencement date in determining the present value of lease payments. The Company gives consideration to its recent debt issuances as well as publicly available data for instruments with similar characteristics when calculating its incremental borrowing rates. 
+
+
+
+A summary of lease terms and discount rates for finance and operating leases is as follows:
+
+
+
+
+
+                                                                                     April 1, 2024                  April 3, 2023
+
+Weighted-average remaining lease term (in years)
+
+Operating leases                                                                                        5.3                            5.9
+
+Finance leases                                                                                          5.9                            6.1
+
+Weighted-average discount rate
+
+Operating leases                                                                                    7.6  %                        6.3  %
+
+Finance leases                                                                                     10.5  %                        6.0  %
+
+
+
+
+
+
+
+14
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+
+
+10.    Debt
+
+
+
+
+
+(in thousands)                                                                                            April 1, 2024          January 1, 2024
+
+Term loan                                                                                            $              51,253   $              51,253 
+
+Related party note payable                                                                                           15,100                   15,100 
+
+Revolving line of credit                                                                                              2,000                    2,000 
+
+Other notes payable                                                                                                     680                      701 
+
+Finance lease liability                                                                                               2,192                    1,576 
+
+Total Debt                                                                                           $              71,225   $              70,630 
+
+Less: Unamortized debt discount related party note                                                                     (574)                    (612)
+
+Less: Unamortized debt issuance costs                                                                                  (838)                    (978)
+
+Total Debt, net                                                                                                      69,813                   69,040 
+
+Less: Short-term borrowing, including finance leases                                                                (53,064)                 (52,834)
+
+Total Long-term borrowings, including finance leases and related party note payable                  $              16,749   $              16,206 
+
+
+
+The Credit Agreement provides the Company with lender financing structured as a $57.8 million term loan and a $4.0 million revolving loan. 
+
+
+
+On February 1, 2023, the Credit Agreement was amended through the Fourteenth Amendment and subsequently on February 24, 2023 further amended through the Fifteenth Amendment resulting in the Company and its subsidiaries entering into a Secured Promissory Note (the “Note”) with CP7 Warming Bag L.P., an affiliate of L. Catterton Fund L.P., as lender (the “Junior Lender”), pursuant to which the Junior Lender continued that certain delayed draw term loan (the “Delayed Draw Term Loan”) of $10.0 million, under the Credit Agreement, which is junior subordinated secured indebtedness, and also provided $5.1 million of new junior subordinated secured indebtedness, to the Company (collectively the “Junior Indebtedness”), for a total of $15.1 million in junior subordinated secured debt on terms reasonably acceptable to the Required Lenders (as defined in the Credit Agreement), including, without limitation, that (1) such indebtedness shall not mature until at least two (2) years after the maturity date of the credit facility of September 30, 2025; (2) no payments of cash interest shall be made on such indebtedness until after the repayment in full of the obligations under the Credit Agreement; and (3) no scheduled or voluntary payments of principal shall be made until after the repayment in full of the obligations under the Credit Agreement.
+
+
+
+On July 7, 2023, the Credit Agreement was amended through the Sixteenth Amendment, which amended the definition of EBITDA for the purposes of expanding the scope of non-recurring items that may be included in the determination of Adjusted EBITDA, as well as modifications to certain covenants for leverage and fixed charge ratios.
+
+
+
+As of April 1, 2024, the Company was not in compliance with the minimum liquidity requirement of the Credit Agreement,which constitutes a breach of the Credit Agreement and an event of default. Accordingly, the outstanding balance of the Credit Agreement is included in short-term borrowings together with the short term borrowings, including finance leases in the accompanying consolidated balance sheets.
+
+
+
+The Company is not forecasted to have the readily available funds to repay the debt if the lenders do call the debt, which raises substantial doubt about the Company’s ability to continue as a going concern within one year after the date the consolidated financial statements are issued.
+
+
+
+15
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+
+
+As discussed in Note 2 “Summary of Significant Accounting Policies”, the Company received notices from the syndicate of commercial banks under the Credit Agreement that all of the rights, obligations and claims under the Credit Agreement were assigned to TREW. The Company has initiated discussions with TREW with respect to potential solutions regarding the event of default described above.
+
+
+
+The terms of the Credit Agreement as amended require the Company to repay the principal of the term loan in quarterly installments, and pay the outstanding balance on the revolving line of credit at maturity; however, due to event of default we classified all of the principal as payable within the next nine months as follows:
+
+
+
+in thousands
+
+2024                                                                $                 53,253 
+
+2025                                                                                       — 
+
+2026                                                                                       — 
+
+2027                                                                                  15,100 
+
+2028                                                                                       — 
+
+Total                                                               $                 68,353 
+
+
+
+The Credit Agreement, including the term loan and revolving line of credit, is secured by substantially all of the Company’s assets and incurs interest on outstanding amounts at the following rates per annum through maturity:
+
+
+
+
+
+Time Period                                                  Interest Rate
+
+From January 1, 2024 through June 15, 2024                       7.25%
+
+From June 16, 2024 through maturity                              7.75%
+
+
+
+
+
+
+
+
+
+The Delayed Draw Term Loan is a non-interest bearing loan and, accordingly, was recorded at fair value as part of the Anthony’s acquisition which resulted in a debt discount of approximately $1.3 million, which is being amortized over the period of the Delayed Draw Term Loan. The Company recorded debt discount amortization of $0.1 million for each of the quarters ended April 1, 2024 and April 3, 2023, which is included within interest expense in the accompanying consolidated statements of operations.
+
+
+
+The Junior Indebtedness, which accrues interest at 4% per annum (i) is secured by a second lien on substantially all of the assets of the Company and the subsidiary guarantors (the “Guarantors”) pursuant to the terms and that certain Guaranty and Security Agreement, dated February 24, 2023, by and among the Guarantors and the Junior Lender, (ii) is subject to the terms of that certain Intercreditor and Subordination Agreement dated February 24, 2023, by and between the Administrative Agent and the Junior Lender and acknowledged by the borrowers and the Guarantors, and (iii) matures on the date that is the second anniversary of the maturity date under the Credit Agreement (the “Junior Maturity Date”) (September 30, 2027, based on the maturity date under the Credit Agreement of September 30, 2025).
+
+
+
+Under the terms of the Junior Indebtedness, no payments of cash interest or payments of principal shall be due until the Junior Maturity Date, and no voluntary prepayments may be made on the Junior Indebtedness prior to the Junior Maturity Date until after the repayment in full of the obligations under the Credit Agreement. 
+
+
+
+The Company had $14.5 million recorded, net of unamortized discount under the Junior Indebtedness as of April 1, 2024 and January 1, 2024, respectively, included in Related party note payable in the accompanying consolidated balance sheets.
+
+
+
+The amendments to the Credit Agreement and the Delayed Draw Term Loan were accounted for as modifications of debt in the Company’s accompanying consolidated financial statements. 
+
+
+
+For the quarter ended April 1, 2024 and April 3, 2023, interest expense consisted of:
+
+
+
+
+
+
+
+16
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+
+
+                                                                   Quarter Ended
+
+(in thousands)                                            April 1, 2024     April 3, 2023
+
+  Interest on credit agreement                          $          483   $        1,051 
+
+  Interest on related party note                                    689                 — 
+
+  Amortization of debt issuance costs                               139               106 
+
+  Amortization of related party note discount                        38                39 
+
+  Non-cash interest on redeemable preferred stock                 1,106             1,022 
+
+  Other interest expense (income)                                    22              (140)
+
+                                                        $        2,477   $        2,078 
+
+
+
+
+
+11.    Income Taxes
+
+
+
+For each of the quarters ended April 1, 2024 and April 3, 2023, the Company's effective income tax rate was 0%. The difference from the U.S. corporate statutory federal income tax rate of 21%, is primarily the result of the valuation allowance applied to reduce the Company’s deferred tax assets to the amount that is more likely than not to be realized for each of the quarters ended April 1, 2024 and April 3, 2023, respectively. 
+
+
+
+
+
+12.    Stockholders' Equity
+
+
+
+Common Stock
+
+
+
+The Company is authorized to issue 100,000,000 shares of common stock with a par value of $0.0001 per share. Holders of the Company’s common stock are entitled to one vote for each share. At April 1, 2024 and January 1, 2024, there were 27,042,213 shares and 26,832,691 shares of common stock outstanding, respectively.
+
+
+
+In addition to the CEO Awards, as defined below, as contemplated by the Bachmann Employment Agreement (as defined below) and as an inducement to employment, effective as of July 10, 2023, the Company issued the CEO 63,500 shares of the Company’s common stock, which such shares are subject to Rule 144 of the Securities Act of 1933, as amended.
+
+
+
+Preferred Stock 
+
+
+
+The Company is authorized to issue 10,000,000 shares of preferred stock with a par value of $0.0001 per share with such designation, rights and preferences as may be determined from time to time by the Company’s Board of Directors. As of April 1, 2024 and January 1, 2024, there were 2,120,000 shares of preferred stock outstanding. 
+
+
+
+On February 24, 2023, the Company filed an amended and restated certificate of designation, (the “A&R CoD”), which among other matters, added a provision providing that in the event the Company fails to timely redeem any shares of Series A Preferred Stock on November 3, 2027, the applicable dividend rate shall automatically increase to the lesser of (A) the sum of 10.0% plus the 2.0% applicable default rate (with such aggregate rate increasing by an additional 0.35% per quarter from and after November 3, 2027), or (B) the maximum rate that may be applied under applicable law, unless waived in writing by a majority of the outstanding shares of Series A Junior Preferred Stock.
+
+
+
+The A&R CoD also added a provision providing that in the event the Company fails to timely redeem any shares of Series A Junior Preferred Stock in connection with a Qualified Financing (as defined in the A&R CoD) on November 3, 2027 (a “Default”), the Company agrees to promptly commence a debt or equity financing transaction or sale process to solicit proposals for the sale of the Company and its subsidiaries (or, alternatively, the sale of material assets) designed to yield the maximum cash proceeds to the Company available for redemption of the Series A Junior Preferred Stock as promptly as practicable, but in any event, within 12 months from the date of the Default. If on or after November 3, 2026, the Company is aware that it is reasonably unlikely to have sufficient cash to timely effect the redemption in full of the Series A Junior Preferred Stock when first due, the Company shall, prior to such anticipated due date, take reasonable steps to engage an investment banking firm of national standing (and other appropriate professionals) to conduct preparatory work 
+
+17
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+for such a financing transaction and sale process of the Company and its subsidiaries to provide for such transaction to occur as promptly as possible after any failure for a timely redemption of the Series A Junior Preferred Stock.
+
+
+
+The Series A Junior Preferred Stock ranks senior to the common stock and may be redeemed at the option of the Company at any time and must be redeemed by the Company in limited circumstances. The Series A Junior Preferred Stock shall not have voting rights or conversion rights. 
+
+
+
+Interests in a Consolidated Joint Venture
+
+
+
+On February 29, 2024, the Company formed a joint venture with a third party for the development and operation of BurgerFi’s flagship corporate store in New York City, which opened during the quarter ended April 1, 2024. The Company holds an 80% interest in the joint venture and consolidates a $0.5 million 20% contribution to the joint venture from the non-controlling owner.
+
+
+
+Warrants and Options
+
+
+
+As of April 1, 2024, the Company had the following warrants and options outstanding: 15,063,800 warrants outstanding, each exercisable for one share of common stock at an exercise price of $11.50 including 11,468,800 in public warrants, 3,000,000 in Private Placement Warrants, 445,000 in Private Warrants (“private warrants”) and 150,000 in Working Capital Warrants. The public warrants expire in December 2025.
+
+
+
+Warrant Liability
+
+
+
+The Company has private warrants, which include provisions that affect the settlement amount. Such variables are outside of those used to determine the fair value of a fixed-for-fixed instrument, and as such, the warrants are accounted for as liabilities in accordance with ASC 815-40, Derivatives and Hedging, with changes in fair value included in the accompanying consolidated statements of operations. 
+
+
+
+The warrant liability was $0.04 million and $0.2 million at April 1, 2024 and January 1, 2024, respectively. The change in fair value of warrant liabilities for the quarters ended April 1, 2024 and April 3, 2023 resulted in a gain of $0.1 million and a loss of $0.1 million, respectively, and is recognized in the accompanying consolidated statements of operations. 
+
+
+
+The following is an analysis of changes in the warrant liability:
+
+
+
+
+
+
+
+(in thousands)
+
+Warrant liability at January 1, 2024                          $                       182 
+
+Gain during the period                                                               (144)
+
+Warrant liability at April 1, 2024                            $                        38 
+
+
+
+
+
+The fair value of the warrants are determined using the publicly-traded price of our common stock on the valuation dates of $0.5990 on April 1, 2024 and $0.86 on December 29, 2023, the last trading day before January 1, 2024. See Note 13, “Fair Value Measurements.”
+
+
+
+Share-Based Compensation
+
+
+
+The Company has the ability to grant stock options, stock appreciation rights, restricted stock, restricted stock units, other stock-based awards and performance compensation awards to current or prospective employees, directors, officers, consultants or advisors under the Company’s 2020 Omnibus Equity Incentive Plan (the “Plan”). Accordingly, the Plan provides for the granting of Non-qualified Stock Options, Incentive Stock Options, RSU Awards, Restricted Stock Awards, Stock Appreciation Rights, Performance Stock Awards, Performance Unit Awards, Unrestricted Stock Awards, Distribution Equivalent Rights or any combination of the foregoing.
+
+
+
+18
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+As of April 1, 2024 and January 1, 2024, there were approximately 1,400,000 and 400,000 shares of common stock available for future grants under the Plan, respectively. 
+
+
+
+The Company grants RSUs with service conditions, PSUs with performance and market conditions and unrestricted stock awards. RSUs granted with service conditions generally vest over 4 years. Performance conditions are based on key performance indicators, and market conditions include an index to the market value of the stock price of the Company. The fair value of the RSUs and PSUs granted is determined using the fair market value of the Company’s common stock on the date of grant, as set forth in the applicable Plan document.
+
+
+
+RSU and PSU Awards under the Plan
+
+The following table summarizes activity of RSUs and PSUs during the quarter ended April 1, 2024:
+
+
+
+
+
+                                                                                                     Number of Restricted     Weighted Average
+
+                                                                                                             Stock             Grant Date Fair
+
+                                                                                                             Units                  Value
+
+Non-vested at January 1, 2024                                                                                     1,162,550 $            7.37 
+
+Granted                                                                                                           639,535   $            0.81 
+
+Vested                                                                                                           (225,925)  $            2.50 
+
+Forfeited                                                                                                        (273,091)  $            4.48 
+
+Non-vested at April 1, 2024                                                                                     1,303,069   $            5.10 
+
+
+
+Share-based compensation expense recognized for awards under the Plan during the quarters and ended April 1, 2024 and April 3, 2023 was $0.8 million and $4.7 million, respectively. As of April 1, 2024, there was approximately $5.7 million of total unrecognized compensation cost related to unvested RSUs or PSUs under the Plan to be recognized over a weighted average period of 1.1 years.
+
+
+
+Restricted Stock Unit Awards - Inducement Awards
+
+
+
+On July 10, 2023, the Company issued awards of RSUs and PSUs to the Chief Executive Officer (“CEO Awards”) and the Chief Financial Officer (“CFO Awards”) as part of an inducement to enter into employment agreements with the Company (“Inducement Awards”). The Inducement Awards are not part of the Plan. Vesting for the Inducement Awards is over a five year period. Share based compensation expense related to the Inducement Awards recognized during the quarter ended April 1, 2024 was $0.2 million. As of April 1, 2024, there was approximately $1.8 million of total unrecognized compensation cost related to unvested Inducement Awards to be recognized over a weighted average period of 3.2 years.
+
+
+
+Terms of the Inducement Awards are as follows: 
+
+
+
+•The CEO Awards are comprised of 500,000 time based RSUs which, subject to continuous employment, vest in equal tranches of 100,000 units per year, and 500,000 PSUs, which, subject to continuous employment and the achievement of certain performance criteria, vest in equal tranches of 100,000 units per year. 
+
+
+
+•The CFO Awards are comprised of 200,000 time based RSUs which, subject to continuous employment, vest in equal tranches of 40,000 units per year, and 200,000 PSUs, which, subject to continuous employment and the achievement of certain performance criteria, vest in equal tranches of 40,000 units per year. 
+
+
+
+Share-based compensation expense recognized for awards under the Plan and the Inducement Awards during the quarters ended April 1, 2024 and April 3, 2023 was $1.0 million and $4.7 million, respectively. As of April 1, 2024, there was approximately $7.5 million of total unrecognized compensation cost related to unvested RSUs or PSUs under the Plan and Inducement Awards to be recognized over a weighted average period of 2.1 years.
+
+
+
+13.    Fair Value Measurements
+
+
+
+19
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+Fair values of financial instruments are estimated using public market prices, quotes from financial institutions, and other available information. The fair values of cash equivalents, receivables, net, accounts payable and short-term debt approximate their carrying amounts due to their short duration.
+
+
+
+The following tables summarize the fair values of financial instruments measured at fair value on a recurring basis as of April 1, 2024 and January 1, 2024.
+
+
+
+
+
+                                                                                    Items Measured at Fair Value at April 1, 2024
+
+(in thousands)                                                    Quoted prices in active        Significant other         Significant unobservable
+
+                                                                    market for identical      observable inputs (Level           inputs (Level
+
+                                                                    assets (liabilities)                 2)                           3)
+
+                                                                           (Level
+
+                                                                             1)
+
+Warrant liability                                                                       —  $                      38                            — 
+
+Total                                                           $                       —  $                      38  $                        — 
+
+
+
+
+
+                                                                                    Items Measured at Fair Value at January 1, 2024
+
+(in thousands)                                                     Quoted prices in active        Significant other        Significant unobservable
+
+                                                                     market for identical      observable inputs (Level          inputs (Level
+
+                                                                     assets (liabilities)                 2)                          3)
+
+                                                                            (Level
+
+                                                                              1)
+
+Warrant liability                                                                        —  $                    182                            — 
+
+Total                                                            $                       —  $                    182  $                         — 
+
+
+
+In estimating our fair value disclosures for financial instruments, we use the following methods and assumptions:
+
+The fair value of the Company’s warrant liability is measured at fair value on a recurring basis, classified as Level 2 in the fair value hierarchy. The fair value of the Private Placement Warrants, Private Warrants, and Working Capital Warrants are determined using the publicly-traded price of the Company’s common stock on the valuation dates of $0.5990 on April 1, 2024, and $0.86 on December 29, 2023, the last trading day before January 1, 2024. The fair value is calculated using the Black-Scholes option-pricing model. The Black-Scholes model requires us to make assumptions and judgments about the variables used in the calculation, including the expected term, expected volatility, risk-free interest rate, dividend rate and service period. The calculated warrant price for private warrants was $0.01 and $0.05 on April 1, 2024 and January 1, 2024, respectively. 
+
+
+
+The input variables for the Black-Scholes are noted in the table below:
+
+
+
+
+
+                                                                                                           April 1, 2024          January 1, 2024
+
+Risk-free interest rate                                                                                             4.75  %                 4.25   %
+
+Expected life in years                                                                                                   1.7                       2.0
+
+Expected volatility                                                                                                 98.0  %                 98.0   %
+
+Expected dividend yield                                                                                                —  %                    —   %
+
+
+
+Assets and liabilities that are measured at fair value on a non-recurring basis include our long-lived assets and definite-lived intangible assets which are adjusted to fair value upon impairment. In determining fair value, we used an income-based approach. As a number of assumptions and estimates were involved that are largely unobservable, they are classified as Level 3 inputs within the fair value hierarchy. Assumptions used in these forecasts are consistent with internal planning, and include revenue growth rates, royalties, gross margins, and operating expense in relation to the current economic environment and the Company’s future expectations.
+
+
+
+14.    Segment Information
+
+
+
+20
+
+
+
+Table of Contents
+
+BurgerFi International Inc., and Subsidiaries
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+
+
+Operating segments are defined as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker (“CODM”), in deciding how to allocate resources and in assessing performance. The Company’s Chief Executive Officer is the CODM. The Company has two operating and reportable segments: BurgerFi and Anthony’s.
+
+
+
+BurgerFi. BurgerFi is a fast-casual “better burger” concept with franchised and corporate-owned restaurants as offering burgers, hot dogs, crispy chicken, frozen custard, hand-cut fries, shakes, beer, wine and more.
+
+
+
+Anthony’s. Anthony’s is a pizza and wing brand concept centered around a coal fired oven, and its menu offers “well-done” pizza, coal fired chicken wings, homemade meatballs, and a variety of handcrafted sandwiches and salads.
+
+
+
+The CODM measures segment income based on Adjusted EBITDA and believes that the adjusted measure provides a baseline for analyzing business trends. The Company defines Adjusted EBITDA as net loss before lease termination recovery, share-based compensation expense, depreciation and amortization expense, interest expense (which includes accretion on the value of preferred stock and interest accretion on the related party note), restructuring costs, merger, acquisition and integration costs, legal settlements, net, store closure costs, (gain) loss on change in value of warrant liability, pre-opening costs and (gain) loss on sale of assets.
+
+
+
+External sales are derived principally from food and beverage sales, royalty and franchise revenue.
+
+
+
+The Company does not rely on any major customers as a source of sales, and the customers and long-lived assets of our segments are predominantly in the U.S. There were no material transactions among the Company’s segments.
+
+
+
+The following table presents segment revenue and a reconciliation of adjusted EBITDA to net loss by segment:
+
+
+
+
+
+                                                                                      Quarter Ended
+
+                                                      Consolidated                     Anthony’s                         BurgerFi
+
+(in thousands)                              April 1, 2024  April 3, 2023  April 1, 2024   April 3, 2023    April 1, 2024   April 3, 2023
+
+Revenue by Segment                          $    42,879   $    45,726   $     32,393    $    33,145     $    10,486    $    12,581 
+
+
+
+Adjusted EBITDA Reconciliation by Segment:
+
+Net (loss) income                           $    (6,538)  $    (9,151)          (691)   $       446     $    (5,847)   $    (9,597)
+
+
+
+Lease termination recovery                           (56)             —              —               —              (56)              — 
+
+
+
+Share-based compensation expense                     954          4,674            137               —              817           4,674 
+
+Depreciation and amortization expense              3,044          3,227          1,067           1,137            1,977           2,090 
+
+Interest expense                                   2,477          2,078          1,338           1,160            1,139             918 
+
+Restructuring costs                                   79            918              6             253               73             665 
+
+Merger, acquisition and integration costs            131            328             96               —               35             328 
+
+Legal settlements, net                              (284)           282           (325)              —               41             282 
+
+Store closure costs                                  435            121             82              56              353              65 
+
+(Gain) loss on change in value of warrant           (144)            73              —               —             (144)             73 
+
+ liability
+
+Pre-opening costs                                    163              —              —               —              163               — 
+
+(Gain) loss on disposal of assets                     (3)             —              —                 —             (3)                —
+
+
+
+Adjusted EBITDA                             $       258   $     2,550   $      1,710    $     3,052     $    (1,452)   $      (502)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21
+
+
+
+Table of Contents
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+
+
+The following discussion and analysis should be read in conjunction with our unaudited consolidated financial statements and related notes thereto included elsewhere in this Quarterly Report on Form 10-Q, as well as the audited consolidated financial statements and the related notes thereto in our Annual Report on Form 10-K for the fiscal year ended January 1, 2024 (the “2023 Form 10-K”). Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause such differences are discussed in the sections of this Quarterly Report on Form 10-Q titled “Forward-Looking and Cautionary Statements” and “Item 1A. Risk Factors,” and in Part I. “Item 1A. Risk Factors” in the 2023 Form 10-K.
+
+
+
+Overview
+
+
+
+We are a leading multi-brand restaurant company that develops, markets and acquires fast-casual and premium-casual dining restaurant concepts around the world, including corporate-owned stores and franchises. As of April 1, 2024, we were the owner and franchisor of the two following brands:
+
+
+
+Anthony’s. Anthony’s is a premium pizza and wing brand, which prides itself on serving fresh, never frozen, high-quality ingredients. The concept is centered around a 900-degree coal fired oven, and its menu offers “well-done” pizza, coal fired chicken wings, homemade meatballs, and a variety of handcrafted sandwiches and salads. The restaurants also feature a deep wine and craft beer selection to round out the menu. The pizzas are prepared using a unique coal fired oven to quickly seal in natural flavors while creating a lightly charred crust. Anthony’s provides a differentiated offering among its casual dining peers driven by its coal fired oven, which enables the use of fresh, high-quality ingredients with quicker ticket times. 
+
+
+
+Since its inception in 2002, the Anthony’s brand has grown to 60 restaurants including 59 corporate-owned and one franchised location co-branded with BurgerFi as of April 1, 2024, primarily along the East coast and has restaurants in eight states, including Florida (28 corporate and one co-branded franchised), Pennsylvania (11), New Jersey (7), New York (6), Massachusetts (4), Delaware (2), Maryland (1), and Rhode Island (1).
+
+
+
+Anthony’s was named “The Best Pizza Chain in America" by USA Today's Great American Bites,“Top 3 Best Major Pizza Chain” by Mashed in 2021, “The Absolute Best Wings in the U.S.” by Mashed in 2022 and named in “America's Favorite Restaurant Chains of 2022” by Newsweek.
+
+
+
+BurgerFi. BurgerFi is a fast-casual “better burger” concept, renowned for delivering an exceptional, all-natural premium “better burger” experience in a refined, contemporary environment. BurgerFi’s chef-driven menu offerings and eco-friendly restaurant design drive our brand communication. It offers a classic American menu of premium burgers, hot dogs, crispy chicken, hand-cut fries, frozen custard shakes, beer, wine and more. Originally founded in 2011 in Lauderdale-by-the-Sea, Florida, the purpose was simple – “RedeFining” the way the world eats burgers by providing an upscale burger offering, at a fast-casual price point. BurgerFi is committed to an uncompromising and rewarding dining experience that promises fresh food of transparent quality. Since its inception, BurgerFi has grown to 102 BurgerFi locations, and as of April 1, 2024, was comprised of 27 corporate-owned restaurants and 75 franchised restaurants in two countries including 21 states within the United States, as well as Puerto Rico.
+
+
+
+BurgerFi was named "The Very Best Burger" at the 2023 edition of the nationally acclaimed SOBE Wine and Food Festival, "Best Fast Casual Restaurant" in USA Today's 10Best 2023 Readers' Choice Awards for the third consecutive year, QSR Magazine's Breakout Brand of 2020 and Fast Casual's 2021 #1 Brand of the Year. In 2021, Consumer Report praised BurgerFi for serving "no antibiotic beef" across all its restaurants, and Consumer Reports awarded BurgerFi an “A-Grade Angus Beef” rating for the third consecutive year.
+
+
+
+Segments 
+
+
+
+We have two operating and reportable segments: (1) Anthony’s and (2) BurgerFi. Our business generates revenue from the following sources: (i) restaurant sales, (ii) royalty and other fees, consisting primarily of royalties based on a percentage of sales reported by franchised restaurants and paid by franchisees, and (iii) franchise fees, consisting primarily of licensing fees paid by franchisees. 
+
+
+
+22
+
+
+
+Table of Contents
+
+Key Metrics
+
+
+
+The following key metrics are important indicators of the overall direction of our business, including trends in sales and the effectiveness of our marketing, operating, and growth initiatives: 
+
+
+
+Systemwide Restaurant Sales 
+
+
+
+“Systemwide Restaurant Sales” are not revenues to the Company, however the Company records royalty revenue based as a percentage of Systemwide Restaurant Sales. Systemwide Restaurant Sales is presented as informational data in order to understand the aggregation of franchised stores sales, ghost kitchen and corporate-owned store sales performance. Systemwide Restaurant Sales growth refers to the percentage change in sales at all franchised restaurants, ghost kitchens and corporate-owned restaurants in one period from the same period in the prior year. Systemwide Restaurant Same-Store Sales growth refers to the percentage change in sales at all franchised restaurants, ghost kitchens, and corporate-owned restaurants after 14 months of operations. See definition below for “Same-Store Sales.”
+
+
+
+Corporate-Owned Restaurant Sales 
+
+
+
+“Corporate-Owned Restaurant Sales” represent the sales generated only by corporate-owned restaurants. Corporate-Owned Restaurant Sales growth refers to the percentage change in sales at all corporate-owned restaurants in one period from the same period in the prior year. Corporate-Owned Restaurant Same-Store Sales growth refers to the percentage change in sales at all corporate-owned restaurants after 14 months of operations. These measures highlight the performance of existing corporate-owned restaurants.
+
+
+
+Franchise Restaurant Sales 
+
+
+
+“Franchise Restaurant Sales” represent the sales generated only by franchisee-owned restaurants and are not recorded as revenue, however, the royalties based on a percentage of these franchise restaurant sales are recorded as revenue. Franchise Restaurant Sales growth refers to the percentage change in sales at all franchised restaurants in one period from the same period in the prior year. Franchise Restaurant Same-Store Sales growth refers to the percentage change in sales at all franchised restaurants after 14 months of operations. These measures highlight the performance of existing franchised restaurants.
+
+
+
+Same-Store Sales 
+
+
+
+The measure of “Same-Store Sales” is used to evaluate the performance of our store base, which excludes the impact of new stores and closed stores, in both periods under comparison. We include a restaurant in the calculation of Same-Store Sales after 14 months of operations. A restaurant that is temporarily closed, is included in the Same-Store Sales computation. A restaurant that is closed permanently, such as upon termination of the lease, or other permanent closure, is immediately removed from the Same-Store Sales computation. Our calculation of Same-Store Sales may not be comparable to others in the industry. 
+
+
+
+Digital Channel % of Systemwide Sales
+
+
+
+The measure of “Digital Channel % of Systemwide Sales” is used to measure performance of our investments made in our digital platform and partnerships with third party delivery partners. We believe our digital platform capabilities are a vital element to continuing to serve our customers and will continue to be a differentiator for the Company as compared to some of our competitors. Digital Channel as % of Systemwide Sales are indicative of the sales placed through our digital platforms and the percentage of those digital sales when compared to total sales at all our franchised and corporate-owned restaurants. 
+
+
+
+Unless otherwise stated, Systemwide Restaurant Sales, Systemwide Sales growth, and Same-Store Sales are presented on a systemwide basis, which means they include franchise restaurants and corporate-owned restaurants. Franchise restaurant sales represent sales at all franchise restaurants and are revenues to our franchisees. We do not record franchise sales as revenues; however, our royalty revenues and brand royalty revenues are calculated based on a percentage of franchise sales.
+
+
+
+By providing these key metrics, we believe we are enhancing investors’ understanding of our business as well as assisting investors in evaluating how well we are executing our strategic initiatives. 
+
+23
+
+
+
+Table of Contents
+
+
+
+
+
+                                                                         Consolidated
+
+                                                                        Quarter Ended
+
+(in thousands except for percentage data)                   April 1, 2024         April 3, 2023
+
+Systemwide Restaurant Sales                              $        66,034      $        73,445 
+
+Systemwide Restaurant Sales Growth                                    (10)  %                 —   %
+
+Systemwide Restaurant Same-Store Sales Growth                          (7)  %                 1   %
+
+Corporate-Owned Restaurant Sales                         $        40,885      $        43,310 
+
+Corporate-Owned Restaurant Sales Growth                                (6)  %                 3   %
+
+Corporate-Owned Restaurant Same-Store Sales Growth                     (5)  %                 1   %
+
+Franchise Restaurant Sales                               $        25,149      $        30,135 
+
+Franchise Restaurant Sales Growth                                     (17)  %                (3)  %
+
+Franchise Restaurant Same-Store Sales Growth                          (12)  %                 2   %
+
+Digital Channel % of Systemwide Sales                                  32   %                32   %
+
+
+
+
+
+                                                                                     Quarter Ended
+
+                                                                April 1, 2024                           April 3, 2023
+
+(in thousands, except for percentage data)             Anthony's            BurgerFi          Anthony's             BurgerFi
+
+Systemwide Restaurant Sales                        $       32,650    $       33,385    $       33,145     $       40,300 
+
+Systemwide Restaurant Sales Growth                              (1) %            (17) %               2  %              (1) %
+
+Systemwide Restaurant Same-Store Sales Growth                   (2) %            (13) %               3  %               —  %
+
+Corporate-Owned Restaurant Sales                   $       32,379    $        8,506    $       33,145     $       10,165 
+
+Corporate-Owned Restaurant Sales Growth                         (2) %            (16) %               2  %               8  %
+
+Corporate-Owned Restaurant Same-Store Sales Growth              (2) %            (16) %               3  %              (6) %
+
+Franchise Restaurant Sales                         $          270    $       24,879                    N/A  $       30,135 
+
+Franchise Restaurant Sales Growth                                  N/A            (17) %                 N/A              (3) %
+
+Franchise Restaurant Same-Store Sales Growth                       N/A            (12) %                 N/A               2  %
+
+Digital Channel % of Systemwide Sales                           33  %             31  %              34  %              30  %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24
+
+
+
+Table of Contents
+
+Results of Operations
+
+
+
+We present our results of operations as reported in our consolidated financial statements in accordance with generally accepted accounting principles in the United States of America ("GAAP"). 
+
+
+
+
+
+                                                                                Quarter Ended
+
+(in thousands)                                                         April 1, 2024     April 3, 2023
+
+Revenue
+
+Restaurant Sales                                                      $      40,885    $      43,316 
+
+Royalty and other fees                                                         1,558             1,969 
+
+Royalty - brand development and co-op                                            436               441 
+
+
+
+Total Revenue                                                                 42,879            45,726 
+
+Restaurant level operating expenses:
+
+Food, beverage and paper costs                                                10,977            11,611 
+
+Labor and related expenses                                                    13,912            13,216 
+
+Other operating expenses                                                       7,128             7,456 
+
+Occupancy and related expenses                                                 3,890             3,834 
+
+General and administrative expenses                                            5,309             6,573 
+
+Depreciation and amortization expense                                          3,044             3,227 
+
+Share-based compensation expense                                                 954             4,674 
+
+Brand development, co-op and advertising expense                               1,252             1,096 
+
+
+
+Lease termination recovery                                                       (56)                — 
+
+Store closure costs                                                              435               121 
+
+Restructuring costs                                                               79               918 
+
+Pre-opening costs                                                                163                 — 
+
+Total Operating Expenses                                              $      47,087    $      52,726 
+
+Operating Loss                                                                (4,208)           (7,000)
+
+Other income, net                                                                  3                 — 
+
+Gain (loss) on change in fair value of warrant liability                         144               (73)
+
+Interest expense, net                                                         (2,477)           (2,078)
+
+
+
+Loss before income taxes                                                      (6,538)           (9,151)
+
+
+
+Net loss                                                              $      (6,538)   $      (9,151)
+
+
+
+Sales
+
+
+
+The following table presents our corporate-owned restaurant sales by segment:
+
+
+
+                                                                                 Quarter Ended
+
+(in thousands)                                                         April 1, 2024     April 3, 2023
+
+Anthony’s                                                                      32,393            33,145 
+
+BurgerFi                                                                       10,486   $       12,581 
+
+Consolidated                                                          $       42,879   $       45,726 
+
+
+
+
+
+25
+
+
+
+Table of Contents
+
+Comparison of the quarter ended April 1, 2024 and April 3, 2023
+
+
+
+Restaurant Sales
+
+
+
+For the quarter ended April 1, 2024, the Company’s restaurant sales decreased by approximately $2.4 million or 6% as compared to the quarter ended April 3, 2023. This decrease was primarily driven by a decrease in same-store sales at BurgerFi and Anthony’s including the closure of underperforming BurgerFi corporate-owned locations, which was partially offset by the additional revenue from the two acquired BurgerFi restaurants from franchisees during 2023.
+
+
+
+Restaurant Level Operating Expenses 
+
+
+
+Restaurant level operating expenses are as follows:
+
+
+
+
+
+                                                                                                Quarter Ended
+
+                                                                              April 1, 2024                    April 3, 2023
+
+(in thousands, except for percentage data)                            In dollars       As a % of       In dollars       As a % of
+
+                                                                                       restaurant                       restaurant
+
+                                                                                         sales                            sales
+
+Consolidated:
+
+Restaurant Sales                                                     $     40,885        100.0    % $    43,316          100.0    %
+
+Restaurant level operating expenses:
+
+Food, beverage and paper costs                                             10,977           26.8    %       11,611           26.8    %
+
+Labor and related expenses                                                 13,912           34.0    %       13,216           30.5    %
+
+Other operating expenses                                                    7,128           17.4    %        7,456           17.2    %
+
+Occupancy and related expenses                                              3,890            9.5    %        3,834            8.9    %
+
+Total                                                                $    35,907           87.8    % $    36,117           83.4    %
+
+
+
+Anthony's:
+
+Restaurant Sales                                                     $    32,379          100.0    % $    33,145          100.0    %
+
+Restaurant level operating expenses:
+
+Food, beverage and paper costs                                              8,610           26.6    %        8,663           26.1    %
+
+Labor and related expenses                                                 10,872           33.6    %       10,240           30.9    %
+
+Other operating expenses                                                    5,315           16.4    %        5,369           16.2    %
+
+Occupancy and related expenses                                              2,955            9.1    %        2,953            8.9    %
+
+Total                                                                $    27,752           85.7    % $    27,225           82.1    %
+
+
+
+BurgerFi:
+
+Restaurant Sales                                                     $     8,506          100.0    % $     10,171        100.0    %
+
+Restaurant level operating expenses:
+
+Food, beverage and paper costs                                              2,367           27.8    %        2,948           29.0    %
+
+Labor and related expenses                                                  3,040           35.7    %        2,976           29.3    %
+
+Other operating expenses                                                    1,813           21.3    %        2,087           20.5    %
+
+Occupancy and related expenses                                                935           11.0    %          881            8.7    %
+
+Total                                                                $     8,155           95.9    % $     8,892           87.4    %
+
+
+
+Total consolidated restaurant level operating expenses as a percentage of restaurant sales was 87.8% for the quarter ended April 1, 2024 as compared to 83.4% for the quarter ended April 3, 2023, a 440 basis points increase. For the Anthony's brand, restaurant-level operating expenses, as a percentage of sales, increased 360 basis points for the quarter ended April 1, 2024, compared to the quarter ended April 3, 2023, driven primarily by higher wages and lower sales leverage on expenses. For the BurgerFi brand, restaurant-level operating expenses, as a percentage of sales, increased 850 basis points for the quarter ended April 1, 2024, compared to the quarter ended April 3, 2023, primarily due to lower sales leverage and higher wages.
+
+
+
+26
+
+
+
+Table of Contents
+
+Food, Beverage and Paper Costs 
+
+
+
+Food, beverage and paper costs for the quarter ended April 1, 2024 improved approximately $0.6 million or 5% as compared to the quarter ended April 3, 2023. As a percentage of corporate-owned restaurant sales, food, beverage, and paper costs were 26.8% for the quarter ended April 1, 2024 as compared to 26.8% for the quarter ended April 3, 2023. The BurgerFi brand contributed to 92% of the change, which was primarily attributable to loss on sales leverage and lower food, beverage and paper costs.
+
+
+
+Labor and Related Expenses
+
+
+
+Labor and related expenses for the quarter ended April 1, 2024 increased by approximately $0.7 million, or 5% as compared to the quarter ended April 3, 2023. As a percentage of corporate-owned restaurant sales, labor, and related expenses were 34.0% for the quarter ended April 1, 2024 as compared to 30.5% for the quarter ended April 3, 2023. This 350 basis points increase is primarily due to higher per hour labor rates and lower efficiencies due to loss on sales leverage at both brands with Anthony’s contributing to $0.6 million or 91% of the increase. 
+
+
+
+Other Operating Expenses
+
+
+
+Other operating expenses for the quarter ended April 1, 2024 decreased by approximately $0.3 million, or 4% as compared to the quarter ended April 3, 2023. As a percentage of corporate-owned restaurant sales, other operating expenses were 17.4% for the quarter ended April 1, 2024 as compared to 17.2% for the quarter ended April 3, 2023. This 20 basis points decrease primarily related to loss on sales leverage.
+
+
+
+Occupancy and Related Expenses
+
+
+
+Occupancy and related expenses for the quarter ended April 1, 2024 increased by approximately $0.1 million, or 1%, as compared to the quarter ended April 3, 2023. As a percentage of corporate-owned restaurant sales, occupancy and related expenses were 9.5% for the quarter ended April 1, 2024 as compared to 8.9% for the quarter ended April 3, 2023. This increase in percentage of corporate-owned restaurant sales was due to lower sales leverage and operation of more BurgerFi corporate-owned restaurants during the quarter.
+
+
+
+General and Administrative Expenses
+
+
+
+General and administrative expenses for the quarter ended April 1, 2024 decreased by approximately $1.3 million, or 19% as compared to the quarter ended April 3, 2023. The change was due to lower wages as a result of headcount reductions in our restaurant support center initiated during the second quarter of 2023 driven by efficiencies gained by integration activities, reduced litigation expenses, reduced professional fees and lower merger integration activities during the quarter ended April 1, 2024 as compared to the quarter ended April 3, 2023. 
+
+
+
+Depreciation and Amortization Expense
+
+
+
+Depreciation and amortization expense was $3.0 million for the quarter ended April 1, 2024, as compared to $3.2 million for the quarter ended April 3, 2023. This decrease was primarily related to lower asset values due to fully depreciated assets and as a result of impairments recorded during the prior year.
+
+
+
+Share-Based Compensation Expense
+
+
+
+Share-based compensation expense was $1.0 million for the quarter ended April 1, 2024, as compared to $4.7 million for the quarter ended April 3, 2023, primarily due to lower grant date fair value leading to reduced amortization of restricted stock unit grants during the quarter ended April 1, 2024 as compared to the prior year quarter. 
+
+
+
+Brand Development, Co-op and Advertising Expense
+
+
+
+Brand development, co-op and advertising expense was $1.3 million for the quarter ended April 1, 2024, as compared to $1.1 million for the quarter ended April 3, 2023. This increase primarily relates to the timing of advertising activities in 2024 when compared to the same quarter in the prior year.
+
+
+
+
+
+27
+
+
+
+Table of Contents
+
+Store Closure Costs
+
+
+
+Store closure costs were $0.4 million for the quarter ended April 1, 2024 as compared to $0.1 million for the quarter ended April 3, 2023 primarily as a result of the closure of two BurgerFi company-owned locations during the current quarter.
+
+
+
+Restructuring costs and other charges, net
+
+
+
+Restructuring costs and other charges, net for the quarters ended April 1, 2024 and April 3, 2023 of $0.1 million and $0.9 million, respectively, primarily related to prior year professional fees and other costs incurred in connection with our Credit Facility requirements to raise additional capital or debt. 
+
+
+
+Interest Expense, net
+
+
+
+Interest expense, net was approximately $2.5 million and $2.1 million for quarters ended April 1, 2024 and April 3, 2023, respectively. Interest expense primarily resulted from interest associated with our Credit Agreement (as defined below), interest accretion on the related party note, and the accretion in value of our outstanding preferred stock offset by interest income on our cash deposits. Interest expense, net increased due to additional interest under our Credit Agreement and lower interest income on cash deposits.
+
+
+
+Gain on Change in Value of Warrant Liability
+
+
+
+The Company recorded a non-cash gain of approximately $0.1 million during the quarter ended April 1, 2024, as compared to a non-cash loss of approximately $0.1 million during the quarter ended April 3, 2023, related to a change in the fair value of the warrant liability as a result of a decrease in the market price of our outstanding warrants. 
+
+
+
+Net Loss
+
+
+
+Net loss was $6.5 million, as compared with a net loss of $9.2 million for the quarters ended April 1, 2024 and April 3, 2023, respectively. Net loss improved primarily due to lower share-based compensation expense, lower general and administrative expenses, and lower restructuring costs. 
+
+
+
+Adjusted EBITDA
+
+
+
+Adjusted EBITDA was approximately $0.3 million and $2.6 million for the quarter ended April 1, 2024 and April 3, 2023, respectively. The decrease in Adjusted EBITDA for the quarter ended April 1, 2024 was driven by lost leverage on sales and higher wages. Please see below for reconciliation of non-GAAP financial measure Adjusted EBITDA to the most directly comparable GAAP measure, net (loss) income on a consolidated basis and by segment.
+
+
+
+Non-GAAP Financial Measures 
+
+
+
+As appropriate, we supplement our reported GAAP financial information with certain non-GAAP financial measures, including adjusted earnings before interest, income taxes, depreciation and amortization (“Adjusted EBITDA”). We define Adjusted EBITDA as net loss before lease termination recovery, share-based compensation expense, depreciation and amortization expense, interest expense (which includes accretion on the value of preferred stock and interest accretion on the related party note), restructuring costs, merger, acquisition and integration costs, legal settlements, net, store closure costs, (gain) loss on change in value of warrant liability, pre-opening costs and (gain) loss on sale of assets.
+
+
+
+We use Adjusted EBITDA to evaluate our performance, both internally and as compared with our peers, because this measure excludes certain items that may not be indicative of our core operating results, as well as items that can vary widely across different industries or among companies within the same industry. We believe that this adjusted measure provides a baseline for analyzing trends in our underlying business. 
+
+
+
+We believe that this non-GAAP financial measure provides meaningful information and helps investors understand our financial results and assess our prospects for future performance. Because non-GAAP financial measures are not standardized, it may not be possible to compare these financial measures with other companies’ non-GAAP financial measures having the same or similar names. These financial measures should not be considered in isolation from, 
+
+28
+
+
+
+Table of Contents
+
+as substitutes for, or alternative measures of, reported net income, and should be viewed in conjunction with the most comparable GAAP financial measures and the provided reconciliations thereto. We believe this non-GAAP financial measure, when viewed together with our GAAP results and the related reconciliations, provides a more complete understanding of our business. We strongly encourage investors to review our consolidated financial statements and publicly filed reports in their entirety and not rely on any single financial measure.
+
+
+
+Below is a reconciliation of Non-GAAP Adjusted EBITDA to the most directly comparable GAAP measure, net loss on a consolidated basis and by segment for the quarters ended April 1, 2024 and April 3, 2023:
+
+
+
+
+
+                                                    Consolidated                     Anthony’s                      BurgerFi
+
+
+
+Quarter ended (in thousands)              April 1, 2024   April 3, 2023  April 1, 2024 April 3, 2023  April 1, 2024  April 3, 2023
+
+Net (loss) income                         $     (6,538) $      (9,151) $      (691) $        446 $      (5,847) $     (9,597)
+
+
+
+Lease termination recovery                          (56)             —               —             —            (56)              —
+
+
+
+Share-based compensation expense                     954         4,674             137             —             817          4,674
+
+Depreciation and amortization expense              3,044         3,227           1,067         1,137           1,977          2,090
+
+Interest expense                                   2,477         2,078           1,338         1,160           1,139            918
+
+Restructuring costs                                   79           918               6         253                73            665
+
+Merger, acquisition and integration costs            131           328              96             —              35            328
+
+Legal settlements, net                             (284)           282           (325)             —              41            282
+
+Store closure costs                                  435           121              82            56             353             65
+
+(Gain) loss on change in value of                  (144)            73               —             —           (144)           73 
+
+ warrant
+
+ liability
+
+Pre-opening costs                                    163             —               —             —             163              —
+
+(Gain) loss on disposal of assets                    (3)             —               —             —             (3)              —
+
+
+
+Adjusted EBITDA                           $       258   $      2,550   $     1,710   $    3,052   $     (1,452)  $      (502)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liquidity and Capital Resources
+
+
+
+Our primary sources of liquidity are cash from operations and cash and cash equivalents on hand. As of April 1, 2024, we maintained a cash and cash equivalents balance of approximately $4.1 million.
+
+
+
+We have short and long-term material cash requirements for our working capital needs, known contractual obligations in the form of operating leases, finance leases, and debt obligations as disclosed in our consolidated financial statements, as well as ongoing capital expenditures. Excluding debt repayments, our requirements for working capital are generally not significant because our guests pay for their food and beverage purchases in cash or on debit or credit cards at the time of the sale and we are able to sell many of our inventory items before payment is due to the supplier of such items. Our requirements for operating and finance leases and ongoing capital expenditures are principally related to operating our store locations, remodels and maintenance, and investments in our digital and corporate infrastructure.
+
+
+
+Our Credit Agreement contains numerous covenant clauses, including those whereby the Company is required to meet certain trailing twelve month quarterly financial ratios and a minimum liquidity requirement. The Company was not in compliance with the minimum liquidity covenant under the Credit Agreement as of April 1, 2024, which constitutes a breach of the Credit Agreement and an event of default.
+
+
+
+This event of default allows the lenders to call the debt sooner than its maturity date of September 30, 2025. The Company does not currently have and is not forecasted to have the readily available funds to repay the debt if called by the lenders, which raises substantial doubt about the Company’s ability to continue as a going concern within one year after the date the consolidated financial statements are issued.
+
+
+
+29
+
+
+
+Table of Contents
+
+From April 15, 2024 to April 17, 2024, the Company received notices from the syndicate of commercial bank lenders under the Credit Agreement that all of the rights, obligations and claims under the Credit Agreement were assigned to TREW. The Company has initiated discussions with TREW with respect to potential solutions regarding the event of default described above. See Note 10, “Debt,” for additional disclosure surrounding the amended Credit Agreement.
+
+
+
+Our long-term material cash requirements for periods beyond the next 12 months include obligations for operating leases and finance leases and ongoing capital expenditures. We currently are unable to assess the likelihood that our cash flows generated from operations and future available liquidity balances will be sufficient to meet our known short and long-term obligations as they currently exist.
+
+
+
+The following table presents the summary cash flow information for the periods indicated:
+
+
+
+
+
+                                                                                                     Three Months Ended
+
+(in thousands)                                                                             April 1, 2024            April 3, 2023
+
+Net cash (used in) provided by:
+
+Operating activities                                                                  $              (2,916)  $              (1,961)
+
+Investing activities                                                                                    (834)                    (802)
+
+Financing activities                                                                                     341                     (128)
+
+Net decrease in cash                                                                  $              (3,409)  $              (2,891)
+
+
+
+
+
+Cash Flows Used In Operating Activities
+
+
+
+During the quarter ended April 1, 2024, cash flows used in operating activities were approximately $2.9 million. The cash flows used in operating activities resulted from a net loss of $6.5 million primarily due to a decrease in same store sales and higher wages. Additionally, changes in operating assets and liabilities resulted in a net liability decrease of approximately $0.8 million, which was mainly due to a net decrease in accounts payable - trade and other and prepaid expenses and other assets partially offset by an increase in accrued expenses and other current liabilities, primarily as a result of timing of payments and timing of prepaid rent and insurance.
+
+
+
+Cash Flows Used In Investing Activities
+
+
+
+During the quarter ended April 1, 2024, cash flows used in investing activities were approximately $0.8 million primarily related to purchases of property and equipment for minor remodels and equipment replacements.
+
+
+
+Cash Flows Provided by (Used in) Financing Activities
+
+
+
+During the quarter ended April 1, 2024, cash flows provided by financing activities were approximately $0.1 million, which were related to contributions of $0.5 million from a non-controlling interest, tax payments for restricted stock upon vesting, repayments of finance leases and payments on borrowings.
+
+30
+
+
+
+Table of Contents
+
+Credit Agreement
+
+
+
+The Company is party to a credit agreement with a syndicate of commercial banks (as amended, the “Credit Agreement”), which provides the Company with lender financing structured as a $57.8 million term loan and a $4.0 million line of credit as of April 1, 2024, with a maturity date of September 30, 2025. 
+
+
+
+On February 1, 2023, the Credit Agreement was amended through the Fourteenth Amendment and subsequently on February 24, 2023 further amended through the Fifteenth Amendment resulting in the Company and its subsidiaries entering into a Secured Promissory Note (the “Note”) with CP7 Warming Bag L.P., an affiliate of L. Catterton Fund L.P., as lender (the “Junior Lender”), pursuant to which the Junior Lender continued that certain delayed draw term loan (the “Delayed Draw Term Loan”) of $10.0 million, under the Credit Agreement, which is junior subordinated secured indebtedness, and also provided $5.1 million of new junior subordinated secured indebtedness, to the Company (collectively (the “Junior Indebtedness”), for a total of $15.1 million in junior subordinated secured debt on terms reasonably acceptable to the Required Lenders (as defined in the Credit Agreement), including, without limitation, that (1) such indebtedness shall not mature until at least two (2) years after the maturity date of the credit facility of September 30, 2025; (2) no payments of cash interest shall be made on such indebtedness until after the repayment in full of the obligations under the Credit Agreement; and (3) no scheduled or voluntary payments of principal shall be made until after the repayment in full of the obligations under the Credit Agreement.
+
+
+
+On July 7, 2023 the Credit Agreement was amended through the Sixteenth Amendment, which amended the definition of EBITDA for the purposes of expanding the scope of non-recurring items that may be included in our determination of Adjusted EBITDA, as well as modifications to certain covenants for leverage and fixed charge ratios and requirements and timeline for when a management consultant must be engaged.
+
+
+
+We recorded $15.1 million, net of unamortized discount of $0.6 million under the Junior Indebtedness as of April 1, 2024 included in related party note payable in the accompanying consolidated balance sheets.
+
+
+
+From April 15, 2024 to April 17, 2024, we received notices from the syndicate of commercial bank lenders under the Credit Agreement that all of the rights, obligations and claims under the Credit Agreement were assigned to TREW.
+
+
+
+Information regarding our Credit Agreement can be found under Note 10, “Debt,” to the consolidated financial statements included within this report.
+
+
+
+Critical Accounting Policies and Use of Estimates
+
+
+
+For information regarding our Critical Accounting Policies and Estimates, see the “Critical Accounting Policies and Estimates” section of “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our 2023 Annual Report on Form 10-K, filed with the U.S. Securities and Exchange Commission. During the quarter ended April 1, 2024, there were no material changes in our critical accounting estimates or policies.
+
+
+
+
+
+
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+
+
+Not applicable.
+
+
+
+Item 4. Controls and Procedures. 
+
+
+
+Evaluation of Disclosure Controls and Procedures. As of the end of the period covered by this Form 10-Q, our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act. We maintain disclosure controls and procedures designed to ensure that information required to be disclosed in reports filed or submitted by us under the Exchange Act is recorded, processed, summarized and reported within time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, or persons performing similar functions, as appropriate to allow timely decisions regarding required 
+
+31
+
+
+
+Table of Contents
+
+disclosure. Based on management’s evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective at the reasonable assurance level as of April 1, 2024.
+
+
+
+Changes in Internal Control Over Financial Reporting. There have been no changes in the Company’s internal control over financial reporting during the quarter ended April 1, 2024 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+
+
+Part II. Other Information
+
+
+
+None.
+
+
+
+Item 1. Legal Proceedings
+
+
+
+Information regarding our legal proceedings can be found under the Contingencies sections of Note 8, “Commitments and Contingencies,” to the consolidated financial statements included within this report.
+
+
+
+Item 1A. Risk Factors
+
+
+
+Our business, financial condition, operating results, and cash flows may be impacted by a number of factors, many of which are beyond our control, including those set forth in the 2023 Form 10-K, the occurrence of any one of which could have a material adverse effect on our actual results.
+
+
+
+There here have been no material changes to the risk factors disclosed in the 2023 Form 10-K.
+
+
+
+
+
+Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds 
+
+
+
+None.
+
+
+
+
+
+Item 5. Other Information
+
+
+
+None.
+
+
+
+32
+
+
+
+Table of Contents
+
+Item 6.    Exhibits
+
+
+
+The Exhibit Index below contains a list of exhibits filed or furnished with this Form 10-Q.
+
+
+
+Exhibit Index
+
+
+
+
+
+     Exhibit No.                                                        Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.1*                     Certifications required by Section 302(a) of the Sarbanes-Oxley Act of 2002.
+
+
+
+31.2*                     Certifications required by Section 302(a) of the Sarbanes-Oxley Act of 2002.
+
+
+
+32.1**                    Certifications required by Section 906 of the Sarbanes-Oxley Act of 2002.
+
+
+
+32.2**                    Certifications required by Section 906 of the Sarbanes-Oxley Act of 2002.
+
+
+
+101.SCH                   Inline XBRL Taxonomy Extension Schema
+
+
+
+101.CAL                   Inline XBRL Taxonomy Extension Calculation Linkbase
+
+
+
+101.DEF                   Inline XBRL Taxonomy Extension Definition Linkbase
+
+
+
+101.LAB                   Inline XBRL Taxonomy Extension Label Linkbase
+
+
+
+101.PRE                   Inline XBRL Taxonomy Extension Presentation Linkbase
+
+
+
+104                       The cover page from the Company’s Quarterly Report on Form 10-Q for the period ended April 1, 2024 has
+
+                           been formatted in Inline
+
+                           XBRL.
+
+___________________________
+
+*    Filed herewith.
+
+**    Furnished.
+
+
+
+33
+
+
+
+Table of Contents
+
+SIGNATURES
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+Dated: May 16, 2024
+
+
+
+
+
+BurgerFi International, Inc.
+
+
+
+By:    /s/ Carl Bachmann
+
+       Carl Bachmann
+
+       Chief Executive Officer (Principal Executive Officer)
+
+
+
+
+
+By:    /s/ Christopher Jones
+
+       Christopher Jones
+
+       Chief Financial Officer (Principal Financial and Accounting Officer)
+
+34

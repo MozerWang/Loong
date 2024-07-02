@@ -1,0 +1,1953 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+☒  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended March 31, 2024
+
+or
+
+☐  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from
+
+ 
+
+Commission File No. 000-54739
+
+ 
+
+                                 Ameritek Ventures, Inc.
+
+                      (Name of small business issuer in its charter)
+
+ 
+
+                             Nevada                                                                        87-2380777
+
+                 (State or other jurisdiction of                                                        (I.R.S. Employer
+
+                 incorporation or organization)                                                        Identification No.)
+
+ 
+
+325 N Milwaukee Ave. Suite G1
+
+Wheeling, IL 60090
+
+(Address of principal executive offices)
+
+ 
+
+(312) 239-3574
+
+(Issuer’s telephone number)
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒     No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes ☒     No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer                    ☐                           Accelerated filer                           ☐
+
+Non-accelerated Filer                      ☒                           Smaller reporting company                   ☒
+
+                                                                        Emerging growth company                     ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐     No ☒
+
+ 
+
+Indicate the number of shares outstanding of each of the issuer’s classes of common equity, as of the latest practicable date: As of May 14, 2024, the Company had 554,226,791 outstanding shares of its common stock, par value $0.001.
+
+
+
+1
+
+
+
+ 
+
+ 
+
+Special Note Regarding Forward-Looking Statements
+
+ 
+
+This Quarterly Report on Form 10-Q, including “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Item 2, of Part I of this report include forward-looking statements. These statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance, or achievements expressed or implied by forward-looking statements.
+
+ 
+
+In some cases, you can identify forward-looking statements by terminology such as “may,” “should,” “expects,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “potential,” “proposed,” “intended,” or “continue” or the negative of these terms or other comparable terminology. You should read statements that contain these words carefully, because they discuss our expectations about our future operating results or our future financial condition or state other “forward-looking” information. There may be events in the future that we are not able to accurately predict or control. Before you invest in our securities, you should be aware that the occurrence of any of the events described in this Quarterly Report could substantially harm our business, results of operations and financial condition, and that upon the occurrence of any of these events, the trading price of our securities could decline and you could lose all or part of your investment. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, growth rates, levels of activity, performance or achievements. We are under no duty to update any of the forward-looking statements after the date of this Quarterly Report to conform these statements to actual results.
+
+ 
+
+
+
+2
+
+
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+PART I – FINANCIAL INFORMATION                                                                                                          
+
+                                                                                                                                        
+
+Item 1.       Financial Statements                                                                                                      
+
+              Condensed Consolidated Balance Sheets (unaudited)                                                                       4 
+
+              Condensed Consolidated Statements of Operations (unaudited)                                                             5 
+
+              Condensed Consolidated Statements of Stockholders’ Equity (Deficit) (unaudited)                                         6 
+
+              Condensed Consolidated Statements of Cash Flows (unaudited)                                                             7 
+
+              Notes to Condensed Consolidated Financial Statements (unaudited)                                                        8 
+
+                                                                                                                                         
+
+Item 2.       Management’s Discussion and Analysis of Financial Condition and Results of Operations                                  20 
+
+Item 3.       Quantitative and Qualitative Disclosures about Market Risk                                                             21  
+
+Item 4.       Controls and Procedures                                                                                                21 
+
+                                                                                                                                        
+
+PART II – OTHER INFORMATION                                                                                                             
+
+                                                                                                                                        
+
+Item 1.       Legal Proceedings                                                                                                      23 
+
+Item 1A.      Risk Factors                                                                                                           23 
+
+Item 2.       Unregistered Sales of Equity Securities and Use of Proceeds                                                            23 
+
+Item 3.       Defaults Upon Senior Securities                                                                                        23 
+
+Item 4.       Mine Safety Disclosures                                                                                                23 
+
+Item 5.       Other Information                                                                                                      23 
+
+Item 6.       Exhibits                                                                                                               23 
+
+Signatures                                                                                                                           24 
+
+ 
+
+
+
+3
+
+
+
+ 
+
+ 
+
+AMERITEK VENTURES, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+ (Unaudited)
+
+ 
+
+ 
+
+                                                                                                                                   As of                           As of            
+
+                                                                                                                                 March 31,                      December 31,        
+
+                                                                                                                                    2024                            2023            
+
+                                                      ASSETS                                                                                                                        
+
+Current assets:                                                                                                                                                                     
+
+Cash                                                                                                                     $                    2,245      $                    5,618 
+
+Accounts receivable, net                                                                                                                    128,873                         132,380 
+
+Prepaid expense                                                                                                                               1,519                           1,519 
+
+Total current assets                                                                                                                        132,637                         139,517 
+
+Property and equipment, net                                                                                                                       -                               - 
+
+Long-term assets:                                                                                                                                                                   
+
+Commitment fees (lines of credit)                                                                                                            33,264                          35,112 
+
+Investment in securities                                                                                                                    661,886                         661,886 
+
+Patent                                                                                                                                      250,000                         250,000 
+
+Product development, net                                                                                                                    514,072                         524,117 
+
+Goodwill                                                                                                                                  2,184,715                       2,184,715 
+
+Total long-term assets                                                                                                                    3,643,937                       3,655,830 
+
+Total assets                                                                                                             $                3,776,574      $                3,795,347 
+
+                                       LIABILITIES AND STOCKHOLDER’S EQUITY                                                                                                         
+
+Current liabilities:                                                                                                                                                                
+
+Accounts payable                                                                                                         $                  615,721      $                  987,071 
+
+Accrued interest and expenses                                                                                                               529,988                         547,204 
+
+Deferred revenue                                                                                                                            441,324                         151,005 
+
+Short-term debt                                                                                                                              21,000                          21,000 
+
+Total current liabilities                                                                                                                 1,608,033                       1,706,280 
+
+Long-term liabilities:                                                                                                                                                              
+
+Long term debts                                                                                                                           1,960,746                       1,933,448 
+
+Total liabilities                                                                                                                         3,568,779                       3,639,728 
+
+Stockholders' equity (deficit):                                                                                                                                                     
+
+Preferred stock Series A, $0.01 par value, 10,000,000 shares authorized, 7,488,730 issued and outstanding,                                   74,887                          74,887 
+
+ respectively
+
+Preferred stock Series B, $0.01 par value, 10,000,000 shares authorized, 10,000,000 issued and outstanding,                                 100,000                         100,000 
+
+ respectively
+
+Preferred stock Series C, $0.01 par value, 60,000,000 shares authorized, 59,988,972 and 36,888,972 issued and                               599,890                         599,890 
+
+ outstanding, at end of period and start of period
+
+ respectively
+
+Preferred stock Series D, $0.01 par value, 10,000,000 shares authorized, 9,083,630 issued and outstanding,                                   90,836                          90,836 
+
+ respectively
+
+Preferred stock Series E, $0.01 par value, 23,000,000 shares authorized, 23,000,000 issued and outstanding,                                 230,000                         230,000 
+
+ respectively
+
+Common stock, $0.001 par value, 950,000,000 shares authorized, 583,226,791 and 554,226,791 issued and outstanding,                          583,227                         554,227 
+
+ and end of period and start of period
+
+ respectively
+
+Additional paid in capital                                                                                                                  888,517                         885,038 
+
+Accumulated deficit                                                                                                                      (2,359,562)                     (2,379,259)
+
+Total stockholders' equity                                                                                                                  207,795                         155,619 
+
+Total liabilities and stockholders' equity                                                                               $                3,776,574      $                3,795,347 
+
+                                                                                                                                                                                    
+
+ 
+
+ 
+
+                   The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+    
+
+
+
+4
+
+
+
+ 
+
+ 
+
+AMERITEK VENTURES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Unaudited)
+
+ 
+
+ 
+
+                                                                                                                    Three months ended               Three months ended     
+
+                                                                                                                         March 31,                        March 31,         
+
+                                                                                                                           2024                             2023            
+
+Revenue: Operating Revenue                                                                                      $                  215,922     $                    242,320 
+
+                                                                                                                                                                            
+
+Expenses:                                                                                                                                                                   
+
+Development and support                                                                                                            102,769                          119,645 
+
+General and administrative                                                                                                          40,752                           38,403 
+
+Depreciation and amortization                                                                                                       10,045                           52,503 
+
+Total operating expenses                                                                                                           153,566                          210,551 
+
+Operating income                                                                                                                    62,356                           31,769 
+
+Other expense:                                                                                                                                                              
+
+Interest expense                                                                                                                   (42,659)                         (38,526)
+
+         Net income/(loss) for the period:                                                                                          19,697                           (6,757)
+
+Net income (loss) per common share:                                                                                                                                         
+
+Basic                                                                                                         $                       0.00     $                      (0.00)
+
+Diluted                                                                                                       $                       0.00     $                      (0.00)
+
+Shares used in computing earnings per share                                                                                                                                 
+
+Basic                                                                                                                          554,226,791                      514,226,791 
+
+Diluted                                                                                                                        554,226,791                      514,226,791 
+
+ 
+
+  
+
+                   The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+
+
+5
+
+
+
+ 
+
+ 
+
+AMERITEK VENTURES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIT)
+
+(Unaudited)
+
+ 
+
+ 
+
+                                        Series A                         Series B                          Series C                        Series D                         Series E                                                    Additional                                Total
+
+                                     Preferred Stock                 Preferred Stock                   Preferred Stock                  Preferred Stock                 Preferred Stock                     Common Stock                  Paid-In          (Accumulated       Stockholder’s
+
+                                  Shares         Amount          Shares           Amount          Shares           Amount          Shares         Amount          Shares           Amount           Shares            Amount           Capital            Deficit)             Equity
+
+ Balance, December 31, 2022         7,488,730        $74,887       10,000,000        $100,000       36,888,972        $368,890       9,083,630        $90,836       23,000,000        $230,000        514,226,791        $514,227         $1,239,878        $(2,320,349)         $298,369   
+
+ Net loss three months ended                -              -                -               -                -               -               -              -                -               -                  -               -                  -            $(6,757)            $(6,757)
+
+          March 31,
+
+             2023
+
+   Balance, March 31, 2023      7,488,730            $74,887       10,000,000        $100,000       36,888,972        $368,890       9,083,630        $90,836       23,000,000        $230,000        514,226,791        $514,227         $1,239,878      $(2,327,106)           $291,602   
+
+ Balance, December 31, 2023     7,488,730            $74,887       10,000,000        $100,000       59,988,972        $599,890       9,083,630        $90,836       23,000,000        $230,000        554,226,791        $554,227           $885,038      $(2,379,259)           $155,619   
+
+       Debt conversion                      -              -                -               -                -               -               -              -                -               -         29,000,000         $29,000             $3,480                   -             $32,480
+
+Net loss three months ended,                -              -                -               -                -               -               -              -                -               -                  -               -                  -             $19,696             $19,696
+
+          March 31,
+
+             2024
+
+   Balance, March 31, 2024          7,488,730        $74,887       10,000,000        $100,000       59,988,972        $599,890       9,083,630        $90,836       23,000,000        $230,000        583,226,791        $583,227           $888,517      $(2,359,562)           $207,795   
+
+ 
+
+ 
+
+                   The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+
+
+6
+
+
+
+ 
+
+ 
+
+AMERITEK VENTURES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited)
+
+ 
+
+ 
+
+                                                                                                                             Three months ended              Three months ended     
+
+                                                                                                                                 March 31,                       March 31,          
+
+                                                                                                                                    2024                            2023            
+
+Cash flows from operating activities:                                                                                                                                               
+
+Net income (loss)                                                                                                          $                 19,697        $                 (6,757)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                                                                         
+
+Amortization and depreciation                                                                                                                10,045                          52,503 
+
+Amortization of LOC commitment fees                                                                                                           1,848                               - 
+
+Decrease (increase) in assets:                                                                                                                                                      
+
+Accounts receivable                                                                                                                           3,507                         283,206 
+
+Increase (decrease) in liabilities:                                                                                                                                                 
+
+Accounts payable                                                                                                                           (371,350)                       (244,010)
+
+   Accrued interest                                                                                                                          29,150                          29,718 
+
+   Deferred revenues                                                                                                                        290,319                         (31,611)
+
+Net cash flow (used in)/ provided by operating activities                                                                                   (16,784)                         83,049 
+
+Cash flows from investing activities:                                                                                                                                               
+
+  Product development expenditures                                                                                                                -                               - 
+
+Net cash flow (used in)/ provided by investing activities                                                                                         -                               - 
+
+Cash flows from financing activities:                                                                                                                                               
+
+ Change in line of credit                                                                                                                    25,750                               - 
+
+ Repayment of long-term debt                                                                                                                (12,339)                        (83,228)
+
+Net cash flow (used in)/provided by financing activities                                                                                     13,411                         (83,228)
+
+Net increase (decrease) in cash                                                                                                              (3,373)                           (179)
+
+Cash – beginning of the year                                                                                                                  5,618                             751 
+
+Cash – end of the period                                                                                                   $                  2,245        $                    572 
+
+Supplemental cash flow information                                                                                                                                                  
+
+Cash paid for interest                                                                                                     $                  5,453        $                  7,612 
+
+Non-cash investing and financing activities:                                                                                                                                        
+
+Conversion of debt to Class A common stock                                                                                 $                 32,840        $                      - 
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+  
+
+
+
+7
+
+
+
+ 
+
+ 
+
+1.GENERAL ORGANIZATION AND BUSINESS 
+
+The Company was organized on December 27, 2010, under the laws of the State of Nevada, as ATVROCKN. On June 20, 2017, the Company changed its corporate name to Ameritek Ventures, Inc (“Ameritek Ventures” or “Ameritek” or the “Company”).
+
+ 
+
+Ameritek is a group of companies that provides various world-class software and hardware products and services beneficial to businesses, organizations, and governments. We have an established presence in the warehouse solutions market. With Interactive Systems, Inc. we provide software inventory management and with interlinkONE, Inc. we provide SaaS cloud-based solutions for warehouse and inventory fulfillment. We manufacture and innovate advanced technological developments in the medical industry, such as the DittoMask high-filtration mask. We also develop blockchain technology software programs under WebBeeO and CordTell companies. Furthermore, Ameritek Ventures explores augmented reality technology with Augmum, Inc. Meanwhile, our vertical landing aircraft service from AeroPass, Inc. takes ZenaDrone technology to a higher level with members-only passenger first-class transport across cities. Ecker Capital, LLC is our merger and acquisition division. ESM Software, Inc. is a software technology provider specializing in developing business strategy management solutions. The Company also recently created a new business, Equock, Inc., with which Ameritek will develop an electric bicycle with a focus on the growing online delivery industry.
+
+ 
+
+2.SUMMARY OF ACCOUNTING PRINCIPLES 
+
+ 
+
+Basis of Accounting
+
+The financial statements and accompanying notes are prepared under accrual of accounting in accordance with generally accepted accounting principles of the United States of America ("US GAAP"). These statements reflect all adjustments, consisting of normal recurring adjustments, which in the opinion of management are necessary for fair presentation of the information contained therein.
+
+ 
+
+Use of Estimates
+
+The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amount of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+
+ 
+
+Cash and Cash Equivalents
+
+For purposes of the statement of cash flows, the Company considers highly liquid financial instruments purchased with a maturity of three months or less to be cash equivalents.
+
+ 
+
+Long-lived Assets
+
+The Company reviews the carrying value of property, plant, and equipment for impairment whenever events and circumstances indicate that the carrying value of an asset may not be recoverable from the estimated future cash flows expected to result from its use and eventual disposition. In cases where undiscounted expected future cash flows are less than the carrying value, an impairment loss is recognized as equal to an amount by which the carrying value exceeds the fair value of assets. The factors considered by management in performing this assessment include current operating results, trends, and prospects, as well as the effects of obsolescence, demand, competition, and other economic factors.
+
+ 
+
+Property and Equipment
+
+Equipment is recorded at its acquisition cost, which includes the costs to bring the equipment to the condition and location for its intended use, and equipment is depreciated using the straight-line method over the estimated useful life of the related asset as follows:
+
+ 
+
+Furniture and fixtures                                                                                                                                                     5 years
+
+Computers and equipment                                                                                                                                                  3-5 years
+
+Website development                                                                                                                                                        3 years
+
+Leasehold improvements                                                                                                                                                     5 years
+
+ 
+
+Amortization of leasehold improvements is computed using the straight-line method over the shorter of the remaining lease term or the estimated useful lives of the improvements.
+
+ 
+
+Assets held under capital leases are recorded at the lower of the net present value of the minimum lease payments or the fair value of the leased asset at the inception of the lease. Amortization expense is computed using the straight-line method over the useful lives of the assets due to transfer of ownership after the lease term has expired.
+
+ 
+
+Maintenance and repairs will be charged to expenses as incurred. Significant renewals and betterments will be capitalized. At the time of retirement or other disposition of equipment, the cost and accumulated depreciation will be removed from the accounts and the resulting gain or loss, if any, will be reflected in operations. 
+
+ 
+
+Property and equipment are evaluated for impairment whenever impairment indicators are prevalent. The Company will assess the recoverability of equipment by determining whether the depreciation and amortization of these assets over their remaining life can be recovered through projected undiscounted future cash flows. The amount of equipment impairment, if any, will be measured based on fair value and is charged to operations in the period in which such impairment is determined by management.
+
+ 
+
+Fair Value of Financial Instruments
+
+Under FASB ASC 820-10-05, the Financial Accounting Standards Board establishes a framework for measuring fair value in generally accepted accounting principles and expands disclosures about fair value measurements. This Statement reaffirms that fair value is the relevant measurement attribute. The adoption of this standard did not have a material effect on the Company’s financial statements as reflected herein. The carrying amounts of cash, accounts payable and accrued expenses reported on the balance sheets are estimated by management to approximate fair value primarily due to the short-term nature of the instruments. The Company has debt instruments that require fair value measurement on a recurring basis.
+
+  
+
+
+
+8
+
+
+
+Intangible Assets and Intellectual Property
+
+Intangible assets are amortized using the straight-line method over their estimated period of benefit of five to fifteen years. We evaluate the recoverability of intangible assets periodically and take into consideration events or circumstances that warrant revised estimates of useful lives or that indicate that impairment exists. All of our intangible assets are subject to amortization. No material impairments of intangible assets have been identified during any of the periods presented. The Company’s accumulated amortization expense on intangible assets totaled $10,045 for the three months ended March 31, 2024, and $441,326 for the year ended December 31, 2023.
+
+ 
+
+(a)Product Development 
+
+During the fourth quarter of 2022, certain historical accounts have been reclassified to comply with their treatment according to ASC. What was classified as goodwill in 2021 is classified as product development for 2022. Upon further consideration, discussion and review, the Company has reverted to its previous classification of goodwill, separating goodwill from product development during 2023. Goodwill is not being amortized.
+
+ 
+
+(b)Patent 
+
+The Company has a US patent 9217598B2 for FlexFridge, a foldable refrigerator, acquired with the Bozki merger. The patent is not being amortized because we have not put it into production yet. However, we will amortize it when it goes into production. 
+
+Ameritek Ventures sold in the first quarter of 2022 a drone patent in exchange for 3,500,000 common shares per share Canadian to ZenaTech, Inc, a related party, at the exchange rate of 1.2691 $US to CAN$, as listed by https://www.poundsterlinglive.com/. Ameritek realized $661,887 revenue from this sale equally from the period January 1 through December 31, 2022.
+
+ 
+
+Goodwill
+
+The Company evaluates the carrying value of goodwill during the fourth quarter of each year and between annual evaluations if events occur or circumstances change that would more likely than not reduce the fair value of the reporting unit below its carrying amount. Such circumstances could include, but are not limited to (1) a significant adverse change in legal factors or in business climate, (2) unanticipated competition, or (3) an adverse action or assessment by a regulator. When evaluating whether goodwill is impaired, the Company compares the fair value of the reporting unit to which the goodwill is assigned to the reporting unit's carrying amount, including goodwill. The fair value of the reporting unit is estimated using a combination of the income, or discounted cash flows, approach, and the market approach, which utilizes comparable companies' data. If the carrying amount of a reporting unit exceeds its fair value, then the amount of the impairment loss must be measured. 
+
+ 
+
+The impairment loss would be calculated by comparing the implied fair value of reporting unit goodwill to its carrying amount. In calculating the implied fair value of reporting unit goodwill, the fair value of the reporting unit is allocated to all of the other assets and liabilities of that unit based on their fair values. The excess of the fair value of a reporting unit over the amount assigned to its other assets and liabilities is the implied fair value of goodwill. An impairment loss would be recognized when the carrying amount of goodwill exceeds its implied fair value. The Company's evaluation of goodwill completed during the past periods resulted in no impairment losses for the year ended December 31, 2023.
+
+ 
+
+Change in accounting policy for goodwill during financial statements made during fiscal year 2023
+
+ 
+
+The Company acquired Interactive Systems, Inc. in May 2021. The cost of the acquisition in excess of net tangible assets was $775,761. Of this amount, $362,721 was associated with product development and amortized over a period of just under two years, which corresponds to the useful life of the asset. The remaining amount of $413,039 is associated with goodwill. Product development cost was determined based on the cost the Company would have incurred to develop the software acquired. Amortization expense was recorded correctly during the period since acquisition. 
+
+ 
+
+The Company incorrectly recorded the net product development cost as goodwill on the balance sheet and in the associated footnotes. Accordingly, goodwill on the balance sheet as of December 31, 2022 was reduced by $42,457 and product development cost was increased by a net amount of $42,457. The amount of the reclass as of December 31, 2022 included gross intangible of $362,721 and accumulated amortization of $320,264. Product development costs associated with this asset as of December 31, 2021 included gross intangible of $362,721 and accumulated amortization of $150,435, which is a net asset of $212,286.
+
+ 
+
+During the fourth quarter of 2022, certain historical accounts have been reclassified to comply with their treatment according to ASC. What was classified as goodwill in 2021 is classified as product development for 2022. Upon further consideration, discussion and review, the Company has reversed its previous classification of goodwill, separating goodwill from product development. There was no change in the accounting treatment. The Company has made various acquisitions and mergers historically. In the years of acquisitions/mergers, the Company has treated excess consideration paid in acquisition as product development (intangible other than goodwill) or goodwill. Although the same treatment was applied under the account title ‘Goodwill’ until September 2022, but was treated as product development, an intangible other than goodwill. In December 2022, the Company changed the nomenclature of this account from goodwill to product development. The previous year's figures as of December 31, 2022 are for twelve months in the balance sheet and have not been reinstated for the adjustments for change in the accounting of goodwill and product development. This is because of the change in the adjustments as stated in the above paragraphs that have been carried out in the current year. 
+
+ 
+
+The Company changed its accounting policy of classification of excess amount paid in the various acquisitions and mergers from product development (intangible other than goodwill) to goodwill for the financial statements as of June 30, 2023 and revised the useful life of reclassified product development cost in case of Interactive Systems, Inc. 
+
+ 
+
+The Company went to its original classification of goodwill in 2023. It does notcurrently amortize goodwill. 
+
+There is no effect in the year ending December 31, 2023 due to going back to the original treatment period of goodwill.
+
+ 
+
+Beneficial Conversion Features
+
+From time to time, the Company may issue convertible notes that may contain an imbedded beneficial conversion feature. A beneficial conversion feature exists on the date a convertible note is issued when the fair value of the underlying common stock to which the note is convertible into is in excess of the remaining unallocated proceeds of the note after first considering the allocation of a portion of the note proceeds to the fair value of warrants if related warrants have been granted. 
+
+ 
+
+The intrinsic value of the beneficial conversion feature is recorded as a debt discount with a corresponding amount to additional paid in capital. The debt discount is amortized to interest expense over the life of the note using the effective interest method.
+
+ 
+
+
+
+9
+
+
+
+Basic and Diluted Net Earnings per Share
+
+Basic net earnings (loss) per common share is computed by dividing net earnings (loss) applicable to common shareholders by the weighted-average number of common shares outstanding during the period. Diluted net earnings (loss) per common share is determined using the weighted-average number of common shares outstanding during the period, adjusted for the dilutive effect of common stock equivalents, 
+
+consisting of shares that might be issued upon exercise of common stock options. In periods where losses are reported, the weighted-average number of common shares outstanding excludes common stock equivalents, because their inclusion would be anti-dilutive. 
+
+ 
+
+Earnings per Share
+
+The basic earnings (loss) per share is calculated by dividing the Company's net income (loss) available to common shareholders by the weighted average number of common shares issued and outstanding during the year. The diluted earnings (loss) per share is calculated by dividing the Company's net income (loss) available to common shareholders by the diluted weighted average number of shares outstanding during the year. The diluted weighted average number of shares outstanding is the basic weighted number of shares adjusted as of the first year for any potentially dilutive debt or equity.
+
+ 
+
+Dividends
+
+The Company has not yet adopted any policy regarding payment of dividends. No dividends have been paid during the period shown.
+
+ 
+
+Revenue Recognition
+
+We account for revenue in accordance with ASC Topic 606, “Revenue from Contracts with Customers.”
+
+ 
+
+Performance Obligations
+
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is the unit of account in ASC Topic 606. A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. The Company’s performance obligations are classified as deferred revenue on the balance sheet.
+
+ 
+
+Our Company sells software with the following terms, twelve months, six months, three months and one month. Ameritek earns its revenue with the passage of time. Any unearned revenue is classified as deferred revenue. For each reporting period we prepare a schedule to separate the revenue earned from the deferred revenue and book the deferred amount. Deferred revenue are payments received from customers for products or services that have not been delivered yet. There are no costs associated with the deferred revenue since all the costs are incurred in day-to-day operations and through the passage of time.
+
+ 
+
+We had $441,324 of outstanding performance obligations comprised of deferred revenue as of March 31, 2024. Ameritek expects to recognize approximately 25% in the first quarter of 2024, 25% in the second quarter of 2024 and the remaining thereafter. The amount transferred to revenue from deferred revenue during the first three months of 2024 was $151,004.
+
+ 
+
+Revenue Recognition
+
+The Company designs and sells various software and maintenance programs to business enterprises including, among others, warehouse distribution to printing and battery manufacturing companies, and marketing services to financial services and insurance companies, printing, or advertising companies. Prior to shipment, each software product is tested extensively to meet Company specifications. The software is shipped fully functional via electronic delivery but requires some installation and setup.
+
+ 
+
+Installation is a standard process, outlined in the owner's manual, consisting principally of setup, calibrating, and testing the software. A purchaser of the software could complete the process using the information in the owner's manual, although it would probably take significantly longer than it would take the Company’s technicians to perform the tasks. Although other vendors do not install the Company’s software, they do provide largely interchangeable installation services for a fee. Historically, the Company has never sold the software without installation. Most installations are performed by the Company within 7 to 24 days of shipment and are included in the overall sales price of the software. In addition, the customer must pay for support contracts and training packages, depending on their desired level of service. The Company is the only manufacturer of the software and it only sells software on a standalone basis directly to the end user.
+
+ 
+
+The sales price of the arrangement consists of the software, installation, and training and support services, which the customer is obligated to pay in full upon delivery of the software. In addition, there are no general rights of return involved in these arrangements. Therefore, the software is accounted for as a separate unit of accounting.
+
+ 
+
+The Company does not have vendor-specific objective evidence of selling price for the software because it does not sell the software separately (without installation services and support contracts). In addition, third-party evidence of selling price does not exist as no vendor separately sells the same or largely interchangeable software. Therefore, the Company uses its best estimate of selling price when allocating such arrangement consideration.
+
+ 
+
+In estimating its selling price for the software, the Company considers the cost to produce the software, profit margin for similar arrangements, customer demand, effect of competitors on the Company’s software, and other market constraints. When applying the relative selling price method, the Company uses its best estimate of selling price for the software, and third-party evidence of selling price for the installation. Accordingly, without considering whether any portion of the amount allocable to the software is contingent upon delivery of the other items, the Company allocates the selling price to the software, support, and installation.
+
+ 
+
+The Company doesn’t currently provide product warranties, but if it does in the future it will provide for specific product lines and accrue for estimated future warranty costs in the period in which the revenue is recognized.
+
+ 
+
+Collection Policy
+
+When all collections activities are exhausted and an account receivable is deemed uncollected, the company creates a reserve in the allowance for doubtful accounts. Based on management experience, which may involve obtaining a legal opinion on its collectability, the company will then write off the amount uncollectible by reducing the allowance for doubtful accounts.
+
+ 
+
+Income Taxes
+
+The Company utilizes the asset and liability method of accounting for deferred income taxes as prescribed by the FASB Accounting Standard Codification, ("ASC"), 740 (Income Taxes). This method requires the recognition of deferred tax liabilities and assets for the expected future tax consequences of temporary differences between the tax return and financial statement reporting basis of certain assets and liabilities.
+
+ 
+
+
+
+10
+
+
+
+As required by ASC 740-10, "Income Taxes", the Company recognizes the financial statement benefit of a tax position only after determining that the relevant tax authority would more likely than not sustain the position following an audit. For tax positions meeting the more-likely-than-not threshold, the amount recognized in the financial statements is the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement with the relevant tax authority. Management does not believe that there are any uncertain tax positions which would have a material impact on the financial statements. The Company has elected to include interest and penalties related to uncertain tax positions as a component of income tax expense. To date, the Company has not recorded any interest or penalties related to uncertain tax positions.
+
+ 
+
+Advertising
+
+Advertising is expensed when incurred. Ameritek spent $40,467 and $9,851, on advertising for the three months ended March 31, 2024, and 2023.
+
+ 
+
+Recent Accounting Pronouncements
+
+The Company continually assesses any new accounting pronouncements to determine their applicability to the Company. Where it is determined that a new accounting pronouncement affects the Company’s financial reporting, the Company undertakes a study to determine the consequence of the change to its financial statements and assures that there are proper controls in place to ascertain that the Company’s financials properly reflect the change. The Company currently does not have any recent accounting pronouncements that they are studying, and feel may be applicable.
+
+ 
+
+Bansal & Co. LLP served as our principal independent public accountant for reporting fiscal year ended December 31, 2023.
+
+ 
+
+3.FAIR VALUE OF FINANCIAL INSTRUMENTS 
+
+
+
+Under FASB ASC 820-10-5, fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (an exit price). The standard outlines a valuation framework and creates a fair value hierarchy in order to increase the consistency and comparability of fair value measurements and the related disclosures. Under GAAP, certain assets and liabilities must be measured at fair value, and FASB ASC 820-10-50 details the disclosures that are required for items measured at fair value.
+
+ 
+
+The Company does not have any financial instruments that must be measured under the new fair value standard. The Company’s financial assets and liabilities are measured using inputs from the three levels of the fair value hierarchy. The three levels are as follows:
+
+ 
+
+Level 1 – Inputs are unadjusted quoted prices in active markets for identical assets or liabilities that the Company has the ability to access at the measurement date.
+
+ 
+
+Level 2 – Inputs include quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, inputs other than quoted prices that are observable for the asset or liability (e.g., interest rates, yield curves, etc.), and inputs that are derived principally from or corroborated by observable market data by correlation or other means (market corroborated inputs).
+
+ 
+
+Level 3 – Unobservable inputs that reflect our assumptions about the assumptions that market participants would use in pricing the asset or liability. 
+
+ 
+
+The following schedules summarize the valuation of financial instruments at fair value on a non-recurring basis in the balance sheets as of March 31, 2024 and December 31, 2023.
+
+ 
+
+                                                                                                                  Fair Value Measurements as of March 31, 2024                       
+
+                                                                                                      Level 1                       Level 2                      Level 3            
+
+Assets                                                                                                                                                                          
+
+   ZenaTech securities                                                                       $                       -   $                  661,886   $                       - 
+
+   Total assets                                                                                                                             661,886                             
+
+Liabilities                                                                                                                                                                     
+
+   Short-term debt                                                                                                   -                       21,000                           - 
+
+   Long-term debt, including current portion                                                                         -                    1,960,746                           - 
+
+Total liabilities                                                                            $                           $               (1,981,746)  $                         
+
+ 
+
+                                                                                                                Fair Value Measurements as of December 31, 2023                      
+
+                                                                                                      Level 1                       Level 2                      Level 3            
+
+Assets                                                                                                                                                                          
+
+   ZenaTech securities                                                                       $                       -   $                  661,886   $                       - 
+
+   Total assets                                                                                                                             661,886                             
+
+Liabilities                                                                                                                                                                     
+
+   Short-term debt                                                                                                   -                       21,000                           - 
+
+   Long-term debt, including current portion                                                                         -                    1,933,448                           - 
+
+Total liabilities                                                                            $                           $               (1,954,448)  $                         
+
+ 
+
+There were no transfers of financial assets or liabilities between Level 1 and Level 2 inputs for the balance sheet periods ended March 31, 2024, and December 31, 2023.
+
+
+
+11
+
+
+
+ 
+
+4.PROPERTY AND EQUIPMENT 
+
+ 
+
+Property and equipment consisted of the following for the three months ended March 31, 2024 and year ended December 31, 2023,
+
+ 
+
+                                                                                                                 March 31, 2024                        December 31, 2023          
+
+Furniture and fixtures                                                                              $                               7,694     $                             7,694 
+
+Computer and equipment                                                                                                             28,568                                  28,568 
+
+Software                                                                                                                            4,200                                   4,200 
+
+Assets held under capital leases                                                                                                    2,783                                   2,783 
+
+Total property and equipment                                                                                                       43,245                                  43,245 
+
+  Less: accumulated depreciation                                                                                                  (43,245)                                (43,245)
+
+Net property and equipment                                                                          $                                   -     $                                 - 
+
+ 
+
+Accumulated depreciation expenses totaled $43,245, and $43,245 for the balance sheet periods ended March 31, 2024 and December 31, 2023.
+
+ 
+
+5.ACQUISITIONS 
+
+ 
+
+Interactive Systems, Inc. Acquisition
+
+On May 14th, 2021, Ecker Capital, LLC, a subsidiary of the Company, purchased the outstanding stock of Interactive Systems, Inc. a Massachusetts corporation for $675,000 and paid $337,500 cash and issued a 6% amortizing two-year debt for $337,500. The 100% stock acquisition resulted in $775,761 product development costs, see table below for calculations.
+
+ 
+
+                                                                                                                                                                  May 2021            
+
+Consideration paid:                                                                                                                                                                  
+
+  Total cost                                                                                                                                           $                     675,000   
+
+Net assets acquired:                                                                                                                                                                 
+
+  Additional paid-in capital                                                                                                                                                (235,012)
+
+  Capital stock                                                                                                                                                              (35,926)
+
+  Owners - fractional stock purchase                                                                                                                                          88,902   
+
+  Retained earnings at December 31, 2020                                                                                                                                     352,609   
+
+  Treasury stock                                                                                                                                                              33,326   
+
+  Retained earnings January 1, 2021 to May 14, 2021                                                                                                                         (103,138)
+
+   Total net assets acquired when purchasing Interactive Systems, Inc.                                                                                                      (100,761)
+
+Consideration paid in excess of fair value (Goodwill) 1                                                                                                $                     775,761   
+
+(1) The excess of the net fair value of assets acquired and liabilities assumed from purchase of Interactive Systems, Inc. was assigned to                                             
+
+ goodwill.
+
+ 
+
+interlinkONE, Inc. Acquisition
+
+Ecker Capital, LLC, a subsidiary of the Company, purchased the outstanding stock of interlinkONE, Inc., a Massachusetts corporation for $500,000 on October 1, 2021, and paid $250,000 cash and issued a 6% amortizing two-year debt for $250,000 with interest paid monthly. The 100% acquisition resulted in $446,651 product development costs, see table below for calculations.
+
+ 
+
+                                                                                                                                                              October 2021         
+
+Consideration paid:                                                                                                                                                               
+
+Total cost                                                                                                                                            $                   500,000   
+
+Net assets acquired:                                                                                                                                                              
+
+Cash                                                                                                                                                                      (51,806)
+
+Accounts receivable                                                                                                                                                       (36,928)
+
+Fixed assets - net                                                                                                                                                         (5,798)
+
+Lease deposits                                                                                                                                                             (5,800)
+
+Amex - CC                                                                                                                                                                   9,353 
+
+Deferred revenue                                                                                                                                                            6,646 
+
+Accrued interest                                                                                                                                                              167 
+
+Note payable                                                                                                                                                               30,816 
+
+Total book value                                                                                                                                                          (53,349)
+
+   Total net assets acquired when purchasing interlinkONE, Inc.                                                                                                           446,651 
+
+Consideration paid in excess of the fair value (Product development) 1                                                                                $                   446,651   
+
+(1)The excess of the net fair value of assets acquired and liabilities assumed from purchase of interlinkONE was assigned to product                                                
+
+ development.
+
+ 
+
+The consolidated financial statements include the transactions of its wholly owned subsidiaries – Interactive Systems Inc and interlinkONE Inc, incorporated in the Company’s books of accounts.
+
+
+
+12
+
+
+
+ 
+
+6.PRODUCT DEVELOPMENT COSTS 
+
+ 
+
+                                         Total                                   Total                 Total         Amortization            Amortization               Net
+
+                                         Costs            Additions           Total Costs          Amortization         Quarter End.        3-Months Ended          Book Value
+
+                                      12/31/2023             2024             03/31/2024            12/31/2023           03/31/2024           03/31/2024            03/31/2024
+
+Ameritek                                      $120,000             $ -                 $120,000               $8,000               $2,000               $2,000               $110,000
+
+interlinkONE                                   446,651              -                   446,651               66,998    7,444                7,444                            372,209
+
+interlinkONE                                    36,071          -                        36,071                3,607                  601                  601                 31,863
+
+           Total costs                     $602,722                  $ -               $602,722             $78,605              $10,045              $10,045          $514,702      
+
+ 
+
+See table below for 2023 goodwill activity.
+
+ 
+
+                          Total                            Total         Beginning           Total                            Amortization        Amortization           Net
+
+                          Costs         Transfer to     Total Costs      Book Value       Amortization      Transfer to          during            Year Ended         Book Value
+
+                                          goodwill                                                            goodwill
+
+                       12/31/2022           2023         12/31/2023      12/31/2022        12/31/2022           2023         the year 2023         12/31/2023         12/31/2023
+
+     Ameritek                 $120,000           $ -          $120,000       $ 120,000                 $ -             $ -              $8,000              $8,000          $112,000
+
+   interlinkONE                446,651               0         446,651         409,430              37,221               -              29,776              66,997           379,654
+
+       Boski                   235,660         235,660               0         204,238              31,422         200,310               3,928              35,350                 -
+
+       Boski                 1,036,016       1,036,016               0         897,880             138,136         880,613              17,267             155,403                 -
+
+      VW Win                   500,000         500,000               0         433,334              66,666         425,001               8,333              74,999                 -
+
+Interactive Systems            775,761         413,039         362,722         691,721              84,040         678,792              12,929              96,969                 -
+
+   interlinkONE                 36,071                          36,071          34,869               1,202               -               2,404               3,606            32,465
+
+       Total                $3,150,159      $2,184,715       $ 965,444      $2,791,472            $358,687      $2,184,716             $82,637            $441,324          $524,119
+
+ 
+
+7.SHORT-TERM DEBT 
+
+ 
+
+Convertible Note 1, note $21,000 to Cloud Builder, Inc.
+
+ 
+
+Ameritek issued $185,000 non-convertible promissory note to Cloud Builder, Inc. on May 13, 2021 for a forty-two month note at 15% interest. The Company’s management and that of Cloud Builder, Inc. decided it was in their best interest to convert the note on August 5, 2021. Ameritek issued 30,000,000 shares to Cloud Builder, Inc. in consideration for $166,330 on September 9, 2021, which represents $164,000 repayment of principal, $2,330 accumulated interest payable, and issued a $21,000 note on demand to Cloud Builder, Inc., representing short-term debt at an annual interest rate of 6%, which adds back to the principal.
+
+ 
+
+Ameritek owed $24,966 for this short-term debt, representing $21,000 principal and $3,996 interest as of March 31, 2024. The Company owed $24,596 for this short-term debt, representing $21,000 principal and $3,596 interest as of December 31, 2023. 
+
+ 
+
+8.LOANS PAYABLE 
+
+ 
+
+Ameritek Ventures, Inc. has the following loan payable as of March 31, 2024 and December 31, 2023.
+
+ 
+
+                                                                                                                                  March 31,                  December 31,        
+
+                                                                                                                                    2024                         2023            
+
+Bozki1 loan #1 (note 10)                                                                                                           $        200,000             $        200,000 
+
+Bozki2 loan #2 (note 10)                                                                                                                    572,411                      572,411 
+
+VW Win Epazz3 loan (note 10)                                                                                                                250,000                      250,000 
+
+SBA Reading Coop loan                                                                                                                             -                        3,311 
+
+SBA Interactive Systems loan                                                                                                                540,087                      500,000 
+
+SBFC LLC loan                                                                                                                                34,540                       42,753 
+
+Cloud Builder note                                                                                                                          366,709                      364,973 
+
+Less: current portion                                                                                                                             -                            - 
+
+Total promissory notes, less current portion                                                                                        $     1,960,746               $    1,933,448 
+
+ 
+
+1 Bozki, Inc. had a note with Epazz, Inc., a related party. Epazz, Inc. owns the Company’s voting stock. Shaun Passley, PhD is majority owner of Epazz’s voting stock and the President of the Company. See ‘Assumption of $200,000 note from Bozki merger’ below and note 10.
+
+2 Bozki, Inc. had a note with Epazz, Inc., a related party. Epazz, Inc. owns the Company’s voting stock. Shaun Passley, PhD is majority owner of Epazz’s voting stock and the President of the Company. See ‘Assumption of $1,000,000 note from Bozki merger’ below and note 10.
+
+3 VW Win, Inc. had a note with Epazz, Inc., a related party. Epazz, Inc. owns the Company’s voting stock. Shaun Passley, PhD is majority owner of Epazz’s voting stock and the President of the Company. See ‘Assumption of $250,000 note from VW Win merger’ below and note 10.
+
+ 
+
+Ameritek utilizes its available lines of credit with related parties (note 10) to justify the long-term classification of the current portion of third-party debt. As such the current portion of long-term debt of $44,517 is recorded as a long-term liability in the balance sheet as of March 31, 2024. The Company also recorded an 
+
+
+
+13
+
+
+
+accrued interest expense of $529,988 as of March 31, 2024.
+
+ 
+
+The current portion of long-term debt of $46,063 is recorded as a long-term liability in the balance sheet as of December 31, 2023. The Company recorded an accrued interest expense of $547,204 as of December 31, 2023.
+
+ 
+
+Assumption of $200,000 convertible note from Bozki merger
+
+ 
+
+Ameritek merged with Bozki, Inc. on November 13, 2020. At the merger the Company assumed a 10-year, convertible note of $200,000 and accrued interest of $46,648 with Epazz, Inc., (“Epazz”), a Wyoming corporation and a related party, see note 10. The promissory note had an effective date of January 1, 2018, an interest rate of eight percent (8%) per year, which interest shall accrue from the effective date until January 1, 2028, unless prepaid prior to this date. The promissory note shall provide for one hundred twenty (120) equal monthly payments commencing one hundred twenty (120) days after April 1, 2018. Payee will have an option to defer 36 monthly payments. The payee will need to provide written notice of how many payments it wishes to defer. The deferred payment(s) will have an interest rate of 10%. On December 1, 2020 both parties agreed to defer payments until January 1, 2028.
+
+ 
+
+The total amount due under the promissory note was $200,000 and accrued interest of $99,982 as of March 31, 2024. The total number of shares of common stock the noteholder could convert was 249,985,000, which is the total amount due of $299,982, divided by $0.0012, or $0.0015 share price at a 20% discount rate. The Ameritek Ventures, Inc. common stock share price was $0.0015 on March 28, 2024, as quoted on the https://www.otcmarkets.com/.
+
+ 
+
+The total amount due under the promissory note was $200,000 and accrued interest of $95,982 as of December 31, 2023. The total number of shares of common stock the noteholder could convert was 194,725,000, which is the total amount due of $295,982, divided by $0.0015, or $0.0019 share price at a 20% discount rate. The Ameritek Ventures, Inc. common stock share price was $0.0019 on December 31, 2023, as quoted on the https://www.otcmarkets.com/.
+
+ 
+
+Assumption of $1,000,000 convertible note from Bozki merger and conversion to $500,000 convertible note
+
+ 
+
+Ameritek merged with Bozki, Inc. on November 13, 2020. At the merger the Company assumed a 10-year convertible note of $1,000,000 and accrued interest of $9,078 with Epazz, Inc., a related party, see note 10. On September 15, 2021 both parties agreed to convert $500,000 of this debt into Ameritek common stock and a nine-year note with principal of $572,410 and 8% annual interest. This note would convert into an amortizing note after 2025. On December 1, 2020 Ameritek and Epazz agreed to defer payments until January 1, 2028.
+
+ 
+
+The total amount due under the promissory note was $572,411 and accrued interest of $116,390 as of March 31, 2024. The total number of shares of common stock the noteholder could convert was 574,000,990, which is the total amount due of $688,801, divided by $0.0012, or $0.0015 share price at a 20% discount rate. The Ameritek Ventures, Inc. common stock share price was $0.0015 on March 28, 2024, as quoted on the https://www.otcmarkets.com/.
+
+ 
+
+The total amount due under the promissory note was $572,411 and accrued interest of $104,942 as of December 31, 2023. The total number of shares of common stock the noteholder could convert was 445,626,947, which is the total amount due of $677,353, divided by $0.0015, or $0.0019 share price at a 20% discount rate. On December 31, 2023 the Ameritek Ventures, Inc. common stock share price was $0.0019 as quoted on the https://www.otcmarkets.com/.
+
+ 
+
+Assumption of $250,000 note from VW Win Century, Inc. (Previously registered as, FlexFridge, Inc. an Illinois corporation) merger
+
+ 
+
+The Company merged with VW Win Century, Inc. (previously registered as FlexFridge, Inc., an Illinois Corporation) on November 10, 2020. At the merger the assuming simple note of $250,000 and accrued interest of $183,566, with Epazz, Inc., a related party, see note 10. This note has a 15% interest rate and a maturity date of December 29, 2025. On December 1, 2020 both parties agreed to defer payments until January 1, 2028.
+
+ 
+
+The total amount due under the promissory note was $250,000 and accrued interest of $ 308,875 as of March 31, 2024. The total amount due under the promissory note was $250,000 and accrued interest of $299,500 as of December 31, 2023.
+
+ 
+
+Reading Coop loan for interlinkOne
+
+ 
+
+The Company assumed a loan from the Reading Coop for $27,957 with the acquisition of interlinkOne on May 15, 2021. The Reading Coop loan has an interest rate of 6.5% and the Company has been making payments each year to pay it off.
+
+ 
+
+Ameritek paid off the remaining balance of $3,311 during the three months ended March 31, 2024. 
+
+Ameritek paid $12,729 during the year ended December 31, 2023. 
+
+ 
+
+SBA loan of $500,000 for Interactive Systems 
+
+ 
+
+The Company applied for a Disaster loan to cover expenses and maintain the business during the period of Covid in March 2021. The Company received a $500,000 loan for 30 years with a 3.75% interest on October 31, 2021. The SBA loan is due September 25, 2051 and interest is accrued each reporting period.
+
+ 
+
+Ameritek had accrued interest of $27,268 and did not make any loan payments as of March 31, 2024. 
+
+Ameritek had accrued interest of $22,356 and did not make any loan payments as of December 31, 2023. 
+
+ 
+
+SBFC LLC loan for $34,540
+
+ 
+
+Ameritek has a loan with SBFC LLC, DBA Rapid advance with variable interest rate originating on 11/30/2022. The original loan amount was $37,000 and had an interest rate of 59%. The principal amount of the loan was increased by $28,313 representing accrued interest to date in September 2023. The principal amount was $50,462 and the Company made weekly payments of $1,284, and the interest rate was 87%.
+
+ 
+
+Ameritek had a balance of $34,540, accrued interest of $8,475 and made $16,688 loan payments as of March 31, 2024. 
+
+Ameritek had a balance of $42,753, incurred accrued interest of $12,632 and made $20,282 loan payments as of December 31, 2023. 
+
+ 
+
+
+
+14
+
+
+
+Cloud Builder, Inc. promissory note of $363,709
+
+ 
+
+The Cloud Builder, Inc. note for $185,000 originated on May 13, 2021 with an interest rate of 15% and a due date of December 30, 2024. The loan originally had loan origination fees of 30,000,000 of common stock paid August 31, 2021. There was a dispute between the lender and the Company, which was settled on October 1, 2023 and this note was reinstated. Ameritek entered into a settlement agreement and recorded accrued interest expense of $25,960 in the last quarter of 2023. There were also three conversions of debt to common stock during the month of October 2023 related to this note. For the first conversion Ameritek issued 7,700,000 shares of common stock to Cloud Builder as loan origination fees. For the second and third conversions Ameritek issued 40,000,000 shares of common stock to Cloud Builder as part of the debt settlement (note 9).
+
+ 
+
+The Company and Cloud Builder, Inc. agreed to convert $32,480 of this debt into 29,000,000 class A common stock on March 14, 2024, also see note 9.
+
+Ameritek had a balance of $363,709 on the loan with Cloud Builder, Inc. and had accrued interest expense of $5,466 as of March 31, 2024. 
+
+Ameritek had a balance of $364,973 on the loan with Cloud Builder, Inc. and had accrued interest expense of $28,873 as of December 31, 2023.
+
+ 
+
+9.STOCKHOLDER’S EQUITY AND CONTRIBUTED CAPITAL  
+
+ 
+
+Series A Preferred Stock
+
+The Company is authorized to issue 10,000,000 shares of $0.01 par value New Series A Preferred Stock. Liquidation Preference is equal to $0.01 per share. Series A Preferred Stock has no voting rights. Series A Preferred Stock shall be entitled to receive dividends once the Company has generated net income of over $2 million based on the Corporation’s audited statement of operations. At any time and from time-to-time after the issuance of the Series A Preferred Stock, any holder may convert any or all of the shares of Series A Preferred Stock held by such holder at the ratio of .60 of Common Stock. For example, an owner of convertible 10,000 shares of Preferred A Stock would be able to convert to 6,000 shares of Common Stock. However, the beneficial owner of such Series A Preferred Stock cannot convert their Series A Preferred stock where they will beneficially own in excess of 9.99% of the shares of the Common Stock.
+
+ 
+
+There were 10,000,000 Preferred Stock Series A shares authorized, 7,488,730 issued and outstanding as of March 31, 2024. 
+
+There were 10,000,000 Preferred Stock Series A shares authorized, 7,488,730 issued and outstanding as of December 31, 2023. 
+
+ 
+
+Series B Preferred Stock
+
+The Company is authorized to issue 10,000,000 shares of $0.01 par value Series B Preferred Stock. Series B Preferred Stock has liquidation and first position ownership rights on any assets owned by the Company. The Series B Preferred Stock has ten thousand votes per share voting rights and is not entitled to receive dividends. The holders of Series B Preferred Stock shall be entitled to interest payments on monies paid or loaned to the corporation for their Series B Preferred Shares and a first position in a security interest on any assets of the Company upon default of a loan to the Company, liquidation, or dissolution of the Company. Further, the Company may call these shares at any time provided the holders of the Series B Preferred Stock are paid the monies they paid for their Series B Preferred Stock along with any interest due. Upon the payment of principal and interest to the Series B Preferred Stock shareholders, the shares must be returned to the Company. These shares are non-convertible into a different class of shares.
+
+ 
+
+There were 10,000,000 Preferred Stock Series B shares authorized, 10,000,000 issued and outstanding as of March 31, 2024.
+
+There were 10,000,000 Preferred Stock Series B shares authorized, 10,000,000 issued and outstanding as of December 31, 2023.
+
+ 
+
+Series C Preferred Stock
+
+The Company is authorized to issue 60,000,000 shares of $0.01 par value Series C Preferred Stock. The Series C Preferred Stock has no voting rights. The conversion right is one to three fully paid shares of Common Stock. For example, an owner of convertible 1,000 shares of Preferred C Stock would be able to convert to 3,000 shares of Common Stock. However, the beneficial owner of such Series C Preferred Stock cannot convert their Series C Preferred stock where they will beneficially own in excess of 9.99% of the shares of the Common Stock.
+
+ 
+
+The Company issued 23,100,000 Preferred Stock C for commitment fees of $36,960 associated with fees related to the lines of credit, consistent with the terms of the agreement. These commitment fees are amortized over a five-year period. The amortization expense is included in the interest expense. 
+
+ 
+
+There were 60,000,000 Preferred Stock Series C shares authorized, 59,988,972 issued and outstanding as of March 31, 2024.
+
+There were 60,000,000 Preferred Stock Series C shares authorized, 36,888,972 issued and outstanding as of December 31, 2023.
+
+ 
+
+Series D Preferred Stock
+
+The Company is authorized to issue 10,000,000 shares of $0.01 par value Series D Preferred Stock. Liquidation Preference is equal to $0.01 per share. Series D Preferred Stock has no voting rights. Series D Preferred Stock shall be entitled to receive dividends once the Company has generated net income of over $1 million based on the Corporation’s audited statement of operations at a rate of 1.5%. At any time and from time-to-time after the issuance of the Series D Preferred Stock, any holder may convert any or all of the shares of Series D Preferred Stock held by such holder at the ratio of .10 of Common Stock. For example, an owner of convertible 10,000 shares of Preferred D Stock would be able to convert to 1,000 shares of Common Stock. However, the beneficial owner of such Series D Preferred Stock cannot convert their Series D Preferred stock where they will beneficially own in excess of 9.99% of the shares of the Common Stock.
+
+ 
+
+There were 10,000,000 Preferred Stock Series D shares authorized, 9,083,630 issued and outstanding as of March 31, 2024. 
+
+There were 10,000,000 Preferred Stock Series D shares authorized, 9,083,630 issued and outstanding as of December 31, 2023.
+
+ 
+
+Series E Preferred Stock
+
+The Company is authorized to issue 23,000,000 shares of $0.01 par value Series E Preferred Stock. Liquidation Preference is equal to $0.01 per share. Series E Preferred Stock has no voting rights. Series E Preferred Stock shall be entitled to receive dividends once the Company has generated net income of over $2 million based on the Corporation’s audited statement of operations at a rate of 6%. At any time and from time-to-time after the issuance of the Series E Preferred Stock, any holder may convert any or all of the shares of Series E Preferred Stock held by such holder at the ratio of .15 of Common Stock. For example, an owner of convertible 10,000 shares of Preferred E Stock would be able to convert to 1,500 shares of Common Stock. However, the beneficial owner of such Series E Preferred Stock cannot convert their Series E Preferred stock where they will beneficially own in excess of 9.99% of the shares of the Common Stock.
+
+ 
+
+
+
+15
+
+
+
+There were 23,000,000 Preferred Stock Series E shares authorized, 23,000,000 issued and outstanding as of March 31, 2024.
+
+There were 23,000,000 Preferred Stock Series E shares authorized, 23,000,000 issued and outstanding as of December 31, 2023.  
+
+ 
+
+Common Stock
+
+Ameritek has 950,000,000 authorized shares of $0.001 par value Common Stock with cusip number 03078H. The Common Stock is quoted on https://www.otcmarkets.com/ under ticker symbol ATVK with limited trading. On March 31, 2024 the common stock share price closed at $0.0015 per share and the Company had approximately 111 shareholders. 
+
+ 
+
+Ameritek issued 20,000,000 shares of Common Stock for debt conversion to common stock, consistent with the terms of the agreement on October 2, 2023. 
+
+ 
+
+Ameritek issued 7,700,000 shares of Preferred Stock, Series C to GG Mars Capital, Inc., a related party, for debt issuance fees consistent with the terms of the agreement on October 2, 2023. The President of GG Mars Capital, Inc. is Vivienne Passley, Shaun Passley’s aunt (note 10).
+
+ 
+
+Ameritek issued 7,700,000 shares of Preferred Stock, Series C to Star Financial Corporation, a related party, for debt issuance fees consistent with the terms of the agreement on October 2, 2023. The President of Star Financial Corporation is Fay Passley, Shaun Passley’s mother (note 10).
+
+ 
+
+Ameritek issued 7,700,000 shares of Preferred Stock, Series C to Cloud Builder, Inc. for debt issuance fees consistent with the terms of the agreement on October 2, 2023. 
+
+ 
+
+The Company settled a note payable for $164,000 which reduced the amount of the additional paid-in-capital for the same amount on October 2, 2023.
+
+ 
+
+Ameritek issued 20,000,000 shares of Common Stock for debt conversion to common stock, consistent with the terms of the agreement on October 26, 2023. 
+
+ 
+
+Ameritek issued 29,000,000 shares of Common Stock for debt conversion to Cloud Builder, Inc. into class A common stock, consistent with the terms of the agreement on March 14, 2024 (note 8). 
+
+ 
+
+There were 950,000,000 shares of common stock authorized, 583,226,791 issued and outstanding as of March 31, 2024. 
+
+There were 950,000,000 shares of common stock authorized, 554,226,791 issued and outstanding as of December 31, 2023. 
+
+
+
+16
+
+
+
+ 
+
+10.RELATED PARTIES 
+
+ 
+
+We organized the related party transactions by total as of March 31, 2024 in the table below according to ASC 850. Readers should refer to the footnotes following the table for a detailed description of all related party transactions.
+
+ 
+
+      ASC 850           Related Party                     Relationship                   Transaction type       Stock as of March 31, 2024  Total dollars as of March
+
+                                                                                                                                                       31,
+
+                                                                                                                                                       2024
+
+              1             Shaun Passley, PhD      Chairman of the BOD, Secretary,       Common stock ownership                 79,098,457                          -
+
+                                                           President, CEO, CFO, COO
+
+                                                                                   
+
+              2             Shaun Passley, PhD      Chairman of the BOD, Secretary,  Preferred C stock ownership                  2,000,000                          -
+
+                                                           President, CEO, CFO, COO
+
+                                                                                   
+
+              3                   Epazz, Inc.1       Owner of over 95% voting stock  Preferred B stock ownership                 10,000,000                          -
+
+              4                    Epazz, Inc.       Owner of over 95% voting stock       Common stock ownership                 50,000,000                         - 
+
+              5                    Epazz, Inc.       Owner of over 95% voting stock    Assumption of Bozki, Inc.                                               299,982
+
+                                                                                                            note
+
+              6                    Epazz, Inc.       Owner of over 95% voting stock    Assumption of Bozki, Inc.                                               688,801
+
+                                                                                                            note
+
+              7                    Epazz, Inc.       Owner of over 95% voting stock   Assumption of VW Win, Inc.                                               588,875
+
+                                                                                                            note
+
+              8                   Epazz, Inc.2       Owner of over 95% voting stockManagement Services Agreement                         -                     105,900
+
+                                                                                                                                                                      
+
+              9          GG Mars Capital, Inc. President is Vivienne Passley, Shaun  Preferred C stock ownership                22,159,336                           -
+
+                                                                   Passley's family
+
+                                                                            member.
+
+             10          GG Mars Capital, Inc. President is Vivienne Passley, Shaun       Common stock ownership                18,103,638                           -
+
+                                                                   Passley's family
+
+                                                                            member.
+
+             11               Vivienne Passley       Shaun Passley's family member.       Common stock ownership                        300                          -
+
+             12     Star Financial Corporation      President is Fay Passley, Shaun  Preferred C stock ownership                 22,236,666                          -
+
+                                                                   Passley's family
+
+                                                                            member.
+
+             13     Star Financial Corporation       Fay Passley, President of Star       Common stock ownership                 18,106,005                          -
+
+                                                     Financial Corporation is Shaun
+
+                                                                   Passley's family
+
+                                                                            member.
+
+             14                    Fay Passley        Shaun Passley's family member       Common stock ownership                        300                         - 
+
+             15                  Craig Passley        Shaun Passley's family member  Preferred C stock ownership                  4,800,000                         - 
+
+             16                  Craig Passley        Shaun Passley's family member       Common stock ownership                        300                          -
+
+             17                   Olga Passley        Shaun Passley's family member       Common stock ownership                        300                          -
+
+             18                  Lloyd Passley        Shaun Passley's family member       Common stock ownership                        300                          -
+
+1 – Epazz, Inc. voting stock is controlled by Shaun Passley, PhD.
+
+2 – For details, see Management Services Agreement with Epazz, Inc. below.
+
+ 
+
+Notes Payable
+
+ 
+
+Assumption of $200,000 convertible note from Bozki merger
+
+ 
+
+Ameritek merged with Bozki, Inc. on November 13, 2020. At the merger the Company assumed a 10-year, convertible note of $200,000 and accrued interest of $46,648 with Epazz, Inc., (“Epazz”), a Wyoming corporation and a related party, see note 10. The promissory note had an effective date of January 1, 2018, an interest rate of eight percent (8%) per year, which interest shall accrue from the effective date until January 1, 2028, unless prepaid prior to this date. The promissory note shall provide for one hundred twenty (120) equal monthly payments commencing one hundred twenty (120) days after April 1, 2018. Payee will have an option to defer 36 monthly payments. The payee will need to provide written notice of how many payments it wishes to defer. The deferred payment(s) will have an interest rate of 10%. On December 1, 2020 both parties agreed to defer payments until January 1, 2028.
+
+ 
+
+The total amount due under the promissory note was $200,000 and accrued interest of $99,982 as of March 31, 2024. The total number of shares of common stock the noteholder could convert was 249,985,000, which is the total amount due of $299,982, divided by $0.0012, or $0.0015 share price at a 20% discount 
+
+
+
+17
+
+
+
+rate. The Ameritek Ventures, Inc. common stock share price was $0.0015 on March 28, 2024, as quoted on the https://www.otcmarkets.com/.
+
+ 
+
+The total amount due under the promissory note was $200,000 and accrued interest of $95,982 on December 31, 2023. The total number of shares of common stock the noteholder could convert was 194,725,000, which is the total amount due of $295,982, divided by $0.0015, or $0.0019 share price at a 20% discount rate. The Ameritek Ventures, Inc. common stock share price was $0.0019 on December 31, 2023, as quoted on the https://www.otcmarkets.com/.
+
+ 
+
+Assumption of $1,000,000 convertible note from Bozki merger and conversion to $500,000 convertible note
+
+ 
+
+Ameritek merged with Bozki, Inc. on November 13, 2020. At the merger the Company assumed a 10-year convertible note of $1,000,000 and accrued interest of $9,078 with Epazz, Inc., a related party, see note 10. On September 15, 2021 both parties agreed to convert $500,000 of this debt into Ameritek common stock and a nine-year note with principal of $572,410 and 8% annual interest. This note would convert into an amortizing note after 2025. On December 1, 2020 Ameritek and Epazz agreed to defer payments until January 1, 2028.
+
+ 
+
+The total amount due under the promissory note was $572,411 and accrued interest of $116,390 as of March 31, 2024. The total number of shares of common stock the noteholder could convert was 574,000,990, which is the total amount due of $688,801, divided by $0.0012, or $0.0015 share price at a 20% discount rate. The Ameritek Ventures, Inc. common stock share price was $0.0015 on March 28, 2024, as quoted on the https://www.otcmarkets.com/.
+
+ 
+
+The total amount due under the promissory note was $572,411 and accrued interest of $104,942 on December 31, 2023. The total number of shares of common stock the noteholder could convert was 445,626,947, which is the total amount due of $677,353, divided by $0.0015, or $0.0019 share price at a 20% discount rate. On December 31, 2023 the Ameritek Ventures, Inc. common stock share price was $0.0019 as quoted on the https://www.otcmarkets.com/.
+
+ 
+
+Assumption of $250,000 note from VW Win Century, Inc. (Previously registered as, FlexFridge, Inc. an Illinois corporation) merger
+
+ 
+
+The Company merged with VW Win Century, Inc. (previously registered as FlexFridge, Inc., an Illinois Corporation) on November 10, 2020. At the merger the assuming simple note of $250,000 and accrued interest of $183,566, with Epazz, Inc., a related party, see note 10. This note has a 15% interest rate and a maturity date of December 29, 2025. On December 1, 2020 both parties agreed to defer payments until January 1, 2028.
+
+ 
+
+The total amount due under the promissory note was $250,000 and $308,875 was accrued interest as of March 31, 2024. The total amount due under the promissory note was $250,000 principal and $299,500 was accrued interest as of December 31, 2023.
+
+ 
+
+Management agreement with Epazz, Inc.
+
+Ameritek entered into a management agreement with Epazz, Inc., a related party, with a minimum annual fee of $350,000 on November 12, 2020 in consideration for the services provided and to be provided. Epazz, Inc. is a company controlled by Shaun Passley, Ameritek Ventures’ Chief Executive Officer. As per the management services agreement between Ameritek and Epazz, Epazz shall charge a minimum annual fee of $350,000.
+
+ 
+
+The development and support expenses included $105,900 charged by Epazz, Inc. under the management services agreement between Ameritek and Epazz for the three months ended March 31, 2024. 
+
+The $105,900 expenses consisted of
+
+·Engineering services of $85,905,  
+
+·Software development fees of $13,620, and 
+
+·Accounting of $6,375. 
+
+ 
+
+The development and support expenses included $414,000 charged by Epazz, Inc. under the management services agreement between Ameritek and Epazz for the year ended December 31, 2023. 
+
+The $414,000 expenses consisted of
+
+·Engineering services of $339,000,  
+
+·Software development fees of $24,000, and 
+
+·Accounting of $51,000. 
+
+ 
+
+For the first quarter ended March 31, 2023, the development and support expenses included $103,500 charged by Epazz, Inc. The $103,500 expenses consisted of
+
+·Accounting services of $12,750, 
+
+·Engineering services of $84,750, and 
+
+·Software development fees of $6,000. 
+
+ 
+
+The Company had an accounts payable balance of $1,158,694 due to Epazz, Inc., at March 31, 2023. The Company has advanced funds of $342,380 to various subsidiaries of Epazz, Inc. during the 1st quarter.  For the presentation purposes, the accounts payable balance due to Epazz was offset with what was advanced, and the net amount payable to Epazz at March 31,2023 is $816,314.
+
+ 
+
+Stock issuances
+
+ 
+
+On October 2, 2023 Ameritek issued 7,700,000 shares of Preferred Stock, Series C to Star Financial Corporation, a related party, for debt issuance fees consistent with the terms of the agreement. The President of Star Financial Corporation is Fay Passley, Shaun Passley’s mother (note 9).
+
+ 
+
+Other transactions
+
+ 
+
+Epazz, Inc. had invoices totaling $105,900 during the first three months of 2024. 
+
+ 
+
+Epazz, Inc. had invoices totaling $414,000 during 2023. The Company reclassified $697,359 advanced to Epazz, Inc. and ZenaTech, Inc. through Ameritek Ventures to offset this accounts payables balance. The total accounts payable balance after the offset was $771,835.
+
+ 
+
+11.LEGAL PROCEEDINGS 
+
+ 
+
+Meridian Pacific Holdings, LLC filed a lawsuit against certain directors, officers, affiliates, and the Company for breach of contract and fraud, in the Superior Court of the State of California, County of Los Angeles on May 6, 2024. The lawsuit alleges that certain officers of the company misrepresented the business and asked for business financing of about $1.6 million for operations from Meridian Pacific and never delivered the fiber optic assets promised. The judge in this case dismissed all claims against Ameritek Ventures, Inc. on October 19, 2023.
+
+ 
+
+The Company filed a lawsuit in the Clark County, Nevada, court against Clinton L. Stokes, III, the former owner of the Company, to settle the matter of shares ownership and that of if the asset coming from Fiber Optic Assets was purchased free and clear of any encumberment from Meridian Financial Group, LLC on March 6, 2023. Meridian Financial Group, LLC has a claim on the assets in the business of fiber optics previously owned by Clinton L. Stokes III. This case is 
+
+
+
+18
+
+
+
+still pending. There is no trial date set for this case. This litigation is not expected to have a material effect on the Company.
+
+ 
+
+1.INCOME TAXES 
+
+ 
+
+The Company accounts for income taxes at each calendar year-end under FASB Accounting Standard Codification ASC 740 "Income Taxes." ASC 740 provides that deferred tax assets and liabilities are recorded based on the differences between the tax basis of assets and liabilities and their carrying amounts for financial reporting purposes, referred to as temporary differences. Deferred tax assets and liabilities at the end of each calendar year-end are determined using the currently enacted tax rates applied to taxable income in the periods in which the deferred tax assets and liabilities are expected to be settled or realized.
+
+The Company did not have any eligible net operating income (or loss) carry forwards as the Company has not filed the appropriate federal and state income tax returns so any accumulated net operating income (or loss) could be subject to the respective tax agency disallowance for the fiscal year ended 2023. Any actual net operating income would be limited by the accelerated depreciation and basis reduction of noncash assets acquired. 
+
+ 
+
+The Company did not pay any income taxes for the three months ended March 31, 2024 or the year ended December 31, 2023.
+
+ 
+
+2. SUBSEQUENT EVENTS 
+
+ 
+
+None.
+
+
+
+19
+
+
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.‌
+
+ 
+
+The following discussion and analysis of the Company’s historical results of operations and liquidity and capital resources should be read in conjunction with the unaudited consolidated financial statements of the Company and notes thereto appearing elsewhere herein. The following discussion and analysis also contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors. See “Forward Looking Statements” in our Annual Report on Form 10-K for the year ended December 31, 2022.
+
+ 
+
+Business Overview
+
+ 
+
+The Company was organized on December 27, 2010, under the laws of the State of Nevada, as ATVROCKN. On June 20, 2017, the Company changed its corporate name to Ameritek Ventures, Inc (“Ameritek Ventures” or “Ameritek” or the “Company”)
+
+ 
+
+Ameritek is a group of companies that provides various world-class software and hardware products and services beneficial to businesses, organizations, and governments. We have an established presence in the warehouse solutions market. With Interactive Systems, Inc. we provide software inventory management and with interlinkONE, Inc. we provide SaaS cloud-based solutions for warehouse and inventory fulfillment. We manufacture and innovate advanced technological developments in the medical industry, such as the DittoMask high filtration mask and FlexFridge portable medical use mini-fridge. We also develop blockchain technology software programs under WebBeeO and CordTell companies. Furthermore, Ameritek Ventures explores augmented reality technology with Passley, Inc., and Augmum, Inc. Meanwhile, our vertical landing aircraft service from AeroPass, Inc. takes ZenaDrone technology to a higher level with members-only passenger first-class transport across cities. Ecker Capital, LLC, is our merger and acquisition division. The Company also recently created a new business, Equock, Inc., with which the Company will develop an electric bicycle with a focus on the growing online delivery industry.
+
+ 
+
+Business Strategy
+
+ 
+
+Management plans to raise equity capital to finance the operating and capital requirements of the Company. Amounts raised will be used to further development of the Company's products, to provide financing for marketing and promotion, to secure additional property and equipment, and for other working capital purposes.
+
+ 
+
+Critical Accounting Policies
+
+ 
+
+Our significant accounting policies are more fully described in the notes to our financial statements included herein for the three months ended March 31, 2024.
+
+ 
+
+New and Recently Adopted Accounting Pronouncements
+
+ 
+
+Any new and recently adopted accounting pronouncements are more fully described in Note 2 to our condensed consolidated financial statements included herein for the three months ended March 31, 2024.
+
+ 
+
+Results of Operations
+
+ 
+
+For the three months ended March 31, 2024, and 2023
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.  
+
+ 
+
+Results of Operations
+
+ 
+
+For the three months ended March 31, 2024, and 2023
+
+ 
+
+Ameritek had operating revenue of $215,922 for the three months ended March 31, 2024, as compared to $242,320 for the same period ended 2023, a decrease of $26,398, or 11%, considered normal fluctuation. The Company operational activity settled into normal activity levels.
+
+ 
+
+Total operating expenses decreased as the Company is now using the proprietary server from Epazz, Inc. and not loaning cloud space from third party vendors. Total general and administrative expenses were $153,566 for the first quarter of 2024, a decrease of 27% or $56,985 as compared to expenses incurred during the same three-month period in 2023. The changes that occurred during this period were due to development and support expenses being lower by $16,876 or 14% in 2024 since Ameritek had less software and programming done than in 2023; general and administrative expenses had an increase of 6% to $40,752 from $38,403; and, depreciation and amortization expenses decreased by $42,458, or 81%, booked at $10,045 for the first three months of 2024 from $52,503 in 2023. This change was due to changing the goodwill classification back to goodwill from product development costs recorded as goodwill and described in detail in the financial statements footnote 2.
+
+ 
+
+Net operating income before other income was $62,356 for the first quarter of 2024, as compared to a net income of $31,769 for 2023, a positive net change of $62,746.
+
+ 
+
+Interest expense was $42,639 for the three months ended March 31, 2024, compared to $38,526, an 11% increase compared to the same 2023 period. 
+
+ 
+
+Ameritek had an increase in net income of $26,454 for the three months ended March 31, 2024 as compared to the same 2023 period. The Company had a net income of $19,697 during the first three months of 2024 as compared to a net loss of $(6,757) realized during the same period of 2023. This change was due to the factors explained above.
+
+
+
+20
+
+
+
+Liquidity and Capital Resources
+
+ 
+
+Cash Flow
+
+ 
+
+The Company currently funds its operations, including working capital and capital expenditures, and acquisitions through cash, cash equivalents and short-term investments and financing activities as necessary. We expect that cash, cash equivalents and short-term investments, and other sources of liquidity, such as issuing equity or debt securities, subject to market conditions, will be available and sufficient to meet all foreseeable cash requirements. The following is a summary of the changes in the Company’s cash flows followed by a brief discussion of these changes:
+
+ 
+
+                                                                                                                Three months ended
+
+                                                                                                                     March 31,
+
+                                                                          Change ($)                      2024                         2023
+
+Cash flow (used in) provided by operating activities            $                 (99,833)$                       (16,784)$                  83,049
+
+Cash flow (used in) provided by investing activities            $                        –$                              –$                       –
+
+Cash flow (used in) provided by financing activities            $                   96,639$                         13,411$                (83,228)
+
+ 
+
+Operating activities
+
+ 
+
+Cash flow used in operating activities was $(16,784) for the three months ended March 31, 2024, as compared to a cash provided by operating activities of $83,049 for the same period of 2023. Net operating income increased by $26,454 during 2024 as compared to the same 2023 period. Amortization and depreciation decreased by $42,458 in the first quarter of 2024 compared to the same period of 2023, due to incorrectly showing goodwill as product development. Another item affecting this section was the amortization of the line of credit commitment fees of $1,848 for 2024 as compared to none in 2023.
+
+Deferred revenue increased by $321,930 due to more service revenue being recorded at the end of 2024 as compared to 2023. This amount was partially offset by a decrease in accounts receivable of $279,699 and accounts payable of $127,340, while the accrued interest stayed about the same at around $29,500. 
+
+ 
+
+Investing Activities
+
+ 
+
+There were no investing activities during the three months ending March 31, 2024, or 2023. 
+
+ 
+
+Financing Activities
+
+Cash provided by financing activities was $13,411 for the three months ended March 31, 2024, while cash used in financing activities was $(83,229) for the same 2023 period. This difference represents an increase of $96,639 of proceeds from long-term debt, because of an increase in long-term debt funds of $25,750 and an increase of $70,889 of the long-term debt funds as a repayment of long-term debt.
+
+ 
+
+Cash and Cash Equivalents
+
+ 
+
+The Company had $2,245 in cash as of March 31, 2024, as compared with $572 as of March 31, 2023. Ameritek continues to rely on borrowings to finance its working capital needs.
+
+ 
+
+Off Balance Sheet Arrangements
+
+ 
+
+We do not have any significant off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our consolidated financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors.
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+Management did not contemplate any accounting standards and interpretations issued which are expected to have a material impact on the Company’s financial position, operations or cash flows during the three months ended March 31, 2024, or for the year ended December 31, 2023.
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk‌
+
+ 
+
+Pursuant to Item 305(e) of Regulation S-K (§ 229.305(e)), the Company is not required to provide the information required by this Item as it is a “smaller reporting company,” as defined by Rule 229.10(f)(1).
+
+ 
+
+Item 4. Controls and Procedures
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+We have performed an evaluation under the supervision and with the participation of our management, including our Chief Executive Officer (CEO) and Chief Financial Officer (CFO), of the effectiveness of our disclosure controls and procedures, (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of September 30, 2022. Based on that evaluation, our management, including our President and CEO and CFO, concluded that our disclosure controls and procedures were not effective as of September 30, 2022 to provide reasonable assurance that information required to be disclosed by us in the reports filed or submitted by us under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and (ii) accumulated and communicated to our management, including our principal executive officer, as appropriate to allow timely decisions regarding required disclosure due to the material weaknesses described below.
+
+
+
+21
+
+
+
+ 
+
+Based on our evaluation under the framework described above, our management concluded that we had “material weaknesses” (as such term is defined below) in our control environment and financial reporting process consisting of the following as of the Evaluation Date:
+
+ 
+
+           1)      lack of a functioning audit committee resulting in ineffective oversight in the establishment and monitoring of required internal
+
+                   control and procedures;
+
+                   and
+
+                   
+
+           2)     inadequate segregation of duties consistent with control objectives.
+
+ 
+
+A “material weakness” is defined under SEC rules as a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of a company’s annual or interim financial statements will not be prevented or detected on a timely basis by the company’s internal controls.
+
+ 
+
+A system of controls, no matter how well designed and operated, cannot provide absolute assurance that the objectives of the system of controls are met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected.
+
+ 
+
+Changes in Internal Control over Financial Reporting
+
+ 
+
+During the three months ended March 31, 2024 and for the year ended December 31, 2023, there were no changes in our internal control over financial reporting identified in connection with management’s evaluation of the effectiveness of our internal control over the financial reporting that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act.
+
+ 
+
+
+
+22
+
+
+
+ 
+
+ 
+
+PART II – OTHER INFORMATION‌
+
+ 
+
+Item 1. Legal Proceedings‌
+
+ 
+
+From time to time, we may become involved in various lawsuits and legal proceedings which arise in the ordinary course of business. However, litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm our business. Except as discussed below, we are not presently a party to any material litigation, nor to the knowledge of management is any litigation threatened against us, which may materially affect us.
+
+ 
+
+Meridian Pacific Holdings, LLC filed a lawsuit against certain directors, officers, affiliates, and the Company for breach of contract and fraud, in the Superior Court of the State of California, County of Los Angeles on May 6, 2019. The lawsuit alleges that certain officers of the Company misrepresented the business and asked for financing the business for approximately $1.6 million for operations from Meridian Pacific and never delivered the fiber optic assets promised. The judge in this case dismissed all claims against Ameritek Ventures, Inc. on October 19, 2023.
+
+ 
+
+The Company filed a lawsuit in the Clark County, Nevada, court against Clinton L. Stokes, III, the former owner of the Company, to settle the matter of shares ownership and that of if the asset coming from Fiber Optic Assets was purchased free and clear of any encumberment from Meridian Financial Group, LLC on March 6, 2023. Meridian Financial Group, LLC has a claim on the assets in the business of fiber optics previously owned by Clinton L. Stokes III. This case is still pending. There is no trial date set as of the date of this filing. This litigation is not expected to have a material effect on the Company.
+
+ 
+
+Item 1A. Risk Factors‌
+
+ 
+
+The Company is not required to provide the information required by this Item as it is a “smaller reporting company,” as defined by Rule 229.10(f)(1).
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds‌
+
+ 
+
+None
+
+ 
+
+Item 3. Defaults Upon Senior Securities‌
+
+ 
+
+None.
+
+ 
+
+Item 4. Mine Safety Disclosures‌
+
+ 
+
+None.
+
+ 
+
+Item 5. Other Information‌
+
+ 
+
+None.
+
+ 
+
+Item 6. Exhibits‌
+
+ 
+
+     Exhibit             Name of Exhibit
+
+     Number
+
+     31.1                Certification of Chief Executive Officer, pursuant to Rule 13a-14(a) of the Exchange Act, as enacted by Section 302 of the
+
+                          Sarbanes-Oxley Act of 2002.
+
+                          (1)
+
+                          
+
+     31.2                Certification of Chief Financial Officer, pursuant to Rule 13a-14(a) of the Exchange Act, as enacted by Section 302 of the
+
+                          Sarbanes-Oxley Act of 2002.
+
+                          (1)
+
+                          
+
+     32.1                Certification of Chief Executive Officer and Chief Financial Officer, pursuant to 18 United States Code Section 1350, as
+
+                          enacted by Section 906 of the Sarbanes-Oxley Act of 2002.
+
+                          (1)
+
+                          
+
+     101.INS             Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags
+
+                          are embedded within the Inline XBRL
+
+                          document)
+
+     101.SCH             Inline XBRL Taxonomy Extension Schema
+
+     101.CAL             Inline XBRL Taxonomy Extension Calculation Linkbase
+
+     101.DEF             Inline XBRL Taxonomy Extension Definition Linkbase
+
+     101.LAB             Inline XBRL Taxonomy Extension Labels Linkbase
+
+     101.PRE             Inline XBRL Taxonomy Extension Presentation Linkbase
+
+     104                 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+________________
+
+(1) Filed herewith. In accordance with Item 601(b)(32)(ii) of Regulation S-K and SEC Release No. 34-47986, the certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Form 10-Q and will not be deemed “filed” for purposes of Section 18 of the Exchange Act or deemed to be incorporated by reference into any filing under the Exchange Act or the Securities Act except to the extent that the registrant specifically incorporates it by reference.
+
+ 
+
+
+
+23
+
+
+
+ 
+
+ 
+
+SIGNATURES‌
+
+ 
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report on Form 10-Q to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+                                                                           AMERITEK VENTURE, INC.                                     
+
+                                                                                                                                     
+
+     Dated: May 14, 2024                                                   By:   /s/ Shaun Passley                                   
+
+                                                                                 Shaun Passley, PhD                                  
+
+                                                                                 Chief Executive Officer, CFO, Chairman              
+
+
+
+24

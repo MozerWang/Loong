@@ -1,0 +1,2625 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C.  20549
+
+
+
+FORM 10-Q
+
+
+
+ (Mark One)                                                                                                 
+
+      ☒                                   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)                  
+
+                                               OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                                            for the quarterly period ended March 31, 2024
+
+                                                                                                            
+
+                                                                 or                                         
+
+                                                                                                            
+
+      ☐                                   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)                 
+
+                                               OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                                             for the transition period from ____ to ____
+
+
+
+                                       Commission File Number 001-14785
+
+ 
+
+                                               GSE Systems, Inc.
+
+                            (Exact name of registrant as specified in its charter)
+
+
+
+                             Delaware                                                           52-1868008
+
+                     (State of incorporation)                                    (I.R.S. Employer Identification Number)
+
+
+
+        6940 Columbia Gateway Dr., Suite 470, Columbia MD                                         21046
+
+             (Address of principal executive offices)                                           (Zip Code)
+
+
+
+                                   Registrant’s telephone number, including area code: (410) 970-7800
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Sections 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes ☒   No ☐
+
+
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such period that the registrant was required to submit such files). Yes ☒   No ☐
+
+
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, and “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+
+
+    Large accelerated filer  ☐           Accelerated filer  ☐            Non-accelerated filer ☒         Smaller reporting company ☒
+
+                                                                                                       
+
+    Emerging growth company ☐                                                                          
+
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+
+
+Indicate by check mark whether the registrant is a shell company (as defined in rule 12(b)-2 of the Exchange Act).    Yes  ☐  No ☒
+
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+            Title of each class                           Trading Symbol(s)                Name of each exchange on which registered
+
+       Common Stock, $0.01 Par Value                             GVP                               The NASDAQ Capital Market
+
+
+
+There were 3,239,832 shares of common stock, with a par value of $0.01 per share outstanding as of April 30, 2024.
+
+
+
+
+
+
+
+
+
+GSE SYSTEMS INC. AND SUBSIDIARIES
+
+QUARTERLY REPORT ON FORM 10-Q
+
+TABLE OF CONTENTS
+
+
+
+                                                                                                                                Page
+
+PART I.     FINANCIAL INFORMATION                                                                                                3
+
+Item 1.     Financial Statements (unaudited)                                                                                  
+
+            Consolidated Balance Sheets as of March 31, 2024 (unaudited) and December 31, 2023                                   3
+
+            Unaudited Consolidated Statements of Operations for the Three Months Ended March 31, 2024 and 2023                   4
+
+            Unaudited Consolidated Statements of Comprehensive Loss for the Three Months Ended March 31, 2024 and 2023           5
+
+            Unaudited Consolidated Statements of Changes in Stockholders’ Equity for the Three Months Ended March 31, 2024       6
+
+             and
+
+             2023
+
+            Unaudited Consolidated Statements of Cash Flows for Three Months Ended March 31, 2024 and 2023                       7
+
+            Notes to the Consolidated Financial Statements (unaudited)                                                           8
+
+Item 2.     Management’s Discussion and Analysis of Financial Condition and Results of Operations                                24
+
+Item 3.     Quantitative and Qualitative Disclosures About Market Risk                                                           32
+
+Item 4.     Controls and Procedures                                                                                              33
+
+PART II.    OTHER INFORMATION                                                                                                    33
+
+Item 1.     Legal Proceedings                                                                                                    33
+
+Item 1A.    Risk Factors                                                                                                         33
+
+Item 2.     Unregistered Sales of Equity Securities and Use of Proceeds                                                          33
+
+Item 3      Defaults Upon Senior Securities                                                                                      33
+
+Item 4      Mine Safety Disclosures                                                                                              33
+
+Item 5.     Other Information                                                                                                    33
+
+Item 6.     Exhibits                                                                                                             34
+
+
+
+2
+
+
+
+Table of Contents
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+(in thousands, except share and per share data)
+
+
+
+                                                                                                       March 31, 2024   December 31,  
+
+                                                                                                                            2023
+
+                                                                                                        (unaudited)                   
+
+ASSETS                                                                                                                                  
+
+Current assets:                                                                                                                       
+
+Cash and cash equivalents                                                                              $       1,360  $       2,250 
+
+Restricted cash, current                                                                                         379            378 
+
+Contract receivables, net of allowance for credit loss                                                         9,178         10,166 
+
+Prepaid expenses and other current assets                                                                        792            879 
+
+Total current assets                                                                                          11,709         13,673 
+
+                                                                                                                                    
+
+Equipment, software and leasehold improvements, net                                                              700            754 
+
+Software development costs, net                                                                                  697            750 
+
+Goodwill                                                                                                       4,908          4,908 
+
+Intangible assets, net                                                                                         1,080          1,179 
+
+Restricted cash - long term                                                                                    1,084          1,083 
+
+Operating lease right-of-use assets, net                                                                         364            413 
+
+Other assets                                                                                                      45             45 
+
+Total assets                                                                                           $      20,587  $      22,805 
+
+                                                                                                                                    
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY                                                                                                
+
+Current liabilities:                                                                                                                
+
+Current portion of long-term note                                                                      $       1,054  $         810 
+
+Accounts payable                                                                                               2,181          3,300 
+
+Accrued expenses                                                                                               1,487          1,053 
+
+Accrued legal settlements                                                                                        774          1,010 
+
+Accrued compensation                                                                                           1,721          1,086 
+
+Billings in excess of revenue earned                                                                           5,181          5,119 
+
+Accrued warranty                                                                                                 181            176 
+
+Income taxes payable                                                                                           1,710          1,701 
+
+Derivative liabilities                                                                                         1,153          1,132 
+
+Other current liabilities                                                                                        643            956 
+
+Total current liabilities                                                                                     16,085         16,343 
+
+                                                                                                                                    
+
+Long-term note, less current portion                                                                             277            637 
+
+Operating lease liabilities, noncurrent                                                                          322            357 
+
+Other noncurrent liabilities                                                                                      67            126 
+
+Total liabilities                                                                                             16,751         17,463 
+
+                                                                                                                                    
+
+Commitments and contingencies (Note 15)                                                                                             
+
+                                                                                                                                    
+
+Stockholders’ equity:                                                                                                               
+
+Preferred stock $0.01 par value; 2,000,000 shares authorized; no shares issued and outstanding                     -              - 
+
+Common stock $0.01 par value; 60,000,000 shares authorized, 3,399,723 and 3,194,030 shares issued,                34             32 
+
+ 3,239,832 and 3,034,139 shares outstanding,
+
+ respectively
+
+Additional paid-in capital                                                                                    87,440         86,983 
+
+Accumulated deficit                                                                                          (80,700)       (78,708)
+
+Accumulated other comprehensive income                                                                            61             34 
+
+Treasury stock at cost, 159,891 shares                                                                        (2,999)        (2,999)
+
+Total stockholders’ equity                                                                                     3,836          5,342 
+
+Total liabilities and stockholders’ equity                                                             $      20,587  $      22,805 
+
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+
+3
+
+
+
+Table of Contents
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(in thousands, except per share data)
+
+(unaudited)
+
+
+
+                                                                                                              Three months ended       
+
+                                                                                                          March 31,      March 31,   
+
+                                                                                                             2024           2023
+
+                                                                                                                                     
+
+Revenue                                                                                                 $      11,283  $      10,873 
+
+Cost of revenue                                                                                                 8,067          8,478 
+
+Gross profit                                                                                                    3,216          2,395 
+
+                                                                                                                                     
+
+Operating expenses:                                                                                                                  
+
+Selling, general and administrative                                                                             4,360          4,788 
+
+Research and development                                                                                          229            181 
+
+Depreciation                                                                                                       58             48 
+
+Amortization of intangible assets                                                                                  99            161 
+
+Total operating expenses                                                                                        4,746          5,178 
+
+                                                                                                                                     
+
+Operating loss                                                                                                 (1,530)        (2,783)
+
+                                                                                                                                     
+
+Interest expense, net                                                                                            (459)          (286)
+
+Change in fair value of derivative instruments, net                                                               (17)            69 
+
+Other loss, net                                                                                                    54             10 
+
+Loss before income taxes                                                                                       (1,952)        (2,990)
+
+                                                                                                                                     
+
+Expense (benefit) from income taxes                                                                                40            (39)
+
+Net loss                                                                                                $      (1,992) $      (2,951)
+
+                                                                                                                                     
+
+Net loss per common share - basic and diluted                                                           $       (0.63) $       (1.29)
+
+                                                                                                                                     
+
+Weighted average shares outstanding used to compute net loss per share - basic and diluted                  3,148,806      2,293,389 
+
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+
+4
+
+
+
+Table of Contents
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+
+(in thousands)
+
+(unaudited)
+
+
+
+                                                                                                              Three months ended       
+
+                                                                                                          March 31,      March 31,   
+
+                                                                                                             2024           2023
+
+Net loss                                                                                                $      (1,992) $      (2,951)
+
+Cumulative translation adjustment                                                                                  27            (10)
+
+Comprehensive loss                                                                                      $      (1,965) $      (2,961)
+
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+
+5
+
+
+
+Table of Contents
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+
+(in thousands)
+
+(unaudited)
+
+
+
+                               Common Stock                                                                Treasury Stock               
+
+Three Months Ended          Shares      Amount      Additional      Accumulated         Accumulated       Shares      Amount     Total   
+
+                                                      Paid-in         Deficit             Other 
+
+                                                      Capital                          Comprehensive
+
+                                                                                           Loss
+
+                                                                                                                                         
+
+Balance, January 1, 2024       3,194  $       32  $      86,983  $        (78,708) $               34       (160) $  (2,999) $  5,342 
+
+Stock-based compensation           -           -            292                 -                   -          -          -       292 
+
+ expense
+
+Common stock issued for           45           -              -                 -                   -          -          -         - 
+
+ RSUs
+
+ vested
+
+Shares withheld to pay             -           -            (65)                -                   -          -          -       (65)
+
+ taxes
+
+Foreign currency                   -           -              -                 -                  27          -          -        27 
+
+ translation
+
+ adjustment
+
+Repayment of convertible         161           2            230                 -                   -          -          -       232 
+
+ note in
+
+ shares
+
+Net loss                           -           -              -            (1,992)                  -          -          -    (1,992)
+
+Balance, March 31, 2024        3,400  $       34  $      87,440  $        (80,700) $               61       (160) $  (2,999) $  3,836 
+
+
+
+                              Common Stock                                                                Treasury Stock                
+
+Three Months Ended          Shares     Amount      Additional                          Accumulated       Shares     Amount      Total    
+
+                                                     Paid-in                             Other 
+
+                                                     Capital       Accumulated        Comprehensive
+
+                                                                     Deficit              Loss
+
+                                                                                                                                         
+
+Balance, January 1, 2023       2,405  $       24  $      82,911  $        (69,927) $                 6      (160) $  (2,999) $  10,231 
+
+                                                                                                                                       
+
+Adoption of ASC 326                -           -              -               (57)                   -         -          -        (57)
+
+ Current Expected Credit
+
+ Losses (CECL)
+
+ 
+
+                                                                                                                                       
+
+Adjusted balance, January      2,405          24         82,911           (69,984)                   6      (160)    (2,999)    10,174 
+
+ 1, 2023
+
+ 
+
+                                                                                                                                       
+
+Stock-based compensation           -           -            274                 -                    -         -          -        274 
+
+ expense
+
+Common stock issued for           12           -             (2)                -                    -         -          -         (2)
+
+ RSUs
+
+ vested
+
+Shares withheld to pay             -           -            (58)                -                    -         -          -        (58)
+
+ taxes
+
+Foreign currency                   -           -              -                 -                  (10)        -          -        (10)
+
+ translation
+
+ adjustment
+
+Repayment of convertible          99           1            735                 -                    -         -          -        736 
+
+ note in
+
+ shares
+
+Net loss                           -           -              -            (2,951)                   -         -          -     (2,951)
+
+Balance, March 31, 2023        2,516  $       25  $      83,860  $        (72,935) $                (4)     (160) $  (2,999) $   8,163 
+
+
+
+6
+
+
+
+Table of Contents
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in thousands)
+
+(unaudited)
+
+
+
+                                                                                                              Three months ended       
+
+                                                                                                          March 31,      March 31,   
+
+                                                                                                             2024           2023
+
+Cash flows from operating activities:                                                                                                
+
+Net loss                                                                                                $      (1,992) $      (2,951)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                          
+
+Depreciation                                                                                                       58             48 
+
+Amortization of intangible assets                                                                                  99            161 
+
+Amortization of capitalized software development costs                                                            102             84 
+
+Amortization of deferred financing costs                                                                           19              7 
+
+Amortization of debt discount                                                                                     443            303 
+
+Loss on debt settled in shares                                                                                     46            106 
+
+Stock-based compensation expense                                                                                  294            285 
+
+Credit loss expense                                                                                                56             32 
+
+Change in fair value of derivative instruments, net                                                                17            (69)
+
+Deferred income taxes                                                                                              (1)             2 
+
+Changes in assets and liabilities:                                                                                                   
+
+Contract receivables                                                                                              924           (486)
+
+Prepaid expenses and other assets                                                                                  78            876 
+
+Accounts payable, accrued compensation and accrued expenses                                                         3          1,252 
+
+Billings in excess of revenue earned                                                                               66            (61)
+
+Accrued warranty                                                                                                  (52)           (94)
+
+Other liabilities                                                                                                (547)          (336)
+
+Net cash used in operating activities                                                                            (387)          (841)
+
+                                                                                                                                     
+
+Cash flows from investing activities:                                                                                                
+
+Capital expenditures                                                                                               (3)             - 
+
+Capitalized software development costs                                                                            (49)           (77)
+
+Net cash used in investing activities                                                                             (52)           (77)
+
+                                                                                                                                     
+
+Cash flows from financing activities:                                                                                                
+
+Repayment of insurance premium financing                                                                         (221)          (243)
+
+Principal repayment of convertible note                                                                          (141)          (319)
+
+Tax paid for shares withheld                                                                                      (65)           (58)
+
+Net cash used in financing activities                                                                            (427)          (620)
+
+                                                                                                                                     
+
+Effect of exchange rate changes on cash                                                                           (22)             5 
+
+Net decrease in cash, cash equivalents and restricted cash                                                       (888)        (1,533)
+
+Cash, cash equivalents and restricted cash at beginning of the period                                           3,711          4,376 
+
+Cash, cash equivalents and restricted cash at the end of the period                                     $       2,823  $       2,843 
+
+                                                                                                                                     
+
+Cash and cash equivalents                                                                               $       1,360  $       1,265 
+
+Restricted cash, current                                                                                          379            500 
+
+Restricted cash included in other long-term assets                                                              1,084          1,078 
+
+Total cash, cash equivalents and restricted cash                                                        $       2,823  $       2,843 
+
+                                                                                                                                     
+
+Supplemental cash flow disclosures:                                                                                                  
+
+Non-cash financing activities                                                                                                        
+
+Repayment of convertible note in shares                                                                 $         232  $         736 
+
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+
+7
+
+
+
+Table of Contents
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+(unaudited)
+
+
+
+Note 1 - Summary of Significant Accounting Policies
+
+
+
+Basis of Presentation
+
+
+
+GSE Systems, Inc. is a leading provider of professional and technical engineering, staffing services and simulation software to clients in the power and process industries. References in this report to “GSE” or “we” or “our” or “the Company” are to GSE Systems, Inc. and our subsidiaries, collectively.
+
+
+
+The consolidated interim financial statements included herein have been prepared by GSE and are unaudited. In the opinion of our management, all adjustments and reclassifications of a normal and recurring nature necessary to present fairly the financial position, results of operations and cash flows for the periods presented, have been made. Certain information and note disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles (“U.S. GAAP”) have been condensed or omitted. All intercompany accounts and transactions have been eliminated in consolidation.
+
+
+
+The accompanying unaudited consolidated financial statements have been prepared in accordance with U.S. GAAP for interim financial information and with the instructions to Form 10-Q and Article 8 of Regulation S-X. The accompanying balance sheet data as of December 31, 2023 was derived from our audited financial statements, but it does not include all disclosures required by U.S. GAAP.
+
+
+
+The results of operations for interim periods are not necessarily an indication of the results for the full year. These consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the U.S. Securities and Exchange Commission on April 2, 2024.
+
+
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements, as well as reported amounts of revenues and expenses during the reporting period. Our most significant estimates relate to revenue recognition on contracts with customers, product warranties, valuation of goodwill and intangible assets acquired including the determination of fair value in impairment tests, valuation of long-lived assets, valuation of stock-based compensation awards, the recoverability of deferred tax assets, and valuation of warrants and derivative liabilities related to our convertible notes. Actual results of these and other items not listed could differ from these estimates and those differences could be material.
+
+
+
+Reverse Stock Split
+
+
+
+On October 30, 2023, the Company effected a ten-for-one reverse stock split of the Company’s common stock whereby each ten shares of the Company’s authorized and outstanding common stock were replaced with one share of common stock. The par value of the common stock was not adjusted. All common share and per share amounts for all periods presented in the consolidated financial statements and the notes to the consolidated financial statements have been retrospectively adjusted to give effect to the reverse stock split.
+
+
+
+Liquidity and Going Concern
+
+
+
+The accompanying consolidated financial statements of the Company have been prepared assuming the Company will continue as a going concern and in accordance with generally accepted accounting principles in the United States of America. The going concern basis of presentation assumes that the Company will continue in operation one year after the date these financial statements are issued and will be able to realize its assets and satisfy its liabilities and commitments in the normal course of business. Pursuant to the requirements of the Financial Accounting Standards Board’s Accounting Standards Codification (“ASC”) Topic 205-40, Disclosure of Uncertainties about an Entity’s Ability to Continue as a Going Concern, management must evaluate whether there are conditions or events, considered in the aggregate, that raise substantial doubt about the Company’s ability to continue as a going concern for one year from the date these financial statements are issued. This evaluation does not take into consideration the potential mitigating effect of management’s plans that have not been fully implemented or are not within control of the Company as of the date the financial statements are issued. When substantial doubt exists under this methodology, management evaluates whether the mitigating effect of its plans sufficiently alleviates substantial doubt about the Company’s ability to continue as a going concern. The mitigating effect of management’s plans, however, are only considered if both (1) it is probable that the plans will be effectively implemented within one year after the date that the financial statements are issued, and (2) it is probable that the plans, when implemented, will mitigate the relevant conditions or events that raise substantial doubt about the entity’s ability to continue as a going concern within one year after the date that the financial statements are issued. Management determined that the implemented plans to mitigate relevant conditions may not alleviate management’s concerns that raise substantial doubt about the Company’s ability to continue as a going concern within the twelve months ended May 15, 2025.
+
+
+
+8
+
+
+
+Table of Contents
+
+The Company has incurred operating losses and has not demonstrated an ability to generate cash in excess of its operating expenses for a sustained period of time. During the year ended December 31, 2023 and the three months ended March 31, 2024, the Company generated a loss from operations of $6.8 million and $1.5 million, respectively. The 2023 loss from operations included non-cash impairment charges of goodwill from our Workforce Solutions segment totaling $1.4 million. As of March 31, 2024, the Company had domestic unrestricted cash and cash equivalents of $0.4 million which is not sufficient to fund the Company’s planned operations through one year after the date the consolidated financial statements are issued. The Company has not achieved its forecast for several periods and there is no assurance that it will achieve its forecast over the twelve months ending May 15, 2025. These factors create substantial doubt about the Company’s ability to continue as a going concern for at least one year after the date that our audited consolidated financial statements are issued.
+
+
+
+In making this assessment we performed a comprehensive analysis of our current circumstances and to alleviate these conditions, management is monitoring the Company’s performance and evaluating strategies to obtain the required additional funding for future operations. These strategies may include, but are not limited to, restructuring of operations to grow revenues and decrease expenses, obtaining equity financing, issuing debt, or entering into other financing arrangements. The analysis used to determine the Company’s ability to continue as a going concern does not include cash sources outside the Company’s direct control that management expects to be available within the next twelve months ending May 15, 2025.
+
+
+
+Note 2 - Recent Accounting Pronouncements
+
+
+
+In November 2023, the FASB issued ASU 2023-07, “Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures,” which requires a public entity to disclose significant segment expenses and other segment items on an annual and interim basis and provide in interim periods all disclosures about a reportable segment’s profit or loss and assets that are currently required annually. Additionally, it requires a public entity to disclose the title and position of the Chief Operating Decision Maker (“CODM”). The ASU does not change how a public entity identifies its operating segments, aggregates them, or applies the quantitative thresholds to determine its reportable segments. The new standard is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024, with early adoption permitted. A public entity should apply the amendments in this ASU retrospectively to all prior periods presented in the financial statements. The Company is currently evaluating the impact that adoption of this accounting standard will have on its financial disclosures.
+
+
+
+Management has evaluated other recently issued accounting pronouncements and does not believe that any of these pronouncements will have a significant impact on our consolidated financial statements and related disclosures.
+
+
+
+Note 3 - Basic and Diluted Loss per Share
+
+
+
+Basic earnings per share is based on the weighted average number of outstanding common shares for the period. Diluted earnings per share adjusts the weighted average shares outstanding for the potential dilution that could occur if outstanding RSU’s, stock options and warrants were exercised. Basic and diluted earnings per share are based on the weighted average number of outstanding shares for the period.
+
+
+
+The number of common shares and common share equivalents used in the determination of basic and diluted loss per common share were as follows:
+
+
+
+(in thousands, except for share data)                                                                        Three months ended       
+
+                                                                                                                 March 31,            
+
+                                                                                                           2024           2023      
+
+Numerator:                                                                                                                          
+
+Net loss attributed to common stockholders                                                             $      (1,992) $      (2,951)
+
+                                                                                                                                    
+
+Denominator:                                                                                                                        
+
+Weighted-average shares outstanding for basic earnings per share                                           3,148,806      2,293,389 
+
+                                                                                                                                    
+
+Adjusted weighted-average shares outstanding and assumed conversions for diluted earnings per share        3,148,806      2,293,389 
+
+                                                                                                                                    
+
+Total shares considered for dilution                                                                       1,195,249        511,178 
+
+
+
+
+
+9
+
+
+
+Table of Contents
+
+Note 4 - Contract Receivables
+
+
+
+Contract receivables represent our unconditional rights to consideration due from our domestic and international customers. We expect to collect all contract receivables within the next twelve months.
+
+
+
+The components of contract receivables were as follows:
+
+
+
+(in thousands)                                                                                            March 31,     December 31,  
+
+                                                                                                             2024           2023
+
+                                                                                                                              
+
+                                                                                                                                      
+
+Billed receivables                                                                                      $       4,275  $       5,720 
+
+Unbilled receivables                                                                                            5,242          4,729 
+
+Allowance for credit loss                                                                                        (339)          (283)
+
+Total contract receivables, net                                                                         $       9,178  $      10,166 
+
+
+
+As of March 31, 2024, one customer has a balance that represents 13% of our contract receivable balance. During the month of April 2024, we invoiced $3.8 million of the unbilled receivables as of March 31, 2024. 
+
+
+
+Our foreign currency denominated contract receivables, billings in excess of revenue earned and subcontractor accruals that are related to the outstanding foreign exchange contracts are remeasured at the end of each reporting period into our functional currency, using the current exchange rate at the end of the period. The gain or loss resulting from such remeasurement is included in other income, net in the consolidated statements of operations. During the three months ended March 31, 2024 and 2023, we recognized a gain on remeasurement of these foreign exchange contracts of $74 thousand and $72 thousand, respectively. 
+
+
+
+During the three months ended March 31, 2024 and 2023, we recorded credit loss expense of $56 thousand, and $32 thousand respectively.
+
+The following table sets forth the activity in the allowance for credit losses for the three months ended March 31, 2024.
+
+
+
+(in thousands)                                                                                                                         
+
+Beginning balance at January 1, 2024                                                                                     $         283 
+
+Current period provision for expected credit (recovery) loss                                                                        57
+
+Write-offs charged against the allowance, net of recoveries                                                                          -
+
+Currency adjustment                                                                                                                 (1)
+
+Balance at March 31, 2024                                                                                                $         339 
+
+
+
+Note 5 - Goodwill and Intangible Assets
+
+
+
+The Company monitors operating results and events and circumstances that may indicate potential impairment of intangible assets. Management concluded that no triggering events had occurred during the three months ended March 31, 2024 and 2023.
+
+
+
+As management determined no triggering event occurred during the three months ended March 31, 2024, no interim impairment analysis was performed in accordance with ASC 350 & ASC 360.
+
+
+
+10
+
+
+
+Table of Contents
+
+Goodwill 
+
+
+
+The following table shows the gross carrying amount and impairment of goodwill: 
+
+
+
+(in thousands)
+
+
+
+                                                                                       Goodwill       Accumulated          Net      
+
+                                                                                                       Impairment
+
+                                                                                                                                    
+
+Engineering                                                                          $       8,278  $         (3,370) $       4,908 
+
+Workforce Solutions                                                                          8,431            (8,431)             - 
+
+Net book value at March 31, 2024                                                     $      16,709  $        (11,801) $       4,908 
+
+
+
+(in thousands) 
+
+
+
+                                                                                       Goodwill       Accumulated          Net      
+
+                                                                                                       Impairment
+
+                                                                                                                                    
+
+Engineering                                                                          $       8,278  $         (3,370) $       4,908 
+
+Workforce Solutions                                                                          8,431            (8,431)             - 
+
+Net book value at December 31, 2023                                                  $      16,709  $        (11,801) $       4,908 
+
+
+
+Intangible assets
+
+
+
+The following table shows the gross carrying amount and accumulated amortization of definite-lived intangible assets:
+
+
+
+(in thousands)                                                                            As of March 31, 2024                        
+
+                                                                       Gross        Accumulated       Impairment          Net      
+
+                                                                      Carrying      Amortization
+
+                                                                      Amount
+
+Amortized intangible assets:                                                                                                       
+
+Customer relationships                                             $       8,628  $         (7,468) $          (464) $        696 
+
+Trade names                                                                1,689            (1,305)               -           384 
+
+Developed technology                                                         471              (471)               -             - 
+
+Non-contractual customer relationships                                       433              (433)               -             - 
+
+Noncompete agreement                                                         527              (527)               -             - 
+
+Alliance agreement                                                           527              (527)               -             - 
+
+Others                                                                       167              (167)               -             - 
+
+Total                                                              $      12,442  $        (10,898) $          (464) $      1,080 
+
+
+
+
+
+(in thousands)                                                                          As of December 31, 2023                       
+
+                                                                       Gross        Accumulated       Impairment          Net      
+
+                                                                      Carrying      Amortization
+
+                                                                      Amount
+
+Amortized intangible assets:                                                                                                       
+
+Customer relationships                                             $       8,628  $         (7,395) $          (464) $        769 
+
+Trade names                                                                1,689            (1,283)               -           406 
+
+Developed technology                                                         471              (471)               -             - 
+
+Non-contractual customer relationships                                       433              (433)               -             - 
+
+Noncompete agreement                                                         527              (523)               -             4 
+
+Alliance agreement                                                           527              (527)               -             - 
+
+Others                                                                       167              (167)               -             - 
+
+Total                                                              $      12,442  $        (10,799) $          (464) $      1,179 
+
+
+
+Amortization expense related to definite-lived intangible assets totaled $0.1 million and $0.2 million for the three months ended March 31, 2024 and 2023, respectively. The following table shows the estimated amortization expense of the definite-lived intangible assets for the next five years and thereafter:
+
+ 
+
+(in thousands)                                                                                                                         
+
+Years ended December 31:                                                                                                               
+
+2024 remainder                                                                                                         $          233 
+
+2025                                                                                                                              255 
+
+2026                                                                                                                              204 
+
+2027                                                                                                                              169 
+
+2028                                                                                                                              109 
+
+Thereafter                                                                                                                        110 
+
+Total                                                                                                                  $        1,080 
+
+
+
+11
+
+
+
+Table of Contents
+
+Note 6 - Equipment, Software and Leasehold Improvements
+
+
+
+Equipment, software and leasehold improvements, net consist of the following:
+
+
+
+(in thousands)                                                                                                                        
+
+                                                                                                          March 31,     December 31,  
+
+                                                                                                             2024           2023
+
+                                                                                                                              
+
+Computer and equipment                                                                                  $       2,383  $        2,381 
+
+Software                                                                                                        2,292           2,292 
+
+Leasehold improvements                                                                                            805             805 
+
+Furniture and fixtures                                                                                            840             840 
+
+                                                                                                                6,320           6,318 
+
+Accumulated depreciation                                                                                       (5,620)         (5,564)
+
+Equipment, software and leasehold improvements, net                                                     $         700  $          754 
+
+
+
+Depreciation expense was $58 thousand and $48 thousand for the three months ended March 31, 2024 and 2023, respectively. 
+
+
+
+Note 7 - Fair Value of Financial Instruments
+
+
+
+ASC 820, Fair Value Measurement, defines fair value as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. ASC 820 also establishes a fair value hierarchy which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.
+
+
+
+The levels of the fair value hierarchy established by ASC 820 are:
+
+
+
+Level 1:  inputs are quoted prices, unadjusted, in active markets for identical assets or liabilities that the reporting entity has the ability to access at the measurement date.
+
+
+
+Level 2:  inputs are other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly. A Level 2 input must be observable for substantially the full term of the asset or liability.
+
+
+
+Level 3:  inputs are unobservable and reflect the reporting entity’s own assumptions about the assumptions that market participants would use in pricing the asset or liability.
+
+
+
+As of March 31, 2024 and December 31, 2023, we considered the recorded value of certain of our financial assets and liabilities, which consist primarily of cash and cash equivalents, contract receivable and accounts payable, to approximate fair value based upon their short-term nature.
+
+
+
+Our convertible debt issued in February 2022, amended in June 2023 and our new convertible debt issued in June 2023 (see Note 9) includes certain embedded redemption features that are required to be bifurcated as embedded derivatives and measured at fair value on a recurring basis. We estimate the fair value using a Monte Carlo simulation based on estimates of our future stock price and assumptions about the possible redemption scenarios. 
+
+
+
+The Company used the Monte Carlo simulation model to determine the fair value of the Warrants (see Note 9) and Cash-Settled PRSUs, which required the input of subjective assumptions. The fair value of the Warrants as of March 31, 2024 was estimated with the following assumptions. 
+
+ 
+
+                                                                  Amended 2022      The “2022          2023           The “2023   
+
+                                                                  Convertible       Warrants”       Convertible       Warrants”
+
+                                                                      Note                             Note
+
+                                                                        
+
+                                                                                                                                  
+
+Exercise Price                                                   $        19.40           19.40   $          5.00            5.00 
+
+Common Stock Price                                               $         2.34   $        2.34              2.34            2.34
+
+Risk Free Rate                                                              5.2%           4.31%             4.91%           4.21%
+
+Volatility                                                                 95.0%           95.0%             95.0%           95.0%
+
+Term (in years)                                                        0.2 yrs.       2.9 yrs.          1.2 yrs.         4.2 yrs. 
+
+
+
+12
+
+
+
+Table of Contents
+
+The following table presents assets and liabilities measured at fair value at March 31, 2024:
+
+
+
+(in thousands)                                                 Quoted Prices        Significant         Significant        Total     
+
+                                                             in Active Markets   Other Observable      Unobservable
+
+                                                               for Identical          Inputs              Inputs
+
+                                                                   Assets            (Level 2)           (Level 3)
+
+                                                                 (Level 1)
+
+                                                                                                                                     
+
+Derivative liability                                         $              -  $                -  $             469  $        469 
+
+Warrant liability                                                           -                   -                656           656 
+
+Cash settled performance-vesting restricted stock units                     -                   -                 28            28 
+
+ Total liabilities                                           $              -  $                -  $           1,153  $      1,153 
+
+
+
+The following table presents assets and liabilities measured at fair value at December 31, 2023:
+
+
+
+(in thousands)                                                 Quoted Prices        Significant         Significant        Total     
+
+                                                             in Active Markets   Other Observable      Unobservable
+
+                                                               for Identical          Inputs              Inputs
+
+                                                                   Assets            (Level 2)           (Level 3)
+
+                                                                 (Level 1)
+
+                                                                                                                                     
+
+Derivative liability                                         $              -  $                -  $             588  $        588 
+
+Warrant liability                                                           -                   -                520           520 
+
+Cash settled performance-vesting restricted stock units                     -                   -                 24            24 
+
+ Total liabilities                                           $              -  $                -  $           1,132  $      1,132 
+
+
+
+The following table summarizes changes in the fair value of our Level 3 liabilities during the three months ended March 31, 2024. 
+
+
+
+(in thousands)                                                         Embedded         Warrant       Cash Settled      Level 3    
+
+                                                                      Redemption                         PRSUs           Total
+
+                                                                       Features                                             
+
+Balance at December 31, 2023                                        $           588  $          520  $          24  $      1,132 
+
+Change in FV included in gain on derivative instruments, net                   (119)            136              -            17 
+
+Stock compensation less payments made                                             -               -              4             4 
+
+Balance at March 31, 2024                                           $           469  $          656  $          28  $      1,153 
+
+
+
+Note 8 - Stock-Based Compensation
+
+
+
+During the three months ended March 31, 2024 and 2023, we recognized $0.3 million of stock-based compensation expense related to RSU and PRSU awards under the fair value method.
+
+
+
+During the three months ended March 31, 2024, we granted approximately 56,259 time-based restricted stock units (“RSUs”) with an aggregate fair value of approximately $0.1 million. During the three months ended March 31, 2023, we granted approximately 4,500 time-based RSUs with an aggregate fair value of approximately $33 thousand. During the three months ended March 31, 2024 and 2023, we vested 68,766 and 184,949 RSUs, respectively. Typically, RSU’s vest quarterly in equal amounts over the course of one to three years.
+
+
+
+13
+
+
+
+Table of Contents
+
+During the three months ended March 31, 2024 and March 31, 2023, no PRSU’s were granted. During the three months ended March 31, 2024 and March 31, 2023, we vested 5,000 PRSUs, of which, 1,250 PRSUs were cash-settled, respectively. As of March 31, 2024, we have 90,942 unvested PRSUs, of which, 35,000 have met the performance obligation and are expected to vest over the next 7 quarters.
+
+
+
+We did not grant any stock options for the three months ended March 31, 2024 and 2023.
+
+
+
+Note 9 - Debt
+
+
+
+Convertible Note
+
+
+
+On February 23, 2022, we entered into a Securities Purchase Agreement, as amended, with Lind Global, pursuant to which we issued to Lind Global the 2022 Convertible Note and a common stock purchase warrant to acquire 128,373 shares of our Common Stock (the “2022 Warrant”). The 2022 Convertible Note does not bear interest but was issued at a $0.75 million discount (“OID”). We received proceeds of approximately $4.8 million net of the OID and expenses.
+
+
+
+On June 23, 2023, the Company entered into a second Securities Purchase Agreement (the “2023 Purchase Agreement”) with Lind Global, pursuant to which we issued to Lind Global that certain Senior Convertible Promissory Note, dated February 23, 2022 (the “2023 Convertible Note” and, together with the 2022 Convertible Note, the “Convertible Notes”) and a common stock purchase warrant to acquire 426,427 shares of our Common Stock (the “2023 Warrant”). The 2023 Convertible Note does not bear interest but was issued at a $0.3 million discount (“OID”). We received proceeds of approximately $1.4 million net of the OID and expenses.
+
+
+
+(in thousands)                                                                         2022             2023            Total       
+
+                                                                                    Convertible     Convertible      Convertible 
+
+                                                                                        Note            Note             Notes
+
+                                                                                       Amount          Amount           Amount      
+
+                                                                                                                                    
+
+Convertible Note issued                                                            $        5,750  $         1,800  $         7,550 
+
+Debt discount                                                                                (750)            (300)          (1,050)
+
+Issuance cost:                                                                                                                      
+
+Commitment fee                                                                               (175)             (52)            (227)
+
+Balance of investor’s counsel fees                                                            (43)             (34)             (77)
+
+Net proceeds of Convertible Note                                                   $        4,782  $         1,414  $         6,196 
+
+                                                                                                                                    
+
+Additional OID costs not in original funds flow                                              (121)             (15)            (136)
+
+Fair value of Warrant Liabilities on issuance                                                (724)          (1,119)          (1,843)
+
+Fair value of Conversion Feature on issuance                                                 (306)            (286)            (592)
+
+Allocated OID costs to Warrants                                                                25               30               55 
+
+Additional OID costs not in original funds flow                                              (660)             660                - 
+
+Interest expense accrued on Convertible Note as of March 31, 2024                           3,213              459            3,672 
+
+Principal and interest payments through March 31, 2024                                     (6,021)               -           (6,021)
+
+                                                                                                                                    
+
+Balance of Convertible Note as of March 31, 2024                                   $          188  $         1,143  $         1,331 
+
+
+
+14
+
+
+
+Table of Contents
+
+The Convertible Notes provide for variable monthly principal repayments beginning 180 days from issuance (with respect to the 2022 Convertible Note) and 12 months from issuance (with respect to the 2023 Convertible Note). Remaining monthly principal payments range from $0.1 to $0.2 million and can be made in the form of cash, shares, or a combination of both at the discretion of GSE.
+
+
+
+The following table details the future principal payments of the Convertible Note, gross of debt discounts:
+
+
+
+(in thousands)
+
+
+
+Years ended December 31:                                                                                                               
+
+2024                                                                                                                     $       1,290 
+
+2025                                                                                                                               750 
+
+Thereafter                                                                                                                           - 
+
+                                                                                                                         $       2,040 
+
+
+
+Prior to the June 2023 amendments, described below, the 2022 Convertible Note was convertible into our Common Stock at any time after the earlier of six months from issuance of the Convertible Note or the date of an effective registration statement filed with the SEC covering the underlying shares. The conversion price of the 2022 Convertible Note was equal to $19.40 per share, subject to customary adjustments. The 2022 Convertible Note matured in February 2024, although we were permitted to prepay the 2022 Convertible Note, provided that Lind Global had the option to convert up to one third of the outstanding principal of the 2022 Convertible Note at a price per share equal to the lesser of the Repayment Share price or the conversion price (as described below). 
+
+
+
+The 2022 Convertible Note is guaranteed by each of our subsidiaries and is secured by a first priority lien on all of our assets. The 2022 Convertible Note is not subject to any financial covenants and events of default under the 2022 Convertible Note are limited to events related to payment, market capitalization, certain events pertaining to conversion and the underlying shares of Common Stock and other customary events including, but not limited to, bankruptcy or insolvency. Upon the occurrence of an event of default, the 2022 Convertible Note will become immediately due and payable at an amount equal to 120% of the outstanding principal, subject to any cure periods described in the 2022 Convertible Note, and the lender may demand that all or a portion of the outstanding principal amount be converted into shares of common stock at the lower of the then current conversion price and 80% of the average of the three lowest daily volume-weighted average price (“VWAPs”) during the twenty days prior to delivery of the conversion notice. If there is a change of control of the Company, Lind Global has the right to require us to prepay the outstanding principal amount of the 2022 Convertible Note.
+
+
+
+On June 23, 2023, the Company and Lind Global agreed to amend and restate the 2022 Convertible Note. The 2022 Convertible Note, as now amended, is now secured, interest free convertible promissory note in the principal amount of $2,747,228, such amount being the outstanding balance of the 2022 Convertible Note as of June 23, 2023. Just prior to the amendment, there was an event of default (EOD) related to the total market capitalization provision in the original 2022 Convertible Note. The EOD that occurred was waived, and we incurred a 20% charge included in the amended and restated 2022 Convertible Note, which the Company has treated as additional interest. The 2022 Convertible Note now has a maturity date of August 23, 2024 was payable, commencing on July 23, 2023, in twelve (12) consecutive monthly payments of $186,343 each and two (2) final payments of $255,556 each. The remainder of the terms of the 2022 Convertible Note, including terms around payment, prepayment, default and conversion, are unchanged.
+
+
+
+On October 6, 2023, the Company and Lind Global entered into that certain First Amendment to the 2022 Convertible Note (“A&R Note Amendment”), amending the 2022 Convertible Note to extend the beginning period of required compliance with certain default provisions until January 31, 2024. The A&R Note Amendment amended Section 2.1 pertaining to events of default by deleting and replacing Section 2.1(r), which previously provided for an event of default under the Note in the event that the Company’s Market Capitalization was below $7 million for ten (10) consecutive days. As amended, the A&R Note provided that, at any time after January 31, 2024, an event of default will occur in the event that the Company’s Market Capitalization is below $7 million for ten (10) consecutive days. Prior to the Amendment, the “Conversion Price” in Section 3.1(b) of the A&R Note “was $19.40, and shall be subject to adjustment as provided herein.” The A&R Note Amendment amended the definition of “Conversion Price” “the lower of (i) $19.40 and (ii) eighty-five percent (85%) of the average of the three (3) lowest daily VWAPs during the twenty (20) Trading Days prior to the delivery by the Holder of the applicable notice of conversion.” There was no accounting impact related to this amendment as conversion options are already bifurcated as an embedded derivative and recorded at fair value at each reporting period.
+
+
+
+15
+
+
+
+Table of Contents
+
+The 2022 Warrant entitles Lind Global to purchase up to 128,373 shares of our Common Stock until February 23, 2027, at an exercise price of $19.40 per share, subject to customary adjustments described therein. The Warrant is recorded at fair value upon issuance of $0.7 million and is classified as a current liability to be remeasured at each reporting period (see Note 7). The discount created by allocating proceeds to the Warrant results in a debt discount to be amortized as additional interest expense over the term of the Convertible Note.
+
+
+
+On June 23, 2023, in connection with the 2022 amended and restated Convertible Note transaction, the Company evaluated the amendment and concluded it qualified as a troubled debt restructuring. The restructuring did not result in a gain or loss but revised the effective interest rate used to amortize the note going forward.
+
+
+
+On June 23, 2023, the Company entered into a second Securities Purchase Agreement (the “2023 Purchase Agreement”) with Lind Global, pursuant to which the Company issued to Lind Global the 2023 Convertible Note at the same time that the Company and Lind Global amended and restated the 2022 Convertible Note. The closing occurred on June 23, 2023, and consisted of the issuance of a secured, two-year interest free convertible promissory note with a funding amount of $1,500,000 and a principal amount of $1,800,000 (as defined above, the “2023 Convertible Note”) and the issuance of common stock purchase warrant to acquire 426,427 shares of the Company’s common stock (the “2023 Warrant” and, together with the 2022 Warrant, the “Warrants”). The proceeds from the transactions contemplated by the 2023 Purchase Agreement were for general working capital purposes and other corporate purposes.
+
+
+
+On October 6, 2023, the Company and Lind Global entered into that certain First Amendment to Senior Convertible Promissory Note, amending the Company’s 2023 Convertible Note (the “Note Amendment”) to extend the beginning period of required compliance with certain default provisions until January 31, 2024. The Note Amendment amended Section 2.1 of the 2023 Convertible Note pertaining to events of default by deleting and replacing Section 2.1(r), which previously provided for an event of default under the Note in the event that the Company’s Market Capitalization (as defined in the Note) was below $7 million for ten (10) consecutive days. As amended, the Note provides that, at any time after January 31, 2024, an event of default will occur in the event that the Company’s Market Capitalization is below $7 million for ten (10) consecutive days. 
+
+
+
+Commencing one year after the issuance of the 2023 Convertible Note, the Company shall pay the outstanding principal amount of the 2023 Convertible Note in twelve (12) consecutive monthly payments of $150,000 each. At the option of the Company, the monthly payment can be made in cash, shares of the common stock of the Company (the “Repayment Shares”) at a price based on 90% of the average five (5) consecutive daily VWAPs during the twenty (20) days prior to the payment date, or a combination of cash and Repayment Shares, subject to the terms of the 2023 Convertible Note.  The Repayment Shares must either be eligible for immediate resale under Rule 144 or be registered. The number of Repayment Shares is limited such that, when added to the number of shares of common stock issued and issuable pursuant to the transactions contemplated by the 2023 Purchase Agreement, it may not exceed 493,727 shares of common stock unless the Company obtains stockholder approval to issue additional Repayment Shares. The holder of the 2023 Convertible Note may elect with respect to no more than two (2) of the above described monthly payments to increase the amount of such monthly payment up to $300,000 each in Repayment Shares upon notice to the Company. Any such increased payment shall be deducted from the amount of the last monthly payment owed under the 2023 Convertible Note.  The Company can prepay Lind Global all the outstanding principal amount of the 2023 Convertible Note, provided that Lind Global shall have the option to convert up to one third (1/3) of the outstanding principal amount of the 2023 Convertible Note at a price per share equal to the lesser of the Repayment Share price or the conversion price (as described below).
+
+
+
+16
+
+
+
+Table of Contents
+
+Upon the occurrence of an event of default as described in the 2023 Convertible Note, the 2023 Convertible Note will become immediately due and payable at the default premium described in the 2023 Convertible Note, subject to any cure periods described in the 2023 Convertible Note. Events of default include, but are not limited to, a payment default on any other indebtedness in excess of $250,000; the shares no longer publicly being traded or cease to be listed on a trading market; if after six months, the shares are not available for immediate resale under Rule 144; and the Company’s market capitalization is below $7,000,000 for ten (10) consecutive days. Upon an event of default, subject to any applicable cure period, the holder of the 2023 Convertible Note can, among other things, accelerate payment of the 2023 Convertible Note and demand full payment and demand that all or a portion of the outstanding principal amount be converted into shares of common stock at the at the lower of the then current conversion price and 85% of the average of the three (3) lowest daily VWAPs during the twenty (20) days prior to delivery of the conversion notice.  If there is a change of control of the Company, Lind Global has the right to require the Company to prepay 105% of the outstanding principal amount of the 2023 Convertible Note. A change of control includes a change in the composition of a majority of the Board of Directors of the Company, at a single shareholder meeting, a change, without prior written consent of Lind Global where a majority of the individuals that were directors as of June 20, 2023 cease to be directors of the Company (provided that any individual who is nominated by the board of directors (or a duly authorized committee thereof) as of June 20, 2023 and is elected or appointed as a director of the Company shall be deemed a member of the board of directors of the Company for all such purposes), a shareholder acquiring beneficial ownership of more than 50% of the common stock of the Company, or the sale or other disposition of the Company of all or substantially all of its assets.  The 2023 Convertible Note is convertible into common stock of the Company at any time after the earlier of six (6) months from issuance or the date the registration statement is effective, provided that no such conversion may be made that would result in beneficial ownership by Lind Global and its affiliates of more than 4.99% of the Company’s outstanding shares of common stock. The conversion price of the 2023 Convertible Note is equal to $5.00, subject to customary adjustments.
+
+
+
+The 2023 Warrant entitles Lind Global to purchase up to 426,427 shares of common stock of the Company until the earlier of (a) June 23, 2028 and (b) a merger, sale event or other reclassification of the Company’s common stock, at an exercise price of $5.00 per share, subject to customary adjustments described therein. Additionally, in the event of a sale of all or substantially all of the assets of the Company or a merger, tender offer or certain other change of control events involving the Company, the Company shall, at the holder’s option, exercisable at any time concurrently with, or within 30 days after, the consummation of the transaction, purchase the 2023 Warrant from the holder by paying to the holder an amount of cash equal to (i) if the price per share of Common Stock payable in such transaction is in excess of $10.00, the Adjusted Black Scholes Value, or (ii) if the price per share of Common Stock payable in such transaction is equal to or less than $10.00, the Black Scholes Value, of the remaining unexercised portion of the 2023 Warrant on the date of the consummation of such transaction. “Adjusted Black Scholes Value” means the lesser of (i) the Black Scholes Value and (ii) the price per share of Common Stock payable in the transaction minus the exercise price multiplied by the then amount of unexercised 2023 Warrant shares. “Black Scholes Value” means the value the 2023 Warrant based on the Black-Scholes Option Pricing Model obtained from the “OV” function on Bloomberg, L.P. (“Bloomberg”) determined as of the day of consummation of the applicable transaction for pricing purposes and reflecting (A) a risk-free interest rate corresponding to the U.S. Treasury rate for a period equal to the time between the date of the public announcement of the applicable transaction and the final day of the exercise period, (B) an expected volatility equal to the greater of 100% and the 100 day volatility obtained from the HVT function on Bloomberg as of the Trading Day immediately following the public announcement of the applicable transaction, (C) the underlying price per share used in such calculation shall be the greater of (i) the sum of the price per share being offered in cash, if any, plus the value of any non- cash consideration, if any, being offered in such transaction and (ii) the greater of (x) the last volume weighted average price immediately prior to the public announcement of such transaction and (y) the last volume weighted average price immediately prior to the consummation of such transaction and (D) a remaining option time equal to the time between the date of the public announcement of the applicable transaction and the final day of the exercise period. The 2023 Warrant is in addition to the 2022 Warrant.
+
+
+
+The Company evaluated the 2022 Convertible Note and concluded that certain embedded redemption features are required to be accounted for as a derivative liability. Embedded redemption features were recorded at fair value upon issuance of $0.3 million and are classified as current liabilities to be remeasured at each reporting period (see Note 7). The discount created by allocating proceeds to the derivative liability results in a debt discount to be amortized as additional interest expense over the term of the Convertible Notes. The Warrants are accounted for as a derivative liability based on certain features included within the Convertible Note which caused the Company to not be able to assert that it would have sufficient shares in all cases to be able to settle the Warrants. As such, the proceeds (approximately $4.8 million, net of original issue discounts and other payments to lender) were allocated first to the fair value of the Warrants with the residual allocated to the Convertible Notes host instrument. The proceeds allocated to the Convertible Notes were further allocated first to the bifurcated derivative liability based on its fair value with the residual being allocated to the Convertible Notes host instrument.
+
+
+
+Upon issuance of the 2023 Convertible Note, the Company re-evaluated the 2022 Convertible Note, in accordance with ASC 815-40-25-10 and its sequencing policy, and concluded that the embedded conversion option was required to be bifurcated and accounted for as a derivative liability as a result of the Company not being able to assert that it would have sufficient shares in all cases to be able to settle the conversion of the 2022 Convertible Note.  The embedded conversion option will be combined with the bifurcated redemption features as a single derivative and is classified as a current liability to be remeasured at each reporting period.  The discount resulting from bifurcating the embedded conversion option will be amortized as additional interest expense over the term of the 2022 Convertible Note.
+
+
+
+The direct and incremental costs incurred are allocated to the Convertible Note and the Warrant based on a systematic and rational approach. The costs allocated to the Warrants have been expensed as incurred while those allocated to the Convertible Note have been capitalized and will be amortized as interest expense over the life of the Convertible Notes based on the effective interest rate. The Company will record ongoing changes to the fair value of the derivative liabilities as other non-operating income (expense).
+
+
+
+The Convertible Notes are evaluated as a potentially dilutive security in both periods of loss and income for diluted earnings per share purposes. The Warrants are considered a participating security and were not included in the calculation of basic earnings per share for the three months ended March 31, 2024 and the year ended December 31, 2023 as Company reflected net loss for the respective periods. The Warrant will be included in the calculation of diluted earnings per share in periods of net income.
+
+
+
+17
+
+
+
+Table of Contents
+
+The issuance costs with respect to the Convertible Notes, which are recorded as a debt discount, are deferred and amortized using the effective interest method as additional interest expense over the terms of the Convertible Note at an effective interest rate of 68.6%. The Company incurred total interest expense related to the Convertible Notes of $0.4 million and $0.3 million for the three months ended March 31, 2024 and 2023, respectively. 
+
+
+
+On February 12, 2024, the Company and Lind Global entered into an agreement to amend certain provisions of the Convertible Notes (as amended) to extend the beginning period of required compliance with certain default provisions until June 1, 2024. The agreement amended Section 2.1 pertaining to events of default, to extend the period in which an event of default would occur, as defined above, to any time after June 1, 2024, previously any time after January 31, 2024 as provided in the October 6th amendment defined above. But for the amendment, the Company would have incurred an event of default after the tenth (10th) trading day following January 31, 2024 if the market capitalization of the Company was less than seven million dollars ($7,000,000). The amendments amended the definition of “Conversion Price” in the 2023 Convertible Note to “the lower of (i) $5.00 and (ii) eighty-five percent (85%) of the average of the three (3) lowest daily VWAPs during the twenty (20) Trading Days prior to the delivery by the Holder of the applicable notice of conversion.” No other concession was given with this amendment and legal fees were expenses as incurred.
+
+
+
+At March 31, 2024, the outstanding debt under  the Convertible Note agreement was as follows:
+
+
+
+(in thousands)                                                                          Principal     Debt Discounts       Net      
+
+                                                                                                                                    
+
+Current portion of Long-Term Debt                                                     $        1,740  $         (686) $       1,054 
+
+                                                                                                                                    
+
+Long-Term Debt less current portion                                                              300             (23)           277 
+
+                                                                                                                                    
+
+Balance of Convertible Notes as of March 31, 2024                                     $        2,040  $         (709) $       1,331 
+
+
+
+At December 31, 2023, the outstanding debt under the Convertible Note agreement was as follows:
+
+
+
+(in thousands)                                                                           Principal     Debt Discounts       Net      
+
+                                                                                                                                     
+
+Current portion of Long-Term Debt                                                      $        1,849  $      (1,039) $         810 
+
+                                                                                                                                    
+
+Long-Term Debt less current portion                                                               750           (113)           637 
+
+                                                                                                                                    
+
+Balance of Convertible Notes as of December 31, 2023                                   $        2,599  $      (1,152) $       1,447 
+
+
+
+Letters of Credit
+
+
+
+We maintain certain letters of credit with Citizens Bank, N.A. (“Citizens”). As of March 31, 2024, we had four letters of credit totaling $1.1 million outstanding to certain customers which were secured with restricted cash.
+
+
+
+Note 10 - Product Warranty
+
+
+
+We accrue estimated warranty costs at the time the related revenue is recognized and based on historical experience and projected claims. Our System Design and Build contracts generally include a one year base warranty on the systems. The portion of our warranty provision expected to be incurred within twelve months is classified as current within accrued warranty and the remaining is classified as long-term within other non-current liabilities. As of March 31, 2024 and December 31, 2023 $181 thousand and $176 thousand were classified as current, respectively, and $50 thousand and $108 thousand were classified as long-term as of March 31, 2024 and December 31, 2023, respectively.
+
+
+
+The activity in the accrued warranty accounts during the current period is as follows:
+
+
+
+(in thousands)                                                                                                                         
+
+Balance at January 1, 2024                                                                                               $         284 
+
+Current period recovery                                                                                                            (28)
+
+Current period claims                                                                                                              (24)
+
+Currency adjustment                                                                                                                 (1)
+
+Balance at March 31, 2024                                                                                                $         231 
+
+
+
+18
+
+
+
+Table of Contents
+
+
+
+Note 11 - Revenue
+
+
+
+We account for revenue in accordance with ASC 606, Revenue from Contracts with Customers. We primarily generate revenue through three distinct revenue streams: (1) System Design and Build (“SDB”), (2) Software and (3) Training and Consulting Services across our Engineering and Workforce Solutions segments. We recognize revenue from SDB and software contracts mainly through our Engineering segment. We recognize training and consulting service contracts through both segments.
+
+
+
+The following table represents a disaggregation of revenue by type of goods or services for the three months ended March 31, 2024 and 2023, along with the reporting segment for each category:
+
+
+
+                                                                                                             Three months ended        
+
+(in thousands)                                                                                            March 31,      March 31,   
+
+                                                                                                             2024           2023
+
+                                                                                                                              
+
+Engineering                                                                                                                          
+
+System Design and Build                                                                                 $       2,127  $       1,470 
+
+Over time                                                                                                       2,127          1,470 
+
+                                                                                                                                     
+
+Software and Support                                                                                              866          1,189 
+
+Point in time                                                                                                       5            313 
+
+Over time                                                                                                         861            876 
+
+                                                                                                                                     
+
+Training and Consulting Services                                                                                5,736          4,282 
+
+Point in time                                                                                                      82            196 
+
+Over time                                                                                                       5,654          4,086 
+
+                                                                                                                                     
+
+Workforce Solutions                                                                                                                  
+
+Training and Consulting Services                                                                                2,554          3,932 
+
+Point in time                                                                                                      93            119 
+
+Over time                                                                                                       2,461          3,813 
+
+                                                                                                                                     
+
+Total revenue                                                                                           $      11,283  $      10,873 
+
+
+
+The following table reflects revenue recognized in the reporting periods that was included in contract liabilities from contracts with customers as of the beginning of the periods presented:
+
+
+
+(in thousands)                                                                                               Three months ended        
+
+                                                                                                          March 31,      March 31,   
+
+                                                                                                             2024           2023
+
+                                                                                                                              
+
+Revenue recognized in the period from amounts included in billings in excess of revenue earned at the   $       2,077  $       1,850 
+
+ beginning of the
+
+ period
+
+
+
+Note 12 - Income Taxes 
+
+The following table presents the provision for income taxes and our effective tax rates:
+
+
+
+(in thousands)                                                                                             Three months ended        
+
+                                                                                                       March 31,        March 31,   
+
+                                                                                                          2024             2023
+
+                                                                                                                             
+
+Loss before income taxes                                                                             $      (1,952)   $      (2,990)
+
+Expense (benefit) from income taxes                                                                             40              (39)
+
+Effective tax rate                                                                                            (2.0)%            1.3%
+
+
+
+19
+
+
+
+Table of Contents
+
+Our income tax expense or benefit for the interim periods presented is determined using an estimate of our annual effective tax rate, adjusted for discrete items arising in that quarter. Total income tax expense for the three months ended March 31, 2024 was comprised mainly of current state and foreign tax expense and deferred state tax benefit related to the portion of goodwill which cannot be offset by deferred tax assets and state tax expense. Total income tax benefit for the three months ended March 31, 2023 was comprised mainly of current foreign tax benefit, current state tax expense, and deferred state tax expense related to the portion of goodwill which cannot be offset by deferred tax assets.
+
+
+
+Our effective income tax rate was (2.0)% and 1.3% for the three months ended March 31, 2024 and 2023, respectively. For the three months ended March 31, 2024, the difference between our income tax expense at an effective tax rate of (2.0)% and a benefit at the U.S. statutory federal income tax rate of 21% was primarily due to accruals related to uncertain tax positions for certain foreign tax contingencies, a change in valuation allowance in our U.S. entity, the permanent disallowance of interest expense related to disqualified debt, and discrete item adjustments for U.S. taxes. For the three months ended March 31, 2023, the difference between our income tax benefit at an effective tax rate of 1.3% and a benefit at the U.S. statutory federal income tax rate of 21% was primarily due to accruals related to uncertain tax positions for certain foreign tax contingencies, a change in tax valuation allowance in our U.S. entity, the permanent disallowance of interest expense related to disqualified debt, and discrete item adjustments for U.S.
+
+
+
+Because of our net operating loss carryforwards, we are subject to U.S. federal and state income tax examinations from the year 2003 and forward and are subject to foreign tax examinations by tax authorities for years 2018 and forward.
+
+
+
+An uncertain tax position taken or expected to be taken in a tax return is recognized in the consolidated financial statements when it is more likely than not (i.e., a likelihood of more than 50%) that the position would be sustained upon examination by tax authorities that have full knowledge of all relevant information. A recognized tax position is then measured at the largest amount of benefit that is greater than 50% likely of being realized upon ultimate settlement. Interest and penalties related to income taxes are accounted for as income tax expense.
+
+
+
+We recognize deferred tax assets to the extent that it is believed that these assets are more likely than not to be realized. We have evaluated all positive and negative evidence and determined that we will continue to assess a full valuation allowance on our U.S., China, and Slovakia net deferred assets as of March 31, 2024. We have determined that it is not more likely than not that the Company will realize the benefits of its deferred taxes in the U.S. and foreign jurisdictions.
+
+
+
+Note 13 - Leases
+
+
+
+We have lease agreements with lease and non-lease components, which are accounted for as a single lease. We apply a portfolio approach to effectively account for the operating lease ROU assets and liabilities. The operating lease ROU amortization was $49 thousand and $120 thousand for the three months ended March 31, 2024 and 2023, respectively.
+
+
+
+Lease contracts are evaluated at inception to determine whether they contain a lease and whether we obtain the right to control an identified asset. The following table summarizes the classification of operating ROU assets and lease liabilities on the consolidated balance sheets:
+
+
+
+(in thousands)
+
+                                                                                                                  As of               
+
+                Operating Leases                                    Classification                   March 31, 2024   December 31,   
+
+                                                                                                                           2023
+
+                                                                                                                                     
+
+Leased Assets                                                                                                                        
+
+Operating lease - right of use assets                              Long term assets                  $          364  $           413 
+
+                                                                                                                                     
+
+Lease Liabilities                                                                                                                    
+
+Operating lease liabilities - Current                         Other current liabilities                         193              234 
+
+Operating lease liabilities                                     Long term liabilities                           322              357 
+
+                                                                                                     $          515  $           591 
+
+
+
+20
+
+
+
+Table of Contents
+
+On June 7, 2023 we entered into an office lease agreement to lease 2,704 square feet in Fort Worth, Texas for an initial lease term ending November 7, 2030. We entered into a lease agreement to lease 2,200 square feet of office space in Columbia, Maryland on September 26, 2022, through November 30, 2024. 
+
+
+
+The table below summarizes lease income and expense recorded in the consolidated statements of operations incurred during three months ended March 31, 2024 and 2023, (in thousands):
+
+
+
+                                                                                                           Three months ended        
+
+Lease Cost                                                          Classification                   March 31, 2024  March 31, 2023 
+
+                                                                                                                                    
+
+Operating lease cost (1)                          Selling, general and administrative expenses       $           76  $          128 
+
+Short-term leases costs (2)                       Selling, general and administrative expenses                    2              15 
+
+Net lease cost                                                                                       $           78  $          143 
+
+
+
+(1) Includes variable lease costs which are immaterial.
+
+(2) Includes leases maturing less than twelve months from the report date.
+
+
+
+The Company is obligated under certain noncancelable operating leases for office facilities and equipment. Future minimum lease payments under noncancelable operating leases as of March 31, 2024 are as follows:
+
+
+
+(in thousands)                                                                                                          Gross Future   
+
+                                                                                                                        Minimum Lease
+
+                                                                                                                          Payments
+
+2024 remainder                                                                                                         $          180 
+
+2025                                                                                                                              150 
+
+2026                                                                                                                               96 
+
+2027                                                                                                                               89 
+
+2028                                                                                                                               60 
+
+Thereafter                                                                                                                          - 
+
+Total lease payments                                                                                                   $          575 
+
+Less: Interest                                                                                                                     60 
+
+Present value of lease payments                                                                                        $          515 
+
+
+
+
+
+We calculated the weighted-average remaining lease term, presented in years below and the weighted-average discount rate for our operating leases, and we use the incremental borrowing rate as the lease discount rate.
+
+
+
+Lease Term and Discount Rate                                                                            March 31,     December 31,  
+
+                                                                                                           2024            2023
+
+                                                                                                                             
+
+Weighted-average remaining lease term (years)                                                                                       
+
+Operating leases                                                                                               3.35            3.38 
+
+Weighted-average discount rate                                                                                                      
+
+Operating leases                                                                                               6.21%           6.10%
+
+
+
+The table below sets out the classification of lease payments in the consolidated statements of cash flows.
+
+
+
+(in thousands)                                                                                              Three months ended        
+
+Cash paid for amounts included in measurement of liabilities                                          March 31, 2024    March 31,    
+
+                                                                                                                           2023
+
+                                                                                                                             
+
+Operating cash flows used in operating leases                                                         $           88  $          169 
+
+
+
+21
+
+
+
+Table of Contents
+
+Note 14 - Segment Information
+
+   
+
+We have two reportable business segments for which the Company’s president and CEO is the chief operating decision maker (CODM) for both. The Engineering segment provides simulation, training and engineering products and services delivered across the breadth of industries we serve. Solutions include simulation for both training and engineering applications. Example engineering services include, but are not limited to, plant design verification and validation, thermal performance evaluation and optimization programs, and engineering programs for plants for American Society of Mechanical Engineers (“ASME”) code and ASME Section XI. The Company provides these services across all market segments through our Performance (now doing business as - “GSE Systems & Simulation” or “Systems & Simulation”), True North consulting (now doing business as - “GSE Programs & Performance” or “Programs & Performance”), and DP Engineering (now doing business as - “GSE Design & Analysis” or “Design & Analysis”) subsidiaries. Example training applications include turnkey and custom training services. Contract terms are typically less than two years. 
+
+
+
+Workforce Solutions segment provides specialized workforce solutions primarily to the nuclear industry, working at clients’ facilities. This business is managed through our Hyperspring (now doing business as - “GSE Training Services” or “Training Services”) and Absolute (now doing business as - “GSE Technical Staffing” or “Technical Staffing”) subsidiaries. The business model, management focus, margins and other factors clearly separate this business line from the rest of the GSE product and service portfolio.
+
+
+
+The following table sets forth the revenue and operating results attributable to each reportable segment and includes a reconciliation of segment revenue to consolidated revenue and operating results to consolidated income before income taxes. Inter-segment revenue is eliminated in consolidation and is not significant.
+
+
+
+                                                                                                              Three months ended       
+
+(in thousands)                                                                                            March 31,      March 31,   
+
+                                                                                                             2024           2023
+
+Revenue:                                                                                                                             
+
+Engineering                                                                                             $       8,729  $       6,942 
+
+   Workforce Solutions                                                                                          2,554          3,931 
+
+Total revenue                                                                                           $      11,283  $      10,873 
+
+                                                                                                                                     
+
+Gross Profit                                                                                                                         
+
+Engineering                                                                                             $       2,905  $       1,880 
+
+Workforce Solutions                                                                                               311            515 
+
+Total gross profit                                                                                      $       3,216  $       2,395 
+
+                                                                                                                                     
+
+Operating loss                                                                                                                       
+
+   Engineering                                                                                          $      (1,398) $      (2,424)
+
+   Workforce Solutions                                                                                           (132)          (359)
+
+Operating loss                                                                                          $      (1,530) $      (2,783)
+
+                                                                                                                        
+
+                                                                                                                                     
+
+Interest expense, net                                                                                            (459)          (286)
+
+Change in fair value of derivative instruments, net                                                               (17)            69 
+
+Other loss, net                                                                                                    54             10 
+
+Loss before income taxes                                                                                $      (1,952) $      (2,990)
+
+
+
+Note 15 - Commitments and Contingencies
+
+
+
+Three former employees of Absolute Consulting, Inc. and Hyperspring, LLC, filed putative class action lawsuits against the Company, alleging that the Company failed to pay overtime wages as required by the Fair Labor Standards Act and state law. The three cases Natalie Adams v. Absolute Consulting, Inc., Case No. 6:20-cv-01099, Matthew Waldecker v. Hyperspring, LLC, Case No. 2:20-cv-1948, Don Pharr v. Absolute Consulting, Inc., Case No. 23-cv-01558-JRR were filed on December 2, 2020, December 15, 2020, and June 8, 2023, respectively.
+
+
+
+22
+
+
+
+Table of Contents
+
+On August 22, 2023, Plaintiffs in Adams, Waldecker and Pharr and GSE Systems, Inc., Hyperspring and Absolute participated in private mediation. The mediation was successful and an agreement in principle was reached before the conclusion of the mediation to resolve and dismiss all three pending matters in exchange for a settlement payment.
+
+
+
+The parties’ settlement agreement was executed on October 30, 2023, and resulted in the dismissal of all three cases. In addition to customary terms, GSE Systems, Hyperspring and Absolute are obligated to make a series of payments in 2024, eventually totaling $750 thousand inclusive of attorneys’ fees and costs. As this amount was included in accrued legal settlements as of December 31, 2023, and included as a part of selling, general and administrative costs for the year ended December 31, 2023.
+
+
+
+On December 4, 2020, Hyperspring, LLC filed a Verified Complaint and Motion for Temporary Restraining Order (“TRO”) against a former Hyperspring employee in the Chancery Court of Loudon County, Tennessee, related to her retention of confidential and proprietary information belonging to Hyperspring following the termination of her employment. On January 25, 2021, the employee filed a counterclaim against Hyperspring, seeking payment for alleged unpaid commissions and expenses. On December 19, 2023, the former employee filed a complaint in the United States Eastern District of Tennessee against GSE Systems, Inc and its subsidiaries. On or about February 29, 2024, a settlement agreement was executed by the parties, which resulted in the dismissal of both cases with Hyperspring incurring an obligation to pay approximately $260 thousand inclusive of attorneys’ fees. As amount was probable and estimable, it was included in accrued legal settlements as of December 31, 2023, and included as a part of selling, general and administrative costs for the year ended December 31, 2023.
+
+
+
+There is a remaining accrued legal settlement amount of $774 thousand at March 31, 2024 associated with these legal matters.
+
+
+
+Per ASC 450 Accounting for Contingencies, the Company reviews potential items and areas where a loss contingency could arise. In the opinion of management, we are not a party to any legal proceeding, the outcome of which, in management’s opinion, individually or in the aggregate, would have a material effect on our consolidated results of operations, financial position or cash flows, other than as noted above. We expense legal defense costs as incurred.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+
+
+This report and the documents incorporated by reference herein contain “forward-looking” statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) that are based on management’s assumptions, expectations and projections about us, and the industry within which we operate, and that have been made pursuant to the Private Securities Litigation Reform Act of 1995 reflecting our expectations regarding our future growth, results of operations, performance and business prospects and opportunities. Wherever possible, words such as “anticipate”, “believe”, “continue”, “estimate”, “intend”, “may”, “plan”, “potential”, “predict”, “expect”, “should”, “will” and similar expressions, or the negative of these terms or other comparable terminology, have been used to identify these forward-looking statements. These forward-looking statements may also use different phrases. These statements regarding our expectations reflect our current beliefs and are based on information currently available to us. Accordingly, these statements by their nature are subject to risks and uncertainties, including those listed under Part II, Item 1A - Risk Factors in our most recent annual report on Form 10-K, which could cause our actual growth, results, performance and business prospects and opportunities to differ from those expressed in, or implied by, these forward-looking statements. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements we make. Except as otherwise required by federal securities law, we are not obligated to update or revise these forward-looking statements to reflect new events or circumstances. We caution you that a variety of factors, including but not limited to the factors described under Part II, Item 1A - Risk Factors in our most recent annual report on Form 10-K, could cause our business conditions and results to differ materially from what is contained in forward-looking statements.
+
+
+
+Other factors and assumptions not identified above were also involved in the formation of these forward-looking statements and the failure of such other assumptions to be realized, as well as other factors, may also cause actual results to differ materially from those projected. Most of these factors are difficult to predict accurately and are generally beyond our control. You should consider the areas of risk described in Item 1A - Risk Factors in our most recent annual report on Form 10-K in connection with any forward-looking statements that may be made by us. You should not place undue reliance on any forward-looking statements. New factors emerge from time to time, and it is not possible for us to predict which factors will arise.
+
+
+
+23
+
+
+
+Table of Contents
+
+We undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise. You are advised, however, to consult any additional disclosures we make in proxy statements, quarterly reports on Form 10-Q and current reports on Form 8-K filed with the SEC.
+
+
+
+Item 2.              Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+
+
+We are a leading provider of professional and technical engineering, staffing services and simulation software to clients in the power and process industries. Our primary market is the nuclear power industry, predominantly in the United States, but also serving the global nuclear sector with projects in the United Kingdom, Slovakia, Korea, Japan and elsewhere. We provide customers with simulation, engineering technology, engineering and plant services that help clients reduce risks associated with operating their plants, increase revenue through improved plant and employee performance, and lower costs through improved operational efficiency. In addition, we provide professional services that help clients fill key vacancies in the organization on a short-term basis, including but not limited to, the following: procedure writing, planning and scheduling; engineering; senior reactor operator (“SRO”) training and certification; technical support and training personnel focused on regulatory compliance and certification in the nuclear power industry.
+
+
+
+General Business Environment
+
+
+
+We operate through two reportable business segments: Engineering and Workforce Solutions. Each segment focuses on delivering solutions to customers within our target markets. Marketing and communications, accounting, finance, legal, human resources, corporate development, information systems and other administrative services are organized at the corporate or parent level. Business development and sales resources are generally aligned with each segment to support existing customer accounts and new customer development. The business units collaborate to facilitate cross-selling and the development of new solutions. The following is a description of our business segments:
+
+
+
+Engineering (approximately 77% of revenue for the three months ended March 31, 2024)
+
+
+
+Our Engineering segment primarily encompasses our power plant high-fidelity simulation solutions, technical engineering services for ASME programs, power plant thermal performance optimization, and interactive computer-based tutorials/simulation focused on the process industry. The Engineering segment includes various simulation products, engineering consulting services, and operation training systems delivered across the industries we serve: primarily in the nuclear, fossil fuel power generation and the process industries. Our simulation solutions include the following: (1) simulation software and services, including operator training systems, for the nuclear power industry, (2) simulation software and services, including operator training systems, for the fossil power industry, and (3) simulation software and services for the process industries used to teach fundamental industry processes and control systems to newly hired employees and for ongoing workforce development and training. We and our predecessors have been providing these services since 1976.
+
+Our Engineering segment also provides the following: (1) in-service testing for engineering programs focused on ASME OM code including Appendix J, balance of plant programs, and thermal performance; (2) in-service inspection for specialty engineering including ASME Section XI; (3) software solutions; and (4) mechanical design, civil/structural design, electrical, instrumentation and controls design, digital controls/cyber security, and fire protection for nuclear power plant design modifications.  Our subsidiaries, Programs & Performance and Design & Analysis, typically work as either the EOC or specialty EOC for our clients under master services agreements and are included in our Engineering segment due to their service offerings. We have been providing these engineering solutions and services since 1995.
+
+
+
+Workforce Solutions (approximately 23% of revenue for the three months ended March 31, 2024)
+
+
+
+The Workforce Solutions segment supports entire project lifecycles by providing highly specialized, technical talent and specialty services throughout the energy, engineering, and adjacent industries including construction, government, infrastructure, environmental, and manufacturing.  This includes a wide range of solutions including training services, professional services, procedure writing services, and flexible staffing and talent acquisition services through our Training Services and Technical Staffing businesses.
+
+
+
+24
+
+
+
+Table of Contents
+
+Working together, Workforce Solutions gives our customers increased agility by providing the ability to identify the right talent, hire quickly for short or long-term needs, and/or even take on entire project scopes with fixed price or hourly billing options.  We also partner with and support our Engineering Services division, offering our customers yet another option for outsourcing managed tasks.  Additionally, by utilizing our services, our customers gain additional benefits such as reductions in response time, overhead costs, overtime pay, risk, training, time to fill, onboarding, and more.  We do these things, all while providing timely, flexible, and effective solutions.
+
+
+
+Financial information is provided in Note 14 of the accompanying consolidated financial statements regarding our business segments.
+
+
+
+Business Strategy
+
+
+
+Serve existing customers and adjacencies with compelling solutions with a focus on decarbonization:
+
+ 
+
+Our objective is to create a leading business focused on decarbonizing the power industries by providing a diverse set of highly unique and essential services and technologies, primarily in the nuclear power industry. We are now one of the few, publicly traded engineering and technology companies serving the zero-carbon energy sector of nuclear power and adjacent nuclear markets in Department of Energy, U.S. Navy and related sectors. As a result of this effort and established leadership in key sectors, we are positioned to expand into essential clean energy opportunities that may arise such as wind, solar, hydrogen production, and others. This positioning has allowed us to grow into adjacencies as the arise such as working on engineering projects for a uranium enrichment entity in the United States. The engineering services and technology that we provide to industry are focused on essential capabilities to help plants extend their operating lifetimes, capture the value of the power they produce on to the grid, produce more power from existing assets, and most importantly operate safely in an optimal manner. In 2023, we were keenly focused on organic growth in the sectors we serve by: cross selling and upselling in our existing markets as we focus on delivering significant value to our customers; creating new and compelling solutions in-house as a result of advancements in our technology offerings in partnership with industry early adopters focused on critical business needs; developing new services through combination of our expertise; expanding into compelling adjacent markets such as clean energy as they may arise with renewed sales focus. The focus on organic growth reflects our need to grow in a self-funded manner to achieve cash flow break even and, ultimately, recover to our pre-pandemic revenue levels. We have continued this focus in 2024.
+
+
+
+Cross sell and upsell into existing markets:
+
+ 
+
+For the past several years, we have devoted considerable time and effort to diversify both of the Company segment’s solutions capabilities for the nuclear power sector, via a rollup of essential services providers to the industry. To ensure efficient and streamlined operations for the business, we have brought in new engineering experts who are deeply credentialed in the nuclear power industry. We have also retooled our Workforce Solutions sales and recruiting efforts to ensure we are covering the industry broadly. The business units operate uniformly within their respective structure. This structure greatly enhances the opportunity to cross-sell our capabilities across our entire customer base, fostering an important focus of our sales efforts. This further differentiates us as a comprehensive provider to industry versus providers of specific, niche services. Our expectation is that unified go-to-market efforts, such as cross-selling capabilities, will lead to a greater share of available spending within the customer base, which in turn will lead to significant upselling opportunity.
+
+
+
+Just as the broader economy was impacted by the onset of the pandemic, so too have our end markets been affected. We believe that the industries that we serve are quick to respond to a crisis and disruption, but slow to emerge and recover to pre-crisis operations. While understandable, we believe that these characteristics are especially true for our primary market: the nuclear power industry. We have previously observed similar cycles during prior market and industry disruptions including the 2008 global economic crisis and the Fukushima disaster in 2011. Now, more recently, we believe that the industries that we serve responded quickly to the global pandemic and resulting economic disruption but, as with past events, our end markets are only now catching up to widespread delays in necessary engineering, design and related projects. Our Company is well positioned to take advantage of the recovery as it occurs.
+
+
+
+25
+
+
+
+Table of Contents
+
+As a result of a rejuvenated cross-sell and upsell effort, we are equipped to take this new approach to the market. In particular, with the passage of the Infrastructure Investment and Jobs Act and the Inflation Reduction Act, for the first time there are specific economic incentives from the U.S. Government for nuclear power development and the production of more nuclear baseload power to the grid. We are eager for these incentives to flow to industry spurring the capital investment required to extend the lifetime of the plants and production of more power. With economic incentives in place, the industry can now plan to make such investments. The challenge we are seeing is that the industry is still slow to advance investments that will result in an uptick in business for companies like GSE that serve the sector. Although we believe it is only a matter of time until this rollout progresses, the current pace presents a challenge in the interim and the Company has taken steps to align to the realities of the current state of industry spend. As a key provider of essential services to the nuclear power sector, we are poised to benefit from industry investment as it rolls out to the vendor ecosystem. We further retooled our Workforce Solutions business in 2023 to align to the realities of industry spend and continue to bring in key engineering talent to align and grow our engineering business teams as that business has shown nascent signs of growth. We have also spent significant effort putting in place Master Services Agreements (“MSAs”) with key utility operators. Having this commercial infrastructure in place is a significant step forward to facilitate ease of consumption of our solutions once a decision to do so is made by clients/prospects. This effort will continue during 2024 with the added focus of converting workorders and PO’s from the MSAs we win.
+
+
+
+Organic growth through new and compelling technology:
+
+ 
+
+While managing through the pandemic, in parallel, our leadership was investigating compelling opportunities by which we could utilize our capabilities to create significant value for the industry and advance the efforts of decarbonizing the power sector. As a result, we have identified a robust pipeline of new and compelling technology solutions to develop and take to market. Net new solutions, such as Data Validation and Reconciliation (“DVR”), Measurement Uncertainty Recapture (“MUR”) and Thermal System Monitoring (“TSM”), have created new revenue streams with the potential of on-going licensing revenue, software maintenance and services revenue. Additional information on our DVR, MUR and TSM developments is included below. GSE has announced a handful of new wins for these new solutions, which were created through our unique combination of our industry/engineering know-how and software development capabilities. As we have demonstrated in the past few years, small wins over time accrue into meaningful revenue on an on-going basis. This is a key element of our organic growth thesis: focusing on creating and bringing to market compelling technology solutions.
+
+
+
+Focus on compelling adjacencies in clean energy, defense, and national labs:
+
+ 
+
+Research and development (R&D). We invest in R&D to deliver unique solutions that add value to our end-user markets. Our software tools leverage the high-end expertise of our experienced staff in helping plants operate better and more efficiently. Our software technology together with our deep staff expertise supports multiple industries including the nuclear industry, as a part of the larger initiative toward decarbonization. Our software technology includes decision-support tools for engineering simulation supporting design and plant commissioning, operational performance tools, and training platforms.
+
+
+
+We have also made recent, significant enhancements in product offerings for improving the thermal performance of power plants. We have introduced a next generation platform in TSM, providing a technology platform to centralize and continuously monitor plant thermal performance. The solution benefits our customers by automating standardized reporting in modern dashboards available to engineers and decision makers across the fleet, leveraging automation to facilitate troubleshooting plant performance issues, reducing time and error with direct access to source data, and applying industry guidelines for problem resolution. This platform also supports integration with DVR (implemented by Programs & Performance) that enhances the quality of data for plant performance insights, analysis and decision making, providing a solution to better detect and identify faulty measurements/sensors and thus reduce maintenance costs by focusing on critical components. Other recent platform improvements have included integration with Asset Management Systems (to streamline work processes and increase efficiencies) and enhancements in digitizing troubleshooting knowledge for custom scenarios/plants.
+
+
+
+In the area of engineering simulations, GSE Systems & Simulation group, delivers nuclear core and balance-of-plant modeling and visualization systems to the industry. To address the nuclear industry’s need for more accurate simulation of both normal and accident scenarios, we provide our DesignEP® and RELAP5-HD® solutions. Our entire JADETM suite of simulation software, including industry leading JTOPMERET® and JElectricTM software, provides the most accurate simulation of balance-of-plant and electrical systems available to the nuclear and fossil plant simulation market. The significant enhancements we have made to our SimExec® and OpenSimTM platforms enables customers to be more efficient in the daily operation of their simulators. We have brought SimExec® and OpenSimTM together into a next generation unified environment that adds new capabilities as requested by clients and driven by market need.
+
+
+
+26
+
+
+
+Table of Contents
+
+Additionally, enhancements to training content and delivery continue through the EnVision On-Demand platform, allowing our customers to access training content from anywhere in synchronous and asynchronous modes, thus increasing their efficiency and reducing infrastructure costs. We intend to continue to make pragmatic and measured investments in R&D that first and foremost are driven by the market and complement our growth strategy. Such investments in R&D may result in on-going enhancement of existing solutions as well as the creation of new solutions to serve our target markets, ensuring that we add greater value that is easier to use, at lower total cost of ownership than any alternative available to customers. Recent enhancements to our EnVision On-Demand SaaS platform include usability improvements for administrators, instructors and trainees as well as enhanced access security for cloud learning and simulation portal. We have pioneered a number of industry standards and intend to continue to be one of the most innovative companies in our industry. We had R&D expenditures totaling $278 thousand and $258 thousand, of which, $49 thousand and $77 thousand were capitalized during the three months ended March 31, 2024 and 2023, respectively.
+
+
+
+Strengthen and develop our talent while delivering high-quality solutions.
+
+
+
+Over the past several years, we have assembled a unique and highly experienced group of talent through organic growth and strategic acquisition. Our engineering team is comprised of design, simulation, regulatory compliance, and performance optimization professionals who are unique to the industry and capable of addressing the entire power generation life cycle. Our workforce solutions team includes numerous industry experts, including hands on experience within the energy and engineering sectors.  The experience and knowledge among the staff ensure understanding of customer needs and a better ability to offer the best solutions.  Working together, our engineering and workforce teams are able to offer our customers a full set of services that would otherwise require numerous companies to obtain the same capabilities.
+
+
+
+Our experienced employees and management team are our most valuable resources. The continued integration of our team in parallel with attracting, training, and retaining top talent is critical to our success. To achieve our goals, we intend to remain focused on providing our employees with opportunities to increase client contact within their areas of expertise and to expand and deepen our service offerings. As we refine our product and service areas to best align with the critical areas listed above, we will also integrate and apply our composite employee talent to the fullest extent possible combining employee personal and professional growth opportunities with fulfillment of cutting-edge industry needs. Performance-based incentives including opportunities for stock ownership, bonuses and competitive benefits as benchmarked to our industry and locations will also be utilized to ensure continuity of our approach.
+
+
+
+The Company is not immune to the intense pressure and business risks associated with attracting and retaining talented professionals in this current environment. We have developed a strong reputation for quality services based upon our industry-recognized depth of experience, ability to attract and retain quality professionals, and exceptional expertise across multiple service sectors. As we continue to integrate and leverage our individual company components assembled over the past several years, our capabilities and reputation will further strengthen. Attracting and retaining excellent professionals is a key effort for the company.
+
+
+
+Employees
+
+
+
+As of March 31, 2024, we had approximately 257 employees, which includes approximately 197 employees in our Engineering segment and approximately 60 employees in our Workforce Solutions segment.
+
+
+
+Backlog
+
+
+
+As of March 31, 2024, we had approximately $37.7 million of total gross revenue backlog, which included $32.3 million of Engineering backlog and $5.4 million of Workforce Solutions backlog. As of December 31, 2023, our backlog was $34.5 million with $29.0 million attributed to our Engineering segment and $5.5 million to Workforce Solutions. With respect to our backlog, it includes only those amounts that have been funded and authorized and does not reflect the full amounts we may receive over the term of such contracts. Our backlog includes future expected revenue at contract rates, excluding contract renewals or extensions that are at the discretion of the client. We calculate backlog without regard to possible project reductions or expansions or potential cancellations unless and until such changes may occur.
+
+
+
+27
+
+
+
+Table of Contents
+
+Backlog is expressed in terms of gross revenue and, therefore, may include significant estimated amounts of third-party or pass-through costs to subcontractors and other parties. Because backlog is not a U.S. GAAP measurement, our computation of backlog may not necessarily be comparable to that of our industry peers.
+
+
+
+Results of Operations
+
+
+
+The following table sets forth our results of operations, expressed in thousands of dollars and as a percentage of revenue:
+
+
+
+                                                                                           Three months ended                        
+
+(in thousands)                                                              March 31, 2024                   March 31, 2023         
+
+                                                                           $              %               $              %      
+
+Revenue                                                              $      11,283         100.0%   $      10,873         100.0%
+
+Cost of revenue                                                              8,067          71.5%           8,478          78.0%
+
+Gross profit                                                                 3,216          28.5%           2,395          22.0%
+
+                                                                                                                                
+
+Operating expenses:                                                                                                             
+
+Selling, general and administrative                                          4,360          38.6%           4,788          44.0%
+
+Research and development                                                       229           2.0%             181           1.7%
+
+Depreciation                                                                    58           0.5%              48           0.4%
+
+Amortization of intangible assets                                               99           0.9%             161           1.5%
+
+Total operating expenses                                                     4,746          42.1%           5,178          47.6%
+
+Operating loss                                                              (1,530)        (13.7)%         (2,783)        (25.7)%
+
+Interest expense, net                                                         (459)         (4.1)%           (286)         (2.6)%
+
+Change in fair value of derivative instruments, net                            (17)         (0.2)%             69           0.6%
+
+Other loss, net                                                                 54           0.5%              10           0.1%
+
+Loss before income taxes                                                    (1,952)        (17.3)%         (2,990)        (27.5)%
+
+Expense (benefit) from income taxes                                             40           0.4%             (39)         (0.4)%
+
+Net loss                                                             $      (1,992)        (17.7)%  $      (2,951)        (27.1)%
+
+
+
+Revenue
+
+
+
+Revenue for the three months ended March 31, 2024 totaled $11.3 million, which was 4% increase over the $10.9 million of revenue for the three months ended March 31, 2023.
+
+
+
+                                                                                            Three months ended                       
+
+(in thousands)                                                          March 31,      March 31,               Change             
+
+                                                                           2024           2023
+
+Revenue:                                                                                                  $              %       
+
+Engineering                                                           $       8,729  $       6,942          1,787             26%
+
+Workforce Solutions                                                           2,554          3,931         (1,377)           (35)%
+
+Total revenue                                                         $      11,283  $      10,873            410              4%
+
+
+
+Engineering revenue increased 26% from $6.9 million to $8.7 million for the three months ended March 31, 2024 and 2023, respectively. The increase in revenue was primarily attributable to increased utilization, which helped turn backlog into revenue at a faster rate. We recorded total Engineering orders of $12.1 million and $14.7 million for the three months ended March 31, 2024 and 2023, respectively.
+
+
+
+For the three months ended March 31, 2024, Workforce Solutions revenue decreased 35% to $2.6 million compared to revenue of $3.9 million for the three months ended March 31, 2023. The decrease in revenue was due to fewer contracts being serviced in Q1 2024 compared to Q1 2023. We recorded total new orders of $2.5 million and $4.4 million for the three months ended March 31, 2024 and 2023, respectively.
+
+
+
+As of March 31, 2024, our backlog was $37.7 million, of which, $32.3 million was attributed to the Engineering segment and $5.4 million was attributed to the Workforce Solutions segment. As of December 31, 2023, our backlog was $34.5 million with $29.0 million attributed to our Engineering segment and $5.5 million to Workforce Solutions.
+
+
+
+28
+
+
+
+Table of Contents
+
+Gross Profit
+
+
+
+Gross profit was $3.2 million or 28.5% of revenue and $2.4 million or 22.0% of revenue for the three months ended March 31, 2024 and 2023, respectively.
+
+
+
+                                                                                            Three months ended                        
+
+                                                                             March 31, 2024                  March 31, 2023         
+
+(in thousands)                                                              $              %               $              %       
+
+Gross profit:                                                                                                                     
+
+Engineering                                                           $       2,905           33.3%  $       1,880           27.1%
+
+Workforce Solutions                                                             311           12.2%            515           13.1%
+
+Total gross profit                                                    $       3,216           28.5%  $       2,395           22.0%
+
+
+
+The Engineering segment’s gross profit increased by $1.0 million during three months ended March 31, 2024 over three months ended March 31, 2023. The increase is primarily related to improved margin in our Design & Analysis business, driven by increased utilization in the Q1 2024 period compared to Q1 2023.
+
+
+
+The Workforce Solutions segment’s gross profit decreased by $0.2 million during three months ended March 31, 2024 over three months ended March 31, 2023. The decrease in gross profit was primarily due to the reduction in the demand from existing customers for additional workforce professionals.
+
+
+
+Selling, general and administrative expenses (“SG&A”)
+
+
+
+SG&A expenses totaled $4.4 million and $4.8 million for the three months ended March 31, 2024 and 2023, respectively. Fluctuations in the components of SG&A spending were as follows.
+
+
+
+                                                                                            Three months ended                        
+
+(in thousands)                                                          March 31,          %           March 31,          %       
+
+                                                                           2024                           2023
+
+                                                                                                                                  
+
+Selling, general and administrative expenses:                                                                                     
+
+Corporate charges                                                     $       3,496           80.2%  $       3,486           72.8%
+
+Business development                                                            766           17.6%          1,116           23.3%
+
+Facility operation & maintenance (O&M)                                           39            0.9%            141            2.9%
+
+Credit loss expense (recovery)                                                   56            1.3%             32            0.7%
+
+Other                                                                             3            0.1%             13            0.3%
+
+Total                                                                 $       4,360          100.0%  $       4,788          100.0%
+
+
+
+Corporate charges
+
+
+
+During the three months ended March 31, 2024, corporate charges increased by $10 thousand over the same period of the prior year. This is primarily driven by the $0.5 million increase in advisory fees, offset by a decrease in $0.4 million indirect labor & burden costs and $0.1 million recruiting fees.
+
+
+
+Business development expenses
+
+
+
+Business development expense decreased $0.4 million during the three months ended March 31, 2024 over the same period of the prior fiscal year. The decrease was primarily driven by decreased headcount on our Workforce Solutions business unit.
+
+
+
+Facility operation & maintenance (“O&M”)
+
+
+
+29
+
+
+
+Table of Contents
+
+Facility O&M expenses decreased $102 thousand for three months ended March 31, 2024, respectively, compared to the same period in 2023. The decrease in facility O&M during fiscal 2024 was mainly due to the reduction of office space leased in our Ft. Worth, Texas, location.
+
+
+
+Credit loss expense
+
+
+
+We recorded $56 thousand and $32 thousand credit loss expense during the three months ended March 31, 2024 and 2023, respectively.
+
+
+
+Research and development
+
+
+
+Research and development costs consist primarily of software engineering personnel and other related costs. Research and development costs, net of capitalized software, totaled $229 thousand and $181 thousand for the three months ended March 31, 2024 and 2023, respectively.
+
+
+
+Depreciation
+
+
+
+We recorded depreciation expense of $58 thousand and $48 thousand for the three months ended March 31, 2024 and 2023, respectively. The increase of $10 thousand for the three months ended March 31, 2024 over the same period in 2023 was due primarily to additional leasehold improvement assets related to the new Ft. Worth office lease entered into Q2 2023.
+
+
+
+Amortization of intangible assets
+
+
+
+Amortization expense related to definite-lived intangible assets totaled $0.1 million and $0.2 million for the three months ended March 31, 2024 and 2023, respectively. 
+
+
+
+Interest expense, net
+
+
+
+Interest expense totaled $459 thousand and $286 thousand for the three months ended March 31, 2024 and 2023, respectively. The increase was mainly due to an increase in total indebtedness compared to Q1 2023.
+
+
+
+Other income, net
+
+
+
+For the three months ended March 31, 2024 and 2023, we recognized other income, net of $54 thousand and $10 thousand, respectively.
+
+
+
+Income taxes (benefit) expense
+
+
+
+Income tax (benefit) expense for interim periods is determined using an estimate of our annual effective tax rate, adjusted for discrete items arising in that quarter. Total income tax expense of $40 thousand for the three months ended March 31, 2024 was comprised mainly of current state and foreign tax expense and deferred state tax benefit related to the portion of goodwill which cannot be offset by deferred tax assets. Total income tax benefit of $(39) thousand for the three months ended March 31, 2023 was comprised mainly of current foreign tax benefit, current state tax expense, and deferred state tax expense related to the portion of goodwill which cannot be offset by deferred tax assets.
+
+
+
+Our income tax effective rate was (2.0)% and 1.3% for the three months ended March 31, 2024 and 2023, respectively. The difference between our income tax expense at an effective tax rate of (2.0)% and a benefit at the U.S. statutory federal income tax rate of 21% was primarily due to accruals related to uncertain tax positions for certain foreign tax contingencies, a change in valuation allowance in our U.S. entity, the permanent disallowance of interest expense related to disqualified debt, and discrete item adjustments for U.S. taxes. For the three months ended March 31, 2023, the difference between the income tax benefit at an effective tax rate of 1.3% and a benefit at the U.S. statutory federal income tax rate of 21% was primarily due to accruals related to uncertain tax positions for certain foreign tax contingencies, a change in valuation allowance in our U.S. entity, the permanent disallowance of interest expense related to disqualified debt, and discrete item adjustments for U.S. taxes.
+
+
+
+30
+
+
+
+Table of Contents
+
+Critical Accounting Policies and Estimates
+
+
+
+In preparing our consolidated financial statements, Management makes several estimates and assumptions that affect our reported amounts of assets, liabilities, revenues and expenses. Our most significant estimates relate to revenue recognition on contracts with customers, product warranties, valuation of goodwill and intangible assets acquired including the determination of fair value in impairment tests, valuation of long-lived assets, valuation of stock-based compensation awards and the recoverability of deferred tax assets. These critical accounting policies and estimates are discussed in the Management’s Discussion and Analysis of Financial Condition and Results of Operations section in our most recent Annual Report on Form 10-K, filed with the SEC on April 2, 2024. In addition, in the quarter ended March 31, 2023, we established mark-to-market liabilities related to certain common stock purchase warrants and certain embedded features included in our convertible debt. The fair values of these are estimated upon issuance and at each reporting period thereafter. For all accounting policies described in this document, management cautions that future events rarely develop exactly as forecasted and even our best estimates may require adjustment as facts and circumstances change.
+
+
+
+Liquidity and Capital Resources
+
+
+
+As of March 31, 2024, our cash, cash equivalents and restricted cash totaled $2.8 million, compared to $3.7 million as of December 31, 2023.
+
+
+
+As of March 31, 2024, we have current restricted cash and long-term restricted cash of $0.4 million and $1.1 million, respectively. We have restricted cash of $1.1 million to secure four letters of credit with various customers and $0.4 million to secure our corporate credit card program.
+
+
+
+For the three months ended March 31, 2024 and 2023, net cash used in operating activities were $0.4 million and $0.8 million, respectively. The increase in cash flows used in operating activities was primarily driven by increased collections in the three months ended March 31, 2024.
+
+
+
+Net cash used in investing activities totaled $0.1 million for the three months ended March 31, 2024 and 2023.
+
+
+
+For the three months ended March 31, 2024 and 2023, net cash used in financing activities was $0.4 million and $0.6 million, respectively. The decrease in cash used in financing activities of $0.2 million was primarily driven by decrease in principle repayments of our convertible notes. This decrease is due to reduction in the monthly principal payments effected by the June 2023 amendment to the 2022 Convertible Note (see Note 9).
+
+
+
+Non-GAAP Financial Measures
+
+
+
+Adjusted EBITDA
+
+
+
+References to “EBITDA” mean net loss, before taking into account interest expense, provision for income taxes, depreciation and amortization. References to Adjusted EBITDA exclude the stock-based compensation expense, advisory fees and change in fair value of derivative instruments. EBITDA and Adjusted EBITDA are not measures of financial performance under U.S. generally accepted accounting principles (U.S. GAAP). Management believes EBITDA and Adjusted EBITDA, in addition to operating profit, net income and other GAAP measures, are useful to investors to evaluate our results because it excludes certain items that are not directly related to our core operating performance that may, or could, have a disproportionate positive or negative impact on our results for any particular period. Investors should recognize that EBITDA and Adjusted EBITDA might not be comparable to similarly-titled measures of other companies. This measure should be considered in addition to, and not as a substitute for or superior to, any measure of performance prepared in accordance with U.S. GAAP. A reconciliation of non-U.S. GAAP EBITDA and Adjusted EBITDA to the most directly comparable U.S. GAAP measure in accordance with SEC Regulation G follows:
+
+
+
+(in thousands) 
+
+                                                                                                              Three months ended       
+
+                                                                                                          March 31,      March 31,   
+
+                                                                                                             2024           2023
+
+Net loss                                                                                                $      (1,992) $      (2,951)
+
+Interest expense, net                                                                                             459            286 
+
+Expense (benefit) from income taxes                                                                                40            (39)
+
+Depreciation and amortization                                                                                     259            294 
+
+EBITDA                                                                                                         (1,234)        (2,410)
+
+Stock-based compensation expense                                                                                  294            285 
+
+Advisory fees                                                                                                     476              - 
+
+Change in fair value of derivative instruments, net                                                                17            (69)
+
+Adjusted EBITDA                                                                                         $        (447) $      (2,194)
+
+
+
+31
+
+
+
+Table of Contents
+
+Adjusted Net Loss and Adjusted Loss per Share Reconciliation
+
+
+
+References to Adjusted net Loss excludes certain items that are not directly related to the Company’s core operating performance and non-cash items that may, or could, have a disproportionate positive or negative impact on our results for any particular period. Adjusted Net Loss and Adjusted Loss per Share (adjusted EPS) are not measures of financial performance under U.S. GAAP. Management believes Adjusted Net Loss and Adjusted Loss per Share, in addition to other U.S. GAAP measures, are useful to investors to evaluate the Company’s results because the excluded items may, or could, have a disproportionate positive or negative impact on our results for any particular period. These measures should be considered in addition to, and not as a substitute for or superior to, any measure of performance prepared in accordance with U.S. GAAP. A reconciliation of non-U.S. GAAP Adjusted Net Loss and Adjusted Loss per common Share to U.S. GAAP net loss, the most directly comparable U.S. GAAP financial measure, is as follows:
+
+
+
+(in thousands)                                                                                                Three months ended       
+
+                                                                                                          March 31,      March 31,   
+
+                                                                                                             2024           2023
+
+                                                                                                                                     
+
+Net loss                                                                                                $      (1,992) $      (2,951)
+
+Stock-based compensation expense                                                                                  294            285 
+
+Advisory fees                                                                                                     476              - 
+
+Change in fair value of derivative instruments, net                                                                17            (69)
+
+Amortization of intangible assets related to acquisitions                                                          99            161 
+
+Adjusted net loss                                                                                       $      (1,106) $      (2,574)
+
+                                                                                                                                     
+
+Loss per share - diluted                                                                                $       (0.63) $       (1.29)
+
+Add back: Effect of stock-based compensation expense                                                             0.09           0.13 
+
+Add back: Effect of advisory fees                                                                                0.15              - 
+
+Add back: Effect of change in fair value of derivative instruments, net                                          0.01          (0.03)
+
+Add back: Effect of amortization of intangible assets related to acquisitions                                    0.03           0.07 
+
+Adjusted loss per common share – Diluted                                                                $       (0.35) $       (1.12)
+
+                                                                                                                                     
+
+Weighted average shares outstanding used to compute adjusted net loss per share - basic and diluted(1)      3,148,806      2,293,389 
+
+
+
+(1) During the three months ended March 31, 2024 and 2023, we reported a GAAP net loss and an adjusted net loss. Accordingly, there were no dilutive shares from RSUs included in the adjusted earnings per share calculation that were considered anti-dilutive when calculating the net loss per share.
+
+
+
+Item 3.              Quantitative and Qualitative Disclosure about Market Risk
+
+
+
+Not required of a smaller reporting company.
+
+
+
+32
+
+
+
+Table of Contents
+
+Item 4.              Controls and Procedures
+
+
+
+Evaluation of Disclosure Controls and Procedures
+
+
+
+Our management, with the participation of our chief executive officer and chief financial officer, evaluated the effectiveness of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of the end of the period covered by this Quarterly Report on Form 10-Q. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Our disclosure controls and procedures are designed to provide reasonable assurance of achieving their control objectives. Based on the evaluation of our disclosure controls and procedures as of the end of the period covered by this quarterly report and our annual report, our chief executive officer and chief financial officer concluded that, as of such date, our disclosure controls and procedures were effective.
+
+
+
+Changes in Internal Control over Financial Reporting
+
+
+
+There were no changes in our internal controls over financial reporting that occurred during the most recent fiscal quarter that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+
+
+
+Limitation of Effectiveness of Controls
+
+
+
+Internal control over financial reporting has inherent limitations. Internal control over financial reporting is a process that involves human diligence and compliance and is subject to lapses in judgment and breakdowns resulting from human failures. Internal control over financial reporting also can be circumvented by collusion or improper management override. Because of such limitations, there is a risk that material misstatements will not be prevented or detected on a timely basis by internal control over financial reporting. However, these inherent limitations are known features of the financial reporting process. Therefore, it is possible to design into the process safeguards to reduce, though not eliminate, this risk.
+
+
+
+PART II – OTHER INFORMATION
+
+
+
+Item 1.              Legal Proceedings
+
+
+
+We are, from time to time, involved in ordinary routine litigation incidental to the conduct of our business. Neither we nor any of our subsidiaries are a party to, nor is any of our property the subject of, any material pending legal proceedings that, in the opinion of our management, are likely to have a material adverse effect on our business, financial condition or results of operations.
+
+
+
+Item 1A.             Risk Factors
+
+
+
+None.
+
+
+
+Item 2.              Unregistered Sales of Equity Securities and Use of Proceeds
+
+
+
+(a) None.
+
+
+
+(b) None.
+
+
+
+(c) None.
+
+
+
+Item 3.              Defaults Upon Senior Securities
+
+
+
+(a) None.
+
+
+
+(b) None.
+
+
+
+Item 4.              Mine Safety Disclosures
+
+
+
+Not applicable. 
+
+
+
+Item 5.              Other Information
+
+
+
+(a) None.
+
+
+
+(b) None.
+
+
+
+(c) None.
+
+
+
+33
+
+
+
+Table of Contents
+
+Item 6.              Exhibits
+
+
+
+     10.1        Employment Agreement, dated January 1, 2019, by and between GSE Systems, Inc. and Ravi Khanna. Incorporated herein by
+
+                  reference to Exhibit 10.1 of Form 8-K filed with the Securities and Exchange Commission on April 30,
+
+                  2024.
+
+                  
+
+     10.2        Amendment to Employment Agreement, dated November 24, 2020, by and between GSE Systems, Inc. and Ravi Khanna.
+
+                  Incorporated herein by reference to Exhibit 10.2 of Form 8-K filed with the Securities and Exchange Commission on
+
+                  April 30,
+
+                  2024.
+
+                  
+
+     10.3        Letter Agreement, dated April 30, 2024, by and between GSE Systems, Inc. and Ravi Khanna. Incorporated herein by
+
+                  reference to Exhibit 10.3 of Form 8-K filed with the Securities and Exchange Commission on April 30,
+
+                  2024.
+
+                  
+
+     10.4        Separation Agreement, dated April 30, 2024, including Amendment to Restricted Share Unit Agreements (attached as
+
+                  Exhibit A), by and between GSE Systems, Inc. and Kyle J. Loudermilk. Incorporated herein by reference to Exhibit
+
+                  10.4 of Form 8-K filed with the Securities and Exchange Commission on April 30,
+
+                  2024.
+
+                  
+
+     31.1        Certification of the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, filed
+
+                  herewith.
+
+                  
+
+     31.2        Certification of the Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, filed
+
+                  herewith.
+
+                  
+
+     32.1        Certification of the Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the
+
+                  Sarbanes-Oxley Act of 2002, filed
+
+                  herewith.
+
+                  
+
+     101.INS*    XBRL Instance Document
+
+                  
+
+     101.SCH*    XBRL Taxonomy Extension Schema
+
+                  
+
+     101.CAL*    XBRL Taxonomy Extension Calculation Linkbase
+
+                  
+
+     101.DEF*    XBRL Taxonomy Extension Definition Linkbase
+
+                  
+
+     101.LAB*    XBRL Taxonomy Extension Label Linkbase
+
+                  
+
+     101.PRE*    XBRL Taxonomy Extension Presentation Linkbase
+
+
+
+34
+
+
+
+Table of Contents
+
+SIGNATURES
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+
+
+Date: May 15, 2024                                                                       
+
+                                                                                                                      GSE SYSTEMS, INC.
+
+                                                                                         
+
+                                                                                                                       /S/ RAVI KHANNA 
+
+                                                                                                                            Ravi Khanna
+
+                                                                                                  President and Chief Executive Officer
+
+                                                                                                          (Principal Executive Officer)
+
+
+
+                                                                                                                     /S/ EMMETT A. PEPE
+
+                                                                                                                         Emmett A. Pepe
+
+                                                                                                                Chief Financial Officer
+
+                                                                                           (Principal Financial and Accounting Officer)
+
+
+
+
+
+35

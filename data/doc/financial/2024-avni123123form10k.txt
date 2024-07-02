@@ -1,0 +1,2345 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-K
+
+ 
+
+(Mark One)
+
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended DECEMBER 31, 2023.
+
+ 
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM _____TO_____.
+
+ 
+
+Commission file number: 0-30695
+
+ARVANA INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                              Nevada                                                           87-0618509
+
+                 (State or other jurisdiction of                                            (I.R.S. Employer
+
+                  incorporation or organization)                                           Identification No.)
+
+ 
+
+ 
+
+299 Main Street, 13th Floor, Salt Lake City, Utah 84111
+
+(Address of principal executive offices) (Zip Code)
+
+ 
+
+(801) 232-7395
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+ 
+
+Securities registered under Section 12(b) of the Act: None.
+
+Securities registered under Section 12(g) of the Act: Common Stock, $0.001 par value.
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+
+Yes ☐  No ☒
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+
+Yes ☐  No ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+
+Yes ☒  No ☐
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+
+Yes ☒  No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company”, and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large, accelerated filer ☐                                          Accelerated filer ☐
+
+Non-accelerated filer ☒                                             Smaller reporting company ☒
+
+                                                                    Emerging growth company ☐
+
+If an emerging growth company, indicate by check number if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b) by the registered public accounting firm that prepared or issued its audit report. ☐
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant including in the filing reflect the correction of an error in previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to § 240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+
+Yes ☐  No ☒
+
+The aggregate market value of the registrant’s common stock, $0.001 par value (the only class of voting stock), held by non-affiliates (44,657,614 shares) was $20,095,923 based on the average of the bid and ask price ($0.45) on June 30, 2023.
+
+At April 5, 2024, the number of shares outstanding of the registrant’s common stock, $0.001 par value (the only class of voting stock), was 107,845,554. 
+
+                                                                                                                                        
+
+ 
+
+TABLE OF CONTENTS
+
+PART I                                                                                                                                
+
+Item 1. Business                                                                                                                     1
+
+Item 1A. Risk Factors                                                                                                                7
+
+Item 1B. Unresolved Staff Comments                                                                                                   7
+
+Item 1C. Cybersecurity                                                                                                               7
+
+Item 2. Properties                                                                                                                   8
+
+Item 3. Legal Proceedings                                                                                                            9
+
+Item 4. Mine Safety Disclosures                                                                                                      9
+
+PART II                                                                                                                               
+
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities                10
+
+Item 6. [Reserved]                                                                                                                   12
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations                                        12
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk                                                                  16
+
+Item 8. Financial Statements and Supplementary Data                                                                                  16
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure                                         17
+
+Item 9A. Controls and Procedures                                                                                                     17
+
+Item 9B. Other Information                                                                                                           18
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections                                                         18
+
+PART III                                                                                                                              
+
+Item 10. Directors, Executive Officers, and Corporate Governance                                                                     19
+
+Item 11. Executive Compensation                                                                                                      23
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters                              26
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence                                                   27
+
+Item 14. Principal Accountant Fees and Services                                                                                      28
+
+PART IV                                                                                                                               
+
+Item 15. Exhibits, Financial Statement Schedules                                                                                     29
+
+Item 16. Form 10-K Summary                                                                                                           29
+
+Signatures                                                                                                                           30
+
+
+
+                                                                                                                                        
+
+ 
+
+ 
+
+PART I
+
+ITEM 1 BUSINESS
+
+As used herein the terms “Arvana,” “we,” “our,” and “us” refer to Arvana Inc., its subsidiary, and its predecessor, unless context indicates otherwise. Any distinct references to Down2Fish refer to Down 2 Fish Charters, LLC., a wholly owned subsidiary of Arvana.
+
+FORWARD-LOOKING STATEMENTS
+
+The information in this Annual Report on Form 10-K contains forward-looking statements that involve risks and uncertainties, including our capital needs, business plans and expectations. Forward-looking statements also involve risks and uncertainties regarding our business, capital, government regulations, stock price, operating costs, capital costs, and other factors. Any statements contained herein that are not statements of historical fact may be deemed to be forward-looking statements. You can identify forward-looking statements by terminology such as "may", "will", "should", "expect", "plan", "intend", "anticipate", "believe", "estimate", "predict", "potential" or "continue", the negative of such terms, or other comparable terminology. Forward-looking statements are based on assumptions and analyses made by management considering their experience and perception of historical trends, current conditions and expected future developments as well as other factors it believes are appropriate in the circumstances. Actual events or results may differ materially. We disclaim any obligation to publicly update forward-looking statements or disclose any difference between actual results and those reflected in these statements. Given these uncertainties, readers are cautioned not to place undue reliance on forward-looking statements.
+
+Overview
+
+Arvana was incorporated in the State of Nevada on June 16, 1977, as “Turinco, Inc.” to engage in any legal undertaking. On July 24, 2006, Arvana changed its name from Turinco, Inc. to Arvana Inc. on the acquisition of Arvana Networks, Inc., a telecommunications business. We discontinued efforts related to that business as of December 31, 2009. Arvana acquired Down 2 Fish Charters, LLC on February 3, 2023. Down2Fish was organized under the laws of the State of Florida on April 1, 2019.
+
+Arvana acquired the assets and assumed the liabilities of Down2Fish on February 3, 2023, from LCF Salons, LLC, (“LCF”) in exchange for fifty thousand dollars ($50,000) and a secured promissory note (“Note”) in the amount of seven hundred thousand dollars ($700,000) payable twenty-four (24) months after the closing date that bears interest of seven and one quarter percent (7¼%) per annum. Interest on the promissory note is payable on an annual basis. On January 29, 2024, Arvana and LCF agreed to extend the interest due date on the Note from the annual anniversary to April 3, 2024.
+
+Stockholders approved a forward stock split of Arvana’s common shares on a 3-for-1 basis effected on April 19, 2023, to stockholders of record on March 31, 2023. All changes in Arvana’s capital structure have been given retroactive effect in this annual report.
+
+While Arvana operates its fishing charter business it has continued to seek business opportunities in real estate development. On December 12, 2023, Arvana announced a non-binding memorandum of understanding to acquire the business of FirstShot Centers, LLC (“FirstShot”), a Nevada based company intent on expanding its specialty use concept to acquire and repurpose vacant shopping malls, outlet locations and big bog stores throughout the United States to attract new tenants from targeted industries that offer goods or services that are not available online. The parties are yet to enter into a definitive agreement pending delivery of the FirstShot business and financing plan.
+
+                                                                   1                                                                    
+
+ 
+
+Arvana
+
+Our office is located at 299 Main Street, 13th Floor, Salt Lake City, Utah 84111, and our telephone number is (801) 232-7395. AA Registered Agents, 4869 Nightwood Court, Las Vegas, Nevada 89149, is our registered agent in the State of Nevada.
+
+Arvana is registered with the Securities and Exchange Commission and traded on the OTC Pink Sheets Current Information Alternative Reporting electronic platform under the symbol “AVNI.”
+
+History
+
+Down2Fish operates a Florida based fishing charter business that offers a range of curated maritime adventures that include inshore, offshore, and custom charters for fishing enthusiasts, nature lovers and tourists. The business is operated from a private dock in Palmetto, Florida that services the Tampa Bay area in addition to St Petersburg, Sarasota, Venice, Port Charlotte, and Clearwater. Down2Fish generates revenue from the sale and provision of fishing charter services.
+
+Services
+
+Down2Fish offers the following service options for seaborne adventures:
+
+ •    inshore/coastal fishing boat charter services;
+
+
+
+ •    offshore fishing boat charter services.
+
+
+
+ •    sight-seeing fishing boat charter services; and
+
+
+
+ •    custom fishing boat chart services.
+
+In-shore fishing charters are an excellent way to experience deep-sea fishing off the Florida Gulf coast without spending the day motoring out to the open sea and back again. Customers get the full experience of baiting their line, casting, hooking, and landing a real live Gulf water fish, all within sight of shore. We offer in-shore charters as full or half-day adventures that includes exploring flats and bays up to three miles from the beach. May, June, and July are the best months for inshore fishing in the Tampa Bay area. Popular inshore fish species include mangrove snapper, snook, redfish, tarpon, and cobia. Fishing lessons are included on our charters along with help in cleaning the catch.
+
+An offshore deep-sea fishing charter is designed to be an immersive experience. Charters are all-day trips that travel up to eighty miles offshore to open waters off the Florida Gulf coast, that are home to large fish, up to 50lbs or more including red grouper, scamp grouper, gag grouper, mahi mahi, American red snapper, red porgy, greater amberjack, blackfin tuna, various shark species, king mackerel, jack crevalle, and cobia. The skills required for deep-sea fishing can be more challenging than that required for in-shore fishing and the equipment more exhaustive to use. Fishing lessons for inexperienced deep-sea anglers are often a good part of the charter. We offer deep-sea fishing all year round subject to weather conditions. 
+
+Sight-seeing charters specialize in taking customers out on local waterways on guided tours of aquatic and terrestrial points of interest. This type of charter works well in tourist destinations such as Tampa. 
+
+Custom or special event charters are all-day trips designed to commemorate special events such as weddings, corporate outings, or birthday parties that can combine in-shore and off-shore fishing charters. Customers can choose from a variety of activities and sight-seeing options tailored to specific requests. 
+
+                                                                   2                                                                    
+
+ 
+
+We intend to offer dolphin watching charters as the means to grow the Down2Fish brand in the Greater Tampa area and are exploring the possibilities for offering whale watching charters. The Tampa Bay area is ideal for dolphin spotting as many dolphins live in shallow waters close to the coastline. Dolphin tours are popular with families and groups. However, Down2Fish will need a larger vessel that can carry more clients to initiate dolphin watching charters. North Atlantic right whales can be sporadically spotted from November to April calving in waters off the Florida Gulf coast. Given that right whale spotting in Florida is a rarity, we are unaware of any fishing charter companies in Florida that offer whale watching tours so to offer this service could quickly help us distinguish the Down2Fish brand.
+
+Industry
+
+The fishing charter industry consists of businesses that engage in services such as inshore/coastal fishing, offshore fishing, and tournament fishing. Operators provide charter boat services for individuals, parties, and companies. Operators may vary greatly in size, ranging from large operators with a fleet of vessels to single boat owner-operators and part-time charter companies. The industry has seen faltering growth over the past five years. COVID-19 was the primary disruption that resulted in a significant decline in domestic tourism.
+
+The IBISWorld report dated to September 2023, explains that the fishing charter industry has experienced a moderate decline over the last five years. Overall revenue was estimated to drop at an annualized rate of 4.8% through that period to $440.3 million. Despite the fall in revenue, the IBISWorld report added that the number of charter boat businesses grew by 2.4% to 3,649, and the number of charter boat employees grew by 1.4% to 5,753 during the prior five years to September 2023. While the fishing charter industry benefited from a recovering economy in 2021 post pandemic, rising inflation in 2022, dampened growth through 2023. The reports notes that the fishing charter industry continues to face stiff competition from other recreational activities such as hiking, running, and video games along with a negative shift in consumer confidence. Inflation has caused consumers to save more of their earnings in response economic uncertainty which sentiment has had a chilling effect on the demand for fishing charter boat services. 
+
+Looking ahead, the IBISWorld report for the fishing charter business has forecast an increase in revenue at an annualized rate of 3.0% to $511.3 over the next five years as disposable income is expected to increase in a tight labor market, which development will likely provide consumers with more discretionary income for recreational services such as fishing charters.
+
+Competition
+
+While no single participant in the fishing charter business holds a dominant share of the available market, we do nonetheless face intense competition. Competitors range from industry operators that maintain fleets of vessels, to single vessel owner-operators and part-time charter companies. Existing and prospective competitors have or could have advantages over us such as those with greater name recognition, longer operating histories, deeper service offerings, larger customer bases, substantially greater financial or other resources. Many of our competitors offer fishing charters at a low-cost that may be difficult or impossible for us to match and are able to book fishing charters directly from their own e-commerce websites as compared to our reliance on third-party booking sites or services to accept payment, all of which are paid a fee for each engagement.
+
+                                                                   3                                                                    
+
+ 
+
+We are faced with a bevy of competitors in the Tampa Bay area that include:
+
+   • Queen Fleet Deep Sea Fishing based in Clearwater, Florida, a family-owned business that has offered fishing charters for over
+
+      sixty years. Service offerings include charters for up to 150 persons on “fishing party boats” for half day excursions, and on
+
+      smaller charters for up to 85 persons on all day fishing excursions. The business maintains two of the larger fishing party
+
+      boats and one vessel for all day fishing
+
+      charters.
+
+
+
+   • Poseidon Fishing Charters that operate from Tampa Bay offers specific charters to fish for specific fish species, such as goliath
+
+      grouper fishing or shark fishing, night fishing and firework sight-seeing tours. Poseidon Fishing also offers a summer camp for
+
+      children, merchandise, and special pricing for time sensitive
+
+      charters.
+
+
+
+   • Florida Reels Fishing Charters offers a variety of pick-up locations along the Gulf Coast that is operated by a single
+
+      owner-operator with one custom built vessel. The business emphasizes its use of top fishing equipment and reliance on
+
+      knowledge-based fishing derived from years spent fishing in the
+
+      area.
+
+While this list of competitors is in no way exhaustive it does provide a snapshot of competition in the area and some of the distinguishing characteristics used by these competitors to attract fishing charters.
+
+Our competitive weaknesses are tied to our limited operating history and the size of our operation. Since we are relatively new to operating in the Tampa Bay area, our business struggles with brand recognition in a market filled with options. We expect that the implementation of our business plan will increase brand recognition and customers for our fishing charters. However, efforts to expand brand recognition require that we overcome our biggest competitive weakness that being the limited financial resources at our disposal. Material growth will depend, in no small part on our ability to purchase an additional vessel to host dolphin sightseeing charters, and our willingness to spend additional sums on marketing our charters. We do not presently have the funds necessary to purchase a suitable dolphin sightseeing vessel, or to boost marketing efforts.
+
+Despite the nature of the fishing charter industry and our competitive weaknesses, we believe that the services we offer today will continue to compete effectively due to several factors. We have a team with excellent experience in the fishing charter industry that provides the core strength of our workforce. Aside from the synergies that exist in our carefully selected workforce, our charters are guided by best practices in the industry. Our captain is at the top of the range for expertise in running fishing charters. Another of our strengths is our location in Palmetto, Florida with easy access to the Florida Gulf Coast, an area extremely popular for anglers and tourists alike. The state-of-art condition of our fishing boats and fishing equipment is an attraction for customers. Another of our strengths is our attention to fishing rules and regulations focused on preserving the environment. Our concern for the environment is not lost on customers who are increasingly focused on enjoying nature without causing harm in the process. We are also cost competitive with other fishing charter businesses in the area.
+
+Market Analysis
+
+The fishing charter industry competes with a wide variety of other recreational activities that include non-fishing sightseeing, land-based recreation such as hiking, city sightseeing, and even sporting events. A research report published by IBISWorld in 2018 reported that during the five years that preceded that year, the industry lost ground to other forms of recreation as consumer preferences changed. The COVID-19 pandemic had a further chilling effect on the industry as prospective customers were bound to remain in their homes. However, a post-COVID-19 IBISWorld report on the fishing charter industry released in September of 2023 forecasts that the industry is expected to realize annualized revenue growth through 2028, on the basis that sustained economic growth will lead to an increase in consumer incomes which will enable more people to spend more money on recreational activities. Despite the effects of inflation, there is reason to believe that the fishing charter industry is about to enter a consistent growth pattern in the face of competing recreational activities.
+
+                                                                   4                                                                    
+
+ 
+
+Marketing Strategy
+
+Our marketing strategies are directed towards achieving specific objectives that support our strategic goals to create new market channels, increase revenue and grow market share. We expect to leverage off premier fishing charter experiences to win new customers and retain existing ones. Down2Fish maintains modern well equipped fishing charter vessels, experienced crews, a convenient location from which to embark on charters, and reliance on highly reliable payment platforms for payment. Our intention is also to work with brand and publicity consultants to help us map out publicity and advertising strategies that will help us reach our target market.
+
+We expect to continue to make use of the following marketing and sales strategies:
+
+ •    promote our business online via our official website and social media platforms like; Instagram, Facebook, twitter, YouTube,
+
+       Google, LinkedIn + et
+
+       al;
+
+
+
+ •    offer Down2Fish branded merchandise online and aboard our fishing charters;
+
+
+
+ •    advertise special prices;
+
+
+
+ •    advertise our fishing boat charter in our official website and employ strategies that will help us pull traffic to the site;
+
+
+
+ •    promote our business on fishing charter booking sites such as Fareharbor, Travelocity, and Fishing Booker; and
+
+
+
+ •    dress crew members in branded shirts with our company logo.
+
+Our pricing is similar to the average price of what is charged for a fishing charter. While we do not charge more than our competitors, we do not charge less. Nonetheless, we do intend to offer discounts on our fishing charters for special events, and to reward loyal customers especially for referrals to our business.
+
+Our facility to accept payments is all inclusive, as we are quite aware that different customers prefer different payment options such as:
+
+ •    payment via bank transfer
+
+
+
+ •    payment with cash
+
+
+
+ •    payment via Point-of-Sale Machine (POS)
+
+
+
+ •    payment via credit card.
+
+Governmental Regulation
+
+Our business is subject to extensive federal, state, and local regulations in Florida.
+
+The captain of a saltwater fishing charter must comply with U.S. Coast Guard (“USGC”) regulations which include holding a USGC Captain’s License. Vessels used by a charter captain to do business must be commercially registered or have a USGC certificate of documentation with a commercial designation and follow USGC vessel safety requirements. Vessels carrying more than six passengers for hire must also have a Certificate of Inspection issued by the USGC. The USGC also exercises full authority over the safety and health of crews aboard vessels that have been inspected and certified. Any safety or health complaints received by the Occupational Safety and Health Administration (“OSHA”) concerning crew working conditions on an inspected vessel are referred to the USGC for determination of whether the events complained of constitute hazardous conditions. Fishing charters conducted in the Gulf of Mexico are also required to hold Gulf of Mexico Charter/Headboat for Reef Fish, and a Gulf of Mexico Charter/Headboat for Coastal Migratory Pelagics permits issued by the National Oceanic and Atmospheric Administration (“NOAA”). Enforcement falls on the NOAA Office of Law Enforcement.
+
+                                                                   5                                                                    
+
+ 
+
+Florida requires a Charter Captain or Boat Fishing License to carry paying customers for the purpose of taking, attempting to take or possessing saltwater fish or organisms. A Florida Charter Capitan license also covers customers on a charter who are not required to hold separate recreational saltwater fishing licenses and permit the licensed captain to go from boat to boat to do business. Florida also requires us to hold a Gulf Reef Fish Charter/Endorsement. State licenses are issued by the Florida Fish and Wildlife Conservation Commission (“FWC”). Our business is also subject to FWC Florida Charter for Hire Regulations and Florida Recreational Fishing Regulations. We are further required to register as our boats as commercial vessels with the Florida Highway Safety and Motor Vehicles. Our business must also follow certain local restrictions as to seasons, volume, and fish species subject to catch.
+
+We are also subject to city and county business license requirements.
+
+Our failure to comply with the rules and regulations that govern fishing charter businesses could result in substantial penalties. Since such rules and regulations are frequently amended or interpreted differently by regulatory agencies, we are unable to accurately predict the future cost or impact on our business in complying with such laws or ultimately what cost or impact compliance or otherwise will have on us. Nevertheless, we do believe that our business is currently in regulatory compliance with those rules and regulations incumbent upon us.
+
+Environment
+
+We seek to comply with all applicable federal, state, and local statutory laws or regulations concerning the preservation of our environment. The Magnuson-Stevens Fishery Conservation and Management Act (“MSA”) is the primary federal law governing marine fisheries management in federal waters up to two hundred nautical miles off the U.S. coasts. The MSA works through local councils to maintain its objectives. Our business falls under the Gulf of Mexico Fishery Management Council, one of eight councils that are responsible for developing management plans to prevent overfishing, rebuild fish stocks and promote the long-term health of fishing. MSA councils look to the Scientific and Statistical Committee (“SSC”) for advice over a range management issues, such as what is an acceptable biological catch, maximum sustainability, and rebuilding targets. Based on data generated by the SSC, each council develops a fish management plan and submits recommended regulations to the U.S. Secretary of Commerce. The Gulf of Mexico Fishery Management will also work with the FWC to ensure consistency in catch limitations. NOAA is one of the agencies responsible the enforcement of MSA directives.
+
+Florida is fiercely protective of its fish stocks given the tremendous economic impact it has on the state. On the state level the FWC is responsible for saltwater regulations that extend up to nine nautical miles off the Florida Gulf Coast. Regulations published through the FWC go to bag limits, species, size, and season for each fish species that can be legally caught. The FWC also publishes a list of fish species that cannot be caught. Since restrictions are subject to change, current restrictions are published online on the FWC’s website, eRegulations.com, and through independent businesses that offer fishing charters. Local fishing areas may also maintain restrictions on fishing that apply to their communities.
+
+Expenditures for compliance with federal state and local environmental laws have not had, and are not expected to have, a material effect on our business.
+
+                                                                   6                                                                    
+
+ 
+
+Employees
+
+Arvana has one employee who serves as its chief executive officer, chief financial officer, and a director. He engages consultants, attorneys, accountants, and auditors as necessary to direct Arvana’s business. Management has no intention of engaging additional employees until the sustainability of our business is assured.
+
+Down2Fish has a non-employee compensation arrangement with its manager and plans to hire additional persons moving forward to increase the number of fishing charters tours undertaken.
+
+Patents, Trademarks, Licenses, Franchises, Concessions, Royalty Agreements and Labor Contracts
+
+Arvana owns no patents, trademarks, licenses, franchises, concessions, or royalty agreements and is not subject to any labor contracts.
+
+Reports to Security Holders
+
+Our annual report contains audited financial statements. We are not required to deliver an annual report to security holders and will not automatically deliver a copy of the annual report to our security holders unless a request is made for such delivery. We file our required reports and other information with the Commission. The statements and forms filed by us with the Commission have also been filed electronically and are available for viewing or copy on the Commission maintained Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the Commission. The Internet address for this site can be found at http://www.sec.gov.
+
+ITEM 1A. RISK FACTORS
+
+Arvana is a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934, as amended (“Exchange Act”) and, as such, are not required to provide the information under this Item.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+Arvana is a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and, as such, are not required to provide the information under this Item.
+
+ITEM 1C. CYBERSECURITY
+
+Limited Risk Management Strategy for Handling Sensitive Data
+
+Arvana is committed to the integrity and security of the sensitive data that it collects, maintains, and transmits across its computer systems. Over the ordinary course of our business, Arvana and its third-party service providers, such as charter booking services, collect, maintain, and transmit sensitive data including proprietary or confidential business information (such as operational data and personal information). The secure maintenance of this information is critical to our business and reputation.
+
+Despite our efforts to implement robust security measures, in reliance on administrative, technical, and physical safeguards, our risk management strategies, and practices for protecting sensitive data are subject to certain limitations. A variety of factors give rise to these limitations including the evolving nature of cyber threats, resource constraints, and the inherent risks associated with the technologies we and third-party service providers employ. Arvana relies on third parties, including cloud vendors and consultants, for various business functions. Many of our third-party service providers have access to our information systems and data, and we rely on such third parties for the operation of our business. We oversee third-party service providers by conducting vendor diligence. Vendors are generally assessed for risk based on the nature of their service, access to data and systems and supply chain risk.
+
+                                                                   7                                                                    
+
+ 
+
+Arvana’s current risk management strategy may not fully account for or mitigate the risks posed by emerging technologies or the potential impact of these limitations on our business. Financial liabilities, damage to our reputation, and erosion of customer trust could negatively affect our business operations and financial condition.
+
+We have adopted a cybersecurity governance structure to identify, assess, and manage material risks from cybersecurity threats that include a framework to respond to and assess internal and external threats to the security, confidentiality, and integrity of Arvana’s data and information systems. Under which framework management is responsible for assessing and managing material risks that arise from cybersecurity threats. We have not engaged third-party qualified contractors or claim any management expertise from which to draw in the event of cybersecurity threats.
+
+Governance
+
+When identified by management, cybersecurity threats are to be immediately reported to Arvana’s Audit Committee. The Audit Committee has primary responsibility for oversight of cybersecurity threats once a cybersecurity threat has been reported to it by management. Matters to be considered by the Audit Committee include management risks relating to data privacy, technology, and information security. The Audit Committee must also consider Arvana’s cyber security measures and the back-up of information systems, along with what steps Arvana has taken to monitor and control cybersecurity exposure. Further, the Audit Committee is tasked with the responsibility for conferring with management and Arvana’s auditors as to the adequacy and effectiveness of information safeguards, cybersecurity policies, and internal controls that impact information security. The Audit Committee will be briefed on any material cybersecurity incidents that might adversely affect our business at least once each year, such brief will include topics such as risk assessment, risk management, control decisions, service provider arrangements, security incidents, responses with recommendations for changes or updates to policies and procedures.
+
+While Arvana has not experienced cybersecurity incidents in the past, it cannot guarantee that our cybersecurity safeguards will prevent breaches or breakdowns of our third-party service providers’ information technology systems, particularly in the face of continually evolving cybersecurity threats and increasingly sophisticated threat actors.
+
+A cybersecurity incident could materially affect our business, results of operations, financial condition, and reputation, in addition to potentially subjecting us to government investigations, litigation, fines or damages.
+
+ITEM 2. PROPERTIES 
+
+Arvana leases executive office is located at 299 Main Street, 13th Floor, Salt Lake City, Utah 84111. We pay an annual rent of $828 payable on a month-to-month basis.
+
+Our business office is located at 901 25th Avenue W, Palmetto, Florida 34221. We paid a nominal fee for the use of a boat dock and two boat slips to cover the term of the lease that expires on December 31, 2025.
+
+We believe that these arrangements are appropriate at this time given our focus on operating efficiencies and do not believe that we will need to maintain a larger spaces in the foreseeable future.
+
+                                                                   8                                                                    
+
+ 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+Arvana is not a party to any material litigation, arbitration, governmental proceeding, or other legal proceeding currently pending or known to be contemplated against it, or any of its officers or directors in their respective capacities as members of Arvana’s management team.
+
+ITEM 4. MINE SAFETY DISCLOSURES
+
+Not applicable.
+
+                                                                   9                                                                    
+
+ 
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market Information
+
+Shares of Arvana’s common stock are quoted on the OTC Pink Sheets Current Information Alternative Reporting electronic platform under the symbol “AVNI”.
+
+Over-the-counter market quotations of our common stock reflect inter-dealer prices, without retail mark-up, mark-down, or commission, and may not necessarily represent actual transactions.
+
+On February 22, 2023, Arvana’s stockholders approved a forward-split on a 3-1 basis of its outstanding common stock that was effected on April 19, 2023, to stockholders of record on March 31, 2023.
+
+Holders
+
+Arvana has 103 stockholders of record holding a total of 107,845,554 shares of fully paid and non-assessable common stock of the 500,000,000 shares of common stock, par value $0.001, authorized. We believe that the number of beneficial owners is substantially greater than the number of record holders given a portion of our outstanding common stock is held in broker “street names” for the benefit of individual investors.
+
+Dividends
+
+Arvana has neither the ability nor any history of paying cash dividends to its stockholders and has no intention to pay cash dividend in the foreseeable future.
+
+Securities Authorized for Issuance Under Equity Compensation Plans
+
+The table below details compensation plans, including individual compensation arrangements, under which Arvana equity securities have been authorized for issuance as of year-end December 31, 2023, aggregated as follows: (i) All compensation plans previously approved by security holders; and (ii) All compensation plans not previously approved by security holders.
+
+                        Plan category                                  Number of           Weighted-average            Number of
+
+                                                                       securities          exercise price of           securities
+
+                                                                      issued upon             outstanding              remaining
+
+                                                                      exercise of          options, warrants         available for
+
+                                                                      outstanding                 and               future issuance
+
+                                                                        options,                 rights               under equity
+
+                                                                      warrants and                                    compensation
+
+                                                                         rights                                          plans
+
+                                                                          (a)                                          (excluding
+
+                                                                                                                       securities
+
+                                                                                                                      reflected in
+
+                                                                                                                         column
+
+                                                                                                                          (a)
+
+                                                                          (a)                     (b)                     (c)
+
+Equity compensation plans approved by security holders                 7,950,000 1       $           0.09             2,550,000 
+
+Equity compensation plans                                                      —                      —                     —   
+
+not approved by stockholders
+
+Total                                                                    7,950,000       $           0.09             2,550,000 
+
+1 The Arvana Inc. 2002 Stock Incentive Plan was approved by stockholders on February 22, 2023.
+
+                                                                   10                                                                   
+
+ 
+
+Arvana Inc. 2022 Stock Incentive Plan
+
+The purpose of the Arvana Inc. 2022 Stock Incentive Plan (“Incentive Plan”) is to provide a means through which Arvana may attract able persons to serve as employees, directors, or consultants of Arvana or its subsidiaries, and to provide a means whereby those individuals upon whom the responsibilities for the successful administration and management of Arvana rest, and whose present and potential contributions to Arvana are of importance, may acquire and maintain stock ownership, thereby strengthening their concern for the welfare of Arvana. The Incentive Plan provides for granting incentive stock options (“ISO’s”), non-qualified stock options (“NQSO’s”), restricted stock awards (“RSA’s”), or any combination of the foregoing, as is best suited to the circumstances of the employee, consultant, or director who might be eligible for participation. Employees are eligible for incentive stock options and non-qualified stock options under the Incentive Plan. Non-employee members of our board of directors (“Board”) and consultants are eligible for non-qualified stock options.
+
+Performance Graph
+
+Arvana is a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and, as such, are not required to provide the information under this Item.
+
+Recent Sales of Unregistered Securities
+
+The table below details Arvana sales of securities over the past three years which were not registered under the Securities Act of 1933, as amended (“Securities Act”) that includes sales or reacquired securities, new issues, securities issued in exchange for property, services or other securities, and new securities that resulted from the modification of outstanding securities. None of sales detailed below involved any underwriters, underwriting discounts, or commissions, except as specified hereto.
+
+On September 30, 2022, Arvana sold an aggregate of five million four hundred thousand (5,400,000) shares to 16 individuals and 2 corporations, pursuant to the exemptions from the registration promulgated under Securities Act as follows;
+
+Name                     Date          Amounts Settled         Cash              Price             Shares          Exemptions
+
+Brian Buckley (1)        08/11/202   $           —     $        60,000   $        0.067          900,000   §4(a)(2)/ Reg S
+
+                                 2
+
+Peter Van               08/11/2022               —              25,000            0.067          375,000   §4(a)(2)/ Reg S
+
+ Seggelen
+
+Leonard B. Smith        08/18/2022               —              10,000            0.067          150,000   §4(a)(2)/ Reg S
+
+Cathy Bures             08/25/2022               —               5,000            0.067           75,000   §4(a)(2)/ Reg D
+
+Andrew Barry            08/29/2022               —              12,500            0.067          187,500   §4(a)(2)/ Reg S
+
+Melanie                 08/29/2022               —              12,500            0.067          187,500   §4(a)(2)/ Reg S
+
+ Ellenburgh
+
+Jim Silyve              08/29/2022               —              10,000            0.067          150,000   §4(a)(2)/ Reg S
+
+Bruce Carson            09/01/2022               —              25,000            0.067          375,000   §4(a)(2)/ Reg S
+
+James Stephen           09/01/2022               —              15,000            0.067          225,000   §4(a)(2)/ Reg S
+
+ Gardiner &
+
+ Licia
+
+ Gardiner
+
+Robert Breakell         09/01/2022               —              10,000            0.067          150,000   §4(a)(2)/ Reg S
+
+Orion Winkelmeyer       09/01/2022               —              60,000            0.067          900,000   §4(a)(2)/ Reg S
+
+Louis Basque            09/02/2022               —               5,000            0.067           75,000   §4(a)(2)/ Reg S
+
+Lawrence Jean           09/08/2022               —              10,000            0.067          150,000   §4(a)(2)/ Reg S
+
+Natasha Blaisdell       09/09/2022               —              15,000            0.067          225,000   §4(a)(2)/ Reg S
+
+Jeffrey King            09/09/2022               —               5,000            0.067           75,000   §4(a)(2)/ Reg S
+
+Daniel Dunlop           09/09/2022               —              30,000            0.067          450,000   §4(a)(2)/ Reg S
+
+Enkore Custom           09/20/2022               —              10,000            0.067          150,000   §4(a)(2)/ Reg S
+
+ Homes,
+
+ Inc.
+
+Orsa & Company          09/30/2022            40,000               —              0.067          600,000   §4(a)(2)/ Reg D
+
+ (2)
+
+Sub-total                                                 320,000 (3)                                       
+
+TOTAL                                $        40,000   $       320,000                         5,400,000    
+
+(1)  Brian Buckley participated in the placement twice.
+
+(2) Orsa & Company is wholly owned by Ruairidh Campbell, an officer and director of Arvana.
+
+(3) Arvana paid a 10% referral fee to a resident of Alberta, Canada pursuant to provincial regulatory exemptions from registration.
+
+                                                                   11                                                                   
+
+ 
+
+On July 23, 2021, we issued an aggregate of eighty-eight million six hundred and thirteen thousand five hundred and forty-four (88,613,544) shares in debt settlement to four individuals (4) and five (5) entities, pursuant to the exemptions from the registration promulgated under Securities Act as follows;
+
+Name                          Date            Amount Settled &        Stock Price              Shares              Exemptions
+
+                                                Extinguished
+
+Zahir Dhanani (1)             04/01/2021   $       220,071.06   $             0.10            1,309,476   § 4(a)(2)/ Reg S
+
+                                        
+
+Third Millennium              04/01/2021            12,659.58                 0.10               79,521   § 4(a)(2)/ Reg S
+
+ Capital
+
+ Corporation
+
+CaiE Foods                    04/01/2021           213,522.09                 0.10            1,746,099   § 4(a)(2)/ Reg D
+
+ Partnership
+
+ Ltd.
+
+International                 06/30/2021            10,375.00                0.013              778,125   § 4(a)(2)/ Reg S
+
+ Portfolio
+
+ Management Inc.
+
+ (2)
+
+Altaf Nazerali (2)            06/30/2021             5,750.00                0.013              431,250   § 4(a)(2)/ Reg S
+
+Altaf Nazerali (2)            06/30/2021            10,000.00                0.013              750,000   § 4(a)(2)/ Reg S
+
+Valor Invest Ltd.             06/30/2021           924,975.96                0.013           69,373,197   § 4(a)(2)/ Reg S
+
+ (2)
+
+John Baring (3)               06/30/2021            60,000.00                0.013            4,500,000   § 4(a)(2)/ Reg D
+
+681315 B.C. Ltd. (4)          06/30/2021           103,611,68                0.013            7,770,876   § 4(a)(2)/ Reg S
+
+Raymond Wicki                 06/30/2021            44,879.03                0.013            1,875,000   § 4(a)(2)/ Reg S
+
+TOTAL                                      $     1,605,844.40                                88,613,544    
+
+(1)  Zahir Zhanani was a former officer and director of Arvana.
+
+(2)  Valor Invest Ltd. and International Portfolio Management are under the common control of Altaf Nazerali.
+
+(3)  Sir John Baring is the chairman of Arvana’s Board.
+
+(4)  681315 B.C. Ltd. is beneficially owned by Arvana’s former bookkeeper.
+
+ITEM 6. [RESERVED]
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations and other parts of this annual report contain forward-looking statements that involve risks and uncertainties. Forward-looking statements can also be identified by words such as “anticipates,” “expects,” “believes,” “plans,” “predicts,” and similar terms. Forward-looking statements are not guarantees of future performance and our actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include but are not limited to those discussed in the subsection entitled Forward-Looking Statements and Factors That May Affect Future Results and Financial Condition below. The following discussion should be read in conjunction with our financial statements and notes thereto included in this report. Our fiscal year end is December 31.
+
+Discussion and Analysis
+
+Overview
+
+Arvana acquired Down2Fish on February 3, 2023, as a wholly owned subsidiary. Down2Fish operates a Florida based fishing charter business that offers a range of curated maritime adventures that include inshore, offshore, and custom charters for fishing enthusiasts, nature lovers and tourists. The business is operated from a private dock in Palmetto, Florida that services the Tampa Bay area in addition to St Petersburg, Sarasota, Venice, Port Charlotte, and Clearwater. Down2Fish generates its revenue from the sale and provision of fishing charter services.
+
+                                                                   12                                                                   
+
+ 
+
+Plan of Operation
+
+Our plan of operation is to support the development of our business, and to build on its existing business model. We believe that an expansion of marketing efforts around Tampa Bay, to offer a wider range of services, such as dolphin tours, will help establish the Down2Fish brand, attract more customers and increase revenues. Expansion into new service offerings will however require capital sufficient to finance the purchase of another vessel and additional boating equipment. We believe that dolphin tours can return net revenue on a consistent basis if we are able to attract sufficient customers to each excursion. We are currently licensed and equipped to carry no more than six (6) customers on each fishing charter. A vessel designed primarily for dolphin tours can carry from fifty (50) to one hundred (100) customers. Our primary impediment for equipment procurement and installation is cost. We are presently considering financing options that might become available to us in the near term but have no assurance that financing options will become available or that if such did become available, that the financing terms would be tenable for our business. Unless or until we can offer excursions that cater to a greater number of customers on each excursion, we will continue to focus on offering more fishing charter excursions to build revenue and improve our results of operations.
+
+While Arvana operates its fishing charter business it has continued to seek business opportunities in real estate development. On December 12, 2023, Arvana announced a non-binding memorandum of understanding to acquire the business of FirstShot Centers, LLC, a Nevada based company intent on expanding its specialty use concept to acquire and repurpose vacant shopping malls, outlet locations and big bog stores throughout the United States to attract new tenants from targeted industries that offer goods or services that are not available online. The parties are yet to enter into a definitive agreement pending delivery of its business and financing plan.
+
+Results of Operations
+
+During the year ended December 31, 2023, Arvana purchased Down2Fish as a wholly owned subsidiary, raised capital to sustain operations, evaluated other business opportunities, and offered charter fishing services.
+
+Charter fishing services were curtailed in the third quarter of 2023 and halted in the fourth quarter of 2023, due to necessary repairs to both of our vessels under their respective warranties.
+
+Our results of operations for the year ended December 31, 2023, as compared to the year ended December 31, 2022, were as follows below:
+
+                                                                         Twelve Months Ended December 31             
+
+                                                                          2023                   2022                  Change
+
+Revenue                                                             $         24,276       $           —         $         24,276 
+
+Operating expenses                                                           555,198               165,831                389,367 
+
+Loss from Operations                                                        (530,922)             (165,831)              (365,091)
+
+                                                                                                                                  
+
+Lease income                                                                  44,000                   —                   44,000 
+
+Interest income                                                                    5                    22                    (17)
+
+Interest expense                                                             (58,647)                 (587)               (58,060)
+
+Loss on asset purchase                                                      (771,009)                  —                 (771,009)
+
+Other income                                                                     —                  15,000                (15,000)
+
+Total Other (Expense) Income                                                (785,651)               14,435               (800,086)
+
+Net loss                                                            $     (1,316,573)      $      (151,396)      $     (1,165,177)
+
+
+
+                                                                   13                                                                   
+
+ 
+
+Revenue
+
+Charter revenue from operations for the twelve-month period ended December 31, 2023, was $24,276 from $0 for the comparable twelve-month period ended December 31, 2022. The increase in revenue in the current twelve-month period is attributed to the purchase of Down2Fish in February of the current year. Revenue results for the current year were hampered by necessary repairs to both of our fishing charter vessels.
+
+We expect charter revenue from operations to increase over the next twelve months as both of our fishing charter vessels return to active service.
+
+Operating Expenses
+
+Operating expenses for the twelve-month period ended December 31, 2023, increased to $555,198 as compared to $165,831 for the twelve-month period ended December 31, 2022, an increase of 235%. The increase in operating expenses over the twelve-month period ended December 31, 2023, is attributed to the addition of charter expenses, the increase in general and administrative expenses that included stock-based compensation, transfer agent costs and auditing expenses connected to the purchase of Down2Fish.
+
+We expect operating expenses to increase in future periods as our business development strategies are implemented while auditing and accounting professional fees are expected to decrease over the next twelve months.
+
+Other Expense (Income)
+
+Other expense for the twelve-month period ended December 31, 2023, was $785,651 as compared to other income of $14,435 for the twelve-month period ended December 31, 2022. The transition from other income to other expense over the comparative periods can be primarily attributed to the loss recognized with the acquisition of Down2Fishon and interest expanse offset by lease income realized in the current twelve-month period. Other income in the current prior-month period can be attributed to an amount forgiven in connection with a rescission and mutual release agreement, offset by interest expense.
+
+We expect other expense to decrease over future periods as debt instruments tied to the fishing charter vessels are satisfied and lease income increases.
+
+Net Loss 
+
+Net loss for the year ended December 31, 2023, was $1,316,573, as compared to a net loss of $151,395 for the year ended December 31, 2022, an increase of 770%. The increase in net loss in the current twelve-month period over the prior comparable period can be primarily attributed to an increase in losses from operating expenses, interest expenses and the loss recognized on the asset purchase of Down2Fish, offset by the realization of revenue from charter boat services and other income that is generated through a lease of the charter vessels.
+
+We expect to continue to realize net losses from operations over the next twelve months as management works to implement its business model.
+
+Capital Expenditures
+
+We expended no amounts on capital expenditures for the respective twelve-month periods ended December 31, 2023, and December 31, 2022.
+
+                                                                   14                                                                   
+
+ 
+
+Liquidity and Capital Resources
+
+Since inception, Arvana has experienced significant changes in liquidity, capital resources, and stockholders’ deficit.
+
+We had current assets of $27,171 as of December 31, 2023, that consisted of cash, and a bond as compared to current assets of $142,365 as of December 31, 2022, that consisted solely of cash. Total assets were $216,549 as of December 31, 2023, that consisted of current assets, property, equipment, and intangible assets, as compared to total assets, of $142,365 as of December 31, 2022, that consisted solely of cash. We had a working capital deficit of $311,316 as of December 31, 2023, as compared to a working capital surplus of $104,495 as of December 31, 2022. Net stockholders' deficit in Arvana was $962,126 at December 31, 2023, as compared to a net stockholders' equity in Arvana of $104,495 at December 31, 2022.
+
+The following table shows a summary of our cash flows for the periods presented:
+
+                                                                         Twelve Months Ended December 31             
+
+                                                                          2023                   2022                  Change
+
+Net cash (used in) provided by                                      $                      $                      $            —   
+
+     Operating activities                                                   (206,118)              (133,238)               (72,880)
+
+     Investing activities                                                    (54,552)                   —                  (54,552)
+
+     Financing activities                                                    140,376                272,263               (131,887)
+
+Increase (decrease) in cash                                         $       (120,294)               139,025               (259,319)
+
+Cash Used in Operating Activities
+
+Net cash used operating activities for the year ended December 31, 2023, was $206,118 as compared to net cash used in operating activities of $133,238 for the twelve-month period ended December 31, 2022. Net cash used in operating activities in the current period can be attributed to book expense items that do not affect the total amount relative to actual cash used, such as share based compensation, depreciation, and loss on asset purchase. Balance sheet accounts that affect cash but are not income statement related that are added or deducted to arrive at cash used in operating activities, include accounts payable and amounts due to related parties.
+
+We expect net cash used in operating activities to continue over the next twelve months as we implement our business plan.
+
+Cash Used in Investing Activities
+
+Net cash used in investing activities for the year ended December 31, 2023, was $54,552 as compared to $0 net cash used in investing activities for the year ended December 31, 2022. Net cash used in investing activities in the current twelve-month period can be attributed to asset acquisition and the purchase of fixed assets offset by amounts received from the sale of fixed assets.
+
+We expect to use net cash in investing activities in the near term as investment will be required of us in connection with the expansion our fishing charter business.
+
+                                                                   15                                                                   
+
+ 
+
+Cash Flows from Financing Activities
+
+Net cash provided by financing activities for the year ended December 31, 2023, was $140,376, as compared to net cash provided by financing activities of $272,263 for the year ended December 31, 2022. Net cash provided from financing activities in the current twelve-month period consisted of proceeds from loans payable to related parties offset by payments made on loans payable to related parties. Net cash provided by financing activities for the year ended December 31, 2022, was $272,263, consisted of a private equity placement offset by payments on loans payable to related parties and equity issuance costs.
+
+We expect to continue to use net cash provided by financing activities over the next twelve months generated through additional private equity placements, public offerings, or private debt to expand our business.
+
+Arvana does not intend to pay cash dividends in the foreseeable future.
+
+Arvana had no lines of credit or other bank financing arrangements as of December 31, 2023.
+
+Arvana had no commitments for future capital expenditures at December 31, 2023.
+
+Arvana has adopted the Arvana Inc. 2022 Stock Incentive Plan and has an employment agreement with its executive officer.
+
+Arvana has no current plans for the purchase or sale of any plant or equipment.
+
+Arvana has no current plans to make any changes in the number of employees.
+
+Critical Accounting Policies
+
+The preparation of financial statements in accordance with U.S. GAAP requires us to make estimates and assumptions affecting the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of net revenues and expenses in the reporting period. We base our estimates and assumptions on current facts, historical experience, and various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. We continually review the estimates and underlying assumptions to ensure they are appropriate for the circumstances. Accounting assumptions and estimates are inherently uncertain and actual results may differ materially from our estimates.
+
+A summary of our critical accounting policies is provided in Note 1 to the audited financial statements for the years ended December 31, 2023, and 2022, that are included in this Form 10-K. We discuss accounting policies that are significant in determining our results of operations.
+
+Off-Balance Sheet Arrangements 
+
+We do not have any off-balance sheet arrangements, financings, or other relationships with unconsolidated entities or other persons, also known as “special purpose entities.”
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and, as such, are not required to provide the information under this Item.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+Our audited financial statements for the year ended December 31, 2023, as set forth below, are included with this Annual Report on Form 10-K. Our audited financial statements are prepared on the basis of accounting principles generally accepted in the United States and are expressed in U.S. dollars.
+
+                                                                   16                                                                   
+
+ 
+
+
+
+ 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders’ of Arvana Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheet of Arvana Inc. (the Company) as of December 31, 2023, and the related consolidated statements of operations, stockholders’ deficit, and cash flows for the year ended December 31, 2023, and the related consolidated notes (collectively referred to as the financial statements). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2023, and the results of its operations and its cash flows for year ended December 31, 2023, in conformity with accounting principles generally accepted in the United States of America.
+
+Explanatory Paragraph – Going Concern
+
+The accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the consolidated financial statements, the Company has incurred recurring operating losses, has incurred negative cash flows from operations and has an accumulated deficit. For the year ended December 31, 2023, the Company had an operating loss of $530,922, net cash $206,118 and working capital deficit of $311,316. These and other factors raise substantial doubt about the Company’s ability to continue as a going concern. Management’s plan regarding these matters is also described in Note 2 to the consolidated financial statements. The consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+We did not identify any critical audit matters that need to be communicated.
+
+
+
+We have served as the Company’s auditor since 2023.
+
+Margate, Florida
+
+April 5, 2024
+
+PCAOB #5036 
+
+ 
+
+ 
+
+ASSURANCE DIMENSIONS CERTIFIED PUBLIC ACCOUNTANTS & ASSOCIATES
+
+also d/b/a McNAMARA and ASSOCIATES, PLLC
+
+TAMPA BAY: 4920 W Cypress Street, Suite 102 | Tampa, FL 33607 | Office: 813.443.5048 | Fax: 813.443.5053
+
+JACKSONVILLE: 4720 Salisbury Road, Suite 223 | Jacksonville, FL 32256 | Office: 888.410.2323 | Fax: 813.443.5053
+
+ORLANDO:  1800 Pembrook Drive, Suite 300 | Orlando, FL 32810 | Office: 888.410.2323 | Fax: 813.443.5053
+
+SOUTH FLORIDA:  2000 Banks Road, Suite 218 | Margate, FL 33063 | Office: 754.800.3400 | Fax: 813.443.5053
+
+www.assurancedimensions.com
+
+                                                                  F-1                                                                   
+
+ 
+
+ 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Shareholders and Directors of Arvana Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying balance sheet of Arvana Inc. (the “Company”) as of December 31, 2022, and the related statements of operations and comprehensive loss, changes in stockholders’ equity (deficiency), and cash flows for the year ended December 31, 2022, and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022, and the results of its operations and its cash flows for the year ended December 31, 2022, in conformity with accounting principles generally accepted in the United States of America.
+
+Going Concern
+
+The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, during the year, the Company recognized a net loss of $151,396, has a working capital surplus of $104,495 and has an accumulated deficit of $36,240,368 that raise substantial doubt about its ability to continue as a going concern. Management's plans in regard to these matters are also described in Note 2. The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the entity’s internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+We determined that there are no critical audit matters.
+
+We have served as the Company’s auditor from 2005 to 2023.
+
+Vancouver, Canada
+
+/s/ DAVIDSON & COMPANY LLP
+
+PCAOB# 731
+
+April 14, 2023 Chartered Professional Accountants
+
+ 
+
+                                                                  F-2                                                                   
+
+ 
+
+ARVANA INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+ 
+
+                                                                                                                                      
+
+                                                                                         December 31,                 December 31,
+
+                                                                                             2023                         2022
+
+Current assets:                                                                                                                     
+
+Cash and cash equivalents                                                             $          22,071           $         142,365 
+
+Other current assets                                                                              5,100                         —   
+
+Total current assets                                                                             27,171                     142,365 
+
+Non-current assets:                                                                                                                 
+
+Property and equipment, net                                                                     163,378                         —   
+
+Intangible assets                                                                                26,000                         —   
+
+Total non-current assets                                                                        189,378                         —   
+
+Total assets                                                                          $         216,549           $         142,365 
+
+                                                                                                                                    
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)                                                                                      
+
+Current liabilities:                                                                                                                
+
+Accounts payable and accrued liabilities                                              $         100,849           $          29,770 
+
+Related party payables (Note 8)                                                                  46,200                       8,100 
+
+Current portion of notes payable - related party                                                112,000                         —   
+
+Current portion of long-term debt                                                                79,438                         —   
+
+Total current liabilities                                                                       338,487                      37,870 
+
+Long-term liabilities:                                                                                                              
+
+Notes payable, net of non-current portion                                                       840,188                         —   
+
+Total long-term liabilities                                                                     840,188                         —   
+
+Total liabilities                                                                             1,178,675                      37,870 
+
+Stockholders' equity (deficit):                                                                                                     
+
+Common stock, $0.001 par value, 500,000,000 shares authorized, 107,845,554                      107,847                     107,847 
+
+ issued and 107,839,299 outstanding at December 31, 2023 and December 31,
+
+ 2022,
+
+ respectively
+
+Additional paid-in capital                                                                   36,490,304                  36,240,352 
+
+Accumulated deficit                                                                         (37,556,941)                (36,240,368)
+
+Total stockholders' equity (deficit) before treasury stock                                     (958,790)                    107,831 
+
+Less treasury stock - 6,255 common shares at December 31, 2023 and December                      (3,336)                     (3,336)
+
+ 31, 2022
+
+ respectively
+
+Total stockholders' equity (deficit)                                                           (962,126)                    104,495 
+
+Total liabilities and stockholders' equity (deficit)                                  $         216,549           $         142,365 
+
+     
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+ 
+
+                                                                  F-3                                                                   
+
+ 
+
+ 
+
+ARVANA INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+For the years ended
+
+ 
+
+                                                                                                                                    
+
+                                                                                                        December 31,
+
+                                                                                             2023                         2022
+
+Revenue:                                                                                                                            
+
+Charter income                                                                        $          24,276           $             —   
+
+Total revenue                                                                                    24,276                         —   
+
+Operating expenses:                                                                                                                 
+
+Charter expenses                                                                                 50,654                         —   
+
+General and administrative                                                                      403,528                     100,145 
+
+Professional fees                                                                               101,016                      65,686 
+
+Total operating expenses                                                                        555,198                     165,831 
+
+Loss from operations                                                                           (530,922)                   (165,831)
+
+                                                                                                                                    
+
+Other income (expense):                                                                                                             
+
+Lease income (Note 6)                                                                            44,000                         —   
+
+Interest income                                                                                       5                          22 
+
+Interest expense                                                                                (58,647)                       (587)
+
+Other income                                                                                        —                        15,000 
+
+Loss on asset purchase                                                                         (771,009)                        —   
+
+Total other expense                                                                            (785,651)                     14,435 
+
+Net loss                                                                              $      (1,316,573)          $        (151,396)
+
+Per common share information - basic and diluted                                                                                    
+
+Weighted average shares outstanding - basic                                                 107,839,299                 107,839,299 
+
+Net loss per common share - basic                                                     $           (0.01)          $           (0.00)
+
+Weighted average shares outstanding - diluted                                               107,839,299                 107,839,299 
+
+Net loss per common share - diluted                                                   $           (0.01)          $           (0.00)
+
+ 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+ 
+
+                                                                  F-4                                                                   
+
+ 
+
+ 
+
+ARVANA INC.
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIT)
+
+Years Ended December 31, 2023, and 2022
+
+ 
+
+                                                                                                                          ’
+
+                                          Common Shares                                              Treasury               
+
+                                       Shares        Amount      Additional      Accumulated    Shares   Amount        Total
+
+                                                                   Paid-in         Deficit                          Stockholders’
+
+                                                                   Capital                                             Equity
+
+                                                                                                                    (Deficiency)
+
+Balance December 31, 2021             102,445,554  $  102,447  $   35,888,276  $  (36,088,972)  (6,255) $ (3,336) $     (101,585)
+
+Issuance of common stock                4,800,000       4,800         315,200                                            320,000 
+
+Share issuance cost                           —           —           (32,237)            —        —         —           (32,237)
+
+Conversion of related party debt          600,000         600          39,400             —        —         —            40,000 
+
+ to
+
+ equity
+
+Share based compensation                      —           —            29,713             —        —         —            29,713 
+
+Net loss                                      —           —               —          (151,396)     —         —          (151,396)
+
+Balance December 31, 2022             107,845,554     107,847      36,240,352     (36,240,368)  (6,255)   (3,336)        104,495 
+
+Share based compensation                      —           —           249,952             —        —         —           249,952 
+
+Net loss                                      —           —               —        (1,316,573)     —         —         (1,316,57)
+
+                                                                                                                               3
+
+Balance December 31, 2023             107,845,554  $  107,847  $   36,490,304  $  (37,556,941)  (6,255) $ (3,336) $     (962,126)
+
+      
+
+ 
+
+The accompanying condensed notes are an integral part of these interim unaudited consolidated financial statements. 
+
+ 
+
+                                                                  F-5                                                                   
+
+ 
+
+ 
+
+ARVANA INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+Years Ended December 31, 2023, and 2022
+
+ 
+
+                                                                                                                             
+
+                                                                                             2023                         2022
+
+Cash flows from operating activities:                                                                                               
+
+Net loss                                                                              $      (1,316,573)          $        (151,396)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                         
+
+Depreciation expense                                                                             23,969                         —   
+
+Share-based compensation                                                                        249,952                      29,713 
+
+Loss on asset purchase                                                                          771,009                         —   
+
+Increase (decrease) in:                                                                                                             
+
+Accounts payable and accrued liabilities                                                         65,525                      (2,061)
+
+Net cash used in operating activities                                                          (206,118)                   (133,328)
+
+                                                                                                                                    
+
+Cash flows from investing activities:                                                                                               
+
+Cash paid for fixed assets                                                                       (8,641)                        —   
+
+Cash paid for asset acquisition                                                                 (50,000)                        —   
+
+Cash acquired from asset acquisition                                                              4,089                         —   
+
+Net cash used in investing activities                                                           (54,552)                        —   
+
+                                                                                                                                    
+
+Cash flows from financing activities:                                                                                               
+
+Proceeds of loans payable                                                                       123,266                         —   
+
+Related party payables                                                                           38,100                      (9,494)
+
+Issuance of common stock                                                                            —                       320,000 
+
+Issuance cost                                                                                       —                       (32,237)
+
+Payments on loans payable                                                                       (20,990)                    (15,500)
+
+Net cash provided by financing activities                                                       140,376                     272,263 
+
+                                                                                                                                    
+
+Net increase (decrease) in cash                                                                (120,294)                    139,025 
+
+Cash and cash equivalents, beginning of year                                                    142,365                       3,340 
+
+Cash and cash equivalents, end of year                                                $          22,071           $         142,365 
+
+                                                                                                                                    
+
+Supplemental disclosures of cash flow information:                                                                                  
+
+Cash paid for interest                                                                $          12,625           $             —   
+
+Non-cash investing and financing activities:                                                                                        
+
+Related party payable reduced through issuance of shares                              $             —                        40,000 
+
+Note payable issued for asset acquisition (Note 3)                                              700,000                         —   
+
+Liabilities assumed in asset acquisition                                              $         234,904                         —   
+
+    
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+                                                                  F-6                                                                   
+
+ 
+
+ 
+
+Note 1 – Organization and Summary of Significant Accounting Policies
+
+Organization
+
+Arvana Inc. (the “Company”) was incorporated in the State of Nevada on June 16, 1977, as “Turinco, Inc.”, and on July 24, 2006, changed its name to Arvana Inc. to reflect the acquisition of a telecommunications business. We discontinued efforts related to our telecommunications business as of December 31, 2009. The Company acquired Down 2 Fish Charters, LLC on February 3, 2023 (D2F). D2F was organized under the laws of the State of Florida on April 1, 2019.
+
+D2F operates a Florida based fishing charter business that offers a range of curated maritime adventures that include inshore, offshore, and custom charters for fishing enthusiasts, nature lovers and tourists. The business is operated from a private dock in Palmetto, Florida that services the Tampa Bay area in addition to St Petersburg, Sarasota, Venice, Port Charlotte, and Clearwater. D2F generates its revenue from the sale and provision of fishing charter services.
+
+Basis of Presentation
+
+The Company’s fiscal year end is December 31. The accompanying consolidated financial statements of the Company for the years ended December 31, 2023, and 2022, have been prepared in accordance with accounting principles generally accepted in the United States (“US GAAP”) for financial information with the instructions to Form 10-K and Regulation S-K. Results are not necessarily indicative of results which may be achieved in future periods.
+
+Use of Estimates
+
+The preparation of financial statements in conformity with US GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. These estimates include the recognition of deferred tax assets based on the change in unrecognized deductible temporary tax differences.
+
+ 
+
+Stock Split
+
+On February 21, 2023, stockholders approved a forward-split of the Company’s common shares on a 3-1 basis. The forward-split was filed with the Nevada Secretary of State effective March 31, 2023, and the Financial Industry Regulatory Authority (FINRA) rolled the stock forward on April 19, 2023. All changes in the capital structure have been given retroactive effect in these financial statements.
+
+                                                                  F-7                                                                   
+
+ 
+
+Financial Instruments
+
+The Company uses the following methods and assumptions to estimate the fair value of each class of financial instruments for which it is practicable to estimate such values:
+
+Cash - the carrying amount approximates fair value.
+
+Accounts payable and accrued liabilities, loans payable to stockholders, and amounts payable to related parties - the carrying amount approximates fair value due to the short-term nature of the obligations.
+
+Concentration of Credit Risk
+
+Financial instruments that potentially subject the Company to concentrations of credit risk consist of cash. The Company maintains cash in bank accounts that, at times, may exceed federally insured limits. At December 31, 2023 and December 31, 2022 respectively, the Company did not have any cash in excess of the insured FDIC limits. The Company has not experienced any losses in such accounts and believes it is not exposed to any significant risks on its cash in bank account.
+
+Income Taxes
+
+A deferred tax asset or liability is recorded for all temporary differences between financial and tax reporting and net operating loss carry-forwards. Deferred tax expense (benefit) results from the net change during the year of deferred tax assets and liabilities.
+
+Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion or all of the deferred tax assets will not be realized. Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the date of enactment.
+
+                                                                  F-8                                                                   
+
+ 
+
+Stock-based Compensation
+
+The Company accounts for all stock-based payments to employees and non-employees under ASC 718 “Stock Compensation,” which requires that the value of the award is established at the date of grant and is expensed over the vesting period of the grant. The method of determining the fair value of share-based payments depends on the type of award. Share-based awards that vest over a certain service period with no market conditions are valued at the closing market price on the grant date. Options grants are valued using the Black-Scholes-Merton model using inputs that are determined on the date of the grant. Once the per-share fair value on the date of grant is established, the aggregate expense of the grant is recognized as earned over the vesting period of the grant. The cost of stock-based payments to non-employees if fully vested and non-forfeitable at the grant date, is measured and recognized at that date.
+
+Earnings (Loss) Per Share
+
+Basic earnings (loss) per share are computed using the weighted average number of common shares outstanding during the year. Diluted earnings (loss) per share are computed using the weighted average number of common shares and potentially dilutive common stock equivalents, including stock options and warrants. The Company had 7,950,000 outstanding stock options as at December 31, 2023, and none at December 31, 2022, which have been excluded from the calculation of diluted loss per share because their effects would be anti-dilutive.
+
+Recent Accounting Pronouncements
+
+Recently Issued Accounting Pronouncements Adopted by the Company
+
+In June 2016, the FASB issued ASU 2016-13 Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments. ASU 2016-13 is intended to provide financial statement users with more decision-useful information about expected credit losses on financial instruments and other commitments and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates. ASU 2016-13 is effective for the Company beginning January 1, 2023. The Company adopted ASU 2016-13, effective January 1, 2023, which adoption has not had a material effect on its financial statements.
+
+                                                                  F-9                                                                   
+
+ 
+
+ 
+
+Note 2 – Going Concern
+
+For the year ended December 31, 2023, the Company recognized a net loss of $1,316,573 and has negative cash flows from operations totaling $118,652. As of December 31, 2023, the Company had a working capital deficit of $311,316 and an accumulated deficit of $37,556,941. The Company has incurred significant losses since inception. While the Company commenced revenue generating activities in the first quarter of 2023, it will require funding from outside sources to implement its business development strategy. The Company has no firm commitments for additional funding. The aggregation of these factors raises substantial doubt about the Company’s ability to continue as a going concern for a period of one year from the date these consolidated financial statements are made available. The accompanying consolidated financial statements do not include any adjustments relating to the recoverability and classification of assets that might be necessary if the Company is unable to continue as a going concern.
+
+ 
+
+Failure to obtain the ongoing support of stockholders and creditors may indicate that the preparation of these consolidated financial statements on a going concern basis is inappropriate, in which case our assets and liabilities would need to be recognized at their liquidation values. The Company’s consolidated financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts and liabilities that might arise from this uncertainty.
+
+Note 3 – Asset Acquisition
+
+On February 3, 2023 (Closing Date), the company acquired the assets and assumed the liabilities of Down2Fish Charters, LLC (D2F), a limited liability company organized under the laws of Florida, which operates a charter fishing business. On the Closing Date, the Company paid $50,000 in cash and issued a note for $700,000 for a total consideration of $750,000. The Company’s consolidated statements of operations from the Closing Date through December 31, 2023, indicate a net loss of $1,316,573.
+
+Assets acquired and liabilities assumed were recorded at their estimated fair values as of the Closing Date under the acquisition method of accounting. The estimated fair values of certain assets and liabilities including long-lived assets require judgment and assumptions. Adjustments may be made to these estimates during the measurement period and those adjustments could be material.
+
+Assets acquired and liabilities assumed are based on their fair values as of the Closing Date, with the excess of cost over fair value of $771,009. For the period ended December 31, 2023, the Company recorded an impairment loss of $771,009 on the excess amount. Assets acquired are as follows:
+
+                                                                  F-10                                                                  
+
+ 
+
+Schedule of assets acquired and liabilities assumed                                                                                   
+
+Assets                                                                                                                                 
+
+Cash                                                                                                        $                   4,089 
+
+Trade and other receivables                                                                                                     5,100 
+
+Marine operating equipment                                                                                                    178,706 
+
+Commercial fishing license                                                                                                     26,000 
+
+Total assets                                                                                                                  213,895 
+
+                                                                                                                                      
+
+Liabilities                                                                                                                           
+
+Accounts payable                                                                                                                4,910 
+
+Deposits                                                                                                                          644 
+
+Payable to affiliates                                                                                                          62,634 
+
+Notes payable                                                                                                                 166,716 
+
+Total liabilities                                                                                                             234,904 
+
+                                                                                                                                      
+
+Purchase price                                                                                                                750,000 
+
+Loss on asset acquisition                                                                                                     771,009 
+
+The Company did not incur any acquisition related costs during the period.
+
+Property and equipment acquired consisted primarily of offshore support vessels. The Company recorded property and equipment acquired at an estimated fair value of $178,706. The fair values of the offshore support vessels were estimated by applying a replacement cost approach. These assets will be tested for impairment upon the occurrence of a triggering event. The Company estimates the remaining useful lives for the vessels acquired are seven years, based on an original estimated useful life of 10 years.
+
+The charter fishing license acquired is a perpetual federal fishing license, which grants the Company access to fish in federally regulated waters off the coast of Florida. This asset is not amortized and is tested for impairment at least annually.
+
+                                                                  F-11                                                                  
+
+ 
+
+Note 4 – Property and Equipment
+
+Property and equipment consist of the following:
+
+Schedule of property plant and equipment                                                                                    
+
+                                                                                      December 31, 2023            December 31, 2022
+
+                                                                                        (Unaudited) 
+
+Marine Equipment                                                                     $         181,675           $               —  
+
+Furniture and fixtures                                                                           5,672                           —  
+
+Total                                                                                          187,347                           —  
+
+Less – accumulated depreciation                                                                (23,969)                          —  
+
+Property and equipment, net                                                          $         163,378           $               —  
+
+Depreciation expense was $23,969 and none for the year ended December 31, 2023, and 2022. Depreciation expense is included in Charter Expenses on the Consolidated Statements of Operations. 
+
+Marine equipment is subject to an operating lease agreement that ends on December 31, 2025 (Note 6).
+
+Note 5 – Intangible Assets
+
+The Company acquired a perpetual federal fishing license, from the acquisition of assets (see Note 3), which grants the Company access to fish in federally regulated waters off the coast of Florida. This asset is not amortized and is tested for impairment at least annually. As of December 31, 2023, and 2022, no impairment of this asset had occurred.
+
+Note 6 – Leases
+
+The Company leases marine equipment in an operating arrangement. The agreement began on January 1, 2023, and ends December 31, 2025. The agreement provides for minimum monthly lease payments of $4,000 per month for the term of the agreement. At the end of the term, any additional lease payment due will be calculated and paid. The lessee’s right to lease the marine equipment is limited to those times which do not conflict with Company use. There is no option to purchase the watercraft as part of the agreement and the Company expects to recoup full value when the watercraft are sold.
+
+The Company manages risk by requiring the lessee to indemnify the Company in the event of loss to property or persons.
+
+The amount of lease income recognized in other income for the year ended December 31, 2023, is $44,000.
+
+Cash flows from lease payments are expected to be received as follows:
+
+Schedule of lease payments                                                                               
+
+Year                                                                                              Lease amount
+
+2024                                                                                                                           48,000 
+
+2025                                                                                                                           48,000 
+
+ 
+
+                                                                  F-12                                                                  
+
+ 
+
+Note 7 – Common Stock
+
+During the year ended December 31, 2022, the Company issued 4,800,000 shares of its restricted common stock at a price of $0.07 per share for total proceeds of $320,000. The Company incurred share issuance costs in the amount of $32,237 in relation to the share issuance.
+
+The Company has authorized 500,000,000 shares of common stock. Total issued and outstanding shares were 107,845,554 and 107,839,299, respectively as of December 31, 2023, and December 31, 2022.
+
+Stockholders approved a forward stock split of the Company’s common shares on a 3-for-1 basis that was effected on April 19, 2023, to stockholders of record on March 31, 2023. All changes in the capital structure have been given retroactive effect in the periodic report.
+
+During the year ended December 31, 2022, the Company issued 600,000 shares at the price of $0.07 to settle $40,000 of accounts payable to a company controlled by an officer of the Company.
+
+No common stock was issued during the year ended December 31, 2023. 
+
+Note 8 - Related Party Transactions and Loans Payable to Stockholders
+
+During the year ended December 31, 2023, and December 31, 2022, the Company incurred advisory fees to a company controlled by its chief executive officer of $0 and $18,731.
+
+Effective September 1, 2022, the Company signed an employment agreement with its chief executive officer for $90,000 per year plus incentive stock options until year-end December 31, 2022, thereafter for $120,000 per year over the term. At December 31, 2023 and December 31, 2022, accrued payroll of $30,000 and $7,500 respectively are included in related party payables.
+
+At December 31, 2023 and December 31, 2022, the Company accrued $1,200 and $600 respectively to board members for services rendered. This amount is included in related party payables.
+
+During the year ended December 31, 2023, the Company received website creation, development and hosting services from a company controlled by a related party for a cost of $15,000. This amount is included in related party payables.
+
+During the year ended December 31, 2022, $40,000 in accounts payable to a company controlled by the Company’s chief executive officer was settled by the issuance of 600,000 shares with a fair value of $40,000. There was no gain or loss on the settlement.
+
+During the years ended December 31, 2023, and 2022, the Company recorded stock-based compensation of $249,952 and $11,795 respectively, from the grant of stock options to its chief executive officer and board members.
+
+The Company has non-interest-bearing notes payable to related parties totaling $112,000 due at various dates between May 30, 2024, and December 21, 2024.
+
+Note 9 – Stock Options
+
+The Company adopted the 2022 Stock Incentive Plan (“the Plan”) effective December 31, 2022. The Plan provides for awards of stock options and restricted stock to officers, directors, key employees, and consultants. Under the Plan, option prices are set by the Compensation Committee and may not be less than the fair market value of the stock on the grant date.
+
+The Company accounts for stock-based compensation awards in accordance with the provisions of ASC 718, which addresses the accounting for employee stock options which requires that the cost of all employee stock options, as well as other equity-based compensation arrangements, be reflected in the financial statements over the vesting period based on the estimated fair value of the awards.
+
+At December 31, 2022, the Company had 7,950,000 options outstanding with vesting periods of 2-5 years and exercise prices of approximately $0.09 per share. During the year ended December 31, 2023, there have been no changes in the number of options outstanding. Total share-based expense is $249,952 and $29,713 for the years ended December 31, 2023, and 2022, respectively. The remaining share-based expense of $410,224 will be recognized as follows:
+
+                                                                                                         
+
+Year                                                                                                     
+
+2024                                                                                                                          239,421 
+
+2025                                                                                                                          156,902 
+
+2026                                                                                                                            7,582 
+
+2027                                                                                                                            6,319 
+
+Total                                                                     $                                                   410,224 
+
+ 
+
+                                                                  F-13                                                                  
+
+ 
+
+ 
+
+Note 10 – Notes Payable
+
+Notes payable are as follows at December 31, 2023 and December 31, 2022:
+
+Schedule of notes payable                                                                                                   
+
+                                                                                      December 31, 2023            December 31, 2022
+
+                                                                                        (Unaudited) 
+
+Note payable to a bank, interest at 6.75%, due in monthly installments of            $         130,212           $               —  
+
+ principal and interest, matures August 15, 2039, secured by a
+
+ boat.
+
+Note payable to a bank, interest at 7.49%, due in monthly installments of                       20,270                           —  
+
+ principal and interest, matures March 15, 2037, secured by a
+
+ boat.
+
+Note payable to seller, interest at 7.25%, due February 3, 2025, secured                       700,000                           —  
+
+ by membership interest in Down2Fish
+
+ LLC
+
+Note payable to third parties, bear no interest, with various maturities                        69,144                           —  
+
+Total notes payable                                                                            919,626                           —  
+
+Less – current portion                                                                         (79,438)                          —  
+
+Total long-term portion                                                              $         840,188           $               —  
+
+Principal maturities of notes payable are as follows:
+
+Schedule of principal maturities of notes payable                                                        
+
+Year                                                                                                 Amount
+
+2024                                                                      $                                                    79,438 
+
+2025                                                                                                                          711,051 
+
+2026                                                                                                                           11,864 
+
+2027                                                                                                                           10,568 
+
+2028                                                                                                                            6,934 
+
+Thereafter                                                                                                                     99,771 
+
+                                                                          $                                                   919,626 
+
+Note 11 - Subsequent Events
+
+The Company evaluated its December 31, 2023, financial statements for subsequent events through the date the financial statements were issued.
+
+On January 16, 2024, the Company entered into a note payable to a related party in the amount of $20,000. The note is non-interest bearing and is due on January 15, 2025.
+
+On January 29, 2024, the Company, and the holder of the note payable to seller in connection with the purchase of the D2F assets agreed to extend the interest due date on the secured promissory note from February 3, 2024, to April 3, 2024.
+
+On February 22, 2024, the Company issued a note payable to a related party in the amount of $300,000. The note bears interest at 5% and is due on February 21, 2025.
+
+On February 23, 2024, loans in the aggregate amount of $132,000 were assigned by the respective holders and repaid to the assignee.
+
+ 
+
+                                                                  F-14                                                                  
+
+ 
+
+ 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+Arvana previously reported a change in its independent registered public accounting firm in a Form 8-K report pursuant to §13 or 15(d) of the Exchange Act on May 3, 2023.
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Disclosure Controls and Procedures
+
+In connection with the preparation of this annual report, an evaluation was carried out by management, with the participation of our chief executive officer, of the effectiveness of Arvana’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act as of December 31, 2023. Disclosure controls and procedures are designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the Commission’s rules and forms, and that such information is accumulated and communicated to management, including the chief executive officer, to allow timely decisions regarding required disclosures.
+
+Based on that evaluation, management concluded, as of the end of the period covered by this report, that Arvana’s disclosure controls and procedures were effective in recording, processing, summarizing, and reporting information required to be disclosed, within the time periods specified in the Commission’s rules and forms, and such information was accumulated and communicated to management, including its chief executive officer, to allow timely decisions regarding required disclosures.
+
+Management's Annual Report on Internal Control over Financial Reporting
+
+We maintain a system of internal controls over financial reporting designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles (GAAP). Management has assessed the effectiveness of these internal controls as of the end of the fiscal year covered by this report based on the criteria set forth in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+Based on this assessment, our chief executive officer identified the following material weakness in connection with his review of our financial statements as of December 31, 2023.
+
+Arvana relies one individual who has sole responsibility for the preparation of financial reporting disclosure in his capacity as chief executive officer and chief financial officer. Our inaction to bifurcate the duties of each office is a material weakness that could impact financial reporting. Management has concluded, despite this material weakness, that our internal control over financial reporting was effective as of the end of the fiscal year covered by this report. While management does not believe that this material weakness affected our financial results in the current period, it does believe that this weakness could result in a material misstatement of our financial statements in future periods that might not be prevented or detected in a timely manner.
+
+Arvana has a remediation plan to address this weakness that will involve engaging a second qualified individual to serve as its chief financial officer. We are committed to this plan as a means to strengthen Arvana’s internal controls to ensure the accuracy of its financial reporting. The time frame for engaging a second qualified individual has not yet been determined.
+
+                                                                   17                                                                   
+
+ 
+
+Attestation Report of the Registered Public Accounting Firm
+
+Our annual report does not include an attestation report of Arvana’s independent registered public accounting firm regarding internal control over financial reporting. We were not required to have, nor have we, engaged our independent registered public accounting firm to perform an audit of internal control over financial reporting pursuant to the rules of the Commission that permit us to provide only management’s report in this annual report.
+
+Changes in internal control over financial reporting
+
+During the year ended December 31, 2023, there has been no change in internal control over financial reporting that has materially affected or is reasonably likely to materially affect our internal control over financial reporting.
+
+9B. OTHER INFORMATION
+
+None.
+
+9C. DISCLOSURE REGARDING FOREIGN JURISDICATIONS THAT PREVENT INSPECTIONS
+
+Not applicable.
+
+                                                                   18                                                                   
+
+ 
+
+PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE
+
+Officers and Directors
+
+The following table sets forth the name, age and position of each director and executive officer of Arvana:
+
+                 Name                                            Age                                           Position
+
+Sir John Baring                                                  77                            Chairman of the Board of Directors
+
+Ruairidh Campbell                                                60                            Chief Executive Officer, Chief
+
+                                                                                                Financial Officer, Principal
+
+                                                                                                Accounting Officer, and
+
+                                                                                                Director
+
+Shawn Teigen                                                     51                            Director
+
+Background of Officers and Directors
+
+Sir John Baring serves as chairman of our Board and has previously served as our chief executive officer. He was appointed as a director on May 26, 2005, and as chairman of the Board on October 17, 2005. Sir John resigned as a director on July 24, 2021, and was reappointed as a director on November 15, 2021. Sir John Baring brings more than 30 years of banking and investing experience to the Board. He has been involved with capital markets, private company investment and management for the breadth of that experience with a focus on emerging companies. Since June 2002, Sir John has acted as a managing and founding member of Mercator Management LLC, a leading fund management company. Sir John was educated at Eton College and holds a degree from the Royal Agricultural College University.
+
+Ruairidh Campbell was appointed as chief executive officer and to the Board on May 24, 2013, and as chief financial officer on June 25, 2013. Mr. Campbell brings to his position management skills acquired from a legal and business background encompassing over 20 years of consultancy experience. He is a member of the California and Washington DC Bars, holds a Bachelor of Arts from the University of Texas at Austin and a Juris Doctorate from the University of Utah College of Law. He started his legal career as an attorney for Baker & McKenzie in Cairo, Egypt that transitioned to consultancy work in 2003 on the formation of Orsa & Company. Orsa is dedicated to assisting companies navigate the business environment. Services range from regulatory compliance to managerial duties that include working with government regulators, business organizations, auditors, accountants, attorneys, and quasi-public governing bodies. Mr. Campbell serves as an officer and director of two other public companies. Namely, Allied Resources, Inc. an oil & gas production company, and Park Vida Group, Inc., a real estate development company. He also acts as co-managing partner of Global Immigration Partners PLLC, a Washington D.C. based law firm focused on providing immigration and corporate services.
+
+Shawn Teigen was appointed to the Board on June 25, 2013, and served until his resignation on July 24, 2021. He was reappointed as a director on November 18, 2021. Mr. Teigen has over 15 years of experience in the provision of consulting services to early-stage businesses. He also serves as the president of the Utah Foundation, a non-profit, non-partisan, public policy research organization. Mr. Teigen also teaches a policy research design course as a faculty member in the University of Utah's Master of Public Policy program. He spent two years in Kazakhstan as a U.S. Peace Corps volunteer. Mr. Teigen holds a Master of Public Policy and a Bachelor of Science in Management from the University of Utah. He also serves on the board of certain public-sector and non-profit organizations.
+
+                                                                   19                                                                   
+
+ 
+
+Corporate Social Responsibility
+
+We believe that social responsibility is essential for a healthy and equitable corporate culture; one that balances the interests of its various worldwide stakeholders, including employees, shareholders, and our potential partners and customers. We are committed to sound corporate citizenship in the way we manage our people, our business and our impact on society and the environment. Furthermore, we acknowledge our responsibility to ensure our products will be designed, developed, and supplied in an environmentally safe and sound manner. We believe that we obey and comply with all laws and regulations that apply to us in the communities where we do business. Further, we value our stockholders’ governance view and will solicit feedback from our stockholders relating to matters that are important to them, on environmental, social and governance topics.
+
+Involvement in Certain Legal Proceedings
+
+To the best of our knowledge, none of the following events occurred during the past ten years that are material to an evaluation of the ability or integrity of any of our executive officers, directors, or promoters:
+
+(1) A petition under the federal bankruptcy laws or any state insolvency law was filed by or against, or a receiver, fiscal agent or similar officer was appointed by a court for the business or property of such person, or any partnership in which he was a general partner at or within two years before the time of such filing, or any corporation or business association of which he was an executive officer at or within two years before the time of such filing;
+
+(2) Convicted in a criminal proceeding or is a named subject of a pending criminal proceeding (excluding traffic violations and other minor offenses);
+
+(3) Subject of any order, judgment, or decree, not subsequently reversed, suspended, or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining him from, or otherwise limiting, the following activities:
+
+(i) Acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection with such activity;
+
+(ii) Engaging in any type of business practice; or
+
+(iii) Engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of Federal or State securities laws or Federal commodities laws;
+
+(4) Subject of any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any federal or state authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any such described activity;
+
+(5) Found by a court of competent jurisdiction in a civil action or by the Commission to have violated any federal or state securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated;
+
+                                                                   20                                                                   
+
+ 
+
+(6) Found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated;
+
+(7) Subject of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended, or vacated, relating to an alleged violation of:
+
+(i) Any federal or state securities or commodities law or regulation; or
+
+(ii) Any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order;
+
+(iii) Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+
+(8) Subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S. C 78c(a)(26)), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member.
+
+Director Independence and Board Committees
+
+We are not required under the Exchange Act to maintain any committees of our Board. Further, we are not currently subject to listing requirements of any national securities exchange or inter-dealer quotation system which have requirements that a majority of the board of directors be “independent” or maintain any committees of our Board and, as a result, we are not at this time required to have our Board comprised of a majority of “independent directors” or to have any committees. However, we do have two independent directors on our Board around which we formed a compensation committee to administer the 2022 Arvana Stock Incentive Plan and an audit committee.
+
+Meetings of the Board
+
+During its fiscal year ended December 31, 2023, the Board met on four occasions by telephonic means, and otherwise transacted Arvana’s business by unanimous written consent.
+
+Family Relationships
+
+There are no family relationships by between or among the members of the Board or other executive officers of Arvana.
+
+Indemnification 
+
+Our articles of incorporation and bylaws include provisions limiting the liability of directors and officers and indemnifying them under certain circumstances. We further intend to secure directors’ and officers’ liability insurance in the near term. Insofar as indemnification for liabilities arising under the Securities Act of 1933, as amended (“Securities Act”) may be permitted to directors, officers or persons controlling Arvana pursuant to Nevada law, we are informed that in the opinion of the Commission, such indemnification is against public policy as expressed in the Securities Act and is therefore unenforceable.
+
+                                                                   21                                                                   
+
+ 
+
+Audit Committee and Audit Committee Financial Expert
+
+The Board has established an audit committee that is comprised of Sir John Baring, Shawn Teigen, and Ruairidh Campbell. While the Board has determined that Ruairidh Campbell qualifies as an “audit committee financial expert”, as defined by the rules of the Commission, it has further determined that he should not be considered “independent” as that term is defined by NASDAQ Marketplace Rule 5605(a)(2).
+
+The audit committee recommends independent accountants to audit its financial statements, discusses the scope and results of the audit with our independent accountants, considers the adequacy of internal accounting controls, considers audit procedures and reviews non-audit services performed by our independent accountants.
+
+The audit committee would also be called upon to oversee our cybersecurity framework in the event management identifies a cybersecurity threat.
+
+Code of Ethics
+
+We have adopted a Code of Ethics that applies to our directors, officers, and employees.
+
+A copy of our Code of Ethics is incorporated by reference, to the Form 10-KSB for the year ended December 31, 2006, filed as an exhibit thereto on April 16, 2007.
+
+Significant Employees
+
+Our executive officer is Arvana’s sole significant employee.
+
+Term of Office
+
+Our directors are appointed for one (1) year terms to hold office until the next annual stockholders meeting or until removed from the Board in accordance with Arvana’s bylaws.
+
+Arvana’s executive officer retains his position in accordance with his employment agreement, subject to removal by the Board, or his resignation.
+
+Board Leadership Structure and Role in Risk Oversight
+
+Our chief executive officer, and chief financial officer also serves as a member of the Board. Despite reliance on one individual to fill more than one role, we do not have a policy regarding the separation of these roles. We expect to bifurcate the roles of chief executive officer and chief financial officer to remediate an internal control weakness. Once bifurcation is accomplished our chief executive officer will likely remain on the Board until resignation or removal by our stockholders.
+
+The Board has determined that the present leadership structure is appropriate for Arvana and its stockholders. The structure helps ensure that the Board and management act with a common purpose with a single, clear chain of command to execute strategic initiatives. Further, our Board believes that the combined role of chief executive officer and Board member positions leadership to act as a bridge between management and the Board to facilitate the regular flow of information.
+
+                                                                   22                                                                   
+
+ 
+
+Delinquent Section 16(a) Reports
+
+Section 16(a) of the Exchange Act requires our executive officers and directors, and persons who beneficially own more than ten percent of our equity securities, to file reports of ownership and changes in ownership with the Securities and Exchange Commission. Officers, directors and greater than ten percent stockholders are required by Commission regulation to furnish us with copies of all Section 16(a) forms they file. Based on our review of the copies of such forms received by us, we believe that during the fiscal year ended December 31, 2023, all such applicable filing requirements were met.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+Compensation Discussion and Analysis
+
+The objective of our compensation program is to incentivize management for services rendered and to reward management on fulfilling corporate objectives.
+
+Arvana entered into an employment agreement with its sole executive officer effective September 1, 2023, who prior to that date was compensated based on amounts invoiced as a related party for services rendered. The Board determined to transition from “shell” status in 2022, and at that time decided to enter into an employment agreement with its sole executive officer intended to motivate him to fulfill that transition. Arvana exited “shell” status in the first quarter of 2023. We believe that our chief executive’s employment agreement is adequate to compensate him for his service to Arvana and is in line with compensatory packages typical of other smaller reporting companies.
+
+Executive compensation paid or accrued to our sole executive officer for the periods ended December 31, 2023, and December 31, 2022, was $120,000 and $191,731 (includes option awards) respectively.
+
+During the year ended December 31, 2023, the Company incurred director’s fees of $1,600 (2022 - $1,600).
+
+The information provided below with respect to “named executive officers,” as defined by Commission regulations, includes compensation paid or accrued to our sole executive officer during the fiscal years ended December 31, 2023, and 2022. Arvana had no other executive officers, or non-executive officers or employees whose total compensation during the respective fiscal years presented exceeded $100,000.
+
+                                                       Summary Compensation Table
+
+Name and            Year     Salary      Bonus      Stock      Option        Non-Equity         Change in          All Other       Total ($) 
+
+ Principal                     ($)        ($)       Awards      Awards     Incentive Plan      Pension Value      Compensation
+
+ Position                                            ($)         ($)        Compensation            and                ($)
+
+                                                                                 ($)           Non-qualified
+
+                                                                                                 Deferred
+
+                                                                                               Compensation
+
+                                                                                                    ($)
+
+Ruairidh Campbell   2023      120,000       —           —           —                  —                  —                  —       120,000 
+
+CEO, CFO and a      2022       30,000       —           —       143,000                —                  —               64,482     191,731 
+
+ Dir.
+
+Long-Term Incentive Plans
+
+Arvana does not have any long-term incentive plans, pension plans, or similar compensatory plans with its directors or named executive officer as of December 31, 2023.
+
+                                                                   23                                                                   
+
+ 
+
+Outstanding Equity Awards
+
+The following table presents information regarding certain outstanding equity awards held by our named executive officer as of December 31, 2023.  
+
+                                           Stock Options                                                 Stock Awards                  
+
+   Name       Number of       Number of          Equity         Option       Option     Number of    Market      Equity       Equity    
+
+              Securities      Securities        Incentive      Exercise     Expiration    Shares,     Value     Incentive    Incentive
+
+              Underlying      Underlying      Plan Awards:      Prices         Date      or Units      of         Plan          Plan
+
+              Unexercised     Unexercised       Number of         ($)       (mm/dd/yy)   of Stock    Shares,     Awards:      Awards:
+
+                Options         Options        Securities                                  That        or        Number      Market Or
+
+              Exercisable    Un-exercisabl     Underlying                                Have Not     Units      of User       Payout
+
+                  (#)             e            Unexercised                                Vested       of         Named       Value of
+
+                                  (#)           Unearned                                    (#)       Stock      Shares,      Unearned
+
+                                                 Options                                              That      Units or      Shares,
+
+                                                   (#)                                                Have        Other       Units or
+
+                                                                                                       Not       Rights        Other
+
+                                                                                                     Vested       That         Rights
+
+                                                                                                       ($)      Have Not     That Have
+
+                                                                                                                  Been        Not Been
+
+                                                                                                                 Issued        Issued
+
+                                                                                                                   (#)          ($)
+
+ Ruairidh      780,000             870,000          870,000        0.087    10/14/28           —         —            —             —   
+
+ Campbell
+
+Change of Control Agreements
+
+Arvana is not party to any change of control agreements with any of its directors or executive officers.
+
+Employment Agreement
+
+Arvana entered into an employment agreement with its named executive officer effective September 1, 2022, comprised of a salary paid monthly, in addition to incentive and non-qualified stock options. A monthly salary of $7,500 was paid for the initial four months of the agreement, and subsequently increased to $10,000 a month effective January 1, 2023. The 1,500,000 incentive stock options granted pursuant to the Incentive Plan vest in equal increments over the two (2) year term of the employment agreement.
+
+Service on the Board includes 150,000 non-qualified stock options that vest in equal increments over five (5) years.
+
+Stock options, whether incentive or non-qualified, when vested, have an exercise price of $0.087 per share for a period of six (6) years from the date of grant.
+
+Stock Settlement
+
+Arvana settled an amount of $40,000 due to a company owned by its named executive officer for services rendered as of September 1, 2022, in exchange for 600,000 of its restricted common shares valued at $0.067 a share.
+
+                                                                   24                                                                   
+
+ 
+
+2022 Stock Incentive Plan
+
+The Board approved the Arvana Inc. 2022 Stock Incentive Plan on September 30, 2022, and thereafter granted certain incentive stock options to our named executive officer, and certain non-qualified stock options to Board members and consultants as of provided in the table below.
+
+                        Plan category                                  Number of           Weighted-average            Number of
+
+                                                                       securities          exercise price of           securities
+
+                                                                      issued upon             outstanding              remaining
+
+                                                                      exercise of          options, warrants         available for
+
+                                                                      outstanding                 and               future issuance
+
+                                                                        options,                 rights               under equity
+
+                                                                      warrants and                                    compensation
+
+                                                                         rights                                          plans
+
+                                                                          (a)                                          (excluding
+
+                                                                                                                       securities
+
+                                                                                                                      reflected in
+
+                                                                                                                         column
+
+                                                                                                                          (a)
+
+Equity compensation plans approved by security holders                   7,950,000       $           0.09              2,550,000 
+
+Equity compensation plans not approved by stockholders                         —                      —                      —   
+
+Total                                                                    7,950,000       $           0.09              2,550,000 
+
+Compensation Paid to Directors
+
+Arvana compensates its independent directors for service on the Board.
+
+The following table summarizes the compensation paid or accrued to Arvana directors for the year ended December 31, 2023:
+
+               Name                   Fees     Stock     Option     Non- Equity     Non-qualified      All Other       Total
+
+                                     Earned    Awards    Awards    Incentive Plan     Deferred       Compensation       ($)
+
+                                        or       ($)       ($)      Compensation    Compensation          ($)
+
+                                                                        ($)           Earnings 
+
+                                    Paid in                                              ($)
+
+                                      Cash 
+
+                                       ($)
+
+Sir John Baring                         800      —       9,390             —                —                —        10,190 
+
+Shawn Teigen                            800      —       9,390             —                —                —        10,190 
+
+Ruairidh Campbell                       —        —       9,390             —                —                —         9,390 
+
+Non-qualified Stock Options
+
+Arvana granted 150,000 non-qualified options pursuant to the Incentive Plan to each non-executive member of the Board on October 15, 2023, for services to be rendered, that vest in equal increments over five (5) years. The non-qualified stock options, when vested, have an exercise price of $0.087 per share for a period of six (6) years from the date of grant.
+
+Pension, Retirement or Similar Benefit Plans
+
+Arvana has no current arrangements or plans in which it is obligated to provide pension, retirement or similar benefits for directors or executive officers.
+
+                                                                   25                                                                   
+
+ 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+The following table sets forth certain information with respect to the beneficial ownership of our common stock as of April 5, 2024, by:
+
+ •    each of our named executive officers;
+
+
+
+ •    each of our directors;
+
+
+
+ •    all of our current directors and executive officers as a group; and
+
+
+
+ •    each person, or group of affiliated persons, who beneficially own more than 5% of our stock.
+
+The percentage of shares beneficially owned is computed based on shares of common stock outstanding of 107,845,554 as of April 5, 2024. Shares that a person has the right to acquire within 60 days thereof, are deemed outstanding for purposes of computing the percentage ownership of the person holding such rights but are not deemed outstanding for purposes of computing the percentage ownership of any other person, except with respect to the percentage ownership of all directors and executive officers as a group.
+
+       Title of Class                   Name and Address              Number of Shares of Common              Percentage of 
+
+                                       of Beneficial Owner                       Stock                    Shares of Common Stock
+
+Directors and Officers                                                                                  
+
+Common Stock                       Ruairidh Campbell, CEO, CFO                          600,000                                  
+
+                                    and                                                                                     <1% 
+
+                                    Director
+
+                                   299 Main Street, 13th
+
+                                    Floor,
+
+                                    
+
+                                   Salt Lake City, Utah 84111
+
+Common Stock                       Shawn Teigen, Director                                   —                                —   
+
+                                   299 S. Main Street, 13th
+
+                                    Floor,
+
+                                    
+
+                                   Salt Lake City, Utah 84111
+
+Common Stock                       Sir John Baring, Director                             43,875                                  
+
+                                   299 S. Main Street, 13th                                                                  <1%
+
+                                    Floor,
+
+                                    
+
+                                   Salt Lake City, Utah 84111
+
+Common Stock                       All Directors and Executive                          643,875                              <1% 
+
+                                    Officers as a
+
+                                    Group
+
+Common Stock                       Bondock LLC. (1) (2)                              52,544,065                             48.7%
+
+                                   1057 Whitney Ranch Drive,
+
+                                    Suite 350 Henderson,
+
+                                    Nevada
+
+                                    89014
+
+Common Stock                       Pinto Concepts, Inc.                              10,000,000                              9.3%
+
+                                   905-1631 Dickson Avenue,
+
+                                    Kelowna
+
+                                    
+
+                                   British Columbia Canada V1Y
+
+                                    0B5
+
+Common Stock                       Christy Lovig                                      6,000,000                              5.6%
+
+                                   4420 Bedford Road, Kelowna 
+
+                                   British Columbia, Canada
+
+                                    V1W3C5
+
+Common Stock                       Kerri Ann Hulet                                    6,000,000                              5.6%
+
+                                   1330 Calle Calma, 
+
+                                   Henderson, Nevada 89012
+
+Common Stock                       Landon Lovig                                       6,000,000                              5.6%
+
+                                   8618-77 Street NW, Edmonton 
+
+                                   Alberta, Canada T6C2L8
+
+Common Stock                       Lane Lovig                                         6,000,000                              5.6%
+
+                                   768 Patterson Avenue,
+
+                                    Kelowna
+
+                                    
+
+                                   British Columbia Canada
+
+                                    V1Y5C8
+
+Common Stock                       Reagan Lovig                                       6,000,000                              5.6%
+
+                                   108-555 Wade Avenue East,
+
+                                    Penticton
+
+                                    
+
+                                   British Columbia, Canada
+
+                                    V2A1T3
+
+Total                                                                                93,187,940                             86.4%
+
+(1) Beneficial ownership has been determined in accordance with Rule 13d-3 under the Exchange Act. Pursuant to the rules of the Securities & Exchange Commission, shares of common stock which an individual or group has a right to acquire within 60 days pursuant to the exercise of any option, warrant or right, or through the conversion of a security, are deemed to be outstanding for the purpose of computing the percentage ownership of such individual or group, but are not deemed to be beneficially owned and outstanding for the purpose of computing the percentage ownership of any other person shown in the table.
+
+(2) Bondock LLC. and Pinto Concepts Inc. are under the beneficial ownership of Brian Lovig.
+
+                                                                   26                                                                   
+
+ 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+Certain Relationships and Related Transactions
+
+None of our directors or executive officers, nor any proposed nominee for election as a director, nor any person who beneficially owns, directly or indirectly, shares carrying more than 5% of the voting rights attached to all of our outstanding shares, nor any members of the immediate family (including spouse, parents, children, siblings, and in−laws) of any of the foregoing persons has any material interest, direct or indirect, in any transaction since the beginning of our last fiscal year or in any presently proposed transaction which, in either case, has or will materially affect us except as described below:
+
+   • Bondock Ltd. – owned by a stockholder, Brian Lovig, holding shares carrying more than 5% of the voting rights attached to our
+
+      outstanding shares, accepted four promissory notes from Arvana in the aggregate amount of $65,000, all of which were assigned
+
+      and repaid in the current fiscal
+
+      year.
+
+
+
+   • Bondock LLC – owned by a stockholder, Brian Lovig, holding shares carrying more than 5% of the voting rights attached to our
+
+      outstanding shares, accepted one promissory note from Arvana in the amount of $4,500, which was assigned and repaid in the
+
+      current fiscal
+
+      year.
+
+
+
+   • Pioneer Ventures Inc. – owned by a stockholder, Brian Lovig, holding shares carrying more than 5% of the voting rights attached
+
+      to our outstanding shares, accepted three promissory notes from Arvana in the aggregate amount of $42,500, which amount was
+
+      assigned and repaid in the current fiscal
+
+      year.
+
+Director Independence
+
+Our common stock is traded on the OTC Markets Pink Sheets electronic quotation platform, and it is not held to the corporate governance standards of listed companies. Listed companies require, in addition to other governance criteria, that a majority of a board of directors be independent. While Arvana is not subject to corporate governance standards relating to the independence of its directors, we define an “independent” director in accordance with NASDAQ Marketplace Rule 5605(a)(2)). Arvana has two independent directors on its Board under the NASDAQ Marketplace Rule.
+
+                                                                   27                                                                   
+
+ 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+The following table sets forth information regarding the amounts billed to us by our independent auditor, Assurance Dimensions, for our fiscal year ended December 31, 2023, and for our prior independent auditor, Davidson & Company, L.L.P for our fiscal year ended December 31, 2022.
+
+                                                                                                    Years ended December 31,
+
+                                                                                             2023                         2022
+
+Audit Fees:                                                                           $          25,000           $          12,500 
+
+Audit Related Fees:                                                                              13,500                       7,500 
+
+Tax Fees:                                                                                           —                           —   
+
+All Other Fees:                                                                                     —                           —   
+
+Total:                                                                                $          38,500           $          20,000 
+
+Audit Fees
+
+Audit Fees are the aggregate fees billed by our independent auditors for the audit of our annual financial statements that are provided in connection with statutory and regulatory filings or engagements.
+
+Audit-Related Fees
+
+Audit-Related Fees are fees charged by our independent auditors for assurance and related services that are reasonably related to the performance of the audit or review of our financial statements and are not reported under "Audit Fees." This category comprises fees billed for independent accountant review of our interim financial statements and management discussion and analysis, as well as advisory services associated with our financial reporting.
+
+Policy on Pre-Approval by Audit Committee of Services Performed by Independent Auditors 
+
+Our Audit Committee pre-approves all audit services to be provided to us by our independent auditors. Our Audit Committee’s policy regarding the pre-approval of non-audit services to be provided to us by our independent auditors is that all such services shall be pre-approved by the Audit Committee. Prior to the granting of any pre-approval, our Audit Committee must be satisfied that the performance of the services in question will not compromise the independence of the auditors.
+
+                                                                   28                                                                   
+
+ 
+
+PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+(a) Financial Statements
+
+The following documents are filed under “Item 8. Financial Statements and Supplementary Data,” pages F-1 through F-14, and are included as part of this Form 10-K:
+
+Financial Statements of Arvana for the years ended December 31, 2023, and 2022:
+
+Report of Independent Registered Public Accounting Firm
+
+Balance Sheets
+
+Statements of Operations and Comprehensive Income (Loss)
+
+Statements of Stockholders’ Equity (Deficit)
+
+Statements of Cash Flows
+
+Notes to Financial Statements 
+
+(b) Exhibits
+
+The exhibits required to be attached by Item 601 of Regulation S-K are listed in the Index to Exhibits on page 31 of this Form 10-K and are incorporated herein by this reference.
+
+(c) Financial Statement Schedules
+
+We are not filing any financial statement schedules as part of this Form 10-K because such schedules are either not applicable or the required information is included in the financial statements or notes thereto.
+
+ITEM 16. FORM 10-K SUMMARY
+
+None.
+
+                                                                   29                                                                   
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Arvana Inc.
+
+By:     /s/ Ruairidh Campbell                                         
+
+        Ruairidh Campbell, Chief Executive Officer, Chief Financial   
+
+         Officer, and Principal Accounting
+
+         Officer
+
+                                                                      
+
+Date:   April 5, 2024                                                 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+
+By:     /s/ John Baring                                               
+
+        Sir John Baring                                               
+
+        Director                                                      
+
+                                                                      
+
+Date:   April 5, 2024                                                 
+
+                                                                      
+
+By:     /s/ Ruairidh Campbell                                         
+
+        Ruairidh Campbell                                             
+
+        Director                                                      
+
+                                                                      
+
+Date:   April 5, 2024                                                 
+
+                                                                      
+
+By:     /s/ Shawn Teigen                                              
+
+        Shawn Teigen                                                  
+
+        Director                                                      
+
+                                                                      
+
+Date:   April 5, 2024                                                 
+
+
+
+                                                                   30                                                                   
+
+ 
+
+EXHIBIT INDEX
+
+S-K Number   Description
+
+2.1          Business Purchase Agreement filed with the Commission as an exhibit to Form 8-K on November 16, 2022.
+
+3.1          Articles of Incorporation filed with the Commission as an exhibit to Form 10-SB on May 24, 2000.
+
+3.1.1        Amended and Restated Articles of Incorporation filed with the Commission as an exhibit to Form 8-K on October 12, 2010.
+
+3.1.2        Amended and Restated Articles of Incorporation filed with the Commission as an exhibit to Schedule 14C on February 2,
+
+              2021.
+
+3.2          Amended and Restated Bylaws filed with the Commission as exhibit to Form 10-SB on May 24, 2000.
+
+10.1         Debt Settlement Agreement and Release with Zahir Dhanani filed with the Commission as an exhibit to Form 8-K on July 29,
+
+              2021.
+
+10.2         Debt Settlement Agreement and Release with CaiE Foods Partnership Ltd. filed with the Commission as an exhibit on Form
+
+              8-K dated July 29,
+
+              2021.
+
+10.3         Debt Settlement Agreement and Release with Valor Invest Ltd. filed with the Commission as an exhibit to Form 8-K on July
+
+              29,
+
+              2021.
+
+10.5         Debt Forgiveness Agreement with Zahir Dhanani filed with the Commission as an exhibit to Form 8-K on July 29, 2021.
+
+10.6         Debt Forgiveness Agreement with Topkapi International Investment Corp. filed with the Commission as an exhibit to Form
+
+              8-K on July 29,
+
+              2021.
+
+10.7         Arvana 2022 Stock Incentive Plan dated September 30, 2022, filed with the Commission as an exhibit to Form 10-Q on
+
+              November 22,
+
+              2022.
+
+10.8         Employment Agreement dated September 1, 2022, filed with the Commission as an exhibit on Form 10-Q on November 22, 2022.
+
+10.9         Business Purchase Agreement dated November 16, 2022, filed with the Commission as an exhibit on Form 8-K on November 16,
+
+              2022.
+
+21           Subsidiaries filed with the Commission on Form 8-K on February 3, 2023.
+
+31           Certification of Chief Executive Officer and Chief Financial Officer pursuant to Rule 13a-14(a) of the Exchange Act filed
+
+              with the Commission as an exhibit to this Form
+
+              10-Q.
+
+32           Certification of Chief Executive Officer and Chief Financial Officer pursuant to Rule 13a-14(d) of the Exchange Act and
+
+              18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 filed with the Commission
+
+              as an exhibit to this Form
+
+              10-Q.
+
+99.1         Audited financial statements of Down 2 Fish Charters LLC as of and for the fiscal years ended December 31, 2021, and 2020
+
+              filed with the Commission on February 3,
+
+              2023.
+
+99.2         Unaudited financial statements of Down 2 Fish Charters LLC as of and for the three and nine-month periods ended September
+
+              30, 2022, and 2021 filed with the Commission on February 3,
+
+              2023.
+
+99.3         Unaudited Pro Forma Combined Financial Statements as of and for the fiscal year ended December 31, 2021, and September
+
+              30, 2022, filed with the Commission on February 3,
+
+              2023.
+
+101.INS(1)   XBRL Instance Document    
+
+101.PRE(1)   XBRL Taxonomy Extension Presentation Linkbase 
+
+101.LAB(1)   XBRL Taxonomy Extension Label Linkbase
+
+101.DEF(1)   XBRL Taxonomy Extension Label Linkbase
+
+101.CAL(1)   XBRL Taxonomy Extension Label Linkbase
+
+101.SCH(1)   XB RL Taxonomy Extension Label Linkbase
+
+ (1)         Pursuant to Rule 406T of Regulation S-T, these interactive data files are deemed “furnished” and not “filed” or part of a
+
+              registration statement or prospectus for purposes of Section 11 or 12 of the Securities Act of 1933 or deemed
+
+              “furnished” and not “filed” for purposes of Section 18 of the Securities and Exchange Act of 1934, and otherwise is not
+
+              subject to liability under these
+
+              sections.
+
+
+
+                                                                   31

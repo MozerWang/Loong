@@ -1,0 +1,432 @@
+﻿10-Q 1 fflo_10q.htm FREE FLOW INC. - FORM 10-Q 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-Q
+                     x     QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+                            
+                           FOR THE QUARTERLY PERIOD ENDED MARCH 31, 2024
+Commission file number 000-54868
+ 
+Free Flow Inc.
+(Exact name of registrant as specified in its charter)
+                           Delaware                                                    45-3838831
+                 (State or other jurisdiction                                        (IRS Employer
+                      of incorporation)                                       Identification No.) 
+6269 Caledon Road; King George, VA 22485
+(Address of Principal Executive Offices)
+ 
+(703) 789-3344
+(Registrant’s Telephone Number)
+—————————————————
+Check whether the issuer (1) filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the last 90 days. YES x NO ¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). YES x NO ¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of "large accelerated filer, "accelerated filer," "non-accelerated filer," and "smaller reporting company" in Rule 12b-2 of the Exchange Act.
+ 
+                             Large accelerated filer                     ☐         Accelerated filer                        ☐
+                             Non-accelerated filer                       ☒         Smaller reporting company                ☒
+                                                                                   Emerging growth company                  ☐
+If an emerging growth company, indicate by check mark if the registrant has elected transaction period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). YES ¨ NO x
+Applicable Only to Issuer Involved in Bankruptcy Proceeding During the receding Five Years.
+N/A.
+Applicable Only to Corporate Registrants
+Securitas registered to Pursuant to Section 12(b) of the Act.
+                     Title of each class             Trading Symbol(s)                 Name of each exchange on which registered
+                     N/A                             FFLO                              OTC PINK
+State the number of shares outstanding of each of the issuer's classes of common equity, as of the latest practicable date: 25,926,900 shares as of May 20, 2024.
+
+
+ 
+                     ITEM 1.  FINANCIAL STATEMENTS                                                                                    2
+                     Notes to Condensed Consolidated Financial Statements                                                             6
+                     ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION                                               10
+                     ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS                                             11
+                     ITEM 4. CONTROLS AND PROCEDURES                                                                                 11
+                     PART II – OTHER INFORMATION                                                                                     12
+                     ITEM 1. LEGAL PROCEEDINGS                                                                                       12
+                     ITEM 1A. RISK FACTOR                                                                                            12
+                     ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS                                             12
+                     ITEM 3. DEFAULTS UPON SENIOR SECURITIES                                                                         12
+                     ITEM 4. MINE SAFETY DISCLOSURE                                                                                  12
+                     ITEM 5. OTHER INFORMATION                                                                                       12
+                     PART II. OTHER INFORMATION                                                                                      13
+                     ITEM 6. EXHIBITS.                                                                                               13
+                     SIGNATURES                                                                                                      14
+
+1
+
+ITEM 1.  FINANCIAL STATEMENTS
+ 
+FREE FLOW, INC. & SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+ 
+                                                                                                                                             As of                   As of
+                                                                                                                                         March 31,2024         December 31,2023
+                                                                                                                                          (Unaudited)             (Unaudited)
+                                                                                                                                                             
+                                                                            ASSETS                                                                                                 
+                           Current Assets:                                                                                                                                         
+                           Cash and cash equivalents                                                                                $3,759                  $39,521  
+                           Trade Receivables - current                                                                              108,742                 95,440  
+                           Refund due from IRS - ERTC                                                                               32,730                  32,730  
+                           Note Receivable                                                                                          300,000                 -   
+                           Rounding off the decimals - error                                                                        (2.00)                  (2.00) 
+                           Inter-company                                                                                            -                       -  
+                           Inventories                                                                                              2,400                   4,800  
+                           TOTAL CURRENT ASSETS                                                                                     447,628                 172,489  
+                                                                                                                                                             
+                           Fixed Assets                                                                                                                      
+                           Land and Building, without depreciation                                                                  -                       772,413  
+                           Less:Allownace for Depreciation                                                                          -                       (283,731) 
+                           TOTAL FIXED ASSETS                                                                                       -                       488,682  
+                                                                                                                                                             
+                           Other Assets                                                                                                                      
+                           Delivery Turcks, before depreciation allowance                                                           2,500                   2,500  
+                           Allownace for Depreciation                                                                               (2,500)                 (2,500) 
+                           Improvements in progress                                                                                 -                       11,697  
+                           Equipment and Delivery Trucks, before depreciation allowance                                             31,712                  31,712  
+                           Allownace for Depreciation                                                                               (31,712)                (31,712) 
+                           TOTAL OTHER ASSETS                                                                                       -                       11,697  
+                                                                                                                                                             
+                           TOTAL ASSETS                                                                                             $447,628                $672,868  
+                                                                                                                                                             
+                                                         LIABILITIES & STOCKHOLDERS' EQUITY (DEFICIT)                                                        
+                           Current Liabilities                                                                                                               
+                           Accounts Payable                                                                                         $206,859                $138,669  
+                           Notes Payable                                                                                            1,500                   $2,500  
+                           Notes Payable - Related Parties                                                                          9,634                   9,634  
+                           TOTAL CURRENT LIABILITIES                                                                                217,993                 150,803  
+                                                                                                                                                             
+                           Long Term Liabilities                                                                                                             
+                           Incredible Bank - Total Loans payable - Due March 4, 2026                                                20,107                  319,319  
+                           PPP1                                                                                                     -                       -  
+                           EIDL                                                                                                     499,900                 499,900  
+                           PayPal Advance                                                                                           29,517                  29,517  
+                           Incredible Bank - Property Tax                                                                           40,587                  40,587  
+                           Incredible Bank                                                                                          8,582                   847,817  
+                           TOTAL LONG TERM LIABILITIES                                                                              598,693                 1,737,140  
+                           TOTAL LIABILITIES                                                                                        816,687                 1,887,943  
+                                                                                                                                                             
+                           Redeemable Preferred Stock                                                                                                        
+                           Series B; 500,000 shares authorized; 330,000 and 0 issued                                                330,000                 330,000  
+                           and outstanding as of December 31, 2018 and 2017
+                           respectively ( Classified as Mezzanine Equity)
+                           Series C; 500,000 shares authorized; 470,935 and 0 issued                                                470,935                 470,935  
+                           and outstanding as of December 31, 2018 and 2017 
+                           respectively ( Classified as Mezzanine Equity) - As equity in Accurate 
+                           Auto Parts, Inc.
+                           Stockholders' Equity (Deficit)                                                                                                    
+                           Preferred Stock ($0.0001) par value, 20,000,000 shares authorized                                        1                       1  
+                           10,000 shares par value $0.0001 Class A issued on December 31, 2015
+                           Additional Paid in capital                                                                                                        
+                           Common stock, ($0.0001) par value, 100,000,000 shares authorized and                                     2,627                   2,622  
+                           25,926,900 and 25,876,900 shares issued and outstanding at
+                           March 31,2024 and December 31,2023, respectively
+                           Additional Paid in capital                                                                               150,028                 140,033  
+                           Subscription received - pending acceptance                                                                                        
+                           Current year Profit (Loss)                                                                               836,018                 (232,156) 
+                           (Accumulated Deficit) / Net worth, brought forward                                                       (2,158,665)             (1,926,509) 
+                           (Accumulated Deficit)  / Net worth                                                                                                
+                           TOTAL STOCKHOLDERS' EQUITY / (DEFICIT)                                                                   (1,169,992)             (2,016,010) 
+                                                                                                                                                             
+                           TOTAL LIABILITIES & STOCKHOLDERS' EQUITY (DEFICIT)                                                       $447,630                $672,869  
+                                                                                                                                    
+ 
+The accompanying notes are an integral part of the Consolidated Financial Statements
+
+2
+
+ 
+FREE FLOW, INC. & SUBSIDIARIES
+Unaudited Condensed Consolidated Statements of Operations
+ 
+                                                                                                          Three Months Ended 
+                                                                                                               March 31,
+                                                                                                       2024                 2023
+                                                                                                                      
+                     Revenue                                                                                          
+                     Sales                                                                      $2,850               $956  
+                                                                                                                      
+                     Total Revenues                                                             2,850                $956  
+                     Cost of Goods Sold                                                         670                  9,811  
+                                                                                                                      
+                     Gross Profit                                                               2,180                (8,855) 
+                                                                                                                      
+                     Operating Expenses                                                                               
+                     Selling, General & Administrative Expenses                                 365,783              13,449  
+                     Depreciation Expenses                                                      -                    -  
+                                                                                                                      
+                     Operating Income (Loss)                                                    (363,603)            (22,304) 
+                                                                                                                      
+                     Other Income (Expense)                                                                           
+                                                                                                                      
+                     Gain on Sale of Assets                                                     1,199,622            -  
+                     Other Income                                                               -                    2,875  
+                                                                                                                      
+                     Net Profit / (Loss)                                                        836,018              (19,429) 
+                                                                                                                      
+                     BASIS INCOME (LOSS) PER SHARE                                              0.033                (0.001) 
+                                                                                                                      
+                     WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING                       25,926,900           24,841,900  
+ 
+The accompanying notes are an integral part of the Unaudited Condensed Consolidated Financial Statements
+
+3
+
+ 
+FREE FLOW, INC. & SUBSIDIARIES
+Unaudited Condensed Consolidated Statements of Cash Flows
+ 
+                                                                                                          Three Months Ended 
+                                                                                                               March 31,
+                                                                                                       2024                2023
+                     CASH FLOW FROM OPERATING ACTIVITIES                                                              
+                     Net Profit /(Loss)                                                         $836,018             $(19,429) 
+                     Adjustments to reconcile net income to net cash provided                                         
+                     by operating activities:
+                     Gain on Sale of Asset                                                      (1,211,318)          -   
+                     Changes in assets and liabilities :                                                              
+                     Trade Receivables                                                          (13,302)             1,743  
+                     Inventories                                                                2,400                438  
+                     Note Receivable                                                            (300,000)            -  
+                     Trade Payable                                                              68,190               7,700  
+                     Notes Payable                                                              (1,000)              -  
+                     Improvement in progress                                                    11,697                
+                     Incredible Bank Loan - Express Loan                                        (299,212)            -  
+                     Incredible Bank Loan - PLP Loan                                            (839,235)            -  
+                                                                                                                      
+                     NET CASH (USED IN)  OPERATING ACTIVITIES                                   (1,745,762)          (9,548) 
+                                                                                                                      
+                     CASH FLOW FROM INVESTING ACTIVITIES                                                              
+                     Proceeds from sale of asset                                                1,700,000            -  
+                                                                                                                      
+                     NET CASH PROVIDED BY INVESTING ACTIVITIES                                  1,700,000            -  
+                                                                                                                      
+                     CASH FLOW FROM FINANCING ACTIVITIES                                                              
+                     Proceeds / (Repayment ) from notes payable                                                      2,500  
+                     Repayment to Pay Pal Advance                                               -                    (4,011) 
+                     Proceeds from Loan from River Valley Bank                                  -                    (4,000)  
+                     Proceeds from Subscription Money                                           10,000               -  
+                                                                                                                      
+                     NET CASH (USED IN) / PROVIDED BY FINANCING ACTIVITIES                      10,000               $(5,511) 
+                                                                                                                      
+                     NET INCREASE /(DECREASE) IN CASH AND CASH EQUIVALENTS                      (35,762)             (15,060) 
+                                                                                                                      
+                     CASH AND CASH EQUIVALENTS IN THE BEGINNING OF PERIOD                       39,521               17,274  
+                                                                                                                      
+                     CASH AND CASH EQUIVALENTS AT THE END OF  PERIOD                            $3,759               $2,214  
+ 
+The accompanying notes are an integral part of the Unaudited Condensed Consolidated Financial Statements
+
+4
+
+ 
+                                                                      FREE FLOW, INC. & SUBSIDIARIES 
+                                                    Unaudited Condensed Consolidated Statements of Stockholders' Equity
+                                                                                                                                          
+                                                                                                                                          
+                                                                                  ADDITIONAL                                                       TOTAL
+                               COMMON STOCK              PREFERRED STOCK             PAID-IN            SUBSCRIPTION         RETAINED           STOCKHOLDERS'
+                          SHARES        AMOUNT        SHARES       AMOUNT           CAPITAL              RECEIVED           EARNINGS              EQUITY
+                                                    Series -A                                                                                         
+       Balance as of   25,876,900    $2,622        10,000       $1.00         $140,033            $-                     $(2,158,665)    $(2,016,009) 
+         January 1,
+        2024
+       Subscription    50,000        5             -            -             9,995                                      -               $10,000  
+        Received
+        
+       Net Income /    -             -             -            -             -                   -                      836,018         $836,018  
+        (loss)
+                                                                                                                                          
+       Balance as of   25,926,900    $2,627        10,000       $1.00         $150,028            $-                     $(1,322,647)    $(1,169,991) 
+         March 31,
+        2024
+                                                                                                                                          
+ 
+                                                                                   ADDITIONAL                                                       TOTAL
+                                COMMON STOCK              PREFERRED STOCK             PAID-IN            SUBSCRIPTION         RETAINED           STOCKHOLDERS'
+                           SHARES        AMOUNT        SHARES       AMOUNT           CAPITAL              RECEIVED           EARNINGS              EQUITY
+                                                     Series -A                                                                                         
+        Balance as of   26,221,000    $2,622        10,000       $1.00         $129,033            $-                     $(1,926,509)    $(1,794,853) 
+          January 1,
+         2023
+        Subscription    -             -             -            -             -                   -                      -               $-  
+         Received
+         
+        Net Income /    -             -             -            -             -                                          (19,429)        $(19,429) 
+         (loss)
+                                                                                                                                           
+        Balance as of   26,221,000    $2,622        10,000       $1.00         $129,033            $-                     $(1,945,938)    $(1,814,282) 
+         March 31,
+         2023
+ 
+The accompanying notes are an integral part of the Unaudited Condensed Consolidated Financial Statements
+
+5
+
+Free Flow, Inc. and Subsidiaries
+Notes to Unaudited Condensed Consolidated Financial Statements
+March 31, 2024 and 2023
+NOTE 1 – ORGANIZATION AND DESCRIPTIONS 
+Free Flow, Inc. (the "Company") was incorporated on October 28, 2011 under the laws of State of Delaware to enter the green energy industry. It began with the idea of developing swimming pool solar pump system. The solar energy business became very volatile due to constant decline in prices of solar panels. The Company could not conclude any business in the solar energy sector. In February 2016 the Company formed a subsidiary namely JK Sales, Corp. (name changed to “Accurate Auto Sales, Inc.”) and began the business of selling used auto parts.  
+Accurate Auto Sales, Inc., at a 19+ acre facility that it owned, in King George, VA, bought end of life and wrecked automobiles from Insurance Auctions and disassembled the same to parts. After the dis-assembly these parts were labelled and stored at its warehouse, the inventory is uploaded and sold through a very sophisticated internet network. The primary customers were auto body and mechanic shops. Accurate Auto Parts, Inc. sold this facility on March 4, 2024 and is now looking into trading of used auto parts.  
+In December 2020 the Company acquired the Assets of Inside Auto Parts, Inc. incorporated in 1993, which is centrally located between Richmond, Charlottesville, and Fredericksburg, Virginia with easy access to main transport routs. The salvage dealership, specializing in used foreign car and truck parts has been acquired by Free Flow, Inc. subsidiary named “FFLO - Inside Auto Parts, Inc.” and has 21,953.9 square feet fully enclosed and another 17,392.35 square feet under roof enclosed on 3 sides, all located on 16 acres of land in Mineral, Virginia then owned by FFLO. After over a year the assets were resold to the seller. The primary reason not to continue was the Company’s inability to get financing to pay off acquisition debt.
+Subsequent to receipt, by another subsidiary of FFLO – namely Motors & Metals, Inc., of an LOI from an overseas buyer the Company planned to set up a “Scrap Metal Processing” plant and sought funding for equipment. A contract for purchase of equipment was intended to be executed with a Chinese equipment manufacturer, but due to Covid 19 pandemic the transaction came to a halt. Also, the Government of China put an embargo to finance US projects. However, Motors & Metals, Inc., diversified its efforts and began in physical trading of scrap metal and continues to do so.  
+On March 4, 2024 the Company sold its 10+ acre facility for a gross sum of $1,700,000 and continues to operate the salvage yard under a concession agreement which is at will be both parties.
+We have prepared the accompanying Unaudited Condensed Consolidated Financial Statements pursuant to the U.S Securities and Exchange Commission (“SEC”) applicable to interim financial statements. Accordingly, certain information related to our significant accounting policies and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) have been condensed or omitted. Theses Unaudited Condensed Consolidated Financial Statements reflect, in the opinion of the management, all material adjustments necessary to fairly state, in all material respects, our financial position, results of operations and cash flows for the periods presented.
+Results for the interim periods are not necessarily indicative of the results that can be expected for any subsequent interim period or a full year. Theses interim financial statements should be read in conjunction with our audited consolidated financial statements and notes thereto included in our Annual Report on Form 10 – K for the year ended December 31,2023 filed with SEC on April 01, 2024 (“2023 Form10-K”).
+
+6
+
+ 
+NOTE 2 GOING CONCERN
+Future issuances of the Company's equity or debt securities will be required for the Company to continue to finance its operations and continue as a going concern. The Company's present revenues are marginally sufficient to meet operating expenses. The financial statement of the Company has been prepared assuming that the Company will continue as a going concern, which contemplates, among other things, the realization of assets and the satisfaction of liabilities in the normal course of business. The Company has incurred cumulative net losses of $2,158,665 since its inception. There are no significant fixed recurring expenses and the current receivables are far in excess of current payables, thus management has no doubt that it will continue as a going concern and recover the expenses through trading activities that are in progress.
+NOTE 3 – INCORPORATION OF SUBSIDIARY
+In February 2015, the company incorporated a subsidiary, Promedaff, Inc. and purchased a skin care product line and formulations for $2,000,000 against a promissory note. An e commerce platform was set up for sales and marketing. The efforts did not bear any success and the entire inventory was sold through the Seller and the Promissory Note was cancelled and marked “VOID”. The name of this entity has been changed to Motors & Metals, Inc. In August 2018 Motors & Metals, Inc. received firm expression of interest from an overseas buyer willing to place long term purchase orders to buy 3,000 to 5,000 MT of Processed Scrap Metal. For over eight (8) months, the management scouted around to find a seller but learnt that no scrap metal processor was willing to entertain the business due to their loyalty agreements they have with their Buyer(s). Ultimately, the management decided to set up its own Scrap Metal Processing facility at the company owned 20 acre facility in King George, Virginia. Since the facility has been sold, thus this plan is no longer being pursued.
+As reported in 10Qs for the earlier quarters, as well as in 10-K for the Annual reports, on February 4, 2016 the company incorporated another subsidiary in the State of Virginia under the name of JK Sales, Corp. (on December 7, 2017 the name was changed to Accurate Auto Parts, Inc.,) and has since remained in the business of buying end of life and salvage vehicles and selling auto parts.
+On April 17, 2018 the company incorporated in Virginia, another subsidiary named Accurate Investments, Inc. the objectives of acquiring real estate property, which plan did not materialize. However, Accurate Investments, Inc. continues to pursue other investment opportunities that could add revenues to the Company.
+On January 4, 2017 the company incorporated in Virginia another subsidiary named City Autos, Corp. with the objectives of operating an auto dealership and has finally commenced operations. Free Flow Auto Auction, an on-line auto auction platform is expected to be launched by the end of third quarter.
+On December 22, 2020 the company through another subsidiary named FFLO – Inside Auto Parts, Inc. acquired the assets and business of an auto recycling entity located on a 16 acre facility in Mineral, Virginia. These assets through an amicable settlement, were resold to the seller in January 2022 due to reason that company failed to obtain to financing to redeem the promissory note given to the Seller.
+NOTE 4 – RELATED PARTY
+As of December 31, 2023, the Company had a note payable in the amount of $9,634 to Redfield Holdings, Ltd. a related party. During the three months ended March 31, 2024 there was no change in the amount owed. The note is unsecured and does not bear any interest and has a maturity date of December 30, 2023.
+Redfield Holdings Ltd. is 100% owned by the CEO.
+
+7
+
+ 
+NOTE 5 – CAPITAL STOCK
+The Company has authorized 100,000,000 shares of common shares with a par value of $0.0001 per shares and 20,000,000 shares of preferred stock, with a par value of $0.0001 per shares.
+On August 5, 2020 the company filed the following Amendment to the Capital Stock:
+The amount of the total Common Stock of the corporation is Hundred Million (100,000,000) shares of Common Stock, par value ($.0001) per shares. 
+The total amount of Preferred Stock of the corporation is Twenty Million (20,000,000) shares, par value ($.0001) per share. The preferences being that there will be various series of Preferred Share, such preferences are more specifically defined as under along with the number of shares allocated to each series:
+Series “A”: Number of shares allocated are Ten Thousand (10,000) – par value $.0001 per share; one share of this class of Preferred Stock Series “A” will carry voting rights equal to Ten Thousand (10,000) shares of Common Shares; thus the voting rights attributed to all of these 10,000 shares would be equal to One Hundred Million common shares.
+Series “B”: Number of shares allocated are Five Hundred Thousand (500,000) – par value $.0001 per share; one share of this class of Preferred Stock Series “B” will carry voting rights equal to one share of Common Shares; and are redeemable with 365 days’ notice.
+Series “C”: Number of shares allocated are Five Hundred Thousand (500,000) – par value $.0001 per share; one share of this class of Preferred Stock Series “C” will carry voting rights equal to one share of Common Shares and could be used to assign corresponding capital in to any subsidiary of Free Flow, Inc. with a view to extend comfort to any lender. Such shares are redeemable upon such lender authorizing the redemption of capital in the respective subsidiary company.
+Series “D”:  Number of shares allocated are Fifteen Million  (15,000,000) – par value $.0001 per share; one share of this class of Preferred Stock Series “D” will carry voting rights equal to one share of Common Shares This series of shares could be issued against subscription of any amount as the board of directors and/or majority of the shareholders approve. Series “D” shares could be converted in to common shares as approved by the majority shareholders.
+Series “E”: Number of shares allocated are Three Million Nine Hundred Ninety Thousand (3,990,000) – par value $.0001 per share; one share of this class of Preferred Stock Series “E” will carry voting rights equal to one share of Common Shares This series of shares could be issued against subscription in cash or kind including but not limited to subscription directly into capital account of any subsidiary for any amount as the board of directors and/or majority of the shareholders approve. Series “E” shareholders could be entitled to a specifically defined profit sharing in a specific project or transaction(s). Series E shares could be redeemable and/or converted in to common shares as agreed between the subscriber(s) and approved by the majority shareholders and/or by the Board of Directors of the Company. 
+The amendment effected herein was authorized by the affirmative vote of the holders of a majority of the outstanding shares entitled to vote thereon at a meeting of the shareholders pursuant to Section 242 of the General Corporation Law of the State of Delaware.
+
+8
+
+ 
+Pursuant to the resolution of the shareholders meeting held on March 30, 2015 the Company designated 500,000 shares of the preferred authorized shares as preferred shares – Series “B” shares. The preferred shares – Series “B” were assigned the following preferences:
+a)Each share to carry one vote. 
+b)Each share will be redeemable with a 365 days written notice to the company. 
+c)Each share will be junior to any debt incurred by the Company.  
+d)The redemption value will be the par value at which such “preferred shares – series B” are bought by the subscriber. 
+e)Each share will carry a dividend right at par with the common shares. 
+On December 31, 2014 the Company had a Note outstanding in the principal amount of $330,000 plus interest payable to GS Pharmaceuticals, Inc. By mutual consent this note and accrued interest was converted to 330,000 preferred shares – Series “B”.
+On March 31, 2015 an amount of $58,000 was subscribed by Redfield Holdings, Ltd. by cancellation of a Note against the issuance of 9,700 shares of preferred shares – Series “A”. These shares were issued to Redfield Holding, Ltd. thus making a total of entire designated preferred shares – Series “A” shares to Redfield Holdings, Ltd. Each share of preferred shares – Series “A” carries voting right equal to 10,000 common shares. 
+On September 30, 2017 total preferred shares issued and outstanding are 10,000 Series “A” and 330,000 Series “B”. 
+On April 2, 2019, in a private transaction the Company accepted a sum of $14,490.00 against issuance of 21,000 restricted Common shares of the Company. Thus the total common shares issued and outstanding as on September 30, 2019 stood at 26,221,000.
+On August 17, 2020 the Company completed its Private Placement Memorandum to raise $19.5 million with no minimum, against issuance of 15,000,000 Series “D” shares at a price of $1.30 per share. The memorandum can be accessed on Company’s website, i.e., www.FreeFlowPLC.com.
+NOTE 6 – SUBSEQUENT EVENTS
+Nothing to report.
+
+9
+
+ 
+ITEM 2. MANAGEMENT’S DISCUSSION AND ALALYIS OR PLAN OF OPERATION
+ 
+THE FOLLOWING DISCUSSION SHOULD BE READ IN CONJUNCTION WITH OUR UNAUDITED FINANCIAL STATEMENTS AND NOTES THERETO INCLUDED HEREIN. IN CONNECTION WITH, AND BECAUSE WE DESIRE TO TAKE ADVANTAGE OF, THE “SAFE HARBOR” PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995, WE CAUTION READERS REGARDING CERTAIN FORWARD LOOKING STATEMENTS IN THE FLOWING DISCUSSION AND ELSEWHERE IN THE THIS REPORT AND IN ANY OTHER STATEMENT MADE BY, OR AN BEHALF, WHETHER OR NOT IN FUTURE FILINGS WITH THE SECURITIES AND EXCHANGE COMMISSION, FORWARD-LOOKING STATEMENTS ARE STATEMENT NOT BASED ON HISTORICAL INFORMATION AND WHICH RELATE TO FUTURE OPERATIONS, STRATEGIES, FINANCIAL RESULTS OR OTHER DEVELOPMENTS. FORWARD-LOOKING STATEMENTS ARE NECESSARILY BASED UPON ESTIMATES AND ASSUMPTIONS THAT ARE INHERENTLY SUBJECT TO SIGNIFICANT BUSINESS, ECONOMIC AND COMPETITIVE UNCERTAINTIES, MANY OF WHICH ARE BEYOND OUR CONTROL AND MANY OF WHICH, WITH RESPECT TO FUTURE BUSINESS DECISIONS, ARE SUBJECT TO CHANGE, THESE UNCERTAINTIES AND CONTINGENCIES CAN AFFECT ACTUAL RESULTS AND COULD CAUSE ACTUAL RESULTS TO DIFFER MATERIALLY FORM THOSE EXPRESSED IN ANY FORWARD-LOOKING STATEMENTS AND COULD CAUSE ACTUAL RESULTS TO DIFFER MATERIALLY FROM THOSE EXPRESSED IN ANY FORWARD LOOKING STATEMENTS MADE BY, OR ON OUR BEHALF, WE DIS TO UPDATE FORWARD-LOOKING STATEMENTS.
+ 
+PLAN OF OPERATION
+Auto Parts Division:
+The company has decided to only trade in auto parts business.
+Motors & Metal, Inc.:
+Having shelved the plan to set up a scrap metal processing plant at its facility in King George, as the purchase orders of customers from abroad are still active, the management in addition to trading in scrap metal may continue pursuing setting up its own facility. 
+RESULTS OF OPERATIONS
+The Company did recognize revenue for a sum of $2,850 during the three months ended March 31, 2024 and $956 of revenues during the three months ended March 31, 2023. The net revenues for the period ended March   31, 2024 were greater by $1,894 than for the same period during 2023 and the Cost of Goods Sold was low by $9,141during the period ended March 31,2024, as compared to the same period during 2023. There is Gross Profit of $ 2,180 as on March 31, 2024 as compared to the Gross Loss of $ 8,855 for the same period during 2023.  
+During the three months ended March 31, 2024, the Company incurred operational expenses of $365,783. This compares to $13,449 for the three months ended March 31, 2023. This increase in operational expenses due to markup and other bank loan adjustment expenses. 
+During the three months ended March 31, 2024 the company recognized a net profit of $847,715 as compared to the net loss of $ 19,429 for the corresponding period in the year 2023, mainly due to gain of $ 1,211,318 on sale of asset. 
+The tax returns for the previous year has been filed and due to loss there is no tax liability.
+The Company’s office continues to be relocated at 6269 Caledon Road, King George, VA 22485.
+LIQUIDITY
+The Independent Registered Public Accounting Firm’s report on the Company’s FINANCIAL STATEMENTS AS OF DECEMBER 31, 2017, AND FOR EACH OF THE PRECEDING YEARS THEN ENDED, INCLUDES A “GOING CONCERN” EXPLANATORY PARAGRAPH, THAT DESCRIBES SUBSTANTIALLY DOUBT ABOUT THE COMPANY’S ABILITY TO CONTINUE AS A GOING CONCERN. 
+
+10
+
+On March 31,2024 the Company had total current assets of $447,628 consisting of $3,759 in cash and $108,742 as trade receivables, refund due from IRS $32,730, note receivable $ 300,000 and $ 2,400 of Inventory.
+NEED FOR ADDITONAL CAPITAL 
+The Company does not have capital sufficient to meet its expansion Capital needs. The Company will have to seek loans or Equity placements to cover such cash needs.
+No commitments to provide additional funds have been made by the Company’s management or other stockholders. Accordingly, there can be no assurance that any additional funds will be available to the Company to allow it to cover the Company’s expansion budget.
+REVENUE RECOGNITION
+The Company recognizes revenues on arrangements in accordance with Securitas and Exchange Commission Staff Accounting Bulletin Topic 13, REVENUE RECOGNITION and FASB ASC 605-15-25, REVENUE RECONGNITION. In all cases, revenue is recognized only when the price is fixed or determinable, persuasive evidence of an arrangement exists, the service is performed and collectability is reasonable assured. The Company reported gross revenues of $2,924,181for the year ending December 31, 2023.
+ 
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS
+Being a Smaller Company, we are not required to provide information required by this item. 
+ 
+ITEM 4. CONTROLS AND PROCEURES
+Management's Report on Disclosure Controls and Procedures
+Management is responsible for establishing and maintaining adequate internal control so as to
+(1)  maintain the records  in reasonable detail, which will accurately and fairly reflect the transactions and dispositions of the Company's assets; 
+(2) to provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that the Company's receipts and expenditures are  made  within the delegated authority ; and 
+(3) to provide reasonable assurance for the  prevention or timely detection of unauthorized acquisition, use or disposition of the Company's assets that could have a material effect on company’s financial statements. 
+However, the management asserts that the company does not have any accounting staff due to limited financial resources though has plans to recruit gradually.  Also, this company does not have a well written document on accounting policies and procedures, though has plans to have them shortly.  Consequently, this can result in possible errors in the presentation and disclosure of financial information in our annual, quarterly, and other filings. 
+The SIC Code of 1700 as showing in Edgar for this company is no longer valid, since this company is now dealing with the auto parts, as OEM Recycled Auto Parts. Segregation of duties is an important factor in Internal Control.  Though it is achieved to a certain extent, the management is committed to strengthen the internal controls effectively in the coming months.  
+Changes in Internal Control over Financial Reporting
+ 
+There have been no changes in our internal controls over financial reporting that occurred during the period ended June 30, 2023, that have materially or are reasonably likely to materially affect, our internal controls over financial reporting.
+
+11
+
+ 
+PART II – OTHER INFORMATION
+ 
+ITEM 1. LEGAL PROCEEDINGS
+ 
+None.
+ 
+ITEM 1A. RISK FACTOR
+Not Applicable to Smaller Reporting Companies.
+ 
+ITEM 2 UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+ 
+During the period of January 1, 2015 and March 31, 2015, the Company issued 9,700 shares of Preferred Shares – Series “A” for a sum of $58,000 and 330,000 shares of Preferred Shares – Series “B” for a sum of $330,000 which were the result of conversion of certain debts of the company.
+On April 2, 2019, in a private transaction the Company accepted a sum of $14,490.00 against issuance of 21,000 restricted Common shares of the Company. Thus the total common shares issued and outstanding as on June 30, 2019 stood at 26,221,000.
+During the current quarter the company issued 1,035,000 of common shares for a sum of $11,000.00.  while 1,379,100 were cancelled. Thus, the total common shares outstanding as of June 30, 2023 are 25,876,900.
+ 
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+ 
+ITEM 4. MINE SAFETY DISCLOSURE
+Not Applicable
+ 
+ITEM 5. OTHER INFORMATION
+
+12
+
+ 
+PART II. OTHER INFORMATION
+ITEM 6.     EXHIBITS.
+The following exhibits are included with this quarterly filing.  Those marked with an asterisk and required to be filed hereunder, are incorporated by reference and can be found in their entirety in our original Registration Statement on Form S-1, filed under SEC File Number 000-54868, at the SEC website at www.sec.gov:
+ 
+                     Exhibit No.        Description
+                                         
+                     3.1                Articles of Incorporation*
+                     3.2                Bylaws*
+                     31.1               Sec. 302 Certification of Principal Executive Officer
+                     31.2               Sec. 302 Certification of Principal Financial Officer
+                     32.1               Sec. 906 Certification of Principal Executive Officer
+                     32.2               Sec. 906 Certification of Principal Financial Officer
+                     101                Interactive data files pursuant to Rule 405 of Regulation S-T
+                                         
+                                        
+
+13
+
+ 
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+                                                                           Free Flow Inc.
+                                                                           Registrant
+                                                                                   
+                                                                                   
+                     Dated:  May 20, 2024                                  By:    /s/ Sabir Saleem
+                                                                                  Sabir Saleem, Chief Executive Officer, 
+                                                                                  Chief Financial and Accounting Officer
+
+14

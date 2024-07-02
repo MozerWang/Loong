@@ -1,0 +1,3499 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM 10-Q
+
+ 
+
+ 
+
+ 
+
+☒    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024
+
+ 
+
+or
+
+ 
+
+☐    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from _______to _______
+
+ 
+
+Commission file number: 001-39389
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+GAMESQUARE HOLDINGS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+                             Delaware                                                           99-1946435
+
+                   (State or other jurisdiction                                               (IRS Employer
+
+                of incorporation or organization)                                          Identification No.)
+
+ 
+
+6775 Cowboys Way, Ste. 1335
+
+Frisco, Texas, USA 75034
+
+(Address of principal executive offices) (Zip Code)
+
+ 
+
+(216) 464-6400
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+ 
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+             Title of each class                    Trading Symbol                Name of each exchange on which registered
+
+       Common Stock, $0.0001 par value                   GAME                            The NASDAQ Stock Market LLC
+
+ 
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definition of “large accelerated filer”, “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer            ☐                                                       Accelerated filer                 ☐
+
+Non-accelerated filer              ☒                                                       Smaller reporting company         ☒
+
+                                                                                           Emerging growth company           ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by checkmark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+ 
+
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+
+ 
+
+                              Class                                                    Outstanding on May 17, 2024
+
+                 Common Stock - $0.0001 par value                                               30,362,552
+
+ 
+
+ 
+
+ 
+
+                                                                                                                                        
+
+
+
+                                                                    
+
+ 
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+ 
+
+This Quarterly Report on Form 10-Q (this “Quarterly Report”) contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) that involve substantial risks and uncertainties. These forward-looking statements depend upon events, risks and uncertainties that may be outside of our control. All statements other than statements of historical fact are forward-looking statements. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intends,” “may,” “might,” “plan,” “possible,” “potential,” “predict,” “project,” “should,” “would” and similar expressions may identify forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking. Forward-looking statements include, without limitation, our expectations concerning the outlook for our business, productivity, plans and goals for future operational improvements and capital investments, operational performance, future market conditions or economic performance and developments in the capital and credit markets and expected future financial performance, as well as any information concerning possible or assumed future results of operations.
+
+ 
+
+Forward-looking statements involve a number of risks, uncertainties and assumptions, and actual results or events may differ materially from those projected or implied in those statements. Important factors that could cause such differences include, but are not limited to:
+
+ 
+
+     ●    the sufficiency of our cash and investments to meet our liquidity needs;
+
+           
+
+     ●    our limited operating history and uncertain future prospects and rate of growth due to our limited operating history,
+
+           including our ability to implement business plans and other
+
+           expectations;
+
+           
+
+     ●    our ability to grow market share in our existing markets or any new markets we may enter;
+
+           
+
+     ●    our ability to maintain and grow the strength of our brand reputation;
+
+           
+
+     ●    the Company’s ability to achieve its objectives;
+
+           
+
+     ●    our ability to manage our growth effectively;
+
+           
+
+     ●    our ability to retain existing and attract new Esports professionals, content creators and influencers;
+
+           
+
+     ●    our success in retaining or recruiting, or changes required in, our officers, directors and other key employees or
+
+           independent
+
+           contractors;
+
+           
+
+     ●    our ability to maintain and strengthen our community of brand partners, engaged consumers, content creators, influencers and
+
+           Esports professionals, and the success of our strategic relationships with these and other third
+
+           parties;
+
+           
+
+     ●    our ability to effectively compete within the industry;
+
+           
+
+     ●    our presence on the internet and various third-party mass media platforms;
+
+           
+
+     ●    risks related to data security and privacy, including the risk of cyber-attacks or other security incidents;
+
+           
+
+     ●    risks resulting from our global operations;
+
+           
+
+     ●    our ability to maintain the listing of our Common Stock on Nasdaq;
+
+           
+
+     ●    our securities’ potential liquidity and trading, including that the price of our securities may be volatile;
+
+           
+
+     ●    future issuances, sales or resales of our securities;
+
+           
+
+     ●    the grant and future exercise of registration rights;
+
+ 
+
+                                                                                                                                        
+
+
+
+                                                                    
+
+ 
+
+     ●    our ability to secure future financing, if needed, and our ability to repay any future indebtedness when due;
+
+           
+
+     ●    the ability of the Company to complete offerings on acceptable terms;
+
+           
+
+     ●    the impact of the regulatory environment in our industry and complexities with compliance related to such environment,
+
+           including our ability to comply with complex regulatory
+
+           requirements;
+
+           
+
+     ●    our ability to maintain an effective system of internal controls over financial reporting;
+
+           
+
+     ●    our ability to respond to general economic conditions, including market interest rates;
+
+           
+
+     ●    our ability to execute on future acquisitions, mergers or dispositions; and
+
+           
+
+     ●    changes to accounting principles and guidelines.
+
+ 
+
+We caution you not to rely on forward-looking statements, which reflect current beliefs and are based on information currently available as of the date a forward-looking statement is made. Forward-looking statements set forth herein speak only as of the date of this Quarterly Report on Form 10-Q. Forward-looking statements are not guarantees of performance. There can be no assurance that future developments affecting us will be those that we have anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond our control) or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. Other sections of this report describe additional factors that could adversely affect our business, financial condition or results of operations. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements.
+
+ 
+
+We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws. In the event that any forward-looking statement is updated, no inference should be made that we will make additional updates with respect to that statement, related matters, or any other forward-looking statements except to the extent required by law. All forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the foregoing cautionary statements. Any corrections or revisions and other important assumptions and factors that could cause actual results to differ materially from forward-looking statements may appear in our public filings with the U.S. Securities and Exchange Commission (“SEC”), which are or will be (as appropriate) accessible at www.sec.gov, and which you are advised to consult.
+
+ 
+
+                                                                                                                                        
+
+
+
+                                                                    
+
+ 
+
+GAMESQUARE HOLDINGS, INC.
+
+INDEX
+
+ 
+
+                                                                                                                               Page
+
+               PART I – FINANCIAL INFORMATION                                                                                    
+
+Item 1.        Financial Statements (Unaudited)                                                                                  
+
+               Condensed Consolidated Balance Sheets – March 31, 2024 and December 31, 2023                                     1
+
+               Condensed Consolidated Statements of Operations and Other Comprehensive (Loss) Income - Three Months Ended       2
+
+                March 31, 2024 and
+
+                2023
+
+               Condensed Consolidated Statements of Stockholders’ Equity – Three Months Ended March 31, 2024 and 2023           3
+
+               Condensed Consolidated Statements of Cash Flows - Three Months Ended March 31, 2024 and 2023                     4
+
+               Notes to Condensed Consolidated Financial Statements                                                             6
+
+Item 2.        Management’s Discussion and Analysis of Financial Condition and Results of Operations                            24
+
+Item 3.        Quantitative and Qualitative Disclosures about Market Risk                                                       38
+
+Item 4.        Controls and Procedures                                                                                          38
+
+               PART II – OTHER INFORMATION                                                                                       
+
+Item 1.        Legal Proceedings                                                                                                39
+
+Item 1A.       Risk Factors                                                                                                     40
+
+Item 2.        Unregistered Sales of Equity Securities and Use of Proceeds                                                      40
+
+Item 3.        Defaults Upon Senior Securities                                                                                  40
+
+Item 4.        Mine Safety Disclosures                                                                                          40
+
+Item 5.        Other Information                                                                                                40
+
+Item 6.        Exhibits                                                                                                         41
+
+               Exhibit Index                                                                                                    41
+
+               Signatures                                                                                                       42
+
+ 
+
+                                                                                                                                        
+
+
+
+                                                                    
+
+ 
+
+PART I – FINANCIAL INFORMATION
+
+ 
+
+ITEM 1. FINANCIAL STATEMENTS
+
+ 
+
+GAMESQUARE HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(unaudited)
+
+ 
+
+                                                                                         March 31,                December 31,       
+
+                                                                                            2024                      2023
+
+Assets                                                                                                                             
+
+Cash                                                                               $            7,173,871   $            2,945,373 
+
+Restricted cash                                                                                   647,610                   47,465 
+
+Accounts receivable, net                                                                       25,844,156               16,459,684 
+
+Government remittances                                                                          1,347,305                1,665,597 
+
+Contingent consideration, current                                                                 207,673                  207,673 
+
+Prepaid expenses and other current assets                                                       2,995,649                  916,740 
+
+Total current assets                                                                           38,216,264               22,242,532 
+
+Investment                                                                                      2,673,472                2,673,472 
+
+Contingent consideration, non-current                                                             293,445                  293,445 
+
+Promissory note receivable                                                                      7,125,628                        - 
+
+Property and equipment, net                                                                       795,560                2,464,633 
+
+Goodwill                                                                                       22,789,949               16,303,989 
+
+Intangible assets, net                                                                         27,898,454               18,574,144 
+
+Right-of-use assets                                                                             2,071,328                2,159,693 
+
+Total assets                                                                       $          101,864,100   $           64,711,908 
+
+Liabilities and Shareholders’ Equity                                                                                               
+
+Accounts payable                                                                   $           30,238,124   $           23,493,472 
+
+Accrued expenses and other current liabilities                                                 13,561,775                5,289,149 
+
+Players liability account                                                                          47,545                   47,465 
+
+Deferred revenue                                                                                4,193,032                1,930,028 
+
+Current portion of operating lease liability                                                      375,155                  367,487 
+
+Line of credit                                                                                  4,232,425                4,518,571 
+
+Warrant liability                                                                                  62,818                  102,284 
+
+Arbitration reserve                                                                               333,499                  428,624 
+
+Total current liabilities                                                                      53,044,373               36,177,080 
+
+Convertible debt carried at fair value                                                          8,394,207                8,176,928 
+
+Operating lease liability                                                                       1,898,247                1,994,961 
+
+Total liabilities                                                                              63,336,827               46,348,969 
+
+Commitments and contingencies (Note 14)                                                                 -                        - 
+
+Preferred stock (no par value, unlimited shares authorized, zero                                        -                        - 
+
+shares issued and outstanding as of March 31, 2024 and 
+
+December 31, 2023, respectively)
+
+Common stock (no par value, unlimited shares authorized,                                                -                        - 
+
+30,316,256 and 12,989,128 shares issued and outstanding as of 
+
+March 31, 2024 and December 31, 2023, respectively)
+
+Additional paid-in capital                                                                    116,786,455               91,915,169 
+
+Accumulated other comprehensive loss                                                              421,915                 (132,081)
+
+Accumulated deficit                                                                           (78,681,097)             (73,420,149)
+
+Total shareholders’ equity                                                                     38,527,273               18,362,939 
+
+Total liabilities and shareholders’ equity                                         $          101,864,100   $           64,711,908 
+
+ 
+
+See accompanying notes to Condensed Consolidated Financial Statements.
+
+ 
+
+                                                                   1
+
+ 
+
+ 
+
+GAMESQUARE HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+(unaudited)
+
+ 
+
+                                                                                              Three months ended March 31,            
+
+                                                                                            2024                      2023           
+
+Revenue                                                                            $           17,728,224   $            2,790,061 
+
+Cost of revenue                                                                                14,335,067                1,511,217 
+
+Gross profit                                                                                    3,393,157                1,278,844 
+
+Operating expenses:                                                                                                                
+
+General and administrative                                                                      4,918,630                2,641,680 
+
+Selling and marketing                                                                           2,221,653                  741,028 
+
+Research and development                                                                          685,153                        - 
+
+Depreciation and amortization                                                                     755,449                  140,480 
+
+Restructuring charges                                                                                   -                  283,898 
+
+Other operating expenses                                                                        1,093,420                  484,309 
+
+Total operating expenses                                                                        9,674,305                4,291,395 
+
+Loss from continuing operations                                                                (6,281,148)              (3,012,551)
+
+Other income (expense), net:                                                                                                       
+
+Interest expense                                                                                 (435,128)                 (23,097)
+
+Change in fair value of convertible debt carried at fair value                                   (106,601)                       - 
+
+Change in fair value of warrant liability                                                          37,257                        - 
+
+Arbitration settlement reserve                                                                     95,125                        - 
+
+Other income (expense), net                                                                      (117,270)                    (932)
+
+Total other income (expense), net                                                                (526,617)                 (24,029)
+
+Loss from continuing operations before income taxes                                            (6,807,765)              (3,036,580)
+
+Income tax benefit                                                                                      -                    5,027 
+
+Net loss from continuing operations                                                            (6,807,765)              (3,031,553)
+
+Net income (loss) from discontinued operations                                                  1,546,817               (1,313,881)
+
+Net loss                                                                           $           (5,260,948)  $           (4,345,434)
+
+                                                                                                                                   
+
+Comprehensive loss, net of tax:                                                                                                    
+
+Net loss                                                                           $           (5,260,948)  $           (4,345,434)
+
+Change in foreign currency translation adjustment                                                 553,996                   (6,649)
+
+Comprehensive loss                                                                 $           (4,706,952)  $           (4,352,083)
+
+                                                                                                                                   
+
+Income (loss) per common share attributable to GameSquare                                                                          
+
+Holdings, Inc. - basic and assuming dilution:
+
+From continuing operations                                                         $                (0.39)  $                (0.55)
+
+From discontinued operations                                                                         0.09                    (0.24)
+
+Loss per common share attributable to GameSquare Holdings,                         $                (0.30)  $                (0.78)
+
+Inc. - basic and assuming dilution
+
+Weighted average common shares outstanding - basic and diluted                                 17,368,512                5,557,690 
+
+ 
+
+See accompanying notes to Condensed Consolidated Financial Statements.
+
+ 
+
+                                                                   2
+
+ 
+
+ 
+
+GAMESQUARE HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+(unaudited)
+
+ 
+
+                                        Common stock         Additional paid-  Accumulated other     Accumulated       Shareholders’   
+
+                                                                                  comprehensive
+
+                                                                                     (loss)
+
+                                     Shares      Par value     in capital           income            deficit            equity       
+
+Balance, January 1, 2024              12,989,128  $          $    91,915,169  $         (132,081) $   (73,420,149) $     18,362,939 
+
+                                                           
+
+                                                          -
+
+Acquisition of Faze Clan              10,132,884          -       14,587,000                   -                -        14,587,000 
+
+Private placements, net of             7,194,244          -        9,865,058                   -                -         9,865,058 
+
+ issuance
+
+ costs
+
+Share-based compensation -                     -          -          419,228                   -                -           419,228 
+
+ options and
+
+ RSUs
+
+Other comprehensive income                     -          -                -             553,996                -           553,996 
+
+Net loss                                       -          -                -                   -       (5,260,948)       (5,260,948)
+
+Balance, March 31, 2024               30,316,256  $       -  $   116,786,455  $          421,915  $   (78,681,097) $     38,527,273 
+
+                                                                                                                                    
+
+Balance, January 1, 2023               6,352,270  $       -  $    49,672,443  $         (269,053) $   (42,137,722) $      7,265,668 
+
+Issuance of common shares to              29,359          -                -                   -                -                 - 
+
+ settle contingent
+
+ consideration
+
+Common shares issued upon                 99,329          -                -                   -                -                 - 
+
+ vesting of
+
+ RSUs
+
+Shares issued to settle                    9,109          -           66,154                   -                -            66,154 
+
+ outstanding amounts
+
+ payable
+
+Share-based compensation -                     -          -          565,380                   -                -           565,380 
+
+ options and
+
+ RSUs
+
+Other comprehensive loss                       -          -                -              (6,649)               -            (6,649)
+
+Net loss                                       -          -                -                   -       (4,345,434)       (4,345,434)
+
+Balance, March 31, 2023                6,490,067  $       -  $    50,303,977  $         (275,702) $   (46,483,156) $      3,545,119 
+
+ 
+
+See accompanying notes to Condensed Consolidated Financial Statements.
+
+ 
+
+                                                                   3
+
+ 
+
+ 
+
+GAMESQUARE HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(unaudited)
+
+ 
+
+                                                                                              Three months ended March 31,            
+
+                                                                                            2024                      2023           
+
+Cash flows from operating activities:                                                                                              
+
+Net loss                                                                           $           (5,260,948)  $           (4,345,434)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                        
+
+Amortization and depreciation                                                                     981,998                  497,202 
+
+Amortization of operating lease right-of-use assets                                                88,365                   94,158 
+
+Gain on disposition of Complexity                                                              (3,009,891)                       - 
+
+Change in fair value of warrant liability                                                         (37,257)                       - 
+
+Change in fair value of arbitration reserve                                                       (95,125)                       - 
+
+Change in fair value of convertible debt carried at fair value                                    106,601                        - 
+
+Income tax recovery                                                                                     -                   (5,027)
+
+Bad debt                                                                                                -                    8,680 
+
+Non-cash interest expense                                                                               -                   77,635 
+
+Share-based compensation                                                                          419,228                  565,380 
+
+Changes in operating assets and liabilities:                                                                                       
+
+Accounts receivable, net                                                                       (3,653,682)               2,387,334 
+
+Government remittances                                                                            (33,365)                       - 
+
+Prepaid expenses and other current assets                                                        (920,355)                 444,011 
+
+Accounts payable, accrued expenses and other current                                            2,852,196                   13,310 
+
+liabilities
+
+Deferred revenue                                                                                  635,661                 (315,583)
+
+Operating lease liability                                                                         (89,046)                 (79,866)
+
+Net cash used in operating activities                                                          (8,015,620)                (658,200)
+
+Cash flows from investing activities:                                                                                              
+
+Purchase of property and equipment                                                                   (758)                       - 
+
+Payment of contingent consideration on Zoned                                                            -                 (120,000)
+
+Cash acquired in Faze Clan acquisition                                                          2,406,812                        - 
+
+Disposal of Complexity, net of cash disposed                                                      328,284                        - 
+
+Net cash provided by investing activities                                                       2,734,338                 (120,000)
+
+Cash flows from financings activities:                                                                                             
+
+Proceeds from private placements                                                               10,000,000                        - 
+
+Payment of equity issuance costs                                                                 (134,942)                       - 
+
+Repayment of principal on convertible debt                                                       (100,000)                       - 
+
+Proceeds (repayments) on line of credit, net                                                     (286,146)                       - 
+
+Net cash provided by financing activities                                                       9,478,912                        - 
+
+Effect of exchange rate changes on cash and restricted cash                                       631,013                  (10,582)
+
+Net increase (decrease) in cash and restricted cash                                             4,828,643                 (788,782)
+
+Cash and restricted cash, beginning of period                                                   2,992,838                  977,413 
+
+Cash and restricted cash, end of period                                            $            7,821,481   $              188,631 
+
+ 
+
+See accompanying notes to Condensed Consolidated Financial Statements.
+
+ 
+
+                                                                   4
+
+ 
+
+ 
+
+GAMESQUARE HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (CONTINUED)
+
+(unaudited)
+
+ 
+
+                                                                                              Three months ended March 31,            
+
+                                                                                            2024                      2023           
+
+Supplemental disclosure with respect to cash flows:                                                                                
+
+Cash paid for interest expense                                                     $              205,436   $                    - 
+
+Operating lease payments in operating cash flows                                                  136,452                  134,320 
+
+                                                                                                                                   
+
+Supplemental disclosure of non-cash investing and financing activities:                                                            
+
+Disposition of Complexity in exchange for promissory note                          $            7,125,628   $                    - 
+
+receivable
+
+Shares, options, and warrants issued for acquisition of FaZe                                   14,587,000                        - 
+
+Shares issued to settle legal and other amounts payable                                                 -                   66,154 
+
+ 
+
+Reconciliation of cash and restricted cash:
+
+ 
+
+                                                                                         March 31,                December 31,       
+
+                                                                                            2024                      2023           
+
+Cash                                                                               $            7,173,871   $            2,945,373 
+
+Restricted cash                                                                                   647,610                   47,465 
+
+Cash and restricted cash shown in the consolidated statements of                   $            7,821,481   $            2,992,838 
+
+cash flows
+
+ 
+
+                                                                   5
+
+ 
+
+ 
+
+GAMESQUARE HOLDINGS, INC.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(unaudited)
+
+ 
+
+1. Corporate information and going concern
+
+ 
+
+(a) Corporate information
+
+ 
+
+GameSquare Holdings, Inc. (“GameSquare” or the “Company”) is a corporation existing under the laws of the State of Delawre as of March 7, 2024 (and was a corporation existing under the Business Corporations Act (Province of British Columbia) prior to March 7, 2023). The registered head office of the Company is 6775 Cowboys Way, Ste. 1335, Frisco, Texas, USA, 75034.
+
+ 
+
+GameSquare, completed its Plan of Merger (the “Merger”) with FaZe Holdings, Inc. (“FaZe”) on March 7, 2024, resulting in the Company acquiring all the issued and outstanding securities of FaZe (see Note 4).
+
+ 
+
+GameSquare is a vertically integrated, digital media, entertainment and technology company that connects global brands with gaming and youth culture audiences. GameSquare’s end-to-end platform includes Gaming Community Network (“GCN”), a digital media company focused on gaming and esports audiences, Swingman LLC dba as Zoned, a gaming and lifestyle marketing agency, Code Red Esports Ltd. (“Code Red”), a UK based esports talent agency, FaZe Holdings Inc. (“FaZe”), a lifestyle and media platform rooted in gaming and youth culture whose premium brand, talent network, and large audience can be monetized across a variety of products and services, GSQ dba as Fourth Frame Studios, a creative production studio, Mission Supply, a merchandise and consumer products business, Frankly Media, programmatic advertising, Stream Hatchet, live streaming analytics, and Sideqik a social influencer marketing platform.
+
+ 
+
+(b) Going concern
+
+ 
+
+These accompanying financial statements have been prepared on a going concern basis, which contemplates that the Company will be able to realize its assets and discharge its liabilities in the normal course of business. Accordingly, they do not give effect to adjustments that would be necessary should the Company be unable to continue as a going concern, and therefore be required to realize its assets and liquidate its liabilities and commitments in other than the normal course of business and at amounts different from those in the unaudited condensed consolidated financial statements. Such adjustments could be material. It is not possible to predict whether the Company will be able to raise adequate financing or ultimately attain profit levels of operations.
+
+ 
+
+The Company has not yet realized profitable operations and has incurred significant losses to date resulting in an accumulated deficit of $78.7 million as of March 31, 2024 ($73.4 million as of December 31, 2023). The recoverability of the carrying value of the assets and the Company’s continued existence is dependent upon the achievement of profitable operations, or the ability of the Company to raise alternative financing, if necessary. While management has been historically successful in raising the necessary capital, it cannot provide assurance that it will be able to execute its business strategy or be successful in future financing activities. As of March 31, 2024, the Company had a working capital deficiency of $14.8 million (as of December 31, 2023, a working capital deficiency of $13.9 million) which is comprised of current assets less current liabilities.
+
+ 
+
+These conditions indicate the existence of a material uncertainty that cast significant doubt about the Company’s ability to continue as a going concern and, therefore, the Company may be unable to realize its assets and discharge its liabilities in the normal course of business.
+
+ 
+
+                                                                   6
+
+ 
+
+ 
+
+2. Significant accounting policies
+
+ 
+
+(a) Basis of presentation
+
+ 
+
+The accompanying unaudited condensed consolidated financial statements have been prepared following generally accepted accounting principles in the United States of America (“GAAP”) for interim financial reporting and the rules and regulations of the SEC for interim reporting. Accordingly, the unaudited condensed consolidated financial statements do not include all of the information and footnotes required by GAAP for audited financial statements. The balance sheet as of December 31, 2023 was derived from the Company’s audited consolidated financial statements but does not include all disclosures required by GAAP for annual financial statements. In management’s opinion, the interim information contains all adjustments, which include normal recurring adjustments necessary for a fair statement of the results for the interim periods. The footnote disclosures related to the interim financial information contained herein are also unaudited. Such financial information should be read in conjunction with the consolidated financial statements and related notes thereto for the year ended December 31, 2023, included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2023, which was filed with the SEC on April 16, 2024, and amended on April 30, 2024 (the “2023 Form 10-K”).
+
+ 
+
+(b) Principles of consolidation
+
+ 
+
+The unaudited condensed consolidated financial statements include the accounts of the Company, all wholly owned and majority-owned subsidiaries in which the Company has a controlling voting interest and, when applicable, variable interest entities in which the Company has a controlling financial interest or is the primary beneficiary. Investments in affiliates where the Company does not exert a controlling financial interest are not consolidated.
+
+ 
+
+All significant intercompany transactions and balances have been eliminated upon consolidation.
+
+ 
+
+The Company’s material subsidiaries as of March 31, 2024, are as follows:
+
+ Schedule of Material Subsidiaries
+
+Name of Subsidiary                                      Country of Incorporation    Ownership Percentage      Functional Currency
+
+Frankly Inc.                                                     Canada                     100%                Canadian Dollar
+
+Stream Hatchet S.L.                                              Spain                      100%                      Euro
+
+Code Red Esports Ltd.                                        United Kingdom                 100%                    UK Pound
+
+GameSquare Esports (USA) Inc. (dba as                             USA                       100%                   US Dollar
+
+Fourth Frame Studios)
+
+GCN Inc.                                                          USA                       100%                   US Dollar
+
+Faze Holdings Inc.                                                USA                       100%                   US Dollar
+
+Swingman LLC                                                      USA                       100%                   US Dollar
+
+Mission Supply LLC                                                USA                       100%                   US Dollar
+
+SideQik, Inc.                                                     USA                       100%                   US Dollar
+
+ 
+
+(c) Use of estimates
+
+ 
+
+The preparation of consolidated financial statements in accordance with GAAP requires management to make estimates and assumptions that affect the reported amount of assets and liabilities at the date of the financial statements and the reported amount of revenue and expenses during the reporting period. Management evaluates these estimates and judgments on an ongoing basis and bases its estimates on historical experience, current and expected future conditions, third-party evaluations and various other assumptions that management believes are reasonable under the circumstances. Significant estimates have been used by management in conjunction with the following: (i) valuation of warrant liabilities; (ii) valuation of convertible debt; (iii) contingent liabilities; (iv) share-based compensation; (v) assumptions used in business combinations; and (vi) testing for impairment of long-lived assets and goodwill. Actual results may differ from the estimates and assumptions used in the consolidated financial statements.
+
+ 
+
+                                                                   7
+
+ 
+
+ 
+
+(d) Revenue recognition
+
+ 
+
+Revenue is measured based on the consideration specified in a contract with a customer. The Company recognizes revenue when it transfers control of its services to a customer.
+
+ 
+
+There were no significant changes in the satisfaction of performance obligations in contracts with customer and related revenue recognition policies for the three months ended March 31, 2024. The following describes the revenue recognition policies for the revenue streams the Company acquired as a result of the Merger (see Note 4):
+
+ 
+
+Brand Sponsorships
+
+ 
+
+The Company offers advertisers a full range of promotional vehicles, including but not limited to online advertising, livestream announcements, event content generation, social media posts, logo placement on the Company’s official merchandise, and special appearances of members of the Company’s talent roster. The Company’s brand sponsorship agreements may include multiple services that are capable of being individually distinct; however the intended benefit is an association with the Company’s brand, and the services are not distinct within the context of the contracts. Revenues from brand sponsorship agreements are recognized ratably over the contract term. Payment terms and conditions vary, but payments are generally due periodically throughout the term of the contract. In instances where the timing of revenue recognition differs from the timing of billing, management has determined the brand sponsorship agreements generally do not include a significant financing component.
+
+ 
+
+Content
+
+ 
+
+The Company and its talent roster generate and produce original content which the Company monetizes through Google’s AdSense service. Revenue is variable and is earned when the visitor views or “clicks through” on the advertisement. The amount of revenue earned is reported to the Company monthly and is recognized upon receipt of the report of viewership activity. Payment terms and conditions vary, but payments are generally due within 30 to 45 days after the end of each month.
+
+ 
+
+The Company grants exclusive licenses to customers for certain content produced by the Company’s talent. The Company grants the customer a license to the intellectual property, which is the content and its use in generating advertising revenues, for a pre-determined period, for an amount paid by the customer, in most instances, upon execution of the contract. The Company’s only performance obligation is to license the content for use in generating advertising revenues, and the Company recognizes the full contract amount at the point at which the Company provides the customer access to the content, which is at the execution of the contract. The Company has no further performance obligations under these types of contracts and does not anticipate generating any additional revenue from these arrangements apart from the contract amount.
+
+ 
+
+Consumer Products
+
+ 
+
+The Company earns consumer products revenue from sales of the Company’s consumer products on the Company’s website or at live or virtual events. Revenues are recognized at a point in time, as control is transferred to the customer upon shipment. The Company offers customer returns and discounts through a third-party distributor and accounts for this as a reduction to revenue. The Company does not offer loyalty programs or other sales incentive programs that are material to revenue recognition. Payment is due at the time of sale. The Company has outsourced the design, manufacturing, fulfillment, distribution, and sale of the Company’s consumer products to a third party in exchange for royalties based on the amount of revenue generated. Management evaluated the terms of the agreement to determine whether the Company’s consumer products revenues should be reported gross or net of royalties paid. Key indicators that management evaluated in determining whether the Company is the principal in the sale (gross reporting) or an agent (net reporting) include, but are not limited to:
+
+ 
+
+     ●    the Company is the party that is primarily responsible for fulfilling the promise to provide the specified good or service,
+
+     ●    the Company has inventory risk before the good is transferred to the customer, and
+
+     ●    the Company is the party that has discretion in establishing pricing for the specified good or service.
+
+ 
+
+                                                                   8
+
+ 
+
+ 
+
+Based on management’s evaluation of the above indicators, the Company reports consumer products revenues on a gross basis.
+
+ 
+
+Esports
+
+ 
+
+League Participation: Generally, The Company has one performance obligation—to participate in the overall Esport event—because the underlying activities do not have standalone value absent the Company’s participation in the tournament or event. Revenue from prize winnings and profit-share agreements is variable and is highly uncertain. The Company recognizes revenue at the point in time when the uncertainty is resolved.
+
+ 
+
+Player Transfer Fees: Player transfer agreements include a fixed fee and may include a variable fee component. The Company recognizes the fixed portion of revenue from transfer fees upon satisfaction of the Company’s performance obligation, which coincides with the execution of the related agreement. The variable portion of revenue is considered highly uncertain and is recognized at the point in time when the uncertainty is resolved.
+
+ 
+
+Licensing of Intellectual Property: The Company’s licenses of intellectual property generate royalties that are recognized in accordance with the royalty recognition constraint. That is, royalty revenue is recognized at the time when the sale occurs.
+
+ 
+
+The Company assesses its revenue arrangements against specific criteria in order to determine if it is acting as principal or agent. When the Company acts in the capacity of an agent rather than as the principal in a transaction, the revenue recognized is the net amount of commission made by the Company.
+
+ 
+
+Deferred revenue consists of customer advances for Company services to be rendered that will be recognized as income in future periods.
+
+ 
+
+(e) Cash and restricted cash
+
+ 
+
+The Company maintains cash deposits with major banks, financial institutions, and other custodians. Deposits at each financial institution are insured in limited amounts by the Federal Deposit Insurance Corporation (“FDIC”). At times cash balances held at financial institutions are more than FDIC insured limits. Bank overdrafts that are repayable on demand and form an integral part of the Company’s cash management are included as a component of cash for the purpose of the statement of cash flows. Restricted  cash is related to the players liability account within current liabilities and is presented as a separate category on the consolidated balance sheets.
+
+ 
+
+(f) Promissory note receivable and allowance for credit losses
+
+ 
+
+The Company received a secured subordinated promissory note as part of the purchase consideration received for the sale of Complexity (see Note 4). The promissory note receivable is classified as not held-for-sale and measured at amortized cost, net of any allowance for credit losses, in accordance with ASC 310, Receivables. The Company maintains an allowance for expected credit losses to reflect the expected collectability of the promissory note receivable based on historical collection data and specific risks identified, as well as management’s expectation of future economic conditions. At each reporting date the Company assesses whether the credit risk on its promissory note receivable has increased significantly since initial recognition.
+
+ 
+
+The promissory note receivable was initially recorded at its transaction closing date fair value on March 1, 2024 (see Note 4) and no allowance for credit losses had been recognized as of March 31, 2024.
+
+ 
+
+(g) Concentration of credit risk
+
+ 
+
+The Company places its cash, which may at times be in excess of United States’ Federal Deposit Insurance Corporation insurance limits, with high credit quality financial institutions and attempts to limit the amount of credit exposure with any one institution.
+
+ 
+
+                                                                   9
+
+ 
+
+ 
+
+The Company had one customer whose revenue accounted for approximately 57% and 0% of total revenue for the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+No customer individually accounted for more than 10% of the Company’s accounts receivable as of March 31, 2024, and December 31, 2023, respectively.
+
+ 
+
+(h) Segment reporting
+
+ 
+
+In accordance with the ASC 280, Segment Reporting, the Company’s Chief Operating Decision Maker (“CODM”) has been identified as the Chief Executive Officer, who reviews operating results to make decisions about allocating resources and assessing performance for the entire Company.
+
+ 
+
+The CODM uses gross profit, as reviewed at periodic business review meetings, as the key measure of the Company’s results as it reflects the Company’s underlying performance for the period under evaluation to determine resource allocation. As of March 31, 2024, the Company was organized into the three operating segments, which also represent its three reportable segments: Teams, Agency and Software-as-service (SaaS) + Advertising. 
+
+ 
+
+ASC 280 establishes requirements to report selected segment information quarterly and to report annually entity-wide disclosures about products and services, major customers, and the countries in which the entity holds material assets and reports revenue.
+
+ 
+
+3. Recent accounting pronouncements
+
+ 
+
+(a) Pending adoption
+
+ 
+
+In December 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures (“ASU 2023-09”). ASU 2023-09 requires that public business entities must annually (1) disclose specific categories in the rate reconciliation and (2) provide additional information for reconciling items that meet a quantitative threshold (if the effect of those reconciling items is equal to or greater than 5 percent of the amount computed by multiplying pretax income or loss by the applicable statutory income tax rate). This ASU is effective for fiscal years beginning after December 15, 2024, with early adoption permitted. The ASU is to be applied prospectively. Retroactive application is permitted. The Company has not early adopted and continues to evaluate the impact of the provisions of ASU 2023-09 on its consolidated financial statements.
+
+ 
+
+(b) Adopted
+
+ 
+
+In November 2023, the FASB issued ASU No 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures (“ASU 2023-07”). ASU 2023-07 is intended to improve reportable segment disclosure requirements primarily through enhanced disclosures about significant segment expenses. The provisions of ASU 2023-07 are effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. Early adoption is permitted. The guidance will be applied retrospectively to all periods presented in the financial statements. ASU 2023-07 will be applicable for the Company’s financial statements for the year ended December 31, 2024. Management is currently evaluating and understanding the requirements under this new standard.
+
+ 
+
+4. Acquisitions and divestitures
+
+ 
+
+(a) FaZe Merger
+
+ 
+
+On March 7, 2024, the Company completed its acquisition of FaZe (the Merger). Prior to the Merger, the Company created GameSquare Merger Sub I, Inc. (“Merger Sub”) to effect the Merger. As a result of the Merger, Merger Sub merged with FaZe, with FaZe continuing as the surviving corporation and as a wholly-owned subsidiary of the Company.
+
+ 
+
+                                                                   10
+
+ 
+
+ 
+
+The Company acquired all issued and outstanding FaZe common shares in exchange for 0.13091 of a GameSquare common share for each FaZe common share (the “Exchange Ratio”). All outstanding FaZe equity awards and warrants to purchase shares of FaZe common stock were acquired and exchanged for GameSquare equity awards and warrants to purchase GameSquare common stock on substantially the same terms, with exercise prices, where applicable, and shares issuable adjusted for the Exchange Ratio.
+
+ 
+
+The Company incurred transaction costs of $1.4 million associated with the Merger. All such costs were expensed as incurred. The loss attributed to FaZe’s operations from the acquisition date to March 31, 2024, was $210 thousand, with revenue of $2.6 million.
+
+ 
+
+The Merger was accounted for using the acquisition method of accounting under ASC 805, Business Combinations, which requires that the Company recognize the identifiable assets acquired and the liabilities assumed at their fair values on the date of acquisition. The estimated fair values are preliminary and based on the information that was available as of that date.
+
+ 
+
+The following preliminary table summarizes the consideration for the acquisition:
+
+ 
+
+Schedule of Purchase Consideration 
+
+Purchase consideration                                                               Number of shares              Amount          
+
+Common shares(1)                                                                              10,132,884   $           12,763,000 
+
+Warrants - Equity(2)                                                                             775,415                   26,000 
+
+Options - Vested(2)                                                                            1,169,619                1,256,000 
+
+RSUs / RSAs - Vested(3)                                                                          413,988                  542,000 
+
+Total purchase price                                                                          12,491,906   $           14,587,000 
+
+ 
+
+The preliminary purchase price allocation is as follows:
+
+Schedule of Preliminary Purchase Price Allocation 
+
+Purchase price allocation                                                                                              Amount          
+
+Cash                                                                                                           $            1,806,747 
+
+Restricted cash                                                                                                               600,065 
+
+Accounts receivable, net                                                                                                    8,290,494 
+
+Prepaid expenses and other current assets                                                                                   1,158,554 
+
+Property and equipment                                                                                                        773,893 
+
+Goodwill                                                                                                                    6,485,960 
+
+Intangible assets                                                                                                          12,000,000 
+
+Total assets acquired                                                                                                      31,115,713 
+
+                                                                                                                                      
+
+Accounts payable                                                                                                            8,115,982 
+
+Accrued liabilities                                                                                                         6,492,196 
+
+Deferred revenue                                                                                                            1,920,535 
+
+Total liabilities assumed                                                                                                  16,528,713 
+
+Net assets acquired                                                                                            $           14,587,000 
+
+  
+
+Measurement period adjustments
+
+ 
+
+Where provisional values are used in accounting for a business combination, they may be adjusted in subsequent periods, not to exceed twelve months. The primary areas that are subject to change relate to the fair value of the purchase consideration transferred and purchase price allocations related to the fair values of certain tangible assets, the valuation of intangible assets acquired, and residual goodwill. The Company expects to continue to obtain information to assist in determining the fair value of the net assets acquired during the measurement periods.
+
+ 
+
+Goodwill
+
+ 
+
+The difference between the estimated acquisition date fair value of the consideration transferred and the estimated values assigned to the assets acquired and liabilities assumed represents goodwill of $6.5 million.
+
+ 
+
+The goodwill recorded represents the following:
+
+ 
+
+               ●    Cost savings and operating synergies expected to result from combining the operations of FaZe with those of the
+
+                     Company.
+
+               ●    Intangible assets that do not qualify for separate recognition such as the assembled workforce.
+
+ 
+
+Goodwill arising from the Merger is expected to be deductible for tax purposes.
+
+ 
+
+                                                                   11
+
+ 
+
+ 
+
+(b) Sale of Complexity
+
+ 
+
+On March 1, 2024, the Company, through its wholly owned subsidiary GameSquare Esports (USA), Inc., entered into a Membership Interest Purchase Agreement (the “MIPA”) to sell all of the issued and outstanding equity interest of NextGen Tech, LLC (“Complexity”) to Global Esports Properties, LLC (the “Buyer”) (the “Transaction”).
+
+ 
+
+Pursuant to the MIPA, Buyer paid the Company aggregate purchase consideration with a Transaction closing date fair value of $7.9 million in exchange for the equity interests of Complexity, including $0.8 million paid in cash upon closing of the transaction and issuance of a secured subordinated promissory note (the “Note”) with a Transaction closing date fair value of $7.1 million. The Note was valued using a discount rate of 15% (Level 3).
+
+ 
+
+As a result of the Transaction during the three months ended March 31, 2024, Complexity met the requirements to reported as discontinued operations (see Note 17). The Company recognized a gain of $3.0 million in net income (loss) from discontinued operations in the consolidated statements of operations and comprehensive loss after offsetting the consideration received with the carrying value of the disposed assets and liabilities. Complexity assets and liabilities disposed had a net carrying value of $4.9 million and consist primarily of $2.6 million of accounts receivable, $2.2 million of property and equipment, and $1.8 million of intangible assets, partially offset by $0.8 million of accounts payable $1.4 million of accrued liabilities.
+
+ 
+
+The Note has a principal amount of $9.5 million and bears interest at 3.0% per annum. The principal amount of the Note, together with all accrued interest, is due on February 28, 2027. The Note is secured by assets of the Buyer pursuant to a Security Agreement executed in conjunction with the MIPA between the Company and the Buyer.
+
+ 
+
+5. Goodwill and intangible assets
+
+ 
+
+(a) Goodwill
+
+ 
+
+The following table presents the changes in the carrying amount of goodwill:
+
+ Schedule of Goodwill
+
+Balance, December 31, 2023                                                                                     $           16,303,989 
+
+Acquisition of FaZe                                                                                                         6,485,960 
+
+Balance, March 31, 2024                                                                                        $           22,789,949 
+
+ 
+
+Goodwill resulting from the acquisition of FaZe was allocated to the Teams operating and reportable segment.
+
+
+
+There were no impairment charges related to goodwill incurred during the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+                                                                   12
+
+ 
+
+ 
+
+(b) Intangible assets
+
+ 
+
+Intangible assets consist of the following:
+
+Schedule of  Intangible Assets 
+
+                                                                                      As of March 31, 2024                            
+
+                                                            Original cost      Accumulated        Accumulated      Carrying value  
+
+                                                                               amortization        impairment
+
+                                                                                                     losses
+
+Customer relationships                                     $   14,650,733   $    (1,646,498)  $       (472,018)  $   12,532,217 
+
+Talent network                                             $    1,100,000   $       (45,833)                 -        1,054,167 
+
+Brand name                                                     12,142,638        (1,276,583)          (229,405)      10,636,650 
+
+Software                                                        4,560,400          (884,980)                 -        3,675,420 
+
+Total intangible assets                                    $   32,453,771   $    (3,853,894)  $       (701,423)  $   27,898,454 
+
+ 
+
+                                                                                    As of December 31, 2023                           
+
+                                                            Original cost      Accumulated        Accumulated      Carrying value  
+
+                                                                               amortization        impairment
+
+                                                                                                     losses
+
+Customer relationships                                     $   11,006,154   $    (1,483,331)  $       (472,018)  $    9,050,805 
+
+Brand name                                                      8,963,557        (3,115,265)          (229,405)       5,618,887 
+
+Software                                                        4,560,400          (655,948)                 -        3,904,452 
+
+Total intangible assets                                    $   24,530,111   $    (5,254,544)  $       (701,423)  $   18,574,144 
+
+ 
+
+The Company recognized amortization expense for intangible assets of $0.8 million and $0.3 million for the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+Amortization expense for the intangible assets is expected to be as follows over the next five years, and thereafter:
+
+ Schedule of Amortization Expense for Intangible Assets
+
+Remainder of 2024                                                                                              $            2,542,785 
+
+2025                                                                                                                        3,363,093 
+
+2026                                                                                                                        2,634,078 
+
+2027                                                                                                                        2,285,716 
+
+2028                                                                                                                        1,609,533 
+
+Thereafter                                                                                                                 15,463,249 
+
+Total estimated amortization expense                                                                           $           27,898,454 
+
+ 
+
+There were no impairment charges related to other intangible assets incurred during the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+6. Leases
+
+ 
+
+On June 30, 2021, the Company acquired Complexity. Complexity leased a building in Frisco, Texas. Upon the sale of Complexity (see Note 4), the lease was assigned to GameSquare Esports (USA), Inc. and the Company entered into an agreement to sublease the building to Complexity for a 12-month period . The lease has an original lease period expiring in April 2029. The lease agreement does not contain any material residual value guarantees or material restrictive covenants.
+
+ 
+
+                                                                   13
+
+ 
+
+ 
+
+The components of operating lease expense are as follows:
+
+ Schedule of Components Operating Lease Expense
+
+                                                                                              Three months ended March 31,            
+
+                                                                                            2024                      2023           
+
+Operating lease expense                                                            $              135,772   $              135,772 
+
+Variable lease expense                                                                             46,340                   65,980 
+
+Total operating lease costs                                                        $              182,112   $              201,752 
+
+ 
+
+As of March 31, 2024, the remaining lease-term and discount rate on the Company’s lease was 5.1 years and 8.3%, respectively.
+
+ 
+
+Maturities of the lease liability are as follows:
+
+ Schedule of Maturities of Lease Liability
+
+Remainder of 2024                                                                                              $              409,356 
+
+2025                                                                                                                          545,808 
+
+2026                                                                                                                          545,808 
+
+2027                                                                                                                          545,808 
+
+2028                                                                                                                          545,808 
+
+Thereafter                                                                                                                    181,936 
+
+Total lease payments                                                                                                        2,774,524 
+
+Less: Interest                                                                                                               (501,122)
+
+Total lease liability                                                                                          $            2,273,402 
+
+ 
+
+7. Line of credit
+
+ 
+
+On September 14, 2023, the Company entered into an accounts receivable financing and security agreement with a maximum availability of $10.0 million for a three-year term with SLR Digital Finance, LLC (the “LOC”). The LOC matures on September 14, 2026. Interest accrues on the outstanding principal amount of the LOC at a rate equal to the greater of Prime plus 4.00% or 9.50%, per annum. The terms of the LOC provide for the lender to fund 85% of the purchased accounts receivable and it includes various service fees.
+
+ 
+
+As of March 31, 2024, the outstanding principal, and unpaid accrued interest, on the LOC was $4.2 million. During the three months ended March 31, 2024, the Company recognized interest expense of $0.2 million on the outstanding LOC principal balance.
+
+ 
+
+8. Convertible debt
+
+ 
+
+As of March 31, 2024, the Company has two convertible debt instruments: a $1.3 million convertible debenture issued to Three Curve Capital LP (“Three Curve CD”) and a $5.7 million convertible debenture issued to King Street Partners LLC (“King Street CD”). The Company elected the FVO for recognition of the Three Curve CD and King Street CD as permitted under ASC 825.
+
+ 
+
+Certain registration rights were included in the King Street CD. If the Company does not have an effective registration statement on file with the SEC within either 110 days (if registered on a Form S-3) or 150 days (if registered on a Form S-1) of the December 29, 2023, registering the underlying shares issuable upon conversion of the King Street CD, or fails to maintain the effectiveness of such registration statement, then liquidated damages would accrue equal to 1% of the outstanding principal of the King Streed CD for every 30 days that the registration statement is not effective. The maximum penalty is equal to 9% of the original principal amount of $5.8 million, or $0.5 million.
+
+ 
+
+                                                                   14
+
+ 
+
+ 
+
+The Company accounts for such damages in accordance with ASC subtopic 825-20, Registration Payment Arrangements (“ASC 825-20”). ASC 825-20 specifies that the contingent obligation to make future payments under a registration payment arrangement, whether issued as a separate agreement or included as a provision of a financial instrument, should be separately recognized and accounted for as a contingency in accordance with ASC 450-20, Loss Contingencies. The registration statement is expected to be declared effective during 2024 and no contingent liability has been recognized in relation to this registration payment arrangement.
+
+ 
+
+(a) King Street CD
+
+ 
+
+Key terms of the King Street CD include (a) a maturity date of December 29, 2025, (b) an interest rate of 12.75% per annum, and (c) is convertible at the holder’s option into common shares of Company at a price of $3.04 per share (subject to standard anti-dilution provisions).
+
+ 
+
+The fair value of the King Street CD was estimated using the binomial lattice model with the below assumptions:
+
+ Schedule of Detailed Information About Fair Value of Convertible Debentures
+
+                                                                                       March 31,                December 31,       
+
+                                                                                          2024                      2023
+
+Share price                                                                      $                 1.38    $                 1.78 
+
+Conversion price                                                                 $                 3.04    $                 5.00 
+
+Term, in years                                                                                     1.75                      2.00 
+
+Interest rate                                                                                     12.75%                    12.75%
+
+Expected volatility                                                                              115.00%                   110.00%
+
+Risk-free interest rate                                                                            4.70%                     4.23%
+
+Expected dividend yield                                                                               0%                        0%
+
+ 
+
+(b) Three Curve CD
+
+ 
+
+Key terms of the Three Curve CD include (a) a maturity date of August 31, 2025, (b) an interest rate of 7% per annum (interest to be paid in full at maturity) and (c) a conversion price of $4.40 per share.
+
+ 
+
+The fair value of the Three Curve CD was estimated using the binomial lattice model with the below assumptions:
+
+ Schedule of Detailed Information About Fair Value of Convertible Debentures  
+
+                                                                                       March 31,                December 31,       
+
+                                                                                          2024                      2023
+
+Share price                                                                      $                 1.38    $                 1.78 
+
+Conversion price                                                                 $                 4.40    $                 4.40 
+
+Term, in years                                                                                     1.42                      1.67 
+
+Interest rate                                                                                         7%                        7%
+
+Expected volatility                                                                              120.00%                   115.00%
+
+Risk-free interest rate                                                                            4.85%                     4.42%
+
+Expected dividend yield                                                                               0%                        0%
+
+ 
+
+                                                                   15
+
+ 
+
+ 
+
+The change in fair values of the Company’s convertible debentures subject to recurring remeasurement at fair value were as follows:
+
+ Schedule of Convertible Debentures Subject to Recurring Remeasurement at Fair Value 
+
+                                                                             Three Curve CD     King Street CD         Total       
+
+Balance, December 31, 2023                                                  $     1,507,236   $     6,669,692   $     8,176,928 
+
+Interest expense                                                                     21,815           188,863           210,678 
+
+Principal payments                                                                        -          (100,000)         (100,000)
+
+Change in fair value(1)                                                             (54,241)          160,842           106,601 
+
+Balance, March 31, 2024                                                     $     1,474,810   $     6,919,397   $     8,394,207 
+
+                                                                                                                                
+
+Contractual principal balances outstanding:                                                                                     
+
+As of December 31, 2023                                                     $     1,250,000   $     5,800,000   $     7,050,000 
+
+As of March 31, 2024                                                        $     1,250,000   $     5,700,000   $     6,950,000 
+
+ 
+
+     (1)  None of the changes in fair value during the period were due to instrument-specific changes in credit risk.
+
+ 
+
+9. Shareholders’ Equity
+
+ 
+
+(a) Description of the Company’s securities
+
+ 
+
+The Company is authorized to issue an unlimited number of common shares, with no par value. Holders of common shares are entitled to one vote in respect of each common share held at shareholder meetings of the Company.
+
+ 
+
+(b) Activity for the periods presented
+
+ 
+
+On March 7, 2024, 10,132,884 common shares of the Company were issued for the completion of the Merger (see Note 4).
+
+ 
+
+In conjunction with the Merger, on March 7, 2024, the Company completed a private placement public in public equity financing (the “PIPE Financing”) with certain investors in which the Company offered 7,194,244 units at a purchase price of $1.39 per unit for aggregate gross proceeds of $10.0 million. Each unit consisted of one share of the Company’s common stock and a warrant to purchase 0.15 shares of the Company’s common stock. As a result, the Company issued an aggregate of 7,194,224 common shares of the Company and warrants to purchase up to 1,079,136 shares of the Company pursuant to the PIPE Financing. Each warrant has an exercise price of $1.55 per share and expire on March 7, 2029 (see Note 12).
+
+ 
+
+On March 24, 2023, 9,109 common shares were issued in settlement of outstanding amounts payable of $0.1 million.
+
+ 
+
+On March 10, 2023, 29,359 common shares of the Company were issued to settle contingent consideration on a prior acquisition.
+
+ 
+
+10. Net loss per share
+
+ 
+
+As the Company incurred a net loss for the three months ended March 31, 2024 and 2023, the inclusion of certain Options, unvested stock units, warrants, and contingent shares in the calculation of diluted earnings per share would be anti-dilutive and, accordingly, were excluded from the diluted loss per share calculation.
+
+ 
+
+                                                                   16
+
+ 
+
+ 
+
+The following table summarizes potential common shares that were excluded as their effect is anti-dilutive:
+
+ Schedule of Potential Common Shares Excluded as their Effect is Anti-Dilutive
+
+                                                                                              Three months ended March 31,            
+
+                                                                                            2024                      2023           
+
+Options and RSUs outstanding                                                                    3,122,971                  512,574 
+
+Warrants outstanding                                                                            2,403,226                  927,232 
+
+Shares issuable upon conversion of convertible debt                                             2,159,090                        - 
+
+Total                                                                                           7,685,287                1,439,806 
+
+ 
+
+11. Share-based compensation
+
+ 
+
+The Company grants share purchase options (“Options”) for the purchase of common shares to its directors, officers, employees and consultants.
+
+ 
+
+Options may be exercisable over periods of up to 10 years as determined by the Board of Directors of the Company. The Option price for shares that are the subject of any Option shall be fixed by the Board when such Option is granted but shall not be less than the market value of such shares at the time of grant.
+
+ 
+
+The Omnibus Plan allows the Company to award restricted share units to directors, officers, employees and consultants of the Company and its subsidiaries upon such conditions as the Board may establish, including the attainment of performance goals recommended by the Company’s compensation committee. The purchase price for common shares of the Company issuable under each Restricted Share Unit (“RSU”) award, if any, shall be established by the Board at its discretion. Common shares issued pursuant to any RSU award may be made subject to vesting conditions based upon the satisfaction of service requirements, conditions, restrictions, time periods or performance goals established by the board.
+
+ 
+
+The TSXV requires the Company to fix the number of common shares to be issued in settlement of awards that are not options. The maximum number of Shares available for issuance pursuant to the settlement of RSU shall be an aggregate of 2,861,658 Shares.
+
+ 
+
+(a) Options
+
+ 
+
+The following is a summary of Options outstanding as of March 31, 2024 and December 31, 2023, and changes during the three months then ended, by Option exercise currency:
+
+ Schedule of Option Outstanding
+
+                                                               Number of      Weighted-averag   Weighted-averag      Aggregate    
+
+                                                                 shares         e exercise        e remaining        intrinsic
+
+                                                                                   price          contractual          value
+
+                                                                                   (CAD)              term
+
+Outstanding at December 31, 2023                                    416,621   $        19.34             2.96   $            - 
+
+Outstanding at March 31, 2024                                       416,621   $        19.34             2.71   $            - 
+
+Exercisable at March 31, 2024                                       409,520   $        19.56             2.60   $            - 
+
+ 
+
+                                                               Number of      Weighted-averag   Weighted-averag      Aggregate     
+
+                                                                 shares         e exercise        e remaining         intrinsic
+
+                                                                                   price          contractual           value
+
+                                                                                   (USD)              term
+
+Outstanding at December 31, 2023                                    249,819   $            5             4.36   $             - 
+
+                                                                                         .26
+
+Acquisition of FaZe                                               1,196,759             2.92                                    
+
+Outstanding at March 31, 2024                                     1,446,578   $         3.32             9.09   $             - 
+
+Exercisable at March 31, 2024                                     1,409,964   $         3.33             9.16   $             - 
+
+
+
+ 
+
+                                                                   17
+
+ 
+
+ 
+
+See Note 4 for a summary of the significant valuation inputs used to value options issued in relation to the acquisition of FaZe.
+
+ 
+
+Share-based compensation expense related to the vesting of Options was $18 thousand and $114 thousand for the three months ended March 31, 2024 and 2023, respectively, and is included in general and administrative expense on the consolidated statements of operations and comprehensive loss.
+
+ 
+
+(b) RSUs
+
+ 
+
+The following is a summary of RSUs outstanding on March 31, 2024, and December 31, 2023, and changes during the three months then ended:
+
+ Schedule of RSUs Outstanding
+
+                                                                                      Number of shares       Weighted-average grant  
+
+                                                                                                                    date fair
+
+                                                                                                                      value
+
+Outstanding at December 31, 2023                                                                  664,597   $                 3.71 
+
+Acquisition of FaZe                                                                               595,175                     1.39 
+
+Outstanding at March 31, 2024                                                                   1,259,772   $                 2.61 
+
+ 
+
+The grant-date fair values of RSUs are based on the Company’s stock price as of the grant date (see Note 4).
+
+ 
+
+Shared-based compensation expense related to the vesting of RSU’s was $0.4 million and $0.5 million for the three months ended March 31, 2024 and 2023, respectively, and is included in general and administrative expense on the consolidated statements of operations and comprehensive loss.
+
+ 
+
+12. Warrants
+
+ 
+
+(a) Liability-classified warrants having CAD exercise price
+
+ 
+
+The functional currency of the Company is USD and certain of the Company’s warrants have an exercise price in CAD, resulting liability classification of the warrants.
+
+ 
+
+The following is a summary of changes in the value of the warrant liability for the three months ended March 31, 2024:
+
+ Schedule of Changes in Value of Warrant Liability
+
+                                                                                                                       Amount          
+
+Balance, December 31, 2023                                                                                     $              102,284 
+
+Change in fair value                                                                                                          (37,257)
+
+Foreign exchange                                                                                                               (2,209)
+
+Balance, March 31, 2024                                                                                        $               62,818 
+
+ 
+
+The following assumptions were used to determine the fair value of the warrant liability using the Black-Scholes option pricing model:
+
+ Schedule of Assumptions Fair Value of Warrant Liability
+
+                                                                                        March 31,                December 31,      
+
+                                                                                           2024                      2023
+
+Share price                                                                                    CAD$1.87                  CAD$2.91  
+
+Term, in years                                                                               0.25 - 3.50               0.39 - 4.00 
+
+Exercise price                                                                         CAD$6.29 - $30.00         CAD$6.29 - $30.00 
+
+Expected volatility                                                                               100.00%                    90.00%
+
+Risk-free interest rate                                                                     3.68% - 4.53%             4.25% - 5.45%
+
+Expected dividend yield                                                                                0%                        0%
+
+ 
+
+                                                                   18
+
+ 
+
+ 
+
+Volatility was estimated by using the average historical volatility of the Company. The expected life in years represents the period of time that warrants issued are expected to be outstanding. The risk-free rate is based on government treasury bond rates issued with a remaining term approximately equal to the expected life of the warrants.
+
+ 
+
+The following is a summary of liability-classified warrants outstanding as of March 31, 2024, and December 31, 2023, and changes during the three months then ended:
+
+ Schedule of Warrants Outstanding
+
+                                                                                                                Weighted-average     
+
+                                                                                          Number of              exercise price      
+
+                                                                                          warrants                    (CAD)          
+
+Outstanding, December 31, 2023                                                                    757,911   $                22.61 
+
+Warrants expired                                                                                 (224,651)                   29.05 
+
+Outstanding, March 31, 2024                                                                       533,260   $                19.90 
+
+ 
+
+(b) Equity-classified warrants
+
+ 
+
+As discussed in Note 4 above in conjunction with the acquisition of FaZe, the Company issued 775,415 warrants with an acquisition fair value of $26 thousand, included in the FaZe acquisition purchase price consideration.
+
+ 
+
+As discussed in Note 9, in conjunction with the PIPE Financing on March 7, 2024, 1,079,136 warrants were issued with an exercise price of $1.55 and a contractual term of 5 years. The relative fair value of the warrants of $1.1 million was estimated using the Black-Scholes option pricing model with the following assumptions: share price of $1.56, expected dividend yield of 0%, expected volatility rate of 120.00%, based on the historical volatility of comparable companies, a risk free rate of 3.36% and an expected life of 5 years. The warrants have an exercise price in USD and are equity-classified.
+
+ 
+
+The following is a summary of equity-classified warrants outstanding as of March 31, 2024, and December 31, 2023, and the changes during the three months then ended:
+
+ Schedule of Warrants Outstanding 
+
+                                                                                                                Weighted-average     
+
+                                                                                          Number of              exercise price      
+
+                                                                                          warrants                    (USD)          
+
+Outstanding, December 31, 2023                                                                    877,891   $                60.00 
+
+Warrants expired                                                                                 (862,476)                   60.00 
+
+PIPE Financing                                                                                  1,079,136                     1.55 
+
+Acquisition of FaZe                                                                               775,415                    87.85 
+
+Outstanding, March 31, 2024                                                                     1,869,966   $                37.82 
+
+ 
+
+13. Related party transactions
+
+ 
+
+(a) Convertible debenture with a director of the Company as counterparty
+
+ 
+
+On September 1, 2022, Engine extended convertible debentures that were due to expire in October and November 2022 with an aggregate principal amount of $1.3 million. Key terms include (a) maturity date of August 31, 2025, (b) interest rate of 7% (interest to be paid in full at maturity) and (c) conversion price of $4.40. The convertible debenture is beneficially held by a director of the Company (see Note 8).
+
+ 
+
+14. Commitments and contingencies
+
+ 
+
+In April 2020, Engine announced its renegotiation of the acquisition of Allinsports. The revised purchase agreement provided for the acquisition of 100% of Allinsports in exchange for the issuance of 241,666 common shares of the Engine and other considerations, including payments of $1,200,000 as a portion of the purchase consideration. In September 2020, Engine advised the shareholders of Allinsports that closing conditions of the transaction, including the requirement to provide audited financial statements, had not been satisfied.
+
+ 
+
+                                                                   19
+
+ 
+
+ 
+
+In response, in November 2020, the shareholders of Allinsports commenced arbitration in Alberta, Canada seeking, among other things, to compel Engine to complete the acquisition of Allinsports without the audited financial statements, and to issue 241,666 common shares of Engine to those shareholders. As alternative relief, the shareholders of Allinsports sought up to $20.0 million in damages. A hearing in this matter was held in May of 2021, and by a decision dated September 30, 2021, the Arbitrator determined that the closing of the transaction had previously occurred and directed Engine to issue 241,666 common shares. In conjunction with completion of the Arrangement (see Note 4), the Company assumed this obligation to issue 241,666 common shares. The Company is pursuing regulatory approval to issue the shares and is also pursuing relief against Allinsports shareholders for various alleged breaches of the share purchase agreement. The Company recognized a liability for the arbitration ruling of $1.5 million, which represented the fair value of the common shares directed to be delivered as of April 11, 2023, the closing date of the Arrangement. The liability is recorded as arbitration reserve on the Company’s consolidated balance sheets. This liability will be adjusted to fair value at the end of each reporting period.
+
+ 
+
+By Order to Continue dated May 5, 2022, Engine was substituted in as the plaintiff in a matter pending in the Ontario Superior Court of Justice, seeking recovery of $2.1 million (€1.9 million) of principal and additional amounts of accrued interest under promissory notes acquired by Engine. The matter is in the discovery stage.
+
+ 
+
+The outcomes of pending litigations in which the Company is involved are necessarily uncertain as are the Company’s expenses in prosecuting and defending these actions. From time to time the Company may modify litigation strategy and/or the terms on which it retains counsel and other professionals in connection with such actions, which may affect the outcomes of and/or the expenses incurred in connection with such actions.
+
+ 
+
+The Company is subject to various other claims, lawsuits and other complaints arising in the ordinary course of business. The Company records provisions for losses when claims become probable, and the amounts are estimable. Although the outcome of such matters cannot be determined, it is the opinion of management that the final resolution of these matters will not have a material adverse effect on the Company’s financial condition, operations, or liquidity.
+
+ 
+
+15. Revenue and segmented information
+
+ 
+
+The CODM uses gross profit, as reviewed at periodic business review meetings, as the key measure of the Company’s results as it reflects the Company’s underlying performance for the period under evaluation to determine resource allocation. As of March 31, 2024, the Company was organized into the three operating segments, which also represent its three reportable segments: Teams, Agency and Software-as-service (SaaS) + Advertising.
+
+ 
+
+                                                                   20
+
+ 
+
+ 
+
+Revenue, cost of sales and gross profit for the Company’s operating and reportable segments, disaggregated into geographic locations, are as follows:
+
+Schedule of Disaggregated into Geographic Regions  
+
+                                                                                Three months ended March 31, 2024                     
+
+Segment                                                      United Kingdom          USA              Spain             Total      
+
+Revenue                                                                                                                            
+
+Teams                                                        $            -   $    2,562,953   $            -   $    2,562,953 
+
+Agency                                                              378,649        2,564,208                -        2,942,857 
+
+SaaS + Advertising                                                        -       11,442,510          779,904       12,222,414 
+
+Total Revenue                                                       378,649       16,569,671          779,904       17,728,224 
+
+Cost of sales                                                                                                                  
+
+Teams                                                                     -        1,581,570                -        1,581,570 
+
+Agency                                                              250,632        2,160,674                -        2,411,306 
+
+SaaS + Advertising                                                        -       10,261,585           80,606       10,342,191 
+
+Total Cost of sales                                                 250,632       14,003,829           80,606       14,335,067 
+
+Gross profit                                                                                                                   
+
+Teams                                                                     -          981,383                -          981,383 
+
+Agency                                                              128,017          403,534                -          531,551 
+
+SaaS + Advertising                                                        -        1,180,925          699,298        1,880,223 
+
+Total Gross profit                                           $      128,017   $    2,565,842   $      699,298   $    3,393,157 
+
+ 
+
+                                                                                Three months ended March 31, 2023                     
+
+Segment                                                      United Kingdom          USA             Mexico             Total      
+
+Revenue                                                                                                                            
+
+Teams                                                        $            -   $            -                    $            - 
+
+Agency                                                       $      634,373   $    2,155,688   $            -   $    2,790,061 
+
+SaaS + Advertising                                                        -                -                -                - 
+
+Total Revenue                                                       634,373        2,155,688                -        2,790,061 
+
+Cost of sales                                                                                                                  
+
+Teams                                                                     -                -                                 - 
+
+Agency                                                              531,846          979,371                -        1,511,217 
+
+SaaS + Advertising                                                        -                -                -                - 
+
+Total Cost of sales                                                 531,846          979,371                -        1,511,217 
+
+Gross profit                                                                                                                   
+
+Teams                                                                     -                -                -                - 
+
+Agency                                                              102,527        1,176,317                -        1,278,844 
+
+SaaS + Advertising                                                        -                -                -                - 
+
+Total Gross profit                                           $      102,527   $    1,176,317   $            -   $    1,278,844 
+
+ 
+
+Management does not evaluate operating segments using discrete asset information. The Company’s consolidated assets are generally shared across, and are not specifically ascribed to, operating and reportable segments.
+
+ 
+
+Property and equipment, net, by geographic region, are summarized as follows:
+
+Schedule of Property and Equipment net by Geographic Region 
+
+                                                                                          March 31,               December 31,       
+
+                                                                                            2024                      2023
+
+USA                                                                                $              787,596   $            2,456,563 
+
+United Kingdom                                                                                      1,620                    1,814 
+
+Spain                                                                                               6,344                    6,256 
+
+Total                                                                              $              795,560   $            2,464,633 
+
+ 
+
+                                                                   21
+
+ 
+
+ 
+
+16. Fair value measurements
+
+ 
+
+The carrying value of cash approximates fair value. The carrying amount of other current assets and liabilities, such as accounts and other receivables and accounts payable, approximates fair value due to the short-term maturity of the amounts, and such current assets and liabilities are considered Level 2 in the fair value hierarchy.
+
+ 
+
+The following tables summarize financial assets and liabilities measured at fair value on a recurring basis:
+
+Schedule of Financial Assets and Liabilities Measured at Fair Value on a Recurring Basis 
+
+                                                                                       As of March 31, 2024                           
+
+Description                                                      Level 1           Level 2           Level 3            Total      
+
+Assets:                                                                                                                            
+
+Contingent consideration                                     $            -   $             -   $      501,118   $      501,118 
+
+Liabilities:                                                                                                                    
+
+Warrant liability                                                         -                 -           62,818           62,818 
+
+Arbitration reserve                                                 333,499                 -                -          333,499 
+
+Convertible debt                                                          -                 -        8,394,207        8,394,207 
+
+ 
+
+                                                                                                                                   
+
+                                                                                     As of December 31, 2023                          
+
+Description                                                      Level 1           Level 2           Level 3            Total      
+
+Assets:                                                                                                                            
+
+Contingent consideration                                     $            -   $            -   $      501,118   $      501,118 
+
+Liabilities:                                                                                                                   
+
+Warrant liability                                                         -                -          102,284          102,284 
+
+Arbitration reserve                                                 428,624                -                -          428,624 
+
+Convertible debt                                                          -                -        8,176,928        8,176,928 
+
+ 
+
+(a) Fair values measured on a non-recurring basis
+
+ 
+
+The Company’s non-financial assets, such as property and equipment, goodwill and intangible assets, are recorded at fair value upon a business combination and are remeasured at fair value only if an impairment charge is recognized. The Company’s investment, accounted for under the measurement alternative of ASC 321, is remeasured at fair value only upon an observable price change or if an impairment charge is recognized. The Company uses unobservable inputs to the valuation methodologies that are significant to the fair value measurements, and the valuations require management’s judgment due to the absence of quoted market prices. The Company determines the fair value of its held and used assets, goodwill and intangible assets using an income, cost or market approach as determined reasonable.
+
+ 
+
+17. Discontinued operations
+
+ 
+
+As discussed in Note 4, on March 1, 2024, the Company sold Complexity and recognized a gain on disposition of $3.0 million, resulting in Complexity meeting the requirements for presentation as discontinued operations. Prior to disposition, Complexity was part of the Teams operating and reportable segment.
+
+ 
+
+The Company recognized a pretax net loss of $1.4 million and $1.3 million for the three months ended March 31, 2024 and 2023, respectively, in net income (loss) from discontinued operations in the consolidated statements of operations and comprehensive loss in relation to Complexity. The pretax net loss of $1.4 million during the three months ended March 31, 2024, includes revenue of $1.0 million, cost of revenue of $0.9 million, and operating expenses of $1.5 million. The pretax net loss of $1.3 million for the three months ended March 31, 2023, includes revenue of $2.2 million, cost of revenue of $1.5 million, and operating expenses of 2.0 million.
+
+ 
+
+                                                                   22
+
+ 
+
+ 
+
+Complexity had amortization and depreciation of $0.2 million and $0.4 million for the three months ended March 31, 2024 and 2023, respectively. Complexity did not have significant capital expenditures or significant noncash activity during the periods presented.
+
+ 
+
+18. Subsequent events
+
+ 
+
+On May 15, 2024, GameSquare Holdings, Inc., a Delaware corporation (the “Company” or “GameSquare”), FaZe Holdings, Inc., a Delaware corporation and wholly owned subsidiary of GameSquare (“FaZe Holdings”), Faze Clan, Inc., a Delaware corporation and wholly owned subsidiary of FaZe Holdings (“FaZe Clan Inc.”), and FaZe Media Holdings, LLC, a Delaware limited liability company and wholly owned subsidiary of FaZe Clan Inc. (“Media Holdings, and together with GameSquare, FaZe Holdings and FaZe Clan Inc., the “GAME Parties”), and Gigamoon Media LLC, a Delaware limited liability company (“Gigamoon”), entered into the definitive agreements described below in connection with the formation of Faze Media, Inc. (“FaZe Media”), a Delaware corporation in which the Company will hold a 51% equity interest by way of Media Holdings and in which Gigamoon will hold a 49% equity interest. FaZe Media is a game-focused lifestyle media and intellectual property holding created as a joint venture between the GAME Parties and Gigamoon. 
+
+ 
+
+Concurrently on May 15, 2024, the GAME parties entered into a contribution agreement where certain assets, intellectual property and other business operations of of FaZe Holdings were contributed to FaZe Media. Media Holdings received a 51% equity interest in FaZe Media for the contributions made. GameSquare will provide certain professional and corporate services to FaZe Media in accordance with the agreement. Simultaneously with the contribution agreement, Gigamoon and FaZe Media entered into an agreement in which Gigamoon purchased 49% of the equity interest in FaZe Media for $11.0 million.
+
+ 
+
+Concurrently on May 15, 2024, the Company also entered into a Trademark License Agreement with FaZe Media to acquire an exclusive worldwide licence to certain intellectual property. The license has an initial term of 10 years and automatically renews for an additional 5 year term. Either party may terminate the lease at any time upon a material breach in contract. FaZe Media may terminate upon a change of control of the Company, bankruptcy proceedings, or delisting from the national stock exchange. The Company is subject to an annual license fee of 2.5% of FaZe e-sports gross revenues, payable in common shares to FaZe Media.
+
+ 
+
+                                                                   23
+
+ 
+
+ 
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+Unless the context otherwise requires, all references in this section to the “Company,” “GameSquare,” “we,” “us,” or “our” refer to GameSquare Holdings, Inc. and its subsidiaries and/or the management and employees of the Company.
+
+ 
+
+The following discussion and analysis provide information which our management believes is relevant to an assessment and understanding of our results of operations and financial condition. This discussion and analysis should be read together with our audited consolidated financial statements and related notes included in Part I of this Form 10-Q. This discussion and analysis should also be read together with our financial information for the year ended and as of December 31, 2023. In addition to historical financial information, this discussion and analysis contains forward-looking statements that reflect our plans, estimates, and beliefs that involve risks, uncertainties and assumptions. As a result of many factors, such as those set forth under the “Cautionary Statement Regarding Forward-Looking Statements” elsewhere in this Form 10-Q, our actual results may differ materially from those anticipated in these forward-looking statements.
+
+ 
+
+Overview
+
+ 
+
+GameSquare is a vertically integrated, digital media, entertainment and technology company that connects global brands with gaming and youth culture audiences. Our end-to-end platform includes GCN, a digital media company focused on gaming and esports audiences, Swingman LLC dba as Cut+Sew, a gaming and lifestyle marketing agency, Code Red Esports Ltd. (“Code Red”), a UK based esports talent agency, GameSquare Esports Inc. dba as Fourth Frame Studios, a creative production studio, Mission Supply, a merchandise and consumer products business, Frankly Media, programmatic advertising, Stream Hatchet, live streaming analytics, and Sideqik a social influencer marketing platform.
+
+ 
+
+GameSquare Holdings, Inc. (formerly Engine Gaming and Media, Inc.), (NASDAQ: GAME; TSXV: GAME) completed its plan of arrangement (the “Arrangement”) with GameSquare Esports Inc. (“GSQ”) on April 11, 2023, resulting in the Company acquiring all the issued and outstanding securities of GSQ. At completion of the Arrangement Engine Gaming and Media, Inc. changed its name to GameSquare Holdings Inc.
+
+ 
+
+Brands
+
+ 
+
+FaZe
+
+ 
+
+FaZe a digitally native lifestyle and media brand founded and rooted in gaming and youth culture. FaZe is at the forefront of the global creator economy, which is an industry centered around innovative digital content development fueled by social media influencers, creators and businesses who monetize their content online. With a leading digital content platform created for and by Generation Z and Millennials, FaZe has established a highly engaged and growing global fanbase. FaZe produces engaging content, merchandise, consumer products and experiences, and create advertising and sponsorship programs for leading national brands. FaZe has several revenue streams including brand sponsorships, content, consumer products, and Esports.
+
+ 
+
+Zoned
+
+ 
+
+Zoned Gaming is a marketing agency dedicated to bridging the gap between gaming and pop-culture. They work with endemic and non-endemic brands alike, helping them identify their lane and build equity in the constantly changing world of gaming and esports.
+
+ 
+
+Code Red
+
+ 
+
+Code Red is an authentic esports media agency that is passionate about esports and video games. Since 2003, Code Red has produced major esports events, sourced, and hired esports and gaming talent, developed esports related content (that has gone out to over 1 million viewers), managed major esports teams, conducted a wide range of ongoing and ad-hoc strategic consultancy projects, and managed countless marketing campaigns.
+
+ 
+
+GCN
+
+ 
+
+GCN is a media group dedicated to gaming and esports. GCN builds bespoke strategy solutions for reaching young gaming & esports audiences from content creation to full-scale tournaments for any endpoint be it social, broadcast TV or live stream.
+
+ 
+
+                                                                   24
+
+ 
+
+ 
+
+Fourth Frame Studios
+
+ 
+
+Rooted in gaming, youth, and popular culture, Fourth Frame Studios is a multidisciplinary creative and production studio that specializes in telling stories for a multi-dimensional audience. Fourth Frame Studios builds meaningful and diverse content systems fueled by best-in-class creatives and production resources, that truly get what gamers and youth audiences want.
+
+ 
+
+Mission Supply
+
+ 
+
+Mission Supply operates at the intersection of gaming, esports, and fashion design filling a need for fans seeking high quality merchandise that represents their favorite teams, organizations, and brands within the gaming ecosystem by providing merchandise and consumer product design, marketing, and sales consultation to brands and esports organizations seeking to reach large and growing gaming and youth demographics.
+
+ 
+
+Frankly
+
+ 
+
+Frankly Inc. (“Frankly”), through its wholly-owned subsidiary Frankly Media, LLC, provides a complete suite of solutions that give publishers a unified workflow for the creation, management, publishing and monetization of digital content to any device, while maximizing audience value and revenue.
+
+ 
+
+Frankly’s products include a ground-breaking online video platform for Live, Video-on-Demand (“VOD”) and Live-to-VOD workflows, a full-featured content management system with rich storytelling capabilities, as well as native apps for iOS, Android, Apple TV, Fire TV and Roku.
+
+ 
+
+Frankly also provides comprehensive advertising products and services, including direct sales and programmatic ad support. With the release of its server side ad insertion (SSAI) platform, Frankly has been positioned to help video producers take full advantage of the growing market in addressable advertising.
+
+ 
+
+Sideqik
+
+ 
+
+Sideqik, Inc. (“Sideqik”), is an influencer marketing platform that offers brands, direct marketers, and agencies tools to discover, connect and execute marketing campaigns with content creators. Sideqik’s end-to-end solutions offer marketers advanced capabilities to discover influencers with demographic and content filtering; connect and message influencers; share marketing collateral such as campaign briefs, photos, logos, videos; measure reach, sentiment, and engagement across all major social media platforms; and evaluate earned media value and return on investment across the entire campaign.
+
+ 
+
+Stream Hatchet
+
+ 
+
+Stream Hatchet is the leading provider of data analytics for the live streaming industry. With a suite of services, encompassing a user-friendly SaaS platform, custom reports, and strategic consulting, Stream Hatcher is a trusted guide for those navigating the dynamic landscape of live streaming. With up to seven years of historical data with minute-level granularity from 20 platforms, Stream Hatchet provides stakeholders in the live-streaming industry with powerful insights to drive innovation and growth. Stream Hatchet partners with a diverse clientele - from video game publishers and marketing agencies to esports organizers and teams - who rely on the company’s cutting-edge data analytics to optimize their marketing strategies, secure lucrative sponsorships, enhance esports performance, and build successful tournaments.
+
+ 
+
+Recent Developments
+
+ 
+
+Merger Agreement
+
+ 
+
+On March 7, 2024 (the “Closing Date”), GameSquare Holdings, Inc., a Delaware corporation (and prior to the Domestication (as defined below), a British Columbia corporation) (the “Company” or “GameSquare”), consummated the previously announced merger (the “Closing”) of FaZe Holdings Inc., a Delaware corporation (“FaZe”), pursuant to that certain Agreement and Plan of Merger, dated October 19, 2023 (as amended, the “Merger Agreement”), by and among the Company, FaZe and GameSquare Merger Sub I, Inc., a Delaware corporation and wholly owned subsidiary of GameSquare (“Merger Sub”), as amended by that certain First Amendment to Agreement and Plan of Merger, dated December 19, 2023, by and among the Company, FaZe and Merger Sub (the “Amendment to Merger Agreement”). The consummation of the Merger involved (i) prior to the Closing, the continuance of GameSquare from the laws of the Province of British Columbia to the laws of the State of Delaware so as to become a Delaware corporation (the “Domestication”) and (ii) the merger of Merger Sub with and into FaZe, with FaZe continuing as the surviving corporation and wholly-owned subsidiary of GameSquare (the “Merger”), as well as the other transactions contemplated in the Merger Agreement.
+
+ 
+
+                                                                   25
+
+ 
+
+ 
+
+Merger Consideration
+
+ 
+
+At the effective time of the Merger (the “Effective Time”): (i) each outstanding share of FaZe common stock, par value $0.0001 per share (the “FaZe Common Stock”) issued and outstanding immediately prior to the Effective Time (other than shares held in treasury by FaZe or held directly by GameSquare or Merger Sub (which such shares were cancelled)) was converted into the right to receive 0.13091 (the “Exchange Ratio”) of a fully paid non-assessable share of common stock, par value $0.0001 per share, of GameSquare (the “GameSquare Common Stock”) and, if applicable, cash in lieu of fraction shares of FaZe Common Stock, subject to applicable withholding, (ii) each share of common stock, par value $0.001 per share, of Merger Sub that was issued and outstanding immediately prior to the Effective Time was converted into one validly issued, fully paid and non-assessable share of common stock, par value $0.001 per share, of FaZe Common Stock.
+
+ 
+
+Treatment of Equity Awards
+
+ 
+
+In addition, effective as of immediately prior to the Effective Time, all of the outstanding FaZe equity awards, including options to purchase shares of FaZe Common Stock, each share of FaZe Common Stock subject to vesting, repurchase or other lapse of restrictions, and each FaZe restricted stock unit convertible into shares of FaZe Common Stock, was assumed by GameSquare and converted into GameSquare equity awards on substantially the same terms, except that the assumed equity awards will cover a number of shares of GameSquare Common Stock and, if applicable, have an exercise price determined using the Exchange Ratio.
+
+ 
+
+Also at the Effective Time, all outstanding warrants to purchase shares of FaZe Common Stock were assumed by GameSquare and converted into warrants to purchase shares of GameSquare Common Stock on substantially the same terms, except that the assumed warrants cover a number of shares of GameSquare Common Stock, and have an exercise price, determined using the Exchange Ratio.
+
+ 
+
+Post-Closing Governance
+
+ 
+
+In connection with the Merger and in accordance with the Merger Agreement, effective as of the Closing, the board of directors of the Company (the “Board”) increased the size of the Board from six to nine members and appointed Paul Hamilton and Nick Lewin (each, a “New Director” and collectively, the “New Directors”), who were previously members of FaZe’s board of directors, to serve on the Board, in each case, to hold office until their successors are duly elected and qualified or their earlier death, resignation or removal. Following the appointment of the New Directors, there remains one vacancy on the Board. Pursuant to the Merger Agreement, such vacancy is to be filled at such time that the Board duly elects an individual to serve in such capacity in accordance with the Bylaws and the terms of the Merger Agreement. It has not yet been determined on which committees of the Board Mr. Hamilton and Mr. Lewin will serve.
+
+ 
+
+PIPE Financing
+
+ 
+
+Substantially concurrently with the consummation of the Merger, the Company completed its previously announced private placement in public equity financing (the “PIPE Financing”). In connection with the PIPE Financing, the Company entered subscription agreements (the “Subscription Agreements”) with certain investors (the “PIPE Investors”), pursuant to which the Company issued to the PIPE Investors an aggregate of 7,194,244 units at a purchase price per unit of $1.39, for aggregate gross proceeds of $10.0 million. Each unit consists of one share of GameSquare Common Stock and a warrant to purchase 0.15 shares of GameSquare Common Stock. As a result, the Company issued an aggregate of 7,194,224 shares of GameSquare Common Stock (the “PIPE Shares”) and warrants to purchase up to 1,079,136 shares of GameSquare Common Stock (the “PIPE Warrants) pursuant to the PIPE Financing. Each whole PIPE Warrant is exercisable for one share of GameSquare Common Stock at an exercise price of $1.55 per share for a period of five years after the Closing Date.
+
+ 
+
+                                                                   26
+
+ 
+
+ 
+
+The PIPE Shares and PIPE Warrants are subject to a four month hold period under Canadian securities laws expiring four months following the Closing Date. The PIPE Shares will not be registered under the Securities Act of 1933, as amended (the “Securities Act”), or any U.S. state securities laws, and were issued pursuant to and in accordance with the exemption from registration under the Securities Act, under Section 4(a)(2) and/or Regulation D promulgated under the Securities Act. The securities may not be offered or sold in the United States absent registration or pursuant to an exemption from the registration requirements of the Securities Act and applicable U.S. state securities laws.
+
+ 
+
+The Company also entered into Registration Rights Agreements with the PIPE Investors (the “Registration Rights Agreements”). The Registration Rights Agreements provide, among other things, that the Company will as promptly as reasonably practicable, and in any event no later than 150 days after the Closing Date (the “Filing Deadline”), file with the SEC (at the Company’s sole cost and expense) a registration statement registering the resale of the PIPE Shares and the shares of GameSquare Common Stock underlying the PIPE Warrants issued to the PIPE Investors, and will use its commercially reasonable efforts to have such registration statement declared effective as soon as practicable after the filing thereof, but no later than the earlier of (i) the 90th calendar day following the Filing Deadline if the SEC notifies the Company that it will “review” such registration statement and (ii) the fifth business day after the date the Company is notified (orally or in writing) by the SEC that such registration statement will not be “reviewed” or will not be subject to further review.
+
+ 
+
+The Company had previously entered into a backstop agreement (the “Backstop Agreement”) with Goff Jones Strategic Partners, LLC (formerly known as Goff & Jones Lending Co, LLC) (“Goff Jones”), to purchase common stock to ensure the PIPE was fully subscribed. The Backstop Agreement was originally announced on October 20, 2023. A total of $6.0 million of securities were issued to Goff Jones in connection with the Backstop Agreement.
+
+ 
+
+Complexity Membership Interest Purchase Agreement
+
+ 
+
+On March 1, 2024, Global Esports Properties, LLC, a Delaware limited liability company (“Buyer”), GameSquare Esports (USA), Inc., a Nevada corporation (“Seller”) and sole member of NextGen Tech, LLC, a Texas limited liability company doing business as Complexity Gaming, and GameSquare Holdings, Inc., a corporation formed under the laws of the province of Ontario (“Beneficial Owner”) (together, the “Parties”) entered into a Membership Interest Purchase Agreement (the “MIPA”) for the purchase of all issued and outstanding interests (the “Interests”) of NextGen Tech, LLC, a Texas limited liability company doing business as Complexity Gaming (the “Transaction”).
+
+ 
+
+The purchase price for the acquired Interests was $10.4 million, subject to final determination and adjustment pursuant to the purchase price adjustment mechanism set forth in the MIPA (the “Purchase Price”). $0.8 million of the Purchase Price was paid in cash at closing and the remainder was paid at closing by delivery of a secured subordinated promissory note (the “Note”) in favor of the Seller in the principal amount of $9.6 million (the “Principal Amount”). Under the Note, the Company is required pay the Principal Amount of the Note, together with all accrued interest (accrued at a rate equal to 3% per annum), fees, premium, charges, costs, and expenses no later than thirty-six (36) months from the date of the Note.
+
+ 
+
+The Note is secured pursuant to a Security Agreement (the “Security Agreement”), which provides for a security interest in Buyer’s collateral (as defined in the Security Agreement) to secure any and all indebtedness, obligations, liabilities, and undertakings under or in respect of the Note.
+
+ 
+
+The Parties’ obligation to complete the Transaction contemplated by the MIPA is subject to certain conditions, including approval by TSXV, which is still outstanding. Accordingly, the Transaction described herein is subject to risk of completion.
+
+ 
+
+The MIPA contains customary representations, warranties, indemnification obligations and agreements of the Parties.
+
+ 
+
+                                                                   27
+
+ 
+
+ 
+
+Current Market Conditions
+
+ 
+
+GameSquare is pursuing organic growth opportunities, as well as M&A growth opportunities. From August 2020 to March 2024, the Company has completed five acquisitions and divested two non-core assets. GameSquare’s organic growth strategy focuses on growing audience and reach within its digital agencies, media network, and teams segments. GameSquare’s digital agencies, teams, and services segments serve the gaming and esports market, and more broadly sports and entertainment through content creation, audience development and growing brand relationships. The digital agency industry is highly fragmented, and these businesses are generally characterized by high revenue growth with healthy earnings before income, taxes, depreciation and amortization margins, which management believes positions the Company well for sustainable growth through organic efforts and presents significant opportunities to grow through accretive acquisitions.
+
+ 
+
+The combination of Engine Gaming’s best-in-class technology assets with GameSquare’s award-winning agency and creative capabilities, allows the Company to offer unparalleled insight into consumer behaviors. It also allows GameSquare to develop data-driven creative strategies, and measure and optimize campaigns towards customer acquisition goals in real-time - creating impactful marketing solutions that drive ROI for its customers.
+
+ 
+
+The Company has invested in its sales organization and continues to see significant growth in the number, and the size, of requests for proposals within its agency businesses. The Company’s financial profile compares very favorably against its esports peers, as well as other companies seeking to engage with youth audiences.
+
+ 
+
+The Company believes enterprise growth may come as a result of synergistic approaches to combining the strengths of its multiple SaaS companies that it can present as a unified offering to the market.
+
+ 
+
+The following is a summary of the Company’s financial performance highlights for the three months ended March 31, 2024 and 2023. This summary should be considered in the context of the additional disclosures in this MD&A which further highlight Company results by segment.
+
+ 
+
+Results of Operations
+
+ 
+
+The following table summarizes our results of operations for the three months ended March 31, 2024 compared to the three months ended March 31, 2023:
+
+ 
+
+                                                                             Three months ended March 31,                           
+
+                                                                              2024                2023              Variance      
+
+Revenue                                                                 $      17,728,224   $       2,790,061   $      14,938,163 
+
+Cost of revenue                                                                14,335,067           1,511,217          12,823,850 
+
+Gross profit                                                                    3,393,157           1,278,844           2,114,313 
+
+Operating expenses:                                                                                                               
+
+General and administrative                                                      4,918,630           2,641,680           2,276,950 
+
+Selling and marketing                                                           2,221,653             741,028           1,480,625 
+
+Research and development                                                          685,153                   -             685,153 
+
+Depreciation and amortization                                                     755,449             140,480             614,969 
+
+Restructuring charges                                                                   -             283,898            (283,898)
+
+Other operating expenses                                                        1,093,420             484,309             609,111 
+
+Total operating expenses                                                        9,674,305           4,291,395           5,382,910 
+
+Loss from continuing operations                                                (6,281,148)         (3,012,551)         (3,268,597)
+
+Other income (expense), net:                                                                                                      
+
+Interest expense                                                                 (435,128)            (23,097)           (412,031)
+
+Change in fair value of convertible debt carried at fair value                   (106,601)                  -            (106,601)
+
+Change in fair value of warrant liability                                          37,257                   -              37,257 
+
+Arbitration settlement reserve                                                     95,125                   -              95,125 
+
+Other income (expense), net                                                      (117,270)               (932)           (116,338)
+
+Total other income (expense), net                                                (526,617)            (24,029)           (502,588)
+
+Loss from continuing operations before income taxes                            (6,807,765)         (3,036,580)         (3,771,185)
+
+Income tax benefit                                                                      -               5,027              (5,027)
+
+Net loss from continuing operations                                            (6,807,765)         (3,031,553)         (3,776,212)
+
+Net income (loss) from discontinued operations                                  1,546,817          (1,313,881)          2,860,698 
+
+Net loss                                                                $      (5,260,948)  $      (4,345,434)  $        (915,514)
+
+ 
+
+                                                                   28
+
+ 
+
+ 
+
+Revenue
+
+ 
+
+The following table disaggregates revenue by revenue stream and geographic region for the three months ended March 31, 2024, and 2023.
+
+ 
+
+                                                                                Three months ended March 31, 2024                     
+
+Segment                                                      United Kingdom          USA              Spain             Total      
+
+Revenue                                                                                                                            
+
+Teams                                                        $            -   $    2,562,953   $            -   $    2,562,953 
+
+Agency                                                              378,649        2,564,208                -        2,942,857 
+
+SaaS + Advertising                                                        -       11,442,510          779,904       12,222,414 
+
+Total Revenue                                                       378,649       16,569,671          779,904       17,728,224 
+
+Cost of sales                                                                                                                  
+
+Teams                                                                     -        1,581,570                -        1,581,570 
+
+Agency                                                              250,632        2,160,674                -        2,411,306 
+
+SaaS + Advertising                                                        -       10,261,585           80,606       10,342,191 
+
+Total Cost of sales                                                 250,632       14,003,829           80,606       14,335,067 
+
+Gross profit                                                                                                                   
+
+Teams                                                                     -          981,383                -          981,383 
+
+Agency                                                              128,017          403,534                -          531,551 
+
+SaaS + Advertising                                                        -        1,180,925          699,298        1,880,223 
+
+Total Gross profit                                           $      128,017   $    2,565,842   $      699,298   $    3,393,157 
+
+ 
+
+                                                                                Three months ended March 31, 2023                     
+
+Segment                                                      United Kingdom          USA             Mexico             Total      
+
+Revenue                                                                                                                            
+
+Teams                                                        $            -   $            -                    $            - 
+
+Agency                                                       $      634,373   $    2,155,688   $            -   $    2,790,061 
+
+SaaS + Advertising                                                        -                -                -                - 
+
+Total Revenue                                                       634,373        2,155,688                -        2,790,061 
+
+Cost of sales                                                                                                                  
+
+Teams                                                                     -                -                                 - 
+
+Agency                                                              531,846          979,371                -        1,511,217 
+
+SaaS + Advertising                                                        -                -                -                - 
+
+Total Cost of sales                                                 531,846          979,371                -        1,511,217 
+
+Gross profit                                                                                                                   
+
+Teams                                                                     -                -                -                - 
+
+Agency                                                              102,527        1,176,317                -        1,278,844 
+
+SaaS + Advertising                                                        -                -                -                - 
+
+Total Gross profit                                           $      102,527   $    1,176,317   $            -   $    1,278,844 
+
+ 
+
+Key Components and Comparison of Results of Operations 
+
+ 
+
+Revenue
+
+ 
+
+Revenues for the three months ended March 31, 2024, were $17.7 million, in comparison to $2.8 million for the same period in 2023. The increase was primarily related to the acquisition of Engine on April 11, 2023 and the acquisition of FaZe on March 7, 2024.
+
+ 
+
+Team Revenue
+
+ 
+
+Team revenue for the three months ended March 31, 2024, was $2.6 million, in comparison to $0 for the same period in 2023. The increase was related to our acquisition of FaZe on March 7, 2024. As such, there is no revenue is this operating segment in the prior year period.
+
+ 
+
+Agency Revenue
+
+ 
+
+Agency revenue for the three months ended March 31, 2024, was $3.0 million, in comparison to $2.8 million for the same period in 2023. The variance was not significant.
+
+ 
+
+                                                                   29
+
+ 
+
+ 
+
+Software-as-a-service (“SaaS”) + Advertising revenue
+
+ 
+
+SaaS + Advertising revenue for the three months ended March 31, 2024, was $12.2 million, in comparison to $0 for the same period in 2023. The increase was related to our acquisition of Engine on April 11, 2023. As such, there is no revenue is this operating segment in the prior year period.
+
+ 
+
+Cost of Sales
+
+ 
+
+Cost of sales for the three months ended March 31, 2024, was $14.3 million, in comparison to $1.5 million for the same period in 2023. The increase was primarily related to an increase in revenue associated with the acquisitions of FaZe and Engine discussed above.
+
+ 
+
+Operating expenses
+
+ 
+
+General and administrative
+
+ 
+
+General and administrative expenses for the three months ended March 31, 2024, was $4.9 million, in comparison to $2.6 million for the same period in 2023. The increase was primarily related to our acquisitions of Faze and Engine as discussed above that did not impact the prior period.
+
+ 
+
+Selling and marketing
+
+ 
+
+Selling and marketing expenses for the three months ended March 31, 2024, was $2.2 million, in comparison to $0.7 million for the same period in 2023. The increase was primarily related to our acquisitions of Faze and Engine as discussed above that did not impact the prior period. 
+
+ 
+
+Research and development
+
+ 
+
+Research and development expenses for the three months ended March 31, 2024, was $0.7 million, in comparison to $0 for the same period in 2023. The increase was the result of an increase in expenses from the operations of Engine that did not impact the comparative period.
+
+ 
+
+Depreciation and amortization
+
+ 
+
+Depreciation and amortization for the three months ended March 31, 2024, was $0.8 million, in comparison to $0.1 million for the same period in 2023. The increase was primarily related to our acquisitions of Faze and Engine as discussed above that did not impact the prior period.
+
+ 
+
+Restructuring charges
+
+ 
+
+There were no restructuring charges for the three months ended March 31, 2024, in comparison to $0.3 million for the same period in 2023. The decrease was primarily related to acquisition of Engine and associated restructuring activities at GameSquare in advance of closing of the acquisition. Various restructuring activities at FaZe occurred prior to the closing of the acquisition on March 7, 2024, and therefore, the associated expenses are not included in the Company’s financial results for the quarter.
+
+ 
+
+Other operating expenses
+
+ 
+
+Other operating expenses for the three months ended March 31, 2024, was $1.1 million, in comparison to $0.5 million for the same period in 2023. Other operating expenses between the quarters consisted solely of transaction related expenses. The increase was primarily related to additional transaction activities in the 2024 period. The 2024 period included transaction costs associated with the acquisition of FaZe and the disposal of Complexity, while the 2023 period only included transaction costs associated with the acquisition of Engine.
+
+ 
+
+                                                                   30
+
+ 
+
+ 
+
+Other income and expenses
+
+ 
+
+Interest expense
+
+ 
+
+Interest expense for the three months ended March 31, 2024, was $0.4 million, in comparison to $23 thousand for the same period in 2023. The increase was primarily related interest expense on convertible debt acquired in connection with the acquisition of Engine and line of credit that was closed in September 2023. We did not have comparable debt instruments outstanding during the comparative period.
+
+ 
+
+Change in fair value of convertible debt carried at fair value
+
+ 
+
+Change in fair value of convertible debt expense for the three months ended March 31, 2024, was $0.1 million, in comparison to no change for the same period in 2023. Prior to the Engine acquisition, we did not have any convertible debt. The change represents adjusting the convertible debt to fair value at the end of the reporting period, primarily driven by changes in our share price.
+
+ 
+
+Change in fair value of warrant liability
+
+ 
+
+Change in fair value of warrant liability gain for the three months ended March 31, 2024, was $37 thousand, in comparison to no change for the same period in 2023. Prior to the Engine acquisition, we did not have any liability measured warrants. The gain represents adjusting the liability measured warrants to fair value at the end of the reporting period, primarily driven by changes in our share price.
+
+ 
+
+Arbitration settlement reserve
+
+ 
+
+Arbitration settlement reserve for the three months ended March 31, 2024, was $0.1 million gain, in comparison to no reserve for the same period in 2023. Prior to the Engine acquisition, we did not have an arbitration settlement reserve. The change represents adjusting the arbitration settlement reserve to fair value at the end of the reporting period, primarily driven by changes in our share price.
+
+ 
+
+Income tax benefit
+
+ 
+
+There was no income tax benefit for the three months ended March 31, 2024, in comparison to $5 thousand for the same period in 2023. The change was trivial between the two periods and relates to change in deferred tax liabilities.
+
+ 
+
+Net income (loss) from discontinued operations
+
+ 
+
+Net income from discontinued operations for the three months ended March 31, 2024, was $1.5 million, in comparison to a net loss of $1.3 million for the same period in 2023. The increase was primarily related to gain on disposal of Complexity of $3.0 million in the 2024 period partially offset by net loss from operations of Complexity of $1.4 million as compared to a net loss from operations of Complexity of $1.3 million in the 2023 period.
+
+ 
+
+Management’s use of Non-GAAP Measures
+
+ 
+
+This MD&A contains certain financial performance measures, including “EBITDA” and “Adjusted EBITDA,” that are not recognized under accounting principles generally accepted in the United States of America (“GAAP”) and do not have a standardized meaning prescribed by GAAP. As a result, these measures may not be comparable to similar measures presented by other companies. For a reconciliation of these measures to the most directly comparable financial information presented in the Financial Statements in accordance with GAAP, see the section entitled “Reconciliation of Non-GAAP Measures” below.
+
+ 
+
+We believe EBITDA is a useful measure to assess the performance of the Company as it provides more meaningful operating results by excluding the effects of expenses that are not reflective of our underlying business performance and other one-time or non-recurring expenses. We define “EBITDA” as net income (loss) before (i) depreciation and amortization; (ii) income taxes; and (iii) interest expense.
+
+ 
+
+                                                                   31
+
+ 
+
+ 
+
+Adjusted EBITDA
+
+ 
+
+We believe Adjusted EBITDA is a useful measure to assess the performance of the Company as it provides more meaningful operating results by excluding the effects of expenses that are not reflective of our underlying business performance and other one-time or non-recurring expenses. We define “Adjusted EBITDA” as EBITDA adjusted to exclude extraordinary items, non-recurring items and other non-cash items, including, but not limited to (i) share based compensation expense, (ii) transaction costs related to merger and acquisition activities, (iii) arbitration settlement reserves and other non-recurring legal settlement expenses, (iv) restructuring costs, primarily comprised of employee severance resulting from integration of acquired businesses, (v) impairment of goodwill and intangible assets, (vi) gains and losses on extinguishment of debt, (vii) change in fair value of assets and liabilities adjusted to fair value on a quarterly basis, and (viii) gains and losses from discontinued operations.
+
+ 
+
+Reconciliation of Non-GAAP Measures
+
+ 
+
+A reconciliation of Adjusted EBITDA to the most directly comparable measure determined under US GAAP is set out below.
+
+ 
+
+                                                                                                 Three months ended March 31,          
+
+                                                                                                 2024                   2023         
+
+Net loss                                                                                 $         (5,260,948)  $         (4,345,434)
+
+Interest expense                                                                                      435,128                 23,097 
+
+Income tax benefit                                                                                          -                 (5,027)
+
+Amortization and depreciation                                                                         755,449                140,480 
+
+Share-based payments                                                                                  419,228                565,380 
+
+Transaction costs                                                                                   1,093,420                484,309 
+
+Arbitration settlement reserve                                                                        (95,125)                     - 
+
+Restructuring costs                                                                                         -                283,898 
+
+Change in fair value of warrant liability                                                             (37,257)                     - 
+
+Change in fair value of convertible debt carried at fair value                                        106,601                      - 
+
+Gain on disposition of subsidiary                                                                  (3,009,891)                     - 
+
+Loss from discontinued operations                                                                   1,463,074              1,313,881 
+
+Adjusted EBITDA                                                                          $         (4,130,321)  $         (1,539,416)
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+Overview
+
+ 
+
+The financial statements have been prepared on a going-concern basis, which assumes the realization of assets and liquidation of liabilities in the normal course of business. Continuing operations, as intended, are dependent on management’s ability to raise required funding through future equity issuances, its ability to acquire business interests and develop profitable operations or a combination thereof, which is not assured, given today’s volatile and uncertain financial markets. We may revise programs depending on our working capital position.
+
+ 
+
+Our approach to managing liquidity risk is to ensure that we will have sufficient liquidity to meet liabilities when due. Our liquidity and operating results may be adversely affected if our access to the capital market is hindered, whether as a result of a downturn in stock market conditions generally or as a result of conditions specific to the Company.
+
+ 
+
+We regularly evaluate our cash position to ensure preservation and security of capital as well as maintenance of liquidity. As we do not presently generate sufficient revenue to cover costs, managing liquidity risk is dependent upon the ability to reduce monthly operating cash outflow and secure additional financing. The recoverability of the carrying value of the assets and our continued existence is dependent upon our ability to raise financing in the near term, and ultimately the achievement of profitable operations.
+
+ 
+
+As of March 31, 2024, cash and restricted cash totaled $7.8 million, compared to $3.0 million as of December 31, 2023.
+
+ 
+
+We have plans to raise additional funds. While management has been historically successful in raising the necessary capital, it cannot provide assurance that it will be able to execute its business strategy or be successful in future financing activities.
+
+ 
+
+Our ability to maintain sufficient liquidity could be affected by various risks and uncertainties including, but not limited to, our ability to raise additional funds through financing, those related to consumer demand and acceptance of our products and services, our ability to collect payments as they become due, achieving our internal forecasts and objectives, the economic conditions of the United States and abroad.
+
+
+
+ 
+
+                                                                   32
+
+ 
+
+ 
+
+Sources and Uses of Cash
+
+ 
+
+Since inception, we have financed our operations primarily by issuing equity and debt, including the proceeds of the acquisition of Engine. As of March 31, 2024, our principal sources of liquidity were our cash in the amount of $7.2 million, available borrowings under our line of credit as well as new debt and/or equity issuances.
+
+ 
+
+As discussed in recent developments above, we obtained gross proceeds of $10.0 million from the PIPE Financing on March 7, 2024.
+
+ 
+
+Operating Activities
+
+ 
+
+Net cash used in operating activities was $8.0 million during the three months ended March 31, 2024, compared with $0.7 million used in operating activities in the comparative period. The use of funds in operating activities is described in the Results of Operations section above.
+
+ 
+
+Investing Activities
+
+ 
+
+Net cash provided by investing activities was $2.7 million for the three months ended March 31, 2024.
+
+ 
+
+Net cash used in investing activities was $120 thousand for the three months ended March 31, 2023.
+
+ 
+
+Financing Activities
+
+ 
+
+Net cash provided by financing activities was $9.5 million for the three months ended March 31, 2024, which was primarily due to PIPE Financing on March 7, 2024. There was no cash provided by (used in) financing activities for the three months ended March 31, 2023.
+
+ 
+
+Commitments and Contingencies
+
+ 
+
+Management commitments
+
+ 
+
+The Company is party to certain management contracts. These contracts require payments of approximately $0.6 million to be made upon the occurrence of a change in control and termination without cause to certain officers of the Company. The Company is also committed to payments upon termination without cause of approximately $1.1 million pursuant to the terms of these contracts. As a triggering event has not taken place, these amounts have not been recorded in these consolidated financial statements.
+
+ 
+
+Former activities
+
+ 
+
+The Company was previously involved in oil and gas exploration activities in Canada, the United States and Colombia. The Company ceased all direct oil and gas exploration activities in 2014. While management estimated that the exposure to additional liabilities from its former oil and gas activities over and above the reclamation deposits held in trust for the Alberta Energy Regulator of $0.3 million to be remote, the outcome of any such contingent matters is inherently uncertain.
+
+ 
+
+Litigation and arbitration
+
+ 
+
+We are subject to various claims, lawsuits and other complaints arising in the ordinary course of business. We record provisions for losses when claims become probable, and the amounts are estimable. Although the outcome of such matters cannot be determined, it is the opinion of management that the final resolution of these matters will not have a material adverse effect on our financial condition, operations, or liquidity.
+
+ 
+
+                                                                   33
+
+ 
+
+ 
+
+Revenue recognition
+
+ 
+
+Revenue is measured based on the consideration specified in a contract with a customer. The Company recognizes revenue when it transfers control of its services to a customer.
+
+ 
+
+The following provides information about the nature and timing of the satisfaction of performance obligations in contracts with customers, including significant payment terms and related revenue recognition policies:
+
+ 
+
+Talent representation service revenues
+
+ 
+
+Talent representation service revenue is recorded on completion of the event in which the talent management service has been provided.
+
+ 
+
+Influencer promotional fees
+
+ 
+
+Influencer marketing and promotional fees are recognized over the period during which the services are performed. Revenue and income from custom service contracts are determined on the percentage of completion method, based on the ratio of contract timepassed in the reporting period over estimated total length of the contract.
+
+ 
+
+Consulting fees and other revenues
+
+ 
+
+Consulting fees and other revenues are recognized when the services have been performed.
+
+ 
+
+Software-as-a-service
+
+ 
+
+The Company enters into license agreements with customers for its content management system, video software, and mobile applications (Frankly), e-sports data platform (Stream Hatchet) and an influencer marketing platform (SideQik). These license agreements, generally non-cancellable, without paying a termination penalty, and multiyear, provide the customer with the right to use the Company’s application solely on a Company-hosted platform or, in certain instances, on purchased encoders. The license agreements also entitle the customer to technical support.
+
+ 
+
+Revenue from these license agreements is recognized ratably over the license term. Early termination fees are recognized when a customer ceases use of agreed upon services prior to the expiration of their contract. These fees are recognized in full on the date the customer has completed their migration of the Company’s solutions and there is no continuing service obligation to the customer.
+
+ 
+
+The Company charges its customers for the optional use of its content delivery network to stream and store videos. The revenue is recognized as earned based on the actual usage because it has stand-alone value and delivery is in control of the customer. The Company also charges its customers for the use of its ad serving platform to serve ads under local advertising campaigns. The Company reports revenue as earned based on the actual usage.
+
+ 
+
+Advertising
+
+ 
+
+Under national advertising agreements with advertisers, the Company sources, creates, and places advertising campaigns that run across the Company’s network of publisher sites. National advertising revenue, net of third-party costs, is shared with publishers based on their respective contractual agreements. The Company invoices national advertising amounts due from advertisers and remits payments to publishers for their share. Depending on the agreement with the publisher, the obligation to remit payment to the publisher is based on either billing to the advertiser or the collection of cash from the advertiser.
+
+ 
+
+National advertising revenue is recognized in the period during which the ad impressions are delivered. The Company reports revenue earned through national advertising agreements either on a net or gross basis. The Company applies judgement in recognizing revenue earned through national advertising agreements on a net or gross basis based on the criteria as disclosed below.
+
+ 
+
+Under national advertising agreements wherein the Company does not bear inventory risk and only has credit risk on its portion of the revenue, national advertising revenues are accounted for on a net basis and the publisher is identified as the customer. In select national advertising agreements with its publishers, the Company takes on inventory risk and additional credit risk. Under these agreements, the Company either a) provides the publisher with a guaranteed minimum gross selling price per advertising unit delivered, wherein the greater of the actual selling price or guaranteed minimum selling price is used in determining the publisher’s share or b) provides the publisher with a fixed rate per advertising unit delivered, wherein the publisher is paid the fixed rate per advertising unit delivered irrespective of the actual selling price. Under these national advertising agreements, national advertising revenues are accounted for on a gross basis with the advertiser identified as the customer and the publisher identified as a supplier, with amounts billed to the advertiser reported as revenue and amounts due to the publisher reported as a revenue sharing expense, within expenses.
+
+ 
+
+                                                                   34
+
+ 
+
+ 
+
+Also included in advertising revenue is advertising revenue generated by the Company’s various owned and operated properties.
+
+ 
+
+Brand Sponsorships
+
+ 
+
+The Company offers advertisers a full range of promotional vehicles, including but not limited to online advertising, livestream announcements, event content generation, social media posts, logo placement on the Company’s official merchandise, and special appearances of members of the Company’s talent roster. The Company’s brand sponsorship agreements may include multiple services that are capable of being individually distinct; however the intended benefit is an association with the Company’s brand, and the services are not distinct within the context of the contracts. Revenues from brand sponsorship agreements are recognized ratably over the contract term. Payment terms and conditions vary, but payments are generally due periodically throughout the term of the contract. In instances where the timing of revenue recognition differs from the timing of billing, management has determined the brand sponsorship agreements generally do not include a significant financing component.
+
+ 
+
+Content
+
+ 
+
+The Company and its talent roster generate and produce original content which the Company monetizes through Google’s AdSense service. Revenue is variable and is earned when the visitor views or “clicks through” on the advertisement. The amount of revenue earned is reported to the Company monthly and is recognized upon receipt of the report of viewership activity. Payment terms and conditions vary, but payments are generally due within 30 to 45 days after the end of each month.
+
+ 
+
+The Company grants exclusive licenses to customers for certain content produced by the Company’s talent. The Company grants the customer a license to the intellectual property, which is the content and its use in generating advertising revenues, for a pre-determined period, for an amount paid by the customer, in most instances, upon execution of the contract. The Company’s only performance obligation is to license the content for use in generating advertising revenues, and the Company recognizes the full contract amount at the point at which the Company provides the customer access to the content, which is at the execution of the contract. The Company has no further performance obligations under these types of contracts and does not anticipate generating any additional revenue from these arrangements apart from the contract amount.
+
+ 
+
+Consumer Products
+
+ 
+
+The Company earns consumer products revenue from sales of the Company’s consumer products on the Company’s website or at live or virtual events. Revenues are recognized at a point in time, as control is transferred to the customer upon shipment. The Company offers customer returns and discounts through a third-party distributor and accounts for this as a reduction to revenue. The Company does not offer loyalty programs or other sales incentive programs that are material to revenue recognition. Payment is due at the time of sale. The Company has outsourced the design, manufacturing, fulfillment, distribution, and sale of the Company’s consumer products to a third party in exchange for royalties based on the amount of revenue generated. Management evaluated the terms of the agreement to determine whether the Company’s consumer products revenues should be reported gross or net of royalties paid. Key indicators that management evaluated in determining whether the Company is the principal in the sale (gross reporting) or an agent (net reporting) include, but are not limited to:
+
+ 
+
+     ●    the Company is the party that is primarily responsible for fulfilling the promise to provide the specified good or service,
+
+           
+
+     ●    the Company has inventory risk before the good is transferred to the customer, and
+
+           
+
+     ●    the Company is the party that has discretion in establishing pricing for the specified good or service.
+
+ 
+
+Based on management’s evaluation of the above indicators, the Company reports consumer products revenues on a gross basis.
+
+ 
+
+Esports
+
+ 
+
+League Participation: Generally, The Company has one performance obligation—to participate in the overall Esport event—because the underlying activities do not have standalone value absent the Company’s participation in the tournament or event. Revenue from prize winnings and profit-share agreements is variable and is highly uncertain. The Company recognizes revenue at the point in time when the uncertainty is resolved.
+
+ 
+
+Player Transfer Fees: Player transfer agreements include a fixed fee and may include a variable fee component. The Company recognizes the fixed portion of revenue from transfer fees upon satisfaction of the Company’s performance obligation, which coincides with the execution of the related agreement. The variable portion of revenue is considered highly uncertain and is recognized at the point in time when the uncertainty is resolved.
+
+ 
+
+Licensing of Intellectual Property: The Company’s licenses of intellectual property generate royalties that are recognized in accordance with the royalty recognition constraint. That is, royalty revenue is recognized at the time when the sale occurs.
+
+ 
+
+The Company assesses its revenue arrangements against specific criteria in order to determine if it is acting as principal or agent. When the Company acts in the capacity of an agent rather than as the principal in a transaction, the revenue recognized is the net amount of commission made by the Company.
+
+ 
+
+Deferred revenue consists of customer advances for Company services to be rendered that will be recognized as income in future periods.
+
+ 
+
+                                                                   35
+
+ 
+
+ 
+
+Income taxes
+
+ 
+
+Income tax on the profit or loss for the periods presented comprises current and deferred tax. Income tax is recognized in profit or loss except to the extent that it relates to items recognized directly in equity, in which case it is recognized in equity.
+
+ 
+
+Current tax expense is the expected tax payable on the taxable income for the year, using tax rates enacted or substantively enacted at year end, adjusted for amendments to tax payable with regards to previous years.
+
+ 
+
+Deferred tax is provided using the liability method, providing for temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes. Deferred tax is not recognized for the following temporary differences: the initial recognition of goodwill; the initial recognition of assets or liabilities in a transaction that is not a business combination and that affects neither accounting nor taxable profit; and differences relating to investments in subsidiaries, associates, and jointly controlled entities to the extent that they will probably not reverse in the foreseeable future. The amount of deferred tax provided is based on the expected manner of realization or settlement of the carrying amount of assets and liabilities, using tax rates enacted or substantively enacted at the financial position reporting date applicable to the period of expected realization or settlement.
+
+ 
+
+A deferred tax asset is recognized only to the extent that it is probable that future taxable profits will be available against which the asset can be utilized.
+
+ 
+
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when they relate to income taxes levied by the same taxation authority and the Company intends to settle its current tax assets and liabilities on a net basis.
+
+ 
+
+Investments
+
+ 
+
+Investments in and advances to entities or joint ventures in which the Company has significant influence, but less than a controlling financial interest, are accounted for using the equity method. Significant influence is generally presumed to exist when the Company owns an interest between 20% and 50% and exercises significant influence.
+
+ 
+
+In accordance with ASC 321 “Investments—Equity Securities” (“ASC 321”), equity securities which the Company has no significant influence (generally less than a 20% ownership interest) with readily determinable fair values are accounted for at fair value based on quoted market prices. Equity securities without readily determinable fair values are accounted for either at fair value or using the measurement alternative which is at cost minus impairment, if any, plus or minus changes resulting from observable price changes in orderly transactions for the identical or a similar investment of the same issuer. All gains and losses on investments in equity securities are recognized in the consolidated statements of operations and comprehensive loss.
+
+ 
+
+                                                                   36
+
+ 
+
+ 
+
+Equity securities accounted for under the measurement alternative, the Company assesses the securities for impairment indicators, at least annually, or more frequently if there are any indicators of impairment. If the assessment indicates that the fair value of the investment is less than its carrying value, the investment is impaired and an impairment charge equal to the excess of the carrying value over the related fair value of the investment will be recorded.
+
+ 
+
+Business combinations
+
+ 
+
+The results of businesses acquired in a business combination are included in the Company’s consolidated financial statements from the date of the acquisition. The Company uses the acquisition method of accounting and allocates the purchase price to the identifiable assets and liabilities of the relevant acquired business at their acquisition date fair values. Any excess consideration over the fair value of assets acquired and liabilities assumed is recognized as goodwill. The allocation of the purchase price in a business combination requires the Company to perform valuations with significant judgment and estimates, including the selection of valuation methodologies, estimates of future revenue, costs and cash flows, discount rates and selection of comparable companies. The Company engages the assistance of valuation specialists in concluding on fair value measurements in connection with determining fair values of assets acquired and liabilities assumed in a business combination. As a result, during the measurement period, which may be up to one year from the acquisition date, the Company records adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of the measurement period or final determination of the values of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to the consolidated statements of operations. Transaction costs associated with business combinations are expensed as incurred and are included in selling, general and administrative expense in the consolidated statements of operations.
+
+ 
+
+Impairment of long-lived assets and goodwill
+
+ 
+
+Long-lived assets consist of property and equipment, right-of-use assets and intangible assets. The Company assesses for impairment of asset groups, including intangible assets, at least annually, or more frequently if there are any indicators for impairment.
+
+ 
+
+Goodwill and indefinite life intangible assets are tested for impairment annually or when there is an indication that the asset may be impaired.
+
+ 
+
+When a triggering event that occurred during the reporting period is identified, or when the annual impairment test is required, the Company may first assess qualitative factors to determine whether it is more likely than not that goodwill is impaired. If the Company determines it is more likely than not that goodwill is not impaired, an impairment test is not necessary. If an impairment test is necessary, management estimates the fair value of the Company. If the carrying value of the Company exceeds its fair value, goodwill is determined to be impaired, and an impairment charge equal to the excess of the carrying value over the related fair value of the Company will be recorded. If the qualitative assessment indicates that it is more likely than not that goodwill is not impaired, further testing is unnecessary.
+
+ 
+
+Fair value option for convertible debt
+
+ 
+
+The Company elected the Fair Value Option (“FVO”) for recognition of its convertible debt as permitted under ASC 825, Financial Instruments. Under the FVO, the Company recognizes the convertible debt at fair value with changes in fair value recognized in earnings. The FVO may be applied instrument by instrument, but it is irrevocable. As a result of applying the FVO, any direct costs and fees related to the convertible debt is recognized in operating expense in the consolidated statements of operations and comprehensive loss as incurred and not deferred. Changes in fair value of the convertible debt is recognized as a separate line in the consolidated statements of operations and comprehensive loss.
+
+ 
+
+                                                                   37
+
+ 
+
+ 
+
+Contingencies
+
+ 
+
+The Company estimates loss contingencies in accordance with ASC 450-20, Loss Contingencies, which states that a loss contingency shall be accrued by a charge to income if both of the following conditions are met: (i) information available before the consolidated financial statements are issued or are available to be issued indicates that it is probable that a liability had been incurred at the date of the consolidated financial statements and (ii) the amount of loss can be reasonably estimated. Management regularly evaluates current information available to determine whether such accruals should be adjusted and whether new accruals are required.
+
+ 
+
+Off-Balance Sheet Arrangements
+
+ 
+
+We do not have any off-balance sheet arrangements that have, or are reasonably likely to have, a current or future material effect on the results of operations or financial condition of the Company including, without limitation, such considerations as liquidity and capital resources.
+
+ 
+
+Critical Accounting Policies and Estimates
+
+ 
+
+Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of our consolidated financial statements and related disclosures requires us to make estimates, assumptions, and judgments as of the balance sheet date that affect the reported amounts of assets, liabilities, revenues, costs and expenses and related disclosures. Our actual results may differ from these estimates under different assumptions and conditions.
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+See Note 3 to our consolidated financial statements included in this Quarterly Report on Form 10-Q for a description of recently adopted accounting pronouncements and recently issued accounting pronouncements not yet adopted, the timing of their adoptions and our assessment, to the extent we have made one, of their potential impact on our financial condition and results of operations.
+
+ 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ 
+
+The Company is a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and is not required to provide the information required under this Item.
+
+ 
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+ 
+
+Disclosure Controls and Procedures
+
+ 
+
+Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure.
+
+ 
+
+As required by Rules 13a-15 and 15d-15 under the Exchange Act, our management carried out an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures under the supervision of our Chief Executive Officer and our Chief Financial Officer and concluded that our disclosure controls and procedures were not effective as of March 31, 2024. Material weaknesses relating to the Design and Implementation of Control Activities and Monitoring Activities were identified. The Company did not have sufficient resources with the relevant expertise to perform an effective risk assessment process, design and implement controls supported by documentation and provide evidence that such controls designed was based on the COSO Framework.
+
+ 
+
+The material weaknesses in risk assessment, control activities and monitoring activities contributed to the following material weaknesses: (i) the Company did not complete a documented risk assessment, and (ii) the Company did not identify all risks and design relevant controls related to system of internal controls. As a consequence of the aggregation of the foregoing deficiencies in the Company’s DC&P and ICFR design, the Company did not have effective control activities related to the design of process-level and management review control activities. Aside from these deficiencies, management believes that the Company’s consolidated financial statements for three months ended March 31, 2024, present fairly in all material respects, the Company’s financial position, results of operations, changes in shareholders’ equity and cash flows in accordance with U.S GAAP. The Company does not believe and is not aware of any circumstance in which the potential weaknesses have impacted the Company’s financial reporting and as a result, there were no material adjustments to the Company’s consolidated financial statements for the three months ended March 31, 2024. In addition, there were no changes to previously released financial results. However, if the collective deficiencies were deemed to create a material weakness, a material misstatement to our consolidated financial statements might not be prevented or detected on a timely basis.
+
+ 
+
+Management’s Remediation Measures
+
+ 
+
+To address the deficiencies identified, management, with oversight of the Audit Committee, has implemented, or will implement, remediation measures to further address the deficiencies in the design of its DC&P and ICFR. The Company intends to complete such remedial measures by December 31, 2025. Management has also performed an initial risk assessment using a top-down, risk-based approach with respect to the risks of material misstatement of the consolidated financial statements. In addition, compensating controls have been applied to a number of areas where the risks of material misstatement are considered moderate to high. The Company is engaging outside resources to strengthen the business process documentation and help with management’s self assessment and testing of internal controls. Although the Company can give no assurance that these actions will remediate these deficiencies or that additional deficiencies or a material weaknesses will not be identified in the future, management believes the foregoing efforts will, when implemented, strengthen our DC&P and ICFR. Management will take additional remedial actions as necessary as they continue to evaluate and work to improve the Company’s control environment.
+
+ 
+
+Changes in Internal Control Over Financial Reporting
+
+ 
+
+There were no changes in the Company’s internal control over financial reporting that occurred during the three months ended March 31, 2024 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+ 
+
+                                                                   38
+
+ 
+
+ 
+
+PART II - OTHER INFORMATION
+
+ 
+
+ITEM 1. LEGAL PROCEEDINGS
+
+ 
+
+The Company is subject, from time to time, to various legal proceedings that are incidental to the conduct of its business.
+
+ 
+
+In April 2020, Engine announced its renegotiation of the acquisition of Allinsports. The revised purchase agreement provided for the acquisition of 100% of Allinsports in exchange for the issuance of 241,666 common shares of the Engine and other considerations, including payments of $1,200,000 as a portion of the purchase consideration. In September 2020, Engine advised the shareholders of Allinsports that closing conditions of the transaction, including the requirement to provide audited financial statements, had not been satisfied.
+
+ 
+
+In response, in November 2020, the shareholders of Allinsports commenced arbitration in Alberta, Canada seeking, among other things, to compel Engine to complete the acquisition of Allinsports without the audited financial statements, and to issue 241,666 common shares of Engine to those shareholders. As alternative relief, the shareholders of Allinsports sought up to $20.0 million in damages. A hearing in this matter was held in May of 2021, and by a decision dated September 30, 2021, the Arbitrator determined that the closing of the transaction had previously occurred and directed Engine to issue 241,666 common shares. In conjunction with completion of the Arrangement (see Note 4), the Company assumed this obligation to issue 241,666 common shares. The Company is pursuing regulatory approval to issue the shares and is also pursuing relief against Allinsports shareholders for various alleged breaches of the share purchase agreement. The Company recognized a liability for the arbitration ruling of $1.5 million, which represented the fair value of the common shares directed to be delivered as of April 11, 2023, the closing date of the Arrangement. The liability is recorded as arbitration reserve on the Company’s consolidated balance sheets. This liability will be adjusted to fair value at the end of each reporting period.
+
+ 
+
+By Order to Continue dated May 5, 2022, Engine was substituted in as the plaintiff in a matter pending in the Ontario Superior Court of Justice, seeking recovery of $2.1 million (€1.9 million) of principal and additional amounts of accrued interest under promissory notes acquired by Engine. The matter is in the discovery stage.
+
+ 
+
+The outcomes of pending litigations in which the Company is involved are necessarily uncertain as are the Company’s expenses in prosecuting and defending these actions. From time to time the Company may modify litigation strategy and/or the terms on which it retains counsel and other professionals in connection with such actions, which may affect the outcomes of and/or the expenses incurred in connection with such actions.
+
+ 
+
+                                                                   39
+
+ 
+
+ 
+
+The Company is subject to various other claims, lawsuits and other complaints arising in the ordinary course of business. The Company records provisions for losses when claims become probable, and the amounts are estimable. Although the outcome of such matters cannot be determined, it is the opinion of management that the final resolution of these matters will not have a material adverse effect on the Company’s financial condition, operations, or liquidity.
+
+ 
+
+ITEM 1A. RISK FACTORS
+
+ 
+
+The Company is a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and is not required to provide the information required under this Item.
+
+ 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+ 
+
+Repurchases of Shares
+
+ 
+
+None.
+
+ 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+ 
+
+None.
+
+ 
+
+ITEM 4. MINE SAFETY DISCLOSURES
+
+ 
+
+Not applicable.
+
+ 
+
+ITEM 5. OTHER INFORMATION
+
+ 
+
+During the three months ended March 31, 2024, no director or officer of the Company adopted or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+
+ 
+
+                                                                   40
+
+ 
+
+ 
+
+ITEM 6. EXHIBITS
+
+ 
+
+GAMESQUARE HOLDINGS, INC.
+
+FORM 10-Q
+
+EXHIBIT INDEX
+
+ 
+
+The exhibits to this Form 10-Q are listed in the following Exhibit Index:
+
+ 
+
+Exhibit No.      Description
+
+                  
+
+2.1              Agreement and Plan of Merger, dated as of October 19, 2023, by and among Registrant, GameSquare Merger Sub I, Inc.,
+
+                  and FaZe Holdings Inc. (incorporated by reference to Exhibit 2.1 to Registrant’s Current Report on Form 6-K filed
+
+                  with the SEC on October 20,
+
+                  2023).
+
+                  
+
+2.2              First Amendment to Agreement and Plan of Merger, dated as of December 19, 2023, by and among Registrant, GameSquare
+
+                  Merger Sub I, Inc., and FaZe Holdings Inc. (incorporated by reference to Exhibit 2.1 to Registrant’s Current Report
+
+                  on Form 6-K, filed with the SEC on December 22,
+
+                  2023).
+
+                  
+
+3.1              Certificate of Incorporation of GameSquare Holdings, Inc. (incorporated by reference to Exhibit 3.1 to Registrant’s
+
+                  Current Report on Form 8-K filed with the SEC on March 13,
+
+                  2024).
+
+                  
+
+3.2              Bylaws of GameSquare Holdings, Inc. (incorporated by reference to Exhibit 3.2 to Registrant’s Current Report on Form
+
+                  8-K filed with the SEC on March 13,
+
+                  2024).
+
+                  
+
+4.1              Form of PIPE Warrant (incorporated by reference to Exhibit 4.1 to Registrant’s Current Report on Form 8-K filed with
+
+                  the SEC on March 13,
+
+                  2024).
+
+                  
+
+10.1             Asset Purchase Agreement, dated as of November 10, 2023, by and among Frankly Media LLC, GameSquare Holdings, Inc.,
+
+                  and SoCast Inc. (incorporated by reference to Exhibit 10.1 to the Registrant’s Current Report on Form 8-K, filed
+
+                  with the SEC on January 4,
+
+                  2024).
+
+                  
+
+10.2             Amendment No. 1 to the Asset Purchase Agreement, dated as of December 15, 2023, by and among Frankly Media LLC,
+
+                  GameSquare Holdings, Inc., and SoCast Inc.(incorporated by reference to Exhibit 10.2 to the Registrant’s Current
+
+                  Report on Form 8-K, filed with the SEC on January 4,
+
+                  2024).
+
+                  
+
+10.3             Amendment No. 2 to the Asset Purchase Agreement, dated as of December 22, 2023, by and among Frankly Media LLC,
+
+                  GameSquare Holdings, Inc., and SoCast Inc. (incorporated by reference to Exhibit 10.3 to the Registrant’s Current
+
+                  Report on Form 8-K, filed with the SEC on January 4,
+
+                  2024).
+
+                  
+
+10.4             Amendment No. 3 to the Asset Purchase Agreement, dated as of December 27, 2023, by and among Frankly Media LLC,
+
+                  GameSquare Holdings, Inc., and SoCast Inc. (incorporated by reference to Exhibit 10.4 to the Registrant’s Current
+
+                  Report on Form 8-K, filed with the SEC on January 4,
+
+                  2024).
+
+                  
+
+10.5             Convertible Note, dated as of December 29, 2023, by and between GameSquare Holdings, Inc. and King Street Partners
+
+                  LLC (incorporated by reference to Exhibit 10.5 to the Registrant’s Current Report on Form 8-K, filed with the SEC on
+
+                  January 4,
+
+                  2024).
+
+                  
+
+10.6             Security Agreement, dated as of December 29, 2023, by and between GameSquare Holdings, Inc. and King Street Partners
+
+                  LLC (incorporated by reference to Exhibit 10.6 to the Registrant’s Current Report on Form 8-K, filed with the SEC on
+
+                  January 4,
+
+                  2024).
+
+                  
+
+10.7             Membership Interest Purchase Agreement, dated as of March 1, 2024, by and among Global Esports Properties, LLC,
+
+                  GameSquare Esports (USA), Inc., and GameSquare Holdings, Inc. (incorporated by reference to Exhibit 10.1 to the
+
+                  Registrant’s Current Report on Form 8-K, filed with the SEC on March 4,
+
+                  2024).
+
+                  
+
+10.8             Secured Promissory Note, dated as of March 1, 2024, by and between Global Esports Properties, LLC and GameSquare
+
+                  Esports (USA), Inc. (incorporated by reference to Exhibit 10.2 to the Registrant’s Current Report on Form 8-K, filed
+
+                  with the SEC on March 4,
+
+                  2024).
+
+                  
+
+10.9             Security Agreement, dated as of March 1, 2024, by and between Global Esports Properties, LLC and GameSquare Esports
+
+                  (USA), Inc. (incorporated by reference to Exhibit 10.3 to the Registrant’s Current Report on Form 8-K, filed with
+
+                  the SEC on March 4,
+
+                  2024).
+
+                  
+
+10.10            Backstop Agreement, dated as of October 19, 2023, by and among Registrant and Goff & Jones Lending Co, LLC
+
+                  (incorporated by reference to Exhibit 10.3 to Registrant’s Current Report on Form 6-K filed with the SEC on October
+
+                  20,
+
+                  2023).
+
+                  
+
+10.11            Form of Registration Rights Agreement (incorporated by reference to Exhibit 10.3 to Registrant’s Current Report on
+
+                  Form 8-K filed with the SEC on March 13,
+
+                  2024).
+
+                  
+
+10.12            Form of Subscription Agreement (incorporated by reference to Exhibit 10.1 to Registrant’s Current Report on Form 8-K
+
+                  filed with the SEC on March 13,
+
+                  2024).
+
+                  
+
+31.1*            Certification of Principal Executive Officer pursuant to Rule 13(a)-14(a) or 15d-14(a) of the Securities Exchange Act
+
+                  of 1934, as adopted pursuant to Section 302 of Sarbanes-Oxley Act of
+
+                  2002.
+
+31.2*            Certification of Principal Financial Officer pursuant to Rule 13(a)-14(a) or 15d-14(a) of the Securities Exchange Act
+
+                  of 1934, as adopted pursuant to Section 302 of Sarbanes-Oxley Act of
+
+                  2002.
+
+32.1**           Certification of Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+
+                  of the Sarbanes-Oxley Act of
+
+                  2002.
+
+32.2**           Certification of Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+
+                  of the Sarbanes-Oxley Act of
+
+                  2002.
+
+101*             The following materials from GameSquare Holdings, Inc.’s Quarterly Report on Form 10-Q for the quarter ended March
+
+                  31, 2024 are filed herewith, formatted in iXBRL (Inline Extensible Business Reporting Language): (i) the Condensed
+
+                  Consolidated Statements of Operations for the three months ended March 31, 2024 and 2023, (ii) the Condensed
+
+                  Consolidated Statements of Other Comprehensive Income (Loss) for the three months ended March 31, 2024 and 2023,
+
+                  (iii) the Condensed Consolidated Balance Sheets as of March 31, 2024 and December 31, 2023, (iv) the Condensed
+
+                  Consolidated Statements of Cash Flows for the three months ended March 31, 2024 and 2023, (v) the Condensed
+
+                  Consolidated Statements of Stockholders’ Equity for the three months ended March 31, 2024 and 2023, and (vi) Notes
+
+                  to Condensed Consolidated Financial
+
+                  Statements.
+
+101.INS*         Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL
+
+                  tags are embedded within the Inline XBRL
+
+                  document.
+
+101.SCH*         Inline XBRL Taxonomy Extension Schema with Embedded Linkbase Documents.
+
+104*             Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+
+ 
+
+*Filed herewith.
+
+** Furnished, not filed.
+
+ 
+
+                                                                   41
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+                                                                   GAMESQUARE HOLDINGS, INC.
+
+                                                                   (Registrant)
+
+                                                                        
+
+Dated: May 20, 2024                                                By: /s/ JUSTIN KENNA
+
+                                                                       Justin Kenna
+
+                                                                       Chief Executive Officer
+
+                                                                       (Principal Executive Officer)
+
+                                                                        
+
+Dated: May 20, 2024                                                By: /s/ MICHAEL MUNOZ
+
+                                                                       Michael Munoz
+
+                                                                       Chief Financial Officer
+
+                                                                       (Principal Financial Officer)
+
+ 
+
+                                                                   42

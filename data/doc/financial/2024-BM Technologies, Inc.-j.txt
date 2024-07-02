@@ -1,0 +1,2175 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+
+
+☒    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended March 31, 2024
+
+OR
+
+
+
+☐    Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+For the transition period from to 
+
+Commission file number 001-38633
+
+BM Technologies, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+
+
+                        Delaware                                                                      82-3410369
+
+    (State or other jurisdiction of incorporation or                                     (I.R.S. Employer Identification No.)
+
+                      organization)
+
+
+
+          201 King of Prussia Road, Suite 650
+
+                  Wayne, Pennsylvania                                                                   19087
+
+            (Address of Principal Executive)                                                          (Zip-Code)
+
+(877) 327-9515
+
+Registrant's telephone number, including area code
+
+
+
+(Former name, former address, and former fiscal year, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+
+
+                Title of each class                                Trading Symbol(s)                     Name of each exchange on which registered 
+
+                   Common Stock                                           BMTX                                       NYSE American LLC
+
+ Warrants, each whole warrant exercisable for one                       BMTX-WT                                      NYSE American LLC
+
+   share of Common Stock at an exercise price of
+
+                     $11.50 per
+
+                       share
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports); and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☒   No  ☐
+
+
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes  ☒   No  ☐
+
+
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, non-accelerated filer, and emerging growth company in Rule 12b-2 of the Exchange Act.  
+
+
+
+        
+
+
+
+Large accelerated filer                     ☐          Accelerated filer                            ☐
+
+non-accelerated filer                       ☒          Smaller reporting company                    ☒ 
+
+                                                       Emerging growth Company                      ☒ 
+
+            
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).     ☐ 
+
+
+
+The registrant had issued and outstanding 12,052,560 shares of common stock, par value $0.0001 per share, as of May 09, 2024. 
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+                                                                                                                                 Page
+
+Part I - Financial Information                                                                                                         2
+
+Item 1. Unaudited Consolidated Financial Statements                                                                                    2
+
+Consolidated Balance Sheets at March 31, 2024and December 31, 2023                                                                     2
+
+Consolidated Statements of Income (Loss) for the ThreeMonths Ended March 31, 2024and 2023                                              3
+
+Consolidated Statements of Changes in Shareholders' Equity for the Three Months EndedMarch 31, 2024and 2023                            4
+
+Consolidated Statements of Cash Flows for the Three Months EndedMarch 31, 2024and 2023                                                 5
+
+Notes to Unaudited Consolidated Financial Statements                                                                                   6
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations                                         23
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk                                                                    28
+
+Item 4. Controls and Procedures                                                                                                       28
+
+
+
+Part II - Other Information                                                                                                           28
+
+Item 1. Legal Proceedings                                                                                                             29
+
+Item 1A. Risk Factors                                                                                                                 29
+
+Item 2. Unregistered Sales of Equity and Use of Proceeds                                                                              29
+
+Item 3. Defaults Upon Senior Securities                                                                                               29
+
+Item 4. Mine Safety Disclosures                                                                                                       29
+
+Item 5. Other Information                                                                                                             29
+
+Item 6. Exhibits                                                                                                                      30
+
+
+
+Signatures                                                                                                                            31
+
+
+
+1
+
+
+
+
+
+Part I - Financial Information 
+
+ITEM 1. UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+
+BM TECHNOLOGIES, INC.
+
+CONSOLIDATED BALANCE SHEETS — UNAUDITED
+
+(amounts in thousands, except share and per share data)
+
+
+
+                                                                                                      March 31,        December 31,
+
+                                                                                                        2024               2023
+
+                                              ASSETS
+
+Cash and cash equivalents                                                                         $        14,630   $         14,288 
+
+Accounts receivable, net allowance for doubtful accounts of $1,732 and $1,100                                6,875               9,128 
+
+Prepaid expenses and other assets                                                                            3,331               5,148 
+
+Total current assets                                                                                        24,836              28,564 
+
+Premises and equipment, net                                                                                    487                 535 
+
+Developed software, net                                                                                     16,366              16,173 
+
+Goodwill                                                                                                     5,259               5,259 
+
+Other intangibles, net                                                                                       4,029               4,109 
+
+
+
+Total assets                                                                                      $        50,977   $         54,640 
+
+                               LIABILITIES AND SHAREHOLDERS’ EQUITY
+
+Liabilities:
+
+Accounts payable and accrued liabilities                                                          $         8,880   $         10,577 
+
+Deferred revenue, current                                                                                   11,159              12,322 
+
+Total current liabilities                                                                                   20,039              22,899 
+
+Non-current liabilities:
+
+Deferred revenue, non-current                                                                                    —                 127 
+
+Liability for private warrants                                                                                  54                 162 
+
+Other non-current liabilities                                                                                    —                 480 
+
+Total liabilities                                                                                 $        20,093   $         23,668 
+
+Commitments and contingencies (Note 7)
+
+Shareholders’ equity:
+
+Preferred stock: Par value $0.0001 per share; 10,000,000 shares authorized, zero shares issued or $             —   $              — 
+
+ outstanding at both March 31, 2024 and December 31,
+
+ 2023
+
+Common stock: Par value $0.0001 per share; 1 billion shares authorized; 12,063,773 shares issued                 1                   1 
+
+ and outstanding at March 31, 2024; 11,984,133 shares issued and outstanding at December 31,
+
+ 2023
+
+Additional paid-in capital                                                                                  70,951              71,787 
+
+Accumulated deficit                                                                                        (40,068)            (40,816)
+
+   Total shareholders’ equity                                                                     $        30,884   $         30,972 
+
+   Total liabilities and shareholders’ equity                                                     $        50,977   $         54,640 
+
+See accompanying notes to the unaudited consolidated financial statements.
+
+2
+
+
+
+
+
+BM TECHNOLOGIES, INC.
+
+CONSOLIDATED STATEMENTS OF INCOME (LOSS) — UNAUDITED
+
+(amounts in thousands, except per share data)
+
+
+
+                                                                                                  Three Months Ended
+
+                                                                                                      March 31,
+
+                                                                                           2024                       2023
+
+Operating revenues:
+
+Interchange and card revenue                                                    $                  3,415   $                  2,966 
+
+Servicing fees                                                                                     8,966                      6,632 
+
+Account fees                                                                                       2,095                      2,140 
+
+University fees                                                                                    1,612                      1,506 
+
+Other revenue                                                                                         93                        127 
+
+Total operating revenues                                                                          16,181                     13,371 
+
+Operating expenses:
+
+Technology, communication, and processing                                                          4,711                      7,105 
+
+Salaries and employee benefits                                                                     4,447                      6,425 
+
+Professional services                                                                              3,208                      2,640 
+
+Provision for operating losses                                                                     2,081                      1,677 
+
+Occupancy                                                                                             16                         14 
+
+Customer related supplies                                                                            241                        228 
+
+Advertising and promotion                                                                            100                        118 
+
+Restructuring, merger, and acquisition related expenses                                               79                        719 
+
+Other expense                                                                                        643                        820 
+
+Total operating expenses                                                                          15,526                     19,746 
+
+Income (loss) from operations                                                                        655                     (6,375)
+
+Non-operating income and expense:
+
+Gain on fair value of private warrant liability                                                      108                      1,421 
+
+Income (loss) before income tax expense                                                              763                     (4,954)
+
+Income tax expense                                                                                    15                          6 
+
+Net income (loss)                                                               $                    748   $                 (4,960)
+
+
+
+Weighted average number of shares outstanding - basic                                             11,728                     11,602 
+
+Weighted average number of shares outstanding - diluted                                           11,746                     11,602 
+
+
+
+Basic earnings (loss) per common share                                          $                   0.06   $                  (0.43)
+
+Diluted earnings (loss) per common share                                        $                   0.06   $                  (0.43)
+
+See accompanying notes to the unaudited consolidated financial statements.
+
+3
+
+
+
+
+
+BM TECHNOLOGIES, INC.
+
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY — UNAUDITED
+
+For the Three Months Ended March 31, 2024 and 2023
+
+(amounts in thousands, except share data)
+
+
+
+
+
+                                                        Common Stock
+
+                                             Shares of Common     Common Stock      Additional       Accumulated         Total
+
+                                                   Stock                              Paid in           Deficit
+
+                                                Outstanding                           Capital
+
+Balance at December 31, 2023                       11,984,133   $           1   $      71,787   $        (40,816)  $    30,972 
+
+Net income                                                  —                —                —                748            748 
+
+
+
+Tax paid on behalf of employees related               (51,133)               —             (176)                 —           (176)
+
+ to net settlement of share-based
+
+ awards
+
+Share-based compensation expense                      130,773                —             (660)                 —           (660)
+
+Balance at March 31, 2024                          12,063,773   $           1   $      70,951   $        (40,068)  $    30,884 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                       Common Stock
+
+(amounts in thousands, except share data)   Shares of Common     Common Stock      Additional       Accumulated         Total
+
+                                                  Stock                              Paid-in           Deficit
+
+                                               Outstanding                           Capital
+
+Balance at December 31, 2022                      12,240,237   $           1   $      72,342   $        (23,485)  $    48,858 
+
+Net loss                                                   —                —                —             (4,960)        (4,960)
+
+Conversion of private warrants to public                   —                —               20                  —             20 
+
+ warrants
+
+Tax paid on behalf of employees related             (473,874)               —           (2,429)                 —         (2,429)
+
+ to net settlement of share-based
+
+ awards
+
+Share-based compensation expense                      95,147                —              447                  —            447 
+
+Balance at March 31, 2023                         11,861,510   $           1   $      70,380   $        (28,445)  $    41,936 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See accompanying notes to the unaudited consolidated financial statements.
+
+4
+
+
+
+
+
+BM TECHNOLOGIES, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS — UNAUDITED
+
+(amounts in thousands)
+
+
+
+                                                                                                          Three Months Ended 
+
+                                                                                                               March 31,
+
+                                                                                                        2024               2023
+
+Cash Flows from Operating Activities:
+
+Net income (loss)                                                                                $           748   $        (4,960)
+
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating
+
+ activities:
+
+Depreciation of premises and equipment                                                                         78                 60 
+
+
+
+Amortization of developed software                                                                          1,068              2,990 
+
+Amortization of other intangible assets                                                                        80                 80 
+
+Impairment of software assets                                                                                  50                  — 
+
+Provision for bad debt                                                                                        632                 23 
+
+Share-based compensation expense                                                                             (660)               635 
+
+Gain on fair value of private warrant liability                                                              (108)            (1,421)
+
+Changes in operating assets and liabilities:
+
+Accounts receivable                                                                                         1,621             (4,709)
+
+Prepaid expenses and other current assets                                                                   1,817             (1,389)
+
+Other assets                                                                                                    —                 72 
+
+Accounts payable and accrued liabilities                                                                   (1,697)             6,244 
+
+
+
+
+
+Deferred revenue                                                                                           (1,290)            (3,994)
+
+
+
+Net Cash provided by (used in) Operating Activities                                                         2,339             (6,369)
+
+Cash Flows from Investing Activities:
+
+Development of internal use software                                                                       (1,791)            (1,297)
+
+Purchases of premises and equipment                                                                           (30)               (82)
+
+Net Cash used in Investing Activities                                                                      (1,821)            (1,379)
+
+Cash Flows from Financing Activities:
+
+
+
+Payments related to net settlement of share-based compensation awards                                        (176)            (2,429)
+
+Net Cash used in Financing Activities                                                                        (176)            (2,429)
+
+Net Increase (Decrease) in Cash and Cash Equivalents                                                          342            (10,177)
+
+Cash and Cash Equivalents – Beginning                                                                      14,288             21,108 
+
+Cash and Cash Equivalents – Ending                                                               $        14,630   $        10,931 
+
+
+
+Supplementary Cash Flow Information:
+
+Income taxes (refunded) paid, net                                                                $        (2,282)  $             7 
+
+Noncash Operating, Investing, and Financing Activities:
+
+Conversion of private warrants to public warrants                                                $             —   $            20 
+
+Impairment of software assets                                                                                 480                    0
+
+
+
+See accompanying notes to the unaudited consolidated financial statements.
+
+5
+
+
+
+
+
+BM TECHNOLOGIES, INC.
+
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1 — DESCRIPTION OF THE BUSINESS
+
+
+
+BM Technologies, Inc. (“BMTX” or the “Company”) (formerly known as BankMobile) provides state-of-the-art high-tech digital banking and disbursement services to consumers and students nationwide through a full service fintech banking platform, accessible to customers anywhere and anytime through digital channels.
+
+
+
+BankMobile Technologies, Inc. (“BankMobile”) was incorporated in May 2016 as a wholly-owned subsidiary of Customers Bank. On August 6, 2020, the Company entered into an Agreement and Plan of Merger, by and among Megalith Financial Acquisition Corporation, a special purpose acquisition company (“Megalith”), incorporated in Delaware in November 2017, MFAC Merger Sub Inc., a wholly-owned subsidiary of Megalith, BankMobile Technologies, Inc., and Customers Bank, the sole stockholder of BankMobile. On January 4, 2021, BankMobile became an independent company after the completion of a divestiture transaction and was rebranded BM Technologies, Inc.
+
+
+
+BMTX’s fintech business model leverages Banking-as-a-Service (“BaaS”) partners’ and University partners’ existing customer bases to achieve high volume, low-cost customer acquisition in its Higher Education and BaaS businesses. BMTX has four primary revenue sources: interchange and card revenue, servicing fees, account fees, and university fees. The majority of revenues are driven by customer activity (deposits, spend, transactions, etc.) and may be paid or passed through by our Partner Banks, universities, or paid directly by customers.
+
+
+
+BMTX facilitates deposits and banking services between a customer and our partner banks, Customers Bank and First Carolina Bank, (the “Partner Banks”), which are related parties and are Federal Deposit Insurance Corporation (“FDIC”) insured banks. The Partner Banks hold the FDIC insured deposits that BMTX sources and services and are the issuing banks on BMTX’s debit cards. The Partner Banks pay the Company a servicing fee for the deposits generated and pass through interchange income earned from transactions on debit cards and transaction-based account fees.
+
+BMTX is not a bank, does not hold a bank charter, and does not provide banking services, and as a result, it is not subject to direct banking regulation, except as a service provider to our partner banks. BMTX is also subject to the regulations of the Department of Education (“ED”), due to its student disbursements business, and is periodically examined by it. BMTX’s contracts with most of its Higher Education institution clients require it to comply with numerous laws and regulations, including, where applicable, regulations promulgated by the ED regarding the handling of student financial aid funds received by institutions on behalf of their students under Title IV of the Higher Education Act of 1965; the Family Educational Rights and Privacy Act of 1995; the Electronic Fund Transfer Act and Regulation E; the USA PATRIOT Act and related anti-money laundering requirements; and certain federal rules regarding safeguarding personal information, including rules implementing the privacy provisions of the Gramm-Leach-Bliley Act. Other products and services offered by BMTX may also be subject to other federal and state laws and regulations.
+
+NOTE 2 — BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis of Presentation 
+
+
+
+These interim unaudited consolidated financial statements have been prepared in conformity with U.S. Generally Accepted Accounting Principles (“U.S. GAAP”). Any reference to applicable guidance is meant to refer to the authoritative U.S. GAAP as found in the Accounting Standards Codification (“ASC”) and Accounting Standards Update (“ASU”) of the Financial Accounting Standards Board (“FASB”). Certain information and footnote disclosures normally included in the annual consolidated financial statements have been omitted from these interim unaudited consolidated financial statements as permitted by U.S. GAAP and pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (the “SEC”). These interim unaudited consolidated financial statements reflect all normal and recurring adjustments that are, in the opinion of Management, necessary to present a fair statement of the financial position and the results of operations and cash flows of BMTX for the interim periods presented. 
+
+
+
+The preparation of interim unaudited consolidated financial statements in conformity with U.S. GAAP requires Management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the interim unaudited consolidated financial statements, and the reported amounts of revenues and expenses during the reporting periods. Significant estimates include going concern assessment, valuation of deferred tax assets, valuation of private warrants, and goodwill and intangible asset impairment analyses. Actual results could differ from those estimates.
+
+6
+
+
+
+
+
+
+
+FASB ASC 205-40, Presentation of Financial Statements - Going Concern, requires Management to assess an entity’s ability to continue as a going concern within one year of the date the financial statements are issued. In each reporting period, including interim periods, an entity is required to assess conditions known and reasonably knowable as of the financial statement issuance date to determine whether it is probable an entity will not meet its financial obligations within one year from the financial statement issuance date. 
+
+
+
+Management has performed this required assessment as of May 15, 2024, and believes there are sufficient funds available to support its ongoing business operations and continue as a going concern for at least the next 12 months with projected liquidity of $13.2 million at May 15, 2025. 
+
+
+
+Management’s assessment is subject to known and unknown risks, uncertainties, assumptions, and changes in circumstances, many of which are beyond our control including the impact of the macroeconomic environment, and that are difficult to predict as to timing, extent, likelihood, and degree of occurrence, and that could cause actual results to differ from estimates and forecasts, potentially materially. 
+
+
+
+Based upon the results of Management’s assessment, these interim unaudited consolidated financial statements have been prepared on a going concern basis. The interim unaudited consolidated financial statements do not include any adjustments that could result from the outcome of the aforementioned risks and uncertainties.
+
+
+
+Significant Accounting Policies
+
+
+
+These interim unaudited consolidated financial statements should be read in conjunction with the 2023 audited consolidated financial statements and related notes of BMTX, which describe BMTX’s significant accounting policies. There have been no material changes to BMTX’s significant accounting policies during the three months ended March 31, 2024. Except for what is noted below. 
+
+
+
+Insurance Premium Finance Obligations
+
+
+
+The Company includes the obligation for its insurance premium financing in Accounts payable and accrued liabilities on the interim unaudited Consolidated Balance Sheets. At March 31, 2024, the Company had two premium finance arrangements outstanding with balances totaling $0.7 million, average remaining installment payment terms of 8.5 months, and a weighted average annualized finance charge of 6.95%. At December 31, 2023, there were no insurance premium financing obligations. 
+
+
+
+Immaterial Correction of Prior Period Error
+
+
+
+In preparation of the Company’s consolidated financial statement as of and for the twelve months ended December 31, 2023, the Company identified an immaterial error in its accounting for certain of its interchange expenses for the three months ended March 31, 2023, reflecting the impacted revenues gross instead of net as required. 
+
+
+
+The effect of these immaterial error adjustments for the three months ended March 31, 2023:
+
+
+
+•Decreased revenue from Interchange and Card revenue and decreased Technology, communication, and processing expense by an equal and offsetting $0.1 million.
+
+
+
+The Company assessed the materiality of these errors on the interim period consolidated financial statements in accordance with SEC Staff Accounting Bulletin No. 99, “Materiality,” (ASC Topic 250, Accounting Changes and Error Corrections). Based on this assessment, the Company concluded that these error corrections in its Consolidated Statements of Loss are not material to any previously presented consolidated financial statements. The correction had no impact on the Consolidated Balance Sheets, Consolidated Statements of Changes in Shareholders’ Equity, Consolidated Statements of Cash Flows, or Notes to the Consolidated Financial Statements, other than Note 9 - Revenues and Note 12 - Related Party Transactions, for the previously presented interim period.
+
+7
+
+
+
+
+
+
+
+Statements of Income (Loss) Adjustment
+
+
+
+The Company identified certain expenses that were previously included as a component of Occupancy that are better presented as a component of Technology, communication, and processing. The effect of the reclassification for the three months ended March 31, 2023:
+
+
+
+•Increased Technology, communication, and processing expense and decreased Occupancy by an equal and offsetting amount of less than $0.1 million. 
+
+
+
+This change in presentation was prospectively made starting in the June 30, 2023 Form 10-Q, thus for comparison purposes this immaterial adjustment was made only for the three months ended March 31, 2023. 
+
+
+
+The adjustment had no impact on the Consolidated Balance Sheets, Consolidated Statements of Changes in Shareholders’ Equity, Consolidated Statements of Cash Flows, or Notes to the Consolidated Financial Statements, other than Note 4 - Premises and Equipment and Developed Software for the previously presented interim period.
+
+
+
+Accounting Standards Update
+
+
+
+As an emerging growth company (“EGC”), the Jumpstart Our Business Startups Act (“JOBS Act”) allows the Company to delay adoption of new or revised ASUs applicable to public companies until such pronouncements are applicable to private companies. The Company has elected to use the extended transition period under the JOBS Act.
+
+
+
+Recently Adopted Accounting Pronouncements
+
+
+
+In August 2020, the FASB issued ASU 2020-06, “Debt - Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging - Contracts in Entity’s Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity.” The Company adopted ASU 2020-06 on January 1, 2024. The adoption of this new accounting standard did not have a material impact on the Company’s condensed consolidated financial statements.
+
+
+
+Recently Issued Accounting Pronouncements Not Yet Adopted as of March 31, 2024
+
+
+
+In December 2023, the FASB issued ASU 2023-09, Income taxes (Topic 740): Improvements to Income Tax Disclosures, which is a final standard on improvement to income tax disclosures. This update applies to all entities subject to income taxes. As a public business entity, the new requirements will be effective for annual periods beginning after December 15, 2024. As of December 31, 2023, the Company is still evaluating the impact of this update to its financial statements for annual periods after December 15, 2024.
+
+
+
+In March 2024, the FASB issued ASU 2024-01, Compensation - Stock Compensation (Topic 718), Scope Application of Profits Interest and Similar Awards. This standard provides clarity regarding whether profits interest and similar awards are within the scope of Topic 718 of the Accounting Standards Codification. This standard is effective for fiscal years beginning after December 15, 2024. Early adoption is permitted. The Company is still evaluating the impact of this update to its financial statements for annual periods after December 15, 2024. 
+
+
+
+In March 2024, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2024-02, “Codification Improvements - Amendments to Remove References to the Concepts Statements” (“ASU 2024-02”), which removed references to various FASB Concepts Statements and updates technical corrections such as conforming amendments, clarification to guidance, simplifications to wording or the structure of guidance, and other minor improvements. The new guidance is effective for fiscal years beginning after December 15, 2024. Early adoption is permitted. The Company is still evaluating the impact of this update to its financial statements for annual periods after December 15, 2024. 
+
+NOTE 3 — ACCOUNTS RECEIVABLE
+
+Accounts receivable, net primarily relate to billings for deposit processing services to our Partner Banks, MasterCard incentive income, uncollected university subscription and disbursement services fees, and receivables from our BaaS partner, and are recorded at face amounts less an allowance for doubtful accounts. 
+
+
+
+8
+
+
+
+
+
+Management evaluates accounts receivable and establishes the allowance for doubtful accounts based on historical experience, analysis of past due accounts, and other current available information. Accounts receivable deemed to be uncollectible are individually identified and are charged-off against the allowance for doubtful accounts. The allowance for doubtful accounts was $1.7 million at March 31, 2024 and $1.1 million at December 31, 2023.
+
+
+
+
+
+(amounts in thousands)                               Beginning Balance        Additions           Reductions        Ending Balance
+
+Allowance for doubtful accounts
+
+Three months ended March 31, 2024                  $              1,100  $              789  $              (157) $          1,732 
+
+Twelve months ended December 31, 2023              $                305  $            1,001  $              (206) $          1,100 
+
+NOTE 4 — PREMISES AND EQUIPMENT AND DEVELOPED SOFTWARE
+
+
+
+Premises and Equipment
+
+
+
+The components of premises and equipment were as follows: 
+
+
+
+(amounts in thousands)                                                    Expected Useful Life     March 31,        December 31,
+
+                                                                                                     2024               2023
+
+
+
+IT equipment                                                                  3 to 5 years     $           960   $             930 
+
+
+
+Accumulated depreciation                                                                                  (473)               (395)
+
+Total                                                                                          $           487   $             535 
+
+
+
+BMTX recorded depreciation expense of less than $0.1 million for the three months ended March 31, 2024 and 2023, respectively, as a component of Technology, communication, and processing expense on the unaudited Consolidated Statements of Income (Loss).
+
+
+
+Impairment is recorded in Technology, communication, and processing expense on the unaudited Consolidated Statements of Income (Loss). BMTX recorded no impairment expense on Premises and Equipment during the three months ended March 31, 2024 and 2023.
+
+
+
+Developed Software
+
+
+
+The components of developed software were as follows:
+
+
+
+(amounts in thousands)                                                     Expected Useful Life     March 31,        December 31,
+
+                                                                                                      2024               2023
+
+Higher One Disbursement business developed software                              10 years       $       27,400   $         27,400 
+
+Internally developed software                                                  3 to 7 years              43,260             43,225 
+
+Work-in-process                                                                                           7,888              6,662 
+
+                                                                                                         78,548             77,287 
+
+Accumulated amortization                                                                                (62,182)           (61,114)
+
+Total                                                                                           $       16,366   $         16,173 
+
+BMTX recorded amortization expense of $1.1 million and $3.0 million for the three months ended March 31, 2024 and 2023, respectively, as a component of Technology, communication, and processing expense on the unaudited Consolidated Statements of Income (Loss). 
+
+
+
+BMTX recorded impairment expenses of less than $0.1 million and zero during the three months ended March 31, 2024 and 2023 respectively, as a component of Technology, communication and processing expense on the unaudited Consolidated Statements of Income (Loss). 
+
+NOTE 5 — GOODWILL AND OTHER INTANGIBLES 
+
+Goodwill represents the excess of the purchase price over the identifiable net assets of businesses acquired through business combinations accounted for under the acquisition method. Goodwill is reviewed for impairment annually as of October 31 and 
+
+9
+
+
+
+
+
+between annual tests when events and circumstances indicate that impairment may have occurred. There was no goodwill impairment for the three months ended March 31, 2024 and 2023.
+
+
+
+Other intangibles, net represent purchased assets that lack physical substance but can be distinguished from goodwill because of contractual or other legal rights. We have one intangible asset which is being amortized on a straight-line basis over twenty years.
+
+
+
+The components of Other intangibles, net as of March 31, 2024 and December 31, 2023 were as follows:
+
+
+
+(amounts in thousands)                                                     Expected Useful Life     March 31,        December 31,
+
+                                                                                                      2024               2023
+
+Customer relationships – universities                                            20 years       $        6,402   $          6,402 
+
+Accumulated amortization                                                                                 (2,373)            (2,293)
+
+Total                                                                                           $        4,029   $          4,109 
+
+
+
+Other intangibles, net, includes assets subject to amortization that are reviewed for impairment under FASB ASC 360, Property, Plant and Equipment. Amortization is recorded in Other expense on the unaudited Consolidated Statements of Income (Loss). BMTX recorded amortization expense of less than $0.1 million for the three months ended March 31, 2024 and 2023, respectively. 
+
+The customer relationships - universities will be amortized in future periods as follows: 
+
+
+
+Remainder of 2024                                                                                                    $            240 
+
+2025                                                                                                                              320 
+
+2026                                                                                                                              320 
+
+2027                                                                                                                              320 
+
+2028                                                                                                                              320 
+
+After 2028                                                                                                                      2,509 
+
+Total                                                                                                                $          4,029 
+
+Impairment is recorded in Technology, communication, and processing expense on the unaudited Consolidated Statements of Income (Loss). There was no impairment for Other intangibles, net during the three months ended March 31, 2024 and 2023.
+
+NOTE 6 — LEASES
+
+The Company’s corporate headquarters is currently operating under a month-to-month short-term lease.
+
+
+
+Operating lease expenses are recorded in Occupancy on the unaudited Consolidated Statements of Income (Loss). BMTX recorded lease expense of less than $0.1 million for the three months ended March 31, 2024 and 2023, respectively.
+
+
+
+NOTE 7 — COMMITMENTS AND CONTINGENCIES
+
+Loss contingencies, including claims and legal actions arising in the ordinary course of business, are recorded as liabilities when the likelihood of loss is probable, and an amount or range of loss can be reasonably estimated. Management does not believe there are any such matters that will have a material effect on the interim unaudited consolidated financial statements that are not currently accrued for. However, in light of the uncertainties inherent in these matters, it is possible that the ultimate resolution may have a material adverse effect on BMTX’s results of operations for a particular period, and future changes in circumstances or additional information could result in accruals or resolution in excess of established accruals, which could adversely affect BMTX’s results of operations, potentially materially. 
+
+
+
+On June 5, 2023, the Company entered into an agreement to purchase certain software technology assets from a third-party. Purchase consideration was comprised of a cash payment of less than $0.1 million at closing and potential future contingent consideration of $0.5 million over the next three years if the technology is successfully and continuously deployed by the Company. As of March 31, 2024, the Company determined that the successful and continuous deployment of the software technology is no longer probable, as a result, the software technology was impaired and the corresponding contingent 
+
+10
+
+
+
+
+
+consideration was extinguished. As of March 31, 2024 and December 31, 2023, the Company had zero and $0.5 million of contingent consideration, respectively reported in Other non-current liabilities on the unaudited Consolidated Balance Sheets.
+
+
+
+NOTE 8 — SHAREHOLDERS’ EQUITY AND PRIVATE WARRANT LIABILITY
+
+
+
+Common Stock
+
+The Company is authorized to issue 1,000,000,000 shares of common stock, par value 0.0001 per share. At March 31, 2024, there were 12,063,773 shares of common stock issued and outstanding, which includes the 300,000 performance shares discussed below. At December 31, 2023 there were 11,984,133 shares of common stock issued and outstanding which includes the 300,000 performance shares discussed below.
+
+
+
+Each holder of common stock is entitled to one vote for each share of common stock held of record by such holder on all matters on which stockholders generally are entitled to vote. The holders of common stock do not have cumulative voting rights in the election of directors. Generally, all matters to be voted on by stockholders must be approved by a majority (or, in the case of election of directors, by a plurality) of the votes entitled to be cast by all stockholders present in person or represented by proxy, voting together as a single class.
+
+
+
+Preferred Stock 
+
+
+
+The Company is authorized to issue 10,000,000 shares of preferred stock, par value $0.0001 per share, with such designations, voting and other rights and preferences as may be determined from time to time by the Company’s Board of Directors. At March 31, 2024 and December 31, 2023, there were no shares of preferred stock issued or outstanding. 
+
+
+
+Performance Shares
+
+
+
+The Company has 300,000 common shares, par value $0.0001 per share, issued and outstanding that contain a restrictive legend, subject to release only if the vesting criteria are met before the seventh anniversary of the closing date of the merger with Megalith. If the vesting criteria are not met prior to the seventh anniversary of the closing date of the merger, the shares will be forfeited and cancelled. The vesting criteria are met when either (1) the volume weighted average price of the Company’s common stock on the principal exchange on which such securities are then listed or quoted shall have been at or above $15.00 for twenty (20) trading days (which need not be consecutive) over a thirty (30) trading day period; or (ii) the Company sells shares of its capital stock in a secondary offering for at least $15.00 per share, in each case subject to equitable adjustment for share splits, share dividends, reorganizations, combinations, recapitalizations and similar transactions affecting the shares of the Company’s common stock after the merger, and possible reduction for certain dividends granted to the Company’s common stock, or (2) the Company undergoes certain change in control or sales transactions. None of the vesting criteria for the performance shares have been met and no expense has been recognized.
+
+
+
+Dividend Policy
+
+
+
+We have not paid any cash dividends on our common stock to date and have no present intention to pay cash dividends in the future. The payment of cash dividends by the Company in the future will be dependent upon the Company’s revenues and earnings, capital requirements, and general financial condition. The payment of any dividends will be within the discretion of the Board of Directors of the Company.
+
+
+
+January 4, 2021 Share-Based Compensation Award
+
+
+
+In connection with its January 4, 2021 divestiture of the Company, Customers Bank, the Company’s former parent, granted 1,317,035 of the merger consideration shares of the Company it received to certain employees and executives of the Company. The share-based compensation award was subject to vesting conditions, including a required service condition from award recipients through January 3, 2023. The grant date fair value of the award, totaling $19.6 million, was recorded as share-based compensation expense on the unaudited Consolidated Statements of Income (Loss) on a straight-line basis over the two-year post-grant vesting period, net of any actual forfeitures. The shares awarded were restricted until fully vested. The holders of restricted shares were provided an option to surrender a portion of their shares on the vesting date to cover their income tax obligations. On January 3, 2023, all restricted shares, net of prior forfeitures, vested.
+
+
+
+11
+
+
+
+
+
+BMTX recorded share-based compensation expense related to these awards of zero and less than $0.1 million for the three months ended March 31, 2024 and 2023, respectively. 
+
+
+
+Equity Incentive Plan
+
+
+
+Our 2020 Equity Incentive Plan (the “2020 Equity Incentive Plan”) provides for the grant of incentive stock options, or ISOs, nonstatutory stock options, or NSOs, stock appreciation rights, restricted stock awards, restricted stock unit awards, performance-based stock awards, and other forms of equity compensation, or collectively, stock awards, all of which may be granted to employees, including officers, non-employee directors, and consultants of both the Company and its affiliates. Additionally, the Equity Incentive Plan provides for the grant of performance cash awards. ISOs may be granted only to employees. All other awards may be granted to employees, including officers, and to non-employee directors and consultants.
+
+
+
+On June 20, 2023, an amendment to the Equity Incentive Plan was approved by the Company’s stockholders. The amendment increased the total number of shares of common stock authorized under the Equity Incentive Plan by 1,279,963, from 1,220,037 (the number of shares authorized under the original 2020 Equity Incentive Plan) to 2,500,000.
+
+
+
+Grants were made under the 2020 Equity Incentive Plan during the three months ended March 31, 2024 as described within Restricted Stock Units and Performance - Based Restricted Stock Units below.
+
+
+
+Restricted Stock Units
+
+
+
+Restricted Stock Units (“RSUs”) granted under the 2020 Equity Incentive Plan generally vest in three or four equal installments on each anniversary of the grant date. The RSUs that have been granted are all paid in stock upon vesting, and are thus classified as equity awards, which are measured using the grant date fair value of BMTX common stock and are not remeasured at the end of each reporting period. We recognize compensation cost starting from the grant date on a straight-line basis over the required vesting period in accordance with FASB ASC 718, Compensation - Stock Compensation. We account for forfeitures as they occur and reverse any previously recognized compensation expense related to forfeited awards. 
+
+
+
+Performance - Based Restricted Stock Units
+
+
+
+Performance - Based Restricted Stock Units (“PBRSUs”) granted under the 2020 Equity Incentive Plan, as amended, currently vest upon the later of: a) the third year of employment following the grant date or b) the achievement of the specified performance goals within the fifth year of the grant date. As defined by the 2020 Equity Incentive Plan, the Compensation Committee of the Board of Directors determines the number of PBRSUs a participant earns based on the extent to which the corresponding performance goals have been achieved over the five-year performance cycle. The PBRSUs that have been granted are paid in stock upon vesting, and are thus classified as equity awards, which are measured using the grant date fair value of BMTX common stock and are not remeasured at the end of each reporting period. We account for forfeitures as they occur and reverse any previously recognized compensation expense related to forfeited awards. 
+
+
+
+For PBRSUs with milestones, upon the grant date, and at each subsequent reporting period, we reassess whether it is probable that we will achieve each operational milestone, and if so, the period when we expect to achieve that operational milestone. If upon the grant date, we determine that achievement of an operational milestone is probable, we allocate the full share-based compensation expense over the period between the grant date and the expected vesting condition achievement date. If upon the grant date, achievement of the operational milestone is not probable, we do not recognize compensation expense. If after the grant date, we determine achievement of an operational milestone becomes probable, we will allocate the full share-based compensation expense over the period between the grant date and the expected vesting condition achievement date, and we will recognize a catch-up expense equal to the value of previously unrecognized expense from the grant date to the vesting condition achievement date.
+
+
+
+For PBRSUs with a market condition, we used a Monte Carlo simulation to determine the fair value on the grant date and recognize the share-based compensation expense over the derived service period.
+
+
+
+Inducement Awards
+
+
+
+On February 5, 2024, the Company granted RSUs and PBRSUs outside of its 2020 Equity Incentive Plan, as amended to a certain employee to induce them to accept employment the the Company (the “Inducement Awards”). The terms and conditions of the Inducement Awards are substantially similar to those awards granted under the Company’s 2020 Equity Incentive Plans, as amended. 
+
+
+
+
+
+
+
+12
+
+
+
+
+
+The change in unvested RSUs and PBRSUs awarded is shown below:
+
+
+
+                                                         Restricted Stock Units             Performance-Based Restricted Stock Units
+
+                                                 Number of RSUs      Weighted-Average      Number of RSUs      Weighted-Average
+
+                                                                      Grant-Date Fair                        Grant-Date Fair Value
+
+                                                                         Value Per                                    Per
+
+                                                                            RSU                                       RSU
+
+Balance as of 12/31/2023                                 445,106   $              6.47             495,000   $                2.99 
+
+Granted *                                                326,250   $              2.02             615,000   $                2.25 
+
+Vested                                                  (130,773)  $              6.75                   —   $                   — 
+
+Forfeited *                                              (10,836)  $              4.27            (290,000)  $                7.09 
+
+Balance as of 3/31/2024                                  629,747   $              4.14             820,000   $                0.99 
+
+
+
+*- Includes 193,333 PBRSUs that were granted in 2021, that were cancelled and simultaneously reissued, which qualifies as a modification, specifically, an improbable-to-probable modification (Type III), which includes a $1.3 million reversal of the recognized expense. The modified awards fair value of $2.02 is used to determine stock based compensation expense over the term of the awards. Also includes, 96,667 PBRSUs that were granted in 2021, that have market capitalization goals that were cancelled and subsequently reissued, which qualifies as a modification. The modification increased the fair value of the awards from $3.46 per share to $4.87 per share, and the incremental stock based compensation expenses is recorded over the new term of the awards.
+
+
+
+For the three months ended March 31, 2024 and 2023, the share-based compensation expense related to the RSU awards, net of forfeitures, totaled $0.3 million and $0.3 million, respectively. 
+
+
+
+For the three months ended March 31, 2024 and 2023, the share-based compensation expense related to the PBRSU awards, net of forfeitures, totaled $(1.2) million and $0.2 million, respectively.
+
+
+
+Employee Stock Purchase Plan (“ESPP”)
+
+
+
+The Company has an ESPP (the “BM Technologies Inc. 2021 Employee Stock Purchase Plan”) which has an effective date of May 1, 2021. The purpose of the ESPP is to provide eligible employees with an incentive to advance the interests of the Company and its Subsidiaries, by affording them an opportunity to purchase stock of the Company at a favorable price. As of March 31, 2024, there have been no shares purchased on behalf of employees under the ESPP, as the program has not yet been made available for employee participation.
+
+
+
+Warrants
+
+
+
+At March 31, 2024 and 2023, respectively, there were 22,703,004 warrants to purchase our common stock outstanding. The warrant totals for each period-end consist of 17,294,044 public warrants and 5,408,960 private warrants as of March 31, 2024 and 2023, respectively. 
+
+
+
+Each whole warrant entitles the registered holder to purchase one whole share of common stock at a price of $11.50 per share. The warrants will expire five years after the completion of the merger with Megalith (January 4, 2026) or earlier upon redemption or liquidation; the Company has redemption rights if our common stock trades above $24.00 for 20 out of 30 days. The private warrants are identical to the public warrants except that the private warrants are non-redeemable and exercisable on a cashless basis so long as they are held by the sponsor and certain other original holders. 
+
+
+
+As of March 31, 2024, 1,600 of the Company’s outstanding public warrants have been exercised and 1,169,903 of the private warrants have been repurchased by the Company from related parties at $1.69 per warrant. 
+
+
+
+During the three months ended March 31, 2024 and 2023, zero and 66,855, respectively, of the private warrants have been reclassified to public warrants based upon a sale of the private warrants by the original holders which resulted in a modification of terms that effect classification as public warrants. There were no warrants exercised in the three months ended March 31, 2024 and 2023, respectively. 
+
+
+
+The private warrants and the public warrants are treated differently for accounting purposes, as follows: 
+
+
+
+Private Warrants
+
+
+
+13
+
+
+
+
+
+In accordance with FASB ASC Topic 480, Distinguishing Liabilities from Equity, the private warrants are accounted for as liabilities and are marked-to-market each reporting period with the change in fair value recognized in earnings. In general, under the mark-to-market accounting model, as our stock price increases, the private warrant liability increases, and we recognize additional expense on the unaudited Consolidated Statements of Income (Loss) – with the opposite when our stock price declines. Accordingly, the periodic revaluation of the private warrants could result in significant volatility in our reported earnings. 
+
+
+
+Income Statement Impact: Subsequent to the close of the merger, any change in fair value of the private warrants is recognized on the unaudited Consolidated Statements of Income (Loss) below operating profit as Gain on fair value of private warrant liability with a corresponding amount recognized in the Liability for private warrants on the unaudited Consolidated Balance Sheets. For the three months ended March 31, 2024 and 2023, we recorded a gain of $0.1 million and $1.4 million, respectively, resulting from the revaluation of the private warrants. 
+
+
+
+Balance Sheet Impact: The private warrant liability is presented in the account Liability for private warrants in the long-term liabilities section of our unaudited Consolidated Balance Sheets. As noted above, the change in fair value of the underlying private warrants results in a corresponding change in the balance of the warrant liability on the unaudited Consolidated Balance Sheets. When warrants are exercised, the fair value of the liability is reclassified to Additional paid-in capital within equity. Cash received for the exercise of warrants is reflected in Cash and cash equivalents with a corresponding offset recorded in Common stock and Additional paid-in capital within equity.
+
+
+
+Cash Flow Impact: The impact of the change in the fair value of the private warrants has no impact on our cash flows as it is a noncash adjustment. Cash received for the exercise of warrants is recorded in cash flows from financing activities. Cash paid for the repurchase of warrants is recorded in cash flows from financing activities. No such transactions occurred during the three months ended March 31, 2024 and 2023.
+
+
+
+Shareholders’ Equity Impact: The impact to Additional paid in-capital as of the opening balance sheet is described above. Exercises of private warrants result in a reduction of the Liability for private warrants on the unaudited Consolidated Balance Sheets with a corresponding increase to Common Stock and Additional paid in-capital. 
+
+
+
+Public Warrants
+
+
+
+In accordance with FASB ASC Topic 480, Distinguishing Liabilities from Equity, the public warrants are treated as equity instruments under U.S. GAAP. The public warrants are not marked-to-market each reporting period, thus there is no impact to earnings. Exercises of the public warrants are recorded as cash is received and are recorded in Cash and cash equivalents with a corresponding offset recorded in Common stock and Additional paid in-capital within equity. During the three months ended March 31, 2024 and 2023, there were no exercises of public warrants.
+
+14
+
+
+
+
+
+NOTE 9 — REVENUES
+
+
+
+Revenues
+
+
+
+BMTX recognizes operating revenue in accordance with FASB ASC 606, Revenue from Contracts with Customers. 
+
+
+
+The following table presents BMTX’s revenues disaggregated by nature of the revenue stream and the pattern or timing of revenue recognition for the three months ended March 31, 2024 and 2023, respectively. The Company has one reportable segment, and all revenues are earned in the U.S.
+
+
+
+
+
+                                                                                            Three Months Ended March 31,
+
+(amounts in thousands)                                                                    2024                       2023
+
+Revenues:
+
+Revenue recognized at point in time:
+
+Interchange and card revenue                                                    $                 3,415    $                 2,966 
+
+Servicing fees                                                                                     8,966                       6,632 
+
+Account fees                                                                                       2,095                       2,140 
+
+University fees - disbursement activity                                                              363                         260 
+
+Other revenue                                                                                         35                          39 
+
+   Total revenue recognized at point in time                                                      14,874                      12,037 
+
+Revenue recognized over time:
+
+University fees - subscriptions                                                                    1,249                       1,246 
+
+Other revenue - maintenance and support                                                               58                          88 
+
+   Total revenue recognized over time                                                              1,307                       1,334 
+
+Total revenues                                                                  $                16,181    $                13,371 
+
+
+
+Deferred Revenue 
+
+
+
+Deferred revenue consists of payments received from customers prior to the performance of services. Deferred revenue is recognized over the service period on a straight-line basis or when the contractual performance obligation has been satisfied. 
+
+
+
+The deferred revenue balance as of March 31, 2024 and December 31, 2023 was $11.2 million and $12.4 million, respectively.
+
+
+
+During the three months ended March 31, 2024, the Company recognized revenue of approximately $10.2 million included in deferred revenue at the beginning of the period. During the three months ended March 31, 2023, the Company recognized revenue of approximately $4.8 million included in deferred revenue at the beginning of the period.
+
+
+
+Unbilled receivables
+
+
+
+The Company had $1.7 million of unbilled receivables, or amounts recognized as revenue for which invoices have not yet been issued, as of March 31, 2024, and $1.5 million as of December 31, 2023. Unbilled receivables are reported in Accounts receivable, net on the unaudited Consolidated Balance Sheets. 
+
+15
+
+
+
+
+
+NOTE 10 — EARNINGS (LOSS) PER COMMON SHARE
+
+The following are the components and results of operations and earnings (loss) per common share calculations for the periods presented:
+
+
+
+                                                                                   Three Months Ended 
+
+                                                                                        March 31,
+
+(amounts in thousands, except per common share                       2024                                     2023
+
+ data)
+
+Net earnings (loss) available to common            $                                  748   $                               (4,960)
+
+ shareholders
+
+
+
+Net earnings (loss) used for EPS                   $                                  748   $                               (4,960)
+
+Weighted-average number of common shares                                            11,728                                    11,602 
+
+ outstanding – basic
+
+ 
+
+Weighted-average number of common shares                                            11,746                                    11,602 
+
+ outstanding –
+
+ diluted
+
+Basic earnings (loss) per common share             $                                 0.06   $                                (0.43)
+
+Diluted earnings (loss) per common share           $                                 0.06   $                                (0.43)
+
+
+
+The following table presents the reconciliation from basic to diluted weighted average shares outstanding used in the calculation of basic and diluted earnings (loss) per common share:
+
+
+
+
+
+                                                                                 Three Months Ended 
+
+                                                                                      March 31,
+
+(amounts in thousands)                                            2024                                       2023
+
+Weighted-average number of common shares                                          11,728                                      11,602 
+
+ outstanding –
+
+ basic
+
+Add:
+
+
+
+
+
+Service-based RSUs                                                                    18                                           — 
+
+Weighted-average number of common shares                                          11,746                                      11,602 
+
+ outstanding –
+
+ diluted
+
+
+
+For basic earnings (loss) per common share, the performance shares are subject to forfeiture, and they are considered share-indexed instruments and not outstanding shares until they are vested. During the three months ended March 31, 2024 and 2023, the vesting criteria has not been met and they are not included.
+
+
+
+For the three months ended March 31, 2024, our performance shares, public warrants, and private warrants were excluded from the computation of diluted weighted average shares outstanding as the necessary conditions had not been achieved for the performance shares and the average stock price for the period was below the strike price for the warrants. The performance shares are only considered in the calculation for diluted earnings (loss) per common share if they are dilutive in nature. The performance shares are only dilutive when the average share price is greater than the strike price and when positive net income is reported. During the three months ended March 31, 2024, the average share price was below the strike price and these shares were not included in the diluted earnings (loss) per common share calculations. For the three months ended March 31, 2024, our performance-based RSUs were excluded because the vesting is contingent upon the satisfaction of certain conditions which had not been achieved as of March 31, 2024.
+
+
+
+For the three months ended March 31, 2023, our performance shares, public warrants, and private warrants were excluded from the computation of diluted weighted average shares outstanding as the necessary conditions had not been achieved for the performance shares and the average stock price for the period was below the strike price for the warrants. The performance shares are only considered in the calculation for diluted earnings (loss) earnings per common share if they are dilutive in nature. The performance shares are only dilutive when the average share price is greater than the strike price and when positive net 
+
+16
+
+
+
+
+
+income is reported. During the three months ended March 31, 2023, the average share price was below the strike price and these shares were not included in the diluted earnings (loss) per common share calculations. For the three months ended March 31, 2023, our performance-based RSUs were excluded because the vesting is contingent upon the satisfaction of certain conditions which had not been achieved as of March 31, 2023.
+
+
+
+The following table presents the potentially dilutive shares that were excluded from the computation of diluted earnings (loss) per common share:
+
+
+
+                                                                               Three Months Ended
+
+                                                                                   March 31,
+
+(amounts in thousands)                                         2024                                         2023
+
+Performance shares                                                                300                                          300 
+
+Public warrants                                                                17,294                                       17,294 
+
+Private warrants                                                                5,409                                        5,409 
+
+Performance-based RSUs                                                            820                                          495 
+
+Service-based RSUs                                                                612                                          400 
+
+Total                                                                          24,435                                       23,898 
+
+NOTE 11 — DISCLOSURES ABOUT FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+BMTX uses fair value measurements to determine and disclose the fair value of its financial instruments. FASB’s ASC 825, Financial Instruments, requires disclosure of the estimated fair value of an entity’s assets and liabilities considered to be financial instruments. For fair value disclosure purposes, BMTX utilized the fair value measurement criteria under FASB ASC 820, Fair Value Measurements (“ASC 820”).
+
+
+
+In accordance with FASB ASC 820, the fair value of a financial instrument is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Fair value is best determined based upon quoted market prices. However, in many instances, there are no quoted market prices for BMTX’s financial instruments. In cases where quoted market prices are not available, fair values are based on estimates using present value or other valuation techniques. Those techniques are significantly affected by the assumptions used, including the discount rate and estimates of future cash flows. Accordingly, the fair value estimates may not be realized in an immediate settlement of the instrument.
+
+
+
+The fair value guidance provides a consistent definition of fair value, focusing on an exit price in an orderly transaction (that is, not a forced liquidation or distressed sale) between market participants at the measurement date under current market conditions. If there has been a significant decrease in the volume and level of activity for the asset or liability, a change in valuation technique or the use of multiple valuation techniques may be appropriate. In such instances, determining the price at which willing market participants would transact at the measurement date under current market conditions depends on the facts and circumstances and requires the use of significant judgment. The fair value is a reasonable point within the range that is most representative of fair value under current market conditions.
+
+
+
+The fair value guidance also establishes a fair value hierarchy and describes the following three levels used to classify fair value measurements:
+
+
+
+Level 1:     Unadjusted quoted prices in active markets that are accessible at the measurement date for identical,
+
+              unrestricted assets or
+
+              liabilities.
+
+
+
+Level 2:     Quoted prices in markets that are not active, or inputs that are observable either directly or indirectly,
+
+              for substantially the full term of the asset or
+
+              liability.
+
+
+
+Level 3:     Prices or valuation techniques that require inputs that are both significant to the fair value measurement
+
+              and unobservable (i.e., supported with little or no market
+
+              activity).
+
+A financial instrument’s level within the fair value hierarchy is based on the lowest level of input that is significant to the fair value measurement.
+
+17
+
+
+
+
+
+
+
+
+
+The following methods and assumptions were used to estimate the fair value of BMTX’s financial instruments as of March 31, 2024 and December 31, 2023:
+
+
+
+Cash and cash equivalents
+
+Cash and cash equivalents reported on the unaudited Consolidated Balance Sheets consists of non-interest bearing demand deposits, for which carrying value approximates fair value.
+
+Accounts receivable, net
+
+The carrying amount of accounts receivable approximates fair value because of the short-term nature of these items.
+
+
+
+Liability for Private Warrants
+
+
+
+The fair value of the private warrants was estimated using a modified version of the binomial lattice model incorporating the Cox-Ross-Rubenstein methodology at March 31, 2024 and at December 31, 2023. We assumed a term for the private warrants equal to the contractual term from the date of the merger with Megalith and then discounted the resulting value to the valuation date. 
+
+
+
+Among the key inputs and assumptions used in the pricing formula at March 31, 2024 were the following: a term of 1.77 years; volatility of 60%; a dividend yield of zero; an underlying stock price of $1.65; a risk free interest rate of 4.64%; and a closing price of the public warrants of $0.01 per share. 
+
+
+
+Among the key inputs and assumptions used in the pricing formula at December 31, 2023 were the following: a term of 2.02 years; volatility of 58%; a dividend yield of zero; an underlying stock price of $2.05; a risk free interest rate of 4.18%; and a closing price of the public warrants of $0.03 per share. 
+
+
+
+At March 31, 2024 and December 31, 2023, the warrant liability is classified as a Level 3 fair value based upon the lowest level of input that is significant to the fair value measurement.
+
+
+
+18
+
+
+
+
+
+
+
+
+
+The estimated fair value of BMTX’s financial instruments at March 31, 2024 and December 31, 2023 were as follows:
+
+
+
+                                                                                    Fair Value Measurements at March 31, 2024
+
+(amounts in thousands)                      Carrying Amount Estimated Fair  Quoted Prices  Significant Other      Significant
+
+                                                                 Value         in Active       Observable         Unobservable
+
+                                                                              Markets for     Inputs (Level       Inputs (Level
+
+                                                                               Identical           2)                  3)
+
+                                                                                Assets
+
+                                                                                (Level
+
+                                                                                  1)
+
+Assets:
+
+Cash and cash equivalents                   $     14,630   $      14,630   $     14,630   $             —   $               — 
+
+Accounts receivable, net                            6,875           6,875           6,875                 —                    — 
+
+Liabilities:
+
+Liability for private warrants              $         54   $          54   $          —   $             —   $              54 
+
+
+
+
+
+                                                                                  Fair Value Measurements at December 31, 2023
+
+(amounts in thousands)                      Carrying Amount Estimated Fair  Quoted Prices  Significant Other      Significant
+
+                                                                 Value         in Active       Observable         Unobservable
+
+                                                                              Markets for     Inputs (Level       Inputs (Level
+
+                                                                               Identical           2)                  3)
+
+                                                                                Assets
+
+                                                                                (Level
+
+                                                                                  1)
+
+Assets:
+
+Cash and cash equivalents                   $     14,288   $      14,288   $     14,288   $             —   $               — 
+
+Accounts receivable, net                            9,128           9,128           9,128                 —                   — 
+
+Liabilities:
+
+Liability for private warrants              $        162   $         162   $            — $             —   $             162 
+
+NOTE 12 — RELATED PARTY TRANSACTIONS
+
+
+
+The Company has several relationships with our Partner Banks, which are related parties of the Company. These relationships are described below.
+
+
+
+Customers Bank
+
+
+
+Cash management
+
+
+
+All the Company’s cash and cash equivalents are on deposit with Customers Bank. 
+
+
+
+Servicing fees and interchange income
+
+
+
+On November 7, 2022, the Company and Customers Bank entered into the DPSA amendment, to the Deposit Processing Services Agreement (“the Deposit Processing Services Agreement”) dated January 4, 2021, to extend the Deposit Processing Services Agreement termination date to the earlier of the Company’s successful completion of the transfer of the Company’s serviced deposits to a new partner bank or June 30, 2023. The DPSA Amendment also removes Customers Bank’s obligation to pay the Company the difference between the Durbin-exempt and Durbin-regulated interchange revenues. The other terms of the Deposit Processing Services Agreement remain in effect through the new termination date.
+
+
+
+On March 22, 2023, we signed the DPSA Second Amendment. The DPSA Second Amendment, among other things, extends the termination date of the Deposit Processing Services Agreement until the earlier of (i) the transfer of the Company’s serviced deposits to a Durbin-exempt partner bank; or (ii) June 30, 2024; and revises the fee structure of the Deposit Processing Services Agreement. The other terms of the Deposit Processing Services Agreement, as amended by the DPSA Amendment, remain in effect through the new termination date. 
+
+19
+
+
+
+
+
+
+
+
+
+
+
+On August 18, 2023, the Company and Customers Bank entered into a third amendment to the Deposit Processing Services Agreement (the “DPSA Third Amendment”) for the Higher Education serviced deposit accounts. The DPSA Third Amendment extends the termination date of the Deposit Processing Services Agreement until the earlier of (i) the transfer of the Company’s Higher Education serviced deposits to a Durbin-exempt partner bank; or (ii) April 15, 2025.
+
+
+
+On March 22, 2023, the Company and Customers Bank entered into the 2023 Deposit Servicing Agreement, under which, effective March 31, 2023, the Company will perform, on behalf of Customers Bank, Customer Bank’s services, duties, and obligations under the Private Label Banking Program Agreement (the “PLBPA”) by and between Customers Bank and T-Mobile USA, Inc. that are not required by Applicable Law (as defined in the 2023 Deposit Servicing Agreement) to be provided by an FDIC insured financial institution. The obligations of the Company and Customers Bank under the 2023 Deposit Servicing Agreement are similar to those under the Deposit Processing Services Agreement; provided, however, that (i) as of March 31, 2023, the 2023 Deposit Servicing Agreement and not the Deposit Processing Services Agreement shall govern the terms, conditions, roles, responsibilities, duties, and obligations of the Company and Customers Bank with respect to the PLBPA and the Depositor Accounts (as defined in the 2023 Deposit Servicing Agreement); (ii) the Deposit Processing Services Agreement is amended to the extent necessary or advisable to effect the same, including, without limitation, such that “Depositor” under the Deposit Processing Services Agreement shall not include any T-Mobile Customer (as defined in the PLBPA); and (iii) there is a different fee structure under the 2023 Deposit Servicing Agreement from that set forth in the Deposit Processing Services Agreement. The initial term of the 2023 Deposit Servicing Agreement continues until February 24, 2025, and will automatically renew for additional one-year terms unless either party gives written notice of non-renewal at least 180 days prior to the expiration of the then-current term. The 2023 Deposit Servicing Agreement may be terminated early by either party upon material breach, upon notice of an uncured objection from a regulatory authority, or by the Company upon 120 days’ written notice upon the satisfaction of certain conditions. 
+
+As compensation under the 2023 Deposit Servicing Agreement, Customers Bank will retain any and all revenue generated from the funds held in the deposit accounts, and Customers Bank will pay the Company monthly servicing fees as set forth in the 2023 Deposit Servicing Agreement. In addition, the Company will have the right to retain all revenue generated by or from the Depositor Accounts (as defined in the 2023 Deposit Servicing Agreement), including, but not limited to, fees and all other miscellaneous revenues. The Company also shall retain all fees (including without limitation interchange fees), and charges generated by its ATMs and from its payment processing services. The Company will be solely liable for any and all fees, expenses, costs, reimbursements, and other amounts that are or may become due and payable under the PLBPA, including, without limitation, any Durbin-exempt Interchange (as defined in the 2023 Deposit Servicing Agreement) fees payable to T-Mobile under the PLBPA. Customers Bank may set off any and all PLBPA Amounts against any compensation payable to the Company under the 2023 Deposit Servicing Agreement.
+
+
+
+Other
+
+
+
+On January 4, 2021, the Company entered into a Software License Agreement with Customers Bank which provides it with a non-exclusive, non-transferable, royalty-free license to utilize our mobile banking technology for a period up to 10 years. The Software License Agreement is cancellable by Customers Bank at any time, without notice, and without penalty, and for any reason or no reason at all. To date, Customers Bank has not utilized the Company’s mobile banking technology and zero consideration has been paid or recognized under the Software License Agreement.
+
+
+
+On January 4, 2021, the Company entered into a Non-Competition and Non-Solicitation Agreement with Customers Bank providing that Customers Bank will not, for a period of 4 years after the closing of the divestiture, directly or indirectly engage in the Company’s business in the territory (both as defined in the Non-Competition Agreement), except for white label digital banking services with previously identified parties and passive investments of no more than 2% of a class of equity interests of a competitor that is publicly traded. Customers Bank also agreed not to directly or indirectly hire or solicit any employees of the Company.
+
+
+
+Both the President and Executive Chairman of the Board of Customers Bank are immediate family members of the Company’s CEO, and together with their spouses, own less than 5.0% of the Company’s outstanding common stock at March 31, 2024.
+
+
+
+On April 20, 2022, the Company entered into a Special Limited Agency Agreement (“SLA”) with Customers Bank that provides for marketing assistance from the Company for the referral of consumer installment loans funded by Customers Bank. In consideration for this marketing assistance, the Company receives certain fees specified within the SLA which are recorded as a component of Other revenue on the unaudited Consolidated Statements of Income (Loss). No revenue was realized under the SLA. The SLA was terminated on May 16, 2023. 
+
+
+
+Positions with Customers Bank are presented on the unaudited Consolidated Balance Sheets in Accounts receivable, net, Deferred revenue, and Accounts payable and accrued liabilities. The Accounts receivable balances related to Customers Bank 
+
+20
+
+
+
+
+
+
+
+
+
+as of March 31, 2024 and December 31, 2023 were zero and $1.4 million, respectively. The Deferred revenue balances related to Customers Bank as of March 31, 2024 and December 31, 2023 were $1.2 million and $1.3 million, respectively. The Accounts payable and accrued liabilities balances related to Customers Bank as of March 31, 2024 and December 31, 2023 were $0.1 million and zero, respectively.
+
+
+
+The Company recognized $2.6 million and $12.4 million in revenues from Customers Bank for the three months ended March 31, 2024 and 2023, respectively. Of these amounts, $0.5 million and $5.4 million are paid directly by MasterCard or individual account holders to the Company for the three months ended March 31, 2024 and 2023, respectively. These amounts are presented on the unaudited Consolidated Statements of Income (Loss) in Total operating revenue.
+
+
+
+The Company recognized zero expenses from Customers Bank for the three months ended March 31, 2024 and 2023, respectively. 
+
+
+
+First Carolina Bank
+
+
+
+Deposit Servicing Agreement for Higher Education
+
+
+
+On March 16, 2023, the Company entered into a Deposit Servicing Agreement (the “FCB Deposit Servicing Agreement”) with a new partner bank, First Carolina Bank, a North Carolina chartered, non-member community bank (“FCB”), which provides that FCB will establish and maintain deposit accounts and other banking services in connection with customized products and services offered by the Company to its Higher Education institution clients, and the Company will provide certain other related services in connection with the accounts. FCB retains any and all revenue generated from the funds held in the deposit accounts, and in exchange, pays the Company a deposit servicing fee that is based on a calculation provided by the terms in the FCB Deposit Servicing Agreement, based on average monthly deposit balances and subject to certain contractual adjustments, and a monthly interchange fee equal to all debit card interchange revenues on the demand deposit accounts, minus an interchange share percentage. 
+
+
+
+On August 20, 2023, the Company and FCB entered into an amendment to the FCB Deposit Servicing Agreement (the “FCB DPSA First Amendment”). The FCB DPSA First Amendment, among other things, (i) extends the initial term from four years to five years after the effective date, (ii) provides that FCB will work with the Company and Customers Bank on the timely transfer of existing student depositor accounts on or before the effective date, and as agreed to by the parties, and (iii) amends the effective date to be the date on which FCB takes on deposits from the existing student depositor accounts. 
+
+
+
+The FCB Deposit Servicing Agreement and Amendment thereof may be terminated early by either party upon material breach, by either party upon notice that the continuation of the Depositor Program violates Applicable Law or Network Rules (as defined in the FCB Deposit Servicing Agreement); by FCB if a regulatory authority determined that the performance of its obligations under the FCB Deposit Servicing Agreement was not consistent with safe and sound banking practices; by either party upon the other party commencing or being subject to certain bankruptcy proceedings; and by the Company should it experience a change in control on or after March 16, 2026. 
+
+
+
+On December 1, 2023, the Company and FCB completed the transfer of existing student depositor accounts from Customers Bank to FCB. 
+
+
+
+Positions with FCB are presented on our unaudited Consolidated Balance Sheets in Accounts receivable, net, Deferred revenue, current, and Accounts payable and accrued liabilities. The Accounts receivable balance related to FCB as of March 31, 2024 and December 31, 2023 was $2.5 million and $0.2 million, respectively. The Deferred revenue balance related to FCB as of March 31, 2024 and December 31, 2023 was $7.2 million and $7.4 million, respectively. The Accounts payable and accrued liabilities balance related to FCB as of March 31, 2024 and December 31, 2023 was zero, respectively.
+
+
+
+The Company recognized $12.5 million and zero in net revenues from FCB for the three months ended March 31, 2024 and 2023, respectively. Of these amounts, $4.7 million and zero are paid directly by MasterCard or individual account holders to the Company for the three months ended March 31, 2024 and 2023, respectively. These amounts are presented on the unaudited Consolidated Statements of Income (Loss) in Total operating revenue.
+
+
+
+21
+
+
+
+
+
+
+
+
+
+NOTE 13 — RESTRUCTURING ACTIVITIES
+
+
+
+On January 26, 2023, and in connection with our previously announced near-term strategy to focus on being an innovative, efficient, risk oriented fintech with a partner bank model, the Company committed to a targeted Profit Enhancement Plan (the “PEP”) that is intended to reduce operating costs, improve operating margins, improve operating cash flow, and continue advancing the Company’s ongoing commitment to profitable growth and continued innovation, and direct the Company’s resources toward its best opportunities. 
+
+
+
+The Company completed a workforce reduction of approximately 3 and 60 employees during the three months ended March 31, 2024 and 2023, respectively. The Company’s workforce reduction expenses, consisting of severance and other termination benefits for the three months ended March 31, 2024 and 2023, totaled less than $0.1 million and $0.8 million, respectively, and are recorded in Restructuring, merger, and acquisition related expenses on the unaudited Consolidated Statements of Income (Loss). Less than $0.1 million of these expenses were incurred but not paid at March 31, 2024 and are included in Accounts payable and accrued liabilities on the unaudited Consolidated Balance Sheets. 
+
+NOTE 14 — SUBSEQUENT EVENTS 
+
+
+
+The Company has evaluated events subsequent to the balance sheet date and prior to the filing of this Quarterly Report on Form 10-Q for the three months ended March 31, 2024, and has determined that no events have occurred that would require adjustment to our interim unaudited consolidated financial statements and related notes.
+
+
+
+22
+
+
+
+
+
+
+
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to provide a reader of our financial statements with a narrative from the perspective of our Management on our financial condition, results of operations, liquidity, and certain other factors that may affect our future results. The following discussion and analysis should be read in conjunction with our interim unaudited consolidated financial statements and the related notes included in Item 1 “Unaudited Consolidated Financial Statements” of this Quarterly Report on Form 10-Q and our Annual Report on Form 10-K for the year ended December 31, 2023. Historical results and percentage relationships are not necessarily indicative of operating results for future periods. Unless the context otherwise requires, for purposes of this Management’s Discussion and Analysis, references to the “Company,” “we,” and “our” refer to the business and operations of BM Technologies, Inc. (“BMTX”) and its subsidiaries.
+
+
+
+CAUTIONARY NOTE REGARDING FORWARD LOOKING STATEMENTS
+
+
+
+This Quarterly Report on Form 10-Q, including, without limitation, statements under the heading Management’s Discussion and Analysis of Financial Condition and Results of Operations, includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 (the “Exchange Act”). Forward-looking statements generally, but not always, can be identified by the use of forward-looking terminology, including the words “believes”, “estimates”, “anticipates”, “expects”, “intends”, “plans”, “may”, “will”, “potential”, “projects”, “predicts”, “continue”, or “should”, or, in each case, their negative or other variations or comparable terminology. These forward-looking statements reflect our current views with respect to, among other things, statements relating to the Company’s assets, business, cash flows, condition (financial or otherwise), credit quality, financial performance, liquidity, short and long-term performance goals, prospects, results of operations, strategic initiatives, the benefits, cost, and synergies of completed acquisitions or dispositions, and the timing, benefits, costs, and synergies of future acquisitions, dispositions, and other growth opportunities. There can be no assurance that actual results will not materially differ from expectations. These statements are based on Management’s current expectations, but actual results may differ materially due to various factors. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond our control), and other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. 
+
+
+
+Factors that could cause actual results to differ from those discussed in such forward-looking statements include, but are not limited to (1) difficulty attracting and retaining highly-effective employees; (2) our ability to successfully execute our business plan; (3) changes in consumer preferences, spending, and borrowing habits, and demand for our products and services; (4) general economic conditions, especially in the communities and markets in which we conduct our business; (5) market risk, including interest rate and liquidity risk; (6) operational risk, including cybersecurity risk and risk of fraud, data processing system failures, network breaches, and maintenance of internal controls, including remediating any material weaknesses in our internal control over financial reporting; (7) increased competition, including competition from other bank and non-bank financial institutions; (8) changes in regulations, laws, taxes, government policies, monetary policies, and accounting policies; (9) regulatory enforcement actions and adverse legal actions; and (10) other economic, competitive, technological, operational, governmental, regulatory, and market factors affecting our operations, including, those factors summarized in the immediately following section titled “Summary of Principal Risk Factors”, which we encourage you to read. These risks and others described under “Risk Factors” may not be exhaustive. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as may be required under applicable securities laws.
+
+
+
+We caution you that forward-looking statements are not guarantees of future performance and that our actual results of operations, financial condition, and liquidity, and development in the industry in which we operate may differ materially from those made in or suggested by the forward-looking statements contained in this report.
+
+
+
+Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. We caution readers that the foregoing list of factors is not exclusive, is not necessarily in order of importance, and readers should not place undue reliance on forward-looking statements. Additional factors that may cause actual results to differ materially from those contemplated by any forward-looking statements may also be found in our 2023 Annual Report on Form 10-K (including the “Risk Factor” section of that report), Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K filed with the SEC and available at 
+
+23
+
+
+
+
+
+
+
+
+
+the SEC’s website at http://www.sec.gov. We do not intend to and, except as required by law, hereby disclaim any obligation to update or revise any forward-looking statement contained in this Quarterly Report on Form 10-Q, which speaks only as of the date of its filing with the SEC, whether as a result of new information, future events, or otherwise. 
+
+BUSINESS OVERVIEW
+
+BM Technologies, Inc. (“BMTX” or the “Company”) (formerly known as BankMobile) provides state-of-the-art high-tech digital banking and disbursement services to consumers and students nationwide through a full service fintech banking platform, accessible to customers anywhere and anytime through digital channels.
+
+
+
+BankMobile Technologies, Inc. (“BankMobile”) was incorporated in May 2016 as a wholly-owned subsidiary of Customers Bank. On August 6, 2020, the Company entered into an Agreement and Plan of Merger, by and among Megalith Financial Acquisition Corporation, a special purpose acquisition company (“Megalith”), incorporated in Delaware in November 2017, MFAC Merger Sub Inc., a wholly-owned subsidiary of Megalith, BankMobile Technologies, Inc., and Customers Bank, the sole stockholder of BankMobile. On January 4, 2021, BankMobile became an independent company after the completion of a divestiture transaction and was rebranded BM Technologies, Inc.
+
+
+
+BMTX’s fintech business model leverages Banking-as-a-Service (“BaaS”) partners’ and University partners’ existing customer bases to achieve high volume, low-cost customer acquisition in its Higher Education and BaaS businesses. BMTX has four primary revenue sources: interchange and card revenue, servicing fees, account fees, and university fees. The majority of revenues are driven by customer activity (deposits, spend transactions, etc.) and may be paid or passed through by our Partner Banks, universities or paid directly by customers. 
+
+
+
+BMTX facilitates deposits and banking services between a customer and our partner banks, Customers Bank and First Carolina Bank, (the “Partner Banks”), which are related parties and are Federal Deposit Insurance Corporation (“FDIC”) insured bank. The Partner Banks hold the FDIC insured deposits that BMTX sources and services and are the issuing bank on BMTX’s debit cards. The Partner Banks pay the Company a servicing fee for the deposits generated and passes through interchange income earned from transactions on debit cards and transaction-based account fees. 
+
+BMTX is not a bank, does not hold a bank charter, and does not provide banking services, and as a result, it is not subject to direct banking regulation, except as a service provider to our partner banks. BMTX is also subject to the regulations of the ED, due to our student disbursements business, and is periodically examined by it. BMTX’s contracts with most of its Higher Education institution clients require it to comply with numerous laws and regulations, including, where applicable, regulations promulgated by the ED regarding the handling of student financial aid funds received by institutions on behalf of their students under Title IV of the Higher Education Act of 1965; the Family Educational Rights and Privacy Act of 1995; the Electronic Fund Transfer Act and Regulation E; the USA PATRIOT Act and related anti-money laundering requirements; and certain federal rules regarding safeguarding personal information, including rules implementing the privacy provisions of the Gramm-Leach-Bliley Act. Other products and services offered by BMTX may also be subject to other federal and state laws and regulations.
+
+
+
+
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+For information regarding our critical accounting policies and estimates, please refer to our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. There have been no material changes to the critical accounting policies and estimates previously disclosed in that report.
+
+
+
+NEW ACCOUNTING PRONOUNCEMENTS 
+
+
+
+As an emerging growth company (“EGC”), the Jumpstart Our Business Startups Act (“JOBS Act”) allows the Company to delay adoption of new or revised ASUs applicable to public companies until such pronouncements are applicable to private companies. The Company has elected to use the extended transition period under the JOBS Act.
+
+
+
+Recently Adopted Accounting Pronouncements
+
+
+
+In August 2020, the FASB issued ASU 2020-06, “Debt - Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging - Contracts in Entity’s Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity.” The Company adopted ASU 2020-06 on January 1, 2024. The adoption of this new accounting standard did not have a material impact on the Company’s condensed consolidated financial statements.
+
+
+
+24
+
+
+
+
+
+
+
+
+
+Recently Issued Accounting Pronouncements Not Yet Adopted as March 31, 2024
+
+
+
+In December 2023, the FASB issued ASU 2023-09, Income taxes (Topic 740): Improvements to Income Tax Disclosures, which is a final standard on improvement to income tax disclosures. This update applies to all entities subject to income taxes. As a public business entity, the new requirements will be effective for annual periods beginning after December 15, 2024. As of December 31, 2023, the Company is still evaluating the impact of this update to its financial statements for annual periods after December 15, 2024.
+
+
+
+In March 2024, the FASB issued ASU 2024-01, Compensation - Stock Compensation (Topic 718), Scope Application of Profits Interest and Similar Awards. This standard provides clarity regarding whether profits interest and similar awards are within the scope of Topic 718 of the Accounting Standards Codification. This standard is effective for fiscal years beginning after December 15, 2024. Early adoption is permitted. The Company is still evaluating the impact of this update to its financial statements for annual periods after December 15, 2024. 
+
+
+
+In March 2024, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2024-02, “Codification Improvements - Amendments to Remove References to the Concepts Statements” (“ASU 2024-02”), which removed references to various FASB Concepts Statements and updates technical corrections such as conforming amendments, clarification to guidance, simplifications to wording or the structure of guidance, and other minor improvements. The new guidance is effective for fiscal years beginning after December 15, 2024. Early adoption is permitted. The Company is still evaluating the impact of this update to its financial statements for annual periods after December 15, 2024. 
+
+RESULTS OF OPERATIONS
+
+The following discussion of our results of operations should be read in conjunction with our interim unaudited consolidated financial statements, including the accompanying notes. 
+
+
+
+The following summarized tables set forth our operating results for the three months ended March 31, 2024 and 2023:
+
+
+
+                                                                              Three Months Ended         Change         % Change
+
+                                                                                  March 31,
+
+(dollars in thousands, except per common share data)                         2024          2023
+
+Operating revenues                                                       $    16,181   $    13,371   $    2,810             21   %
+
+Operating expenses                                                            15,526        19,746        (4,220)           (21)  %
+
+Income (loss) from operations                                                    655        (6,375)        7,030                 NM
+
+Gain on fair value of private warrant liability                                  108         1,421        (1,313)           (92)  %
+
+Income (loss) before income tax expense                                          763        (4,954)        5,717                 NM
+
+Income tax expense                                                                15             6             9            150   %
+
+Net income (loss)                                                        $       748   $    (4,960)  $    5,708                 NM
+
+
+
+Basic earnings (loss) per common share                                   $      0.06   $     (0.43)  $     0.49                 NM
+
+Diluted earnings (loss) per common share                                 $      0.06   $     (0.43)  $     0.49                 NM
+
+NM - not meaningful
+
+For the three months ended March 31, 2024, Net income (loss) increased $5.7 million as compared to the three months ended March 31, 2023, resulting in a Net income of $0.7 million, which included a $1.3 million gain from the modification of the 2021 PBRSUs. Income (loss) from operations for the three months ended March 31, 2024 increased by $7.0 million as compared to the three months ended March 31, 2023. Operating revenues increased by $2.8 million, or 21%, and Operating expenses decreased by $4.2 million, or 21%. Changes in operating revenues and expenses are discussed in greater detail below. Basic and diluted earnings (loss) per common share, which increased to $0.06, are both driven by the impact of total net income in the current year.
+
+25
+
+
+
+
+
+
+
+
+
+Operating Revenues
+
+
+
+                                                                              Three Months Ended                        % Change
+
+                                                                                  March 31,
+
+(dollars in thousands)                                                       2024          2023         Change
+
+Interchange and card revenue                                             $    3,415   $    2,966   $      449             15   %
+
+Servicing fees                                                                 8,966         6,632         2,334             35   %
+
+Account fees                                                                   2,095         2,140           (45)            (2)  %
+
+University fees                                                                1,612         1,506           106              7   %
+
+Other revenue                                                                     93           127           (34)           (27)  %
+
+Total operating revenues                                                 $   16,181   $   13,371   $    2,810             21   %
+
+Total Operating revenues increased $2.8 million, or 21%, in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023. This increase is primarily attributable to a $2.3 million, or 35%, increase in Servicing fees, driven primarily by higher deposit yields under the new variable rate deposit processing services agreements and a $0.4 million, or 15%, increase in Interchange and card revenue driven primarily by the change to a partner bank with Durbin exempt interchange rates for the student portfolio and higher overall spend.
+
+
+
+Operating Expenses
+
+
+
+                                                                               Three Months Ended                        % Change
+
+                                                                                   March 31,
+
+(dollars in thousands)                                                        2024          2023         Change
+
+Technology, communication, and processing                                 $    4,711   $    7,105   $   (2,394)          (34)  %
+
+Salaries and employee benefits                                                  4,447         6,425        (1,978)          (31)  %
+
+Professional services                                                           3,208         2,640           568            22   %
+
+Provision for operating losses                                                  2,081         1,677           404            24   %
+
+Occupancy                                                                          16            14             2            14   %
+
+Customer related supplies                                                         241           228            13             6   %
+
+Advertising and promotion                                                         100           118           (18)          (15)  %
+
+Restructuring, merger, and acquisition related expenses                            79           719          (640)          (89)  %
+
+Other expense                                                                     643           820          (177)          (22)  %
+
+Total operating expenses                                                  $   15,526   $   19,746   $   (4,220)          (21)  %
+
+NM refers to changes greater than 150%.
+
+Total Operating expenses decreased $4.2 million, or 21%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023. This decrease is primarily attributable to a $2.4 million, or 34%, decrease in Technology, communication, and processing primarily driven by lower amortization as a result of internally developed software that was fully amortized prior to the three months ended March 31, 2024, a $2.0 million, or 31%, decrease in Salaries and employee benefits which included a $1.3 million reduction attributable to the gain from cancellation of the 2021 PBRSUs to certain executives and subsequent issuance of new PBRSUs, and a $0.6 million or 89% decrease in Restructuring, merger, and acquisition related expenses due to lower severance expense. This decrease was offset in part by a $0.6 million or 22% increase in Professional services which included higher third-party technical and professional contractor charges and a $0.4 million or 24% increase in provision for operating losses due to increase in third party fraud related to unauthorized card transactions. 
+
+
+
+Income Tax Expense
+
+
+
+The Company’s effective tax rate was 2.0% for the three months ended March 31, 2024. The Company’s effective tax rate was (0.1)% for the three months ended March 31, 2023. Rates for both periods are driven by required state minimum tax payments. The Company was in a taxable loss position for the three months ended March 31, 2024 and the three months ended March 31, 2023, respectively. The Company has determined it is more likely than not that the future benefit of deferred tax assets will not be realized and has established a full valuation allowance. 
+
+
+
+26
+
+
+
+
+
+
+
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Our Cash and cash equivalents consist of non-interest bearing, highly-liquid demand deposits. We had $14.6 million of Cash and cash equivalents at March 31, 2024 as compared to $14.3 million of Cash and cash equivalents at December 31, 2023. 
+
+We finance our operations through cash flows provided primarily by operating activities. We intend to fund our ongoing operating activities with our existing cash and expected cash flows from future operations. However, should additional liquidity be necessary, the Company could consider equity or debt financing, but there are no assurances that additional capital would be available or on terms that are acceptable to us.
+
+FASB ASC 205-40, Presentation of Financial Statements - Going Concern, requires Management to assess an entity’s ability to continue as a going concern within one year of the date the financial statements are issued. In each reporting period, including interim periods, an entity is required to assess conditions known and reasonably knowable as of the financial statement issuance date to determine whether it is probable an entity will not meet its financial obligations within one year from the financial statement issuance date. 
+
+
+
+Management has performed this required assessment as of May 15, 2024, and believes there are sufficient funds available to support its ongoing business operations and continue as a going concern for at least the next 12 months with projected liquidity of $13.2 million at May 15, 2025. 
+
+
+
+Management’s assessment is subject to known and unknown risks, uncertainties, assumptions, and changes in circumstances, many of which are beyond our control including the impact of the macroeconomic environment, and that are difficult to predict as to timing, extent, likelihood, and degree of occurrence, and that could cause actual results to differ from estimates and forecasts, potentially materially. 
+
+
+
+The table below summarizes our cash flows for the periods indicated:
+
+
+
+                                                                                           Three Months Ended
+
+                                                                                                March 31,
+
+(dollars in thousands)                                                                   2024             2023           Change
+
+Net cash provided by (used in) operating activities                                 $       2,339   $      (6,369)  $       8,708 
+
+Net cash used in investing activities                                                       (1,821)          (1,379)            (442)
+
+Net cash used in financing activities                                                         (176)          (2,429)           2,253 
+
+Net increase (decrease) in cash and cash equivalents                                $         342   $     (10,177)  $      10,519 
+
+
+
+Cash flows provided by (used in) operating activities
+
+
+
+The increase in net cash provided by operating activities is driven primarily by a $4.5 million increase in cash Net income, a $3.2 million increased source of cash from Prepaid and other assets, a $6.3 million increased source of cash from Accounts receivable, and a $2.7 million increased source of cash from Deferred revenue, offset by $7.9 million increased use of cash for Accounts payable and accrued liabilities.
+
+
+
+Cash flows used in investing activities
+
+Cash used in investing activities increased $0.4 million in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to increased development of internal use software offset by a decrease in purchases of premises and equipment.
+
+Cash flows used in financing activities
+
+Cash used in financing activities decreased $2.3 million in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to larger tax payments related to the net settlement of the January 4, 2021 share-based compensation awards in 2023.
+
+
+
+27
+
+
+
+
+
+
+
+
+
+
+
+ITEM 3. QUANTITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Credit Risk
+
+
+
+We are exposed to various economic risks in the normal course of business including concentration of credit risk. Potential concentration of credit risk consists primarily of accounts receivable from Customers Bank, BaaS partner, MasterCard, and Higher Education institution clients. Historically, we have not experienced any material losses related to these balances and believe that there is minimal risk of expected future losses. However, there can be no assurance that there will not be losses on these balances.
+
+
+
+At March 31, 2024 and December 31, 2023, Customers Bank accounted for 0% and 16% of our total Accounts receivable, net, respectively. At March 31, 2024 and December 31, 2023, FCB accounted for 37% and 2% of our total Accounts receivable, net, respectively. At March 31, 2024 and December 31, 2023, a BaaS partner accounted for 25% and 48% of our total Accounts receivable, net, respectively. At March 31, 2024 and December 31, 2023, MasterCard accounted for 26% and 21% of our total Accounts receivable, net, respectively. 
+
+
+
+Financial instruments that potentially subject the Company to credit risk consist principally of cash held in the Company's operating account. Cash is maintained in accounts with Customers Bank, which, at times may exceed the FDIC coverage limit of $250,000. At March 31, 2024, the Company has not experienced losses on these cash accounts and Management believes, based upon the quality of Customers Bank, that the credit risk with regard to these deposits is not significant.
+
+
+
+ITEM 4. CONTROLS AND PROCEDURES 
+
+
+
+(a) Evaluation of Disclosure Controls and Procedures
+
+
+
+Under the supervision and with the participation of Management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our disclosure controls and procedures (as such term is defined in Exchange Act Rule 13a-15(e)), as of March 31, 2024. 
+
+
+
+We identified a material weakness in our internal control over financial reporting, as described in Part II, Item 9A of our Annual Report on Form 10-K for the year ended December 31, 2023, which were not fully remedied as of March 31, 2024. A material weakness is a deficiency or combination of deficiencies, in internal control over financial reporting, such that there is reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected and corrected on a timely basis. Accordingly, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were not effective as of the end of the period covered by this report. 
+
+
+
+(b) Changes in Internal Control over Financial Reporting
+
+
+
+Except as set forth in the following sentences, no change in our internal control over financial reporting (as that term is defined in Exchange Act Rule 13a-15(f)) occurred during the fiscal quarter ended March 31, 2024 that materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. As of December 31, 2023, we had concluded that our internal control over financial reporting was not effective. During the first quarter of 2024, we have been implementing and will continue to implement changes that are both organizational and process-focused to improve the control environment of the Company. We anticipate the actions to be taken and resulting process improvements to generally strengthen our internal control over financial reporting, and over time, will address the material weaknesses noted as of December 31, 2023. These remedial measures were considered changes to our internal control environment which had a material effect on internal control over financial reporting. We expect that the remediation of these material weaknesses will be fully implemented and validated by the end of the fourth quarter of 2024.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+
+
+
+
+
+
+
+
+
+
+
+PART II - OTHER INFORMATION
+
+
+
+ITEM 1. LEGAL PROCEEDINGS    
+
+
+
+The Company may be involved from time to time in various legal and administrative proceedings and litigation arising in the ordinary course of business. We are not currently engaged in any legal proceedings that are expected to have a material effect on our financial position, cash flows or results of operations.
+
+ITEM 1A. RISK FACTORS
+
+
+
+There have been no material changes to the Risk Factors disclosed in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+
+
+None. 
+
+
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+
+
+None.
+
+
+
+ITEM 4. MINE SAFETY DISCLOSURES
+
+
+
+Not applicable.
+
+
+
+ITEM 5. OTHER INFORMATION 
+
+
+
+(a)     Share repurchases: None
+
+
+
+(b)     Rule 10b5-1 and Non-Rule 10b5-1 Trading Arrangements: During the three months ended March 31, 2024, none of our officers or directors (as defined in Rule 16a-1(f) of the Securities and Exchange act of 1934) adopted or terminated a Rule 10b5-1 trading arrangement or non-Rule10b5-1 trading arrangement (as such terms are defined in Item 408 or Regulation S-K of the Securities Act of 1933). 
+
+29
+
+
+
+
+
+
+
+
+
+ITEM 6. EXHIBITS 
+
+See exhibit index below for a list of the documents filed or furnished as part of this Quarterly Report on Form 10-Q:
+
+
+
+
+
+   Exhibit No.                                                         Description
+
+       3.1         Second Amended and Restated Certificate of Incorporation of the Company (incorporated by reference to the Company’s
+
+                    Form 8-K, filed with the SEC on January 8,
+
+                    2021).
+
+       3.2         Amended and Restated Bylaws of the Company (incorporated by reference to the Company’s Form 8-K, filed with the SEC
+
+                    on January 8,
+
+                    2021).
+
+      10.1+        First Amendment to the BM Technologies 2020 Equity Incentive Plan (incorporated by reference to Exhibit 4.4 to the
+
+                    Company's Registration Statement on Form S-8, filed with the SEC on June 30,
+
+                    2023).
+
+       31.1        Certification of the Principal Executive Officer required by Rule 13a-14(a) or Rule 15d-14(a).*
+
+       31.2        Certification of the Principal Financial and Accounting Officer required by Rule 13a-14(a) or Rule 15d-14(a).*
+
+        32         Certification under 18 U.S.C. 1350.*
+
+       101         Interactive data files for BM Technologies, Inc.’s Quarterly Report on Form 10-Q for the quarter ended March 31,
+
+                    2024, formatted in Inline XBRL: (i) the Consolidated Balance Sheets (unaudited); (ii) the Consolidated Statements
+
+                    of Income (Loss) (unaudited); (iii) the Consolidated Statements of Changes in Shareholders’ Equity (unaudited);
+
+                    (iv) the Consolidated Statements of Cash Flows (unaudited); and (v) the Notes to Unaudited Consolidated Financial
+
+                    Statements.*
+
+       104         The cover page from BM Technologies, Inc.’s Quarterly Report on Form 10-Q for the Quarter ended March 31, 2024
+
+                    (formatted in Inline XBRL and included in Exhibit
+
+                    101).*
+
+  * Filed or furnished herewith.
+
+ † Certain confidential information contained in this agreement has been omitted because it is private or confidential and is not
+
+ material.
+
+  + Indicates a management or compensatory plan.
+
+30
+
+
+
+
+
+
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+
+
+May 15, 2024                                  BM Technologies, Inc.
+
+                                              (Registrant)
+
+
+
+                                              By:                   /s/ Luvleen Sidhu
+
+                                              Name:                 Luvleen Sidhu
+
+                                              Title:                Chief Executive Officer
+
+                                                                    (Principal Executive Officer)
+
+
+
+May 15, 2024                                  BM Technologies, Inc.
+
+                                              (Registrant)
+
+
+
+                                              By:                   /s/ Ajay Asija
+
+                                              Name:                 Ajay Asija
+
+                                              Title:                Chief Financial Officer
+
+                                                                    (Principal Financial and Accounting Officer)
+
+
+
+
+
+31

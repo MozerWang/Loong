@@ -1,0 +1,2741 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+ 
+
+FORM 10-Q 
+
+ 
+
+☒    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024 
+
+ 
+
+OR
+
+ 
+
+☐    TRANSACTION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from _____________
+
+ 
+
+Commission File Number: 333-229399
+
+ 
+
+                     BIONEXUS GENE LAB CORP.
+
+      (Exact name of registrant as specified in its charter)
+
+ 
+
+                      Wyoming                                                       35-2604830
+
+          (State or Other Jurisdiction of                                        (I.R.S. Employer
+
+           Incorporation or Organization)                                      Identification No.)
+
+                                                                                         
+
+ Unit 02, Level 10 Tower B, Avenue 3, The Vertical                                       
+
+Business Suite II Bangsar South No. 8 Jalan Kerinchi                                  59200
+
+               Kuala Lumpur, Malaysia
+
+      (Address of Principal Executive Offices)                                      (Zip Code)
+
+ 
+
++1 307 241 6898
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+           Title of each class                            Trading Symbol(s)                 Name of each exchange on which registered
+
+        Common stock, no par value                               BGLC                              The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒   No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒   No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer, “ “ accelerated filer, “ “non-accelerated filer ,” “ smaller reporting company, “ and “ emerging growth company “ in Rule 12b-2 of the Exchange Act. (Check one):
+
+ 
+
+Large accelerated filer           ☐                      Accelerated filer                 ☐
+
+Non-accelerated Filer             ☒                      Smaller reporting company         ☒
+
+                                                         Emerging growth company           ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐   No ☒
+
+ 
+
+As of May 8, 2024, there were 17,667,663 shares of common stock, no par value per share, issued and outstanding. 
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                              Page     
+
+PART I – FINANCIAL INFORMATION                                                                                                         
+
+Item 1.     Financial Statements                                                                                                     3 
+
+Item 2.     Management’s Discussion and Analysis of Financial Condition and Results of Operations                                   24 
+
+Item 3.     Quantitative and Qualitative Disclosures About Market Risk                                                              30 
+
+Item 4.     Controls and Procedures                                                                                                 31 
+
+                                                                                                                                       
+
+PART II – OTHER INFORMATION                                                                                                            
+
+                                                                                                                                       
+
+Item 1.     Legal Proceedings                                                                                                       32 
+
+Item 2.     Unregistered Sale of Equity Securities and Use of Proceeds                                                              32 
+
+Item 3.     Defaults Upon Senior Securities                                                                                         32 
+
+Item 4.     Mine Safety Disclosures                                                                                                 32 
+
+Item 5.     Other Information                                                                                                       32 
+
+Item 6.     Exhibits                                                                                                                33 
+
+SIGNATURES                                                                                                                          34 
+
+ 
+
+ 
+
+                                                                   2
+
+
+
+Table of Contents
+
+ 
+
+CAUTIONARY NOTE REGARDING
+
+FORWARD-LOOKING STATEMENTS
+
+ 
+
+This Quarterly Report on Form 10-Q contains statements that may be deemed to be “forward-looking statements” within the meaning of the federal securities laws. These statements relate to anticipated future events, future results of operations and or future financial performance. In some cases, you can identify forward-looking statements by their use of terminology such as “anticipate,” “believe,” “could,” “estimate,” “expect,” “future,” “intend,” “may,” “ought to,” “plan,” “possible,” “potentially,” “predicts,” “project,” “should,” “will,” “would,” negatives of such terms or other similar terms. These forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. The forward-looking statements in this Quarterly Report on Form 10-Q include, without limitation, statements relating to:
+
+ 
+
+     ●    our goals and strategies;
+
+           
+
+     ●    our future business development, results of operations and financial condition;
+
+           
+
+     ●    our estimates regarding expenses, future revenues, capital requirements and our need for additional financing;
+
+           
+
+     ●    our estimates regarding the market opportunity for our services;
+
+           
+
+     ●    the impact of government laws and regulations;
+
+           
+
+     ●    our ability to recruit and retain qualified personnel;
+
+           
+
+     ●    our failure to comply with regulatory guidelines;
+
+           
+
+     ●    uncertainty in industry demand;
+
+           
+
+     ●    general economic conditions and market conditions in the financial services industry;
+
+           
+
+     ●    future sales of large blocks or our securities, which may adversely impact our share price; and
+
+           
+
+     ●    depth of the trading market in our securities.
+
+ 
+
+The preceding list is not intended to be an exhaustive list of all of our forward-looking statements. Forward-looking statements reflect our current views with respect to future events and are based on assumptions and subject to risks and uncertainties, including those described in Item 1A “Risk Factors” of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and elsewhere in this Quarterly Report on Form 10-Q.
+
+ 
+
+You should not unduly rely on any forward-looking statements. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that future results, levels of activity, performance and events and circumstances reflected in the forward-looking statements will be achieved or will occur. Except as required by law, we undertake no obligation to update publicly any forward-looking statements for any reason after the date of this Quarterly Report on Form 10-Q, to conform these statements to actual results or to changes in our expectations.
+
+ 
+
+ 
+
+                                                                   3
+
+
+
+Table of Contents
+
+ 
+
+PART I — FINANCIAL INFORMATION
+
+ 
+
+ITEM 1. Financial Statements
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+AS OF MARCH 31, 2024 AND DECEMBER 31, 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+ 
+
+                                                                                                                  As of               
+
+                                                                                                       March 31,       December 31,  
+
+                                                                                          Note            2024             2023      
+
+                                                                                                       (Unaudited)      (Audited)    
+
+ASSETS                                                                                                                               
+
+CURRENT ASSETS                                                                                                                       
+
+Cash and bank balances                                                                                    2,489,215       2,623,965 
+
+Fixed deposits placed with financial institutions                                                         3,342,966       3,305,371 
+
+Trade receivables                                                                           3               839,558         799,674 
+
+Other receivables, deposits and prepayments                                                                 106,304         122,432 
+
+Tax Recoverable                                                                             4                50,441          57,588 
+
+Inventories                                                                                               1,076,953       1,137,770 
+
+Total current assets                                                                                      7,905,437       8,046,800 
+
+                                                                                                                                    
+
+NON-CURRENT ASSETS                                                                                                                  
+
+Operating lease right of use assets                                                         5               128,176         141,544 
+
+Property, plant and equipment, net                                                          6             1,471,638       1,511,618 
+
+Other investments                                                                           7             1,656,232       1,699,831 
+
+Total non-current assets                                                                                  3,256,046       3,352,993 
+
+TOTAL ASSETS                                                                                         $   11,161,483  $   11,399,793 
+
+                                                                                                                                    
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY                                                                                                
+
+CURRENT LIABILITIES                                                                                                                 
+
+Trade payables                                                                              8             1,429,162       1,402,180 
+
+Other payables and accrued liabilities                                                                      214,735         180,912 
+
+Current portion of operating lease liabilities                                              5                32,508          34,632 
+
+Amount owing to directors                                                                                    40,129          13,199 
+
+Total current liabilities                                                                                 1,716,534       1,630,923 
+
+                                                                                                                                    
+
+NON-CURRENT LIABILITIES                                                                                                             
+
+Non-current portion of operating lease liabilities                                          5                88,846          98,763 
+
+Deferred tax liabilities                                                                    4                11,916          12,255 
+
+Total non-current liabilities                                                                               100,762         111,018 
+
+TOTAL LIABILITIES                                                                                    $    1,817,296  $    1,741,941 
+
+                                                                                                                                    
+
+STOCKHOLDERS’ EQUITY                                                                                                                
+
+As at March 31, 2024, common stock, no par value; 300,000,000 shares authorized and         10           17,191,315      17,191,315 
+
+ 17,667,663 shares outstanding, and preferred stock, no par value; 30,000,000 shares
+
+ authorized and no shares outstanding. As at December 31, 2023, common stock, no par
+
+ value; 300,000,000 shares authorized and 17,667,663 shares outstanding, and
+
+ preferred stock, no par value; 30,000,000 shares authorized and no shares
+
+ outstanding (on a post-reverse stock split
+
+ basis)*.
+
+Additional paid in capital                                                                               (5,011,891)     (5,011,891)
+
+Accumulated deficit                                                                                      (1,948,035)     (1,844,278)
+
+Other comprehensive losses                                                                                 (887,202)       (677,294)
+
+TOTAL STOCKHOLDERS’ EQUITY                                                                                9,344,187       9,657,852 
+
+                                                                                                                                    
+
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY                                                           $   11,161,483  $   11,399,793 
+
+    
+
+* Issued and outstanding shares of common stock have been adjusted for the periods prior to July 20, 2023, to reflect the 12-for-1 reverse stock split effected on that date on a retroactive basis as described in Note 10.
+
+ 
+
+See accompanying notes to the consolidated financial statements.
+
+ 
+
+ 
+
+                                                                   4
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+                                                                                                            Three months ended        
+
+                                                                                                                 March 31,
+
+                                                                                                           2024            2023      
+
+                                                                                                                                     
+
+REVENUE                                                                                               $    2,381,851  $    2,377,205 
+
+                                                                                                                                     
+
+COST OF REVENUE                                                                                           (2,016,820)     (2,008,308)
+
+                                                                                                                                     
+
+GROSS PROFIT                                                                                                 365,031         368,897 
+
+                                                                                                                                     
+
+OTHER INCOME                                                                                                 201,847         117,344 
+
+                                                                                                                                     
+
+OPERATING EXPENSES                                                                                                                   
+
+General and administrative                                                                                  (645,906)       (536,872)
+
+                                                                                                                                     
+
+LOSS FROM OPERATIONS                                                                                         (79,028)        (50,631)
+
+                                                                                                                                     
+
+FINANCE COSTS                                                                                                 (4,661)         (2,445)
+
+                                                                                                                                     
+
+LOSS BEFORE TAX                                                                                              (83,689)        (53,076)
+
+                                                                                                                                     
+
+Tax expense                                                                                                  (20,068)        (15,990)
+
+                                                                                                                                     
+
+NET LOSS                                                                                                    (103,757) $      (69,066)
+
+                                                                                                                                     
+
+Other comprehensive income:                                                                                                          
+
+Foreign currency translation loss                                                                           (209,908)        (39,039)
+
+                                                                                                                                     
+
+COMPREHENSIVE LOSS                                                                                    $     (313,665) $     (108,105)
+
+                                                                                                                                     
+
+Earnings per share - Basic and diluted                                                                        (0.018)         (0.007)
+
+Weighted average shares outstanding and per share amount have been adjusted for the periods shown to      17,667,663      14,476,513 
+
+ reflect the 12-for-1 reverse stock split effected on July 20, 2023, on a retroactive basis as
+
+ described in Note
+
+ 10.
+
+ 
+
+See accompanying notes to the condensed consolidated financial statements. 
+
+ 
+
+ 
+
+                                                                   5
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+
+AS OF MARCH 31, 2024 AND 2023
+
+(Amount expressed in United States Dollars (“US$))
+
+ (Unaudited)
+
+ 
+
+                                       Common stock                                                                               
+
+                                Number of         Amount       Additional      Accumulated     Accumulated other      Total      
+
+                                  shares                        paid in           surplus         comprehensive       Equity
+
+                                                                 capital                                
+
+                                                                                                      loss
+
+Balance as of December 31,        14,476,513  $   10,929,574  $ (5,011,891) $     1,156,392  $         (409,062) $  6,665,013 
+
+ 2022
+
+Impacts arising from                       -               -             -         (371,627)                  -      (371,627)
+
+ application of Topic
+
+ 326
+
+Balance as of January 1,          14,476,513      10,929,574    (5,011,891)         784,765            (409,062)    6,293,386 
+
+ 2023,
+
+ (restated)
+
+Net loss for the period                    -               -             -          (69,066)                  -       (69,066)
+
+Foreign currency translation               -               -             -                -             (39,039)      (39,039)
+
+ loss
+
+Balance as of March 31, 2023      14,476,513  $   10,929,574  $ (5,011,891) $       715,699  $         (448,101) $  6,185,281 
+
+ 
+
+                                       Common stock                                                                               
+
+                                Number of         Amount       Additional      Accumulated        Accumulated         Total      
+
+                                  shares                         paid in           loss              other            Equity
+
+                                                                                                 comprehensive 
+
+                                                                 capital                              loss
+
+Balance as of December 31,        17,667,663  $   17,191,315  $ (5,011,891) $    (1,844,278) $         (677,294) $  9,657,852 
+
+ 2023
+
+Net loss for the period                    -               -             -         (103,757)                  -      (103,757)
+
+Foreign currency translation               -               -             -                -            (209,908)     (209,908)
+
+ loss
+
+Balance as of March 31, 2024      17,667,663  $   17,191,315  $ (5,011,891) $    (1,948,035) $         (887,202) $  9,344,187 
+
+  
+
+Share activity (number of shares or both number and amount of shares) has been adjusted for the periods shown to reflect the 12-for-1 reverse stock split effected on July 20, 2023, on a retroactive basis as described in Note 10.
+
+ 
+
+See accompanying notes to the condensed consolidated financial statements. 
+
+ 
+
+ 
+
+                                                                   6
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+                                                                                                              Three months ended       
+
+                                                                                                                  March 31,            
+
+                                                                                                            2024           2023      
+
+Cash flows from operating activities:                                                                                                
+
+Net loss                                                                                                $    (103,757) $     (69,066)
+
+                                                                                                                                     
+
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+Amortization of right of use asset                                                                              9,448          3,972 
+
+Allowances for expected credit losses                                                                         120,469              - 
+
+Recovered for expected credit losses                                                                          (31,752)             - 
+
+Depreciation of property, plant and equipment                                                                  20,138         20,897 
+
+Dividend income                                                                                                (8,946)        (8,692)
+
+Fair value gain on other investments                                                                          (40,488)       (37,399)
+
+Gain on disposal of other investments                                                                          (6,181)            (4)
+
+Interest                                                                                                        2,711          1,779 
+
+Operating loss before working capital changes                                                                 (38,358)       (88,513)
+
+                                                                                                                                     
+
+Changes in operating assets and liabilities:                                                                                         
+
+Inventories                                                                                                    60,817         78,171 
+
+Trade and other receivables                                                                                  (112,473)       335,512 
+
+Trade and other payables                                                                                       55,227       (433,061)
+
+Advance payment from customer                                                                                   5,578         (7,801)
+
+Operating lease liabilities                                                                                   (12,041)        (4,366)
+
+Tax recoverable                                                                                                 6,808          3,540 
+
+Net cash used in operating activities                                                                         (34,442)      (116,518)
+
+                                                                                                                                     
+
+Cash flows from investing activities:                                                                                                
+
+Acquisition of other investment                                                                              (174,247)       (13,646)
+
+Dividend income                                                                                                 8,946          8,692 
+
+Purchase of plant and equipment                                                                               (21,945)          (102)
+
+Proceeds from disposal of other investments                                                                   211,344              - 
+
+Net cash generated from/(used in) investing activities                                                         24,098         (5,056)
+
+                                                                                                                                     
+
+Cash flows from financing activities:                                                                                                
+
+Interest                                                                                                       (2,711)        (1,779)
+
+Advances from Directors                                                                                        26,930              - 
+
+Net cash generated from/(used in) financing activities                                                         24,219         (1,779)
+
+                                                                                                                                     
+
+Foreign currency translation adjustment                                                                      (111,030)       (22,299)
+
+NET CHANGE IN CASH AND CASH EQUIVALENTS                                                                       (97,155)      (145,652)
+
+CASH AND CASH EQUIVALENTS, BEGINNING OF FINANCIAL PERIOD/YEAR                                               5,929,336      2,118,864 
+
+                                                                                                                                     
+
+CASH AND CASH EQUIVALENTS, END OF FINANCIAL PERIOD/YEAR                                                 $   5,832,181  $   1,973,212 
+
+                                                                                                                                     
+
+CASH AND CASH EQUIVALENTS INFORMATION:                                                                                               
+
+Fixed deposits placed with financial institutions                                                       $   3,342,966  $   1,566,425 
+
+Cash at bank                                                                                                2,489,215        406,787 
+
+Cash and cash equivalents, end of financial period/year                                                     5,832,181      1,973,212 
+
+                                                                                                                                     
+
+Supplementary cash flow information:                                                                                                 
+
+Interest paid                                                                                           $      (4,661) $      (2,445)
+
+Income tax paid                                                                                               (14,517)       (12,438)
+
+ 
+
+See accompanying notes to the condensed consolidated financial statements.
+
+ 
+
+ 
+
+                                                                   7
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+NOTE 1 – ORGANIZATION AND BUSINESS BACKGROUND
+
+ 
+
+BioNexus Gene Lab Corp. (the “Company”) was incorporated in the State of Wyoming on May 12, 2017. On August 23, 2017, the Company acquired all the outstanding capital stock of Bionexus Gene Lab Sdn. Bhd., a Malaysian corporation (“BioNexus Malaysia”). BioNexus Malaysia was incorporated in Malaysia on April 7, 2015 and subsequently changed its name to MRNA Scientific Sdn. Bhd. (“MRNA Scientific”) on September 19, 2023.
+
+ 
+
+The principal office address is Unit 02 Level 10, Tower B, Vertical Business Suite, No. 8 Jalan Kerinchi, Bangsar South, 59200 Kuala Lumpur, Malaysia, our lab is located at Lab 353, Chemical Science Centre, University Science Malaysia, George Town, Penang, Malaysia. We also have a blood collection center located at 1st floor, Lifecare Medical Centre, Kuala Lumpur, Malaysia. 
+
+ 
+
+On December 31, 2020, the Company consummated its acquisition of Chemrex Corporation Sdn. Bhd. (“Chemrex”), pursuant to a Share Exchange Agreement by and among the Company, Chemrex and the Chemrex shareholders wherein the Company acquired all the issued and outstanding shares of capital stock of Chemrex from the Chemrex shareholders in exchange for 68,487,261 shares of common stock of the Company.
+
+ 
+
+The acquisition of Chemrex has been accounted for as a common control transaction as there is no change in the control over the assets acquired and liabilities assumed. The net assets are derecognized by the transferring entity (i.e. Chemrex) and recognized by the receiving entity (i.e. the Company). The difference between the consideration transferred and the carrying amounts of the net assets is recognized in equity.
+
+ 
+
+The financial statements of the receiving entity report the results of operations for the period in which the transfer occurs as though the transfer of net assets or exchange of equity interests had occurred at the beginning of the period. Results of operations for that period will thus comprise those of the previously separate entities combined from the beginning of the period to the date the transfer is completed and those of the combined operations from that date to the end of the period. The comparative financial statements were not adjusted retrospectively as Chemrex was not under common control during the comparative period.
+
+ 
+
+The corporate structure as at March 31, 2024 is depicted below:
+
+ 
+
+                                                       BioNexus Gene Lab Corp.                 
+
+                                                          a Wyoming company                    
+
+                                                                                                                   
+
+                                                                                                                   
+
+               100% owned                                                                                    100% owned
+
+       MRNA Scientific Sdn. Bhd.                                                                   Chemrex Corporation Sdn. Bhd.,
+
+   (formerly “Bionexus Gene Lab Sdn.
+
+                 Bhd.”),
+
+          a Malaysian company                                                                           a Malaysian Company
+
+ 
+
+ 
+
+                                                                   8
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+
+The accompanying unaudited condensed consolidated financial statements reflect the application of certain significant accounting policies as described in this note and elsewhere in the accompanying consolidated financial statements and notes.
+
+ 
+
+·    Basis of presentation
+
+  
+
+The accompanying condensed consolidated financial statements as of and for the three months ended March 31, 2024 and 2023 have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”) that permit reduced disclosure for interim periods. Certain information and footnote disclosures normally included in the financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“US GAAP”) have been condensed or omitted.
+
+ 
+
+In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included. Operating results for the period ended March 31, 2024 are not necessarily indicative of the results that may be expected for the year ending December 31, 2024. The Condensed Consolidated Balance Sheet information as of December 31, 2023 was derived from the Company’s audited Consolidated Financial Statements as of and for the year ended December 31, 2023 included in the Company’s Annual Report on Form 10-K filed with the SEC on April 16, 2024. These financial statements should be read in conjunction with that report.
+
+ 
+
+·    Basis of consolidation
+
+ 
+
+The condensed consolidated financial statements include the accounts of Bionexus Gene Lab Corp. and its subsidiaries. All significant inter-company balances and transactions within the Company have been eliminated upon consolidation.
+
+ 
+
+·    Use of estimates
+
+ 
+
+In preparing these condensed consolidated financial statements, management makes estimates and assumptions that affect the reported
+
+ amounts of assets and liabilities in the balance sheets and revenues and expenses during the periods reported. Actual results may
+
+ differ from these
+
+ estimates.
+
+ 
+
+·    Cash and cash equivalents
+
+ 
+
+Cash and cash equivalents represent cash on hand, demand deposits placed with banks or other financial institutions and all highly liquid investments with an original maturity of three months or less as of the purchase date of such investments.
+
+ 
+
+·    Trade receivables
+
+ 
+
+Trade receivables primarily consist of invoiced amounts from Chemrex’s revenue. Chemrex applies interest charges to outstanding balances for certain receivables that exceed certain periods
+
+ 
+
+Expected credit losses
+
+ 
+
+The Company estimates and records a provision for its expected credit losses related to its financial instruments, including its trade receivables. Management considers historical collection rates, the current financial status of the Company’s customers, macroeconomic factors, and other industry-specific factors when evaluating current expected credit losses. Forward-looking information is also considered in the evaluation of current expected credit losses.
+
+ 
+
+To determine the provision for credit losses for accounts receivable, the Company has disaggregated its accounts receivable by  business component, as management determined that risk profile of the Company’s customers is consistent based on the type and industry in which they operate. Each business component is analyzed for estimated credit losses individually. In doing so, the Company establishes a historical loss matrix, based on the previous collections of accounts receivable by the age of such receivables. Further, the Company considers macroeconomic factors and the status of the industry the business component is in to estimate if there are current expected credit losses within its trade receivables based on the trends of the Company’s expectation of the future status of such economic and industry-specific factors. Also, specific allowance amounts are established based on review of outstanding invoices to record the appropriate provision for customers that have a higher probability of default. 
+
+ 
+
+·    Inventories
+
+ 
+
+Inventories consisting of products available for sell are stated at the lower of cost or net realizable value. Cost of inventory is determined using the first-in, first-out (FIFO) method. Inventory reserve is recorded to write down the cost of inventory to the estimated net realizable value due to slow-moving merchandise and damaged goods, which is dependent upon factors such as historical and forecasted consumer demand, and promotional environment. The Company takes ownership, risks, and rewards of the products purchased. Write downs are recorded in cost of revenues in the Statement of Operations and Comprehensive Income.
+
+ 
+
+ 
+
+                                                                   9
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+·    Leases
+
+ 
+
+Operating lease right-of-use assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. ROU assets represent the right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease. Generally, the implicit rate of interest (“discount rate”) in arrangements is not readily determinable and the Company utilizes its incremental borrowing rate in determining the present value of lease payments. The Company’s incremental borrowing rate is based on reference of a borrowing rate from the country where the operating subsidiary is located. The operating lease ROU asset includes any lease payments made and excludes lease incentives. 
+
+ 
+
+·    Property, plant and equipment
+
+ 
+
+Property, plant and equipment are stated at cost less accumulated depreciation and accumulated impairment losses, if any. Depreciation is calculated on a straight-line basis to write off the cost over the following expected useful lives of the assets concerned.
+
+ 
+
+The principal annual rates used are as follows:
+
+ 
+
+                                                                                                                       Principal      
+
+Categories                                                                                                            Annual Rates    
+
+Air conditioner                                                                                                                    20%
+
+Buildings                                                                                                                           2%
+
+Computer and software                                                                                                              33%
+
+Equipment                                                                                                                          20%
+
+Furniture and fittings                                                                                                      10% to 20%
+
+Lab Equipment                                                                                                                      10%
+
+Motor vehicle                                                                                                               10% to 20%
+
+Office equipment                                                                                                                   20%
+
+Renovation                                                                                                                  10% to 20%
+
+Signboard                                                                                                                          10%
+
+Solar PV System                                                                                                                    20%
+
+ 
+
+Leasehold lands are depreciated over the period of the lease term. Leased assets are depreciated over the shorter of the lease term and their useful lives unless it is reasonably certain that the Company will obtain ownership by the end of the lease term. Freehold land is not depreciated. Property, plant and equipment under construction are not depreciated until the assets are ready for their intended use
+
+ 
+
+Maintenance and repairs are charged to operations as incurred. Expenditures which substantially increase the useful lives of the related assets are capitalized. When properties are disposed, the related costs and accumulated depreciation are removed from the accounts and any gain or loss is reported in the period the transaction takes place.
+
+ 
+
+Fully depreciated plant and equipment are retained in the financial statements until they are no longer in use.
+
+ 
+
+ 
+
+                                                                   10
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+ 
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+·    Impairment of long-lived assets
+
+ 
+
+Long-lived assets primarily include goodwill, intangible assets and property, plant and equipment. In accordance with the provision of ASC Topic 360, “Impairment or Disposal of Long-Lived Assets,” the Company generally conducts its annual impairment evaluation to its long-lived assets, usually in the fourth quarter of each fiscal year, or more frequently if indicators of impairment exist, such as a significant, sustained change in the business climate. The recoverability of long-lived assets is measured at the lowest level group. If the total of the expected undiscounted future net cash flows is less than the carrying amount of the asset, a loss is recognized for the difference between the fair value and carrying amount of the asset. There has been no impairment charge for the years presented.
+
+ 
+
+·    Revenue recognition
+
+ 
+
+Revenues are recognized when control of the promised goods or services are transferred to a customer, in an amount that reflects the consideration that the Company expects to receive in exchange for those goods or services.
+
+ 
+
+The Company applies the following five steps in order to determine the appropriate amount of revenue to be recognized as it fulfills its obligations under each of its agreements:
+
+ 
+
+·    identify the contract with a customer;
+
+·    identify the performance obligations in the contract;
+
+·    determine the transaction price;
+
+·    allocate the transaction price to performance obligations in the contract; and
+
+·    recognize revenue as the performance obligation is satisfied.
+
+ 
+
+The Company records revenue at point in time which is recognized upon goods delivered or services rendered. 
+
+ 
+
+·    Shipping and handling fees
+
+ 
+
+Shipping and handling fees, if billed to customers, are included in revenue. Shipping and handling fees associated with inbound and outbound freight are expensed as incurred and included in selling and distribution expenses.
+
+ 
+
+ 
+
+                                                                   11
+
+
+
+Table of Contents
+
+  
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+·    Comprehensive income
+
+ 
+
+ASC Topic 220, “Comprehensive Income” establishes standards for reporting and display of comprehensive income, its components and accumulated balances. Comprehensive income as defined includes all changes in equity during a period from non-owner sources. Accumulated other comprehensive income, as presented in the accompanying statements of stockholders’ equity consists of changes in unrealized gains and losses on foreign currency translation and cumulative net change in the fair value of available-for-sale investments held at the balance sheet date. This comprehensive income is not included in the computation of income tax expense or benefit.
+
+ 
+
+·    Income taxes
+
+ 
+
+Income taxes are determined in accordance with the provisions of ASC Topic 740, “Income Taxes” (“ASC Topic 740”). Under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax basis. Deferred tax assets and liabilities are measured using enacted income tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. Any effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date.
+
+ 
+
+ASC 740 prescribes a comprehensive model for how companies should recognize, measure, present, and disclosed in their financial statements uncertain tax positions taken or expected to be taken on a tax return. Under ASC 740, tax positions must initially be recognized in the financial statements when it is more likely than not the position will be sustained upon examination by the tax authorities. Such tax positions must initially and subsequently be measured as the largest amount of tax benefit that has a greater than 50% likelihood of being realized upon ultimate settlement with the tax authority assuming full knowledge of the position and relevant facts.
+
+ 
+
+The Company conducts major businesses in Malaysia and is subject to tax in their own jurisdictions. As a result of its business activities, the Company will file separate tax returns that are subject to examination by the foreign tax authorities.
+
+ 
+
+·    Net earnings or loss per share
+
+ 
+
+The Company calculates net earnings or loss per share in accordance with ASC Topic 260 “Earnings per share.” Basic earnings or loss per share is computed by dividing the net earnings or loss by the weighted average number of common shares outstanding during the period. Diluted earnings or loss per share is computed similar to basic earnings or loss per share except that the denominator is increased to include the number of additional common shares that would have been outstanding if the potential common stock equivalents had been issued and if the additional common shares were dilutive.
+
+ 
+
+ 
+
+                                                                   12
+
+
+
+Table of Contents
+
+  
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+·    Foreign currencies translation
+
+ 
+
+Transactions denominated in currencies other than the functional currency are translated into the functional currency at the exchange rates prevailing at the dates of the transaction. Monetary assets and liabilities denominated in currencies other than the functional currency are translated into the functional currency using the applicable exchange rates at the balance sheet dates. The resulting exchange differences are recorded in the statement of operations.
+
+ 
+
+The functional currency of the Company is the United States Dollars (“US$”) and the accompanying financial statements have been expressed in US$. In addition, the subsidiaries maintain their books and records in a local currency, Malaysian Ringgit (“MYR” or “RM”), which is functional currency as being the primary currency of the economic environment in which the subsidiaries operate.
+
+ 
+
+In general, for consolidation purposes, assets and liabilities of its subsidiaries whose functional currency is not US$ are translated into US$, in accordance with ASC Topic 830-30, “Translation of Financial Statement,” using the exchange rate on the balance sheet date. Revenues and expenses are translated at average rates prevailing during the period. The gains and losses resulting from the translation of financial statements of foreign subsidiaries are recorded as a separate component of accumulated other comprehensive income.
+
+ 
+
+Translation of amounts from MYR into US$1.00 has been made at the following exchange rates for the respective period and year:
+
+ 
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+Period ended March 31, 2024 /Year-ended December 31, 2023 US$1: MYR exchange rate                              4.7205         4.5900 
+
+                                                                                                                                     
+
+                                                                                                         January 1,     January 1,   
+
+                                                                                                             2024           2023
+
+                                                                                                                       to March 31,
+
+                                                                                                        to March 31,       2023
+
+                                                                                                            2024
+
+3 months average US$1: MYR exchange rate                                                                       4.7240         4.3968 
+
+ 
+
+·    Related parties
+
+ 
+
+Parties, which can be a corporation or individual, are considered to be related if the Company has the ability, directly or indirectly, to control the other party or exercise significant influence over the other party in making financial and operating decisions. Companies are also considered to be related if they are subject to common control or common significant influence.
+
+ 
+
+ 
+
+                                                                   13
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+☐    Fair value of financial instruments
+
+ 
+
+The carrying value of the Company’s financial instruments: cash and cash equivalents, trade receivable, deposits and other receivables, amount due to related parties and other payables approximate at their fair values because of the short-term nature of these financial instruments.
+
+ 
+
+The Company also follows the guidance of the ASC Topic 820-10, “Fair Value Measurements and Disclosures” (“ASC 820-10”), with respect to financial assets and liabilities that are measured at fair value. ASC 820-10 establishes a six-tier fair value hierarchy that prioritizes the inputs used in measuring fair value as follows:
+
+ 
+
+☐    Level 1 : Observable inputs such as quoted prices in active markets;
+
+      
+
+☐    Level 2 : Inputs, other than the quoted prices in active markets, that are observable either directly or indirectly; and
+
+ 
+
+☐    Level 3 : Unobservable inputs in which there is little or no market data, which require the reporting entity to develop its own
+
+      assumptions
+
+ 
+
+As of March 31, 2024, and December 31, 2023, the Company did not have any non-financial assets and liabilities that are recognized or disclosed at fair value in the financial statements, at least annually, on a recurring basis, nor did the Company have any assets or liabilities measured at fair value on a non-recurring basis.
+
+ 
+
+☐    Recent accounting pronouncements
+
+ 
+
+The Company has reviewed all recently issued, but not yet effective, accounting pronouncements and do not believe the future adoption of any such pronouncements may be expected to cause a material impact on its financial condition or the results of its operations.
+
+ 
+
+ 
+
+                                                                   14
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+NOTE 3 - TRADE RECEIVABLES
+
+ 
+
+The Company recognized its trade receivables at their original invoice amounts minus an allowance for expected credit losses using a provisional matrix. Any bad debts are written off as identified,
+
+ 
+
+Trade receivables primarily consist of amounts owed by unrelated customers, with credit terms typically ranging from 30 to 120 days.
+
+ 
+
+In certain instances, the Company applies interest charges to overdue balance on specific trade receivables. Interlink Techno Sdn. Bhd., a customer of Chemrex has been subject to interest at a rate of 6% per annum from May 2021 to June 2023, subsequently increasing to 8.4% from July 2023 onwards. Similarly, Mawintech Sdn Bhd, another customer of Chemrex has been subject to a 6% per annum interest rate since May 2021.
+
+ 
+
+Throughout the financial year, no other interest charges were applied to the trade receivables.
+
+ 
+
+                                                                                                                    As of              
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+                                                                                                                                     
+
+Trade receivables                                                                                           2,180,459      2,107,182 
+
+Allowances for expected credit losses                                                                      (1,359,126)    (1,314,427)
+
+Foreign translation differences                                                                                18,225         (6,919)
+
+                                                                                                        $     839,558  $     799,674 
+
+ 
+
+Movement for trade receivables allowance for impairment accounts:
+
+ 
+
+                                                                                                                    As of              
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+At January 1, 2024 and January 1, 2023                                                                      1,314,427              - 
+
+Impacts arising from application of Topic 326                                                                       -        371,627 
+
+At January 1, 2024 and January 1, 2023, (restated)                                                          1,314,427        371,627 
+
+Charge for the period/year                                                                                                           
+
+Allowances for expected credit losses                                                                         120,469        942,800 
+
+Recovered for expected credit losses                                                                          (31,752)             - 
+
+Foreign translation differences                                                                               (44,018)             - 
+
+                                                                                                        $   1,359,126  $   1,314,427 
+
+ 
+
+ 
+
+                                                                   15
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+NOTE 4 - INCOME TAXES
+
+ 
+
+The Company provides for income taxes under ASC 740, “Income Taxes. ASC 740 requires the use of an asset and liability approach in accounting for income taxes. Deferred tax assets and liabilities are recorded based on the differences between the financial statements and tax basis of assets and liabilities and the tax rates in effect when these differences are expected to reverse. It also requires the reduction of deferred tax assets by a valuation allowance if, based on the weight of available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized.
+
+ 
+
+Provision for income taxes consisted of the following:
+
+ 
+
+United States of America
+
+The Company is registered in the State of Wyoming and is subject to the tax laws of the United States of America.
+
+ 
+
+Malaysia
+
+MRNA Scientific Malaysia and Chemrex are both subject to Malaysia Corporate Tax, which is charged at the statutory income tax rate range from 15% to 24% on its assessable income.  
+
+ 
+
+                                                                                                                    As of              
+
+                                                                                                          March 31,     December 31,  
+
+                                                                                                            2024            2023      
+
+Tax Recoverable                                                                                                                       
+
+Local                                                                                                   $           -  $           - 
+
+Foreign, representing Malaysia                                                                                (50,441)       (57,588)
+
+Tax Recoverable                                                                                               (50,441)       (57,588)
+
+                                                                                                                                     
+
+Income tax liabilities:                                                                                                              
+
+Local                                                                                                   $           -  $           - 
+
+Foreign, representing Malaysia                                                                                      -              - 
+
+Income tax payables                                                                                                 -              - 
+
+                                                                                                                                     
+
+Deferred tax liabilities:                                                                                                            
+
+Local                                                                                                   $           -  $           - 
+
+Foreign, representing Malaysia                                                                                 11,916         12,255 
+
+Deferred tax liabilities                                                                                       11,916         12,255 
+
+Total                                                                                                         (38,525)       (45,333)
+
+ 
+
+ 
+
+                                                                   16
+
+
+
+Table of Contents
+
+  
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+NOTE 5 – OPERATING LEASE RIGHT OF USE ASSET AND LEASE LIABILITIES
+
+ 
+
+The Company has operating lease arrangements for office space, lab, and motor vehicles in Malaysia with a term between two and five years. The Company accounts for the lease and non-lease components of its leases as a single lease component. Lease expense is recognized on a straight-line basis over the lease term.
+
+ 
+
+Operating lease right-of-use assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term.
+
+ 
+
+The present value of the lease payments are discounted with rates ranging from 6.40% to 6.65% per annum. These rates are reference from base rate of Malayan Banking Berhad, the largest bank in Malaysia.
+
+ 
+
+The lease payments of operating lease are classified within operating activities in the statement of cash flows. 
+
+ 
+
+Operating lease right of use assets as follows:                                                                     As of              
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+Balance as of beginning of the period/year                                                              $     141,544  $      55,730 
+
+Add: Addition of lease liabilities                                                                                  -        113,279 
+
+Less: Amortization                                                                                             (9,448)       (25,038)
+
+Foreign translation differences                                                                                (3,920)        (2,427)
+
+Balance as of end of the period/year                                                                    $     128,176  $     141,544 
+
+ 
+
+Operating lease liabilities as follows:                                                                                                
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+Balance as of beginning of the period/year                                                              $     133,395  $      56,775 
+
+Add: Addition of lease liabilities                                                                                  -        113,279 
+
+Less: gross repayment                                                                                         (10,377)       (39,798)
+
+Add: imputed interest                                                                                           2,030          5,613 
+
+Foreign translation differences                                                                                (3,694)        (2,474)
+
+Balance as of end of the year                                                                                 121,354        133,395 
+
+Less: lease liability current portion                                                                         (32,508)       (34,632)
+
+Lease liability non-current portion                                                                     $      88,846  $      98,763 
+
+ 
+
+The amortization of the right of use asset for the three months’ period ended March 31, 2024 and three months’ period ended March 31, 2023 were $9,448 and $3,972 respectively.
+
+ 
+
+Other information:                                                                                                 As of              
+
+                                                                                                        March 31,     December 31,  
+
+                                                                                                          2024            2023
+
+Cash paid for amounts included in the measurement of lease liabilities:                                                             
+
+Operating cash flow from operating lease                                                              $     (12,041)  $      76,620 
+
+Right of use assets obtained in exchange for operating lease liabilities                                    128,176         141,544 
+
+Remaining lease term for operating lease (years)                                                               4.25             4.5 
+
+Weighted average discount rate for operating lease                                                    $        6.53%  $        6.53%
+
+ 
+
+Lease expenses for the three months’ period ended March 31, 2024 and three months’ period ended March 31, 2023 were $2,030 and $855, respectively.
+
+ 
+
+ 
+
+                                                                   17
+
+
+
+Table of Contents
+
+  
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+NOTE 6 - PROPERTY, PLANT AND EQUIPMENT
+
+ 
+
+Property, plant and equipment consisted of the following: 
+
+ 
+
+                                                                                                                    As of              
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+Air conditioner                                                                                         $       1,124  $       1,124 
+
+Computer and software                                                                                           5,502          3,923 
+
+Equipment                                                                                                      62,423         60,412 
+
+Furniture and fittings                                                                                        100,118        100,118 
+
+Lab equipment                                                                                                 320,102        320,102 
+
+Land and buildings                                                                                          1,506,969      1,506,969 
+
+Motor vehicle                                                                                                 161,148        161,148 
+
+Office equipment                                                                                               35,335         33,914 
+
+Renovation                                                                                                     98,597         98,597 
+
+Signboard                                                                                                         806            806 
+
+Solar PV System                                                                                                16,935              - 
+
+Capital Work In Progress                                                                                      109,509        109,509 
+
+                                                                                                            2,418,568      2,396,622 
+
+(Less): Accumulated depreciation                                                                             (679,253)      (659,115)
+
+Add: Foreign translation differences                                                                         (267,677)      (225,889)
+
+Property, plant and equipment, net                                                                      $   1,471,638  $   1,511,618 
+
+ 
+
+Depreciation expense for the three months’ period ended March 31, 2024 and 2023 were $20,138 and $20,897 respectively.
+
+ 
+
+ 
+
+                                                                   18
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+NOTE 7 - OTHER INVESTMENTS
+
+ 
+
+                                                                                                                    As of              
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+As of beginning of the period/year                                                                      $   1,699,831  $   1,150,898 
+
+Addition during the year                                                                                      174,247        320,733 
+
+Disposal during the year                                                                                     (211,344)       (26,146)
+
+Fair value gain                                                                                                40,488        313,859 
+
+Impairment on other investment                                                                                      -         (6,194)
+
+Foreign exchange translation                                                                                  (46,990)       (53,319)
+
+As of end of the period/year                                                                            $   1,656,232  $   1,699,831 
+
+ 
+
+The other investments consist of the following shares: 
+
+                                                                                                                    As of              
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+Investment in quoted shares:                                                                                                         
+
+Malaysia                                                                                                    1,000,324      1,138,863 
+
+Singapore                                                                                                     152,635         79,577 
+
+Hong Kong                                                                                                     503,273        481,391 
+
+                                                                                                        $   1,656,232  $   1,699,831 
+
+ 
+
+NOTE 8 - TRADE PAYABLES
+
+ 
+
+Trade payables are amounts billed to the Company by suppliers for goods and services in the ordinary course of business. All amounts have short-term repayment terms and vary by supplier.
+
+ 
+
+ 
+
+                                                                   19
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+NOTE 9 - CONCENTRATION OF RISKS
+
+ 
+
+a) Major customers
+
+ 
+
+During the three months and three months ended March 31, 2024 and 2023, the Company did not have any material recognizable major customers accounted for 10% or more of the Company’s revenue.
+
+ 
+
+b) Major suppliers
+
+ 
+
+For three months ended March 31, 2024 and 2023, the suppliers who accounted for 10% or more of the Company’s cost of sales and their balances at year ended are presented as follows:
+
+ 
+
+                                                        2024          2023       2024        2023         2024        2023    
+
+                                                             Purchase           Percentage of purchases    Accounts payable trade  
+
+Vendor A                                            $    392,225  $  194,453      19.45%       9.68%  $  438,579  $  252,727 
+
+Vendor B                                            $    346,329  $  410,208      17.17%      20.43%  $  318,622  $  408,334 
+
+Vendor C                                            $    315,041  $  314,739      15.62%      15.67%  $  215,517  $  313,300 
+
+                                                    $  1,053,595  $  919,400      52.24%      45.78%  $  972,718  $  974,361 
+
+ 
+
+NOTE 10 - STOCK HOLDERS’ EQUITY
+
+ 
+
+Reverse Stock Split
+
+ 
+
+On June 5, 2023, the Company filed an Article of Amendment to the Articles of Incorporation with the Wyoming Secretary of State to modify the ratio of the Reverse Stock Split from one-for-ten (10) to one-for-twelve (12) (the “Revised Reverse Stock Split”). Upon effectiveness of the Revised Reverse Stock Split, every twelve (12) outstanding shares of common stock were combined into and automatically became one share of common stock. No fractional shares was issued in connection with the Revised Reverse Stock Split and all such fractional shares or odd lots (less than 100 shares to any record or beneficial holder) issuable in the Revised Reverse Stock Split were rounded up to 100 shares. An aggregate of 1,044,351 shares were issued to applicable shareholders as a result of the round-up. 
+
+ 
+
+The Revised Reverse Stock Split was approved and authorized by a majority of the Company’s stockholder on May 8, 2023 and by the Board of Directors of the Company on May 8, 2023.
+
+ 
+
+Public Offering & Nasdaq Listing 
+
+ 
+
+On July 20, 2023, the Company entered into an underwriting agreement (the "Underwriting Agreement") with Network 1 Financial Securities, Inc., as underwriter (the "Underwriter") pursuant to which the Company agreed to issue and sell, in a firm commitment underwritten public offering by the Company (the "Offering") of 1,250,000 shares of common stock, no par value, priced at a public offering price of $4.00 per share.
+
+ 
+
+In addition, pursuant to the Underwriting Agreement, the Underwriter was granted a 45-day option (the "Over-Allotment Option") to purchase up to an additional 187,500 shares of common stock at the public offering price of $4.00 per share. The Underwriter fully exercised the Over-Allotment Option on July 24, 2023.
+
+ 
+
+The securities were offered by the Company pursuant to the registration statement on Form S-1 (File No. 333-269753), which was originally filed with the U.S. Securities and Exchange Commission (the "Commission") under the Securities Act of 1933, as amended, on February 14, 2023, and declared effective by the Commission on July 19, 2023.
+
+ 
+
+On July 24, 2023, the Offering closed, and the Company issued and sold 1,437,500 shares of common stock, including 187,500 shares sold pursuant to the full exercise of the Over-Allotment Option. The Offering was priced at $4.00 per share for total gross proceeds of $5.75 million before deducting underwriting discounts, commissions, and offering expenses. Pursuant to the Underwriting Agreement, the Underwriter received an 8% underwriting discount on the public offering price for the shares common stock. The Company will therefore receive net proceeds, before expenses, of $5,290,000 from the sale of the common stocks. In addition, the Company issued to the Underwriter warrants to purchase up to an aggregate of 115,000 shares of the Company's common stock (the "Underwriter's Warrants") at an exercise price of $4.40 per share. The Underwriter's Warrants are exercisable from July 24, 2023 until July 24, 2028.
+
+ 
+
+In August, 2023, an aggregate of 759,299 shares of common stock were issued to professional parties or service providers in lieu of cash for services rendered, 125,000 were subsequently cancelled in November, 2023.
+
+ 
+
+In August, 2023, an aggregate of 75,000 shares of common stock were issued to three directors in lieu of cash for services rendered in connection with their employment as directors of the Company.
+
+ 
+
+From July 20, 2023 to August 4, 2023, an aggregate total of 1,044,351 shares of common stock were issued as part of the round-up exercise to the reverse stock split.
+
+ 
+
+ 
+
+                                                                   20
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+NOTE 11 – SEGMENTED INFORMATION
+
+ 
+
+At March 31, 2024, the Company (“BGLC”) operates in the biochemical industry segment through its two Malaysian subsidiaries, MRNA Scientific Malaysia (formerly known as Bionexus Gene Lab Sdn. Bhd.) and Chemrex.
+
+ 
+
+                                                       BioNexus Gene Lab Corp.                                     
+
+                                                          a Wyoming company                                        
+
+                                                                                                                   
+
+                                                                                                                   
+
+               100% owned                                                                                    100% owned
+
+       MRNA Scientific Sdn. Bhd.                                                                   Chemrex Corporation Sdn. Bhd.,
+
+   (formerly “Bionexus Gene Lab Sdn.
+
+                 Bhd.”),
+
+          a Malaysian company                                                                           a Malaysian Company
+
+ 
+
+At March 31, 2024, the Company (“BGLC”) operates in the biochemical industry segment through its two Malaysian subsidiaries, MRNA Scientific Malaysia and Chemrex.
+
+ 
+
+For the three months ended March 31, 2024, segmented (unaudited) revenue and net (loss)/profit (Currency expressed in United States Dollars (“US$”) are as follows:
+
+ 
+
+                                                                          MRNA          Chemrex         BGLC           Total     
+
+                                                                        Scientific
+
+                                                                        Malaysia
+
+                                                                                     Three months ended March 31, 2024                
+
+                                                                                                                                 
+
+REVENUE                                                               $       3,165  $   2,378,686  $           -  $   2,381,851 
+
+                                                                                                                                 
+
+COST OF REVENUE                                                              (2,252)    (2,014,568)             -     (2,016,820)
+
+                                                                                                                                 
+
+GROSS PROFIT                                                                    913        364,118              -        365,031 
+
+                                                                                                                                 
+
+OTHER INCOME                                                                 38,694        163,153              -        201,847 
+
+                                                                                                                                 
+
+OPERATING EXPENSES                                                                                                               
+
+General and administrative                                                  (80,855)      (415,629)      (149,422)      (645,906)
+
+                                                                                                                                 
+
+(LOSS)/PROFIT FROM OPERATIONS                                               (41,248)       111,642       (149,422)       (79,028)
+
+                                                                                                                                 
+
+FINANCE COSTS                                                                (1,950)        (2,687)           (24)        (4,661)
+
+                                                                                                                                 
+
+(LOSS)/PROFIT BEFORE TAX                                                    (43,198)       108,955       (149,446)       (83,689)
+
+                                                                                                                                 
+
+Tax expense                                                                       -        (20,068)             -        (20,068)
+
+                                                                                                                                 
+
+NET (LOSS)/PROFIT                                                     $     (43,198) $      88,887  $    (149,446) $    (103,757)
+
+                                                                                   )
+
+ 
+
+ 
+
+                                                                   21
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+                                                                           MRNA          Chemrex         BGLC           Total     
+
+                                                                         Scientific
+
+                                                                         Malaysia
+
+                                                                                      Three months ended March 31, 2023                
+
+                                                                                                                                  
+
+REVENUE                                                                $       7,436  $   2,369,769  $           -  $   2,377,205 
+
+                                                                                                                                  
+
+COST OF REVENUE                                                               (5,347)    (2,002,961)             -     (2,008,308)
+
+                                                                                                                                  
+
+GROSS /PROFIT                                                                  2,089        366,808              -        368,897 
+
+                                                                                                                                  
+
+OTHER INCOME                                                                   1,126        116,218              -        117,344 
+
+                                                                                                                                  
+
+OPERATING EXPENSES                                                                                                                
+
+General and administrative                                                   (46,255)      (383,177)      (107,440)      (536,872)
+
+                                                                                                                                  
+
+(LOSS)/PROFIT FROM OPERATIONS                                                (43,040)        99,849       (107,440)       (50,631)
+
+                                                                                                                                  
+
+FINANCE COSTS                                                                   (666)        (1,779)             -         (2,445)
+
+                                                                                                                                  
+
+(LOSS)/PROFIT BEFORE TAX                                                     (43,706)        98,070       (107,440)       (53,076)
+
+                                                                                                                                  
+
+Tax expense                                                                        -        (15,990)             -        (15,990)
+
+                                                                                                                                  
+
+NET (LOSS)/PROFIT                                                      $     (43,706) $      82,080  $    (107,440) $     (69,066)
+
+ 
+
+ 
+
+                                                                   22
+
+
+
+Table of Contents
+
+ 
+
+BIONEXUS GENE LAB CORP.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+FOR THE THREE MONTHS ENDED MARCH 31, 2024 AND 2023
+
+(Currency expressed in United States Dollars (“US$”))
+
+(Unaudited)
+
+ 
+
+                                                                                As of March 31, 2024 and December 31, 2023            
+
+                                                                              Total Assets                   Total Liabilities       
+
+                                                                          2024            2023           2024           2023      
+
+                                                                                                                                  
+
+BGLC & MRNA Scientific                                               $    4,535,139  $    4,723,449  $     330,827  $     260,119 
+
+Chemrex                                                                   6,626,344       6,676,344      1,486,469      1,481,822 
+
+TOTAL                                                                    11,161,483      11,399,793      1,817,296      1,741,941 
+
+ 
+
+NOTE 12 – SUBSEQUENT EVENTS
+
+ 
+
+In accordance with ASC Topic 855, “Subsequent Events,” which establishes general standards of accounting for and disclosure of events that occur after the balance sheet date but before financial statements are issued, the Company has evaluated all events or transactions that occurred after March 31, 2024 up through  May 8, 2024 of these consolidated financial statements. 
+
+ 
+
+Strategic Investment into Ascension Innovation Sdn Bhd. by our subsidiary, MRNA Scientific Sdn. Bhd.
+
+ 
+
+Pursuant to a Form 8-K filed on April 18, 2024, the Company announced a strategic investment in Ascension Innovation Sdn Bhd (AISB), a privately held Malaysian company. Please refer to that filing for more information on the investment.
+
+ 
+
+NOTE 13 - CONTINGENT ASSETS
+
+ 
+
+On January 12, 2024 our subsidiary, MRNA Scientific issued a termination notice to one of our suppliers for failing to deliver hardware of merchantable quality, for a contract with the value of RM500,000 (approximately $109,000 USD). Through subsequent negotiations, MRNA Scientific has been offered a without prejudice settlement of RM350,000 (approximately $76,000 USD) via a letter from the suppliers’ legal counsel, dated March 21, 2024. MRNA Scientific Management is currently reviewing the merits of this settlement offer and its legal options to resolve the issue expeditiously.
+
+ 
+
+ 
+
+                                                                   23
+
+
+
+Table of Contents
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ 
+
+Description of Business
+
+ 
+
+As used herein, unless the context otherwise indicates, references to the “Company,” “we,” “our,” “us,” “BioNexus” refer to BioNexus Gene Lab Corp., a Wyoming company (“BGLC”), and its wholly owned subsidiaries, MRNA Scientific Sdn. Bhd. (“MRNA Scientific Malaysia”), and Chemrex Corporation Sdn. Bhd. (“Chemrex”), both are Malaysian companies.
+
+ 
+
+BGLC is an emerging molecular lab focused on the application of functional genomics to enable early detection of infectious diseases and cancers. On August 23, 2017, we acquired all of the outstanding capital stock of MRNA Scientific Malaysia, which was incorporated in Malaysia on April 7, 2015. MRNA Scientific Malaysia owns algorithm software, technology, and know-how related to the detection of common diseases through blood analysis which we use in our business. Our non-invasive blood screening tests analyze changes in ribonucleic acid (or RNA) to Coronavirus, Dengue, HIV, HPV and the risk potentiality of cancers diseases. This unique blood genomic biomarker approach is based on the scientific observation that circulating blood reflects, in a detectable way, what is occurring throughout the body currently.
+
+ 
+
+The corporate and principal office address of the Company and MRNA Scientific Malaysia is Unit 02, Level 10, Tower B, Avenue 3, The Vertical Business Suite II, Bangsar South, No. 8 Jalan Kerinchi, Kuala Lumpur, Malaysia., our lab is located at Lab 353, Chemical Science Centre, University Science Malaysia, George Town, Penang, Malaysia. Another lab focuses on Covid-19 and Colon cancer screening is located at 4th floor, Lifecare Diagnostic Centre, Kuala Lumpur, Malaysia. Our telephone number is (+60) 18-2218762 and our website is www.bionexusgenelab.com.
+
+ 
+
+Chemrex is a wholesaler of industrial chemicals for the manufacture of industrial, medical, appliance, aero, automotive, mechanical and electronic industries in Asean region. On December 31, 2020, we acquired all of the outstanding capital stock of Chemrex, which was incorporated in Malaysia on September 29, 2004.
+
+ 
+
+Chemrex’s corporate office and distribution and storage center is located at 4 Jalan CJ 1/6 Kawasan Perusahaan Cheras Jaya, Selangor, Malaysia. Its phone number is (+60) 1922-23815 and website is www.chemrex.com.my.
+
+ 
+
+ 
+
+                                                                   24
+
+
+
+Table of Contents
+
+  
+
+The results of operations of our subsidiary, MRNA Scientific-Malaysia , with respect to its RNA screening process have been adversely impacted by the onset of the Covid-19 pandemic followed by a number of prominent variants, including Alpha, Beta, Delta, and Omicron. Although new variants are an expected part of the evolution of viruses, new variant is more aggressive, highly transmissible, vaccine-resistant, able to cause more severe disease in Malaysia. We believe that most people were reluctant to visit hospitals and clinics in view of the post Covid-19 Omicron and its subvariants for fear of transmission from other patients or medical staff. Since our RNA screening is administered at a diagnostic center, our business has been adversely affected as a result.
+
+ 
+
+The results of operations for Chemrex were adversely impacted during fiscal year 2023 and the slow recovery into 2024 as the businesses of Chemrex customers especially manufacturers continue to suffer from the lingering impact of  Covid. Many customers across Malaysia saw their supply chains interrupted, demand for their products and services decline and experienced  shortages in supplies and inputs.
+
+ 
+
+Recent Developments.
+
+ 
+
+(a) Public Offering and Nasdaq Listing
+
+ 
+
+On July 20, 2023, the Company entered into an underwriting agreement (the “Underwriting Agreement”) with Network 1 Financial Securities, Inc., as underwriter (the “Underwriter”) pursuant to which the Company agreed to issue and sell, in a firm commitment underwritten public offering by the Company (the “Offering”) of 1,250,000 shares of common stock, no par value, priced at a public offering price of $4.00 per share.
+
+ 
+
+In addition, pursuant to the Underwriting Agreement, the Underwriter was granted a 45-day option (the “Over-Allotment Option”) to purchase up to an additional 187,500 shares of common stock at the public offering price of $4.00 per share. The Underwriter fully exercised the Over-Allotment Option on July 24, 2023.
+
+ 
+
+The securities were offered by the Company pursuant to the registration statement on Form S-1 (File No. 333-269753), which was originally filed with the U.S. Securities and Exchange Commission (the “Commission”) under the Securities Act of 1933, as amended, on February 14, 2023, and declared effective by the Commission on July 19, 2023.
+
+ 
+
+On July 24, 2023, the Offering closed, and the Company issued and sold 1,437,500 shares of common stock, including 187,500 shares sold pursuant to the exercise of the Over-Allotment Option. The Offering was priced at $4.00 per share for total gross proceeds of $5.75 million before deducting underwriting discounts, commissions, and offering expenses. Pursuant to the Underwriting Agreement, the Underwriter received an 8% underwriting discount on the public offering price for the shares common stock. The Company will therefore receive net proceeds, before expenses, of $5,290,000 from the sale of the common stocks. In addition, the Company issued to the Underwriter warrants to purchase up to an aggregate of 115,000 shares of the Company’s common stock (the “Underwriter’s Warrants”) at an exercise price of $4.40 per share. The Underwriter’s Warrants are exercisable from July 24, 2023 until July 24, 2028.
+
+ 
+
+On August 2023, there was an issuance of shares of 759,299 and 75,000 respectively as part of Contractual Agreements relating to the uplisting of our Common Stock onto the NASDAQ stock exchange, subsequently followed by the cancellation of 125,000 shares. Please see Note 10.
+
+ 
+
+(b) Reverse stock split
+
+ 
+
+On June 5, 2023, the Company filed an Article of Amendment to the Articles of Incorporation with the Wyoming Secretary of State to modify the ratio of the Reverse Stock Split from one-for-ten (10) to one-for-twelve (12) (the “Revised Reverse Stock Split”). Upon effectiveness of the Revised Reverse Stock Split, every twelve (12) outstanding shares of common stock were combined into and automatically become one share of common stock. No fractional shares were issued in connection with the Revised Reverse Stock Split and all such fractional shares or odd lots (less than 100 shares to any record or beneficial holder) issuable in the Revised Reverse Stock Split were rounded up to 100 shares.
+
+ 
+
+The Revised Reverse Stock Split was approved and authorized by a majority of the Company’s stockholder in lieu of a shareholder vote on May 8, 2023 and by the Board of Directors of the Company on May 8, 2023.
+
+ 
+
+On July 19, 2023, the Financial Industry Regulatory Authority announced the Revised Reverse Stock Split in conjunction with the aforementioned Nasdaq listing.
+
+ 
+
+An total of 1,044,351 round-up shares issued after reversal of stock split exercised. Please refer Note 10.
+
+ 
+
+                                                                   25
+
+
+
+Table of Contents
+
+  
+
+(c) Strategic Investment into Ascension Innovation Sdn Bhd. by our subsidiary, MRNA Scientific Sdn. Bhd.
+
+ 
+
+Pursuant to a Form 8-K filed on April 18, 2024, the Company announced a strategic investment in Ascension Innovation Sdn Bhd (AISB), a privately held Malaysian company. Please refer to that filing for more information on the investment.
+
+ 
+
+(d) Notification of granting of an additional 180 days to regain compliance with Rule 5550(a)(2) by Nasdaq Staff
+
+ 
+
+On November 6, 2023, the Company reported that it received a letter from the Listing Qualifications Department of the Nasdaq Stock Market (“Nasdaq”) regarding the Company’s failure to comply with Nasdaq Continued Listing Rule (“Rule”) 5550(a)(2), which requires listed securities to maintain a minimum bid price of $1.00 per share. A failure to comply with Rule 5550(a)(2) exists when listed securities fail to maintain a closing bid price of at least $1.00 per share for 30 consecutive business days. 
+
+ 
+
+Under Rule 5810(c)(3)(A), the Company automatically was provided a period of 180 calendar days, until May 6, 2024, to regain compliance. 
+
+ 
+
+The Company then applied to NASDAQ to receive an additional 180 calendar days to regain compliance. On May 8, 2024, the Company received notification from NASDAQ that the compliance period has been extended to November 4, 2024. If at any time during this 180-day period the closing bid price of the Company’s securities is at least $1.00 for a minimum of ten consecutive business days, the Company’s compliance will be regained.
+
+ 
+
+Translation of amounts from MYR into US$1.00 has been made at the following exchange rates for the respective period and year:
+
+ 
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                            2024           2023      
+
+Period ended March 31, 2024 /Year-ended December 31, 2023 US$1: MYR exchange rate                              4.7205         4.5900 
+
+                                                                                                                                     
+
+                                                                                                         January 1,     January 1,   
+
+                                                                                                             2024           2023
+
+                                                                                                                              
+
+                                                                                                        to March 31,   to March 31,
+
+                                                                                                            2024           2023
+
+3 months average US$1: MYR exchange rate                                                                       4.7240         4.3968 
+
+ 
+
+ 
+
+                                                                   26
+
+
+
+Table of Contents
+
+  
+
+Results of Operations
+
+ 
+
+Three Months Ended March 31, 2024 Compared with the Three Months Ended March 31, 2023.
+
+ 
+
+The following table sets forth key selected financial data for the three months ended March 31, 2024 and 2023.
+
+ 
+
+Consolidated
+
+ 
+
+                                                                                                             Three months ended       
+
+                                                                                                                 March 31,            
+
+                                                                                                            2024            2023      
+
+REVENUE                                                                                                $   2,381,851  $   2,377,205 
+
+                                                                                                                                    
+
+COST OF REVENUE                                                                                           (2,016,820)    (2,008,308)
+
+                                                                                                                                    
+
+GROSS PROFIT                                                                                                 365,031        368,897 
+
+                                                                                                                                    
+
+OTHER INCOME                                                                                                 201,847        117,344 
+
+                                                                                                                                    
+
+OPERATING EXPENSES                                                                                                                  
+
+General and administrative                                                                                  (645,906)      (536,872)
+
+                                                                                                                                    
+
+LOSS FROM OPERATIONS                                                                                         (79,028)       (50,631)
+
+                                                                                                                                    
+
+FINANCE COSTS                                                                                                 (4,661)        (2,445)
+
+                                                                                                                                    
+
+LOSS BEFORE TAX                                                                                              (83,689)       (53,076)
+
+                                                                                                                                    
+
+Tax expense                                                                                                  (20,068)       (15,990)
+
+                                                                                                                                    
+
+NET LOSS                                                                                               $    (103,757) $     (69,066)
+
+Other comprehensive income:                                                                                                         
+
+Foreign currency loss                                                                                       (209,908)       (39,039)
+
+                                                                                                                                    
+
+COMPREHENSIVE LOSS                                                                                     $    (313,665) $    (108,105)
+
+ 
+
+ 
+
+                                                                   27
+
+
+
+Table of Contents
+
+ 
+
+Segmented Information
+
+ 
+
+                                                                          MRNA          Chemrex          MRNA          Chemrex     
+
+                                                                        Scientific                     Scientific
+
+                                                                         Malaysia                       Malaysia
+
+                                                                       Three months ended March 31,    Three months ended March 31,  
+
+                                                                                   2024                            2023
+
+REVENUE                                                               $       3,165  $   2,378,686  $       7,436  $   2,369,769 
+
+                                                                                                                                 
+
+COST OF REVENUE                                                              (2,252)    (2,014,568)        (5,347)    (2,002,961)
+
+                                                                                                                                 
+
+GROSS PROFIT                                                                    913        364,118          2,089        366,808 
+
+                                                                                                                                 
+
+OTHER INCOME                                                                 38,694        163,153          1,126        116,218 
+
+                                                                                                                                 
+
+OPERATING EXPENSES                                                                                                               
+
+General and administrative                                                  (80,855)      (415,629)       (46,255)      (383,177)
+
+                                                                                                                                 
+
+(LOSS)/PROFIT FROM OPERATIONS                                               (41,248)       111,642        (43,040)        99,849 
+
+                                                                                                                                 
+
+FINANCE COSTS                                                                (1,950)        (2,687)          (666)        (1,779)
+
+                                                                                                                                 
+
+(LOSS)/PROFIT BEFORE TAX                                                    (43,198)       108,955        (43,706)        98,070 
+
+                                                                                                                                 
+
+Tax expense                                                                       -        (20,068)             -        (15,990)
+
+                                                                                                                                 
+
+NET (LOSS)/PROFIT                                                     $     (43,198) $      88,887  $     (43,706) $      82,080 
+
+ 
+
+Revenue. For the quarter ended March 31, 2024, we had total revenue of $2,381,851 as compared to total revenue of $2,377,205 for the quarter ended March 31, 2023, increased by 0.2% from the prior quarter due to slight increase in purchases mainly from Chemrex customers.
+
+ 
+
+Chemrex contributed $2,378,686 (99.9%) of the total revenue for the current quarter ended March 31, 2024 as compared to $2,369,769 (99.7%) of the total revenue for the quarter ended March 31, 2023. Chemrex’s revenues had the increase of 0.38% from prior quarter. The revenue increased in first quarter of 2023 was due to increase in purchases from its customers. 
+
+ 
+
+MRNA Scientific-Malaysia contributed $3,165 (0.1%) of the total revenue for the quarter ended March 31, 2024 as compared to revenue of $7,436 (0.3%) of the total revenue from the quarter ended March 31, 2023. Revenues had decreased by 57.4% due to RNA machine breakdowns which occurred during the current period.  
+
+ 
+
+Cost of Revenue. For the quarter ended March 31, 2024, we incurred $2,016,820 in cost of revenues, as compared to $2,008,308 for the quarter ended March 31, 2023, a slight increase of 0.4% was due to reason as stated below.
+
+ 
+
+Chemrex had incurred $2,014,568 (99.9%) of the total cost of revenue during the current quarter period ended March 31, 2024 as compared to the quarter ended March 31, 2023 wherein Chemrex had incurred $2,002,961 (99.7%) of the total cost of revenue. The slightly increase in Chemrex’s cost of revenues of 0.58% for the current period was due to its increased revenues for the current period. 
+
+ 
+
+MRNA Scientific-Malaysia had incurred $2,252 (0.1%) of the total cost of revenues during the current quarter period ended March 31, 2024 as compared to $5,347 (0.3%) for the quarterly period ended March 31, 2023. Cost of revenue had decreased by 57.9% from prior quarter due to decreased revenues for the current period.
+
+ 
+
+ 
+
+                                                                   28
+
+
+
+Table of Contents
+
+  
+
+Gross Profit. For the quarterly period ended March 31, 2024, we had total gross profit of $365,031 as compared to gross profit of $368,897 for the quarterly period ended March 31, 2023, a decrease by approximately 1% from the prior period.
+
+ 
+
+Chemrex contributed $364,118 (99.7%) of the total gross profit for the current quarter ended March 31, 2024 as compared to $366,808 (99.4%) of the total gross profit for the quarter ended March 31, 2023. Chemrex’s gross profit decreased slightly by $2,690 from the prior quarter, an approximately 0.73% decrease. The gross profit decrease for Chemrex in current quarter compared to the last quarter, was due to selling new stock purchased at higher prices, compared to previously selling old stock at lower prices.
+
+ 
+
+MRNA Scientific-Malaysia contributed $913 (0.3%) of the total gross profit of $365,031 for the current quarter ended March 31, 2024 as compared to gross profit of $2,089 (0.6%) of the total gross profit from the quarter ended March 31, 2023. The decrease by approximately 56.3% from the prior period due to its decreased revenues for the current period.
+
+ 
+
+Other Income. For the quarterly period ended March 31, 2024, we had of $201,847 as compared to of $117,344 for the quarterly period ended March 31, 2023, an increase of approximately 72%.
+
+ 
+
+Chemrex contributed $163,153 (80.8%) of other income for the current quarter ended March 31, 2024 as compared to $116,218 (99%) of the other income for the quarter ended March 31, 2023. Chemrex’s other income increased by 40.39% due to dividends received from investments, gain on fair value of investment, recovery of expected credit losses and gains on foreign exchange rates.
+
+ 
+
+MRNA Scientific-Malaysia contributed $38,694 (19.2%) of other income for the current quarter ended March 31, 2024 as compared to $1,126 (1%) of the other income for the quarter ended March 31, 2023. The increase of 3336.4% due to increase funds in the fixed deposits earning interest and unrealized gain on foreign exchange rates from foreign currency accounts in Malaysia..
+
+ 
+
+Operating Expenses. For the quarter ended March 31, 2024, we had total operating expense of $645,906 as compared to total operating expenses of $536,872 for the quarter ended March 31, 2023, the increase by approximately 20.3%. It was due to general and administrative expenses which includes depreciation of fixed assets, employee compensation, professional fees and provision for losses on accounts receivable.
+
+ 
+
+Chemrex had incurred $415,629 (64.3%) of the total operating expenses for the current quarter ended March 31, 2024 as compared to $383,177 (71.4%) of the total operating expenses for the quarter ended March 31, 2023, an increase of 8.47.%. The increase in operating expenses was due to provision for losses on accounts receivable and loss on fair value of share investment.
+
+ 
+
+MRNA Scientific-Malaysia had incurred $ 80,855 (12.5%) of the total operating expenses for the current quarter ended March 31, 2024 as compared to $46,255 (8.6%) of the total operating expenses for the quarter ended March 31, 2023, an increase of 74.8%. The increase in operating costs of the current quarter was due to the hire of new staff for marketing & business development, director fees, increase of motor vehicle and business travel expenses.
+
+ 
+
+BGLC, the holding company had incurred $149,422 (23.1%) of total operating expenses for the current quarter ended March 31, 2024 as compared to $107,440 (20%) of the total operating expenses for the quarter ended March 31, 2023. The increase approximately 39.07% in operating costs for the quarter ended March 31, 2024 was due to increase of legal fees, audit fees, directors fees and payement of the  Nasdaq annual fee and directors bonuses.
+
+ 
+
+Loss from Operations. We had a loss from operations of $79,028 for the quarter ended March 31, 2024 as compared to a loss of $50,631 for the quarter ended March 31, 2023, an increase of losses by approximately 56.1% from the prior period, for the reasons discussed above.
+
+ 
+
+Income tax expense. For the quarter ended March 31, 2024, we had a tax expense of $20,068 as compared to tax expenses of $15,990 for the quarter ended March 31, 2023 for Chemrex. There was no tax provision for MRNA Scientific-Malaysia for the quarters ended March 31, 2024 and 2023.
+
+ 
+
+Foreign currency exchange loss. We are exposed to fluctuations in foreign exchange rates on the revaluation of monetary assets and liabilities denominated in currencies other than the US Dollar. Therefore, any change in the relevant exchange rate would require us to recognize a transaction gain or loss on revaluation. For the three-month period ended March 31, 2024, we experienced a foreign currency loss of $209,908 as compared with a foreign currency loss of $39,039 for the three-month period ended March 31, 2023.
+
+ 
+
+ 
+
+                                                                   29
+
+
+
+Table of Contents
+
+  
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ 
+
+As of March 31, 2024, we had working capital of $6,188,903 compared with working capital of $6,415,877 as of December 31, 2023. The decrease in working capital as of March 31, 2024 from December 31, 2023 was due principally to losses incurred during the quarter ended March 31, 2024. 
+
+ 
+
+Our primary uses of cash had been for operations. The main sources of cash were generated from operational revenues, the private placement of our common stock, and the proceeds of our public offering. The following trends could result in a material decrease in our liquidity over the near to long term:
+
+ 
+
+     ·    Addition of administrative and marketing personnel as the business grows,
+
+     ·    Development of a Company website,
+
+     ·    Increases in advertising and marketing in order to attempt to generate more revenues, and
+
+     ·    The cost of being a public company.
+
+  
+
+The Company believes that cash flow from operations together will be sufficient to sustain its current level of operations for at least the next 12 months of operations.
+
+ 
+
+The following is a summary of the Company’s cash flows (used in) / generated from operating, investing, and financing activities for the three months ended March 31, 2024 and 2023: 
+
+ 
+
+                                                                                                              Three months ended       
+
+                                                                                                                  March 31,            
+
+                                                                                                            2024           2023      
+
+Net cash used in Operating Activities                                                                   $     (34,442) $    (116,518)
+
+Net cash generated from/ (used in) investing activities                                                        24,098         (5,056)
+
+Net cash generated from/ (used in) financing activities                                                        24,219         (1,779)
+
+Foreign currency translation adjustment                                                                      (111,030)       (22,299)
+
+Net Change in Cash and Cash Equivalents                                                                 $     (97,155) $    (145,652)
+
+ 
+
+Operating Activities 
+
+ 
+
+During the three months ended March 31, 2024, the Company incurred a net loss of $103,757 which, after adjusting for amortization, depreciation, dividend income, fair value loss on share investment, allowances for expected credit losses, recovery for expected credit losses, gain on disposal on share investment, an increase in inventories and advance payment from customer, a decrease in trade receivables and a substantial reduction in trade payables, operating lease liabilities,  resulted in net cash of $34,442 being used in operating activities during the three months ended March 31, 2024. By comparison, during the three months ended March 31, 2023, the Company had a net loss of $69,066 which, after adjusting for amortization, depreciation, dividend income, fair value gain on share investment, a decrease in inventories, trade receivables and a substantial reduction in trade payables, operating lease liabilities, advance payment from customer, resulted in net cash of $116,518 being used in activities during the quarter ended 2023.
+
+ 
+
+Investing Activities 
+
+ 
+
+During the three months ended March 31, 2024, the Company had net cash of $24,098 generated from investment activities from acquisition of share investment of $174,247, purchase of plant & equipment of $21,945, proceeds from disposal of share investments of $211,344 and receiving dividend income of $8,946. By comparison during the three months ended March 31, 2023, the Company had net cash from acquisition of share investment of $13,646, purchase of plant and equipment of $102 and receiving dividend income of $8,692, resulting in net cash used in investing activities of $5,056. 
+
+ 
+
+Financing Activities 
+
+ 
+
+During the three-month ended March 31, 2024, the Company had net cash of $24,219 generated from financing activities for advances from directors of $26,930 and used for interest of $2,711. By comparison during the three months ended March 31, 2023, we had net cash of $1,779 used in financing activities for interest.
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk.
+
+ 
+
+As a “smaller reporting company” as defined by Item 10 of Regulation S-K, the Company is not required to provide information required by this item.
+
+ 
+
+ 
+
+                                                                   30
+
+
+
+Table of Contents
+
+ 
+
+Item 4. Controls and Procedures.
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+In connection with the preparation of this quarterly report, an evaluation was carried out by the Company’s management, with the participation of the principal executive officer and the principal financial officer, of the effectiveness of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(c) and 15d-15(e) under the Exchange Act (“Exchange Act”) as of March 31, 2024. Disclosure controls and procedures are designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the Commission’s rules and forms, and that such information is accumulated and communicated to management, including the principal executive officer and the principal financial officer, to allow timely decisions regarding required disclosures.
+
+ 
+
+Based on that evaluation, the Company’s management concluded, as of the end of the period covered by this report, that the Company’s disclosure controls and procedures were effective in recording, processing, summarizing, and reporting information required to be disclosed, within the time periods specified in the Commission’s rules and forms, and that such information was accumulated and communicated to management, including the principal executive officer and the principal financial officer, to allow timely decisions regarding required disclosures.
+
+ 
+
+Management’s Report on Internal Control over Financial Reporting
+
+ 
+
+The management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting. The Company’s internal control over financial reporting is a process, under the supervision of the principal executive officer and the principal financial officer, designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the Company’s financial statements for external purposes in accordance with United States generally accepted accounting principles (GAAP). Internal control over financial reporting includes those policies and procedures that:
+
+ 
+
+     i)   Pertain to the maintenance of records that is in reasonable detail accurately and fairly reflect the transactions and
+
+           dispositions of the Company’s
+
+           assets;
+
+ 
+
+     ii)  Provide reasonable assurance that transactions are recorded as necessary to permit preparation of the financial statements
+
+           in accordance with generally accepted accounting principles, and that receipts and expenditures are being made only in
+
+           accordance with the authorizations of management and the board of directors;
+
+           and
+
+ 
+
+     iii) Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of
+
+           the Company’s assets that could have a material effect on the financial
+
+           statements.
+
+ 
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate.
+
+ 
+
+The Company’s management had assessed the effectiveness of our internal control over financial reporting as of March 31, 2024, based on criteria established in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission, which assessment identified material weaknesses in internal control over financial reporting had improved. A material weakness could create reasonable possibility that a material misstatement in annual or interim financial statements. The management considers its internal control over financial reporting required further improvement.
+
+ 
+
+This quarterly report does not include an attestation report of our registered public accounting firm regarding our internal controls over financial reporting. Management’s report was not subject to attestation by our registered public accounting firm pursuant to Section 404(c) of the Sarbanes-Oxley Act that permit us to provide only management’s report in this annual report.
+
+ 
+
+Changes in Internal Controls over Financial Reporting
+
+ 
+
+During the period ended March 31, 2024, there had been no change in internal control over financial reporting that had materially affected or was reasonably likely to materially affect our internal control over financial reporting.
+
+ 
+
+ 
+
+                                                                   31
+
+
+
+Table of Contents
+
+ 
+
+PART II OTHER INFORMATION
+
+ 
+
+Item 1. Legal Proceedings.
+
+ 
+
+There are presently no pending legal proceedings to which the Company or any of its property is subject, or any material proceedings to which any director, officer or affiliate of the Company, any owner of record or beneficially of more than five percent of any class of voting securities is a party or has a material interest adverse to the Company, and no such proceedings are known to the Company to be threatened or contemplated against it.
+
+ 
+
+Item 2. Unregistered Sale of Equity Securities and Use of Proceeds.
+
+ 
+
+None.
+
+ 
+
+Item 3. Defaults Upon Senior Securities.
+
+ 
+
+None.
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+ 
+
+Not applicable to our Company.
+
+ 
+
+Item 5. Other Information.
+
+ 
+
+There were issuances of an aggregate total of 1,044,351 shares from July 20,2023 to August 4, 2023 as part of the round-up exercise to the reverse stock split, as detailed in the Schedule 14C filing related to the reverse stock split with the record date May 8, 2023.
+
+ 
+
+ 
+
+                                                                   32
+
+
+
+Table of Contents
+
+  
+
+Item 6. Exhibits.
+
+ 
+
+Exhibit      Description
+
+              
+
+31.1         Certification of the Company’s Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+
+              Section 302 of the Sarbanes-Oxley Act of
+
+              2002**
+
+              
+
+31.2         Certification of the Company’s Principal Accounting Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+
+              Section 302 of the Sarbanes-Oxley Act of
+
+              2002**
+
+              
+
+32.1         Certification of the Company’s Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+
+              Section 906 of the Sarbanes-Oxley Act of
+
+              2002+**
+
+              
+
+32.2         Certification of the Company’s Principal Accounting Officer and Principal Financial pursuant to 18 U.S.C. Section 1350,
+
+              as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+
+              2002+**
+
+              
+
+101.INS      Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags
+
+              are embedded within the Inline XBRL
+
+              document).*
+
+              
+
+101.SCH      Inline XBRL Taxonomy Extension Schema Document.*
+
+              
+
+101.CAL      Inline XBRL Taxonomy Extension Calculation Linkbase Document.*
+
+              
+
+101.DEF      Inline XBRL Taxonomy Extension Definition Linkbase Document.*
+
+              
+
+101.LAB      Inline XBRL Taxonomy Extension Labels Linkbase Document.*
+
+              
+
+101.PRE      Inline XBRL Taxonomy Extension Presentation Linkbase Document.*
+
+              
+
+104          Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101).*
+
+__________ 
+
++ In accordance with SEC Release 33-8238, Exhibit 32.1 and 32.2 were furnished and not filed.
+
+**Previously filed or furnished as an exhibit to BioNexus Gene Lab Corp.’s Quarterly Report on Form 10-Q for the quarter ended March
+
+   31,
+
+   2024.
+
+* Furnished with this Form 10-Q. 
+
+ 
+
+ 
+
+                                                                   33
+
+
+
+Table of Contents
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+BIONEXUS GENE LAB CORPORATION                   
+
+                                                
+
+/s/ Su-Leng Tan Lee                             
+
+Su-Leng Tan Lee                                 
+
+Chief Executive Officer                         
+
+(Principal Executive Officer)
+
+ 
+
+/s/ Su-Leng Tan Lee                             
+
+Su-Leng Tan Lee                                 
+
+Acting Chief Financial Officer
+
+(Principal Financial and Accounting Officer)
+
+ 
+
+May 15, 2024
+
+ 
+
+ 
+
+                                                                   34

@@ -1,0 +1,2141 @@
+ROC
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+(Mark One)
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended March 31, 2024
+
+OR
+
+ 
+
+ ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Commission File Number: 001-39872
+
+ 
+
+GRIID INFRASTRUCTURE INC.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+                                       Delaware                                                                            85-3477678
+
+                           ( State or other jurisdiction of                                                             (I.R.S. Employer
+
+                            incorporation or organization)                                                             Identification No.)
+
+                                  2577 Duck Creek Rd.                                                                         45212
+
+                                 Cincinnati, OH 45212
+
+                       (Address of principal executive offices)                                                            (Zip Code)
+
+Registrant’s telephone number, including area code: (513) 268-6185
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+ 
+
+                                            Title of each class                                                Trading    Name of each exchange on which
+
+                                                                                                              Symbol(s)             registered
+
+Common stock, par value $0.0001 per share                                                                       GRDI       The Nasdaq Stock Market LLC
+
+Redeemable Warrants, each whole warrant exercisable for one share of common stock at an exercise price of      GRDI-W      The Nasdaq Stock Market LLC
+
+ $11.50 per
+
+ share
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer                                                ☐       Accelerated filer                                                      ☐
+
+                                                                                                                                                       
+
+Non-accelerated filer                                                  ☒       Smaller reporting company                                              ☒
+
+                                                                                                                                                       
+
+Emerging growth company                                                ☒                                                                               
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Sections 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court.     Yes  ☒    No  ☐
+
+As of May 15, 2024, the registrant had 71,375,909 shares of common stock, $1.00 par value per share, outstanding.
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Table of Contents
+
+ 
+
+                                                                                                                                Page
+
+                                                                                                                                     
+
+PART I.      FINANCIAL INFORMATION                                                                                                  2
+
+                                                                                                                                     
+
+Item 1.      Financial Statements (Unaudited)                                                                                       2
+
+             Condensed Consolidated Balance Sheets                                                                                  3
+
+             Condensed Consolidated Statements of Operations                                                                        4
+
+             Condensed Consolidated Statements of Comprehensive Income (Loss)                                                       5
+
+             Condensed Consolidated Statements of Cash Flows                                                                        6
+
+             Notes to Unaudited Condensed Consolidated Financial Statements                                                         7
+
+Item 2.      Management’s Discussion and Analysis of Financial Condition and Results of Operations                                 20
+
+Item 3.      Quantitative and Qualitative Disclosures About Market Risk                                                            36
+
+Item 4.      Controls and Procedures                                                                                               36
+
+                                                                                                                                     
+
+PART II.     OTHER INFORMATION                                                                                                     37
+
+                                                                                                                                     
+
+Item 1.      Legal Proceedings                                                                                                     37
+
+Item 1A.     Risk Factors                                                                                                          37
+
+Item 2.      Unregistered Sales of Equity Securities and Use of Proceeds                                                           37
+
+Item 3.      Defaults Upon Senior Securities                                                                                       37
+
+Item 4.      Mine Safety Disclosures                                                                                               38
+
+Item 5.      Other Information                                                                                                     38
+
+Item 6.      Exhibits                                                                                                              39
+
+Signatures                                                                                                                          40
+
+ 
+
+i
+
+
+
+ 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q and the documents incorporated by reference herein contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements include all matters that are not historical facts. In some cases, you can identify forward-looking statements by terminology such as “believe,” “may,” “will,” “potentially,” “estimate,” “continue,” “anticipate,” “intend,” “could,” “would,” “project,” “target,” “plan,” “expect,” or the negatives of these terms or variations of them or similar terminology. Such forward-looking statements include statements regarding our intentions, beliefs or current expectations concerning, among other things, our results of operations, financial condition, liquidity, prospects, growth, strategies and the markets in which we operate. Such forward-looking statements are based on available current market material and management’s expectations, beliefs and forecasts concerning future events impacting us.
+
+ 
+
+Factors that may impact such forward-looking statements include:
+
+ 
+
+•our ability to maintain the listing of our common stock on The Nasdaq Global Market and Cboe Canada and to operate as a public company;
+
+•our public securities’ potential liquidity and trading;
+
+•the lack of a market for our securities;
+
+•changes adversely affecting the business in which we are engaged;
+
+•fluctuations in our revenue and operating results;
+
+•the uncertainty of the projected financial information with respect to us;
+
+•the fact that the terms of our credit agreement restrict our current and future operations, particularly our ability to take certain actions;
+
+•the fact that our business is highly dependent on a small number of bitcoin mining equipment suppliers;
+
+•our reliance on third parties, including utility providers, for the reliable and sufficient supply of electrical power to its infrastructure;
+
+•our ability to obtain and maintain access to its targets of carbon-free power supply;
+
+•our ability to execute our business model, including market acceptance of bitcoin;
+
+•the risks relating to our status as an early-stage company with a history of operating losses;
+
+•our financial performance; and
+
+•our ability to sell shares of our common stock to GEM Global pursuant to the terms of the GEM Agreement (as described below) and our ability to register and maintain the registration of such shares issued and issuable thereunder.
+
+This list is not an exhaustive list of the factors that may affect any of our forward-looking statements. These and other factors should be considered carefully, and readers should not place undue reliance on our forward-looking statements. The forward-looking statements contained in this Quarterly Report are based on our current expectations and beliefs concerning future developments on the date the statements are made and we undertake no obligation to update forward-looking statements if these beliefs, estimates and opinions or other circumstances should change, except as may be required under applicable law. There can be no assurance that future developments affecting us will be those that we have anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond our control) or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. These risks and uncertainties include, but are not limited to, those factors described under Part I, Item 1A "Risk Factors" of our Annual Report on Form 10-K for the year ended December 31, 2023, and other filings that have been made or will be made with the Securities and Exchange Commission  by us. The Company will not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+
+1
+
+
+
+ 
+
+PART I—FINANCIAL INFORMATION
+
+Item 1. Financial Statements.
+
+ 
+
+2
+
+
+
+ 
+
+GRIID INFRASTRUCTURE INC. AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+(amounts in thousands, except unit amounts)
+
+ 
+
+                                                                                                           March 31,      December   
+
+                                                                                                              2024           31,
+
+                                                                                                           (unaudited)       2023
+
+Assets                                                                                                                               
+
+Current assets                                                                                                                       
+
+Cash                                                                                                     $          754  $    2,851 
+
+Other receivables                                                                                                     2          40 
+
+Cryptocurrencies                                                                                                    775         142 
+
+Finance lease right-of-use asset, current                                                                             1           1 
+
+Prepaid expenses and other current assets                                                                         1,455         301 
+
+Total current assets                                                                                              2,987       3,335 
+
+Restricted cash                                                                                                     323         323 
+
+Property and equipment, net                                                                                      32,058      30,844 
+
+Operating lease right-of-use asset                                                                                2,200       2,262 
+
+Finance lease right-of-use asset                                                                                     37          43 
+
+Long-term deposits                                                                                                4,604       5,400 
+
+Total assets                                                                                             $       42,209  $   42,207 
+
+Liabilities and Shareholders' deficit                                                                                                
+
+Current liabilities                                                                                                                  
+
+Accounts payable                                                                                         $       11,431  $   12,902 
+
+Operating lease liability, current                                                                                  219         222 
+
+Finance lease liability, current                                                                                      6           6 
+
+Notes payable, net                                                                                                3,507       2,737 
+
+Accrued expenses and other current liabilities                                                                    6,514       6,287 
+
+Total current liabilities                                                                                        21,677      22,154 
+
+Notes payable, net                                                                                               75,183      69,011 
+
+Payable to lessor – construction in progress                                                                          —         137 
+
+Warrant liability                                                                                                   471       3,838 
+
+Unearned grant revenue                                                                                              195         195 
+
+Deferred tax liability                                                                                            3,142       4,304 
+
+Operating lease liability                                                                                         2,057       2,111 
+
+Finance lease liability                                                                                              90          94 
+
+Total liabilities                                                                                               102,815     101,844 
+
+Commitments and contingencies (See Note 14)                                                                                          
+
+Shareholders deficit                                                                                                                 
+
+Common Stock (0.0001 par value 100,000,000 authorized, 69,875,938 shares                                              7           7 
+
+  issued and outstanding at March 31, 2024 and 65,616,298 at December 31, 2023, respectively)
+
+Additional Paid-In Capital                                                                                       53,271      47,765 
+
+Accumulated deficit                                                                                            (113,884)   (107,409)
+
+Total shareholders deficit                                                                                      (60,606)    (59,637)
+
+Total liabilities and shareholders deficit                                                               $       42,209  $   42,207 
+
+ 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+
+3
+
+
+
+ 
+
+GRIID INFRASTRUCTURE INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(amounts in thousands)
+
+(Unaudited)
+
+ 
+
+                                                                                                   Three Months Ended March 31,       
+
+                                                                                                     2024                2023        
+
+Revenue                                                                                                                              
+
+Cryptocurrency mining revenue, net of mining pool operator fees                               $           3,220  $           1,614 
+
+Mining services revenue                                                                                   2,601              2,781 
+
+Other revenue                                                                                                 —                 63 
+
+Total revenue, net                                                                                        5,821              4,458 
+
+Operating expenses                                                                                                                   
+
+Cost of revenues (excluding depreciation and amortization)                                                3,488              3,340 
+
+Depreciation and amortization                                                                             1,094              1,571 
+
+Compensation and related taxes                                                                            2,249              1,999 
+
+Professional and consulting fees                                                                          1,911              1,155 
+
+General and administrative                                                                                1,301                654 
+
+Gain on extinguishment - non-debt related                                                                     —               (375)
+
+Impairment of cryptocurrencies                                                                                —                 48 
+
+Unrealized gain on fair value of cryptocurrency, net                                                       (109)                 — 
+
+Realized gain on sale of cryptocurrencies                                                                   (62)              (119)
+
+Total operating expenses                                                                                  9,872              8,273 
+
+Gain (loss) on disposal of property and equipment                                                             —              1,198 
+
+Loss from operations                                                                                     (4,051)            (2,617)
+
+Other income (expense)                                                                                                               
+
+Change in fair value of warrant liability and warrant derivative                                          3,367             (1,790)
+
+Interest expense, net                                                                                    (6,955)            (6,594)
+
+Total other income (expense)                                                                             (3,588)            (8,384)
+
+Loss before income taxes                                                                                 (7,639)           (11,001)
+
+Income tax expense (benefit)                                                                             (1,161)               230 
+
+Net loss                                                                                      $          (6,478) $         (11,231)
+
+Basic and diluted net loss per share                                                                      (0.10)             (0.21)
+
+Basic and diluted weighted average number of shares outstanding                                      67,663,377         53,828,655 
+
+ 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+
+4
+
+
+
+ 
+
+GRIID INFRASTRUCTURE INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ DEFICIT
+
+(amounts in thousands, except per share amounts)
+
+(Unaudited)
+
+ 
+
+                                                                                        Three Months Ended March 31, 2024                       
+
+                                                                                              Additional                        Total      
+
+                                                                         Common Stock            Paid-In     Accumulated     Shareholders'  
+
+                                                                      Shares        Amount      Capital       Deficit          Deficit     
+
+Balance, January 1, 2024, as converted                                 65,616,298  $       7  $    47,765  $     (107,409) $      (59,637)
+
+Unit-based compensation                                                                                 9               —               9 
+
+Issuance of equity shares                                               4,259,640          —        5,497               —           5,497 
+
+Cumulative effect of change in accounting principle                                                                     3               3 
+
+Net loss                                                                                                           (6,478)         (6,478)
+
+Balance, March 31, 2024                                                69,875,938          7       53,271        (113,884)        (60,606)
+
+                                                                                                                                           
+
+                                                                                        Three Months Ended March 31, 2023                       
+
+                                                                                              Additional                        Total      
+
+                                                                         Common Stock            Paid-In     Accumulated     Shareholders'  
+
+                                                                      Shares        Amount      Capital       Deficit          Deficit     
+
+Balance, January 1, 2023, as converted                                 43,376,782  $   2,368  $         —  $      (90,680) $      (88,312)
+
+Unit-based compensation                                                                                                29              29 
+
+Net loss                                                                                                          (11,231)        (11,231)
+
+Balance, March 31, 2023                                                43,376,782      2,368            —        (101,882)        (99,514)
+
+ 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+
+5
+
+
+
+ 
+
+GRIID INFRASTRUCTURE INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(amounts in thousands)
+
+(Unaudited)
+
+ 
+
+                                                                                                                 Three months ended March 31,       
+
+                                                                                                                  2024                 2023        
+
+Cash flows from operating activities:                                                                                                              
+
+Net loss                                                                                                    $         (6,478)   $          (11,231)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                                        
+
+Depreciation and amortization                                                                                          1,094                 1,571 
+
+Loss (gain) on disposal of property and equipment                                                                          —                (1,198)
+
+Realized gain on sale of cryptocurrencies                                                                                (62)                 (119)
+
+Gain on fair value of bitcoin, net                                                                                      (109)                      
+
+Gain on extinguishment of leases                                                                                           —                  (375)
+
+Change in fair value of warrant liability and embedded derivative liability                                           (3,367)                1,790 
+
+Impairment of cryptocurrencies                                                                                             —                    48 
+
+Non-cash interest expense                                                                                              6,955                 6,594 
+
+Unit-based compensation                                                                                                    9                    29 
+
+Cryptocurrency mined, net                                                                                             (3,468)               (1,874)
+
+Changes in operating assets and liabilities:                                                                                                       
+
+Other receivables                                                                                                         38                  (358)
+
+Prepaid expenses and other current assets                                                                             (1,154)                  (66)
+
+Long term deposits                                                                                                      (212)                 (459)
+
+Operating lease right-of-use asset                                                                                        63                    58 
+
+Accounts payable                                                                                                      (1,473)                 (387)
+
+Accrued expenses and other current liabilities                                                                           227                   228 
+
+Deferred tax liability                                                                                                (1,162)                  175 
+
+Operating lease liability                                                                                                (57)                  (52)
+
+Finance lease liability                                                                                                   (3)                   (8)
+
+Net cash used in operating activities                                                                                 (9,159)               (5,634)
+
+Cash flows from investing activities:                                                                                                              
+
+Proceeds from the sale of cryptocurrencies                                                                             3,009                 1,953 
+
+Purchases of property and equipment                                                                                     (364)                  (23)
+
+Proceeds from disposal of property and equipment                                                                           —                 1,577 
+
+Net cash provided by investing activities                                                                              2,645                 3,507 
+
+Cash flows from financing activities:                                                                                                              
+
+Repayment of US dollar notes payable                                                                                    (150)                    — 
+
+Proceeds from issuance of US dollar notes payable and shareholder loans                                                    —                 3,375 
+
+Issuance of equity shares                                                                                              4,567                     — 
+
+Net cash provided by financing activities                                                                              4,417                 3,375 
+
+Net increase in cash                                                                                                  (2,097)                1,248 
+
+Cash at beginning of period                                                                                            3,174                   969 
+
+Cash at end of period                                                                                       $          1,077    $            2,217 
+
+Reconciliation of cash and restricted cash to the Consolidated Balance Sheet                                                                       
+
+Cash                                                                                                        $            754    $            1,894 
+
+Restricted Cash                                                                                                          323                   323 
+
+Total cash and restricted cash                                                                              $          1,077    $            2,217 
+
+Supplemental non-cash disclosures:                                                                                                                 
+
+Property and equipment purchases with equity shares                                                                      930                     — 
+
+Amounts to be paid per the development and operation agreement                                                            35                    35 
+
+Right-of-use asset and lease liability associated with operating lease                                                     —                    72 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+
+6
+
+
+
+ 
+
+GRIID INFRASTRUCTURE INC. AND SUBSIDIARIES
+
+Notes to Unaudited Condensed Consolidated Financial Statements (Unaudited)
+
+(amounts in thousands, except unit and per unit amounts or as otherwise indicated)
+
+1. Description of Business
+
+Griid Infrastructure Inc. (“GRIID” or, the “Company”) is a vertically integrated bitcoin mining company based in Cincinnati, Ohio that owns and operates a growing portfolio of energy infrastructure and high-density data centers across North America. The Company has built a bitcoin mining operation, which operates specialized computers (also known as “miners”) that generate cryptocurrency. Currently, the only cryptocurrency mined by GRIID is bitcoin. The Company was formed in the State of Delaware on May 23, 2018. 
+
+On December 29, 2023, the Company, formerly known as “Adit EdTech Acquisition Corp.” (“Adit”) consummated the previously announced reverse recapitalization transaction contemplated by that certain Agreement and Plan of Merger, dated as of November 29, 2021 (the “Initial Merger Agreement”), as amended by the first amendment to the Initial Merger Agreement, dated December 23, 2021 (the “First Amendment”), the second amendment to the Initial Merger Agreement, dated October 17, 2022 (the “Second Amendment”), and the third amendment to the Initial Merger Agreement, dated February 8, 2023 (the “Third Amendment,” together with the Initial Merger Agreement as amended by the First Amendment, the Second Amendment and the Third Amendment, the “Merger Agreement”). Pursuant to the Merger Agreement, (i) ADIT Merger Sub, LLC, a Delaware limited liability company and a wholly owned subsidiary of Adit (“Merger Sub”), merged with and into Griid Holdco LLC (“GRIID Holdco”), with GRIID Holdco as the surviving company in the merger and, after giving effect to such merger, continuing as a wholly owned subsidiary of the Company (the “merger”) and (ii) the Company’s name was changed from Adit EdTech Acquisition Corp. to GRIID Infrastructure Inc.
+
+Upon entering the Transaction, GRIID’s LLC Agreement was amended to the Amended and Restated Limited Liability Company Agreement (the “Amended LLC Agreement”). As part of the Amended LLC Agreement, New GRIID became the sole member of GRIID. The governing documents were amended such that the business of GRIID is managed solely by New GRIID. Additionally, New GRIID adopted the Amended and Restated Bylaws of Griid Infrastructure Inc. (the “Company Bylaws”) which governs New GRIID’s business and affairs. 
+
+2. Liquidity and Financial Condition
+
+The accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities and commitments in the normal course of business. Since its inception, the Company has incurred net losses. During the three months ended March 31, 2024 and 2023, respectively, the Company incurred net losses of $6,478 and $11,231, respectively. As of March 31, 2024, the Company had an accumulated deficit of $113,884.
+
+As of March 31, 2024, the Company had cash and cash equivalents of $754 which are available to fund future operations. The ongoing viability of the Company is largely dependent on the future financial and operating performance of the Company. To date, the Company has, in large part, relied on debt financing to fund its operations. Management expects to continue to incur significant expenses for the foreseeable future while the Company makes investments to support its anticipated growth. The Company’s ability to continue is dependent upon bitcoin prices remaining at or above certain levels. Based upon current and historical volatility of bitcoin the Company is unable to be certain that it can profitably mine bitcoin to support its operations. As such, there exists substantial doubt about the Company’s ability to remain a going concern within one year after the date these consolidated financial statements were issued.
+
+The Company has received $5,708 in draws related to the GEM facility (Note 10) as of May 15, 2024 and plans to draw the additional funds allowed per the agreement.  The Company will have additional needs for capital in the next fiscal year.  These additional needs might not be available to fund the Company's operations.  
+
+3. Basis of Presentation, Summary of Significant Accounting Policies and Recent Accounting
+
+Pronouncements
+
+Basis of Presentation and Principles of Consolidation
+
+The Company’s unaudited consolidated financial statements have been prepared in accordance with U.S. GAAP.  The accompanying consolidated financial statements of the Company include the accounts of the Company and its wholly or majority owned and controlled subsidiaries. Consolidated subsidiaries’ results are included from the date the subsidiary was formed or acquired. Intercompany investments, balances and transactions have been eliminated in consolidation. Non–controlling interests 
+
+7
+
+
+
+ 
+
+represents the minority equity investment in the Company’s subsidiaries, plus the minority investors’ share of the net operating results and other components of equity relating to the non–controlling interest.
+
+The accompanying unaudited consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. Amounts disclosed are in thousands except for share, per share, Bitcoin, and miner amounts, or as noted.
+
+Unaudited Interim Financial Information
+
+In the opinion of the Company, the accompanying unaudited consolidated financial statements contain all adjustments (consisting of only normal recurring adjustments) necessary for a fair presentation of its financial position and its results of operations, change in shareholders’ deficit and cash flows.  The accompanying consolidation balance sheet as of March 31, 2024 and 2023 are unaudited.  The accompanying consolidated balance sheet as of December 31, 2023 was derived from audited annual financial statements but these unaudited notes do not contain all of the disclosure from the previously audited annual financial statements.  The accompanying unaudited consolidated financial statements and related financial information should be read in conjunction with the audited financial statements and related notes thereto as of and for the year ended December 31, 2023.
+
+During the three months ended March 31, 2024 and 2023, there were no significant changes to the Company’s significant accounting policies described in the Company’s audited consolidated financial statements as of and for the year ended December 31, 2023.
+
+Use of Estimates
+
+The preparation of unaudited consolidated financial statements in conformity with U.S. GAAP requires management to make judgments, estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the unaudited consolidated financial statements, and the reported amounts of revenues and expenses during the reporting periods. Significant items subject to such judgments, estimates and assumptions include revenue recognition, the useful lives and recoverability of long-lived assets, unit-based compensation expense, impairment analysis of indefinite lived intangibles, and the fair value of the Company’s warrant liability and embedded derivative liability. Actual results experienced by the Company may differ from those estimates.
+
+Fair Value of Financial Instruments
+
+Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principle or most advantageous market for the asset or liability in an orderly transaction between market participants at the measurement date. Assets and liabilities are measured at fair value using a three-level fair value hierarchy that prioritizes the inputs used to measure fair value. This hierarchy maximizes the use of observable inputs and minimizes the use of unobservable inputs.
+
+As of March 31, 2024 and December 31, 2023, the financial assets or liabilities measured at fair value were the Company’s outstanding notes payable and warrant liability balances. The warrant liability associated with warrants issued in conjunction with the Company’s Third Amended and Restated Loan Agreement as well as the Fourth Amended and Restated Loan Agreement (see Note 11) is accounted for at fair value on a recurring basis with changes in fair value recognized in the consolidated statement of operations. Carrying amounts of the Company’s financial assets and liabilities, such as cash and cash equivalents, and accounts payable and accrued liabilities, is of approximate fair value due to the short-term nature of these instruments. The fair value of the Company’s debt approximates carrying value as it was recorded at fair value upon the Company’s extinguishment of debt (see Note 11).
+
+Revenue Recognition
+
+Revenue is recognized when control of the goods and services provided is transferred to the Company’s customers and in an amount that reflects the consideration the Company expects to be entitled to in exchange for those goods and services using the following steps: (1) identification of the contract, or contracts with a customer, (2) identification of performance obligations in the contract, (3) determination of the transaction price, (4) allocation of the transaction price to the performance obligations in the contract and (5) recognition of revenue when or as the Company satisfies the performance obligations.
+
+The Company earns revenue under payout models determined by the mining pool operator. The payout model relevant to the Company during the three months ended March 31, 2024 and 2023, respectively, is referred to as Full Pay Per Share (“FPPS”) payout model. The Company notes that substantially all revenue recognized during the three months ended March 31, 2024 and 2023 was earned from providing hash computations to mining pool operators under the FPPS payout model.
+
+8
+
+
+
+ 
+
+The Company earns 5% of the generated cryptocurrency revenue that is earned under the Mining Services Agreement (see Note 13).  The Company records revenue and expense from the arrangement on a gross basis, as the Company represents the principal in relation to the contract.  Per the agreement, a $1,000 payment is made by the Customer one month in advance as a prepayment for the reimbursement of direct operating and electricity costs.  Reimbursement payments are considered reimbursement revenues.  Direct costs incurred and reimbursed are also recorded as cost of goods sold.  The Company record its revenue related to the 5% revenue share of the generated cryptocurrency under the Mining Service Agreement on a gross basis under mining services revenue in the Statement of Operations.
+
+The Company earns various revenues under a development and operation agreement with Helix Digital Partners, LLC (“HDP”).  The Company generates cryptocurrency with a percentage to be paid to HDP the following month under the agreement.  The Company could earn curtailment revenue under its development and operation agreement with HDP during months in which HDP curtails the supply of electricity to mines and sells the electricity to the market. The curtailment revenue represents compensation for forgone mining revenue.  A management fee is also recognized in connection with this agreement.  The Company records the revenues and expenses related to the is agreement on a gross basis.  The management fee is recognized as mining services revenue, and revenue share amounts are recognized as other revenue.  
+
+Restricted Cash
+
+As of March 31, 2024 and December 31, 2023, the Company has $323 of restricted cash related to a utility surety letter of credit.
+
+Recently Issued Accounting Pronouncements
+
+Recently Adopted
+
+In December 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update No. 2023-08, Intangible - Goodwill and Other - Crypto Assets (Subtopic 350-60) (“ASC 350-60”). ASC 350-60 requires entities with certain crypto assets to subsequently measure such assets at fair value, with changes in fair value recorded in net income in each reporting period.  Crypto assets that meet all the following criteria are within the scope of the ASC 350-60: (1) (2) (3) (4) (5) (6) meet the definition of intangible assets as defined in the Codification do not provide the asset holder with enforceable rights to or claims on underlying goods, services, or other assets are created or reside on a distributed ledger based on blockchain or similar technology are secured through cryptography are fungible, and are not created or issued by the reporting entity or its related parties. In addition, entities are required to provide additional disclosures about the holdings of certain crypto assets.  Bitcoin, which is the sole crypto asset mined by the Company, meets each of these criteria.   For all entities, the ASC 350-60 amendments are effective for fiscal years beginning after December 15, 2024, including interim periods within those years.  Early adoption is permitted for both interim and annual financial statements that have not yet been issued (or made available for issuance). If an entity adopts the amendments in an interim period, it must adopt them as of the beginning of the fiscal year that includes that interim period.  The Company has elected to adopt the new guidance effective January 1, 2024 resulting in a $3 cumulative-effect change to adjust the Company's bitcoin held on January 1, 2024 with the corresponding entry to beginning accumulated deficit.  
+
+Issued and Not Yet Adopted
+
+The Company continually assesses any new accounting pronouncements to determine their applicability. When it is determined that a new accounting pronouncement affects the Company’s financial reporting, the Company undertakes a study to determine the consequences of the change to its consolidated financial statements and assures that there are proper controls in place to ascertain that the Company’s consolidated financial statements properly reflect the change.
+
+ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures.  ASU focuses on income tax disclosures around effective tax rates and cash income taxes paid.  ASU 2023-09 largely follows the proposed ASU issued earlier in 2023 with several important modifications and clarifications.  The guidance requires the rate reconciliation to include specific categories and provides further guidance on disaggregation of those categories based on a qualitative threshold equal to 5% or more of the amount determined by multiplying pretax income (loss) from continuing operations by the applicable statutory rate. It is effective for business entities for annual periods beginning after December 15, 2024.
+
+ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures (“ASU 2023-07”). ASU 2023-07 is intended to enhance reportable segment disclosures by requiring disclosures of significant segment expenses regularly provided to the chief operating decision maker (“CODM”), requiring disclosure of the title and position of the CODM and explanation of how the reported measures of segment profit and loss are used by the CODM in assessing segment performance and allocation of 
+
+9
+
+
+
+ 
+
+resources. ASU 2023-07 is effective for the Company for annual periods beginning after December 31, 2023. The Company does not expect the updated guidance to have a material impact on its disclosures.
+
+4. Reverse recapitalization
+
+On December 29, 2023, Adit, ADEX Merger Sub LLC, and GRIID Holdco consummated a merger (the “merger”) pursuant to the terms of that certain Agreement and Plan of Merger, dated as of November 29, 2021 (the “Initial Merger Agreement”),  as amended by the first amendment to the Initial Merger Agreement, dated December 23, 2021 (the “First Amendment”) and the second amendment to the Initial Merger Agreement, dated October 17, 2022 (the “Second Amendment”) and the third amendment to the Initial Merger Agreement, dated February 8, 2023 (the “Third Amendment”, and the Initial Merger Agreement as amended by the First Amendment, the Second Amendment and the Third Amendment, the “Merger Agreement”). The merger was accounted for as a reverse merger and recapitalization and Adit was considered the acquired company for financial statement reporting purposes.  GRIID Holdco was deemed the predecessor for financial reporting purposes and the Company was deemed the successor SEC registrant, meaning that GRIID Holdco's financial statements for periods prior to the consummation of the merger are disclosed in the financial statements included within this report and will be disclosed in the Company's future reporting periods. No goodwill or other intangible assets were recorded, in accordance with GAAP.  At the closing date, GRIID received gross cash consideration of $21,877 as a result of the reverse recapitalization from Adit's trust account, which was then reduced by the redemption of common stock of $19,338 as well as deferred underwriting fees and filing fees of $2,345.  
+
+At the time of the aforementioned merger, the existing GRIID Holdco's Limited Liability Company equity holders exchanged their interests in GRIID for 58,500,000 shares of Adit common stock. After the merger, the holders of the IPO shares owns 216,298 shares and the Adit EdTech Sponsor LLC ("the Sponsor") owned 6,900,000 shares. 
+
+Upon consummation of the merger, GRIID Holdco’s Limited Liability Company Agreement was amended to the Amended and Restated Limited Liability Company Agreement (the “Amended LLC Agreement”). As part of the Amended LLC Agreement, the Company became the sole member of GRIID Holdco. The governing documents were amended such that the business of GRIID Holdco and its wholly owned subsidiaries is managed solely by the Company. Additionally, the Company adopted the Second Amended and Restated Certificate of Incorporation of the Company and the Amended and Restated Bylaws of the Company which govern the Company’s business and affairs. 
+
+GRIID Holdco accounted for the net assets acquired from Adit as a recapitalization.  In connection with the reverse recapitalization, GRIID incurred approximately $21,140 of equity issuance costs, of which $6,107 has been paid as of May 15, 2024, consisting of advisory, legal, share registration and other professional fees.  $2,225 of these fees represent underwriter fees incurred by Adit prior to the reverse recapitalization related to their IPO.  These fees were recorded in additional paid-in capital as a reduction of proceeds.
+
+5. Cryptocurrencies
+
+The following table presents additional information about cryptocurrencies as follows:
+
+ 
+
+                                                   Three months ended         Year-ended       
+
+                                                        March 31,                December 31,
+
+                                                          2024                    2023
+
+Beginning balance                                $                  142  $                 51 
+
+Cumulative effect of change in accounting        $                    3  $                  — 
+
+ principle
+
+Cryptocurrencies received from mining                             3,220                 9,137 
+
+Mining services revenue                                             255                   844 
+
+Mining pool operating fees                                           (7)                  (13)
+
+Proceeds from sale of cryptocurrencies                           (3,009)               (9,943)
+
+Unrealized gain on fair value of                                     62                     — 
+
+ cryptocurrency,
+
+ net
+
+Realized gain on sale of cryptocurrencies and                       109                   351 
+
+   consideration paid
+
+Impairment of cryptocurrencies                                        —                  (285)
+
+Ending balance                                   $                  775  $                142 
+
+                                                                                               
+
+Number of bitcoin held                           $                11.13  $               3.44 
+
+Average cost basis - per bitcoin                 $               67,759  $             41,537 
+
+Fair value - per bitcoin                                         69,689                42,288 
+
+Cost basis of bitcoin (in '000s)                                    754                   142 
+
+Fair value of bitcoin (in '000s)                 $                  775  $                145 
+
+ 
+
+10
+
+
+
+ 
+
+ 
+
+The cost basis represents the valuation of bitcoin at the time the Company earns the bitcoin through mining activities.  The cost basis for 3 bitcoin held as of the adoption of ASC 350-60 was determined on the "cost less impairment " basis.
+
+The following table presents information based on the activity of bitcoin for the three months ended March 31, 2024:
+
+ 
+
+Balance as of December 31, 2023                                               $        142 
+
+Cumulative effect of the adoption of ASC 350-60                                          3 
+
+Adjusted beginning balance, at fair value                                              145 
+
+Addition of bitcoin from mining activities                                           3,468 
+
+Bitcoin sold and issued for operations                                              (2,947)
+
+Unrealized gains from fair value adjustments                                           109 
+
+Balance as of March 31, 2024                                                  $        775 
+
+The Company's bitcoin holdings are not subject to rehypothecation and do not serve as collateral for any existing loans or agreements.  As of March 31, 2024, the Company held no other crypto currency.  The cumulative realized gains from dispositions of bitcoin during the three months ended March 31, 2024 was $62.
+
+6. Property and Equipment
+
+Property and equipment, net consist of the following:
+
+ 
+
+                                   Three months ended March 31,    Year-ended        December  
+
+                                               2024                            31,
+
+                                                                              2023
+
+Land                              $                          422  $                        422 
+
+Assets not placed into service                             1,671                           831 
+
+Energy infrastructure                                      3,986                         3,986 
+
+General infrastructure                                    12,214                        12,214 
+
+IT infrastructure                                            838                           824 
+
+Miners                                                    17,251                        15,802 
+
+Vehicle                                                       76                            76 
+
+Office furniture and equipment                               343                           343 
+
+Miner chip inventory                                      11,498                        11,498 
+
+Gross property and equipment      $                       48,299  $                     45,996 
+
+Less: accumulated depreciation                           (16,241)                      (15,152)
+
+Total property and equipment, net $                       32,058  $                     30,844 
+
+ 
+
+Depreciation expenses related to property and equipment was $1,094 and $1,571 for three months ended March 31, 2024 and 2023, respectively.
+
+For the three months ended March 31, 2024, the Company had no sales of certain property and equipment. For the three months ended March 31, 2023, the Company sold certain property and equipment for total proceeds of $1,577 resulting in a gain of $1,198.   
+
+7. Leases
+
+The Company adopted the amendments to ASC 842 Leases, which require lessees to recognize lease assets and liabilities arising from operating leases on the balance sheet. 
+
+11
+
+
+
+ 
+
+Finance and operating lease assets and lease liabilities are as follows:
+
+ 
+
+Lease Classification       Classification      Three months ended March 31,             Year-ended            
+
+                                                            2024                               December 31,
+
+                                                                                            2023
+
+Assets                                                                                                        
+
+Current                                                                                                       
+
+Operating              Current assets          $                           —  $                            — 
+
+Finance                Current assets                                      1                               1 
+
+Long-term                                                                                                     
+
+Operating              Long-term assets                                2,200                           2,262 
+
+Finance                Long-term assets                                   37                              43 
+
+Total right-of-use                             $                       2,238  $                        2,306 
+
+ assets
+
+Liabilities                                                                                                   
+
+Current                                                                                                       
+
+Operating              Short-term lease        $                         219  $                          222 
+
+                        liability
+
+Finance                Short-term lease                                    6                               6 
+
+                        liability
+
+Noncurrent                                                                                                    
+
+Operating              Long-term lease                                 2,057                           2,111 
+
+                        liability
+
+Finance                Long-term lease                                    90                              94 
+
+                        liability
+
+Total lease                                    $                       2,372  $                        2,433 
+
+ liabilities
+
+ 
+
+The components of lease expense were as follows:
+
+ 
+
+                                                               Three Months Ended               
+
+                                                     March 31, 2024         March 31, 2023     
+
+Operating lease expense                           $                 109  $                 104 
+
+Finance lease expense                                                                          
+
+Amortization on ROU assets                                            9                     35 
+
+Interest on lease liabilities                                         1                     11 
+
+Short-term lease expense                                             15                     15 
+
+Total lease expense                               $                 134  $                 165 
+
+ 
+
+Other information related to leases was as follows:
+
+ 
+
+                                                                   Three Months Ended           
+
+                                                           March 31, 2024     March 31, 2023   
+
+Weighted average remaining lease term (in years)                                                
+
+Operating leases                                                       7.6                8.5 
+
+Finance leases                                                         1.7                2.7 
+
+Weighted average discount rate:                                                                 
+
+Operating leases                                                       8.1%               8.1%
+
+Finance lease                                                          4.6%               4.6%
+
+ 
+
+                                                                         Three Months Ended      
+
+                                                                      March 31,      March 31,   
+
+                                                                         2024           2023
+
+Cash paid for amounts included in measurement of                                                 
+
+   lease liabilities
+
+Operating cash flows from operating leases                          $        104  $        103 
+
+Operating cash flows from finance leases                            $          2  $         10 
+
+ROU assets obtained in exchange for lease obligations                                            
+
+Operating leases                                                    $          —  $         72 
+
+Finance lease                                                       $          —  $          — 
+
+ 
+
+12
+
+
+
+ 
+
+Future minimum lease payments under non-cancellable leases as of March 31, 2024 were as follows:
+
+ 
+
+Year                                                     Operating             Finance       
+
+                                                           Leases               Leases
+
+2024                                                $                297  $                6 
+
+2025                                                                 371                  32 
+
+2026                                                                 367                  65 
+
+2027                                                                 412                   — 
+
+2028                                                                 412                   — 
+
+Thereafter                                                         1,220                   — 
+
+Total future minimum lease payments                                3,079                 103 
+
+Less: imputed interest                                              (803)                 (8)
+
+Total                                                              2,276                  95 
+
+Plus: lease asset, current                                             —                   1 
+
+Less: lease liability, current                                      (219)                 (6)
+
+Total long-term lease liability                     $              2,057  $               90 
+
+ 
+
+8. Long-Term Deposits
+
+ 
+
+                                      Three months ended March 31,      Year-ended       December   
+
+                                                   2024                            31,
+
+                                                                                   2023
+
+Deposits on property and equipment   $                        4,509  $                       5,305 
+
+Other long-term deposits                                         95                             95 
+
+Total long-term deposits             $                        4,604  $                       5,400 
+
+ 
+
+9. Accrued Expenses and Other Current Liabilities
+
+ 
+
+                                              Three months ended March          Year-ended        
+
+                                                         31,                      December 31,
+
+                                                        2024                       2023
+
+Accrued professional fees                    $                     315  $                    275 
+
+Accrued GEM facility commitment fee                              4,000                     4,000 
+
+Accrued contingency fee                                            187                       199 
+
+Accrued wages and benefits                                       1,534                     1,298 
+
+Other accrued expenses and other current                           478                       515 
+
+ liabilities
+
+Total accrued expenses and other current     $                   6,514  $                  6,287 
+
+ liabilities
+
+ 
+
+10. Debt and Warrants
+
+The Company entered into several Amended and Restated Credit Agreements with a lender. The Company is required to ensure the Mined Currency on deposit in a Mined Currency Account with the lender is at all times greater than or equal to a value equal to 50% of all Mined Currency, excluding amounts used for operating expenses of the Company in the ordinary course of business or other purposes consented to in writing. As of March 31, 2024 and December 31, 2023, the Company had 0.0 BTC, respectively, deposited within its Mined Currency Account with the lender and are included in cryptocurrencies on the accompanying consolidated balance sheets.  The debt was recorded at fair value. The difference between the fair value and the stated principal amount will be accreted to interest expense over the term of the debt and recorded as debt discount on the consolidated balance sheet, netted against notes payable.
+
+The Company entered into a deposit account control agreement with Customers Bank on March 28, 2022 (the “DACA”), which, in the event the Company defaults on its repayment of the 4th A&R Loan Agreement, would allow Blockchain to assume control of the Company’s bank account only with regard to any funds remaining outstanding under the 4th A&R Loan Agreement.  There has been no indications of default on the 4th A&R Loan Agreement.
+
+The Company entered into an account control agreement with Coinbase on July 31, 2023 (the “DACA V2”), which, in the event the Company defaults on its repayment of the 4th A&R Loan Agreement, would allow Blockchain to assume control of the Company’s cryptocurrency account only with regard to any funds remaining outstanding under the 4th A&R Loan Agreement.  There has been no indications of default on the 4th A&R Loan Agreement.
+
+13
+
+
+
+ 
+
+Throughout 2022 and 2023, the Company completed private placements (the “bridge financings”) with certain accredited investors pursuant to which the Company issued promissory notes in the aggregate principal face amount of $19,868 (the “promissory notes”) and a recognition of warrant liability of $18,135. The promissory notes have an interest rate of 15.0% per annum and effective interest rate of 22.5%. Subject to mandatory or optional repayment of the promissory notes, the outstanding principal amount of the promissory notes, together with all accrued and unpaid interest thereon, is due after one year of commencement (the “maturity date”). Pursuant to that certain share purchase agreement (the "GEM Agreement"), dated September 9, 2022, among GRIID Holdco LLC, Adit, Global Yield LLC SCS ("GYBL") and Gem Yield Bahamas Limited (the "Purchaser"), any proceeds the Company receives under the GEM Agreement must be used to repay $4.9 million in 2024 and $20.1 million in 2025. The promissory notes contain certain events of default, including, without limitation, non-payment, breaches of certain covenants of the Company, bankruptcy and insolvency of the Company, or if the Company commences dissolution proceedings or otherwise ceases operations of its business. If an event of default occurs, the promissory notes may become due and payable.
+
+In connection with the bridge financings, the Company issued to accredited investors warrants to purchase an aggregate of 3.79% of the issued and outstanding units of the Company on a fully-diluted basis at an exercise price of $0.01 per unit.  In connection with the closing of the Merger, such warrants were automatically converted into Class B Units of the Company immediately prior to the effective time of the Merger and then were subsequently exchanged for merger consideration (i.e. shares of common stock of New GRIID) equal to an aggregate of 2.51% of the issued and outstanding shares of common stock of New GRIID, on a fully diluted basis after giving effect to the Merger.  Throughout 2023, the Company modified the notes to extend the dates for these bridge loans in the amount of $1,205.  These notes were accounted for as a troubled debt restructuring. In December 2023, the Company modified a large portion of the bridge financing agreements to extend the terms out further to mature on June 30, 2025.  These modifications also had additional warrants at various totals issued of 539,165 at an exercise price of $0.01 per unit.  The Company recorded these modifications as debt extinguishment and recorded a loss on debt extinguishment of $25,081.
+
+On September 8, 2022, the Company entered into the Purchase Agreement with GYBL and the Purchaser.  Pursuant to the Purchase Agreement, beginning December 29, 2023 (the "Public Listing Date") and ending on the 3-year anniversary of the Public Listing Date, the Company will have the option to issue and sell to the Purchaser, and the Purchaser agrees to purchase from the Company common shares having an aggregate value of up to $200 million (the “Purchased Put”). The purchases and sales of shares of the Company will be made by delivery to the Purchaser of Draw Down Notices. The Company, in its sole discretion, may issue a Draw Down Notice for a specified amount of shares and the Purchaser shall pay a per share amount equal to 92% of the average Daily Closing Price during the Draw Down Pricing Period. Under the Purchase Agreement, the Company is obligated to pay a commitment fee to the Purchaser equal to 2% of the $200 million limit. The commitment fee is due on each draw and may be paid in cash from the proceeds of the draw down or in tradeable common shares of the Company valued at the Daily Closing Price at the time of such draw down. For avoidance of doubt, the commitment fee shall be payable regardless of whether any draw down notices have been delivered. Further, it was noted that on the Public Listing Date, the Company executed a warrant granting the Purchaser the right to purchase common shares with an expiration date that is the third anniversary of the Public Listing Date (the “Warrants”). The issued warrants are exercisable for 1,733,726 common shares at an exercise price of $4.84 per share.  The value of the warrants as of March 31, 2024 was $471 (see Note 11).  The warrants are exercisable for a number of common shares that is equal to 2% of the total equity interest outstanding immediately after the completion of the public listing.  Since the public listing date was not until January 2024 and due to the unknown nature of what the warrants outstanding would have been in 2022, the warrants were not included in the computation of diluted EPS in 2022.
+
+On December 29, 2023, the Company and EarlyBird Capital, Inc. (“EarlyBird”) entered into an amendment (the “Amendment”) to the Underwriting Agreement. Among other things, the amendment modified the amount of the deferred underwriting commission payable to EarlyBird to $4,687, which includes reimbursement of EarlyBird’s legal expenses in an amount of $150,000. The note incurs monthly interest at 8% and the capitalized interest as of December 31, 2023 was $3.  The maturity date is December 29, 2024, and at this time if the note is not paid in full, interest will start to accrue at 15%.
+
+ For the three months ended March 31, 2024 and 2023, respectively, the Company recognized total interest expense related to total Notes Payable of $6,955 and $6,594, respectively, which included amortization of the debt discount associated with the aforementioned warrants and supplemental warrants of $3,353 and $906, respectively.  Amortization on the 4th A&R Loan Agreement was $1,129 and $1,028 for March 31, 2024 and 2023, respectively.
+
+Aggregate annual future maturities of the Loans as of March 31, 2024 were as follows:
+
+ 
+
+14
+
+
+
+ 
+
+Year                                                                Total      
+
+2024                                                           $         9,317 
+
+2025                                                                    72,671 
+
+2026                                                                         — 
+
+Total                                                          $        81,988 
+
+Less: Unamortized debt discount                                        (13,760)
+
+Plus: Capitalized interest                                              10,462 
+
+Total U.S. dollar notes payable, net                           $        78,690 
+
+ 
+
+11. Fair Value Hierarchy
+
+Recurring fair value measurements
+
+As of March 31, 2024, the fair value of the warrant liability measured on a recurring basis was as follows:
+
+ 
+
+                                                     Level 1              Level 2              Level 3              Total      
+
+Warrant Liability                               $              —    $              —    $            471    $          471 
+
+ 
+
+The fair value of the warrant liability as of October 9, 2022 (see Note 10) and at the dates of issuance and as of March 31, 2024 were determined via the fair value assessment method and included multiplying the related fixed percent of total equity value by the estimated number of shares upon immediate close of the transaction and multiplied the quoted market price of the Company. The observable input of quoted prices for the Company on the issuance dates and March 31, 2024 were as follows:
+
+ 
+
+Date                                                Adit/GRIID Share              
+
+                                                         Price
+
+October 9, 2022                        $                                     9.91 
+
+December 31, 2022                      $                                    10.11 
+
+December 31, 2023                      $                                     5.38 
+
+March 31, 2024                         $                                     1.32 
+
+ 
+
+As of December 31, 2023, the fair value of the warrant liability measured on a recurring basis was as follows:
+
+ 
+
+                                                 Level 1             Level 2              Level 3                Total        
+
+Warrant Liability                            $             —    $             —    $            3,838    $            3,838 
+
+ 
+
+A summary of the changes in the Company’s warrant liability measured at fair value using significant unobservable inputs (Level 3) as of March 31, 2024 and December 31, 2023, respectively:
+
+ 
+
+Warrant liability as of December 31, 2023                        $      3,838 
+
+Change in fair value                                                   (3,367)
+
+Warrant liability as of March 31, 2024                           $        471 
+
+ 
+
+For the three months ended March 31, 2024 and 2023, the Company recognized a gain of $3,367 and a loss of $1,790, respectively, on the change in fair value of the warrant liability and warrant derivative.  
+
+15
+
+
+
+ 
+
+Non-recurring fair value measurements
+
+Cryptocurrencies
+
+The Company records its cryptocurrency assets based upon Level 1 inputs, specifically, the exchange-quoted price of the cryptocurrency.  The company does not record impairment due to the adoption of ASC 350-60 as of January 1, 2024. The Company’s cryptocurrency holdings had an outstanding carrying balance of approximately $775 as of March 31, 2024. The Company recorded a $3k cumulative effect change to adjust the Company's bitcoin held.
+
+The last impairment date for the Company’s cryptocurrency holdings was December 31, 2023. As of December 31, 2023, the Company’s cryptocurrency holdings had an outstanding carrying balance of approximately $142, net of impairment losses incurred of $285 for the year ended December 31, 2023.  
+
+ 
+
+12. Unit Conversion to Shares
+
+Upon the merger agreement dated December 29, 2023, all units included in GRIID were converted to shares.
+
+13. Share-based Compensation
+
+On April 14, 2021, the Board of Managers (the “Board”) adopted the GRIID Infrastructure Equity Plan LLC Profits Interest Plan (the “Plan”). Under the terms of the Plan, Incentive Shares may be granted to employees of the Company as well as officers, consultants, or other service providers of the Company (each, a “Participant”). Upon approval of the Plan, the Company reserved a pool of 9,186,933 shares. 
+
+The shares give holders the right to participate in the profits and losses of the Company, but do not convey voting rights to the holders. Each share has a profits interest threshold amount set forth in the applicable Agreement Award in accordance with the GRIID Infrastructure Equity Plan LLC, dated as of April 14, 2021. The amount is to be no less than the amount determined to be necessary to cause such share to constitute a “profits interest” within the meaning of Revenue Procedures 93-27 and 2001-43. Each Award Agreement contains a vesting schedule that is determined by the Board. Vesting may be based on the continued service of the Participant and/or on the achievement of performance goals set forth in the Award Agreement. Shares may also be fully vested on the Grant Date. 
+
+At any time prior to the consummation of a Qualified Public Offering or a Change in Control, each as defined in the Plan, the Company has the right, but not the obligation, to require the Participant to forfeit or sell to the Company all or any portion of their shares in connection with a Termination of Service (the “Company’s Call Right”). In the event of termination for any reason, unvested shares (“Restricted shares”) will be forfeited without consideration. If the Participant’s employment is terminated for cause, all vested shares (“Unrestricted shares”) or Restricted shares will be forfeited without consideration. If the Participant’s employment is terminated by the Company for a reason other than cause or by the Participant for any reason, the Company’s purchase price per Unrestricted share will be its fair market value on the date of termination.
+
+Based upon their underlying characteristics and features, the Company has determined that the shares are to be accounted for as equity-classified awards.
+
+The shares are granted at the market price of the Company’s units on the date of grant. The Company has varying vesting period and vesting schedules for shares granted.
+
+Share activity under the Plan for the years ended March 31, 2024 and December 31, 2023, respectively, was as follows:
+
+ 
+
+                                                                        Number of             
+
+                                                                         Shares
+
+Unvested, December 31, 2023                                                          564,272 
+
+Vested                                                                              (207,752)
+
+Forfeited                                                                             (1,302)
+
+Unvested, March 31, 2024                                                             355,218 
+
+ 
+
+Expense related to the shares is recognized over the vesting period of each share. The Company has elected to recognize forfeitures as they occur. For the three months ended March 31, 2024 and 2023, respectively, the Company recognized $9 and $29 of unit-based compensation expense related to the shares, which is included within general and administrative expense on the unaudited consolidated statements of operations.
+
+16
+
+
+
+ 
+
+As of March 31, 2024 and 2023, respectively, there remained $24 and $106 of unrecognized compensation expense related to the shares. That cost is expected to be recognized over the remaining weighted average vesting period of 0.74 years.
+
+The total fair value of shares vested (based on grant date fair value) during March 31, 2024 and 2023, respectively was $445 and $342.
+
+14 . Commitments and Contingencies
+
+Evaluation Agreement
+
+The Company entered into an evaluation agreement with Hephaestus Capital Group (“Owner”) on April 17, 2023, for a term of six months. Under this agreement, the Company tests the hashrate of the Owner’s 5,000 miners and provides an evaluation report thereafter. The miners were expected to be operational over the course of the second, third and fourth quarters of 2023 and were tested for a period of approximately six months. The Company concluded that the terms of the agreement were not commercially substantive based on the fact there are no cash payments identified in the contract and the Owner is not required to provide any consideration to the Company.  Revenue generated from running the machines under this agreement was $1,856 as of December 31, 2023 and is recorded in cryptocurrency mining revenue. During the first quarter of 2024, the Company and the Owner amended the agreement and closed on the purchase of miners.
+
+Litigation
+
+From time to time, the Company may be a party to various claims in the normal course of business. Legal fees and other costs associated with such actions are expensed as incurred. The Company assesses, in conjunction with its legal counsel, the need to record a liability for litigation and contingencies. Reserve estimates are recorded when and if it is determined that a loss related matter is both probable and reasonably estimable.
+
+We are not involved in any legal proceedings that we believe could have a material adverse effect on our financial position or results of operations. There is no action, suit, proceeding, inquiry or investigation before or by any court, public board, government agency, self-regulatory organization or body pending or, to the knowledge of our executive officers, threatened against or affecting our Company or our officers or directors in their capacities as such.
+
+Indemnifications
+
+In the ordinary course of business, the Company often includes standard indemnification provisions in its arrangements with its partners, suppliers, and vendors. Pursuant to these provisions, the Company may be obligated to indemnify such parties for losses or claims suffered or incurred in connection with its service, breach of representations or covenants, intellectual property infringement or other claims made against such parties. These provisions may limit the time within which an indemnification claim can be made. It is not possible to determine the maximum potential amount under these indemnification obligations due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each particular agreement. To date, the Company has not incurred any material costs as a result of such indemnifications and has not accrued any liabilities related to such obligations in these unaudited consolidated financial statements.
+
+15. Unearned Grant Revenue
+
+The Company has recorded funding from two grants as unearned grant revenue (a long-term liability) on its consolidated balance sheets.
+
+17
+
+
+
+ 
+
+16. Earnings Per Share
+
+The calculation of the basic and diluted EPS is as follows:
+
+ 
+
+                                                       March 31, 2024      March 31, 2023   
+
+Basic and diluted net loss per share                                                        
+
+Numerator:                                                                                  
+
+Allocation of net loss                                           (6,478)            (11,231)
+
+Denominator:                                                                                
+
+Weighted average shares outstanding                          67,663,377          53,828,655 
+
+                                                                                            
+
+Basic and diluted net loss per share                              (0.10)              (0.21)
+
+ 
+
+The following table presents potentially dilutive securities that were not included in the computation of diluted net loss per share as their inclusion would be anti-dilutive:
+
+ 
+
+                                           March 31, 2024                  March 31, 2023        
+
+GEM warrants                                              1,734                          1,734 
+
+Private warrants                                          7,270                          7,270 
+
+Public warrants                                          13,800                         13,800 
+
+                                                                                                 
+
+Total                                                    22,804                         22,804 
+
+ 
+
+17. Related-Party Transactions
+
+On April 17, 2021, the Company entered into an engagement letter and an incentive unit award agreement with an entity affiliated with John D’Agostino, Adit’s Chief Financial Officer. The engagement letter was amended on November 14, 2022. Pursuant to such engagement letter, as amended, and incentive unit award agreement, the Company agreed to pay to such entity $400 and grant such entity units representing a 0.5% profit interest in the Company. The cash payment was payable and paid on consummation of the merger. The units vested 1/4th on April 26, 2022, and 1/36th on the 17th day of each month thereafter, subject to such entity’s continued service through such vesting dates; provided, however, that any unvested units shall fully vest upon a qualifying transaction. The Company estimated the liability related to this transaction is $12 using Black Scholes option pricing model.
+
+On August 31, 2021, the Company, through its wholly-owned subsidiary Data Black River, entered into the HDP Agreement with HDP, an affiliate of Eagle Creek. Neal Simmons, who now serves on the Company’s board of directors, is the current President and Chief Executive Officer of Eagle Creek. 
+
+GRIID has entered into employment agreements with each of its executive officers. These agreements provide for at-will employment for no specified period, and provide for an initial base salary and bonus target.  GRIID has also entered into customary  confidentiality, non-competition, and assignment of inventions agreements with each executive officer. It is anticipated that the directors of New GRIID will, in connection with consummating the merger, approve and direct New GRIID to enter into customary indemnification agreements with the persons intended to serve as directors and executive officers of New GRIID following the merger.
+
+On September 2, 2022, GRIID Holdco issued a promissory note to Dwaine Alleyne, the Chief Technology Officer of GRIID Holdco, in exchange for a loan of $250,000. In connection with the promissory note issued to Mr. Alleyne, GRIID Holdco also issued a warrant to Mr. Alleyne exercisable for 8,616 Class B Units of GRIID Holdco. Mr. Alleyne exercised the warrant immediately prior to the closing of the merger for 41,010 shares of GRIID common stock representing 0.0625% of shares of our issued and outstanding common stock at such time. 
+
+On January 13, 2023, in connection with the extension of the date by which Adit must complete its initial reverse recapitalization, Adit issued an unsecured promissory note to GRIID pursuant to which Adit was permitted to borrow up to $900,000 in the aggregate. On July 12, 2023, in connection with the extension of the date by which Adit must complete its initial reverse recapitalization, Adit issued an unsecured amended and restated promissory note to GRIID pursuant to which Adit may borrow up to $1,800,000 in the aggregate. The note was interest-bearing, at a rate per annum equal to the Applicable Federal Rate set forth by the Internal Revenue Service pursuant to Section 1274(d) of the Internal Revenue Code, and payable on the earlier of (i) the date on which a definitive decision to liquidate Adit is made by its board of directors, and (ii) the closing of the merger, unless accelerated upon the occurrence of an event of default. Any outstanding principal amount under the note may be prepaid by Adit, at Adit’s election and without penalty. The loan was paid off with the settlement of the merger agreement on December 29, 2023.
+
+18
+
+
+
+ 
+
+The Company paid the sponsor or its affiliate a total of $10,000 per month for office space, utilities, secretarial support and administrative services. Upon completion of the reverse recapitalization, the Company ceased paying these monthly fees. 
+
+ Our initial stockholders, sponsor and management team or any of their respective affiliates will be reimbursed for any out-of-pocket expenses incurred in connection with activities on our behalf such as identifying potential target businesses and performing due diligence on suitable reverse recapitalization. Our audit committee will review on a quarterly basis all payments that were made to these persons and will determine which expenses and the amount of expenses that will be reimbursed. There is no cap or ceiling on the reimbursement of out-of-pocket expenses incurred by such persons in connection with activities on our behalf.
+
+18. Subsequent Events
+
+On April 18, 2024 (the “Effective Date”), The Company entered into Employment Agreements (the “Executive Employment Agreements”) with James D. Kelly III, the Company’s Chief Executive Officer, Allan Wallander, the Company’s Chief Financial Officer, and Michael Hamilton, the Company’s Chief Research Officer, which have terms that commenced as of the Effective Date and will continue until terminated in accordance with the Executive Employment Agreements (or earlier termination of employment).
+
+Under the Executive Employment Agreements, Mr. Kelly will receive an annual base salary of $500,000 and an annual target bonus opportunity equal to $500,000. Mr. Wallander will receive an annual base salary of $300,000 and an annual target bonus opportunity equal to $300,000. Mr. Hamilton will receive an annual base salary of $180,000 and an annual target bonus opportunity equal to $100,000. Kelly and Wallander are also entitled to receive a special bonus (a “Special Bonus”), payable immediately, in the amounts of $200,000 and $300,000, respectively, for services provided prior to the Effective Date.
+
+On April 16, 2024 the Company granted to certain of its employees options to purchase an aggregate of 2,125,000 shares of the Company’s common stock with an exercise price of $0.988 per share. Each of the options have an expiration date of ten (10) years from the grant date.
+
+19
+
+
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Please read the following discussion and analysis of our financial condition and results of operations together with “Forward-Looking Statements” below and Part I, Item 1, "Business," and Part I, Item 1A "Risk Factors," of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and our consolidated financial statements and related notes included in this Quarterly Report. 
+
+The Merger (as defined below) was accounted for as a reverse recapitalization, in accordance with generally accepted accounting principles in the United States of America (“GAAP”).  Under this method of accounting, Adit was treated as the “acquired” company for financial reporting purposes.  As a result of the closing of the Merger (as defined below), the financial statements of GRIID Infrastructure Inc. are the financial statements of the Company. Thus, the following discussion and analysis of the financial condition and results of operations of GRIID Infrastructure Inc. prior to the Merger and our Company following the completion of the Merger should be read together with GRIID Infrastructure Inc.’s consolidated financial statements and the related notes thereto appearing elsewhere in this Quarterly Report. Some of the information contained in this discussion and analysis or set forth elsewhere in this Quarterly Report, including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks and uncertainties. You should read the sections titled “Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and “Forward-Looking Statements”  above for a discussion of important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis.
+
+GRIID Infrastructure Inc.’s consolidated financial statements are prepared in accordance with generally accepted accounting principles in the United States of America (“GAAP”).
+
+This management’s discussion and analysis of the financial condition and results of operations of GRIID Infrastructure Inc. and subsidiaries (which, in this section, are referred to as “GRIID,” the “Company,” “us”, “our” or “we”) is supplemental to and should be read in conjunction with GRIID’s consolidated financial statements and the accompanying notes included elsewhere in this Quarterly Report.
+
+All references to “cryptocurrency” or “cryptocurrencies” in this section refer to bitcoin.
+
+Objective
+
+The objective of this management’s discussion and analysis of the financial condition and results of operations of GRIID is to detail material information, events, uncertainties and factors impacting GRIID and provide investors an understanding from management’s perspective.
+
+Company Overview
+
+GRIID is an emerging American infrastructure company in the bitcoin mining sector. We employ a vertically integrated self-mining strategy (which is supported at times by unique collaborative partnerships in support of the broader approach) to develop and operate U.S. based mining facilities that generate bitcoin by performing computing associated with Proof of Work (“PoW”). GRIID’s current business plan does not include the expansion of its mining operations to include digital assets other than bitcoin, or any other activities with, or the holding of, any other cryptocurrencies other than bitcoin, and GRIID does not anticipate any changes to its business plan for the foreseeable future. As of the date of this Quarterly Report, we have 68MW of available electrical capacity in our New York facility and our three Tennessee facilities (48MW of which are at dedicated self-mining sites and 20MW of which are subject to the Mining Services Agreement), and we believe that we are well-positioned to grow our capacity in 2024. Our mining operations currently utilize application specific integrated circuits (“ASICs”) manufactured by two leading companies, Bitmain and MicroBT. GRIID has also purchased ASICs manufactured by Intel, which it anticipates integrating into its operations. We have begun the process of developing a carbon-free focused power pipeline including 1000MW of power capacity, subject to memoranda of understanding (“MOUs”) and letters of intent (“LOIs”), land acquisition and infrastructure procurement. Our existing facilities utilize approximately 67% carbon-free power. These carbon-free levels are based solely on generation type and not from offsets or carbon credits and can therefore be materially improved.
+
+As we produce bitcoin through our mining operations, we intend from time to time to exchange our bitcoin for fiat currency to fund our operations on an as-needed basis, based on a variety of market and operational conditions. We intend to hold enough fiat currency or hedge enough of our bitcoin exposure to cover our projected near-term fiat currency needs, including liabilities and anticipated expenses and capital expenditures over the course of six to 18 months. Although we currently do not use any hedging products or synthetic financial instruments, we recognize the possibility that in the future such products or instruments may be useful tools in support of our broad commercial efforts. Managing short-term bitcoin exposure is a function of cash management as we 
+
+20
+
+
+
+ 
+
+accrue bitcoin from mining and accrue fiat liabilities in the course of doing business. In identifying our fiat currency needs, we assess market conditions and review our financial forecast on a daily basis. We safeguard and keep private our bitcoin by utilizing offline storage solutions, which require multi-factor authentication and third-party custody solutions. While we are confident in the security of our bitcoin, we continue to evaluate additional protective measures. In addition to our core bitcoin mining business, we are also exploring adjacent market opportunities to add revenue streams and technical innovations to enhance mining performance.
+
+In addition to holding bitcoin available for liquidation on an as-needed basis to fund business activities, we intend to look to realize value through the direct appreciation of bitcoin held on our balance sheet and explore treasury management monetization opportunities. The primary use of our free cash flow is to fund and support the growth of the business. Holding bitcoin on the balance sheet is a core piece of this strategy and we intend to look to grow this balance over time. Once these have been retained on the balance sheet, the merits of various monetization strategies, including lending them out, can be considered.
+
+We utilize three platforms that interact with our bitcoin:
+
+•Coinbase Prime: Coinbase is an institutional-grade brokerage platform, which purchased the Tagomi platform. It has in-house custody solutions that we rely upon and controls around account access controls, permissions, and whitelisted withdrawal addresses. All users interacting with balances have a two-factor authentication and all trading and transfer activities are sent to all administrative emails in order to flag any potentially bad behavior.
+
+•Foundry: Foundry is a pool account that holds our bitcoin for only approximately 24 hours as we accrue revenue before the bitcoin gets paid out to our Coinbase Prime brokerage account. A two-factor authentication is required for all accounts and there is a robust whitelisting process for any new withdrawal addresses to be added to the platform. Additionally, activity in Foundry initiates emails to the other accounts to flag any potential bad behavior or vulnerability.
+
+•Blockchain.com: We utilize Blockchain.com’s in-house custody product as our primary solution. As with Coinbase Prime, Blockchain.com includes access controls and a robust whitelisting around the withdrawal process.
+
+As part of the Blockchain.com custody relationship we may benefit from the principal loan balance being netted down in the case of a loss in their custody product. We do not self-custody bitcoin and leverage our service providers and their product offerings to support our custody needs.
+
+Bitcoin Mining
+
+Bitcoin is mined utilizing specialized computers (“miners”) configured for the purpose of validating transactions on bitcoin blockchains (referred to as “mining”). All of the miners incorporate application-specific integrated circuit (“ASIC”) chips specialized to solve blocks on the bitcoin blockchains using the 256-bit secure hashing algorithm (“SHA-256”) in return for bitcoin rewards.
+
+GRIID participates in “mining pools” organized by mining pool operators in which we share our mining power (known as “hash rate”) with the hash rate generated by other miners participating in the pool to earn bitcoin rewards. The mining pool operator provides a service that coordinates the computing power of the independent mining enterprises participating in the mining pool. Fees are paid to the mining pool operator to cover the costs of maintaining the pool. The pool uses software that coordinates the pool members’ mining power, identifies new block rewards, records how much hash rate each participant contributes to the pool, and assigns bitcoin rewards earned by the pool among its participants in proportion to the hash rate contributed to the pool in connection with solving a block. Monthly, we analytically compare our hash rate to the published global hash rate and fees to assure that the pro rata amount of bitcoin allocated to and received by us are reasonable.
+
+Revenues from bitcoin mining are impacted by volatility in bitcoin prices, as well as increases in the bitcoin blockchain’s network hash rate resulting from the growth in the overall quantity and quality of miners working to solve blocks on the bitcoin blockchain and the difficulty index associated with the secure hashing algorithm employed in solving the blocks.
+
+Key Factors Affecting Our Performance
+
+The following factors impact our revenue and operating income recognized from bitcoin mining:
+
+Market Price of Bitcoin
+
+Our business is heavily dependent on the spot price of bitcoin. Mined bitcoin revenue is determined based on the spot price at contract inception. The price of bitcoin has experienced substantial volatility, and high or low prices may have little or no relationship to identifiable market forces, may be subject to rapidly changing investor sentiment, and may be influenced by factors such as 
+
+21
+
+
+
+ 
+
+technology, regulatory void or changes, fraudulent actors, manipulation, and media reporting. Bitcoin may have value based on various factors, including its acceptance as a means of exchange by consumers and others, scarcity, and global market demand.
+
+Our financial performance and continued growth depend in large part on our ability to mine bitcoin efficiently and to sell bitcoin at favorable prices. Over time, we have observed a positive trend in the total market capitalization of bitcoin. However, historical trends are not indicative of future adoption, and it is possible that the adoption of bitcoin and blockchain technology may slow, take longer to develop, or never be broadly achieved, which would negatively impact our business and operating results.
+
+Electricity
+
+We currently have 68 MWs of existing available power capacity (48 MWs of which are at dedicated self- mining sites and 20MWs of which are subject to the Mining Services Agreement). We have developed strategic relationships with various energy providers for low-cost power and also have multiple LOIs and MOUs with energy providers which we anticipate will further scale our low-cost power pipeline. As of March 31, 2024, we derived approximately 67% of our energy from carbon-free sources.
+
+We believe that GRIID will benefit from one of the lowest electricity costs among its publicly traded bitcoin mining peers at scale. GRIID has structured and secured competitive equipment supply agreements with strong counterparties for its current and future bitcoin mining facility sites.
+
+Equipment
+
+GRIID runs a blend of predominantly MicroBT and Bitmain manufactured ASICs alongside a minority of units from alternative producers. 
+
+Hash Rate
+
+Miners perform computational operations in support of bitcoin blockchains measured in “hash rate” or “hashes per second.” A “hash” is the computation run by mining hardware in support of the bitcoin blockchain; therefore, a miner’s “hash rate” refers to the rate at which it is capable of solving such computations. The ASIC chips utilized in GRIID’s miners are the well-established standard in the bitcoin mining industry. These ASIC chips are designed specifically to maximize the rate of bitcoin hashing operations.
+
+Our business is not only impacted by the volatility in bitcoin prices, but also by increases in the bitcoin blockchain’s network hash rate resulting from the growth in the overall quantity and quality of miners working to solve blocks on the bitcoin blockchain and the difficulty index associated with the secure hashing algorithm employed in solving each block.
+
+In bitcoin mining, hash rate is a measure of the processing speed by a bitcoin miner. A participant in a blockchain network’s mining function has a hash rate total of its miners seeking to mine bitcoin and, system- wide, there is a total hash rate of all miners. However, as the relative market price for bitcoin increases, more users are incentivized to mine it, which increases the network’s overall hash rate. As a result, a mining participant must increase its total hash rate to maintain its relative possibility of solving a block on the bitcoin blockchain. Achieving greater hash rate power by deploying increasingly sophisticated miners in ever greater quantities has become one of the bitcoin mining industry’s great sources of competition. Our goal is to deploy a powerful and ever expanding and evolving fleet of miners, while operating as energy-efficiently as possible.
+
+Halving
+
+The reward for solving a block on the bitcoin blockchain is subject to periodic incremental halving. Halving is a process designed to control the overall supply and reduce the risk of inflation in bitcoin using a proof of work consensus algorithm. At a predetermined block, the mining reward is reduced by half, hence the term “halving.”
+
+For bitcoin, the reward was initially set at 50 bitcoin rewards per block. The bitcoin blockchain has undergone halving three times since its inception: first on November 28, 2012 at block 210,000; second on July 9, 2016 at block 420,000; and then on May 11, 2020 at block 630,000, when the reward was reduced to its current level of 6.25 bitcoin per block. It is anticipated that the reward will decrease by half to become 3.125 bitcoins per block in April 2024. This deliberately controlled rate of bitcoin creation means that the number of bitcoins in existence will never exceed 21 million and that bitcoin cannot be devalued through excessive production. This process will repeat until the total amount of bitcoin rewards issued reaches 21 million and the theoretical supply of new bitcoin is exhausted, which is expected to occur around 2140. Many factors influence the price of bitcoin and potential increases or decreases in prices in advance of or following a future halving are unknown.
+
+22
+
+
+
+ 
+
+The Merger and Public Company Costs
+
+On December 29, 2023, GRIID Infrastructure Inc., formerly known as “Adit EdTech Acquisition Corp.” (“Adit”) consummated the previously announced reverse recapitalization transaction contemplated by that certain Agreement and Plan of Merger, dated as of November 29, 2021 (the “Initial Merger Agreement”), as amended by the first amendment to the Initial Merger Agreement, dated December 23, 2021 (the “First Amendment”), the second amendment to the Initial Merger Agreement, dated October 17, 2022 (the “Second Amendment”), and the third amendment to the Initial Merger Agreement, dated February 8, 2023 (the “Third Amendment,” together with the Initial Merger Agreement as amended by the First Amendment, the Second Amendment and the Third Amendment, the “Merger Agreement”). Pursuant to the Merger Agreement, (i) ADEX Merger Sub, LLC, a Delaware limited liability company and a wholly owned subsidiary of Adit (“Merger Sub”), merged with and into Griid Holdco LLC, with Griid Holdco LLC as the surviving company in the merger and, after giving effect to such merger, continuing as a wholly owned subsidiary of the Company (the “Merger”) and (ii) the Company’s name was changed from Adit EdTech Acquisition Corp. to GRIID Infrastructure Inc. The Merger was accounted for as a reverse recapitalization and Adit was treated as the “acquired” company for financial reporting purposes. GRIID Infrastructure Inc. is deemed the predecessor and GRIID will be the successor SEC registrant, meaning that GRIID’s financial statements for periods prior to the consummation of the Merger will be disclosed in future periodic reports.
+
+GRIID recorded the net assets acquired from Adit.  In connection with the reverse recapitalization, GRIID incurred $21,140 of equity issuance costs, of which $6,107 as of April 28, 2024 have been paid, consisting of advisory, legal, share registration and other professional fees.  $2,225 of these fees represent underwriter fees incurred by Adit prior to the reverse recapitalization, related to their initial public offering.
+
+Following the consummation of the Merger, we are subject to the reporting requirements of the Securities Exchange Act of 1934, as amended (the "Exchange Act") and our common stock is listed on The Nasdaq Global Market and Cboe Canada, which we expect will require us to hire additional personnel and implement public company procedures and processes. We expect to incur additional annual expenses as a public company for internal controls compliance and public company reporting obligations, directors’ and officers’ liability insurance, director fees and additional internal and external accounting and legal and administrative resources, including increased audit and legal fees.
+
+GRIID’s Key Financial and Operational Metrics
+
+We monitor the following key financial and operating metrics to evaluate the growth of our business, measure our performance, identify trends affecting our business, formulate business plans and make strategic decisions. 
+
+Bitcoin Mining Results
+
+The following illustrates GRIID’s balances of bitcoin, GRIID’s consolidated balance sheet and the various ways the balances of bitcoin were impacted during the applicable periods. Significant components are discussed below.
+
+ 
+
+23
+
+
+
+ 
+
+                                                     Three months ended        Year ended     
+
+                                                       March 31,2024          December 31,
+
+                                                                                  2023
+
+Beginning balance                                  $                  142  $               51 
+
+Adoption of ASC 350-60                                                  3                   — 
+
+Cryptocurrencies received from mining                               3,220               9,137 
+
+Mining services revenue                                               255                 844 
+
+Mining pool operating fees                                             (7)                (13)
+
+Consideration paid related to operation agreement                       —                   — 
+
+Proceeds from sale of cryptocurrencies                             (3,009)             (9,943)
+
+Gain on fair value of bitcoin, net                                     62                   — 
+
+Realized gain on sale of cryptocurrencies and                         109                 351 
+
+   consideration paid
+
+Impairment of cryptocurrencies                                          —                (285)
+
+Ending balance                                     $                  775  $              142 
+
+                                                                                              
+
+Number of bitcoin held                                              11.13                3.44 
+
+Average cost basis - per bitcoin                                   67,759              41,537 
+
+Fair value - per bitcoin                                           69,689              42,288 
+
+Cost basis of bitcoin (in '000s)                                      754                 142 
+
+Fair value of bitcoin (in '000s)                                      775                 145 
+
+                                                                                              
+
+ 
+
+Revenue Recognized from Bitcoin Mined
+
+The number of bitcoins mined during the three months ended March 31, 2024 and 2023 were approximately 66 and 82, respectively. GRIID opened its first mining site (Tennessee) in October 2019, its second mining site (Tennessee) in November 2020, its third mining site (New York) in July 2021 and its fourth mining site (Tennessee) in April 2022.
+
+Mining Pool Operating Fees
+
+GRIID nets mining pool operating expenses against fees earned as a result of hash computation services under GRIID’s contracts with mining pool operators. Fees are paid to the mining pool operators to cover the costs of maintaining the pool.
+
+Utilization of Bitcoin
+
+When warranted, GRIID sells quantities of the bitcoin it has historically mined to pay operating expenses. GRIID also utilizes bitcoin to purchase new mining equipment, as well as to maintain, update and repair existing miners.
+
+Realized Gain on Sale/Exchange of Bitcoin
+
+During the three months ended March 31, 2024 and 2023, GRIID recognized $0.2 million and $0.1 million in gains on the sale of bitcoin, respectively. GRIID has benefited from the increase in the global adoption and acceptance of bitcoin, although bitcoin generally has experienced substantial price volatility. For the three months ended March 31, 2024, average spot prices increased by $29.5, compared to an average decrease of $18.6 for the three months ended March 31, 2023. The number of bitcoins mined by GRIID decreased from 83 for three months ended March 31, 2023 to 66 for the three months ended March 31, 2024. 
+
+Impairment of Bitcoin
+
+See discussion regarding the impairment of bitcoin in the subsection below.
+
+Energy Cost
+
+GRIID’s ability to control energy costs expended to mine bitcoin is essential to successful bitcoin mining operations. The electrical agreements entered into with power providers at GRIID’s mining locations contain minimum contracted power utilization amounts per month, for which our usage has not yet met the minimum billings. As a result, the rate per MWh used is higher than it will be once the related sites are fully operational. We anticipate the rate per MWh will decrease as usage at the new facilities increases once additional miners on order and anticipated to be ordered are deployed. GRIID sites located in the Tennessee Valley 
+
+24
+
+
+
+ 
+
+Authority service area saw an increase in fuel cost adjustment charges in 2022 due to a global shift in supply and demand on fuel and purchased power, which remained elevated in 2023 and to-date in 2024.
+
+Hash Rate
+
+GRIID’s hash rate contributed to a given pool represents the hash rate of our miners as a proportion of the total Bitcoin network hash rate, which drives the number of bitcoin rewards that will be earned by our miner fleet. We calculate and report our hash rate in exahash per second (“EH/s”). One exahash equals one quintillion hashes per second.
+
+We measure the hash rate produced by our mining fleet through our management software, which captures the reported hash rate from each miner.
+
+Components of Results of Operations
+
+The following describes the components of revenue and expenses that are reflected in our consolidated statements of operations:
+
+Cryptocurrency Mining Revenue
+
+GRIID performs hash computation services under GRIID’s contracts with mining pool operators. For each contract, GRIID measures the noncash consideration using the beginning of the day bitcoin spot price on the date of contract inception. GRIID recognizes this noncash consideration on the same day that control of the contracted service transfers to the mining pool operator, which is the same day as contract inception.
+
+Cost of Revenues
+
+Cost of revenues consists of direct costs of earning bitcoin related to mining operations, including power costs and other utilities, but excluding depreciation and amortization, which are separately stated in GRIID’s consolidated statements of operations.
+
+Operating expenses
+
+Operating expenses consist of depreciation and amortization, compensation and related taxes, professional and consulting fees, and general and administrative expenses incurred during the periods presented.
+
+Impairment of Cryptocurrency
+
+In 2023, GRIID recorded impairment on its bitcoin holdings when it was determined an impairment exists. At that time, the amount of the impairment was determined as the amount by which the carrying amount exceeds its fair value, which is measured using the quoted price of the cryptocurrency at the time its fair value is being measured. When an impairment loss is recognized, the loss establishes the new cost basis of the asset. Subsequent reversal of impairment losses was not permitted. For each day for which there was a decline in the lowest of day spot rate, GRIID recorded an impairment loss for any holding for which the carrying value was greater than the lowest of day spot rate.
+
+On Jauary 1, 2024, the Company adopted ASC 350-60, which requires entities with certain crypto assets to subsequently measure such assets at fair value, with changes in fair value recorded in net income in each reporting period.  No impairment analysis is to be performed with the adoption of the standard, and therefore, no impairment was recorded.
+
+Mining and Other Related Equipment
+
+Whenever events or changes in circumstances dictate, or, occasionally, on a quarterly basis, GRIID tests its miners and other related equipment for impairment. Miners and the equipment associated with the miners are considered fully impaired if they are no longer usable or no longer contributing to GRIID’s hash rate.
+
+Gain (Loss) on Disposal of Property and Equipment
+
+Gain (loss) on the disposal of property and equipment relates mainly to bitcoin miners replaced with newer technology miners. Once a miner is taken out of service, any remaining book value is written off and a corresponding loss is recorded.
+
+25
+
+
+
+ 
+
+Realized Gain (Loss) on Sales of Cryptocurrencies
+
+Realized gain (loss) on sale of cryptocurrencies represents the difference between the carrying value and the spot-rate value as of the time of sale.
+
+Interest Expense, Net of Interest Income
+
+Interest expense includes interest paid or capitalized on GRIID’s notes payable as well as related debt discount amortization.  GRIID also includes the difference between the warrants and debt issued within the interest expense line.  A minimum amount of interest income associated with a related party note receivable was recorded, which was paid in full with the Merger agreement.
+
+Results of Operations  
+
+ 
+
+                                                                                               March 31, 2024      March 31, 2023   
+
+Revenue                                                                                                                             
+
+Cryptocurrency mining revenue net of mining pool operator fees                               $            3,220  $            1,614 
+
+Mining services revenue                                                                                   2,601               2,781 
+
+Other revenue                                                                                                 —                  63 
+
+Total revenue, net                                                                                        5,821               4,458 
+
+Operating expenses                                                                                                                  
+
+Cost of revenues (excluding depreciation and amortization)                                                3,488               3,340 
+
+Depreciation and amortization                                                                             1,094               1,571 
+
+Compensation and related taxes                                                                            2,249               1,999 
+
+Professional and consulting fees                                                                          1,911               1,155 
+
+General and administrative                                                                                1,301                 654 
+
+Impairment of property and equipment                                                                          —                (375)
+
+Gain on extinguishment - non-debt related                                                                     —                  48 
+
+Gain on fair value of bitcoin, net                                                                         (109)                  — 
+
+Realized gain on sale of cryptocurrencies                                                                   (62)               (119)
+
+Total operating expenses                                                                                  9,872               8,273 
+
+Gain on disposal of property and equipment                                                                    —               1,198 
+
+Loss from operations                                                                                     (4,051)             (2,617)
+
+Other income (expense)                                                                                                              
+
+Change in fair value of warrant liability and warrant derivative                                          3,367              (1,790)
+
+Interest expense, net                                                                                    (6,955)             (6,594)
+
+Total other expense                                                                          $           (3,588) $           (8,384)
+
+Loss before income taxes                                                                                 (7,639)            (11,001)
+
+Income tax expense (benefit)                                                                             (1,161)                230 
+
+Net loss                                                                                     $           (6,478) $          (11,231)
+
+ 
+
+Statistical Results Impacting Revenue and Expense
+
+The following table presents some of the key statistical drivers of GRIID’s revenue and expense for the three months ended March 31, 2024 and 2023, for which fluctuations and trends are discussed below:
+
+ 
+
+                                                                                                 2024                   2023         
+
+Bitcoin Mined                                                                                              66                     83 
+
+Average Spot Rate of bitcoin Mined                                                                     52,263                 22,739 
+
+Average Number of Employees                                                                                47                     59 
+
+ 
+
+Revenue
+
+Cryptocurrency Mining Revenue
+
+Bitcoin mining revenue for the three months ended March 31, 2024 and 2023 was $5.8 million and $4.5 million, respectively for an increase of 31%. The increase in bitcoin mining revenue was due to higher spot rates of bitcoin offset by lower amounts of bitcoin mined throughout the quarter, which was attributable to higher global hash rates. Revenue from bitcoin mining is impacted significantly by volatility in bitcoin prices, as well as increase in the bitcoin blockchain’s network hash rate resulting from the growth 
+
+26
+
+
+
+ 
+
+in the overall quality and quantity of miners working to solve blocks on the bitcoin blockchain along with the difficulty index associated with the secure hashing algorithm employed in solving the blocks. 
+
+GRIID regularly monitors a number of factors, including but not limited to, bitcoin spot value, bitcoin network hash rate, bitcoin network difficulty, bitcoin block times, bitcoin block reward, average fees per bitcoin block, average revenue per tera hash per second per day (USD$/T/day), power costs, and mining machine efficiency in deciding the extent to which to utilize a particular machine or consume power at a particular site.
+
+GRIID earns 5% of the generated cryptocurrency revenue that is earned under the Mining Services Agreement. GRIID records revenue related to the 5% revenue share of the generated cryptocurrency, and expense from the arrangement on a gross basis, as GRIID represents the principal in relation to the contract. GRIID invoices Blockchain Access monthly for the electricity charges associated with the Mining Services related to the Blockchain Access Mining Equipment as well as the operating expense charges. Blockchain Access pays the electricity charges directly to the utility provider. Revenue for the three months ended March 31, 2024 and 2023 was $2.7 million ($0.2 million for mining services and $2.5 million for reimbursement) and $0.2 million ($0.2 million for mining services and $0.0 million for reimbursement), respectively. 
+
+GRIID could earn monthly curtailment revenue under its development and operation agreement with HDP during months in which HDP curtails the supply of electricity to mines and sells the electricity to the market. The curtailment revenue represents compensation for forgone mining revenue. A management fee is also recognized in connection with this agreement.GRIID records the revenue and expenses related to this agreement on a gross basis. The management fee is recognized as mining services revenue, whereas curtailment revenue and revenue share amounts are recognized as other revenue. All amounts due to each party, are accrued for and paid out the next month. No revenue was recorded for the three months ended March 31, 2024 and 2023, respectfully.
+
+Operating Expenses
+
+Cost of Revenues
+
+Cost of revenues consists primarily of direct costs of earning bitcoin related to mining operations, including electric power costs and other utilities, but excluding depreciation and amortization. Cost of revenues increased to $3.5 million for the three months ended March 31, 2024 from $3.3 million for year ended March 31, 2023.  The increase in cost of revenues is primarily attributable to the additional utility power costs as well as a new warehouse location. There was an increase in fuel cost adjustment (“FCA”) charges applied to GRIID’s sites in the Tennessee Valley Authority service area.  FCA charges represent additional electrical energy costs that utility providers source from outside of their own generation resources and subsequently pass this cost on to customers. Due to a global shift in supply and demand on fuel and purchased power costs, FCA rates increased and remained elevated in 2023 and 2024.
+
+The location supporting the Mining Services Agreement had $2.3 million and $0.0 million of reimbursable electricity expenses, which are reported as cost of sales for the three months ended March 31, 2024 and 2023, respectively. 
+
+Depreciation and Amortization
+
+Depreciation and amortization for the three months ended March 31, 2024 and 2023 was approximately $1.1 million and $1.6 million, respectively. The decrease in depreciation and amortization is primarily related to the lower amount of miners and other equipment as well as some of the larger miner purchases from prior years became fully depreciated.
+
+Compensation and Related Taxes
+
+Compensation and related taxes include cash compensation, related payroll taxes and benefits, and unit- based compensation. Compensation and related taxes for the three months ended March 31, 2024 increased to $2.2 million from $2.0 million for the three months ended March 31, 2023, a decrease of $0.2 million. The decrease in compensation and related taxes for both periods is primarily due to a decrease in the number of employees. The location supporting the Mining Services Agreement had $0.8 and $0.1 million of related expenses for March 31, 2024 and 2023, respectively, which are reported as compensation and related taxes.
+
+Professional and Consulting Fees
+
+Professional and consulting fees include accounting, tax, legal and consulting fees. Professional fees increased to $1.9 million for the three months ended March 31, 2024 from $1.2 million for the three months ended March 31, 2023. The increase is primarily related to legal and professional fees associated with the Merger, including related preparedness expenses. 
+
+27
+
+
+
+ 
+
+General and Administrative
+
+General and administrative expenses consist of site expenses, insurance, travel, entertainment and other operating related expenses. General and administrative expenses for the three months ended March 31, 2024 increased to $1.3 million from $0.7 million as of March 31, 2023. The primary drivers of the increase in general and administrative expenses related to increased expenses from insurance, job supplies, software subscriptions and travel to job sites.  The location supporting the Mining Services Agreement had $0.8 and $0.8 million as of March 31, 2024 and 2023, respectively, of reimbursable compensation and related expenses, which are reported as general and administrative expenses.
+
+Impairment of Cryptocurrencies
+
+In 2023, GRIID recorded impairment on its bitcoin holdings when it was determined an impairment exists. At that time, the amount of the impairment was determined as the amount by which the carrying amount exceeded its fair value, which is measured using the quoted price of the cryptocurrency at the time its fair value is being measured. When an impairment loss was recognized, the loss established the new cost basis of the asset. Subsequent reversal of impairment losses were not permitted. For each day for which there was a decline in the lowest of day spot rate, GRIID recorded an impairment loss for any holding for which the carrying value was greater than the lowest of day spot rate.
+
+On Jauary 1, 2024, the Company adopted ASC 350-60, which requires entities with certain crypto assets to subsequently measure such assets at fair value, with changes in fair value recorded in net income in each reporting period.  No impairment analysis was performed with the adoption of the standard, and therefore, no impairment was recorded.
+
+ 
+
+Gain on Fair Value of Bitcoin
+
+Due to the adoption of ASC 350-60, the Company records the changes in fair value on a monthly basis.
+
+Mining and Other Related Equipment
+
+Whenever events or changes in circumstances dictate, or, minimally, on a quarterly basis, GRIID tests its miners and other related equipment for impairment. Miners and the equipment associated with the miners are considered fully impaired if they are no longer usable or no longer contributing to GRIID’s hash rate. For the three months ended March 31, 2024 and 2023, GRIID recorded impairment associated with its mining and other related equipment of $0.0 million, respectively. The undiscounted cash flows used in the recoverability test were less than the carrying amount of the long-lived asset group, and GRIID was required to determine the fair value of the long-lived asset group. The final impairment test using fair value resulted in no impairment of the asset group, as the carrying amount of the long-lived asset group does not exceed its fair value.
+
+Realized Gain on Sale of Cryptocurrencies
+
+During the three months ended March 31, 2024 and 2023, GRIID recognized $0.2 million and $0.1 million in gains on the sale of bitcoin, respectively. GRIID has benefited from the increase in the global adoption and acceptance of bitcoin, although bitcoin generally has experienced substantial price volatility. For the three months ended March 31, 2024, spot prices increased by $0.3 million, and for the three months ended March 31, 2023 decreased by $0.2 million. The number of bitcoins mined by GRIID decreased from 66 for the three months ended March 31, 2024 to 83 bitcoin for the three months ended March 31, 2023.
+
+Gain on Disposal of Property and Equipment
+
+GRIID had a $0.0 million gain on disposal of property and equipment during the three months ended March 31, 2024, compared to a gain on disposal of property and equipment of $1.2 million during the three months ended March 31, 2023.
+
+Change in Fair Value of Warrant Liability
+
+GRIID’s recorded a gain on change in fair value of warrant liability of $3.4 million during the three months ended March 31, 2024, compared to a loss of $1.8 million from the same period in 2023. The change is due to the change in fair value changes of issued warrants throughout the year as well as the effects of the reverse merger agreement.
+
+The fair value of the warrant liability issuance as of December 31, 2023 as well as March 31, 2024 were determined via the fair value assessment method and included multiplying the related fixed percent of total equity value by the estimated number of shares upon immediate close of the transaction and multiplied the quoted market price of Adit (before merger) and GRIID (after merger). The observable input of quoted prices for Adit and GRIID are as follows:
+
+28
+
+
+
+ 
+
+ 
+
+Date                                                          Adit                 
+
+                                                           Share Price
+
+December 31, 2023                              $                              5.38 
+
+March 31, 2024                                 $                              1.32 
+
+ 
+
+Interest Expense
+
+GRIID’s interest expense increased to $7.0 million during the three months ended March 31, 2024 from $6.6 million during the same period in 2023 as a result of an increased borrowing base as well as the issuance of warrants. See “Cash and Cash Flows” below.
+
+Income Tax Benefit
+
+GRIID recorded an income tax benefit in the amount of $1.2 million during the three months ended March 31, 2024, compared to an expense of $0.2 million during the same period in 2023.
+
+Non-GAAP Financial Measures
+
+In addition to results determined in accordance with GAAP, GRIID believes Adjusted EBITDA is a useful non-GAAP measure in evaluating its operational performance. GRIID believes that non-GAAP financial information, when taken collectively with GAAP financial information, may be helpful to investors in assessing GRIID’s operating performance. These results should be considered in addition to, but not as a substitute for, results reported in accordance with GAAP. Our non-GAAP financial measures are not meant to be considered in isolation and should be read only in conjunction with our consolidated financial statements, which have been prepared in accordance with GAAP.
+
+Adjusted EBITDA
+
+Adjusted EBITDA is a non-GAAP financial measure defined as our net income (loss), adjusted to eliminate the effect of (i) interest income, interest expense, net; (ii) provision for income taxes; (iii) depreciation and amortization; and (iv) gain on disposal of property and equipment; (v) gain on fair value of bitcoin, net; (vi) change in fair value of warrant liability and warrant derivative. We believe Adjusted EBITDA is an important measure because it allows management, investors, and our board of directors to analyze and evaluate our operating results, including our return on capital and operating efficiencies, from period-to-period. In addition, Adjusted EBITDA provides useful information to investors and potential investors to enable them to understand and evaluate our results of operations, as well as to provide a useful measure for period-to-period comparisons of our business, as it removes the effect of net interest income (expense), certain non-cash items, variable charges, and timing differences. At the closing of the merger on December 29, 2023, the limited liability company was converted into a C-corporation Moreover, we have included Adjusted EBITDA in this Quarterly Report because it represents a key measurement used by our management internally to make operating decisions, evaluate performance, and perform strategic and financial planning.
+
+Investors and potential investors should be aware that when evaluating Adjusted EBITDA, we may incur future expenses similar to those excluded when calculating this measure. Our presentation of this measure should not be construed as an inference that our future results will be unaffected by unusual or non-recurring items. Further, this non-GAAP financial measure should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with GAAP.
+
+We compensate for these limitations by relying primarily on GAAP results and using Adjusted EBITDA on a supplemental basis. Our computation of Adjusted EBITDA may not be comparable to other similarly titled measures computed by other companies because not all companies calculate this measure in the same fashion. Investors and potential investors should review the reconciliation of net income (loss) to Adjusted EBITDA (as presented below) and not rely on any single financial measure to evaluate our business.
+
+29
+
+
+
+ 
+
+The following table presents a reconciliation of net income (loss) to Adjusted EBITDA for the three months ended March 31, 2024 and 2023.
+
+ 
+
+All numbers in thousands                          Three Months Ended       Three Months Ended   
+
+                                                    March 31, 2024           March 31, 2023
+
+Net loss                                        $               (6,478) $             (11,231)
+
+Adjustments:                                                                                    
+
+Interest expense, net                                            6,955                  6,594 
+
+Income tax expense (benefit)                                    (1,161)                   230 
+
+Depreciation and amortization                                    1,094                  1,571 
+
+Gain on disposal of property and equipment                           —                 (1,198)
+
+Gain on fair value of bitcoin, net                                (109)                     — 
+
+Change in fair value of warrant liability and                   (3,367)                 1,790 
+
+   warrant derivative
+
+Adjusted EBITDA                                 $               (3,066) $              (2,244)
+
+ 
+
+Our non-GAAP financial measures are not meant to be considered in isolation and should be read only in conjunction with our consolidated financial statements, which have been prepared in accordance with GAAP and are included elsewhere in this Quarterly Report.
+
+GRIID’s Adjusted EBITDA increased to $(3.1) million in the three months ended March 31, 2024 from $(2.2) million in the same period in 2023. Adjusted EBITDA adjustments for the months ended March 31, 2024 and 2023 are primarily non-cash in nature consisting of interest expense, depreciation and amortization, gains on disposal of property and equipment, impairment of mining equipment and cryptocurrency, extinguishment of debt, loss on contingency, gain on non-debt extinguishment and the change in the fair value of the warrant liability.
+
+Critical Accounting Policies and Estimates
+
+GRIID believes the following accounting policies are most critical in understanding and evaluating this management discussion and analysis:
+
+Accounting for Bitcoin
+
+Bitcoin is included in current assets in the accompanying consolidated balance sheets. Bitcoin holdings are classified as indefinite-lived intangible assets in accordance with Accounting Standards Codification No. 350, Intangibles—Goodwill and Other. An intangible asset with an indefinite useful life is not amortized but measured using the quoted price of the bitcoin as of the measurement date. As of March 31, 2024, GRIID’s digital assets consisted of approximately 11.13 bitcoins compared to 1.55 bitcoins as of March 31, 2023. The average spot rate for bitcoin was $52,263 and $22,739 as of March 31, 2024 and December 31, 2023, respectively.
+
+In 2023, bitcoin assets were tested for impairment daily or when events or changes in circumstances occurred indicating that it was more likely than not that the indefinite-lived asset is impaired. Events or circumstances that would trigger an impairment assessment other than annually include but are not limited to material changes in the regulatory environment, potential technological changes in digital currencies, and prolonged or material changes in the price of bitcoin below the carrying cost of the asset. Upon determining if an impairment exists, the amount of the impairment was determined as the amount by which the carrying amount exceeds its fair value, which is measured using the quoted price of the bitcoin as of the measurement date. In testing for impairment, GRIID performed quantitative impairment test to determine if an impairment exists. To the extent an impairment loss was recognized, the loss establishes the new cost basis of the asset. 
+
+Revenue associated with bitcoin awarded to us through our mining activities is accounted for in accordance with our revenue recognition policy as detailed in the footnotes to GRIID’s financial statements and is included as a non-cash item within operating activities in the accompanying consolidated statements of cash flows. GRIID accounts for sales of bitcoin using the first in, first out (“FIFO”) method of accounting. Realized gains and losses from the sale of bitcoin in an exchange for cash are recorded in other income (expense) in the accompanying consolidated statements of operations.
+
+30
+
+
+
+ 
+
+Liquidity and Capital Resources
+
+As of March 31, 2024, GRIID had cash of $0.8 million and cryptocurrency holdings of $0.8 million, which are available to fund future operations.
+
+GRIID Infrastructure LLC and certain GRIID subsidiaries (collectively, the “Borrowers”) entered into the credit agreement with Blockchain Access, as agent and lender. The credit agreement amended and restated the prior credit agreement in its entirety. In connection with the entry into the credit agreement, Blockchain Access waived any potential defaults under the prior credit agreement.
+
+The credit agreement is qualified in its entirety by reference to the full text of the credit agreement, which is filed as Exhibit 10.8.1 to our Annual Report on Form 10-K for the year ended December 31, 2023 and is incorporated herein by reference.
+
+General. The credit agreement provides for a restructured senior secured term loan (the “loan”) in the amount of $57.4 million, which represents the outstanding obligations under the prior credit agreement after giving effect to the credit agreement. Blockchain Access does not have any commitment to extend additional credit to GRIID under the credit agreement.
+
+Maturity. The maturity date of the loan is September 23, 2025.
+
+Supplemental Warrant. In connection with the credit agreement, GRIID issued to Blockchain, an affiliate of Blockchain Access, the Blockchain warrant, exercisable for 1,377,778 Class B Units of GRIID, which number of Class B units was adjusted immediately prior to Closing of the Merger such that the number of Class B Units, when exchanged for Merger consideration, equals 10% of the issued and outstanding common stock of GRIID immediately following the closing of the Merger. The Blockchain warrant replaces all prior warrants issued by GRIID or its affiliates to Blockchain or its affiliates.  These related warrants were converted to shares upon the completion of the Merger.
+
+Use of Proceeds. The proceeds of the loan represented a refinancing of the existing indebtedness under the prior credit agreement. No additional funds were advanced by Blockchain Access in connection with the credit agreement.
+
+Guarantees. The obligations of the Borrowers under the credit agreement are guaranteed by each of the other Borrowers, and are secured by first priority liens on and security interests in substantially all of the assets of the Borrowers.
+
+Interest. The loan bears interest at a rate equal to 10% per annum. Upon an event of default, the interest rate would increase by 2.00%.
+
+Voluntary Prepayments. The Borrowers are able to voluntarily repay the outstanding loan.
+
+Mandatory Prepayments. The Borrowers are required to repay the outstanding loan in an amount equal to 25% of the net proceeds of certain issuances of equity in excess of $25.0 million. In addition, if the Borrowers sell, transfer or otherwise dispose of certain assets in a manner not permitted under the credit agreement or suffer an event of loss, as such term is defined in the credit agreement, the Borrowers must apply the net proceeds thereof to prepay outstanding loans, subject to certain reinvestment rights set forth in the credit agreement.
+
+Covenants/Events of Default. The credit agreement includes certain affirmative and negative covenants (in each case subject to baskets and exceptions set forth in the credit agreement), including, among other things: (i) requirements to deliver financial statements, other reports and notices; (ii) restrictions on the existence or incurrence and repayment of indebtedness by the Borrowers; (iii) restrictions on the existence or incurrence of liens by the Borrowers; (iv) restrictions on the Borrowers making certain restricted payments; (v) restrictions on the Borrowers making certain investments; (vi) restrictions on certain mergers, consolidations and asset dispositions; and (vii) restrictions on transactions with affiliates. Subject to customary grace periods and notice requirements, the credit agreement also contains certain customary events of default, including: (i) failure to make required payments; (ii) material inaccuracy of representations and warranties; (iii) failure to comply with certain agreements or covenants; (iv) defaults under certain other indebtedness or material agreements; (v) certain events of bankruptcy and insolvency; (vi) existence of outstanding material judgments; (vii) failure to create or maintain validly perfected first priority liens in a material portion of collateral; and (viii) invalidity of the loan documents.
+
+Throughout 2022 and 2023, the Company completed private placements (the “bridge financings”) with certain accredited investors pursuant to which the Company issued promissory notes in the aggregate principal face amount of $19,868 (the “promissory notes”) and a recognition of warrant liability of $18,135. The promissory notes have an interest rate of 15.0% per annum and effective interest rate of 22.5%. Subject to mandatory or optional repayment of the promissory notes, the outstanding principal amount of the promissory notes, together with all accrued and unpaid interest thereon, is due after one year of commencement (the “maturity date”). In the event that New GRIID issues shares of its common stock to GEM Yield Bahamas Limited (“GYBL”) pursuant to that certain 
+
+31
+
+
+
+ 
+
+share purchase agreement (the “GEM Agreement”), dated as of September 9, 2022, among GRIID Holdco LLC, Adit, GEM Global Yield LLC SCS (“GYBL”), and GEM Yield Bahamas Limited (the "Purchaser"), any proceeds the Company receives under the GEM Agreement must be used to repay $4.9 million in 2024 and $20.1 million in 2025.
+
+Warrant Proceeds. As of May 15, 2024, we had 13,800,000 outstanding Public Warrants to purchase 13,800,000 shares of our common stock, exercisable at an exercise price of $11.50 per share, (ii) 7,270,000 outstanding Private Placement Warrants to purchase 7,270,000 shares of our common stock, exercisable at an exercise price of $11.50 per share and (iii) a GEM Warrant to purchase 1,733,726 shares of our common stock, exercisable at an exercise price of $4.84 per share.
+
+We could receive up to an aggregate of $250.7 million if all of the Warrants registered hereunder are exercised for cash. The exercise of the Warrants, and any proceeds we may receive from their exercise, are highly dependent on the price of our common stock and the spread between the exercise price of the Warrant and the price of our common stock at the time of exercise. For example, to the extent that the price of our common stock exceeds $11.50 per share, it is more likely that holders of our Public Warrants and Private Placement Warrants will exercise their warrants. If the price of our common stock is less than $11.50 per share, it is unlikely that such holders will exercise their warrants. As of May 14, 2024, the closing price of our common stock was $0.745 on the Nasdaq Global Market and $1.00 on Cboe Canada per share, respectively. There can be no assurance that all of our Warrants will be in the money prior to their expiration. As such, it is possible that we may never generate any cash proceeds from the exercise of our Warrants. Accordingly, as of the date of this prospectus, we have neither included nor intend to include any potential cash proceeds from the exercise of our Warrants in our short-term or long-term liquidity projections. We will continue to evaluate the probability of warrant exercise over the life of our Warrants and the merit of including potential cash proceeds from the exercise thereof in our liquidity projections. Our future capital requirements and the adequacy of available funds will depend on many factors, including those set forth under "Forward-Looking Statements" below and Part I, Item 1A "Risk Factors" of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023.
+
+To the extent such warrants are exercised, additional shares of our common stock will be issued, which will result in dilution to the holders of our common stock and increase the number of shares eligible for resale in the public market. Sales of substantial numbers of such shares in the public market could adversely affect the market price of our common stock, which will increase the likelihood that our Warrants will not be in the money prior to their expiration.
+
+Sources of Liquidity
+
+To date, we have financed our operations primarily through issuance of dollar and bitcoin-denominated debt and sales of mined bitcoin. We continue to have access to several sources of liquidity to supplement cash flow from operations including private debt and equity capital markets, secured borrowing (subject to the satisfaction of certain conditions precedent), equipment financing and bitcoin-based financing. In the near term, we expect to continue to increase investing activities as we build out and expand our facilities and purchase additional miners. 
+
+In order to better manage working capital and liquidity needs post-Merger, on September 9, 2022, Adit, GRIID, GEM Global and GYBL entered into the GEM Agreement, which we expect will allow us to fund Merger expenses, general corporate purposes and working capital needs. Pursuant to the GEM Agreement, we may issue and sell to GEM Global, and GEM Global may purchase from us, until December 29, 2026, up to the number of shares of our common stock having an aggregate value of $200,000,000 pursuant to Draw Down (as defined in the GEM Agreement) notices, which we may deliver to GEM Global in our sole discretion. Upon the valid exercise of a Draw Down, pursuant to delivery of a notice and in accordance with other conditions, GEM Global will be required to pay, in cash, a per-share amount equal to 92% of the average closing bid price of the shares of our common stock as reported on the principal market on which shares of our common stock are traded during the 30 consecutive trading days commencing on the first trading day that is designated on the Draw Down notice. In no event may the Draw Down amount (other than the Committed Draw Down Amount (as defined in the GEM Agreement)) specified in a Draw Down notice exceed 400% of the average daily trading volume of our common stock for the 30 trading days immediately preceding the date of such Draw Down notice. To date we have drawn down $5,708 under the GEM Agreement and issued a total of 3,626,685 shares of our common stock to GEM Global. There can be no guarantee that we will have access to the full amount available to us under the GEM Agreement, or that if we do have access, we will elect to Draw Down the full amount available to us under the GEM Agreement.  
+
+Additionally, the Private Placement Warrants and the Public Warrants have an exercise price of $11.50 per share, and the GEM Warrant has an exercise price of $4.84 per share. The cash proceeds associated with the exercises of the Warrants are dependent on the stock price inasmuch as the holders are unlikely to exercise their warrants if the exercise price thereof is less than the market price of our common stock at the time of exercise. In that circumstance, such holder may be less likely to exercise their Warrants as such holder would be selling at a loss if they exercised their Warrants and sold their common stock. Accordingly, we have not included the net proceeds from any exercise of the Warrants in our assessment of our liquidity and our ability to fund operations on a prospective basis. Our future capital requirements and the adequacy of available funds will depend on many factors, including those set forth 
+
+32
+
+
+
+ 
+
+under "Part I, Item 1A Risk Factors” elsewhere in this Quarterly Report. If the trading price for our common stock is less than $11.50 per share, holders of the public Warrants and Private Placement Warrants may be unlikely to exercise such warrants, and if the trading price for our common stock is less than $4.84 per share, the holder of the GEM Warrant may be unlikely to exercise such warrant. To the extent that the Warrants are exercised on a “cashless basis,” the amount of cash we would receive from the exercise of the Warrants will decrease.
+
+Funding Our Operations
+
+We expect to continue to generate revenues from the mining of bitcoin. The funding of our operations on a go-forward basis will depend significantly on our ability to continue to mine bitcoin and on the spot price of the bitcoin we mine. We expect to continue to periodically liquidate bitcoin holdings to generate cash for operating and investing activities. Generating bitcoin mining revenues that exceed our utility and overhead costs will determine our ability to report profit margins related to such mining operations, although accounting for our reported profitability is significantly complex.
+
+We issued draw down notices under the GEM Agreement in 2024 and received an aggregate of $5,708 in net proceeds from the sale of an aggregate of 3,626,682 shares of common stock to GEM Global.  We expect to continue to issue additional new draw down notices in the near future. We do not currently anticipate funding our operations from sources other than revenues from liquidating bitcoin and proceeds from draw down under the GEM Agreement.
+
+The ability to raise funds through equity, debt or sale of bitcoin to maintain our operations is subject to many risks and uncertainties and, even if we were successful, future equity issuances would result in dilution to our existing stockholders and any future debt or debt securities may contain covenants that may limit our operations or ability to enter into certain transactions. Our ability to realize revenue through bitcoin mining and to successfully convert bitcoin into cash to fund operations is subject to several uncertainties, including regulatory, financial and business risks, many of which are beyond our control. Additionally, we have observed significant historical volatility in the spot price of bitcoin and, as such, future prices cannot be predicted. If we are unable to generate sufficient revenue from our bitcoin mining or, when needed, to secure additional sources of funding, it may be necessary to significantly reduce our current rate of spending or explore other strategic alternatives. As a result, we believe that there is substantial doubt about GRIID’s ability to remain a going concern absent (a) a significant capital raising event, (b) a significant increase in the value of bitcoin and/or (c) a significant reduction of our operating expenses. 
+
+Cash and Cash Flows for the Three Months Ended March 31, 2024 and 2023
+
+The following table presents cash and cash provided by (used in) operating, investing, and financing activities during the three months ended March 31, 2024 and 2023:
+
+ 
+
+                                                  Three Months Ended     Three Months Ended 31,   
+
+All numbers in thousands                            March 31, 2024           March 31, 2023       
+
+Beginning balance of cash                        $               3,174  $                    969 
+
+Net cash used in operating activities                           (9,159)                   (5,634)
+
+Net cash provided by investing activities                        2,645                     3,507 
+
+Net cash provided by financing activities                        4,417                     3,375 
+
+Ending balance of cash                           $               1,077  $                  2,217 
+
+ 
+
+Operating Activities
+
+Net cash used in operating activities of $9.2 million during the three months ended March 31, 2024 was driven primarily by net loss of $6.5 million adjusted for the net effect of non-cash items consisting primarily of cryptocurrency mining of $3.5 million, loss on change in fair value of warrant liability of $3.4 million, partially offset by non-cash interest expense of $7.0 million, and depreciation and amortization of $1.1 million. The decrease in cash from working capital was driven primarily by decreased accounts payable of $1.5 million, deferred tax liability of $1.2 million, increase in prepaid expenses of $1.2 million offset by an increase in accrued expenses and other of $0.2 million.
+
+Net cash used in operating activities of $5.6 million during the three months ended March 31, 2023 was driven primarily by net loss of $11.2 million adjusted for the net effect of non-cash items consisting primarily of cryptocurrency mining of $1.9 million, gain on extinguishment of lease of $0.4 million, partially offset by gain on change in fair value of warrant liability of $1.8 million, non-cash interest expense of $6.6 million, and depreciation and amortization of $1.6 million. 
+
+33
+
+
+
+ 
+
+Investing Activities
+
+Net cash provided by investing activities during the three months ended March 31, 2024 was $2.6 million, primarily consisting of proceeds from sale of cryptocurrencies of $3.0 million as well as purchases of property and equipment of $0.4 million.
+
+Net cash provided by investing activities during the three months ended March 31, 2023 was $3.5 million, primarily consisting of proceeds from disposal of property and equipment of $1.6 million, offset by proceeds from sale of cryptocurrencies of $2.0 million.
+
+Financing Activities
+
+Net cash provided by financing activities was $4.4 million during the three months ended March 31, 2024 primarily related to proceeds from the issuance of equity of $4.6 million offset by the repayment of notes payable of $0.2 million.
+
+Net cash provided by financing activities was $3.4 million during the three months ended March 31, 2023 primarily related to proceeds from the issuance of debt.
+
+Operating and Capital Expenditure Requirements
+
+Our future capital requirements will depend on many factors including our revenue growth rate, the timing and extent of spending to support further sales and marketing and research and development efforts, the timing and extent of additional capital expenditures to invest in the expansion of existing facilities as well as new facilities. We may in the future enter into arrangements to acquire or invest in complementary businesses, services and technologies, including intellectual property rights. We may be required to seek additional equity or debt financing. If additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, results of operations and financial condition would be materially and adversely affected.
+
+Emerging Growth Company Status
+
+GRIID qualifies as an “emerging growth company” under the JOBS Act. As a result, we are permitted to, and intend to, rely on exemptions from certain disclosure requirements. For so long as GRIID is an emerging growth company, we will not be required to:
+
+•comply with any requirement that may be adopted by the Public Company Accounting Oversight Board regarding mandatory audit firm rotation or a supplement to the auditor’s report providing additional information about the audit and the financial statements (i.e., an auditor discussion and analysis);
+
+•have an auditor report on our internal control over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act;
+
+•submit certain executive compensation matters to shareholder advisory votes, such as “say-on-pay,” “say-on-frequency” and pay ratio; and
+
+•disclose certain executive compensation-related items such as the correlation between executive compensation and performance and comparisons of the CEO’s compensation to median employee compensation.
+
+In addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. As a result, GRIID may adopt new or revised accounting standards by the date private companies are required to comply.
+
+GRIID will continue to be an emerging growth company for five fiscal years following the closing of Adit’s initial public offering, or until such earlier time as its total annual gross revenues exceed $1.235 billion, GRIID issues more than $1 billion in debt in a three-year period or it becomes a large accelerated filer, as defined in the Exchange Act Rule 12b-2. Large accelerated filers have several criteria to meet, with a significant criterion of having aggregate worldwide common equity held by non-affiliates of greater than $700 million.
+
+34
+
+
+
+ 
+
+GRIID is also a “smaller reporting company,” meaning that the market value of GRIID’s stock held by non-affiliates is less than $700.0 million and GRIID’s annual revenue is less than $100.0 million during the most recently completed fiscal year. GRIID may continue to be a smaller reporting company if either (i) the market value of GRIID’s stock held by non-affiliates is less than $250.0 million or (ii) GRIID’s annual revenue is less than $100.0 million during the most recently completed fiscal year and the market value of GRIID’s stock held by non-affiliates is less than $700.0 million as of the last business day of the second fiscal quarter of such year. If GRIID is a smaller reporting company at the time GRIID ceases to be an emerging growth company, GRIID may continue to rely on exemptions from certain disclosure requirements that are available to smaller reporting companies. Specifically, as a smaller reporting company GRIID may choose to present only the two most recent fiscal years of audited financial statements in its Annual Report on Form 10-K and, similar to emerging growth companies, smaller reporting companies have reduced disclosure obligations regarding executive compensation.
+
+35
+
+
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+Not applicable
+
+Item 4. Controls and Procedures.
+
+Disclosure Controls and Procedures 
+
+The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act, refers to controls and procedures that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company’s management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. As required by Rules 13a-15(b) and 15d-15(b) of the Exchange Act, our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report. Based on that evaluation, our Chief Executive Officer and our Chief Financial Officer concluded that our disclosure controls and procedures were effective as of March 31, 2024.
+
+Management’s Report on Internal Control over Financial Reporting
+
+Management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rule 13a-15(f) under the Exchange Act. Our internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes in accordance with GAAP. Because of its inherent limitations, our internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with applicable policies or procedures may deteriorate.
+
+Management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness, as of March 31, 2024, of the Company’s internal control over financial reporting. In making this evaluation, management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in its publication Internal Control-Integrated Framework (2013). Based on that evaluation, management concluded that the Company’s internal control over financial reporting was effective as of March 31, 2024.  Management has concluded that its consolidated financial statements included in this Quarterly Report fairly present in all material respects the financial condition, results of operations and cash flows of the Company in accordance with GAAP for each of the periods presented therein. 
+
+This Quarterly Report does not include an attestation report of our independent registered public accounting firm regarding internal control over financial reporting. For as long as we remain an “emerging growth company” as defined in Section 2(a) of the Securities Act, as modified by the Jumpstart Our Business Startups Act of 2012, we intend to take advantage of the exemption permitting us not to comply with the requirement that our independent registered public accounting firm provide an attestation on the effectiveness of our internal control over financial reporting.
+
+Changes in Internal Control
+
+We periodically review our internal control over financial reporting as part of our efforts to ensure compliance with the requirements of Section 404 of the Sarbanes-Oxley Act. In addition, we routinely review our system of internal control over financial reporting to identify potential changes to our processes and systems that may improve controls and increase efficiency, with the goal of establishing and maintaining an effective internal control environment. Changes may include such activities as implementing new, more efficient systems, consolidating the activities of business units, migrating certain processes to our shared services organizations, formalizing policies and procedures, improving segregation of duties and increasing monitoring controls. We also will have changes in our internal controls going from a private company to a public company and to address the material weaknesses described above.  There have been no changes in our internal control over financial reporting that occurred during the quarter ended March 31, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+36
+
+
+
+ 
+
+PART II—OTHER INFORMATION
+
+Item 1. Legal Proceedings.
+
+The information contained in Part I, Item 1, Finanical Statement and Supplementary Data - Note 14, "Commitments and Contingencies", under the heading "Litigation", is incorporated by reference into this Item 1.
+
+Item 1A. Risk Factors.
+
+You should carefully consider the risk factors described in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (the “Annual Report”) under the caption “Item 1A. “Risk Factors.” There have been no material changes in our risk factors included in our Annual Report. The risks described in the Annual Report are not the only risks facing our company. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition or future results.
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+(a)Unregistered Sales of Securities.  Pursuant to the GEM Agreement, the Company may issue and sell to GEM Global, and GEM Global may purchase from the Company, until December 29, 2026, up to the number of shares of common stock having an aggregate value of $200,000,000, pursuant to draw down notices (each, a “Draw Down Notice” and each transaction under a Draw Down Notice, a “Draw Down”), which we may deliver to GEM Global in the Company’s sole discretion. Upon the valid exercise of a Draw Down, pursuant to delivery of a notice and in accordance with other conditions, GEM Global will be required to pay, in cash, a per-share amount equal to 92% of the average closing bid price of the shares of our common stock as reported on the principal market on which shares of our common stock are traded during the 30 consecutive trading days commencing on the first trading day that is designated on the Draw Down notice. In no event may the Draw Down amount (other than the Committed Draw Down Amount (as defined in the GEM Agreement) specified in a Draw Down Notice exceed 400% of the average daily trading volume of the common stock for the 30 trading days immediately preceding the date of such Draw Down notice. There can be no guarantee that the Company will have access to the full amount available to the Company under the GEM Agreement, or that if the Company does have access, the Company will elect to draw down the full amount available to the Company under the GEM Agreement.  On February 27, 2024, the Company issued 1,315,106 shares of common stock to GEM and received net proceeds of $2,717,429.83. On March 1, 2023, the Company issued 520,350 shares of common stock to GEM and received net proceeds of $950,263.17. On March 14, 2024, the Company issued 433,350 shares of common stock to GEM and received net proceeds of $624,312. On March 25, 2024, the Company issued 260,218 shares of common stock to GEM and received net proceeds of $275,310.64. To date we have drawn down $5,708,218 million under the GEM Agreement and sold an aggregate of 3,626,685 shares of our common stock to GEM Global.  These sales were made pursuant to Section 4(a)(2) of the Securities Act (15 U.S. Code §77d(A)(2)).  Proceeds of the sale were used for working capital purposes.
+
+ 
+
+On February 28, 2024, the Company and its wholly owned subsidiary GRIID Infrastructure LLC entered into asset purchase agreements (“Asset Purchase Agreements”) with (i) WTN Holdco LLC, a Delaware limited liability company, pursuant to which the Company issued 459,330 shares of common stock in exchange for eight hundred MicroBT Whatsminer M30S+ machines; (ii) Low Time Preference Fund II, LLC, a Delaware limited liability company (“Low Time Preference”), the Company issued 57,416 shares of common stock in exchange for one hundred MicroBT Whatsminer M30S+ machines; (iii) Grant Gillian, pursuant to which the Company issued 25,837 shares of common stock in exchange for forty-five MicroBT Whatsminer M30S+ machines; and (iv) Jonathan Kirkwood, pursuant to which the Company issued 14,354 shares of common stock in exchange for twenty-five MicroBT Whatsminer M30S+ machines.  Each of the transactions under the Asset Purchase Agreements closed on March 6, 2024.  The fair value of the aggregate of 556,937 shares of common stock exchanged was $930,084.79, or $1.67 per share of common stock.  Each of the Asset Purchase Agreements includes standard terms and conditions, including representations and warranties from the counterparty as to its status as accredited investors.  These issuances of our common stock in these transactions were made pursuant to Section 4(a)(2) of the Securities Act (15 U.S. Code §77d(A)(2)).
+
+Item 3. Defaults Upon Senior Securities.
+
+Not applicable.
+
+37
+
+
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+Not applicable.
+
+Item 5. Other Information.
+
+During the three months ended March 31, 2024, none of our directors or officers (as defined in Rule 16a-1(f) of the Securities Exchange Act of 1934, as amended) adopted or terminated a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement (as such terms are defined in Item 408 of Regulation S-K of the Securities Act).
+
+38
+
+
+
+ 
+
+Item 6. Exhibits.
+
+Furnish the exhibits required by Item 601 of Regulation S-K (§ 229.601 of this chapter).
+
+ 
+
+  Exhibit                                                           Description
+
+  Number
+
+2.1         Agreement and Plan of Merger, dated as of November 29, 2021, by and among Adit EdTech Acquisition Corp., ADEX Merger Sub,
+
+             LLC and Griid Holdco LLC (incorporated by reference to Annex A-1 to the proxy statement/prospectus contained in the
+
+             registration statement on Form S-4 (File No. 333-261880), filed with the SEC on November 1,
+
+             2023).
+
+2.2         First Amendment to Agreement and Plan of Merger, dated as of December 23, 2021, by and among Adit EdTech Acquisition
+
+             Corp., ADEX Merger Sub, LLC and Griid Holdco LLC (incorporated by reference to Annex A-2 to the proxy
+
+             statement/prospectus contained in the registration statement on Form S-4 (File No. 333-261880), filed with the SEC on
+
+             November 1,
+
+             2023).
+
+2.3         Second Amendment to Agreement and Plan of Merger, dated as of October 17, 2022, by and among Adit EdTech Acquisition
+
+             Corp., ADEX Merger Sub, LLC and Griid Holdco LLC (incorporated by reference to Annex A-3 to the proxy
+
+             statement/prospectus contained in the registration statement on Form S-4 (File No. 333-261880), filed with the SEC on
+
+             November 1,
+
+             2023).
+
+2.4         Third Amendment to Agreement and Plan of Merger, dated as of February 8, 2023, by and among Adit EdTech Acquisition Corp.,
+
+             ADEX Merger Sub, LLC and Griid Holdco LLC (incorporated by reference to Annex A-4 to the proxy statement/prospectus
+
+             contained in the registration statement on Form S-4 (File No. 333-261880), filed with the SEC on November 1,
+
+             2023).
+
+3.1         Second Amended and Restated Certificate of Incorporation of GRIID Infrastructure Inc. (incorporated by reference to
+
+             Exhibit 3.1 to GRIID Infrastructure’s Current Report on Form 8-K (File No. 000-39872), filed with the SEC on January 2,
+
+             2024).
+
+3.2         Amended and Restated Bylaws of GRIID Infrastructure Inc. (incorporated by reference to Exhibit 3.2 to GRIID
+
+             Infrastructure’s Current Report on Form 8-K (File No. 000-39872), filed with the SEC on January 2,
+
+             2024).
+
+31.1*       Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act
+
+             of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+             2002.
+
+31.2*       Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act
+
+             of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+             2002.
+
+32.1*       Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the
+
+             Sarbanes-Oxley Act of
+
+             2002.
+
+32.2*       Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the
+
+             Sarbanes-Oxley Act of
+
+             2002.
+
+101.INS     Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because XBRL tags are
+
+             embedded within the Inline XBRL
+
+             document.
+
+101.SCH     Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents
+
+104         Cover Page formatted as Inline XBRL and contained in Exhibit 101
+
+ 
+
+*	Filed herewith.
+
+39
+
+
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+                                                              Company Name
+
+                                                                          
+
+Date: May 15, 2024                                            By:                            /s/ Allan Wallander
+
+                                                                                               Allan Wallander
+
+                                                                                                     CFO
+
+ 
+
+40

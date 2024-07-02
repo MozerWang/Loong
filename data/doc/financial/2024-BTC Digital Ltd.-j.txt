@@ -1,0 +1,2329 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024
+
+ 
+
+OR
+
+ 
+
+☐ TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from _____________ to ___________________
+
+ 
+
+Commission file number: 001-39258
+
+ 
+
+BTC Digital Ltd.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                          Cayman Islands                                                      Not Applicable
+
+                 (State or other jurisdiction of                                            (I.R.S. Employer 
+
+                  incorporation or organization)                                           Identification No.)
+
+ 
+
+3rd Floor, Tower A
+
+Tagen Knowledge & Innovation Center
+
+2nd Shenyun West Road, Nanshan District
+
+Shenzhen, Guangdong Province 518000
+
+People’s Republic of China
+
+(Address of principal executive offices)
+
+ 
+
++86 755 8294 5250
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+           Title of Each Class:                          Trading Symbol(s):               Name of Each Exchange on Which Registered:
+
+Ordinary Shares, par value $0.06 per share                      BTCT                              The Nasdaq Stock Market LLC
+
+   Warrants, each exercisable for 1/600                         BTCTW                             The Nasdaq Stock Market LLC
+
+                  ordinary
+
+                   shares
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☐ No ☒
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer           ☐                                 Accelerated filer                 ☐
+
+Non-accelerated filer             ☒                                 Smaller reporting company         ☒
+
+                                                                    Emerging growth company           ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒ 
+
+ 
+
+The aggregate market value of the shares of ordinary shares, par value $0.06 per share, held by non-affiliates of the registrant as of March 31, 2024, was approximately $90.799 million, based on the closing sale price per share of the registrant’s ordinary share as reported by the Nasdaq Capital Market on such date.
+
+ 
+
+As of March 31, 2024, BTC Digital Ltd. had 2,610,785 shares of outstanding ordinary shares, par value $0.06 per share.
+
+ 
+
+ 
+
+ 
+
+ 
+
+BTC DIGITAL LTD.
+
+FORM 10-Q
+
+TABLE OF CONTENTS 
+
+ 
+
+                                                                                                                                Page
+
+PART I      FINANCIAL INFORMATION                                                                                                 
+
+Item 1.     Financial Statements                                                                                                 1
+
+Item 2.     Management’s Discussion and Analysis of Financial Condition and Results of Operations                                24
+
+Item 3.     Quantitative and Qualitative Disclosure About Market Risk                                                            30
+
+Item 4.     Controls and Procedures                                                                                              30
+
+                                                                                                                                  
+
+PART II     OTHER INFORMATION                                                                                                     
+
+Item 1.     Legal Proceedings                                                                                                    31
+
+Item 1A.    Risk Factors                                                                                                         31
+
+Item 2.     Unregistered Sales of Equity Securities and Use of Proceeds                                                          31
+
+Item 3.     Defaults Upon Senior Securities                                                                                      31
+
+Item 4.     Mine Safety Disclosures                                                                                              31
+
+Item 5.     Other Information                                                                                                    31
+
+Item 6.     Exhibits                                                                                                             31
+
+Signature                                                                                                                        32
+
+ 
+
+i
+
+ 
+
+PART I. FINANCIAL INFORMATION
+
+ 
+
+Item 1. Financial Statements    
+
+ 
+
+BTC DIGITAL LTD.
+
+UNAUDITED CONSOLIDATED BALANCE SHEETS
+
+(In thousands of US$, except share data and per share data, or otherwise noted)
+
+ 
+
+                                                                                                            As of       As of March  
+
+                                                                                                           December         31,
+
+                                                                                                             31,
+
+                                                                                               Note         2023           2024      
+
+                                                                                                           US$’000        US$’000    
+
+                                                                                                                                     
+
+ASSETS                                                                                                                               
+
+Current assets                                                                                                                       
+
+Cash and cash equivalents                                                                                          43             32 
+
+Accounts receivable                                                                             4               5,485          1,729 
+
+Prepayments and other current assets                                                            5               2,980          6,203 
+
+Digital assets                                                                                  6                 436            722 
+
+                                                                                                                                     
+
+Total current assets                                                                                            8,944          8,686 
+
+                                                                                                                                     
+
+Non-current assets                                                                                                                   
+
+Equity method investments                                                                       7               2,897          2,912 
+
+Property and equipment, net                                                                     8              12,702         12,984 
+
+Total non-current assets                                                                                       15,599         15,896 
+
+                                                                                                                                     
+
+Total assets                                                                                                   24,543         24,582 
+
+                                                                                                                                     
+
+LIABILITIES AND SHAREHOLDERS’ EQUITY                                                                                                 
+
+Current liabilities                                                                                                                  
+
+Accounts payable                                                                                                  128            155 
+
+Short term loans                                                                                10                125            308 
+
+Deferred revenue                                                                                                  792              - 
+
+Amounts due to related parties                                                                14(b)             4,056          3,823 
+
+Total current liabilities                                                                                       5,101          4,286 
+
+                                                                                                                                     
+
+Total liabilities                                                                                               5,101          4,286 
+
+ 
+
+1
+
+ 
+
+ 
+
+BTC DIGITAL LTD.
+
+UNAUDITED CONSOLIDATED BALANCE SHEETS (Continued)
+
+(In thousands of US$, except share data and per share data, or otherwise noted)
+
+ 
+
+                                                                                                            As of       As of March  
+
+                                                                                                           December         31,
+
+                                                                                                             31,
+
+                                                                                               Note         2023           2024      
+
+                                                                                                           US$’000        US$’000    
+
+                                                                                                                                     
+
+Shareholders’ equity                                                                                                                 
+
+Ordinary shares (US$0.06 par value; 25,000,000 shares authorized; 2,097,535 and 2,610,785       13                121            139 
+
+ shares issued outstanding as of December 31, 2023 and March 31,
+
+ 2024)
+
+Additional paid-in capital                                                                                    205,920        207,487 
+
+Accumulated deficit                                                                                          (186,599)      (187,330)
+
+                                                                                                                                     
+
+Total equity attributable to shareholders of the Company                                                       19,442         20,296 
+
+                                                                                                                                     
+
+Total shareholders’ equity                                                                                     19,442         20,296 
+
+                                                                                                                                     
+
+Total liabilities and shareholders’ equity                                                                     24,543         24,582 
+
+ 
+
+2
+
+ 
+
+ 
+
+BTC DIGITAL LTD.
+
+UNAUDITED CONSOLIDATED STATEMENTS OF OPERATIONS LOSS
+
+(In thousands of US$, except share data and per share data, or otherwise noted)
+
+ 
+
+                                                                                                             For the Three Months      
+
+                                                                                                              Ended of March 31,
+
+                                                                                               Note         2023           2024      
+
+                                                                                                           US$’000        US$’000    
+
+                                                                                                                                     
+
+Revenues                                                                                                          907          2,650 
+
+Cost of revenues                                                                                               (1,250)        (2,778)
+
+Gross loss                                                                                                       (343)          (128)
+
+Operating expenses:                                                                                                                  
+
+Selling and marketing expenses                                                                                   (128)           (35)
+
+General and administrative expenses                                                                              (529)          (906)
+
+Loss from operations                                                                                           (1,000)        (1,069)
+
+Other income (expenses):                                                                                                             
+
+Realized gain on exchange of digital assets                                                                        51            330 
+
+Interest expenses                                                                                                 (30)            (6)
+
+Equity in income on equity method investments                                                                       -             15 
+
+Others expenses, net                                                                                               (1)            (1)
+
+Loss before income tax                                                                                           (980)          (731)
+
+Income tax expense                                                                              9                   -              - 
+
+Net loss                                                                                                         (980)          (731)
+
+                                                                                                                                     
+
+Net loss per share-Basic                                                                        11              (0.83)         (0.30)
+
+Net loss per share- Diluted                                                                                     (0.83)         (0.30)
+
+Weighted average shares used in calculating net loss per share                                                                       
+
+- Basic                                                                                                     1,173,662      2,440,706 
+
+- Diluted                                                                                                   1,173,662      2,440,706 
+
+ 
+
+3
+
+ 
+
+ 
+
+BTC DIGITAL LTD.
+
+UNAUDITED CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY
+
+(In thousands of US$, except share data and per share data, or otherwise noted)
+
+ 
+
+                                           Ordinary shares          Additional      Accumulated       Total equity    Total equity  
+
+                                                                      paid-in         deficit       attributable to
+
+                                                                      capital                         shareholders
+
+                                                                                                     of the Company
+
+                           Note       Number of       US$’000        US$’000         US$’000           US$’000          US$’000    
+
+                                      shares*1
+
+Balances as of                          1,044,009             63        202,992          (183,775)          19,280        19,280 
+
+ December 31,
+
+ 2022
+
+Net loss for the period                         -              -              -              (980)            (980)         (980)
+
+Issuance of ordinary                      211,892             15            (15)                -                -             - 
+
+ shares
+
+Balances as of March                    1,255,901             78        202,977          (184,755)          18,300        18,300 
+
+ 31,
+
+ 2023
+
+ 
+
+*    Retrospectively restated due to twenty for one reverse stock split, see Note 13
+
+ 
+
+                                          Ordinary shares          Additional      Accumulated       Total equity    Total equity  
+
+                                                                     paid-in         deficit       attributable to
+
+                                                                     capital                         shareholders
+
+                                                                                                    of the Company
+
+                           Note       Number of       US$’000        US$’000         US$’000           US$’000          US$’000    
+
+                                       shares1
+
+Balances as of                          2,097,535           121        205,920          (186,599)          19,442        19,442 
+
+ December 31,
+
+ 2023
+
+Net loss for the period                         -             -              -              (731)            (731)         (731)
+
+Issuance of ordinary                      513,250            18            996                 -            1,014         1,014 
+
+ shares
+
+Share-based                                     -             -            571                 -              571           571 
+
+ compensation
+
+Balances as of March                    2,610,785           139        207,487          (187,330)          20,296        20,296 
+
+ 31,
+
+ 2024
+
+ 
+
+4
+
+ 
+
+ 
+
+BTC DIGITAL LTD.
+
+UNAUDITED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In thousands of US$, except share data and per share data, or otherwise noted)
+
+ 
+
+                                                                                                        For the Three Months Ended of  
+
+                                                                                                                     March
+
+                                                                                                                      31,
+
+                                                                                               Note         2023           2024      
+
+                                                                                                           US$’000        US$’000    
+
+                                                                                                                                     
+
+Cash flows from operating activities:                                                                                                
+
+Net loss                                                                                                         (980)          (731)
+
+Adjustments to reconcile net income/(loss) to net cash generated from operating                                                      
+
+ activities:
+
+Depreciation and amortization                                                                                     839            862 
+
+Realized gain on exchange of digital assets                                                                       (51)          (330)
+
+Equity income on equity method investments                                                                                       (15)
+
+Share-based compensation expenses                                                               12                  -            571 
+
+Decrease in accounts receivable                                                                                 8,902          3,756 
+
+Increase in prepayments and other current assets                                                               (1,845)        (3,762)
+
+Change of Digital assets                                                                                          130             44 
+
+Increase/(decrease) in accounts payable                                                                          (815)            27 
+
+Decrease in deferred revenue                                                                                        -           (250)
+
+Net cash flow generated from operating activities                                                               6,180            172 
+
+Cash flows from investing activities:                                                                                                
+
+Purchases of property and equipment                                                                            (2,332)          (605)
+
+Advances to related parties                                                                                         -           (233)
+
+Net cash used in investing activities                                                                          (2,332)          (838)
+
+Cash flows from financing activities:                                                                                                
+
+Proceeds from Short term loans                                                                                      -            183 
+
+Repayment of Short term loans                                                                                    (287)             - 
+
+Proceeds from issuance of ordinary shares for private placement                                                     -            472 
+
+Net cash generated from/(used in) financing activities                                                           (287)           655 
+
+Net increase/(decrease) in cash and cash equivalents and restricted cash                                        3,561            (11)
+
+Cash and cash equivalents and restricted cash at the beginning of the period                                       48             43 
+
+Cash and cash equivalents and restricted cash at the end of the period                                          3,609             32 
+
+Supplemental disclosure of cash flow information:                                                                                    
+
+Interest paid                                                                                                      30              6 
+
+ 
+
+5
+
+ 
+
+ 
+
+BTC DIGITAL LTD.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+(In thousands of RMB, except share data and per share data, or otherwise noted)
+
+ 
+
+1.        Organization and Principal Activities
+
+ 
+
+(a)       Principal activities
+
+ 
+
+Meten EdtechX Education Group Ltd (the “Company”) was incorporated on September 27, 2019 under the law of Cayman Islands as an exempted company with limited liability. Meten EdtechX Education Group Ltd changed its name to “Meten Holding Group Ltd.” on August 11, 2021. On August 11, 2023, the Company changed its name to “BTC Digital Ltd.” The Company and its subsidiaries (the “Group”) are primarily engaged in the bitcoin mining business, and also generates revenue through mining machines resale and rental business operations.
+
+ 
+
+As of March 31, 2024, the details of the Company’s subsidiaries were as follows:
+
+ 
+
+Entity                               Date of                  Place of                Percentage of         Principal activities
+
+                                  incorporation             incorporation          direct or indirect
+
+                                                                                   economic ownership
+
+Major subsidiaries:                                                                                                    
+
+Meten International               July 10, 2018            Cayman Islands                 100%               Investment holding
+
+ Education
+
+ Group
+
+Meten Education Investment        July 18, 2018            British Virgin                 100%               Investment holding
+
+ Limited (“Meten                                           Islands (“BVI”)
+
+ BVI”)
+
+Likeshuo Education                July 18, 2018                  BVI                      100%               Investment holding
+
+ Investment Limited
+
+ (“Likeshuo
+
+ BVI”)
+
+Meten Education (Hong            August 22, 2018              Hong Kong                   100%               Investment holding
+
+ Kong) Limited (“Meten
+
+ HK”)
+
+Likeshuo Education (Hong         August 22, 2018              Hong Kong                   100%               Investment holding
+
+ Kong) Limited (“Likeshuo
+
+ HK”)
+
+Meta Path investing             December 3, 2021           Cayman Islands                 100%               Investment holding
+
+ holding
+
+ company
+
+Met Chain investing              January 5, 2022                 BVI                      100%               Investment holding
+
+ holding company
+
+ Ltd
+
+METEN BLOCK CHAIN LLC             March 8, 2022             United States                 100%               Investment holding
+
+Meten Service USA Corp.           March 3, 2016             United States                 100%               Investment holding
+
+ 
+
+(b)       History of the Group and reorganization
+
+ 
+
+Organization and General
+
+ 
+
+The Company is authorized to issue 500,000,000 ordinary shares with a par value of $0.003 per share. On September 27, 2019, the Company issued one ordinary share to its sole director Richard Fear for a purchase price of $0.0001. On the same day, the one ordinary share owned by Richard Fear was transferred to Guo Yupeng.
+
+ 
+
+6
+
+ 
+
+ 
+
+Reverse recapitalization
+
+ 
+
+On December 12, 2019, the Company entered into an Agreement and Plan of Reorganization (the “Merger Agreement”) by and among the Company, EdtechX Holdings Acquisition Corp., a Delaware corporation (“EdtechX”), Meten Education Inc., a Delaware corporation and wholly owned subsidiary of the Company (“EdtechX Merger Sub”), Meten Education Group Ltd.(“Meten International”), a Cayman Islands exempted company which incorporated on July 10, 2018 and wholly owned subsidiary of the Company (“Meten Merger Sub”, and together with EdtechX Merger Sub, the “Merger Subs”). EdtechX was a blank check company incorporated in Delaware on May 15, 2018 for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization or similar business combination with one or more businesses or entities.
+
+ 
+
+On March 30, 2020, the Company consummated its acquisition of Meten International and EdtechX, pursuant to the Merger Agreement, where the Company acquired 100% of the issued and outstanding ordinary shares of Meten International and EdtechX, i.e., 318,601,222 ordinary shares of Meten International and 1,971,505 ordinary shares of EdtechX for 1,613,054 and 65,717 ordinary shares of the Company, respectively (the “SPAC Transaction”).
+
+ 
+
+Meten International was determined to be the accounting acquirer given the controller of Meten International effectively controlled the combined entity Meten EdtechX Education Group Ltd after the SPAC Transaction.
+
+ 
+
+The transaction is not a business combination because EdtechX was not a business. The transaction is accounted for as a reverse recapitalization, which is equivalent to the issuance of shares by Meten International for the net monetary assets of EdtechX, accompanied by a recapitalization. Meten International is determined as the predecessor and the historical financial statements of Meten International became the Company’s historical financial statements, with retrospective adjustments to give effect of the reverse recapitalization. The equity is restated using the exchange ratio of 0.1519 established in the reverse recapitalization transaction, which is 48,391,607 divided by 318,601,222, to reflect the equity structure of the Company. Loss (income) per share is retrospectively restated using the historical weighted-average number of ordinary shares outstanding multiplied by the exchange ratio. The share and per share data is retrospectively restated using the exchange ratio in the share-based compensation footnote, see Note 12.
+
+ 
+
+Immediately prior to the merger transaction, Azimut Enterprises Holdings S.r.l. invested $20,000 in EdtechX to purchase 2,000,000 units of EdtechX, which were converted into same number of units of the Company upon closing of the merger transaction.
+
+ 
+
+In connection with merger transaction, on February 28, 2020, March 19, 2020 and March 26, 2020, three unrelated investors agreed to invest USD6,000, USD4,000 and USD6,000 to purchase shares of the Company. The financing of the USD12,000 was completed on March 30, 2020, and the USD4,000 financing was terminated on April 14, 2020 as the investor failed to pay the purchase price by the agreed deadline.
+
+ 
+
+Reorganization of Meten International
+
+ 
+
+Prior to the SPAC Transaction, Meten International undertook a series of steps to restructure its business.
+
+ 
+
+Meten International’s history began in April 2006 with the commencement of operations of Shenzhen Meten International Education Co., Ltd. (“Shenzhen Meten”), a limited liability company incorporated in the PRC by Mr. Jishuang Zhao, Mr. Siguang Peng and Mr. Yupeng Guo (collectively, the “Founders”). On December 18, 2017, Shenzhen Meten was converted into a joint stock limited liability company and 30,000,000 shares of RMB1 each were issued.
+
+ 
+
+7
+
+ 
+
+  
+
+From March 2012 to August 2018, Mr. Yun Feng, Shenzhen Daoge Growth No.3 Investment Fund Partnership (Limited Partnership), Shenzhen Daoge Growth No.5 Investment Fund Partnership (Limited Partnership), Shenzhen Daoge Growth No.6 Investment Fund Partnership (Limited Partnership), Shenzhen Daoge Growth No.11 Investment Fund Partnership (Limited Partnership), Shenzhen Daoge Growth No.21 Investment Fund Partnership (Limited Partnership), Zhihan (Shanghai) Investment Center (Limited Partnership), Hangzhou Muhua Equity Investment Fund Partnership (Limited Partnership) (collectively known as the “Pre-listing Investors”) each acquired certain equity interests in Shenzhen Meten.
+
+ 
+
+In preparation of the listing in capital markets of Shenzhen Meten’s general adult English training, overseas training services, online English training and other English language-related services businesses (the “Business”), Shenzhen Meten underwent a series of reorganization transactions (“Reorganization”) in 2018. The main purpose of the Reorganization is to establish a Cayman Islands holding company for the Business in preparation for its overseas listing.
+
+ 
+
+The Reorganization was executed in the following steps:
+
+ 
+
+          1)   Meten International was incorporated as an exempted company with limited liability in the Cayman Islands on September
+
+                27, 2019 and as offshore holding company of the Group. In July and August 2018, the Founders and Pre-listing Investors
+
+                subscribed for ordinary shares of Meten International at par value, all in the same proportions as the percentage of
+
+                the then equity interest they held in Shenzhen Meten. Upon the issuance of ordinary shares to the Founders and
+
+                Pre-listing Investors, the equity structure of the Meten International is identical to that of Shenzhen
+
+                Meten.
+
+ 
+
+          2)   In July 2018, Meten International further established two wholly-owned subsidiaries in the British Virgin Islands,
+
+                Meten BVI and Likeshuo
+
+                BVI.
+
+ 
+
+          3)   In August 2018, Meten BVI and Likeshuo BVI established two wholly-owned subsidiaries in Hong Kong, Meten HK and
+
+                Likeshuo HK,
+
+                respectively.
+
+ 
+
+          4)   In September 2018, Meten HK and Likeshuo HK established two wholly-owned subsidiaries in China, named Zhuhai Meizhilian
+
+                Education Technology Co., Ltd.(“Zhuhai Meizhilian”) and Zhuhai Likeshuo Education Technology Co., Ltd. (“Zhuhai
+
+                Likeshuo”),
+
+                respectively.
+
+ 
+
+          5)   In October 2018, Shenzhen Meten was split into three separate legal entities, namely Shenzhen Meten, Shenzhen Likeshuo
+
+                Education Co., Ltd. (“Shenzhen Likeshuo”) and Shenzhen Yilian Education Investment Co. Ltd. (“Shenzhen Yilian
+
+                Investment”).
+
+ 
+
+          6)   In November 2018, Zhuhai Meten and Zhuhai Likeshuo (collectively the “WFOEs”) entered into a series of contractual
+
+                arrangements, including a business cooperation agreement, exclusive technical service and management consultancy
+
+                agreement, exclusive call option agreement, equity pledge agreement and shareholders’ rights entrustment agreement
+
+                (collectively referred to as the “Contractual Arrangements” as further described below) with Shenzhen Meten, Shenzhen
+
+                Likeshuo and their shareholders, respectively. Consequently, Shenzhen Meten and Shenzhen Likeshuo became consolidated
+
+                VIEs of Meten International upon the completion of the relevant reorganization
+
+                steps.
+
+ 
+
+          7)   As part of the Reorganization, Shenzhen Meten transferred its equity interests in certain operations that are not a
+
+                part of the Business to Shenzhen Yilian Investment and made a net cash distribution of approximately RMB148,270. Such
+
+                net payment is recorded as distributions in connection with Reorganization in the accompanying consolidated statements
+
+                of changes in shareholders’ deficit for the year ended December 31,
+
+                2018.
+
+ 
+
+8
+
+ 
+
+ 
+
+The Reorganization involved the restructuring of the legal structure of the Business, which was under common control and did not result in any changes in the economic substance of the ownership and the Business. The accompanying consolidated financial statements have been prepared as if the VIE structure had been in existence throughout the periods presented and prior to the VIE structure was unwound.
+
+ 
+
+Upon completion of the Reorganization, Meten International’s shares and per share information including the basic and diluted income/(loss) per share have been presented retrospectively as if the number of ordinary shares outstanding immediately after the completion of the Reorganization had been outstanding from the beginning of the earliest period presented, except for the ordinary shares issued in connection with the exchange of Redeemable Owner’s Investment held by the Pre-listing investors during the Reorganization have been weighted for the portion of the period that they were outstanding.
+
+ 
+
+(c)       Unwinding of the VIE Structure
+
+ 
+
+The Company has previously conducted the ELT services in China through a series of contractual arrangements with Shenzhen Meten and Shenzhen Likeshuo and their respective subsidiaries, and consolidated the financial results of Shenzhen Meten and Shenzhen Likeshuo and their subsidiaries in the Company’s consolidated financial statements in accordance with U.S. generally accepted accounting principles (“GAAP”).
+
+ 
+
+(d)       Basis of presentation
+
+ 
+
+The accompanying consolidated financial statements have been prepared in accordance with GAAP’.
+
+ 
+
+The consolidated financial statements are presented in dollars (“US$”), rounded to the nearest thousands except share data and per share data, or otherwise noted.
+
+ 
+
+(e)       Principles of consolidation
+
+ 
+
+The consolidated financial statements of the Group include the financial statements of the Company, its subsidiaries, and the VIEs before the VIE structure was unwound, in which it had a controlling financial interest. The results of the subsidiaries and the VIEs are consolidated from the date on which the Group obtained control and continue to be consolidated until the date that such control ceases. A controlling financial interest is typically determined when a company holds a majority of the voting equity interest in an entity. All significant intercompany balances and transactions among the Company, its subsidiaries and the VIEs have been eliminated on consolidation.
+
+ 
+
+9
+
+ 
+
+ 
+
+2.        Summary of significant accounting policies
+
+ 
+
+(a)       Use of estimates
+
+ 
+
+The preparation of the Company’s consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the balance sheet date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. Significant items subject to such estimates and assumptions include, but are not limited to, estimate of standalone selling prices of each unit of accounting in multiple elements arrangements, estimate of breakage, the fair value of identifiable assets acquired, liabilities assumed and non-controlling interests in business combinations, the useful lives of long-lived assets including intangible assets, the fair value of the reporting unit for the goodwill impairment test, the allowance for doubtful accounts receivable and other receivables, the realization of deferred tax assets, the fair value of share-based compensation awards, lease liabilities, right-of-use assets and the recoverability of long-lived assets. Changes in facts and circumstances may result in revised estimates. Actual results could differ from those estimates, and as such, differences may be material to the consolidated financial statements.
+
+ 
+
+(b)       Functional currency
+
+ 
+
+The Group use United States dollar (“US$”) as its reporting currency. The functional currency of the Company and its subsidiaries incorporated outside of the PRC is United States dollar (“US$”).
+
+ 
+
+(c)       Cash and cash equivalents
+
+ 
+
+Cash and cash equivalents represent cash on hand and time deposits, which have original maturities of three months or less when purchased and which are unrestricted as to withdrawal and use. In addition, highly liquid investments which have original maturities of three months or less when purchased are classified as cash and cash equivalents.
+
+ 
+
+(d)       Accounts receivable
+
+ 
+
+Accounts receivable are presented net of allowance for doubtful accounts. The Group uses specific identification in providing for bad debts when facts and circumstances indicate that collection is doubtful and based on factors listed in the following paragraph. If the financial conditions of its franchisee were to deteriorate, resulting in an impairment of their ability to make payments, additional allowance may be required.
+
+ 
+
+The Group maintains an allowance for doubtful accounts for estimated losses resulting from the inability of its customers to make required payments. In establishing the required allowance, management considers historical losses adjusted to take into account current market conditions and customers’ financial condition, the amount of receivables in dispute, and the current receivables aging and current payment patterns. Accounts receivable are charged off against the allowance after all means of collection have been exhausted and the potential for recovery is considered remote.
+
+ 
+
+10
+
+ 
+
+ 
+
+(e)       Digital assets
+
+ 
+
+Digital asset (including bitcoin) is included in current assets in the accompanying consolidated balance sheets. Digital assets purchased are recorded at cost and digital assets awarded to the Company through its mining activities are accounted for in connection with the Company’s revenue recognition policy disclosed below.
+
+ 
+
+Digital assets held are accounted for as intangible assets with indefinite useful lives. An intangible asset with an indefinite useful life is not amortized but assessed for impairment annually, or more frequently, when events or changes in circumstances occur indicating that it is more likely than not that the indefinite-lived asset is impaired. Impairment exists when the carrying amount exceeds its fair value, which is measured using the quoted price of the digital assets at the time its fair value is being measured. In testing for impairment, the Company has the option to first perform a qualitative assessment to determine whether it is more likely than not that an impairment exists. If it is determined that it is not more likely than not that an impairment exists, a quantitative impairment test is not necessary. If the Company concludes otherwise, it is required to perform a quantitative impairment test. To the extent an impairment loss is recognized, the loss establishes the new cost basis of the asset. Subsequent reversal of impairment losses is not permitted.
+
+ 
+
+Purchases of digital assets by the Company, if any, will be included within investing activities in the accompanying consolidated statements of cash flows, while digital assets awarded to the Company through its mining activities are included within operating activities on the accompanying consolidated statements of cash flows. The sales of digital assets are included within investing activities in the accompanying consolidated statements of cash flows and any realized gains or losses from such sales are included in “realized gain (loss) on exchange of digital assets” in the consolidated statements of operations and comprehensive income (loss). The Company accounts for its gains or losses in accordance with the first-in first-out method of accounting.
+
+ 
+
+(f)       Equity method investments
+
+ 
+
+Investee companies over which the Group has the ability to exercise significant influence, but does not have a controlling interest through investment in common shares or in-substance common shares, are accounted for using the equity method. Significant influence is generally considered to exist when the Group has an ownership interest in the voting stock of the investee between 20% and 50%, and other factors, such as representation on the investee’s board of directors, voting rights and the impact of commercial arrangements, are also considered in determining whether the equity method of accounting is appropriate.
+
+ 
+
+Under the equity method, the Group initially records its investment at cost and subsequently recognizes the Group’s proportionate share of each equity investee’s net income or loss after the date of investment into earnings and accordingly adjusts the carrying amount of the investment. The Group reviews its equity method investments for impairment whenever an event or circumstance indicates that an other-than-temporary impairment has occurred. The Group considers available quantitative and qualitative evidence in evaluating potential impairment of its equity method investments. An impairment charge is recorded when the carrying amount of the investment exceeds its fair value and this condition is determined to be other-than-temporary.
+
+ 
+
+11
+
+ 
+
+ 
+
+(g)       Property and equipment, net
+
+ 
+
+Property and equipment are stated at cost less accumulated depreciation and any recorded impairment.
+
+ 
+
+Gains or losses arising from the disposal of an item of property and equipment are determined as the difference between the net disposal proceeds and the carrying amount of the item and are recognized in profit or loss on the date of disposal.
+
+ 
+
+The estimated useful lives are presented below.
+
+ 
+
+Miners                                                                                                                          5 years
+
+ 
+
+Depreciation on property and equipment is calculated on the straight-line method over the estimated useful lives of the assets.
+
+ 
+
+(h)       Impairment of long-lived assets
+
+ 
+
+Long-lived assets, such as property and equipment, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. If circumstances require a long-lived asset or asset group be tested for possible impairment, the Group first compares undiscounted cash flows expected to be generated by that asset or asset group to its carrying amount. If the carrying amount of the long-lived asset or asset group is not recoverable on an undiscounted cash flow basis, an impairment is recognized to the extent that the carrying amount exceeds its fair value. Fair value is determined through various valuation techniques including discounted cash flow models, quoted market values and third-party independent appraisals, as considered necessary. No impairment losses were recorded for the years December 31, 2023 and for the three months ended March 31, 2024.
+
+ 
+
+(i)       Operating leases
+
+ 
+
+The Group determines if an arrangement is a lease at inception. Operating leases are included in operating lease right-of-use (“ROU”) assets, current and non-current lease liabilities on the Group’s consolidated balance sheets.
+
+ 
+
+ROU lease assets represent the Group’s right to use an underlying asset for the lease term and lease obligations represent the Group’s obligation to make lease payments arising from the lease. Operating lease ROU assets and operating lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term at commencement date. As most of the Group’s leases do not provide an implicit rate, the Group use its incremental borrowing rate based on the information available at commencement date in determining the present value of future payments. The Group’s incremental borrowing rate for a lease is the rate of interest it would have to pay to borrow an amount equal to the lease payments under similar terms. The operating lease ROU assets also include initial direct costs incurred and any lease payments made to the lessor or before the commencement date, minus any lease incentives received. Lease expense for minimum lease payments is recognized on a straight-line basis over the lease term.
+
+ 
+
+(j)       Revenue recognition
+
+ 
+
+The Company adopted ASC 606, “Revenue from Contracts with Customers” for all periods presented. Consistent with the criteria of ASC 606, the Company follows five steps for its revenue recognition: (i) identify the contract(s) with a customer, (ii) identify the performance obligations in the contract, (iii) determine the transaction price, (iv) allocate the transaction price to the performance obligations in the contract, and (v) recognize revenue when (or as) the entity satisfies a performance obligation.
+
+ 
+
+12
+
+ 
+
+ 
+
+The primary sources of the Group’s revenue is as follows:
+
+ 
+
+          (1)       Digital asset mining
+
+ 
+
+The Company has entered into digital asset mining pools by executing contracts with the mining pool operators to provide computing power to the mining pool. The contracts are terminable at any time by either party and the Company’s enforceable right to compensation only begins when the Company provides computing power to the mining pool operator. In exchange for providing computing power, the Company is entitled to a fractional share of the fixed digital assets award the mining pool operator receives, for successfully adding a block to the blockchain. The Company’s fractional share is based on the proportion of computing power the Company contributed to the mining pool operator to the total computing power contributed by all mining pool participants in solving the current algorithm.
+
+ 
+
+Providing computing power in digital asset transaction verification services is an output of the Company’s ordinary activities. The provision of such computing power is the only performance obligation in the Company’s contracts with mining pool operators. The transaction consideration the Company receives, if any, is noncash consideration, which the Company measures at fair value on the date received, which is not materially different than the fair value at contract inception or the time the Company has earned the award from the pools. The consideration is all variable. Because it is not probable that a significant reversal of cumulative revenue will not occur, the consideration is constrained until the mining pool operator successfully places a block (by being the first to solve an algorithm) and the Company receives confirmation of the consideration it will receive, at which time revenue is recognized. There is no significant financing component in these transactions.
+
+ 
+
+Fair value of the digital assets award received is determined using the quoted price of the related digital assets at the time of receipt. There is currently no specific definitive guidance under GAAP or alternative accounting framework for the accounting for digital assets recognized as revenue or held, and management has exercised significant judgment in determining the appropriate accounting treatment. In the event authoritative guidance is enacted by the FASB, the Company may be required to change its policies, which could have an effect on the Company’s consolidated financial position and results from operations.
+
+ 
+
+(k)       Income taxes
+
+ 
+
+Income taxes are accounted for under the asset and liability method. Deferred income tax assets and liabilities are recognized for the future tax consequences attributable to temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases, as well as operating loss and tax credit carryforwards, if any. Deferred income tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the periods in which those temporary differences are expected to be recovered or settled. The effect on deferred income tax assets and liabilities of a change in tax rates or tax laws is recognized in the consolidated statements of comprehensive income in the period the change in tax rates or tax laws is enacted.
+
+ 
+
+The Group reduces the carrying amounts of deferred tax assets by a valuation allowance, if based on the available evidence, it is ’‘more-likely-than-not’’ that such assets will not be realized. Accordingly, the need to establish valuation allowances for deferred tax assets is assessed at each reporting period based on a ’‘more-likely-than-not’’ realization threshold. This assessment considers, among other matters, the nature, frequency and severity of current and cumulative losses, forecasts of future profitability, the duration of statutory carryforward periods, and the Group’s experience with operating loss and tax credit carryforwards, if any, not expiring.
+
+ 
+
+The Group recognizes in its financial statements the impact of a tax position if that position is ’‘more-likely-than-not’’ to prevail based on the facts and technical merits of the position. Tax positions that meet the ’‘more-likely-than-not’’ recognition threshold are measured at the largest amount of tax benefit that has a greater than fifty percent likelihood of being realized upon settlement. Changes in recognition or measurement are reflected in the period in which the change in judgment occurs. Interest and penalties recognized related to unrecognized tax benefits are classified as income tax expense in the consolidated statements of comprehensive income.
+
+ 
+
+13
+
+ 
+
+ 
+
+(l)       Share based compensation
+
+ 
+
+Share-based awards granted to the employees in the form of share options are subject to service and non-market performance conditions. They are measured at the grant date fair value of the awards. The compensation expense in connection with the shares awarded to employees is recognized using the straight-line method over the requisite service period. Forfeitures are estimated at the time of grant, with such estimate updated periodically and with actual forfeitures recognized currently to the extent they differ from the estimate.
+
+ 
+
+In determining the fair value of the shares awarded to employees, the discounted cash flow pricing model has been applied.
+
+ 
+
+Estimation of the fair value involves significant assumptions that might not be observable in the market, and a number of complex and subjective variables, including the expected share price volatility (approximated by the volatility of comparable companies), discount rate, risk-free interest rate and subjective judgments regarding the Company’s projected financial and operating results, its unique business risks and its operating history and prospects at the time the grants are made.
+
+ 
+
+(m)       Contingencies
+
+ 
+
+In the normal course of business, the Group is subject to loss contingencies, such as legal proceedings and claims arising out of its business, that cover a wide range of matters, including, among others, government investigations, shareholder lawsuits, and non-income tax matters. An accrual for a loss contingency is recognized when it is probable that a liability has been incurred and the amount of loss can be reasonably estimated. If a potential material loss contingency is not probable but is reasonably possible, or is probable but cannot be estimated, then the nature of the contingent liability, together with an estimate of the range of possible loss if determinable and material, is disclosed.
+
+ 
+
+(ac)      Fair value measurements
+
+ 
+
+The Group applies ASC 820, Fair Value measurements and Disclosures, for fair value measurements financial assets and financial liabilities and for fair value measurements of non-financial items that are recognized or disclosed at fair value in the financial statements on a recurring and non-recurring basis. ASC 820 defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities required or permitted to be recorded at fair value, the Group considers the principal or most advantageous market in which it would transact and it considers assumptions that market participants would use when pricing the asset or liability. ASC 820 also establishes a framework for measuring fair value and expands disclosures about fair value measurements.
+
+ 
+
+ASC 820 establishes a fair value hierarchy that requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. ASC 820 establishes three levels of inputs that may be used to measure fair value.
+
+ 
+
+The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1 measurements) and the lowest priority to measurements involving significant unobservable inputs (Level 3 measurements). The three levels of the fair value hierarchy are as follows:
+
+ 
+
+          ●     Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities that the Group has
+
+                 the ability to access at the measurement
+
+                 date.
+
+ 
+
+          ●     Level 2 inputs are inputs other than quoted prices included within Level 1 that are observable for the asset or
+
+                 liability, either directly or
+
+                 indirectly.
+
+ 
+
+          ●     Level 3 inputs are unobservable inputs for the asset or liability.
+
+ 
+
+14
+
+ 
+
+ 
+
+The level in the fair value hierarchy within which a fair value measurement in its entirety falls is based on the lowest level input that is significant to the fair value measurement in its entirety. In situations where there is little, if any, market activity for the asset or liability at the measurement date, the fair value measurement reflects management’s own judgments about the assumptions that market participants would use in pricing the asset or liability. Those judgments are developed by management based on the best information available in the circumstances.
+
+ 
+
+The carrying amounts of cash and cash equivalents, accounts receivable, amounts due from related parties, accounts payable, amounts due to related parties, income taxes payable, accrued expenses and other payables as of December 31, 2023 and March 31, 2024 approximate their fair values because of short maturity of these instruments.
+
+ 
+
+(ad)      Net income/(loss) per share
+
+ 
+
+Basic net income/(loss) per share is computed by dividing net income/(loss) attributable to shareholders of the Company by the weighted average number of ordinary shares outstanding during the year. Diluted net income/(loss) per share reflects the potential dilution that could occur if securities or other contracts to issue ordinary shares were exercised into common shares. Ordinary share equivalents are excluded from the computation of the diluted net income/(loss) per share in years when their effect would be anti-dilutive. The Group has non-vested shares which could potentially dilute basic income/(loss) per share in the future. To calculate the number of shares for diluted net income/(loss) per share, the effect of the non-vested shares is computed using the treasury stock method.
+
+ 
+
+(ae)      Recently issued accounting pronouncements
+
+ 
+
+In September 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures. The FASB is issuing the amendments to enhance the transparency and decision usefulness of income tax disclosures. Investors currently rely on the rate reconciliation table and other disclosures, including total income taxes paid, to evaluate income tax risks and opportunities. While investors find these disclosures helpful, they suggested possible enhancements to better (1) understand an entity’s exposure to potential changes in jurisdictional tax legislation and the ensuing risks and opportunities, (2) assess income tax information that affects cash flow forecasts and capital allocation decisions, and (3) identify potential opportunities to increase future cash flows. The FASB decided that the amendments should be effective for public business entities for annual periods beginning after December 15, 2024. Early adoption is permitted. The adoption of this guidance did not have a material impact on its financial position, results of operations and cash flows.
+
+ 
+
+In July 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures. The amendments in ASU 2023-07 improve reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. The amendments in ASU 2023-07 improve financial reporting by requiring disclosure of incremental segment information on an annual and interim basis for all public entities to enable investors to develop more decision-useful financial analyses. The amendments are effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. Early adoption is permitted. The adoption of this guidance did not have a material impact on its financial position, results of operations and cash flows.
+
+ 
+
+In December 2023, the FASB issued ASU No. 2023-08, Accounting for and Disclosure of Crypto Assets (Subtopic 350-60). This ASU requires certain crypto assets to be measured at fair value separately in the balance sheet and income statement each reporting period. This ASU also enhances the other intangible asset disclosure requirements by requiring the name, cost basis, fair value, and number of units for each significant crypto holding. The ASU is effective for annual periods beginning after December 15, 2024, including interim periods within those fiscal years. Adoption of the ASU requires a cumulative-effect adjustment to the opening balance of retained earnings as of the beginning of the annual reporting period in which an entity adopts the amendments. Early adoption is also permitted, including adoption in an interim period. However, if the ASU is early adopted in an interim period, an entity must adopt the ASU as of the beginning of the fiscal year that includes the interim period. This ASU will result in gains and losses recorded in the consolidated financial statements of operations and additional disclosures when adopted. We are currently evaluating the adoption of this ASU and it will affect the carrying value of our crypto assets held and the gains and losses relating thereto, once adopted.
+
+ 
+
+Other accounting standards that have been issued or proposed by FASB that do not require adoption until a future date are not expected to have a material impact on the consolidated financial statements upon adoption. The Company does not discuss recent pronouncements that are not anticipated to have an impact on or are unrelated to its consolidated financial condition, results of operations, cash flows or disclosures.
+
+ 
+
+15
+
+ 
+
+ 
+
+3.        Risks and Concentration
+
+ 
+
+Credit and concentration risk
+
+ 
+
+Assets that potentially subject the Group to significant concentration of credit risk primarily consist of cash and cash equivalents and restricted cash. As of March 31, 2024, substantially all of the Group’s cash and cash equivalents and restricted cash were deposited in financial institutions located in the United States, Hong Kong and the PRC, which management believes are of high credit quality.
+
+ 
+
+4.        Accounts receivables
+
+ 
+
+The following table provides information about contract assets, accounts receivable, deferred revenue and financial liabilities from contracts with customers.
+
+  
+
+                                                                                                            As of          As of     
+
+                                                                                                        December 31,     March 31,
+
+                                                                                                             2023           2024     
+
+                                                                                                           US$’000        US$’000    
+
+                                                                                                                                     
+
+Accounts receivable                                                                                             5,485          1,729 
+
+ 
+
+5.        Prepayments and other current assets
+
+ 
+
+The prepayments and other assets consist of the following:
+
+ 
+
+                                                                                                            As of          As of     
+
+                                                                                                        December 31,     March 31,
+
+                                                                                                            2023           2024      
+
+                                                                                                           US$’000        US$’000    
+
+Prepayments and other current assets                                                                                                 
+
+Prepayment for equipment                                                                                        2,285          5,423 
+
+Deposits                                                                                                          328            328 
+
+Others                                                                                                            367            452 
+
+Total                                                                                                           2,980          6,203 
+
+ 
+
+*    The others mainly include prepaid consulting service fees and other sundry receivables.
+
+ 
+
+6.        Digital assets
+
+ 
+
+                                                                                                            As of          As of     
+
+                                                                                                        December 31,     March 31,
+
+                                                                                                            2023           2024      
+
+                                                                                                           US$’000        US$’000    
+
+                                                                                                                                     
+
+BTC                                                                                                               436            722 
+
+Total                                                                                                             436            722 
+
+ 
+
+Additional information about bitcoin:
+
+ 
+
+For the three months ended March 31, 2024, the Company generated bitcoins primarily through mining services. The following table presents additional information about bitcoins for the years ended December 31, 2023 and for the three months ended March 31, 2024, respectively:
+
+ 
+
+                                                                                                            As of          As of     
+
+                                                                                                        December 31,     March 31,
+
+                                                                                                            2023           2024      
+
+                                                                                                           US$’000        US$’000    
+
+                                                                                                                                     
+
+Opening balance                                                                                                    91            436 
+
+Receipt of bitcoins from mining services                                                                        2,882            672 
+
+Exchange of BTC into USDT                                                                                      (2,537)          (386)
+
+Ending balance                                                                                                    436            722 
+
+ 
+
+For the three months ended March 31, 2024 and for the years ended December 31, 2023, the Company recognized impairment of Nil against bitcoins.
+
+ 
+
+16
+
+ 
+
+  
+
+7.        Equity method investments
+
+ 
+
+In December 2021, the Company had entered into an agreement with industry experts to establish a joint venture, Met Chain Co Limited under the laws of Hong Kong (the “2021 Joint Venture”), specializing in the research and development (“R&D”), production, and sales of cryptocurrency mining equipment. Upon the formation of the 2021 joint venture, the Company held 21% of the equity interests in the 2021 joint venture, with the option to acquire the equity interests held by the other parties to the Joint Venture Agreement under certain conditions as set forth in the Joint Venture Agreement. In November 2022, the Company had entered into an equity transfer agreement with each of the four other equity holders of Met Chain Co Limited to acquire a total of 3.3% of the equity interests in Met Chain Co Limited from the four equity holders, in consideration for such number of ordinary shares of the Company, par value $0.003 per share, valued at RMB7,120,478. As of December 31,2023, the company held 24.3% of the equity interests in Met Chain Co Limited.
+
+ 
+
+The Group recognized gain on equity method investments of nil and $15,000 for the three months ended March 31, 2023 and 2024, respectively.
+
+ 
+
+8.        Property and equipment, net
+
+ 
+
+Property and equipment consists of the following:
+
+ 
+
+                                                                                                            As of          As of     
+
+                                                                                                        December 31,     March 31,
+
+                                                                                                            2023           2024      
+
+                                                                                                           US$’000        US$’000    
+
+Cost:                                                                                                                                
+
+Miners for Bitcoin                                                                                             17,241         18,385 
+
+Total cost                                                                                                     17,241         18,385 
+
+                                                                                                                                     
+
+Less: Accumulated depreciation                                                                                  4,539          5,401 
+
+                                                                                                                                     
+
+Property and equipment, net                                                                                    12,702         12,984 
+
+ 
+
+Depreciation expense recognized for the three months ended March 31, 2023 and 2024 were $839, and $862, respectively.
+
+ 
+
+9.        Income tax
+
+ 
+
+          (a)       Cayman Islands
+
+ 
+
+Under the current tax laws of Cayman Islands, the Company is not subject to tax on income, corporation or capital gain, and no withholding tax is imposed upon the payment of dividends to shareholders.
+
+ 
+
+          (b)       BVI
+
+ 
+
+Under the current tax laws of the BVI, the Company’s BVI subsidiaries are not subject to any income taxes in the BVI.
+
+ 
+
+17
+
+ 
+
+ 
+
+          (c)       Hong Kong Profits Tax
+
+ 
+
+Under the current Hong Kong Inland Revenue Ordinance, the Group’s Hong Kong subsidiaries are subject to Hong Kong profits tax on its taxable income generated from the operations in Hong Kong. A Two-tiered Profits Tax rates regime was introduced since year 2018 where the first HK$2,000 of assessable profits earned by a company will be taxed at half the current tax rate (8.25%) whilst the remaining profits will continue to be taxed at 16.5%. There is an anti-fragmentation measure where each group will have to nominate only one company in the group to benefit from the progressive rates. Payments of dividends by the subsidiaries to the Company are not subject to withholding tax in Hong Kong.
+
+ 
+
+10.       Short term loans
+
+ 
+
+On October 1, 2022, the Group entered into a loan agreement with JM Digital., INC., with a maturity date of October 1, 2023. The Group had drawn down USDT $1,000 (RMB 6,897.2) under the agreement, which is subject to a fixed interest rate of 12% and an origination fee rate of 2%. The loan was guaranteed by 147 units of Ant Miner (S19 series machines) that are hosted at Exponential Digital, LLC’s facilities as collateral. The loan was fully repaid upon maturity as of December 31,2023.
+
+ 
+
+In 2023, the Group used BTC as collateral on Binance and applied for a collateralized loan of 181,500 USDT. These loans have no fixed term and can be repaid at any time. As of December 31, 2023, the Group had 4.09 BTC pledged as collateral, with an outstanding loan balance of 125,000 USDT. As of March 31, 2024, the Group had 9.68 BTC pledged as collateral, with an outstanding loan balance of 308,000 USDT.
+
+ 
+
+11.       Loss per share
+
+ 
+
+Basic and diluted net loss per share for each of the years presented are calculated as follow:
+
+ 
+
+                                                                                                         For the Three Months Ended    
+
+                                                                                                                  March 31,
+
+                                                                                                            2023           2024      
+
+                                                                                                            (in thousands of US$,      
+
+                                                                                                          except share data and per
+
+                                                                                                                 share data)
+
+(Losses)/income per share—basic                                                                                                      
+
+Numerator:                                                                                                                           
+
+Net loss available to shareholders of the Company - basic and diluted                                            (980)          (731)
+
+Denominator                                                                                                                          
+
+Weighted average number of ordinary shares - basic                                                          1,173,662      2,440,706 
+
+Effect of dilutive securities                                                                                       -              - 
+
+Dilutive effect of non-vested shares                                                                        1,173,662      2,440,706 
+
+Denominator for diluted net loss per share                                                                                           
+
+Losses per share— basic                                                                                         (0.83)         (0.30)
+
+Losses per share—diluted                                                                                        (0.83)         (0.30)
+
+ 
+
+18
+
+ 
+
+ 
+
+12.       Share-based compensation
+
+ 
+
+The Group adopted the 2020 employee equity incentive plan (“2020 Plan”) for the granting of share-based awards to executive management, key employees and directors of the Group in exchange for their services.
+
+ 
+
+According to the term of the 2020 Plan, the awarded share units would be contingently redeemable upon the occurrence of certain events. The repurchase price is determined based on a number of factors, including but not limited to the original subscription price of the share units and the business performance of the Group. The Company has made an assessment of the cash settlement feature in the award and the probability of the contingent event’s occurrence. Based on the assessment, the Company concluded that the cash settlement feature could be exercised only on the occurrence of a contingent event that is outside the employee’s control, and is not probable of occurring. Accordingly, the Company classified the award as equity.
+
+ 
+
+The Company accounts for the compensation cost based on the fair value of the awarded share units on the grant-date, on which all criteria for establishing the grant dates are satisfied. The grant-date fair value of the awarded share units is recognized as compensation expense, net of estimated forfeitures, over the period during which an employee is required to provide service in exchange for the award, which is generally the vesting period.
+
+ 
+
+The share-based compensation expenses of Nil and $571,000 were charged to general and administrative expenses for the three months ended March 31, 2023 and 2024, respectively.
+
+ 
+
+13.       Equity
+
+ 
+
+Ordinary shares
+
+ 
+
+On September 27, 2019, the Company was authorized to issue 500,000,000 ordinary shares with a par value of $0.0001 per share. Holder of the Company’s ordinary shares are entitled to one vote for each share.
+
+ 
+
+On July 10, 2018, Meten International was incorporated as limited liability company with authorized share capital of 380,000 Hong Kong dollar (“HK$”) divided into 38,000,000 shares with par value HK $0.01 each. After the incorporation of Meten International, the Founder and Pre-listing Investors subscribed 47,035 ordinary shares of Meten International at par value of HK $0.01.
+
+ 
+
+In December 2018, Meten International increased its authorized share capital by creation of 500,000,000 shares with par value of US$0.0001 and issued 318,601,222 ordinary shares of US$0.0001 each, and repurchased the 47,035 existing issued ordinary shares of HK $0.01 par value each and decreased the authorized share capital by cancellation of all unissued shares of HK$0.01 each.
+
+ 
+
+19
+
+ 
+
+ 
+
+On March 30, 2020, the Company consummated its acquisition of Meten International and EdtechX, pursuant to the Merger Agreement. A total of 318,601,222 ordinary shares of Meten International were converted to 48,391,607 ordinary shares of the Company. A total of 1,971,505 ordinary share of EdtechX were converted to the equal shares of the Company.
+
+ 
+
+Immediately prior to the Business Combination, Azimut Enterprises Holdings S.r.l. invested $20,000 in EdtechX to purchase 2,000,000 units of EdtechX, which were converted into same number of units of the Company upon closing of the Business Combination.
+
+ 
+
+In connection with the Business Combination, on February 28, 2020, March 19, 2020 and March 26, 2020, three unrelated investors agreed to invest US$6,000, US$4,000 and US$6,000, respectively, to purchase shares of the Company. The two $6,000 financings were completed on March 30, 2020, and the US$4,000 financing was terminated on April 14, 2020 as the investor failed to pay the purchase price by the agreed deadline.
+
+ 
+
+In connection with the Business Combination, the Company adopted a new incentive plan to replace the 2018 Plan. The Company rolled over awards granted under the 2013 Plan and 2018 Plan with the same amount and terms. As a result, options to purchase 3,050,701 of the Company’s ordinary shares were issued and outstanding on March 30, 2020. Additionally, the Company reserved for issuance pursuant to the plan one percent (1%) of the total issued and outstanding ordinary shares on the closing date (being 531,005 ordinary shares), and will reserve an additional 1% of then-outstanding shares each year for a period of four years following the first anniversary of the closing date of the Business Combination.
+
+ 
+
+On January 4, 2021, the Company issued 1,327,514 Ordinary Shares under the Company’s 2020 share incentive plan to Pan Yanqiong, the Chief Marketing Officer of Likshuo.
+
+ 
+
+The Company offered 40,000,000 ordinary shares, par value US$0.0001 per share, pursuant to the prospectus supplement and the accompanying prospectus, at a purchase price of US$1.00 per share on May 21, 2021.
+
+ 
+
+On September 1, 2021, the Company offered 22,500,000 ordinary shares, par value US$0.0001 per share at a purchase price of US$0.30 per share.
+
+ 
+
+On November 9, 2021, the Company entered into a securities purchase agreement with certain investors, to sell an aggregate of 33,333,334 ordinary shares, par value $0.0001 per share, of the Company, at an offering price of $0.60 per share.
+
+ 
+
+On May 4, 2022, the Company completed a thirty for one reverse stock split (the “Reverse Split”) of its issued and outstanding ordinary shares, par value $0.003 per share.
+
+ 
+
+On June 29, 2022, the Company approved the proposal to increase their authorized share capital from US$50,000 divided into 16,666,667 ordinary shares of par value of US$0.003 each to US$1,500,000 divided into 500,000,000 ordinary shares of par value of US$0.003 each.
+
+ 
+
+On August 4, 2022, the Company offered 1,470,475 ordinary shares, par value US$0.0001 per share at a purchase price of US$0.30 per share.
+
+ 
+
+On November 10, 2022, the Company issued 3,532,841 ordinary shares of the Company, par value $0.003 per share, valued at RMB7,120,478, to the four equity holders to acquire 3.3% of the equity interests in the Joint Venture.
+
+ 
+
+On June 7, 2023 and July 10, 2023, the Company has entered into an asset purchase agreement with two unaffiliated third parties to acquire 200 units of Antminer S19j Pro (110 TH/s), Bitcoin mining machines, and has issued to the sellers 227,456 ordinary shares of the Company.
+
+ 
+
+On August 1, 2023, the Company has entered into subscription agreements with two foreign investors, including an institutional investor, Future Satoshi Ltd, and an individual investor, for the issue and sale of 200,000 ordinary shares of the Company, with a par value of $0.06 per share, for total gross proceeds of $1,000,000, or $5 per share.
+
+ 
+
+20
+
+ 
+
+ 
+
+On August 23, 2023, the Company completed a twenty for one share consolidation (the “2023 Share Consolidation”, together with the 2022 Share Consolidation, the “Share Consolidations”) of its issued and outstanding ordinary shares, par value $0.06 per share.
+
+ 
+
+On October 5, 2023, the Company has entered into an asset purchase agreement with two unaffiliated third parties to acquire 220 units of Antminer S19j Pro, Bitcoin mining machines, and has issued to the sellers 276,572 ordinary shares of the Company.
+
+ 
+
+On December 14, 2023, the Company has entered into subscription agreements with three individual investors, for the issue and sale of 303,497 ordinary shares of the Company, par value US$0.06 per share (the “Ordinary Shares”), for total gross proceeds of $1,014,286, or US$3.342 per share.
+
+ 
+
+On January 5, 2024 the Company offered 303,497 ordinary shares, par value US$0.06 per share (the “Ordinary Shares”), under the subscription agreements on December 14, 2023.
+
+ 
+
+On March 19, 2024, the Company issued 209,753 ordinary shares, under the Company’s share incentive plan, par value of $0.06 per share.
+
+ 
+
+As of December 31, 2023 and March 31, 2024, there were 2,097,535 and 2,610,785 ordinary shares issued and outstanding, respectively.
+
+ 
+
+From the legal perspective, the Reverse Split applied to the issued shares of the Company on the date of the Reverse Split and does not have any retroactive effect on the Company’s shares prior that date. However, for accounting purposes only, references to our ordinary shares in this annual report are stated as having been retroactively adjusted and restated to give effect to the Reverse Split, as if the Reverse Split had occurred by the relevant earlier date.
+
+ 
+
+Warrants
+
+ 
+
+As of December 31, 2020, there were 12,705,000 warrants outstanding. the warrants have been trading on the Nasdaq Market under the symbol “METXW” since May 27, 2020.
+
+ 
+
+On January 8, 2021, the Company successfully completed a tender offer for its warrants to purchase ordinary shares at a reduced exercise price of $1.40. The offer expired at 11:59 p.m. Eastern time on January 5, 2021.
+
+ 
+
+The Company raised $6,192,286.80 in gross proceeds from the cash exercise of 4,423,062 warrants of the Company as part of the tender offer. In addition, 2,629,812 warrants to purchase ordinary shares of the Company were validly tendered for cashless exercise, resulting in the issuance of 1,364,512 ordinary shares of the Company.
+
+ 
+
+The Company offered its existing loyal warrant holders the opportunity to exercise their warrants at $1.40 from the initial warrant exercise price at $11.50. Approximately 55.5% of the Company’s outstanding warrants were exercised in the tender offer.
+
+ 
+
+Net proceeds are anticipated to be approximately $5,730,000 after deducting information agent fees, placement agent fees and other offering expenses and are expected to primarily be used for potential acquisitions and working capital and for general corporate purposes.
+
+ 
+
+On February 19, 2021, 336,001 warrants to purchase ordinary shares were validly tendered for cashless exercise, resulting in the issuance of 336,001 ordinary shares. The exercise price of the warrants was $2.50 per share.
+
+ 
+
+The Company offered 40,000,000 ordinary shares, par value US$0.0001 per share, pursuant to the prospectus supplement and the accompanying prospectus, at a purchase price of US$1.00 per share on May 21, 2021. Since the offering price per share of this offering was $1.00 per share, which was lower than $2.50 per share, the exercise price for outstanding warrants was reduced to $1.00 upon closing of the offering on May 21, 2021.
+
+ 
+
+On September 1, 2021, the Company offered 22,500,000 ordinary shares, par value US$0.0001 per share at a purchase price of US$0.30 per share. The Company also offered 177,500,000 pre-funded warrants to purchase 177,500,000 ordinary shares, exercisable at an exercise price of $0.0001 per share (the “Pre-funded Warrants”, each a “Pre-funded Warrant”), to those purchasers whose purchase of ordinary shares in the offering would otherwise result in the purchaser, together with its affiliates and certain related parties, beneficially owning more than 4.99% (or, at the election of the holder, 9.99%) of the Company’s outstanding ordinary shares immediately following the consummation of the offering. The purchase price of each Pre-funded Warrant is $0.2999, which equals the price per ordinary share being sold to the public in that offering, minus $0.0001. The Pre-funded Warrants became immediately exercisable upon issuance and may be exercised at any time until all of the Pre-funded Warrants are exercised in full.
+
+ 
+
+21
+
+ 
+
+ 
+
+Upon effectiveness of the Reverse Split, each outstanding warrant of the Company became exercisable for 1/30 ordinary share of the Company, and the exercise price of Company’s outstanding warrants was increased to US$9.00, adjusted from $0.30 prior to the Reverse Split and representing the temporarily reduced price based on the Company’s Tender Offer Statement on Schedule TO, as amended and supplemented, originally filed by the Company with the U.S. Securities and Exchange Commission on December 7, 2020 (the “Tender Offer”). Based on the terms of the Tender Offer, following the date on which the closing price of the Company’s ordinary shares has been equal to or greater than $90.00 per share for at least twenty (20) trading days during the preceding thirty (30) trading day period, the exercise price of the Company’s outstanding warrants would be increased to US$345.00.
+
+ 
+
+On August 4, 2022, the Company offered 22,899,047 ordinary shares, par value US$0.003 per share, consisting of (a) 1,470,475 ordinary shares issuable upon the exercise of pre-funded warrants (the “Pre-Funded Warrants”) and (b) 21,428,572 ordinary shares issuable upon the exercise of investor warrants (the “Investor Warrants”). Each Pre-Funded Warrant is exercisable for $0.001 per ordinary share and may be exercised at any time until all the Pre-Funded Warrants are exercised in full; and each Investor Warrant has an exercise price of $0.70 per share, is exercisable on or after August 8, 2022 and will expire on August 9, 2027.
+
+ 
+
+As a result of the August 2022 offering, the exercise price of the Company’s public warrants was reduced to $0.70 per warrant. The exercise price of the Company’s outstanding warrants will be reset to $345.00 per share on the date following which the closing price of its ordinary shares has been equal to or greater than $90.00 per share for at least twenty (20) trading days during the preceding thirty (30) trading day period, and such exercise price will no longer be subject to the “full-ratchet” anti-dilution protection.
+
+ 
+
+14.       Related party transactions
+
+ 
+
+In addition to the related party information disclosed elsewhere in the consolidated financial statements, the Group entered into the following material related party transactions.
+
+ 
+
+Name of party                                                        Relationship
+
+Mr. Zhao Jishuang                                                    A major shareholder of the Company
+
+Mr. Guo Yupeng                                                       A major shareholder of the Company
+
+Mr. Peng Siguang                                                     A major shareholder of the Company
+
+Met Chain Co.,Limited                                                An associate company of the company
+
+ 
+
+          (a)  Major transactions with related parties
+
+ 
+
+                                                                                                         For the Three Months Ended    
+
+                                                                                                                  March 31,
+
+                                                                                                            2023           2024      
+
+                                                                                                           USD’000        USD’000    
+
+                                                                                                                                     
+
+Repayment of  advances from related parties                                                                                          
+
+- Mr. Zhao Jishuang                                                                                                 -            230 
+
+- Met Chain Co.,Limited                                                                                             -              3 
+
+Total                                                                                                               -            233 
+
+  
+
+22
+
+ 
+
+  
+
+          (b)  Balances with related parties
+
+ 
+
+                                                                                                            As of          As of     
+
+                                                                                                        December 31,     March 31,
+
+                                                                                                            2023           2024      
+
+                                                                                                           USD’000        USD’000    
+
+Amounts due to related parties                                                                                                       
+
+Current                                                                                                                              
+
+- Mr. Guo Yupeng                                                                                                  290            290 
+
+- Mr. Zhao Jishuang                                                                                             1,952          1,722 
+
+- Met Chain Co.,Limited                                                                                         1,814          1,811 
+
+Total                                                                                                           4,056          3,823 
+
+ 
+
+          (i)       Advances from/to these related parties are unsecured, interest free and repayable on demand.
+
+ 
+
+15.       Restricted net assets
+
+ 
+
+There is no other restriction on use of proceeds generated by the Group’s subsidiaries to satisfy any obligations of the Company.
+
+ 
+
+16.       Commitments
+
+ 
+
+Capital commitments
+
+ 
+
+The Group has commitment for capital expenditure totaling $8.17 million as of March 31, 2024. The commitment is related to purchase miners and acquire a BTC mining facility.
+
+ 
+
+17.       Subsequent events
+
+ 
+
+The Company has assessed all subsequent events from March 31, 2024, up through May 15, 2024, which is the date that these consolidated financial statements were available to be issued. No subsequent event which had a material impact on the Group was identified through the date of issuance of the financial statements.
+
+ 
+
+23
+
+ 
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ 
+
+The following discussion should be read in conjunction with our consolidated financial statements and the related notes contained elsewhere in this Report and in our other Securities and Exchange Commission filings. The following discussion may contain predictions, estimates, and other forward-looking statements that involve a number of risks and uncertainties, including those discussed under “Risk Factors” and elsewhere in this Report. These risks could cause our actual results to differ materially from any future performance suggested below.
+
+ 
+
+Overview
+
+ 
+
+BTC Digital Ltd. (“we”, “us” “our” and the “Company”) is a crypto asset technology company based in the U.S. with a focus on bitcoin mining. We also generate revenue through mining machines resale and rental business operations.
+
+ 
+
+For the three months ended March 31, 2024, we generated a substantial majority of our revenue from bitcoin mining. We store all of our bitcoins mined in hot wallets, or cryptocurrency wallets connected to the Internet, and may from time to time exchange bitcoins mined for fiat currency to generate cash flow to fund our business operations. We attribute our growth since we launched our crypto asset business in 2022 to our competitive strengths in diversified revenue streams, dedicated team and efforts towards regulatory compliance, and our experienced and visionary management team.
+
+ 
+
+As of March 31, 2024, we owned a total of 2,021 mining machines under operation with a total hash rate of 213PH/S. We manage and operate our mining machines at one hosting facility operated by a hosting facility owner in New Tazewell, Tennessee. For the three months ended March 31, 2024, we mined a total of 12.407 bitcoins, generating US$0.7 million in revenue.
+
+ 
+
+Historically, the price of bitcoins has fluctuated significantly. The profitability of our bitcoin mining operations and our operation results have been and will continue to be directly impacted by the trading price of bitcoins. To mitigate these risks, we have launched a mining machines resale and rental business. We have maintained business relationship with a major machine manufacturer, AGM Technologies Ltd, from which we source mining machines on an order-by-order basis, often at prices lower than market prices. We will then resell mining machines when there is a shortage of machines available on the market and resale prices are higher. Additionally, from time to time, we rent out our mining machines to customers at a rate calculated based on the total bitcoins mined. We seek to rent out a greater percentage of our fleet at times when bitcoin prices are lower to generate cash flow.
+
+ 
+
+We believe research and development capacities are key to our continued long-term growth and will afford us with the ability to mine bitcoins with greater hash rate and power efficiency and the opportunity to further expand our service or product offerings and diversify our revenue streams. Through the Joint Venture (as defined below), we have participated in the design and development of equipment dedicated for mining machines and infrastructure, including high voltage power supply, liquid-cooling systems, and hash boards. In the near future, we plan to continue investing in research and development and the Joint Venture and accumulate knowledge in the cryptocurrency industry.
+
+ 
+
+24
+
+ 
+
+ 
+
+Results of Operations
+
+ 
+
+The following table sets forth a summary of our consolidated results of operations, both in absolute amounts and as a percentage of total net revenue, for the period indicated. This information should be read together with our consolidated financial statements and related notes included elsewhere in our annual report on Form 10-K. The operating results in any period are not necessarily indicative of the results that may be expected for any future period.
+
+ 
+
+                                                                                    For the three months ended March 31,              
+
+                                                                                   2023                           2024              
+
+                                                                            US$             %             US$             %       
+
+Summary Consolidated Statements of Operations:                                                                                    
+
+Revenues                                                                         907          100.0          2,650          100.0 
+
+Cost of revenues                                                              (1,250)        (137.8)        (2,778)        (104.8)
+
+Gross loss                                                                      (343)         (37.8)          (128)          (4.8)
+
+Operating expenses:                                                                                                               
+
+Selling and marketing expenses                                                  (128)         (14.1)           (35)          (1.3)
+
+General and administrative expenses                                             (529)         (58.3)          (906)         (34.2)
+
+Loss from operations                                                          (1,000)        (110.3)        (1,069)         (40.3)
+
+Realized gain on exchange of digital assets                                       51            5.6            330           12.5 
+
+Interest expenses                                                                (30)          (3.3)            (6)          (0.2)
+
+Equity in income on equity method investments                                      -              -             15            0.6 
+
+Others, net                                                                       (1)          (0.1)            (1)          (0.0)
+
+Loss before income tax                                                          (980)        (108.0)          (731)         (27.6)
+
+Income tax expense                                                                 -              -              -              - 
+
+Net loss                                                                        (980)        (108.0)          (731)         (27.6)
+
+                                                                                                                                 )
+
+ 
+
+Three Months Ended March 31, 2024 Compared to Three Months Ended March 31, 2023
+
+ 
+
+Revenues
+
+ 
+
+                                                                                    For the three months ended March 31,              
+
+                                                                                    2023                            2024              
+
+                                                                            US$             %             US$             %       
+
+Bitcoin mining                                                                   450           49.6            672           25.4 
+
+Mining machines resale                                                             -              -          1,728           65.2 
+
+Miner rental and other mining-related business                                   457           50.4            250            9.4 
+
+Total                                                                            907          100.0          2,650          100.0 
+
+ 
+
+Our total revenue increased by 192.2% from US$0.9 million for the three months ended of March 31, 2023 to US$2.7 million for the three months ended of March 31, 2024. This increase was primarily due to significant growth in both the resale of mining machines and bitcoin mining revenue compared to the same period last year. Notably, the resale revenue from mining machines for the three months ended March 31, 2024, amounted to US$1.7 million.
+
+  
+
+Cost of Revenues
+
+ 
+
+Our total cost of revenues increased by 122.2% from US$1.3 million for the three months ended of March 31, 2023 to US$2.8 million for the three months ended of March 31, 2024. This increase was primarily due to the addition of resale costs for mining machines compared to the same period last year.
+
+ 
+
+Gross Loss and Gross Profit Margin
+
+ 
+
+As a result of the foregoing, our gross profit increased by US$0.2 million, from negative US$0.3 million for the three months ended of March 31, 2023 to negative US$0.1 million for the three months ended of March 31, 2024. Our gross profit margin increased from negative 37.8% for the three months ended of March 31, 2023 to negative 4.8% for the three months ended of March 31, 2024.
+
+ 
+
+Selling and Marketing Expenses
+
+ 
+
+Our selling and marketing expenses decreased from US$128 thousand for the three months ended of March 31, 2023 to US$35 thousand for the three months ended of March 31, 2024, mainly due to the optimization of sales strategies and the reduction of inefficient sales activities or channels.
+
+ 
+
+General and Administrative Expenses
+
+ 
+
+Our general and administrative expenses increased by 71.3% from US$0.5 million for the three months ended of March 31, 2023 to US$0.9 million for the three months ended of March 31, 2024. This increase was primarily due to the rise in expenses related to the Employee Stock Option Plan, which amounted to US$0.57 million.
+
+ 
+
+25
+
+ 
+
+ 
+
+Interest Expenses
+
+ 
+
+Our interest expenses decreased from US$30 thousand for the three months ended of March 31, 2023 to US$6 thousand for the three months ended of March 31,2024. This reduction is consistent with the decrease in short-term loans.
+
+ 
+
+Equity in Income on Equity Method Investments
+
+ 
+
+Our gain on equity method investments was nil and US$15 thousand for the three months ended of March 31, 2023 and 2024, respectively.
+
+ 
+
+Loss Before Income Tax
+
+   
+
+As a result of the foregoing, we had a loss before income tax of US$980 thousand for the three months ended of March 31, 2023, as compared to a loss before income tax of US$731 thousand for the three months ended of March 31, 2024.
+
+ 
+
+Net Loss
+
+ 
+
+As a result of the foregoing, we had a net loss of US$980 thousand for the three months ended of March 31, 2023, as compared to a net loss of US$731 thousand for the three months ended of March 31, 2024.
+
+ 
+
+Non-GAAP Financial Measures
+
+ 
+
+To supplement our consolidated financial statements which are presented in accordance with U.S. GAAP, we also use adjusted net income and adjusted EBITDA as additional non-GAAP financial measures. We present these non-GAAP financial measures because they are used by our management to evaluate its operating performance. We also believe that such non-GAAP financial measures provide useful information to investors and others in understanding and evaluating our consolidated results of operations in the same manner as our management and in comparing financial results across accounting periods and to those of its peer companies.
+
+  
+
+Adjusted net income and adjusted EBITDA should not be considered in isolation or construed as alternatives to net income/(loss) or any other measure of performance or as indicators of our operating performance. Investors are encouraged to compare the historical non-GAAP financial measures with the most directly comparable GAAP measures. Adjusted net income and adjusted EBITDA presented here may not be comparable to similarly titled measures presented by other companies. Other companies may calculate similarly titled measures differently, limiting their usefulness as comparative measures to our data. We encourage investors and others to review our financial information in its entirety and not rely on a single financial measure.
+
+ 
+
+Adjusted net income represents net income/(loss) before share-based compensation and offering expenses. The table below sets forth a reconciliation of our adjusted net income for the periods indicated:
+
+ 
+
+                                                                                                        For the Three Months Ended of  
+
+                                                                                                                  March 31,
+
+                                                                                                            2023           2024      
+
+                                                                                                             US$            US$      
+
+                                                                                                            (in thousands, except      
+
+                                                                                                               for percentages)
+
+Net loss                                                                                                         (980)          (731)
+
+Add:                                                                                                                                 
+
+Share-based compensation expenses                                                                                   -            571 
+
+Adjusted net loss                                                                                                (980)          (160)
+
+ 
+
+26
+
+ 
+
+  
+
+In addition, adjusted EBITDA represents the net income/(loss) before interest expenses, income tax expenses, depreciation and amortization, and excluding share-based compensation expenses and offering expenses. The table below sets forth a reconciliation of our adjusted EBITDA for the periods indicated:
+
+ 
+
+                                                                                                        For the Three Months Ended of  
+
+                                                                                                                  March 31,
+
+                                                                                                            2023           2024      
+
+                                                                                                             US$            US$      
+
+                                                                                                            (in thousands, except      
+
+                                                                                                               for percentages)
+
+Net loss                                                                                                         (980)          (731)
+
+Subtract:                                                                                                                            
+
+Net interest loss                                                                                                 (30)            (6)
+
+Add:                                                                                                                                 
+
+Income tax expense                                                                                                  -              - 
+
+Depreciation and amortization                                                                                     839            862 
+
+EBITDA                                                                                                           (111)           137 
+
+Add:                                                                                                                                 
+
+Share-based compensation expenses                                                                                   -            571 
+
+Adjusted EBITDA                                                                                                  (111)           708 
+
+ 
+
+Taxation
+
+ 
+
+Cayman Islands
+
+ 
+
+We are incorporated in the Cayman Islands. Under the current law of the Cayman Islands, we are not subject to income or capital gains tax. In addition, dividend payments are not subject to withholding tax in the Cayman Islands.
+
+ 
+
+British Virgin Islands
+
+ 
+
+Under the current laws of the British Virgin Islands, companies formed in the British Virgin Islands are not subject to tax on income or capital gains.
+
+ 
+
+Delaware
+
+ 
+
+The Delaware corporate tax rate is 8.7%. This tax rate applies to limited liability companies that elect to be treated as corporations and report net taxable income. Our subsidiary, Meten Block Chain LLC was formed in Delaware and elects to be treated as corporation.
+
+ 
+
+Hong Kong
+
+ 
+
+Our two wholly-owned subsidiaries in Hong Kong, Meten Education (Hong Kong) Limited and Likeshuo Education (Hong Kong) Limited, are subject to an income tax rate of 16.5% for taxable income earned in Hong Kong. No Hong Kong profit tax has been levied in our consolidated financial statements as Meten Education (Hong Kong) Limited and Likeshuo Education (Hong Kong) Limited had no assessable income for the years ended December 31, 2023 and for the three months ended of March 31,2024.
+
+ 
+
+27
+
+ 
+
+ 
+
+Critical Accounting Policies
+
+ 
+
+We prepare our financial statements in accordance with U.S. GAAP, which requires our management to make judgment, estimates and assumptions that affect our reporting of, among other things, assets and liabilities, contingent assets and liabilities and revenue and expenses. We continually evaluate these judgments, estimates and assumptions based on our own historical experience, knowledge and assessment of relevant current business and other conditions, our expectations regarding the future based on available information and various assumptions that we believe to be reasonable, which together form our basis for making judgments about matters that are not readily apparent from other sources. Since the use of estimates is an integral component of the financial reporting process, our actual results could differ from those estimates. Some of our accounting policies require a higher degree of judgment than others in their application.
+
+ 
+
+The selection of critical accounting policies, the judgments and other uncertainties affecting the application of those policies and the sensitivity of reported results to changes in conditions and assumptions are factors that should be considered when reviewing our financial statements. We believe the following accounting policies involve the most significant judgments and estimates used in the preparation of our financial statements. You should read the following description of critical accounting policies, judgments and estimates in conjunction with our consolidated financial statements and other disclosures included herein.
+
+ 
+
+Share-based compensation
+
+ 
+
+Share-based compensation costs are measured at the grant date. The compensation expense in connection with the shares awarded to employees is recognized using the straight-line method over the requisite service period. Forfeitures are estimated at the time of grant, with such estimate updated periodically and with actual forfeitures recognized currently to the extent they differ from the estimate. In determining the fair value of the shares awarded to employees, the discounted cash flow pricing model has been applied.
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+Our principal sources of liquidity have been from cash generated from operating activities. As of December 31, 2023 and March 31, 2024, we had US$43,000 and US$32,000, respectively, in cash and cash equivalents. Cash and cash equivalents consist of cash on hand placed with banks or other financial institutions and highly liquid investment which are unrestricted as to withdrawal and use and have original maturities of three months or less when purchased. 
+
+ 
+
+We intend to finance future working capital requirements and capital expenditures from cash generated from operating activities, and funds raised from financing activities, including the net proceeds we received from the transactions. We believe that our current available cash and cash equivalents will be sufficient to meet our working capital requirements and capital expenditures in the ordinary course of business for the next twelve months.
+
+ 
+
+However, we may require additional cash resources due to the changing business conditions or other future developments, including any investment or acquisition we may decide to selectively pursue. If our existing cash resources are insufficient to meet our requirements, we may seek to sell equity or equity-linked securities, sell debt securities or borrow from banks. We cannot assure you that financing will be available in the amounts we need or on terms acceptable to us, if at all. The sale of additional equity securities would result in additional dilution to our shareholders. The incurrence of indebtedness and issuance of debt securities would result in debt service obligations and could result in operating and financial covenants that restrict our ability to pay dividends to our shareholders.
+
+  
+
+The following table sets forth a summary of our cash flows for the periods presented:
+
+ 
+
+                                                                                                        For the Three Months Ended of  
+
+                                                                                                                  March 31,
+
+                                                                                                            2023           2024      
+
+                                                                                                             US$            US$      
+
+                                                                                                            (in thousands, except      
+
+                                                                                                               for percentages)
+
+Summary Consolidated Cash flow Data:                                                                                                 
+
+Net cash generated from operating activities                                                                    6,180            172 
+
+Net cash used in investing activities                                                                          (2,332)          (838)
+
+Net cash generated from/ (used in) financing activities                                                          (287)           655 
+
+Net increase/(decrease) in cash and cash equivalents                                                            3,561            (11)
+
+Cash and cash equivalents at the beginning of period                                                               48             43 
+
+Cash and cash equivalents at the end of period                                                                  3,609             32 
+
+ 
+
+28
+
+ 
+
+ 
+
+Operating Activities
+
+ 
+
+Net cash flow generated from operating activities amounted to US$6.2 million for the three months ended of March 31, 2023. The difference between our net loss of US$7.2 million and the net cash used in operating activities was primarily due to (i) depreciation and amortization of US$0.8 million; (ii) decrease in accounts receivable of US$8.9 million, primarily due to the collection of receivables from mining machines resale; (iii) increase in prepayments and other current assets of US$1.8 million, mainly due to an increase in advance payments for purchases; (iv) increase in accounts payable of US$0.8 million, mainly for outstanding purchase payments.
+
+ 
+
+Net cash generated from operating activities amounted to US$0.2 million for the three months ended of March 31, 2024. The difference between our net loss of US$0.9 million and the net cash used in operating activities was primarily due to (i) depreciation and amortization of US$0.9 million; (ii) decrease in accounts receivable of US$3.8 million, , primarily due to the collection of receivables from mining machines resale; and (iii) increase in prepayments and other current assets of US$3.8 million, mainly due to an increase in advance payments for purchases.
+
+ 
+
+Investing Activities
+
+ 
+
+Net cash used in investing activities amounted to US$2.3 million for the three months ended of March 31, 2023, which was primarily attributable to the purchases of property and equipment of US$2.3 million.
+
+ 
+
+Net cash used in investing activities amounted to US$0.8 million for the three months ended of March 31, 2024. This was primarily attributable to the purchases of property and equipment of US$0.6 million, repayment of advances to related parties of US$0.2 million.
+
+ 
+
+Financing Activities
+
+ 
+
+Net cash flow used in financing activities amounted to US$0.3 million for the three months ended of March 31, 2023, which was attributable to the repayment of short term loans of US$0.3 million.
+
+ 
+
+Net cash flow generated from financing activities amounted to US$0.7 million for the three months ended of March 31, 2024. This was primarily attributable to the proceeds from issuance of ordinary shares for private placement of US$0.5 million, and proceeds from short term loans of US$0.2 million.
+
+ 
+
+Capital Expenditures
+
+ 
+
+Our capital expenditures amounted to US$2.3 million and US$0.6 million in for the three months ended of March 31, 2023 and 2024, respectively. We will continue to make capital expenditures to meet the expected growth of our business and expect that cash generated from our operating activities and financing activities will meet our capital expenditure needs in the foreseeable future.
+
+ 
+
+Trend Information
+
+ 
+
+Other than as disclosed elsewhere in this report, we are not aware of any trends, uncertainties, demands, commitments or events that are reasonably likely to have a material effect on our net revenues, income, profitability, liquidity or capital resources, or that would cause the disclosed financial information to be not necessarily indicative of future operating results or financial conditions.
+
+ 
+
+JOBS Act
+
+ 
+
+Section 107 of the JOBS Act also provides that an “emerging growth company” can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an “emerging growth company” can delay the adoption of new or revised accounting standards until those standards would otherwise apply to private companies. We have elected to avail ourselves of this extended transition period.
+
+ 
+
+29
+
+ 
+
+ 
+
+For as long as we remain an “emerging growth company” under the recently enacted JOBS Act, we will, among other things:
+
+ 
+
+          ●    be exempt from the provisions of Section 404(b) of the Sarbanes-Oxley Act, which requires that our independent
+
+                registered public accounting firm provide an attestation report on the effectiveness of our internal controls over
+
+                financial
+
+                reporting;
+
+ 
+
+          ●    be permitted to omit the detailed compensation discussion and analysis from proxy statements and reports filed under
+
+                the Exchange Act and instead provide a reduced level of disclosure concerning executive compensation;
+
+                and
+
+ 
+
+          ●    be exempt from any rules that may be adopted by the Public Company Accounting Oversight Board requiring mandatory audit
+
+                firm rotation or a supplement to the auditor’s report on the financial
+
+                statements.
+
+ 
+
+Although we are still evaluating the JOBS Act, we currently intend to take advantage of some or all of the reduced regulatory and reporting requirements that will be available to us so long as we qualify as an “emerging growth company,” including the extension of time to comply with new or revised financial accounting standards available under Section 102(b) of the JOBS Act. Among other things, this means that our independent registered public accounting firm will not be required to provide an attestation report on the effectiveness of our internal control over financial reporting so long as we qualify as an emerging growth company, which may increase the risk that weaknesses or deficiencies in our internal control over financial reporting go undetected. Likewise, so long as we qualify as an emerging growth company, we may elect not to provide you with certain information, including certain financial information and certain information regarding compensation of our executive officers, that we would otherwise have been required to provide in filings we make with the SEC, which may make it more difficult for investors and securities analysts to evaluate our company. As a result, investor confidence in our company and the market price of our common stock may be materially and adversely affected.
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+ 
+
+Information about market risks for the three months ended March 31, 2024, does not differ materially from that discussed under Item 7A of the Company’s Annual Report on Form 10-K for 2023.
+
+ 
+
+Item 4. Controls and Procedures
+
+ 
+
+As indicated in the certifications in Exhibit 31 of this report, the Company’s Chief Executive Officer and Chief Financial Officer have evaluated the Company’s disclosure controls and procedures as of March 31, 2024. Based on that evaluation, these officers have concluded that the Company’s disclosure controls and procedures are effective in ensuring that information required to be disclosed by the Company in the reports that it files or submits under the Securities Exchange Act of 1934, as amended, is accumulated and communicated to them in a manner that allows for timely decisions regarding required disclosures and are effective in ensuring that such information is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms. There were no changes during the Company’s last fiscal quarter that materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+ 
+
+30
+
+ 
+
+ 
+
+PART II. OTHER INFORMATION
+
+ 
+
+Item 1. Legal Proceedings
+
+ 
+
+We may from time to time be subject to various legal or administrative claims and proceedings arising in the ordinary course of our business. We are not, and none of our subsidiaries is, a party to any litigation, arbitration or administrative proceedings that we believe would, individually or taken as a whole, have a material adverse effect on our business, financial condition or results of operations, and, insofar as we are aware, no such litigation, arbitration or administrative proceedings are pending, threatened, or contemplated. Litigation or any other legal or administrative proceeding, regardless of the outcome, is likely to result in substantial costs and diversion of our resources, including our management’s time and attention.
+
+ 
+
+Item 1A. Risk Factors
+
+ 
+
+Not Applicable
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+ 
+
+On March 12, 2024, the Company entered into an agreement under which the Company will acquire a BTC mining facility located in North Carolina, equipped with a stable power load of 10 megavolts (MV). The total consideration for this acquisition amounts to $3.4 million.
+
+ 
+
+On March 27, 2024, the Company entered into an asset purchase agreement with an unaffiliated third party to acquire 200 units of Antminer L7 Bitcoin mining machines, with the total consideration for the agreement amounting to $980,000.
+
+ 
+
+The details of the two agreements were disclosed in the Company’s Annual Report on Form 10-K for 2023.
+
+ 
+
+Item 3. Default Upon Senior Securities
+
+ 
+
+None.
+
+ 
+
+Item 4. Mine Safety Disclosure
+
+ 
+
+Not Applicable
+
+ 
+
+Item 5. Other Information
+
+ 
+
+No director or officer adopted or terminated any Rule 10b5-1 plan or any non-Rule 10b5-1 trading arrangement during the first quarter of 2024.
+
+ 
+
+Item 6. Exhibits
+
+ 
+
+See Index to Exhibits of this report.
+
+ 
+
+Index to Exhibits
+
+ 
+
+Exhibit      Description
+
+31.1         Certification (pursuant to Securities Exchange Act Rule 13a-14(a)) by Chief Executive Officer.
+
+31.2         Certification (pursuant to Securities Exchange Act Rule 13a-14(a)) by Chief Financial Officer.
+
+32.1         Section 1350 Certification (pursuant to Sarbanes-Oxley Section 906) by Chief Executive Officer.
+
+32.2         Section 1350 Certification (pursuant to Sarbanes-Oxley Section 906) by Chief Financial Officer.
+
+101.INS      Inline XBRL Instance Document.
+
+101.SCH      Inline XBRL Taxonomy Extension Schema Document.
+
+101.CAL      Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+
+101.DEF      Inline XBRL Taxonomy Extension Definition Linkbase Document.
+
+101.LAB      Inline XBRL Taxonomy Extension Label Linkbase Document.
+
+101.PRE      Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+
+104          Cover Page Interactive Data File (Embedded as Inline XBRL document and contained in Exhibit 101).
+
+ 
+
+31
+
+ 
+
+  
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+Date: May 15, 2024                                                               BTC Digital Ltd.
+
+                                                                                  
+
+                                                                                 By:  /s/ Yupeng Guo
+
+                                                                                      Yupeng Guo
+
+                                                                                      Acting Chief Financial Officer
+
+                                                                                      (Principal Financial and Accounting Officer)
+
+ 
+
+ 
+
+32
+
+ 
+
+ 
+
+--12-31 00-0000000 false Q1 0001796514 0001796514 2024-01-01 2024-03-31 0001796514 btct:OrdinarySharesParValue006PerShareMember 2024-01-01 2024-03-31 0001796514 btct:WarrantsEachExercisableFor1600OrdinarySharesMember 2024-01-01 2024-03-31 0001796514 2024-03-31 0001796514 2023-12-31 0001796514 us-gaap:RelatedPartyMember 2023-12-31 0001796514 us-gaap:RelatedPartyMember 2024-03-31 0001796514 2023-01-01 2023-03-31 0001796514 us-gaap:CommonStockMember 2022-12-31 0001796514 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 0001796514 us-gaap:RetainedEarningsMember 2022-12-31 0001796514 us-gaap:ParentMember 2022-12-31 0001796514 2022-12-31 0001796514 us-gaap:RetainedEarningsMember 2023-01-01 2023-03-31 0001796514 us-gaap:ParentMember 2023-01-01 2023-03-31 0001796514 us-gaap:CommonStockMember 2023-01-01 2023-03-31 0001796514 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-03-31 0001796514 us-gaap:CommonStockMember 2023-03-31 0001796514 us-gaap:AdditionalPaidInCapitalMember 2023-03-31 0001796514 us-gaap:RetainedEarningsMember 2023-03-31 0001796514 us-gaap:ParentMember 2023-03-31 0001796514 2023-03-31 0001796514 us-gaap:CommonStockMember 2023-12-31 0001796514 us-gaap:AdditionalPaidInCapitalMember 2023-12-31 0001796514 us-gaap:RetainedEarningsMember 2023-12-31 0001796514 us-gaap:ParentMember 2023-12-31 0001796514 us-gaap:RetainedEarningsMember 2024-01-01 2024-03-31 0001796514 us-gaap:ParentMember 2024-01-01 2024-03-31 0001796514 us-gaap:CommonStockMember 2024-01-01 2024-03-31 0001796514 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-03-31 0001796514 us-gaap:CommonStockMember 2024-03-31 0001796514 us-gaap:AdditionalPaidInCapitalMember 2024-03-31 0001796514 us-gaap:RetainedEarningsMember 2024-03-31 0001796514 us-gaap:ParentMember 2024-03-31 0001796514 btct:OrganizationAndGeneralMember 2024-03-31 0001796514 btct:RichardFearMember 2019-09-27 0001796514 btct:MetenInternationalMember 2024-03-31 0001796514 btct:EdtechXMember 2024-03-31 0001796514 srt:MinimumMember 2024-01-01 2024-03-31 0001796514 srt:MaximumMember 2024-01-01 2024-03-31 0001796514 btct:EdtechXMember 2024-03-31 0001796514 2020-03-19 2020-03-19 0001796514 2020-02-28 2020-02-28 0001796514 2020-03-26 2020-03-26 0001796514 2020-03-30 2020-03-30 0001796514 2020-04-20 2020-04-20 0001796514 2017-12-18 2017-12-18 0001796514 btct:MetenInternationalEducationGroupMember 2024-01-01 2024-03-31 0001796514 btct:MetenEducationInvestmentLimitedMetenBVIMember 2024-01-01 2024-03-31 0001796514 btct:LikeshuoEducationInvestmentLimitedLikeshuoBVIMember 2024-01-01 2024-03-31 0001796514 btct:MetenEducationHongKongLimitedMetenHKMember 2024-01-01 2024-03-31 0001796514 btct:LikeshuoEducationHongKongLimitedLikeshuoHKMember 2024-01-01 2024-03-31 0001796514 btct:MetaPathInvestingHoldingCompanyMember 2024-01-01 2024-03-31 0001796514 btct:MetChainInvestingHoldingCompanyLtdMember 2024-01-01 2024-03-31 0001796514 btct:METENBLOCKCHAINLLCMember 2024-01-01 2024-03-31 0001796514 btct:MetenServiceUSACorpMember 2024-01-01 2024-03-31 0001796514 srt:MinimumMember btct:EquityMethodInvestments1Member 2024-03-31 0001796514 srt:MaximumMember btct:EquityMethodInvestments1Member 2024-03-31 0001796514 us-gaap:MineDevelopmentMember 2024-03-31 0001796514 2023-01-01 2023-12-31 0001796514 btct:BTCMember 2023-12-31 0001796514 btct:BTCMember 2024-03-31 0001796514 btct:MetChainCoLimitedMember 2021-12-31 0001796514 btct:MetChainCoLimitedMember 2022-11-30 0001796514 us-gaap:CommonStockMember 2022-11-30 0001796514 2022-11-30 2022-11-30 0001796514 btct:MetChainCoLimitedMember 2023-12-31 0001796514 2023-12-31 2023-12-31 0001796514 us-gaap:TechnologyEquipmentMember 2023-12-31 0001796514 us-gaap:TechnologyEquipmentMember 2024-03-31 0001796514 country:HK 2024-01-01 2024-03-31 0001796514 us-gaap:NotesPayableOtherPayablesMember 2022-09-25 2022-10-01 0001796514 us-gaap:NotesPayableOtherPayablesMember 2022-10-01 0001796514 us-gaap:NotesPayableOtherPayablesMember 2023-12-31 0001796514 us-gaap:AssetPledgedAsCollateralWithoutRightMember 2023-12-31 0001796514 us-gaap:NotesPayableOtherPayablesMember 2023-01-01 2023-12-31 0001796514 us-gaap:AssetPledgedAsCollateralWithoutRightMember 2024-03-31 0001796514 us-gaap:NotesPayableOtherPayablesMember 2024-01-01 2024-03-31 0001796514 btct:LikeshuoEducationHongKongLimitedLikeshuoHKMember 2024-01-01 2024-03-31 0001796514 us-gaap:CommonStockMember 2019-09-27 0001796514 2018-07-10 0001796514 btct:MetenInternationalMember 2018-07-10 2018-07-10 0001796514 btct:MetenInternationalMember 2018-07-10 0001796514 btct:MetenInternationalMember 2018-12-31 0001796514 us-gaap:CommonStockMember 2018-12-31 0001796514 2018-12-31 0001796514 btct:MergerAgreementMember 2020-03-30 0001796514 btct:EdtechXMember 2020-03-30 0001796514 2020-02-28 0001796514 2020-03-19 0001796514 2020-03-26 0001796514 2020-03-30 0001796514 2020-04-14 0001796514 2021-01-04 0001796514 us-gaap:CommonStockMember 2021-05-21 0001796514 2021-09-01 0001796514 us-gaap:CommonStockMember 2021-09-01 0001796514 2021-11-09 0001796514 us-gaap:CommonStockMember 2021-11-09 0001796514 us-gaap:CommonStockMember 2022-05-04 0001796514 srt:MinimumMember 2022-06-29 0001796514 srt:MinimumMember us-gaap:CommonStockMember 2022-06-29 0001796514 srt:MaximumMember 2022-06-29 0001796514 srt:MaximumMember us-gaap:CommonStockMember 2022-06-29 0001796514 2022-08-04 0001796514 us-gaap:CommonStockMember 2022-08-04 0001796514 2022-11-10 0001796514 us-gaap:CommonStockMember 2022-11-10 0001796514 btct:JointVentureMember 2022-11-10 0001796514 btct:IndividualInvestorMember 2023-07-14 0001796514 btct:IndividualInvestorMember 2023-08-01 0001796514 2023-08-01 2023-08-01 0001796514 2023-08-01 0001796514 2023-08-23 0001796514 btct:AssetPurchaseAgreementMember 2023-10-05 0001796514 btct:ThreeIndividualInvestorsMember 2023-12-14 0001796514 btct:ThreeIndividualInvestorsMember 2023-12-14 2023-12-14 0001796514 2024-01-05 0001796514 us-gaap:CommonStockMember 2024-01-05 0001796514 2024-03-19 0001796514 us-gaap:CommonStockMember 2024-03-19 0001796514 2020-12-31 0001796514 us-gaap:WarrantMember 2021-01-08 2021-01-08 0001796514 us-gaap:WarrantMember 2024-01-01 2024-03-31 0001796514 2021-02-19 2021-02-19 0001796514 us-gaap:WarrantMember 2021-02-19 0001796514 2021-02-19 0001796514 us-gaap:WarrantMember 2021-05-21 0001796514 srt:MinimumMember 2021-05-21 0001796514 srt:MaximumMember 2021-05-21 0001796514 us-gaap:WarrantMember 2021-05-21 2021-05-21 0001796514 2022-08-31 2022-08-31 0001796514 us-gaap:CommonStockMember 2022-08-31 0001796514 btct:MrZhaoJishuangMember 2024-01-01 2024-03-31 0001796514 btct:MrGuoYupengMember 2024-01-01 2024-03-31 0001796514 btct:MrPengSiguangMember 2024-01-01 2024-03-31 0001796514 btct:MetChainCoLimitedMember 2024-01-01 2024-03-31 0001796514 btct:MrZhaoJishuangMember 2023-01-01 2023-03-31 0001796514 btct:MetChainCoLimitedMemberOneMember 2023-01-01 2023-03-31 0001796514 btct:MetChainCoLimitedMemberOneMember 2024-01-01 2024-03-31 0001796514 btct:MrGuoYupengMember 2023-12-31 0001796514 btct:MrGuoYupengMember 2024-03-31 0001796514 btct:MrZhaoJishuangMember 2023-12-31 0001796514 btct:MrZhaoJishuangMember 2024-03-31 0001796514 btct:MetChainCoLimitedMember 2023-12-31 0001796514 btct:MetChainCoLimitedMember 2024-03-31 xbrli:shares iso4217:USD iso4217:USD xbrli:shares iso4217:CNY xbrli:shares xbrli:pure iso4217:CNY iso4217:HKD iso4217:HKD xbrli:shares

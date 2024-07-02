@@ -1,0 +1,2679 @@
+ROC
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+(Mark One)
+
+ ☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended March 31, 2024
+
+OR
+
+ ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from           to          
+
+Commission File Number: 001-39994
+
+ 
+
+Fathom Digital Manufacturing Corporation
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+                                           Delaware                                                                                   40-0023833
+
+                               (State or other jurisdiction of                                                                     (I.R.S. Employer
+
+                                incorporation or organization)                                                                   Identification No.)
+
+                                               
+
+                                   1050 Walnut Ridge Drive                                                                              53029
+
+                                         Hartland, WI
+
+                           (Address of principal executive offices)                                                                   (Zip Code)
+
+Registrant’s telephone number, including area code: (262) 367-8254
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+ 
+
+                               Title of each class                                   Trading                 Name of each exchange on which registered
+
+                                                                                    Symbol(s)
+
+  Class A common stock, par value $0.0001 per share                                   FATH                            New York Stock Exchange
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer                                           ☐       Accelerated filer                                                 ☐
+
+Non-accelerated filer                                             ☒       Smaller reporting company                                         ☒
+
+Emerging growth company                                           ☒                                                                          
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes  ☐    No  ☒
+
+As of May 13, 2024, there were 3,540,421 shares of the registrant's Class A common stock outstanding and 3,327,379 shares of the registrant's vote-only, non-economic Class B common stock outstanding. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Table of Contents
+
+ 
+
+                                                                                                                                 Page
+
+                                                                                                                                      
+
+           CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS                                                                      3
+
+                                                                                                                                      
+
+PART I     FINANCIAL INFORMATION                                                                                                     4
+
+                                                                                                                                      
+
+Item 1.    Financial Statements                                                                                                      4
+
+           Condensed Consolidated Balance Sheets                                                                                     4
+
+           Condensed Consolidated Statements of Comprehensive (Loss) Income                                                          5
+
+           Condensed Consolidated Statement of Shareholders' Equity and Redeemable Non-Controlling Interest                          7
+
+           Condensed Consolidated Statements of Cash Flows                                                                           8
+
+           Notes to Unaudited Condensed Consolidated Financial Statements                                                            9
+
+Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations                                    25
+
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk                                                               33
+
+Item 4.    Controls and Procedures                                                                                                  33
+
+                                                                                                                                      
+
+PART II    OTHER INFORMATION                                                                                                        34
+
+                                                                                                                                      
+
+Item 1.    Legal Proceedings                                                                                                        34
+
+Item 1A.   Risk Factors                                                                                                             34
+
+Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds                                                              34
+
+Item 3.    Defaults Upon Senior Securities                                                                                          34
+
+Item 4.    Mine Safety Disclosures                                                                                                  34
+
+Item 5.    Other Information                                                                                                        34
+
+Item 6.    Exhibits                                                                                                                 35
+
+           Signatures                                                                                                               36
+
+ 
+
+ 
+
+
+
+ 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+ 
+
+Certain statements made in this Quarterly Report on Form 10-Q are “forward looking statements.” Statements regarding our expectations regarding our business are “forward looking statements.” In addition, words such as “estimates,” “projected,” “expects,” “estimated,” “anticipates,” “forecasts,” “plans,” “intends,” “believes,” “seeks,” “may,” “will,” “would,” “future,” “propose,” “target,” “goal,” “objective,” “outlook” and variations of these words or similar expressions (or the negative versions of such words or expressions) are intended to identify forward-looking statements. The forward-looking statements contained in this Quarterly Report on Form 10-Q and in our other periodic filings are not guarantees of future performance, conditions or results and are based on our current expectations and beliefs concerning future developments and their potential effects on us. There can be no assurance that future developments affecting us will be those that we have anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond our control) or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. These risks and uncertainties include, but are not limited to, those risks described under "Risk Factor Summary" Item 1A.,  "Risk Factors” and "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, as amended by Amendment No.1 thereto (as amended the "2023 Form 10-K"). Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. We may face additional risks and uncertainties that are not presently known to us, or that we deem to be immaterial, which may also impair our business, financial condition, or prospects. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+
+3
+
+
+
+ 
+
+PART I—FINANCIAL INFORMATION
+
+Item 1. Financial Statements.
+
+Fathom Digital Manufacturing Corporation
+
+Condensed Consolidated Balance Sheets
+
+(In thousands, except share amounts)
+
+                                                                                                                                              Period Ended              
+
+                                                                                                                                     March 31, 2024      December 31,  
+
+                                                                                                                                       (Unaudited)            2023
+
+Assets                                                                                                                                                                 
+
+Current assets                                                                                                                                                         
+
+Cash                                                                                                                              $               2,276  $       5,573 
+
+Accounts receivable, net (1)                                                                                                                     20,730         21,518 
+
+Inventory                                                                                                                                        10,226         10,015 
+
+Prepaid expenses and other current assets                                                                                                         2,641          2,025 
+
+Total current assets                                                                                                                             35,873         39,131 
+
+Property and equipment, net                                                                                                                      43,041         46,277 
+
+Right-of-use lease assets, net                                                                                                                   10,424         10,941 
+
+Intangible assets, net                                                                                                                          228,737        233,272 
+
+Other non-current assets                                                                                                                            142            142 
+
+Total assets                                                                                                                      $             318,217  $     329,763 
+
+Liabilities and Shareholders’ Equity                                                                                                                                   
+
+Current liabilities                                                                                                                                                    
+
+Accounts payable                                                                                                                  $              13,375  $       9,018 
+
+Accrued expenses                                                                                                                                  8,658          7,780 
+
+Current lease liability                                                                                                                           2,084          2,113 
+
+Other current liabilities                                                                                                                           496            692 
+
+Current portion of debt, net                                                                                                                    156,856        159,801 
+
+Total current liabilities                                                                                                                       181,469        179,404 
+
+Fathom earnout shares liability                                                                                                                     116            116 
+
+Sponsor earnout shares liability                                                                                                                     20             20 
+
+Warrant liability                                                                                                                                    72             72 
+
+Noncurrent lease liability                                                                                                                        8,664          9,199 
+
+Total liabilities                                                                                                                               190,341        188,811 
+
+Commitments and Contingencies:                                                                                                                                         
+
+Contingently Redeemable Preferred Equity:                                                                                                                              
+
+Redeemable non-controlling interest in Fathom OpCo                                                                                               62,015         68,402 
+
+Shareholders' Equity:                                                                                                                                                  
+
+Class A common stock, $0.0001 par value; 15,000,000 shares authorized; issued and outstanding 3,530,441 and 3,526,432 shares as                       -              - 
+
+ of March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Class B common stock, $0.0001 par value; 9,000,000 shares authorized; issued and outstanding 3,327,379 and 3,327,379 shares as                        -              - 
+
+ of March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Class C common stock, $0.0001 par value; 500,000 shares authorized; 0 shares issued and outstanding as of March 31, 2024 and                          -              - 
+
+ December 31, 2023,
+
+ respectively
+
+Preferred stock, $0.0001 par value; 500,000 shares authorized; 0 shares issued and outstanding as of March 31, 2024 and December                      -              - 
+
+ 31, 2023,
+
+ respectively
+
+Additional paid-in-capital                                                                                                                      595,071        594,401 
+
+Accumulated other comprehensive loss                                                                                                               (107)          (107)
+
+Accumulated deficit                                                                                                                            (529,103)      (521,744)
+
+Shareholders’ equity attributable to Fathom Digital Manufacturing Corporation                                                                    65,861         72,550 
+
+Total Liabilities, Shareholders’ Equity, and Redeemable Non-Controlling Interest                                                  $             318,217  $     329,763 
+
+(1)  Inclusive of allowance for expected credit losses of $635 and $575 as of March 31, 2024 and December 31, 2023, respectively 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+4
+
+
+
+ 
+
+Fathom Digital Manufacturing Corporation
+
+Condensed Consolidated Statements of Comprehensive (Loss) Income (Unaudited)
+
+(In thousands, except shares, and per share amounts)
+
+ 
+
+                                                                                                                 Three Months Ended                 
+
+                                                                                                     March 31, 2024          March 31, 2023      
+
+                                                                                                                                                 
+
+Revenue                                                                                           $              29,195   $              35,007  
+
+Cost of revenue (1) (2)                                                                                          21,229                  24,010  
+
+Gross profit                                                                                                      7,966                  10,997  
+
+Operating expenses                                                                                                                               
+
+Selling, general, and administrative                                                                             10,506                  10,771  
+
+Depreciation and amortization                                                                                     4,621                   4,576  
+
+Restructuring                                                                                                       535                     650  
+
+Property and equipment impairment                                                                                 2,000                       -  
+
+Total operating expenses                                                                                         17,662                  15,997  
+
+Operating loss                                                                                                   (9,696)                 (5,000) 
+
+Interest expense and other expense (income)                                                                                                      
+
+Interest expense                                                                                                  4,229                   3,470  
+
+Other expense                                                                                                        10                     365  
+
+Other income                                                                                                        (11)                 (6,610) 
+
+Total interest expense and other expense (income), net                                                            4,228                  (2,775) 
+
+Net loss before income tax                                                                                      (13,924)                 (2,225) 
+
+Income tax expense                                                                                                   17                      55  
+
+Net loss                                                                                                        (13,941)                 (2,280) 
+
+Net loss attributable to Fathom OpCo non-controlling interest (Note 14)                                          (6,582)                 (3,911) 
+
+Net (loss) income attributable to controlling interest                                                           (7,359)                  1,631  
+
+Comprehensive (loss) income:                                                                                                                     
+
+Comprehensive (loss) income, net of tax                                                           $              (7,359)  $               1,631  
+
+Earnings per Share:                                                                                                                              
+
+Net (loss) income per share attributable to shares of Class A common stock                                                                       
+
+Basic (3)                                                                                         $               (2.21)  $                0.49  
+
+Diluted (3)                                                                                       $               (2.21)  $                0.24  
+
+Weighted average Class A common shares outstanding                                                                                               
+
+Basic (3)                                                                                                     3,329,639               3,352,386  
+
+Diluted (3)                                                                                                   3,329,639               6,806,212  
+
+ 
+
+(1)Inclusive of $1,697 and $1,503 of depreciation and amortization for the three months ended March 31, 2024 and March 31, 2023, respectively; 
+
+(2)Inclusive of $0 and $1,732 of cost of revenue related to inventory purchases from a related party for the three months ended March 31, 2024 and March 31, 2023, respectively;
+
+(3)Periods presented have been adjusted to reflect the 20-for-1 reverse stock split effective on September 28, 2023. Additional information regarding the reverse stock split may be found in Note 2- Basis of Presentation.
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+5
+
+
+
+ 
+
+Fathom Digital Manufacturing Corporation
+
+Condensed Consolidated Statement of Shareholders' Equity and Redeemable Non-Controlling Interest
+
+(Unaudited)
+
+(In thousands, except share amounts)
+
+ 
+
+                             Class A Common Shares         Class B Common Shares                                                                                                 
+
+                           Number of      Par Value       Number of      Par Value      Additional       Accumulated      Accumulated Other      Total Equity       Redeemable    
+
+                             Shares      ($0.0001 per       Shares      ($0.0001 per      Paid-in          Deficit           Comprehensive       Attributable      Non-controllin
+
+                                            share)                         share)         Capital                                Loss                 to                 g
+
+                                                                                                                                                    Fathom            Interest
+
+Balance at January 1,        3,526,432  $            -      3,327,379  $            -  $     594,401  $       (521,744) $              (107) $         72,550   $        68,402 
+
+ 2024
+
+Net loss                             -               -              -               -              -            (7,359)                   -            (7,359)           (6,582)
+
+Equity based                         -               -              -               -            865                 -                    -               865                 - 
+
+ compensation
+
+Vesting of restricted            4,009               -              -               -              -                 -                    -                 -                 - 
+
+ shares, net of tax
+
+ withholding
+
+Non-controlling                      -               -              -               -           (195)                -                    -              (195)              195 
+
+ interest
+
+ remeasurement
+
+Balance at March 31,         3,530,441               -      3,327,379               -        595,071          (529,103)                (107)           65,861            62,015 
+
+ 2024
+
+ 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+6
+
+
+
+ 
+
+Fathom Digital Manufacturing Corporation
+
+Condensed Consolidated Statement of Shareholders' Equity and Redeemable Non-Controlling Interest
+
+(Unaudited)
+
+(In thousands, except share amounts)
+
+ 
+
+                              Class A Common Shares        Class B Common Shares                                                                                                 
+
+                             Number of      Par Value      Number of      Par Value     Additional       Accumulated      Accumulated Other      Total Equity       Redeemable    
+
+                               Shares        ($0.0001        Shares        ($0.0001       Paid-in          Deficit           Comprehensive       Attributable      Non-controllin
+
+                                (1)            per            (1)            per          Capital                                Loss                 to                 g
+
+                                              share)                        share)                                                                  Fathom            Interest
+
+Balance at January 1, 2023     3,290,438  $          -      3,507,653  $          -  $     587,955  $       (537,803) $              (107) $         50,045   $        90,558 
+
+Equity based compensation              -             -              -             -          1,093                 -                    -             1,093                 - 
+
+Net income (loss)                      -             -              -             -              -             1,631                    -             1,631            (3,911)
+
+Vesting of restricted             13,874             -              -             -              -                 -                    -                 -                 - 
+
+ shares, net of tax
+
+ withholding
+
+Exchange of Class B              173,014             -       (173,014)            -              -                 -                    -                 -                 - 
+
+ common stock and Fathom
+
+ OpCo
+
+ units
+
+Non-controlling interest               -             -              -             -          4,477                 -                    -             4,477            (4,477)
+
+ remeasurement
+
+Tax receivable agreement               -             -              -             -         (2,500)                -                    -            (2,500)                - 
+
+ liability on capital
+
+ transactions
+
+Balance at March 31, 2023      3,477,326  $          -      3,334,639  $          -  $     591,025  $       (536,172) $              (107) $         54,746   $        82,170 
+
+(1)Periods presented have been adjusted to reflect the 20-for-1 reverse stock split effective on September 28, 2023. Additional information regarding the reverse stock split may be found in Note 2- Basis of Presentation.
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+7
+
+
+
+ 
+
+Fathom Digital Manufacturing Corporation
+
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+
+(In thousands)
+
+ 
+
+                                                                                                                  Three Months Ended                
+
+                                                                                                     March 31, 2024             March 31, 2023    
+
+Cash Flows from Operating Activities                                                                                                              
+
+Net (loss) income attributable to controlling interest                                             $           (7,359)       $            1,631 
+
+Adjustments to reconcile net (loss) income to net cash from operating activities:                                                                 
+
+Depreciation and amortization                                                                                   6,318                     6,079 
+
+Share-based compensation                                                                                          865                     1,093 
+
+Noncash lease expense, net                                                                                        407                       151 
+
+Bad debt expense                                                                                                    -                      (108)
+
+Property and equipment impairment                                                                               2,000                         - 
+
+Non-controlling interest share of Fathom OpCo net loss                                                         (6,582)                   (3,911)
+
+Change in fair value of Fathom earnout shares liability                                                             -                    (4,180)
+
+Change in fair value of Sponsor earnout shares liability                                                            -                      (650)
+
+Change in fair value of warrant liability                                                                           -                    (1,780)
+
+Change in fair value of tax receivable agreement                                                                    -                       300 
+
+Amortization of debt financing costs                                                                              254                       131 
+
+Changes in operating assets and liabilities that provided cash:                                                                                   
+
+Accounts receivable                                                                                               788                     2,474 
+
+Inventory                                                                                                        (211)                     (105)
+
+Prepaid expenses and other assets                                                                                (616)                       78 
+
+Accounts payable                                                                                                4,089                    (1,228)
+
+Accrued liabilities and other                                                                                     310                       525 
+
+Net cash provided by operating activities                                                                         263                       500 
+
+                                                                                                                                                  
+
+Cash Flows from Investing Activities                                                                                                              
+
+Purchase of property and equipment                                                                               (277)                   (1,917)
+
+Net cash used in investing activities                                                                            (277)                   (1,917)
+
+                                                                                                                                                  
+
+Cash Flows from Financing Activities                                                                                                              
+
+Proceeds from revolving credit facility, net                                                                        -                     5,000 
+
+Payments on debt                                                                                               (3,125)                   (1,563)
+
+Payments on finance leases                                                                                        (82)                      (80)
+
+Payment of debt issuance costs                                                                                    (76)                     (524)
+
+Net cash (used in) provided by financing activities                                                            (3,283)                    2,833 
+
+                                                                                                                                                  
+
+Net (decrease) increase in cash                                                                                (3,297)                    1,416 
+
+                                                                                                                                                  
+
+Cash, beginning of period                                                                                       5,573                    10,713 
+
+Cash, end of period                                                                                $            2,276        $           12,129 
+
+                                                                                                                                                  
+
+Supplemental Cash Flows Information:                                                                                                              
+
+Cash paid for interest                                                                             $            3,968        $            3,060 
+
+Cash paid for taxes                                                                                                17                       433 
+
+Cash paid to related parties                                                                                        -                     2,112 
+
+                                                                                                                                                  
+
+Significant Non-Cash Transactions:                                                                                                                
+
+Property and equipment noncash transaction                                                         $                -        $              788 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+8
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+Note 1. Nature of Business 
+
+Fathom Digital Manufacturing Corporation (“Fathom,” or the “Company”) was incorporated as a Delaware corporation on December 23, 2021. Fathom was previously named Altimar Acquisition Corp. II ("Altimar II") before deregistering as an exempted company in the Cayman Islands. On December 23, 2021, Altimar II and Fathom Holdco, LLC (“Fathom OpCo”) closed a series of transactions (collectively, the "Business Combination") pursuant to the Business Combination Agreement dated as of July 15, 2021, as amended (the "Agreement"), that resulted in the combined Company becoming a publicly traded company on the New York Stock Exchange ("NYSE"). Fathom, through its consolidated subsidiary, Fathom OpCo, is a leading on-demand digital manufacturing platform in North America, providing comprehensive product development and manufacturing services to many of the largest and most innovative companies in the world.
+
+ 
+
+Fathom OpCo was formed on April 16, 2021, as a limited liability company in accordance with the provisions of the Delaware Limited Liability Company Act, for the purpose of holding a 100 percent equity interest in MCT Group Holdings, LLC and its subsidiaries (“MCT Holdings”) and holding a 100 percent equity interest in Incodema Holdings, LLC and its subsidiaries (“Incodema Holdings”). Capitalized terms used but not otherwise defined herein have the meanings given to such terms in the Company's Annual Report on Form 10-K for the year ended December 31, 2023, as amended by Amendment No.1. thereto (the "2023 Form 10-K").
+
+Note 2. Basis of Presentation 
+
+ 
+
+The accompanying unaudited condensed consolidated financial statements include the accounts of Fathom Digital Manufacturing Corporation and all majority-owned subsidiaries and entities in which a controlling interest is maintained. All significant intercompany transactions and balances have been eliminated in consolidation. 
+
+ 
+
+The unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (“GAAP”) and the rules and regulations of the Securities and Exchange Commission (“SEC”) applicable to interim reports. Accordingly, they do not include all the information and notes required by GAAP for complete financial statements and should be read in conjunction with the audited financial statements included in our 2023 Form 10-K. The Company's annual reporting period is the calendar year. 
+
+ 
+
+In the Company’s opinion, the unaudited condensed consolidated financial statements contain all adjustments, consisting of adjustments of a normal, recurring nature, necessary to present fairly the financial position, results of operations and cash flows for the periods presented. The results of operations for the three months ended March 31, 2024, are not necessarily indicative of the results to be expected for the full year. The preparation of financial statements in accordance with GAAP requires management to make estimates, judgments, and assumptions that affect the amounts reported in the financial statements. Actual results may differ from those estimates, judgments, and assumptions. Amounts in the prior years' unaudited condensed consolidated financial statements are reclassified whenever necessary to conform to the current year's presentation. 
+
+ 
+
+The unaudited condensed consolidated financial statements included in this Quarterly Report have been prepared using the going concern basis of accounting, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. To satisfy the obligation to pay the $50,000 Term Loan Paydown (as defined below) due July 31, 2024 (or, if earlier, on the date the pending Merger (as defined below) is consummated or the date that the Merger Agreement (as defined below) and related transaction documents are terminated), the Company will need to obtain sufficient qualified equity capital or otherwise restructure or refinance the Company's Credit Agreement (the "Credit Agreement"). In connection with the execution of the Merger Agreement, CORE Industrial Partners Fund L.L.P. and CORE Industrial Partners Fund I Parallel. L.P. (the "CORE Investors") and their managing partner, an affiliate of CORE Industrial Partners, entered into that certain Equity Commitment Letter (the "Equity Commitment Letter")with Parent whereby they agreed, subject to the terms and conditions thereof, to provide equity financing to Parent in the aggregate amount set forth therein to facilitate consummation of the Transactions (as defined in the Merger Agreement), including the Merger, the payment of the Term Loan Paydown and certain other payments. The CORE Investors’ obligations under the Equity Commitment letter are subject to certain terms and conditions, including consummation of the pending Merger, and there is no assurance that such terms and conditions will be satisfied. If the funding of Parent as contemplated by the Equity Commitment Letter is not obtained, the Company will need to obtain sufficient other qualified equity capital or otherwise restructure or refinance the Credit Agreement. At this time, we expect to be able to successfully complete one of these actions if the necessity arises; however, there is no assurance that we will be successful, and our inability to obtain such capital or complete such actions would likely have a material adverse effect on the Company. This uncertainty raises substantial doubt about the Company’s ability to continue as a going concern within one year after the issuance date of the accompanying audited consolidated financial statements. The unaudited condensed consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+
+ 
+
+Recently Adopted Accounting Standards
+
+ 
+
+In November 2023, the Financial Accounting Standards Board's ("FASB") issued Accounting Standard Update ("ASU") ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures ("ASU 2023-07"), which is intended to improve reportable segment disclosure requirements through enhanced disclosures about significant segment expenses. The Company is required to adopt this guidance for its annual year end December 31, 2024 and all interim periods thereafter using a retrospective approach to all periods presented. Early adoption is permitted. The Company is evaluating the impact of this guidance on its disclosures. 
+
+9
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+Agreement and Plan of Merger
+
+ 
+
+On February 16, 2024, the Company, entered into an Agreement and Plan of Merger (the “Merger Agreement”), by and among Fathom Digital Manufacturing Intermediate, LLC, a Delaware limited liability company (“Parent”), Fathom Digital Manufacturing Merger Sub, Inc., a Delaware corporation and a wholly-owned subsidiary of Parent (“Company Merger Sub”), Fathom Digital Manufacturing Merger Sub 2, LLC, a Delaware limited liability company and a wholly-owned subsidiary of Company Merger Sub (“LLC Merger Sub”), Fathom OpCo, and the Company, pursuant to which, among other things, (i) LLC Merger Sub will merge with and into Fathom OpCo with Fathom OpCo surviving the merger as a partially owned subsidiary of the Company (the “LLC Merger”) and (ii) immediately following the LLC Merger, Company Merger Sub will merge with and into the Company, with the Company as the surviving corporation (the “Merger”, and collectively, with the LLC Merger and the other transactions contemplated by the Merger Agreement, the “Transactions”). Parent, Company Merger Sub, and LLC Merger Sub are affiliates of CORE Industrial Partners, LLC (“CORE”). 
+
+ 
+
+In connection with the Transactions, Parent will acquire all of the Company’s outstanding shares of its Class A Common Stock (other than (i) shares of Class A Common Stock held by the Company as treasury stock or owned by Parent or Company Merger Sub, (ii) shares of Class A Common Stock owned by CORE, (iii) shares of Class A Common Stock cancelled pursuant to the Merger Agreement, and (iv) any dissenting shares of Class A Common Stock) for $4.75 per share in cash. 
+
+ 
+
+The closing of the Merger Agreement is subject to customary closing conditions. Upon the closing of the Merger, Fathom will become a privately held company.
+
+Reverse Stock Split
+
+On September 15, 2023, the Company’s Board of Directors approved a reverse stock split ratio of 20-for-1 (the “Reverse Stock Split”). On September 28, 2023, the effective date of the Reverse Stock Split, the number of the Company’s issued and outstanding shares of common stock decreased from 70,113,787 shares to 3,505,689 shares, net of fractional shares redeemed. The number of authorized shares and par value per common share remained unchanged. No fractional shares were issued as a result of the Reverse Stock Split. Stockholders who would otherwise have been entitled to receive a fractional share received a cash payment in lieu thereof. Prior to the effective date of the Reverse Stock Split, the Company had listed warrants to purchase a total of 18,524,320 shares of Common Stock, with each whole warrant being exercisable for one share of Common Stock at $11.50 per share. After the effective date of the Reverse Stock Split, every twenty shares of Common Stock that may have been purchased pursuant to the warrants immediately prior to the Reverse Stock Split represented one share of Common Stock that may be purchased pursuant to such warrants immediately following the Reverse Stock Split. Correspondingly, the exercise price per share of Common Stock attributable to such warrants was proportionately increased, such that the exercise price immediately following the Reverse Stock Split was $230.00, which equals the product of twenty multiplied by $11.50, the exercise price per share immediately prior to the Reverse Stock Split. The number of shares of Common Stock subject to the warrants was proportionately decreased by twenty times, to an aggregate of 926,216 shares. The share, per share and trading price amounts in the unaudited condensed consolidated financial statements and the accompanying notes, have been retrospectively adjusted to reflect the Reverse Stock Split for all periods presented.
+
+Note 3. Immaterial Error Correction of Previously Issued Financial Statements
+
+The Company has made certain adjustments to previously reported amounts for correcting immaterial errors in our consolidated financial statements as of and for the three months ended March 31, 2024. These adjustments corrected our cost of revenue and inventory for errors identified in the prior year inventory quantities, valuations, and reconciliations.
+
+We evaluated these matters in accordance with SAB No. 99, Materiality and SAB No. 108, Considering the Effects of Prior Year Misstatements when Quantifying Misstatements in Current Year Financial Statements, and determined that their related impact was not material to the financial statements for any prior annual or interim periods. The Company will correct previously reported financial information for these immaterial matters in our future filings, as applicable. 
+
+ 
+
+10
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+A summary of the adjustments to our prior period unaudited condensed consolidated statement of comprehensive income is presented below:
+
+ 
+
+                                                                                                     Three Months Ended March 31, 2023              
+
+                                                                                            As Reported        Adjustments        As Adjusted    
+
+Revenue                                                                                  $          35,007  $               -  $         35,007 
+
+Cost of revenue                                                                                     23,062                948            24,010 
+
+Gross profit                                                                                        11,945                948            10,997 
+
+Operating loss                                                                                      (4,052)               948            (5,000)
+
+Net loss before income tax                                                                          (1,277)               948            (2,225)
+
+Income tax expense                                                                                      55                  -                55 
+
+Net loss                                                                                            (1,332)               948            (2,280)
+
+Net loss attributable to Fathom OpCo non-controlling interest                                       (3,447)              (464)           (3,911)
+
+Net income (loss) attributable to controlling interest                                               2,115               (484)            1,631 
+
+Comprehensive income (loss):                                                                                                                     
+
+Comprehensive income (loss), net of tax                                                  $           2,115  $            (484) $          1,631 
+
+Earnings per Share:                                                                                                                              
+
+Net income per share attributable to shares of Class A common stock                                                                              
+
+Basic (1)                                                                                $            0.63  $               -  $           0.49 
+
+Diluted (1)                                                                              $            0.31  $               -  $           0.24 
+
+Weighted average Class A common shares outstanding                                                                                               
+
+Basic (1)                                                                                        3,352,386                  -         3,352,386 
+
+Diluted (1)                                                                                      6,806,212                  -         6,806,212 
+
+(1)Periods presented have been adjusted to reflect the 20-for-1 reverse stock split effective on September 28, 2023. Additional information regarding the reverse stock split may be found in Note 2- Basis of Presentation.
+
+ 
+
+The following table presents the effect of the adjustments to our prior period unaudited condensed consolidated statement of cash flows.
+
+ 
+
+                                                                                                      Three Months Ended March 31, 2023             
+
+                                                                                             As Reported        Adjustments       As Adjusted    
+
+Cash Flows from Operating Activities                                                                                                             
+
+Net income (loss) attributable to controlling interest                                     $          2,115  $           (484) $          1,631 
+
+Adjustments to reconcile net income to net cash from operating activities:                                                                       
+
+Non-controlling interest share of Fathom OpCo net loss                                               (3,447)             (464)           (3,911)
+
+Inventory                                                                                            (1,053)              948              (105)
+
+Net cash provided by operating activities                                                               500                 -               500 
+
+Net cash used in investing activities                                                                (1,917)                -            (1,917)
+
+Net cash provided by financing activities                                                             2,833                 -             2,833 
+
+                                                                                                                                                 
+
+Net increase in cash                                                                                  1,416                 -             1,416 
+
+                                                                                                                                                 
+
+Cash, beginning of period                                                                            10,713                 -            10,713 
+
+Cash, end of period                                                                        $         12,129  $              -  $         12,129 
+
+                                                                                                                                                 
+
+ 
+
+The following table presents the effect of the adjustments to our prior period unaudited condensed consolidated statement of shareholders' equity and redeemable non-controlling interest. 
+
+ 
+
+                                                                                                     March 31, 2023                                 
+
+                                                                           As Reported (1)             Adjustments             As Adjusted      
+
+Accumulated deficit                                                   $                (535,688) $                (484) $            (536,172)
+
+Redeemable non-controlling Interest                                                      82,634                   (464)                82,170 
+
+Shareholders' equity attributable to Fathom                                              55,230                   (484)                54,746 
+
+(1)The As Reported amounts were impacted by the 2022 immaterial error corrections related to inventory as disclosed in the 2023 Form 10-K.
+
+11
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+Note 4. Revenue
+
+The Company accounts for revenue in accordance with ASC 606. Revenue is recognized in five steps. The Company identifies the contract with the customer, identifies the performance obligations in the contract, determines the transaction price, allocates the transaction price to the performance obligations, and recognizes revenue when (or as) each performance obligation is satisfied. Collectability is a required component of a valid contract. The Company assesses collectability based on a number of factors, including the customer’s past payment history and current creditworthiness. If collectability is not considered probable at inception, the Company would recognize revenue upon cash collection.
+
+ 
+
+The Company provides high quality, advanced rapid prototyping, precision manufacturing and finishing services in low-to-mid volume production scenarios. The Company’s suite of on-demand digital manufacturing services includes additive manufacturing, machining, and molding technologies as well as sheet metal cutting, etching, and forming solutions for customers in the aerospace and defense, electronics, medical, automotive, consumer, and industrial industries, among others. As a result, the majority of revenue recognized in a reporting period is based on completed, invoiced contracts. 
+
+ 
+
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is the unit of account in ASC 606. Substantially all of the Company’s Additive Manufacturing, CNC Machining, Urethane Casting, Precision Sheet Metal, and Chemical Etching contracts have a single performance obligation and is recognized on a point-in-time basis upon shipment. The majority of the Company’s injection molding contracts have multiple performance obligations including one obligation to produce the mold and sample part and a second obligation to produce production parts. For injection molding contracts with multiple performance obligations, the Company allocates revenue to each performance obligation based on its relative standalone selling price. Prior to March 31, 2023 the Company was not able to support over time revenue recognition for performance obligations to produce the mold and sample part and therefore recognized revenue for each performance obligation on a point-in time basis upon shipment. During 2023, the Company established additional processes and controls to support recognizing revenue using the input method basis for those performance obligations where appropriate on a go forward basis. This change in revenue recognition policy is immaterial to the overall financial statements included in this Form 10-Q.
+
+ 
+
+The Company’s payments terms are consistent with industry standards and never exceed 12 months. The Company has elected to treat shipping and handling as fulfillment activities and not a separate performance obligation.
+
+ 
+
+Revenue by product line for the three months ended March 31, 2024 and March 31, 2023 as follows:
+
+ 
+
+                                                                                              Three Months Ended                                   
+
+                                                                         March 31, 2024                              March 31, 2023              
+
+Additive Manufacturing                                      $                                 2,172    $                                 3,588 
+
+Injection Molding                                                                             4,297                                      4,679 
+
+CNC Machining                                                                                11,549                                     14,230 
+
+Precision Sheet Metal                                                                         8,474                                     10,383 
+
+Ancillary Product Lines                                                                       2,703                                      2,127 
+
+Total revenue                                               $                                29,195    $                                35,007 
+
+ 
+
+Note 5. Inventories
+
+Inventory consists primarily of finished goods, raw materials, and work in process, which are recorded at the lower of cost or net realizable value, which approximates first-in, first-out (“FIFO”) cost. The Company periodically reviews its inventory for slow-moving, damaged, and discontinued items and provides allowances to reduce such items identified to their net recoverable amounts. 
+
+ 
+
+The Company’s inventory consisted of the following at March 31, 2024 and December 31, 2023:
+
+ 
+
+                                                                        March 31, 2024                            December 31, 2023              
+
+Raw materials                                                 $                             3,785    $                                     3,950 
+
+Work in process                                                                             3,979                                          3,856 
+
+Finished goods                                                                              2,761                                          2,508 
+
+                                                                                           10,525                                         10,314 
+
+Allowance for obsolescence                                                                   (299)                                          (299)
+
+Total                                                         $                            10,226    $                                    10,015 
+
+ 
+
+12
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+Note 6. Property and Equipment
+
+ 
+
+Property and equipment consisted of the following as of March 31, 2024 and December 31, 2023:
+
+ 
+
+                                                         March 31, 2024                 December 31,                Estimated Useful Life       
+
+                                                                                            2023
+
+Machinery and equipment                              $               41,125   $                       43,045                              6-10 
+
+Furniture and fixtures                                                4,251                            3,743                               10 
+
+Computer hardware                                                       360                              360                                5 
+
+Property and leasehold improvements                                   7,198                            7,164                            3 - 23 
+
+Construction in progress                                              3,908                            4,116                               n/a 
+
+Auto / transportation equipment                                         318                              318                                3 
+
+Total                                                                57,160                           58,746                                   
+
+Accumulated depreciation                                            (14,119)                         (12,469)                                  
+
+Total                                                $               43,041   $                       46,277                                   
+
+ 
+
+Depreciation expense included in operating expenses was $301 and $256 for the three months ended March 31, 2024 and March 31, 2023, respectively. Depreciation expense included in cost of revenues was $1,482, and $1,288 for the three months ended March 31, 2024 and March 31, 2023, respectively.
+
+ 
+
+For the three months ended March 31, 2024, the Company recorded a $2,000 impairment charge on machinery and equipment at our Miami Lakes facility. See Note 8. Restructuring, for additional information..
+
+Note 7. Intangible Assets, net
+
+ 
+
+Intangible assets, net consisted of the following:
+
+ 
+
+                                                                 March 31, 2024                                                   
+
+                                      Gross                Accumulated Amortization                Net                   Useful Life
+
+                                                                                                                          (in years)
+
+Trade name                        $       70,000  $                                 (10,615) $       59,385                  15
+
+Customer relationships                   180,000                                    (21,550) $      158,450                  19
+
+Developed software                         4,300                                     (1,956) $        2,344                  5
+
+Developed technology                      15,700                                     (7,142) $        8,558                  5
+
+Total intangible assets           $      270,000  $                                 (41,263) $      228,737                                    
+
+                                                                                                                                                
+
+                                                                December 31, 2023                                                 
+
+                                      Gross                Accumulated Amortization                Net                   Useful Life
+
+                                                                                                                          (in years)
+
+Trade name                        $       70,000  $                                  (9,448) $       60,552                  15
+
+Customer relationships                   180,000                                    (19,181)        160,819                  19
+
+Developed software                         4,300                                     (1,741)          2,559                  5
+
+Developed technology                      15,700                                     (6,358)          9,342                  5
+
+Total intangible assets           $      270,000  $                                 (36,728) $      233,272                                    
+
+ 
+
+Aggregate amortization expense related to intangible assets was $4,535 and $4,535 for the three months ended March 31, 2024 and March 31, 2023, respectively. There are no intangible assets with indefinite useful lives.
+
+ 
+
+The following table represents the estimated aggregate amortization expense for each of the five succeeding fiscal calendar years and thereafter.
+
+ 
+
+Year ended                                                                                                        Total                           
+
+Remaining 2024                                                                             $                                            13,605 
+
+2025                                                                                                                                    18,140 
+
+2026                                                                                                                                    18,041 
+
+2027                                                                                                                                    14,140 
+
+2028                                                                                                                                    14,140 
+
+Thereafter                                                                                                                             150,671 
+
+Total                                                                                      $                                           228,737 
+
+ 
+
+13
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+Note 8. Reorganization
+
+ 
+
+In 2022, the Company's Board of Directors approved a reorganization plan (the "Reorganization") designed to consolidate the Company's national footprint, streamline legacy leadership, and centralize core business functions.
+
+ 
+
+On February 17, 2023, the Company committed to additional actions to continue and expand the Reorganization, including consolidating our Austin, Texas facilities, reducing the Company’s workforce by an additional 14% to respond to market conditions and prioritizing investments and operations in line with near-term revenue generation.
+
+ 
+
+During the third quarter of 2023, the Company expanded the Reorganization to include further workforce reductions at our Hartland and Miami facilities. The Company expects to complete these activities by the end of the second quarter of 2024.
+
+ 
+
+On January 19, 2024, the Board of Directors of the Company authorized and directed management to close the Company’s Miami Lakes, Florida manufacturing facility as a result of persistent and continuing profitability challenges. The Company expects to incur pre-tax charges related to the closure totaling approximately $2,800, of which $2,535 were incurred through March 31, 2024, consisting of the $2,000 property and equipment impairment charge and $535 of accrued severance costs.  We expect to record the remaining closure-related charges in the second quarter of 2024. The total cash expenditures associated with the closure are expected to be approximately $800. The facility in Miami Lakes, which is the subject of a lease expiring on May 31, 2024, currently employs approximately 50 people. 
+
+ 
+
+Reorganizing charges are presented on the face of our condensed consolidated statement of comprehensive (loss) income as an operating expense. For the three months ended March 31, 2024 and March 31, 2023, the Company has incurred costs associated with the Reorganization of $535 and $650, respectively. 
+
+ 
+
+The following table summarizes activity in the liability related to the Company's Reorganization plan.
+
+ 
+
+Liability balance at December 31, 2023                                                                                      $                747 
+
+Charges                                                                                                                                      427 
+
+Payments                                                                                                                                    (187)
+
+Liability balance at March 31, 2024                                                                                         $                987 
+
+ 
+
+The Reorganization liability is included as part of other current liabilities in the unaudited consolidated balance sheet and as of March 31, 2024 and consists of unpaid employee termination costs of $987. 
+
+As of March 31, 2024, the Company determined it is probable that certain long-lived assets at our Miami Lakes facility, namely machinery and equipment, were impaired. These long-lived assets were considered for held for sale classification, but the criteria were not met due to the continued completion of existing orders and as such the assets were not immediately available for sale. The Company performed a recoverability test and subsequently performed a discounted cashflow analysis, including anticipated proceeds from the sale of property and equipment, which resulted in us recording an impairment charge of $2,000 on machinery and equipment in the three months ended March 31, 2024.
+
+ 
+
+Note 9. Warrant Liability 
+
+As of March 31, 2024, the Company had 431,216 Public Warrants outstanding with a fair value price of $0.00 per Public Warrant, and 495,000 Private Placement Warrants outstanding with a fair value price of $0.39 per Private Placement Warrant. Each reporting period the Public and Private Warrants are fair valued with the change in the fair value being recognized in the unaudited condensed consolidated statement of comprehensive loss. The change in the fair value was $0 and $1,780 for the three months ended March 31, 2024 and March 31, 2023, respectively, and is recognized in other income in the unaudited condensed consolidated statement of comprehensive loss. 
+
+On September 21, 2023, the New York Stock Exchange (“NYSE”) notified the Company, and on September 22, 2023, the Company publicly announced, that the NYSE had determined to (a) commence proceedings to delist the Company’s Warrants, each whole Warrant exercisable to purchase one share of the Company’s Class A common stock, par value $0.0001 per share (the “Class A common stock”), at a price of $11.50 per share, and listed to trade on the NYSE under the symbol “FATH.WS”, and (b) immediately suspend trading in the Warrants due to “abnormally low” trading price levels. As such, the Public Warrants were determined to continue to have no value as of March 31, 2024.
+
+14
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+The below table summarizes the number of outstanding Warrants and their fair values as of March 31, 2024 and December 31, 2023. See Note 16, Fair Value Measurement, for additional information.
+
+ 
+
+                                                                                 Fair Value                          # of Warrants              
+
+March 31, 2024                                                                                                                                   
+
+Public Warrants                                                         $                          -                                   431,216 
+
+Private Placement Warrants                                              $                         72                                   495,000 
+
+ 
+
+ 
+
+ 
+
+                                                                                 Fair Value                          # of Warrants              
+
+December 31, 2023                                                                                                                                
+
+Public Warrants                                                         $                          -                                   431,216 
+
+Private Placement Warrants                                              $                         72                                   495,000 
+
+ 
+
+Note 10. Debt
+
+On December 23, 2021, Fathom OpCo entered into the Credit Agreement, which included a $50,000 revolving credit facility and a $125,000 term loan (the “Term Loan”). The Company's borrowings under the revolving credit facility were $45,000 at March 31, 2024 and December 31, 2023, respectively. The loans borrowed under the Credit Agreement will mature in December 2026, except for $50,000 principal amount of the Term Loan which must be repaid (the “Term Loan Paydown”) no later than July 31, 2024 (or earlier in the circumstance described below). The Company expects to be able to satisfy the obligations relating to the Term Loan Paydown, but there is no assurance that it will be successful. Obligations under the Credit Agreement are secured by a pledge of substantially all of the assets of Fathom OpCo and its subsidiaries. 
+
+The loans borrowed under the Credit Agreement will mature in December 2026, except for $50,000 principal amount of the Term Loan held by term lenders consenting to the Fourth Amendment (as defined below) which must be repaid (the “Term Loan Paydown”) no later than the earlier of July 31, 2024, the date on which the Merger Agreement and certain related agreements are terminated if the transactions contemplated by the Merger Agreement are not consummated or the date on which the transactions contemplated by the Merger Agreement are consummated. The Company expects to be able to satisfy the obligations relating to the Term Loan Paydown, but there is no assurance that it will be successful. Due to this uncertainty, and the ability of our lenders to declare a default and exercise their right to accelerate repayment of our indebtedness under the Credit Agreement in the event of our failure to satisfy such obligations,  all of our indebtedness under the Credit Agreement is classified as current portion of long-term debt as of March 31, 2024 and December 31, 2023. See Note 2. Basis of Presentation for additional information. 
+
+As previously disclosed, the Credit Agreement was amended in November 2022, March 2023, and November 2023, in each case to, among other things, modify certain financial covenants in the Credit Agreement. 
+
+On February 16, 2024, the Company entered into a Fourth Amendment to the Credit Agreement (the "Fourth Amendment") to modify, among other things, certain financial covenants. In addition, the Fourth Amendment waived any default or event of default arising under the Credit Agreement relating to, among other things, the failure to comply with certain minimum EBITDA requirements as of and for periods ended December 31, 2023.
+
+The Fourth Amendment requires the interest coverage ratio as of the last day of any fiscal quarter, commencing with the fiscal quarter ending on September 30, 2024 to not be less than the applicable ratio set forth opposite such fiscal quarter below:
+
+ 
+
+                                                    Fiscal Quarter                                                        Interest Coverage Ratio
+
+Each fiscal quarter ending on and after September 30, 2024 through and including December 31, 2024                              1.15 to 1.00
+
+Each fiscal quarter ending on and after March 31, 2025 through and including December 31, 2025                                  1.25 to 1.00
+
+Fiscal quarter ending on March 31, 2026                                                                                         1.35 to 1.00
+
+Fiscal quarter ending on June 30, 2026                                                                                          1.45 to 1.00
+
+Fiscal quarter ending on September 30, 2026 and thereafter                                                                      1.55 to 1.00
+
+ 
+
+In addition, the Fourth Amendment requires the net leverage ratio as of the last day of any fiscal quarter commencing with the fiscal quarter ending on June 30, 2024, to not exceed the applicable ratio set forth opposite such fiscal quarter below:
+
+ 
+
+15
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+                                               Fiscal Quarter                                                           Net Leverage Ratio
+
+ Fiscal quarter ending on September 30, 2024                                                                               7.75 to 1.00
+
+ Fiscal quarter ending on December 31, 2024                                                                                7.25 to 1.00
+
+ Fiscal quarter ending on March 31, 2025                                                                                   6.75 to 1.00
+
+ Fiscal quarter ending on June 30, 2025                                                                                    6.25 to 1.00
+
+ Fiscal quarter ending on September 30, 2025                                                                               5.75 to 1.00
+
+ Fiscal quarter ending on December 31, 2025                                                                                5.25 to 1.00
+
+ Fiscal quarter ending on March 31, 2026                                                                                   4.75 to 1.00
+
+ Fiscal quarter ending on June 30, 2026                                                                                    4.25 to 1.00
+
+ Fiscal quarter ending on September 30, 2026 and thereafter                                                                4.00 to 1.00
+
+ 
+
+Further, the Fourth Amendment requires the Company’s minimum unrestricted cash and cash equivalents on account, together with the amounts available to be drawn under the revolving credit facility under the Credit Agreement (as defined in the Credit Agreement, “Liquidity”) to not be less than $6,000 as of the last day of any month ending on February 29, 2024 through and including December 31, 2024.
+
+Under certain circumstances, the Fourth Amendment permits the Company, at its election and in its sole discretion, to designate the last day of any fiscal quarter ending on or after March 31, 2025 as the “Covenant Changeover Date”. On and after the Covenant Changeover Date, the Fourth Amendment will require the interest coverage ratio as of the last day of any fiscal quarter ending on or after the Covenant Changeover Date to not be less than 2.50 to 1.00 and the net leverage ratio as of the last day of any fiscal quarter ending on or after the Covenant Changeover Date to not exceed 3.50 to 1.00, provided that, in the case of the maximum net leverage ratio requirement, if a qualified material acquisition is consummated after the Covenant Changeover Date, the Company may elect to increase the maximum net leverage ratio requirement to 4.00 to 1.00 with respect to the fiscal quarter in which such qualified material acquisition is consummated and each of the three immediately following fiscal quarters, provided that no such election may be made to so increase the maximum net leverage ratio requirement to 4.00 to 1.00 unless, as of the end of at least two consecutive fiscal quarters immediately preceding such election, the net leverage ratio was not greater than 3.50 to 1.00. Following the Covenant Changeover Date, certain additional restrictions on the availability of certain baskets in the Fourth Amendment relating to restricted payments, restricted debt payments, and sale and leaseback transactions will cease to apply.
+
+Failure to comply with the covenants contained in the Credit Agreement (if not waived or further amended on acceptable terms) could give rise to an event of default and, if not cured, entitle the lenders to accelerate the indebtedness outstanding thereunder and terminate our ability to borrow in the future under the Credit Agreement. 
+
+The Fourth Amendment requires the Company to make the Term Loan Paydown of $50,000 no later than the earlier of July 31, 2024, the date on which the Merger Agreement and certain related agreements are terminated if the transactions contemplated by the Merger Agreement are not consummated or the date on which the transactions contemplated by the Merger Agreement are consummated.
+
+The Credit Agreement previously permitted the Company to exercise a right to cure financial covenant defaults by means of raising cash through the sale of certain eligible equity interests of the Company as described in the Credit Agreement commencing with the fiscal quarter ending on June 30, 2024. The Fourth Amendment permits the Company to exercise this right commencing with the fiscal quarter ending on September 30, 2024. 
+
+The Fourth Amendment also provides that the margin applicable to Term SOFR Loans increases to 4.25% until the first business day after the delivery of financial statements and the related compliance certificate required to be delivered under the Fourth Amended Credit Agreement for the fiscal quarter ending on June 30, 2024, and thereafter to the extent the Company’s net leverage ratio equals or exceeds 5.00 to 1.0 on the applicable date.
+
+In connection with the preparation and execution of the Fourth Amendment and the amendment to the Credit Agreement completed in February 2024, the Company incurred reasonable and documented expenses of the Administrative Agent and $76 in customary arranger and lender consent fees, with certain portions thereof being payable on the Closing Date of the applicable amendment and the remainder being payable at the earlier of the Term Loan Pay Down, July 31, 2024 and the date on which the loans are accelerated and the commitments are terminated in accordance with the Credit Agreement.
+
+The Company recorded deferred financing costs of $76 for the three months ended March 31, 2024 in conjunction with the Credit Agreement and subsequent amendments and the applicable principal balances are presented within Long-Term debt, net on the Company's condensed consolidated balance sheets. The Company amortizes the deferred financing costs using the effective interest method. 
+
+The revolving credit facility under the Credit Agreement is available for working capital and other general corporate purposes and includes a letter of credit sub-facility of up to $5,000. The Credit Agreement also includes an uncommitted incremental facility, which, subject to certain conditions, provides for additional term loan facilities, an increase in commitments under the Credit Agreement and/or an increase in commitments under the revolving credit facility, in an aggregate amount of up to $100,000.
+
+16
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+The Company’s debt as of March 31, 2024, and December 31, 2023, is as follows:
+
+ 
+
+                                                                      As of March 31, 2024                      As of December 31, 2023           
+
+Debt Description                                               Interest Rate            Amount           Interest Rate            Amount      
+
+Credit Agreement Revolver                                                  9.66%   $       45,000                  9.62%   $       45,000 
+
+Credit Agreement Term Loan                                                 9.68%          114,062                  9.70%          117,187 
+
+Total principal long-term debt                                                             159,062                                  162,187 
+
+Debt issuance costs                                                                         (2,206)                                  (2,386)
+
+Total debt                                                                                 156,856                                  159,801 
+
+Less: current portion of long-term debt                                                    156,856                                  159,801 
+
+Long-term debt, net of current portion                                              $            -                           $            - 
+
+ 
+
+Interest on all debt is payable in 90 day increments, with the unpaid amount due upon maturity. Interest expense associated with long-term debt was $4,222 and $3,470 for the three months ended March 31, 2024 and March 31, 2023, respectively. Included in interest expense, net on the accompanying unaudited consolidated statements of comprehensive income is amortization of debt issuance costs were $254 and $131 for the three months ended March 31, 2024 and March 31, 2023, respectively. 
+
+In December 2022, the Company entered into a financing agreement through its insurance broker to spread the payment of its annual director’s and officer’s insurance premium over a ten-month period. Total financed payments of $1,265, including a $35 financing fee at 6.13% annual rate, were made between January 2023 and October 2023. For the 2024 coverage period, the Company did not enter into a third-party financing arrangement and paid the full premium in February 2024.
+
+Note 11. Other (Income) Expense
+
+Other income and expense, net consists of the following for the three months ended March 31, 2024 and March 31, 2023.
+
+ 
+
+                                                                                                  Three Months Ended                             
+
+                                                                                  March 31, 2024                    March 31, 2023             
+
+Change in fair value of TRA                                               $                             -   $                           300    
+
+Other                                                                                                  10                                65    
+
+Other expense                                                             $                            10   $                           365    
+
+Change in fair value of Earnout Shares                                                                  -                            (4,830)   
+
+Change in fair value of Warrants                                                                        -                            (1,780)   
+
+Other                                                                                                 (11)                                -    
+
+Other income                                                              $                           (11)  $                        (6,610)   
+
+ 
+
+Note 12. Shared Based Compensation
+
+On December 23, 2021, the Company adopted the Fathom Digital Manufacturing 2021 Omnibus Incentive Plan (the "2021 Omnibus Plan") to encourage the profitability and growth of the Company through short-term and long-term incentives to employees that are consistent with the Company's objectives. The 2021 Omnibus Plan provides that the Company may grant options, stock appreciation rights, restricted shares, restricted stock units, performance-based awards (including performance-based restricted shares and restricted stock units), other share-based awards, other cash-based awards, and any combination of the foregoing.
+
+ 
+
+17
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+Stock Options
+
+The following table represents stock option activity for the period ended March 31, 2024.
+
+ 
+
+                           Number of Shares    Weighted Average Exercise Price per    Average Remaining Contractual Term     Aggregate Intrinsic   
+
+                                                              Share                                                                 Value
+
+Outstanding at January 1,            73,852  $                                 36.68                                6.05  $                     - 
+
+ 2024
+
+Granted                                   -                                        -                                   -                        - 
+
+Exercised                                 -                                        -                                   -                        - 
+
+Forfeited                            (1,728)                                  177.80                                   -                        - 
+
+Expired                                   -                                        -                                   -                        - 
+
+Non-vested at March 31,              72,124  $                                 33.30                                5.95  $                     - 
+
+ 2024
+
+                                                                                                                                                   
+
+Exercisable at March 31,              6,536  $                                171.88                                4.92  $                     - 
+
+ 2024
+
+ 
+
+At March 31, 2024, there was approximately $531 of total unrecognized compensation cost related to unvested stock options granted under the 2021 Omnibus Plan. That cost is expected to be recognized over a weighted average period of 1.55 years as of March 31, 2024. 
+
+The Company uses authorized and unissued shares to satisfy share award exercises.
+
+ 
+
+Restricted Stock Units
+
+ 
+
+A summary of the status of the Company's restricted stock unit activity and the changes during the three months ended March 31, 2024 are as follows:
+
+ 
+
+                                         Shares              Weighted Average Grant Date Fair Value               Aggregate Intrinsic Value      
+
+Non-vested at January 1, 2024              425,750  $                                                 95.17  $                               - 
+
+Granted                                          -                                                        -                                  - 
+
+Vested                                      (5,148)                                                  179.55                                  - 
+
+Forfeited                                   (4,120)                                                   31.47                                  - 
+
+Non-vested at March 31, 2024               416,482  $                                                 94.60  $                               - 
+
+ 
+
+At March 31, 2024, there was approximately $2,210 of total unrecognized compensation cost related to unvested restricted stock units granted under the 2021 Omnibus Plan. That cost is expected to be recognized over a weighted average period of 1.26 years as of March 31, 2024.
+
+ 
+
+Share Based Compensation Expense
+
+ 
+
+Total stock based compensation expenses was $865 and $1,093 for the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+Employee Share Purchase Plan
+
+Our 2022 Employee Stock Purchase Plan (ESPP) allows eligible employees to purchase a variable number of shares of our common stock during each offering period at a discount through payroll deductions of up to 15% of their eligible compensation, subject to plan limitations. The ESPP provides for six-month offering periods with a single purchase period. At the end of each offering period, employees are able to purchase shares at 85% of the lower of the fair market value of our common stock on the first trading day of the offering period or on the last trading day of the offering period. We determine the fair value of stock-based compensation related to our ESPP in accordance with ASC 718 using the component measurement approach and the Black-Scholes standard option pricing model.
+
+Employees didn't purchase any shares of common stock under the ESPP during the three months ended March 31, 2024. As of March 31,2024, 35,282 shares remained available for future issuance under the ESPP.
+
+ 
+
+18
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+Note 13. Earnings Per Share
+
+ 
+
+Basic net earnings per share is computed based on the weighted average number of common shares outstanding. Diluted net earnings per share is computed based on the weighted average number of common shares outstanding, increased by the number of any additional shares that would have been outstanding had any potentially dilutive common shares been issued and reduced by the number of shares the Company could have repurchased from the proceeds from issuance of the potentially dilutive shares. For the purposes of the diluted earnings per share calculation for the three months ended March 31, 2024, share options, warrants, time vested restricted stock, earnout shares and conversion of Fathom OpCo units are excluded from the calculation for the year ended December 31, 2021, as the inclusion would be anti-dilutive due to the losses reported in the year.
+
+ 
+
+Only the Company's Class A common stock participates in the Company’s undistributed earnings. As such, the Company’s undistributed earnings are allocated entirely to shares of Class A common stock based on the weighted Class A common stock outstanding.
+
+ 
+
+The Company's basic and diluted earnings per share calculation is as follows:
+
+ 
+
+                                                                                                               Three Months Ended                  
+
+                                                                                                   March 31, 2024            March 31, 2023      
+
+                                                                                                      Class A                   Class A          
+
+Numerator                                                                                                                                        
+
+Net loss                                                                                      $                (13,941) $                 (2,280)
+
+Less: Net loss attributable to non-controlling interests                                                        (6,582)                   (3,911)
+
+Net (loss) income attributable to Class A common stock                                        $                 (7,359) $                  1,631 
+
+                                                                                                                                                 
+
+Denominator                                                                                                                                      
+
+Basic - weighted-average shares outstanding                                                                  3,329,639                 3,352,386 
+
+Effect of dilutive securities                                                                                                                    
+
+Assumed exchange for shares of Class A common stock                                                                  -                 3,453,826 
+
+Diluted - weighted-average shares outstanding:                                                               3,329,639                 6,806,212 
+
+Net (loss) income per share                                                                                                                      
+
+Basic                                                                                         $                  (2.21) $                   0.49 
+
+Diluted                                                                                       $                  (2.21) $                   0.24 
+
+ 
+
+Note 14. Shareholders' Equity and Non-controlling Interest
+
+ 
+
+The Company’s equity consists of a total of 25,000,000 authorized shares across all classes of capital stock. The 25,000,000 authorized shares consist of 500,000 authorized shares of preferred stock with a par value of $0.0001 per share, 15,000,000 authorized shares of Class A common stock with a par value of $0.0001 per share, 9,000,000 shares of Class B common stock with a par value of $0.0001 par value per share, and 500,000 shares of Class C common stock with a par value of $0.0001 per share. 
+
+ 
+
+As of March 31, 2024, the Company had no outstanding shares of preferred stock, 3,530,441 outstanding shares of Class A common stock, 3,327,379 outstanding shares of Class B common stock, and no outstanding shares of Class C common stock.
+
+ 
+
+The table below demonstrates the calculation of the comprehensive loss attributable to the non-controlling interest holders for the three months ended March 31, 2024.
+
+ 
+
+                                                                                                           Three Months Ended                     
+
+                                                                                             March 31, 2024               March 31, 2023        
+
+Fathom OpCo comprehensive loss                                                          $                 (13,566)   $                 (7,998)
+
+Non-controlling interest percentage                                                                          48.5%                       48.9%
+
+Comprehensive loss attributable to noncontrolling interest                              $                  (6,582)   $                 (3,911)
+
+ 
+
+Note 15. Leases
+
+The Company leases certain manufacturing facilities, office space, and equipment and determines if an arrangement is a lease at inception. Amounts associated with operating leases and financing leases are included in right-of-use lease assets (“ROU assets”), current lease liabilities and long-term lease liabilities in the Company's unaudited condensed consolidated balance sheet. 
+
+ 
+
+ROU assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease. ROU assets and liabilities are recognized at the lease commencement date based on the estimated present value of lease payments over the lease term. 
+
+ 
+
+19
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+If the leases do not provide an implicit rate, the Company uses an incremental borrowing rate based on the information available at the lease commencement date in determining the present value of lease payments. The incremental borrowing rate is determined using a portfolio approach based on the rate of interest that we would pay to borrow an amount equal to the lease payments on a collateralized basis over a similar term. The Company uses quoted interest rates obtained from financial institutions as an input to derive its incremental borrowing rate as the discount rate for the lease.  
+
+ 
+
+Leases with an initial term of 12 months or less are not recorded on the balance sheet, and we recognize lease expense for these leases on a straight-line basis over the lease term. For lease agreements entered into or reassessed after the adoption of Topic 842, we combine lease and non-lease components. 
+
+ 
+
+Certain leases include one or more options to renew, with renewal terms that can extend the lease term from one to 10 years or more, and the exercise of lease renewal options under these leases is at our sole discretion. Lease terms include the non-cancelable portion of the underlying leases along with any reasonably certain lease periods associated with available renewal periods. Certain of the Company’s operating leases include variable rental payments based on a percentage change of certain Consumer Price Index. Variable rental payments are recognized in the condensed consolidated statement of comprehensive loss in the period in which the obligation for those payments is incurred. The depreciable life of assets and leasehold improvements are limited by the expected lease term. Our lease agreements do not contain any material residual value guarantees or material restrictive covenants.
+
+ 
+
+                                                  Balance Sheet Location                       March 31, 2024            December 31, 2023       
+
+Assets                                                                                                                                           
+
+    Operating                                    Prepaid expenses and other current assets $                     -  $                         63 
+
+    Operating                                     Right-of-use operating lease assets, net                   8,441                         8,896 
+
+    Financing                                     Right-of-use financing lease assets, net                   1,983                         2,045 
+
+    Total lease assets                                                                     $                10,424  $                     11,004 
+
+Liabilities                                                                                                                                      
+
+  Current                                                                                                                                        
+
+    Operating                                            Current operating lease liability $                 1,848  $                      1,883 
+
+    Financing                                            Current financing lease liability                     236                           230 
+
+  Non-Current                                                                                                                                    
+
+    Operating                                          Long-term operating lease liability                   6,810                         7,285 
+
+    Financing                                          Long-term financing lease liability                   1,854                         1,914 
+
+  Total lease liabilities                                                                  $                10,748  $                     11,312 
+
+ 
+
+The following table sets forth our lease costs included in our unaudited condensed consolidated statement of comprehensive (loss) income:  
+
+ 
+
+                                                                                                Three Months Ended                                 
+
+                                                                              March 31, 2024                          March 31, 2023              
+
+Operating lease cost                                               $                               661    $                               789   
+
+Short-term lease cost                                                                                -                                      -   
+
+Financing lease cost:                                                                                                                             
+
+   Amortization of ROU assets                                                                       61                                     56   
+
+   Interest on lease liabilities                                                                    30                                     32   
+
+Sublease income                                                                                      -                                    (34)  
+
+ Total lease costs                                                 $                               752    $                               843   
+
+ 
+
+                                                                                              March 31, 2024                March 31, 2023
+
+Weighted-average remaining lease term (years)                                                                         
+
+Operating                                                                                           6.0                           6.0
+
+Financing                                                                                           6.9                           7.9
+
+Weighted-average discount rate                                                                                                      
+
+Operating                                                                                          6.4%                          5.6%
+
+Financing                                                                                          5.6%                          5.6%
+
+ 
+
+20
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+Maturities of Leases
+
+ 
+
+                                                                 Operating Leases                   Financing Leases               Total      
+
+Remaining 2024                                           $                           1,765  $                            260  $        2,025 
+
+2025                                                                                 2,061                               355           2,416 
+
+2026                                                                                 1,634                               358           1,992 
+
+2027                                                                                 1,428                               366           1,794 
+
+2028                                                                                   902                               362           1,264 
+
+Thereafter                                                                           2,905                               838           3,743 
+
+   Total future lease payments                                                      10,695                             2,539          13,234 
+
+   Less: Discount                                                                    2,037                               449           2,486 
+
+   Present value of lease liability                      $                           8,658  $                          2,090  $       10,748 
+
+ 
+
+Note 16. Fair Value Measurement
+
+ 
+
+The fair value of the Company’s financial assets and liabilities reflects the Company’s estimate of amounts that the Company would have received in connection with the sale of the assets or paid in connection with the transfer of the liabilities in an orderly transaction between market participants at the measurement date. In connection with measuring the fair value of its assets and liabilities, the Company seeks to maximize the use of observable inputs (market data obtained from independent sources) and to minimize the use of unobservable inputs (internal assumptions about how market participants would price assets and liabilities). The following fair value hierarchy is used to classify assets and liabilities based on the observable inputs and unobservable inputs used in order to value the assets and liabilities:
+
+ 
+
+ 
+
+Level 1 — Quoted prices in active markets for identical assets or liabilities. An active market for an asset or liability is a market in which transactions for the asset or liability occur with sufficient frequency and volume to provide pricing information on an ongoing basis.
+
+ 
+
+Level 2 — Observable inputs other than Level 1 inputs. Examples of Level 2 inputs include quoted prices in active markets for similar assets or liabilities and quoted prices for identical assets or liabilities in markets that are not active.
+
+ 
+
+Level 3 — Unobservable inputs based on our assessment of the assumptions that market participants would use in pricing the asset or liability.
+
+ 
+
+The following table presents information about the Company’s liabilities that are measured at fair value on a recurring basis as of March 31, 2024.
+
+ 
+
+                                                                                       Fair Value Measurements as of March 31, 2024                 
+
+Description                                                                Level 1             Level 2             Level 3            Total     
+
+Liabilities:                                                                                                                                    
+
+Tax Receivable Agreement                                               $              -    $              -    $              -    $          - 
+
+Sponsor Earnout Shares Liability                                                      -                   -                  20              20 
+
+Fathom Earnout Shares Liability                                                       -                   -                 116             116 
+
+Warrant liability - Public Warrants                                                   -                   -                   -               - 
+
+Warrant liability - Private Placement Warrants                                        -                   -                  72              72 
+
+                                                                       $              -    $              -    $            208    $        208 
+
+ 
+
+The following table presents information about the Company’s liabilities that are measured at fair value on a recurring basis as of December 31, 2023.
+
+ 
+
+                                                                                   Fair Value Measurements as of December 31, 2023                 
+
+Description                                                              Level 1              Level 2              Level 3             Total     
+
+Liabilities:                                                                                                                                     
+
+Tax Receivable Agreement                                            $              -    $              -    $              -    $          - 
+
+Sponsor Earnout Shares Liability                                                   -                   -                  20              20 
+
+Fathom Earnout Shares Liability                                                    -                   -                 116             116 
+
+Warrant liability - Public Warrants                                                -                   -                   -               - 
+
+Warrant liability - Private Placement Warrants                                     -                   -                  72              72 
+
+                                                                    $              -    $              -    $            208    $        208 
+
+ 
+
+21
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+ 
+
+The following table presents a reconciliation of the beginning and ending balances of recurring Level 3 fair value measurements.
+
+ 
+
+                                                                           Level 3 liabilities                                                       
+
+                          Tax Receivable        Sponsor Earnout       Fathom Earnout      Warrant liability –     Warrant liability – Private   Total  
+
+                             Agreement               shares                shares                Public                    Placement
+
+                             liability              liability            liability              Warrants                    Warrants
+
+Balance at December   $                   -  $                20  $               116  $                   -  $                         72  $ 208 
+
+ 31,
+
+ 2023
+
+Payments                                  -                    -                    -                      -                             -  $   - 
+
+Net (gain) loss (1)                       -                    -                    -                      -                             -  $   - 
+
+Ending balance at     $                   -  $                20  $               116  $                   -  $                         72  $ 208 
+
+ March 31,
+
+ 2024
+
+ 
+
+(1)  Net gains on changes in recurring Level 3 fair value measurements are recognized in Other expense or Other income in our unaudited condensed consolidated statement of comprehensive loss.
+
+ 
+
+Valuation Methodologies for Fair Value Measurements Categorized within Level 3
+
+ 
+
+Tax Receivable Agreement
+
+ 
+
+As of December 31, 2023, the Company determined that making a future payment under the Tax Receivable Agreement ("TRA") was not probable because the Company does not believe it will have sufficient taxable income to utilize deductions of certain tax attributes that would generate cash savings in U.S. federal, state, and local income tax or franchise tax to require a payment under the TRA. As such the TRA liability balance was written off.
+
+ 
+
+Earnout Shares Liability
+
+ 
+
+The Earnout Shares are accounted for as liabilities in the Company's consolidated balance sheet. The fair values for the Earnout Shares are estimated using a Monte Carlo simulation assuming Geometric Brownian Motion in a risk-neutral framework. The Monte Carlo simulation considers daily simulated stock prices as a proxy for the Company's daily volume-weighted average price ("VWAP"). The key inputs into the valuation of the Earnout Shares are an expected term of 2.98 years, a risk-free rate of 3.97%, operating asset volatility of 58.4%, and equity volatility of 97.0%. The operating asset volatility and the equity volatility assumptions are based on a blended average of operating and equity volatility, respectively, of publicly traded companies within the Company's peer group.
+
+ 
+
+Warrants
+
+ 
+
+The Public and Private Placement Warrants are accounted for as liabilities in accordance with ASC 815-40 and are presented within Warrant liability in the accompanying unaudited condensed consolidated balance sheet as of March 31, 2024 and December 31, 2023. The Warrant liabilities are measured at fair value at inception and on a recurring basis, with changes in fair value presented within a change in fair value of Warrant liabilities in the statement of operations. 
+
+ 
+
+During the third quarter of 2023, the Company's Public Warrants were delisted from the NYSE, see Note 9, Warrant Liability, for additional information. As such, the Public Warrants were determined to have no value as of March 31, 2024 and December 31, 2023.
+
+ 
+
+The Private Placement warrants are valued using a Black-Scholes option pricing approach, which is considered to be a Level 3 fair value measurement. The volatility for the Private Placement warrants, a key input into the valuation, was estimated to be 97.0% based on the publicly traded per share price of the Company's Class A common stock as of March 31, 2024. Other key inputs into the valuation include a term of 2.98 years, a strike price of $230.00 per share, and an assumption that the Private Placement Warrants will remain outstanding until maturity since, unlike the Public Warrants, the Private Placement Warrants are not redeemable.
+
+ 
+
+In instances whereby inputs used to measure fair value fall into different levels in the above fair value hierarchy, fair value measurements in their entirety are categorized based on the lowest level input that is significant to the valuation. The Company’s assessment of the significance of particular inputs to these fair value measurements requires judgment and considers factors specific to each asset or liability.
+
+ 
+
+22
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+Note 17. Income Taxes
+
+ 
+
+The Company calculates the provision for income taxes during interim periods by applying an estimate of the forecasted annual effective tax rate for the full fiscal year to "ordinary" income or loss (pretax income or loss excluding unusual or infrequently occurring discrete items) for the reporting period. The provision for income taxes was $17 for the three months ending March 31, 2024 compared to $55 for the three months ended March 31, 2023. The effective tax rate, including discrete items, was (0.12%) for the three months ended March 31, 2024 compared to (2.47%) for the three months ended March 31, 2023. The tax provision for the three months ended March 31, 2024 is impacted by the changes in valuation allowance and non-controlling interest not subject to taxes. The Company maintains a full valuation allowance on deferred tax assets and has recorded an immaterial amount of state taxes in the three months ended March 31, 2024 and March 31, 2023, respectively, which are reflected in our effective tax rates.
+
+ 
+
+The Company evaluates the realizability of the deferred tax assets on a quarterly basis and establishes a valuation allowance when it is more likely than not that all or a portion of a deferred tax asset may not be realized. For the three months ended March 31, 2024, the Company made no material adjustments to its assertion that deferred tax assets are not more likely than not to be realized.  
+
+ 
+
+As of March 31, 2024, the Company did not recognize income tax expense or benefits associated with uncertain tax positions. 
+
+ 
+
+Note 18. Commitments and Contingencies
+
+ 
+
+The Company is subject to various claims, lawsuits and other legal proceedings that arise in the ordinary course of business. It is the opinion of management that the disposition or ultimate resolution of such claims and lawsuits will not have a material effect on the Company’s financial condition, comprehensive gain (loss), or cash flows.
+
+ 
+
+Note 19. Variable Interest Entities
+
+ 
+
+Based upon the criteria set forth in ASC 810, the Company consolidates variable interest entities (“VIEs”) in which it has a controlling financial interest and is therefore deemed the primary beneficiary. A controlling financial interest will have both of the following characteristics: (a) the power to direct the VIE activities that most significantly impact economic performance; and (b) the obligation to absorb the VIE losses and the right to receive benefits that are significant to the VIE. The Company has determined that Fathom OpCo meets the definition of a VIE and that the Company is the primary beneficiary of Fathom OpCo beginning on the date of the Business Combination, and therefore the Company must consolidate Fathom OpCo from the date of the Business Combination.
+
+ 
+
+The following table presents a summary of the total assets, liabilities, and shareholders' equity of the Company’s condensed consolidated VIE, which is comprised solely of Fathom OpCo. 
+
+ 
+
+                                 Period Ended March 31, 2024                                       Period Ended December 31, 2023                   
+
+                                    Fathom OpCo Standalone                                             Fathom OpCo Standalone
+
+Total assets    $                                                       317,947  $                                                         329,493 
+
+Total                                                                   190,133                                                            188,603 
+
+ liabilities
+
+Total equity                                                            127,814                                                            140,890 
+
+ 
+
+Note 20 – Subsequent Events
+
+ 
+
+The Company evaluated subsequent events and transactions that occurred after the balance sheet date up to the date that the accompanying financial statements were issued. Based upon this review, the Company did not identify any additional subsequent events, outside of the subsequent event that is disclosed in Note 10, that would have required adjustment or disclosure in the unaudited condensed consolidated financial statements.
+
+ 
+
+Unsecured Promissory Note and Guarantee Agreement
+
+ 
+
+On April 1, 2024, Fathom Manufacturing, LLC (the “Borrower”), an indirect wholly-owned subsidiary of Fathom Digital Manufacturing Corporation (the “Company”), entered into an Unsecured Promissory Note (the “Promissory Note”) in favor of CORE Industrial Partners Fund I, L.P. (the “Lender”), on behalf of CORE Industrial Partners Fund I, L.P. (“Main Fund”) and CORE Industrial Partners Fund I Parallel, L.P. (“Parallel Fund” and collectively with the Main Fund and the Lender, the “Lending Parties” and each, a “Lending Party”). Pursuant to the Promissory Note, the Borrower may incur, and the Lending Parties have collectively committed to provide, on an unsecured basis, up to $2.5 million of term loans that will mature on September 30, 2024 and will accrue interest, payable in kind, at the rate of 5% per annum. Term loans made under the Promissory Note are expected to be used for working capital purposes. The Borrower may prepay the Term Loans from time to time without any premium or penalty. The Lender is affiliated with CORE Industrial Partners, LLC. On April 1, 2024, the Company drew the $2,500 unsecured promissory note. 
+
+ 
+
+23
+
+
+
+FATHOM DIGITAL MANUFACTURING CORPORATION
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+(In thousands, except share amounts)
+
+Concurrent with the execution of the Promissory Note, certain indirect wholly-owned subsidiaries of the Company (including the Borrower) (collectively, the “Guarantors” and each, a “Guarantor”) entered into a Guarantee Agreement dated as of April 1, 2024 (the “Guarantee Agreement”) pursuant to which the Guarantors have agreed to guarantee, on an unsecured basis, in full the payment and performance of the obligations of the Borrower under the Promissory Note. 
+
+ 
+
+Consistent with the Company’s Related Person Policy and Procedures, the foregoing transactions were approved by the Audit Committee of the Board of Directors of the Company. Additionally, the foregoing transactions were approved by the Special Committee established in connection with the pending Merger.   
+
+24
+
+
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our audited consolidated financial statements for our most recently completed fiscal year set forth under Item 8 of our Annual Report on Form 10-K for the year ended December 31, 2023, as amended by Amendment No.1. thereto (the "2023 Form 10-K"). This discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those discussed below. Factors that could cause or contribute to such differences include, but are not limited to those discussed in Item 1A “Risk Factors” of our 2023 Form 10-K and other filings under the Exchange Act.
+
+ 
+
+Agreement and Plan of Merger
+
+ 
+
+On February 16, 2024, the Company, entered into an Agreement and Plan of Merger (the “Merger Agreement”), by and among Fathom Digital Manufacturing Intermediate, LLC, a Delaware limited liability company (“Parent”), Fathom Digital Manufacturing Merger Sub, Inc., a Delaware corporation and a wholly-owned subsidiary of Parent (“Company Merger Sub”), Fathom Digital Manufacturing Merger Sub 2, LLC, a Delaware limited liability company and a wholly-owned subsidiary of Company Merger Sub (“LLC Merger Sub”), Fathom OpCo, and the Company, pursuant to which, among other things, (i) LLC Merger Sub will merge with and into Fathom OpCo with Fathom OpCo surviving the merger as a partially owned subsidiary of the Company (the ”LLC Merger”) and (ii) immediately following the LLC Merger, Company Merger Sub will merge with and into the Company, with the Company as the surviving corporation (the “Merger”, and collectively, with the LLC Merger and the other transactions contemplated by the Merger Agreement, the “Transactions”). Parent, Company Merger Sub and LLC Merger Sub are affiliates of CORE. 
+
+ 
+
+In connection with the Transactions, Parent will acquire all of the Company’s outstanding shares of Class A Common Stock (other than (i) shares of Class A Common Stock held by the Company as treasury stock or owned by Parent or Company Merger Sub, (ii) shares of Class A Common Stock owned by CORE, (iii) shares of Class A Common Stock cancelled pursuant to the Merger Agreement and (iv) any dissenting shares of Class A Common Stock) for $4.75 per share in cash. 
+
+ 
+
+The closing of the Merger Agreement is subject to customary closing conditions. Upon the closing of the Merger, Fathom will become a privately held company.
+
+ 
+
+Overview
+
+ 
+
+Fathom Digital Manufacturing Corporation was incorporated in Delaware in December 2021. However, our roots stretch back over 35 years with the founding of several of our subsidiaries. 
+
+ 
+
+We are a leading national on-demand digital manufacturing platform at the forefront of the Industry 4.0 revolution. Industry 4.0 utilizes e-commerce, automation, and data sharing in a cyber-physical system to communicate and cooperate in the manufacturing process over the Internet of Things ("IoT"). Using our expansive manufacturing footprint and extensive expertise in both additive and traditional manufacturing, we provide comprehensive product development and on-demand manufacturing services to many of the largest and most innovative companies in the world. Our unified suite of manufacturing technologies, processes, and proprietary software enables us to deliver hybridized solutions that meet the specific needs of our customers, empowering them to tackle complex manufacturing problems and accelerate product development cycles.
+
+ 
+
+Our differentiated strategy focuses on speed, problem solving, adaptive technical responsiveness, and a technology agnostic approach across our 25 plus manufacturing processes to meet customers’ design intent. This allows our customers to iterate faster, often shortening their product development and production cycles from months to days. 
+
+ 
+
+We seamlessly blend in-house capabilities consisting of plastic and metal additive technologies, injection molding and tooling, computer numerical control (“CNC”) machining, and precision sheet metal fabrication. We operate over 530 advanced manufacturing systems across 25 unique manufacturing processes and a 400,000 sq. ft. manufacturing footprint, spanning 11 facilities located primarily within the U.S. We believe we are positioned to serve the largest geographic markets in which our customers are located and enable cost effective and rapid turnaround times for our customers. Our scale and the breadth of offerings allow our customers to consolidate their supply chain and product development needs through the ability to source through a single manufacturing supplier. Fathom’s manufacturing technologies and capacity are further extended through the utilization of a selected group of highly qualified suppliers that specialize in injection molding and tooling and CNC machining.
+
+ 
+
+We continue to invest significantly in the enhancement and expansion of our technologies, processes, and capabilities with the aim of better serving the needs of a broader set of customers and end-markets. As a result of our efforts described above, we have developed a loyal base of approximately 2,500 customers, including many of the most innovative companies in the world. Our customers span across a diverse range of end-markets, including, but not limited to, the aerospace, defense, technology, medical, automotive, and IoT sectors. 
+
+ 
+
+We believe the market for our on-demand digital manufacturing services across manufacturing applications is largely unsaturated as companies continue to realize the efficiency and effectiveness of our rapid quotation system and 3D CAD driven manufacturing processes. Our market is projected to grow, fueled by demand for additive manufacturing and continuation of the trend of customers increasingly outsourcing their prototyping and low-to-medium volume production needs. We believe our position as the only on-demand digital manufacturing platform purpose-built to serve the rapid prototyping and low-to-medium volume production needs of the largest and most innovative companies, coupled with our competitive strengths, will allow us to maintain and extend our market leading position.
+
+ 
+
+Key Factors Affecting Our Results
+
+ 
+
+Our financial position and results of operations depend to a significant extent on the following factors:
+
+ 
+
+25
+
+
+
+ 
+
+Industry Opportunity and Competitive Landscape
+
+ 
+
+As discussed above, the market in which we operate is projected to grow, fueled by increased demand for additive manufacturing and continuing trends in customer outsourcing of production needs. We operate in a large, fragmented, and competitive industry, competing for customers with a range of digital manufacturers, digital manufacturing brokers, and regional design bureaus. We believe we are uniquely positioned as the only full-service outsourced solution built specifically to cater to the manufacturing needs of enterprise-level corporate customers. In particular, we believe we compare favorably to other industry participants on the basis of the following competitive factors:
+
+ 
+
+  • Fathom offers a wide breadth of advanced manufacturing processes, including additive 2.0 and emerging technologies;
+
+  
+
+  •  We have a proven track record of serving blue-chip, enterprise-level corporate customers;
+
+  
+
+  •  We offer our clients turnaround times in as little as 24-hours, nationwide;
+
+  
+
+  •  Our unified digital customer experience supplemented by with embedded support teams;
+
+  
+
+  • Fathom provides the industry’s only team of dedicated customer-facing engineers, unlocking the broadest parts envelope and providing
+
+     customers with high-value customized
+
+     parts;
+
+  
+
+  • Our list of certifications validates our capabilities and precision (tight tolerances, handling of sensitive client data, etc.); and
+
+  
+
+  • We possess a wealth of material expertise, technical design capabilities, and engineering resources which we leverage to deliver superior
+
+     customer results regardless of manufacturing process and production material;
+
+     
+
+   
+
+Customer Product Life Cycle and Connectivity
+
+ 
+
+We believe that a number of trends affecting our industry have affected our results of operations and may continue to do so. For example, we believe that many of our target customers are facing three mega trends which are disrupting long-term product growth models including (i) increased pressure to shorten product life-cycles, (ii) manufactured parts on-demand, and (iii) expectation to deliver products that are personalized and customized to unique customer specifications. We believe we continue to be well positioned to benefit from these trends given our proprietary technology alignment with Industry 4.0 trends that enables us to automate and integrate processes involved in manufacturing custom parts. The COVID-19 pandemic has also impacted the manufacturing environment. For example, the pandemic accelerated the digitization of manufacturing as companies pivoted to a work-from-home and socially distanced manufacturing plant environment. As a result, the adoption of e-commerce was accelerated, which allows opportunity for us to provide valuable solutions to manufacturers looking to build resiliency in their supply chains through fast, on-demand manufacturers. While our business may be positively affected by these trends, our results may also be favorably or unfavorably impacted by other trends that affect product developer and engineer orders for custom parts in low volumes, including, among others, economic conditions, changes in product developer and engineer preferences or needs, developments in our industry and among our competitors, and developments in our customers’ industries. For a more complete discussion of the risks facing our business, see Item 1A. “Risk Factors” of our Annual Report on Form 10-K for the year ended December 31, 2023, as amended by Amendment No.1. thereto (the "2023 Form 10-K").
+
+ 
+
+Manufacturing Facilities and Capacity
+
+ 
+
+We believe our combined facilities are adequate for our development and production needs in the near future. Should we need to add space or transition into new facilities, we believe we have the ability to expand our footprint on commercially reasonable terms.
+
+ 
+
+26
+
+
+
+ 
+
+Comparison of the three months ended March 31, 2024 and 2023
+
+ 
+
+                                                                                                                 Three Months Ended                
+
+                                                                                                       March 31, 2024          March 31, 2023     
+
+                                                                                                                                                  
+
+Revenue                                                                                            $              29,195  $               35,007 
+
+Cost of revenue                                                                                                   21,229                  24,010 
+
+Gross profit                                                                                                       7,966                  10,997 
+
+Operating expenses                                                                                                                                
+
+Selling, general, and administrative                                                                              10,506                  10,771 
+
+Depreciation and amortization                                                                                      4,621                   4,576 
+
+Restructuring                                                                                                        535                     650 
+
+Property and equipment impairment                                                                                  2,000                       - 
+
+Total operating expenses                                                                                          17,662                  15,997 
+
+Operating loss                                                                                                    (9,696)                 (5,000)
+
+Interest expense and other (income) expense                                                                                                       
+
+Interest expense                                                                                                   4,229                   3,470 
+
+Other expense                                                                                                         10                     365 
+
+Other income                                                                                                         (11)                 (6,610)
+
+Total interest expense and other (income) expense, net                                                             4,228                  (2,775)
+
+Net loss before income tax                                                                                       (13,924)                 (2,225)
+
+Income tax expense                                                                                                    17                      55 
+
+Net loss                                                                                                         (13,941)                 (2,280)
+
+Net loss attributable to Fathom OpCo non-controlling interest (Note 14)                                           (6,582)                 (3,911)
+
+Net (loss) income attributable to controlling interest                                                            (7,359)                  1,631 
+
+Comprehensive (loss) income:                                                                                                                      
+
+Comprehensive (loss) income, net of tax                                                            $              (7,359) $                1,631 
+
+ 
+
+Revenue
+
+Revenue for the three months ended March 31, 2024 was $29,195 compared to $35,007 for the three months ended March 31, 2023, a decrease of 16.6%. The year-over-year decline was driven by ongoing softness in the macro-economic environment and heightened competitive pressures, mainly impacting our precision sheet metal and CNC product lines.
+
+ 
+
+Gross Profit
+
+Gross profit for the three months ended March 31, 2024 was $7,966, or 27.3% of revenue, compared to $10,997, or 31.4% of revenue, for the three months ended March 31, 2023. The decrease in gross profit was primarily driven by lower sales volume and the associated overhead absorption impacts. 
+
+ 
+
+Operating Expenses
+
+ 
+
+Selling, general, and administrative ("SG&A") expenses were $10,506 and $10,771 for the three months ended March 31, 2024 and March 31, 2023, respectively. The $265, or 2.5%, decrease was primarily driven by reduced stock based compensation expense, lower headcount, and the impact of the Reorganization.
+
+ 
+
+Depreciation and amortization expenses were $4,621 and $4,576 for the three months ended March 31, 2024 and March 31, 2023, respectively.
+
+ 
+
+Restructuring expenses were $535 and $650 for the three months ended March 31, 2024 and March 31, 2023, respectively. 
+
+ 
+
+Impairment charges of $2,000 for the three months ended March 31, 2024 relate to our Miami Lakes facility which we plan to close in the second quarter, and reflect the discounted cash flows, which includes anticipated proceeds from the sale of property and equipment, of the long-lived assets less their previous carrying value. 
+
+ 
+
+Operating Loss
+
+ 
+
+Operating loss was $9,696 and $5,000 for the three months ended March 31, 2024 and March 31, 2023, respectively. The higher operating loss was primarily driven by lower revenue and the associated margins discussed above, as well as the impairment charge at our Miami facility.
+
+ 
+
+27
+
+
+
+ 
+
+Interest Expense and Other Expense (Income)
+
+ 
+
+Interest expense was $4,229 and $3,470 for the three months ended March 31, 2024 and March 31, 2023, respectively. The increase in interest expense is primarily due to a 1.0% rise in interest rates on our total debt as well as an additional $3,000 in borrowing on our revolving credit facility since March 2023.
+
+ 
+
+Other income was $11 and $6,610 for the three months ended March 31, 2024 and March 31, 2023, respectively. The decrease in other income of $6,599 represents the changes in fair value in the earnout share liabilities and the warrant liability during the three months ended March 31, 2023, of $4,830 and $1,780, respectively, due to a decrease in the Company's share price.
+
+ 
+
+Income Taxes
+
+ 
+
+We recorded a tax expense of $17 and $55 for the three months ended March 31, 2024 and March 31, 2023, respectively. For the three months ended March 31, 2024, our income tax expense was impacted by the changes in valuation allowance and non-controlling interest not subject to taxes. For the three months ended March 31, 2023, our income tax expense was impacted by permanent differences with respect to gains and losses recorded on the fathom earn-out share liability, sponsor share earn-out liability and warrant liabilities, partially offset by the changes in valuation allowance and non-controlling interest not subject to taxes.
+
+ 
+
+Non-GAAP Information
+
+ 
+
+This Quarterly Report on Form 10-Q includes Adjusted Net Income (Loss) and Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization ("Adjusted EBITDA"), which are non-GAAP financial measures that we use to supplement our results presented in accordance with U.S. GAAP. We believe Adjusted Net Income (Loss) and Adjusted EBITDA are useful in evaluating our operating performance, as they are similar to measures reported by our public competitors and regularly used by securities analysts, institutional investors and other interested parties in analyzing operating performance and prospects. Adjusted Net Income (Loss) and Adjusted EBITDA are not intended to be a substitute for any U.S. GAAP financial measure and as calculated by us, may not be comparable to other similarly titled measures of performance of other companies within our industry or in other industries. These non-GAAP financial measures supplement and should be considered in addition to and not in lieu of our U.S. GAAP results.
+
+ 
+
+We include these non-GAAP financial measures because they are used by management to evaluate Fathom’s core operating performance and trends and to make strategic decisions regarding the allocation of capital and new investments. Adjusted EBITDA excludes certain expenses that are required in accordance with U.S. GAAP because they are non-recurring (for example, in the case of transaction-related costs), non-cash (for example, in the case of depreciation and amortization) or are not related to our underlying business performance (for example, in the case of interest income and expense).
+
+ 
+
+Adjusted Net Loss
+
+ 
+
+We define and calculate Adjusted Net Loss as net loss before the impact of any increase or decrease in the estimated fair value of the Company’s warrants and earnout shares as well as transaction-related costs and certain other non-cash and non-core items.
+
+ 
+
+The table below presents our Adjusted Net Loss reconciled to our net loss, the most directly comparable U.S. GAAP measure, for the periods indicated:
+
+ 
+
+                                                                                                                  Three Months Ended                 
+
+                                                                                                       March 31, 2024           March 31, 2023      
+
+Net loss                                                                                           $              (13,941) $               (2,280)
+
+Stock compensation                                                                                                    865                   1,093 
+
+Restructuring expense                                                                                                 535                     650 
+
+'Property and equipment impairment                                                                                  2,000                       - 
+
+Change in fair value of warrant liability (1)                                                                           -                  (1,780)
+
+Change in fair value of earnout share liabilities(1)                                                                    -                  (4,830)
+
+Change in fair value of TRA liability (1)                                                                               -                     300 
+
+Integration, non-recurring, non-operating, cash, and non-cash costs(2)                                              2,264                     395 
+
+Adjusted net loss                                                                                  $               (8,277) $               (6,452)
+
+ 
+
+(1) Represents the impacts from the change in fair value related to both the earnout share liabilities, the warrant liabilities, and the TRA liability; 
+
+(2) Represents adjustments for other integration, non-recurring, non-operating, cash, and non-cash costs related primarily to integration costs and severance.
+
+ 
+
+28
+
+
+
+ 
+
+Adjusted EBITDA
+
+ 
+
+We define and calculate Adjusted EBITDA as net loss before the impact of interest income or expense, income tax expense and depreciation and amortization, and further adjusted for the following items: transaction-related costs, the impact of any increase or decrease in the estimated fair value of the Company's warrants and earnout shares, and certain other non-cash and non-core items, as described in the reconciliation included below. 
+
+ 
+
+The table below presents our Adjusted EBITDA reconciled to net loss, the most directly comparable U.S. GAAP measure, for the periods indicated.
+
+ 
+
+                                                                                                                  Three Months Ended                 
+
+                                                                                                       March 31, 2024           March 31, 2023      
+
+Net loss                                                                                           $              (13,941) $               (2,280)
+
+Depreciation and amortization                                                                                       6,318                   6,079 
+
+Interest expense, net                                                                                               4,229                   3,470 
+
+Income tax expense                                                                                                     17                      55 
+
+Stock compensation                                                                                                    865                   1,093 
+
+Restructuring expense                                                                                                 535                     650 
+
+'Property and equipment impairment                                                                                  2,000                       - 
+
+Change in fair value of warrant liability(1)                                                                            -                  (1,780)
+
+Change in fair value of earnout share liabilities(1)                                                                    -                  (4,830)
+
+Change in fair value of TRA (1)                                                                                         -                     300 
+
+Integration, non-recurring, non-operating, cash, and non-cash costs(2)                                              2,264                     395 
+
+Adjusted EBITDA                                                                                    $                2,287  $                3,152 
+
+(1) Represents the impacts from the change in fair value related to both the earnout share liabilities, the warrant liabilities, and the TRA liability; 
+
+(2) Represents adjustments for other integration, non-recurring, non-operating, cash, and non-cash costs related primarily to integration costs and severance.
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+We measure liquidity in terms of our ability to fund the cash requirements of our business operations, including working capital and capital expenditure needs, contractual obligations, and other commitments, with cash flows from operations and other sources of funding. Apart from the Term Loan Paydown (as defined below), our current liquidity needs relate mainly to our working capital requirements, capital equipment investments, and business development efforts, as well as compensation of and benefits to our employees.  
+
+ 
+
+We had $2,276 in cash as of March 31, 2024. We believe our operating cash flows, together with our unsecured promissory note described below, amounts available under the Credit Agreement and our cash on hand, will be sufficient to meet our anticipated working capital and capital expenditure requirements during the next 12 months; assuming that the funding from Parent as contemplated by the Equity Commitment Letter is obtained, or if not, we are otherwise able to obtain on acceptable terms additional qualified equity capital sufficient to permit us to make the Term Loan Paydown when due. 
+
+ 
+
+Beyond the next twelve months, and assuming that we are successful in obtaining sufficient qualified equity capital sufficient to permit us to make the Term Loan Paydown when due, we expect our capital expenditures and working capital requirements to continue to increase, as we seek to expand our product offerings across more of the U.S. Our capital expenditures in 2023 of $5,010 equaled approximately 3.8% of annual revenue. We believe that our annual future growth capital expenditures, excluding buildings and maintenance capital we might purchase for our operations, are likely to be approximately 3.0 %- 7.0% of annual revenue. To the extent that our available resources are insufficient to satisfy our short-term and long-term cash requirements, we may need to seek additional equity or debt financing. If the needed financing is not available, or if the terms of financing are less desirable than we expect, we may be forced to decrease our level of investment in new product launches and related marketing initiatives or to scale back our existing operations, which could have an adverse impact on our business and financial prospects. 
+
+ 
+
+Cash Flow Analysis
+
+ 
+
+                                                                                                 Three Months Ended                                
+
+                                                                            March 31, 2024                               March 31, 2023           
+
+Net cash provided by (used in) :                                                                                                                   
+
+Operating Activities                                               $                            263            $                            500 
+
+Investing Activities                                                                           (277)                                     (1,917)
+
+Financing Activities                                                                         (3,283)                                      2,833 
+
+ 
+
+Operating Activities
+
+ 
+
+Net cash provided by operating activities was $263 for the three months ended March 31, 2024 compared to net cash provided by operating activities of $500 for the three months ended March 31, 2023. This decrease of $237 is primarily due to a larger operating loss.
+
+ 
+
+29
+
+
+
+ 
+
+Investing Activities
+
+ 
+
+Cash used in investing activities was $277 for the three months ended March 31, 2024 compared to $1,917 for the three months ended March 31, 2023. The decrease of $1,640 was driven by a reduction in capital expenditures for the three months ended March 31, 2024.
+
+ 
+
+Financing Activities
+
+ 
+
+Cash used by financing activities was $3,283 for the three months ended March 31, 2024 compared to cash provided by financing activities of $2,833 for the three months ended March 31, 2023. Cash used by financing activities for the three months ended March 31, 2024 was driven by payments on the term loan of $3,215. Proceeds provided by financing activities for the three months ended March 31, 2023 came from a $5,000 draw on the revolver facility, partially offset by payments made on the term loan and the debt issuance costs. 
+
+ 
+
+Credit Agreement
+
+ 
+
+Our Credit Agreement contains financial and other covenants, including minimum EBITDA, minimum liquidity, net leverage ratio and net interest coverage requirements, which restrict our business activities and our ability to execute our strategic objectives. 
+
+ 
+
+As more fully described below under “Borrowings and Lines of Credit,” the Credit Agreement was amended on February 16, 2024 (such February 2024 amendment, the “Fourth Amendment”), in part to provide necessary financial covenant relief (as the context requires). In addition, the Fourth Amendment waived any default or event of default arising under the Credit Agreement relating to, among other things, the failure to comply with certain minimum EBITDA and liquidity requirements as of and for periods ended December 31, 2023.
+
+ 
+
+Under the Fourth Amendment, the Company is required to make a repayment of $50,000 of the outstanding principal balance of the term loan (the “Term Loan”) under the Credit Agreement held by certain term lenders (the “Term Loan Paydown”) no later than the earlier of (i) July 31, 2024, the date on which the Merger Agreement and certain related agreements will terminate if the Transactions are not consummated by such date or (ii) the date on which the Transactions are consummated. The Term Loan Paydown must be funded with qualified equity capital and will constitute a permanent reduction of the Term Loan. In connection with the execution of the Merger Agreement, CORE Investors and its managing partner, an affiliate of CORE Industrial Partners, entered into the Equity Commitment Letter with Parent whereby they agreed, subject to the terms and conditions thereof, to provide equity financing to Parent in the aggregate amount set forth therein to facilitate consummation of the Transactions (as defined in the Merger Agreement), including the Merger, the payment of the Term Loan Paydown and certain other payments. CORE’s obligations under the Equity Commitment letter are subject to certain terms and conditions, including consummation of the pending Merger, and there is no assurance that such terms and conditions will be satisfied.  
+
+ 
+
+If the funding of Parent as contemplated by the Equity Commitment Letter is not obtained, our cash on hand, cash flows from operating activities and other presently available capital resources will not be sufficient to permit us to make the Term Loan Paydown. Accordingly, in such circumstances, we will need to obtain sufficient qualified equity capital (or otherwise restructure or refinance our indebtedness) in order to make the Term Loan Paydown and to continue to fund our ongoing operations. We may not be able to obtain such necessary additional equity capital or to effect other alternative measures to permit us to make the Term Loan Paydown when due. In such event, we would be in default under the Credit Agreement, and the lenders could terminate their commitments to loan money under the revolving credit facility, declare all outstanding principal and interest under the Credit Agreement to be due and payable, and foreclose against the assets securing our borrowings, and we could be forced into bankruptcy or liquidation. In the event that the funding of Parent as contemplated by the Equity Commitment Letter is not obtained, the Company intends to explore possible capital transactions that would provide the Company with the necessary resources to make the Term Loan Paydown when due; however, there can be no assurance that such efforts will be successful in accessing the necessary capital or executing alternative measures to satisfy the Term Loan Paydown requirement.   
+
+ 
+
+Failure to comply with the covenants contained in the Credit Agreement, if not waived or further amended on acceptable terms, could give rise to an event of default and, if not cured, entitle the lenders to accelerate the indebtedness outstanding thereunder and terminate our ability to borrow in the future under the Credit Agreement. Our ability to expand and grow our business will depend on many factors, including our working capital needs and our operating cash flows.  
+
+ 
+
+Borrowings and Lines of Credit
+
+ 
+
+Credit Agreement
+
+ 
+
+On December 23, 2021, Fathom OpCo entered into the Credit Agreement, which included a $50,000 revolving credit facility and a $125,000 term loan (the “Term Loan”). The Company's borrowings under the revolving credit facility were $45,000 at March 31, 2024 and December 31, 2023, respectively. The loans borrowed under the Credit Agreement will mature in December 2026, except for $50,000 principal amount of the Term Loan which must be repaid (the “Term Loan Paydown”) no later than July 31, 2024 (or earlier in the circumstance described below). The Company expects to be able to satisfy the obligations relating to the Term Loan Paydown, but there is no assurance that it will be successful. Due to this uncertainty, and the ability of our lenders to declare a default and exercise their right to accelerate repayment of our indebtedness under the Credit Agreement in the event of our failure to satisfy such obligations, all of our indebtedness under the Credit Agreement is classified as current portion of long-term debt as of December 31, 2023. See Note 2. Basis of Presentation for additional information. 
+
+ 
+
+As previously disclosed, the Credit Agreement was amended in November 2022, March 2023, and November 2023, in each case to, among other things, modify certain financial covenants in the Credit Agreement. 
+
+ 
+
+30
+
+
+
+ 
+
+The Company entered into the Fourth Amendment to the Credit Agreement (the "Fourth Amendment") to modify, among other things, certain financial covenants. In addition, the Fourth Amendment waived any default or event of default arising under the Credit Agreement relating to, among other things, the failure to comply with certain minimum EBITDA requirements as of and for periods ended December 31, 2023.
+
+ 
+
+The Fourth Amendment requires the interest coverage ratio as of the last day of any fiscal quarter, commencing with the fiscal quarter ending on September 30, 2024, to not be less than the applicable ratio set forth opposite such fiscal quarter below:
+
+ 
+
+                                                    Fiscal Quarter                                                        Interest Coverage Ratio
+
+Each fiscal quarter ending on and after September 30, 2024 through and including December 31, 2024                              1.15 to 1.00
+
+Each fiscal quarter ending on and after March 31, 2025 through and including December 31, 2025                                  1.25 to 1.00
+
+Fiscal quarter ending on March 31, 2026                                                                                         1.35 to 1.00
+
+Fiscal quarter ending on June 30, 2026                                                                                          1.45 to 1.00
+
+Fiscal quarter ending on September 30, 2026 and thereafter                                                                      1.55 to 1.00
+
+ 
+
+In addition, the Fourth Amendment requires the net leverage ratio as of the last day of any fiscal quarter, commencing with the fiscal quarter ending on September 30, 2024, to not exceed the applicable ratio set forth opposite such fiscal quarter below:
+
+ 
+
+                                               Fiscal Quarter                                                           Net Leverage Ratio
+
+ Fiscal quarter ending on September 30, 2024                                                                               7.75 to 1.00
+
+ Fiscal quarter ending on December 31, 2024                                                                                7.25 to 1.00
+
+ Fiscal quarter ending on March 31, 2025                                                                                   6.75 to 1.00
+
+ Fiscal quarter ending on June 30, 2025                                                                                    6.25 to 1.00
+
+ Fiscal quarter ending on September 30, 2025                                                                               5.75 to 1.00
+
+ Fiscal quarter ending on December 31, 2025                                                                                5.25 to 1.00
+
+ Fiscal quarter ending on March 31, 2026                                                                                   4.75 to 1.00
+
+ Fiscal quarter ending on June 30, 2026                                                                                    4.25 to 1.00
+
+ Fiscal quarter ending on September 30, 2026 and thereafter                                                                4.00 to 1.00
+
+ 
+
+Further, the Fourth Amendment requires the Company’s minimum unrestricted cash and cash equivalents on account, together with the amounts available to be drawn under the revolving credit facility under the Credit Agreement (as defined in the Credit Agreement, “Liquidity”) to not be less than $6,000 as of the last day of any month ending on February 29, 2024 through and including December 31, 2024.
+
+ 
+
+Under certain circumstances, the Fourth Amendment permits the Company, at its election and in its sole discretion, to designate the last day of any fiscal quarter ending on or after March 31, 2025 as the “Covenant Changeover Date”. On and after the Covenant Changeover Date, the Fourth Amendment will require the interest coverage ratio as of the last day of any fiscal quarter ending on or after the Covenant Changeover Date to not be less than 2.50 to 1.00 and the net leverage ratio as of the last day of any fiscal quarter ending on or after the Covenant Changeover Date to not exceed 3.50 to 1.00, provided that, in the case of the maximum net leverage ratio requirement, if a qualified material acquisition is consummated after the Covenant Changeover Date, the Company may elect to increase the maximum net leverage ratio requirement to 4.00 to 1.00 with respect to the fiscal quarter in which such qualified material acquisition is consummated and each of the three immediately following fiscal quarters, provided that no such election may be made to so increase the maximum net leverage ratio requirement to 4.00 to 1.00 unless, as of the end of at least two consecutive fiscal quarters immediately preceding such election, the net leverage ratio was not greater than 3.50 to 1.00. Following the Covenant Changeover Date, certain additional restrictions on the availability of certain baskets in the Third Amendment relating to restricted payments, restricted debt payments, and sale and leaseback transactions will cease to apply.
+
+ 
+
+Failure to comply with the covenants contained in the Fourth Amendment (if not waived or further amended on acceptable terms) could give rise to an event of default and, if not cured, entitle the lenders to accelerate the indebtedness outstanding thereunder and terminate our ability to borrow in the future under the Credit Agreement. 
+
+ 
+
+The Fourth Amendment requires the Company to make the Term Loan Paydown of $50,000 no later than the earlier of July 31, 2024, the date on which the Merger Agreement or certain related agreements is terminated or the date on which the Transactions are consummated.
+
+ 
+
+The Credit Agreement previously permitted the Company to exercise a right to cure financial covenant defaults by means of raising cash through the sale of certain eligible equity interests of the Company as described in the Credit Agreement commencing with the fiscal quarter ending on June 30, 2024. The Fourth Amendment permits the Company to exercise this right commencing with the fiscal quarter ending on September 30, 2024. 
+
+ 
+
+The Fourth Amendment also provides that the margin applicable to Term SOFR Loans increases to 4.25% until the first business day after the delivery of financial statements and the related compliance certificate required to be delivered under the Third Amendment for the fiscal quarter ending on June 30, 2024, and thereafter to the extent the Company’s net leverage ratio equals or exceeds 5.00 to 1.0 on the applicable date.
+
+ 
+
+In connection with the preparation and execution of the Fourth Amendment, the Company incurred reasonable and documented expenses of the Administrative Agent and $76 in customary arranger and lender consent fees, with certain portions thereof being payable on the Closing Date of the applicable amendment and the remainder being payable at the earlier of the Term Loan Pay Down, July 31, 2024 and the date on which the loans are accelerated and the commitments are terminated in accordance with the Credit Agreement.
+
+ 
+
+The foregoing description of the Fourth Amendment is a summary and is qualified in its entirety by reference to the full text of the Fourth Amendment, which is attached to this Annual Report as Exhibit 10.19 and incorporated herein by reference.
+
+31
+
+
+
+ 
+
+ 
+
+The Company recorded deferred financing costs of $713 and $1,237, respectively for the three and twelve months ended December 31, 2023 in conjunction with the Credit Agreement and subsequent amendments and the applicable principal balances are presented within Long-Term debt, net on the Company's consolidated balance sheets. The Company amortizes the deferred financing costs using the effective interest method. 
+
+ 
+
+The revolving credit facility under the Credit Agreement is available for working capital and other general corporate purposes and includes a letter of credit sub-facility of up to $5,000. The Credit Agreement also includes an uncommitted incremental facility, which, subject to certain conditions, provides for additional term loan facilities, an increase in commitments under the Credit Agreement and/or an increase in commitments under the revolving credit facility, in an aggregate amount of up to $100,000.
+
+ 
+
+Unsecured Promissory Note and Guarantee Agreement
+
+ 
+
+On April 1, 2024, Fathom Manufacturing, LLC (the “Borrower”), an indirect wholly-owned subsidiary of Fathom, entered into an Unsecured Promissory Note (the “Promissory Note”) in favor of CORE Industrial Partners Fund I, L.P. (the “Lender”), on behalf of CORE Industrial Partners Fund I, L.P. (“Main Fund”) and CORE Industrial Partners Fund I Parallel, L.P. (“Parallel Fund” and collectively with the Main Fund and the Lender, the “Lending Parties” and each, a “Lending Party”). Pursuant to the Promissory Note, the Borrower may incur, and the Lending Parties have collectively committed to provide, on an unsecured basis, up to $2,500 of term loans that will mature on September 30, 2024 and will accrue interest, payable in kind, at the rate of 5% per annum. Term loans made under the Promissory Note are expected to be used for working capital purposes. The Borrower may prepay the Term Loans from time to time without any premium or penalty. The Lender is affiliated with CORE Industrial Partners, LLC. On April 1, 2024, the Company drew the full $2,500 unsecured promissory note. 
+
+ 
+
+Concurrent with the execution of the Promissory Note, certain indirect wholly-owned subsidiaries of the Company (including the Borrower) (collectively, the “Guarantors” and each, a “Guarantor”) entered into a Guarantee Agreement dated as of April 1, 2024 (the “Guarantee Agreement”) pursuant to which the Guarantors have agreed to guarantee, on an unsecured basis, in full the payment and performance of the obligations of the Borrower under the Promissory Note. 
+
+ 
+
+Going Concern Consideration 
+
+ 
+
+The unaudited condensed consolidated financial statements included in this Quarterly Report have been prepared using the going concern basis of accounting, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. To satisfy the obligation to pay the $50,000 Term Loan Paydown due July 31, 2024 (or, if earlier, on the date the pending Merger is consummated or the date that the Merger Agreement and related transaction documents are terminated), the Company will need to obtain sufficient qualified equity capital or otherwise restructure or refinance the Company's Credit Agreement (the "Credit Agreement"). In connection with the execution of the Merger Agreement, CORE Industrial Partners Fund L.L.P. and CORE Industrial Partners Fund I Parallel. L.P. (the "CORE Investors") and their managing partner, an affiliate of CORE Industrial Partners, entered into that certain Equity Commitment Letter (the "Equity Commitment Letter") with Parent whereby they agreed, subject to the terms and conditions thereof, to provide equity financing to Parent in the aggregate amount set forth therein to facilitate consummation of the Transactions (as defined in the Merger Agreement), including the Merger, the payment of the Term Loan Paydown and certain other payments. The CORE Investors’ obligations under the Equity Commitment letter are subject to certain terms and conditions, including consummation of the pending Merger, and there is no assurance that such terms and conditions will be satisfied. If the funding of Parent as contemplated by the Equity Commitment Letter is not obtained, the Company will need to obtain sufficient other qualified equity capital or otherwise restructure or refinance the Credit Agreement. At this time, we expect to be able to successfully complete one of these actions if the necessity arises; however, there is no assurance that we will be successful, and our inability to obtain such capital or complete such actions would likely have a material adverse effect on the Company. This uncertainty raises substantial doubt about the Company’s ability to continue as a going concern within one year after the issuance date of the accompanying audited consolidated financial statements. The unaudited condensed consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+
+ 
+
+Tax Receivable Agreement
+
+ 
+
+In connection with the Business Combination, we entered into the TRA with certain of our pre-Business Combination owners that provides for the payment by Fathom to such owners of 85% of the benefits that Fathom is deemed to realize as a result of the Company’s share of existing tax basis acquired in the Business Combination and other tax benefits related to entering into the TRA.  
+
+ 
+
+Actual tax benefits realized by Fathom may differ from tax benefits calculated under the TRA as a result of the use of certain assumptions in the TRA, including the use of an assumed weighted-average state and local income tax rate to calculate tax benefits. While the amount of existing tax basis, the anticipated tax basis adjustments and the actual amount and utilization of tax attributes, as well as the amount and timing of any payments under the TRA, will vary depending upon a number of factors. As of December 31, 2023, the Company determined that making a future payment under the TRA was not probable because the Company does not believe it will have sufficient taxable income to utilize deductions of certain tax attributes that would generate cash savings in U.S. federal, state and local income tax or franchise tax to require a payment under the TRA. As a result, the Company remeasured the TRA liability at zero in the consolidated balance sheets and recorded a gain of $28,270 in the consolidated statements of operations for the fiscal year ended December 31, 2023.  At March 31, 2024, the assessment and position remains the same and the TRA liability continues to be valued at zero.
+
+ 
+
+On April 4, 2023, the TRA was amended and restated by Fathom and CORE, which holds a controlling interest in Fathom. The purpose of the amendment was (i) the technical correction of an inadvertent omission from the original TRA of certain intended tax benefits to affiliates of CORE which directly or indirectly owned interests in Fathom OpCo prior to the Business Combination through entities taxed as C-Corporations and (ii) to 
+
+32
+
+
+
+ 
+
+replace LIBOR with SOFR as the reference interest rate in the agreement for the several interest rates applicable under the agreement. The correction described in clause (i) of the immediately preceding sentence did not affect Fathom’s accounting for the TRA. 
+
+ 
+
+On February 16, 2024, and in connection with the execution of the Merger Agreement, the TRA was further amended by the Company, Fathom OpCo and the other parties signatory thereto. As so amended, the TRA will automatically terminate in full without any payment, including any Tax Benefit Payment or Early Termination Payment (each capitalized term as defined in the TRA), upon the consummation of the Merger, and the Merger will not constitute a Change of Control (as defined in the TRA) thereunder. The consummation of the Merger is subject to the satisfaction or waiver (if permitted) of certain customary conditions as set forth in the Merger Agreement, and there is no assurance that the Merger will be consummated or upon the timetable presently contemplated.
+
+ 
+
+Critical Accounting Policies and Use of Estimates
+
+ 
+
+Preparation of our financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, and expenses. See Note 2—Significant Accounting Policies in the notes to our audited consolidated financial statements in the Company's 2023 Form 10-K describes the significant accounting policies used in preparation of the unaudited condensed consolidated financial statements. We believe that the most complex and sensitive judgments, because of their potential significance to the unaudited condensed consolidated financial statements, result primarily from the need to make estimates about the effects of matters that are inherently uncertain and are described subsequently. Actual results could differ from management’s estimates.
+
+ 
+
+Impact of Changes in Accounting on Recent and Future Trends
+
+ 
+
+In November 2023, the Financial Accounting Standards Board's ("FASB") issued Accounting Standard Update ("ASU") ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures ("ASU 2023-07"), which is intended to improve reportable segment disclosure requirements through enhanced disclosures about significant segment expenses. The Company is required to adopt this guidance for its annual year end December 31, 2024 and all interim periods thereafter using a retrospective approach to all periods presented. Early adoption is permitted. The Company is evaluating the impact of this guidance on its disclosures. 
+
+ 
+
+Emerging Growth Company Accounting Election
+
+ 
+
+Section 102(b)(1) of the Jumpstart Our Business Startups Act of 2012 (“JOBS Act”) exempts emerging growth companies from being required to comply with new or revised financial accounting standards until private companies are required to comply with the new or revised financial accounting standards. The JOBS Act provides that a company can choose not to take advantage of the extended transition period and comply with the requirements that apply to non-emerging growth companies, and any such election to not take advantage of the extended transition period is irrevocable. Altimar II was an emerging growth company as defined in Section 2(a) of the Securities Act of 1933, as amended, and has elected to take advantage of the benefits of this extended transition period. Fathom is expected to remain an emerging growth company at least through the end of the 2023, and is expected to continue to take advantage of the benefits of the extended transition period. This may make it difficult or impossible to compare Fathom financial results with the financial results of another public company that is either not an emerging growth company or is an emerging growth company that has chosen not to take advantage of the extended transition period exemptions for emerging growth companies because of the potential differences in accounting standards used.
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+For quantitative and qualitative disclosures about market risk, see Item 7A. "Quantitative and Qualitative Disclosures About Market Risk" of our 2023 Form 10-K. Our exposures to market risk have not changed materially since December 31, 2023.
+
+Item 4. Controls and Procedures.
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our reports filed pursuant to the Exchange Act is properly and timely reported and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+ 
+
+We have evaluated the effectiveness of our disclosure controls and procedures as of March 31, 2024, with the participation, and under the supervision, of our management, including our Chief Executive Officer and Chief Financial Officer. Based upon this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of March 31, 2024, our disclosure controls and procedures were ineffective to the extent of the material weaknesses described below:
+
+ 
+
+•Our information technology general controls intended to restrict access to data and application were not adequate resulting in appropriate access and improper segregation of duties at both the system (pervasive) and end user levels across multiple locations. Management determined that ineffective information technology general controls represent a material weakness. 
+
+•A comprehensive system of formal policies, procedures and controls has not been fully designed or implemented to ensure appropriate document retention and achieve complete, accurate and timely financial accounting, reporting and disclosures. Management determined that the ineffective pervasive controls represent a material weakness.
+
+33
+
+
+
+ 
+
+•Management determined that the Company has design deficiencies over revenue, specifically around (i) customer and supplier onboarding; (ii) document retention; and (iii) a lack of evidence to support control performance. Management determined that the collective ineffective controls over revenue constitute a material weakness.
+
+•Management determined that the Company did not maintain effective controls over the completeness, existence, accuracy, and presentation and disclosure of the accounting for income taxes and related liabilities, including (i) quarterly and year-end income tax provision and reporting; (ii) significant transactions and business events; (iii) uncertain tax positions; (iv) the tax receivable agreement liability valuation derived from our Up-C tax structure; (v) and tax related disclosures. Management determined that the ineffective controls over income tax accounting constitute a material weakness.
+
+•Management determined that the Company has design deficiencies over the completeness, accuracy, existence, and presentation and disclosure of inventory. Specifically, we did not maintain effective controls related to (i) validation of the inventory costing, including unit of measure; (ii) consistent verification of inventory existence throughout the year; and (iii) reconciliation of inventory accounts. Management determined that the ineffective controls over inventory accounting constitute a material weakness.
+
+ 
+
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the company’s annual or interim condensed consolidated financial statements may not be prevented or detected on a timely basis.
+
+ 
+
+In light of the material weakness described above, we performed additional analysis and other post-closing procedures to ensure our financial statements were prepared in accordance with U.S. GAAP. Accordingly, we believe that the condensed consolidated financial statements included in this report fairly present, in all material respects, our financial condition, results of operations and cash flows for the periods presented.
+
+ 
+
+Changes in Internal Control over Financial Reporting
+
+ 
+
+There has been no change in our internal control over financial reporting that occurred during the fiscal quarter ended March 31, 2024, covered by this Quarterly Report on Form 10-Q that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. Management has identified the material weaknesses in our internal controls as noted above under "Evaluation of Disclosure Controls and Procedures."
+
+ 
+
+PART II—OTHER INFORMATION
+
+Item 1. Legal Proceedings.
+
+We may from time to time be involved in litigation and claims incidental to the conduct of our business. We are not currently subject to any pending legal (including judicial, regulatory, administrative or arbitration) proceedings that we expect to have a material impact on our condensed consolidated financial statements. However, given the inherent unpredictability of these types of proceedings and the potentially large and/or indeterminate amounts that could be sought, an adverse outcome in certain matters could have a material effect on Fathom's financial results in any particular period. See Note 18 "Commitments and Contingencies" for additional information.
+
+ 
+
+Item 1A. Risk Factors.
+
+Some factors that could cause our actual results to differ materially from those results in this report are described as risks in our 2023 Form 10-K. Any of these factors could materially and adversely affect our business, financial condition, results of operations and cash flows. As of the date of this report, there have been no material changes to the risk factors previously disclosed in our 2023 Form 10-K. We may, however, disclose changes to such factors or disclose additional factors from time to time in our future filings with the SEC.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+None.
+
+Item 3. Defaults Upon Senior Securities.
+
+None.
+
+Item 4. Mine Safety Disclosures.
+
+Not applicable.
+
+Item 5. Other Information.
+
+None.
+
+34
+
+
+
+ 
+
+Item 6. Exhibits.
+
+ 
+
+  Exhibit                                                           Description
+
+  Number
+
+2.3†        Agreement and Plan of Merger, dated as of February 16, 2024, by and among Fathom Digital Manufacturing Intermediate, LLC ,
+
+             Fathom Digital Manufacturing Merger Sub, Inc., Fathom Digital Manufacturing Merger Sub 2, LLC, Fathom Holdco, LLC, and
+
+             Fathom Digital Manufacturing Corporation (incorporated by reference to Exhibit 2.1 to Fathom’s Current Report on Form 8-K
+
+             filed with the SEC on February 20,
+
+             2024).
+
+10.1†       Fourth Amendment, dated as of February 16, 2024, to the Credit Agreement, dated as of December 23, 2021, as previously
+
+             amended by the First Amendment, Second Amendment and Third Amendment thereto, by and among Fathom Guarantor, LLC, Fathom
+
+             Manufacturing, LLC, the Lenders from time to time party thereto and JPMorgan Chase Bank, N.A., as Administrative Agent
+
+             (incorporated by reference to Exhibit 10.1 to Fathom’s Current Report on Form 8-K filed with the SEC on February 20,
+
+             2024).
+
+10.2        Amendment No. 1, dated as of February 16, 2024 to the Amended and Restated Tax Receivable Agreement, dated as of April 4,
+
+             2023, by and among Fathom Digital Manufacturing Corporation, Fathom Holdco, LLC, and certain other parties thereto
+
+             (incorporated by reference to Exhibit 10.2 to Fathom’s Current Report on Form 8-K filed with the SEC on February 20,
+
+             2024).
+
+10.3        Amendment No. 1, dated as of February 16, 2024 to the Second Amended and Restated Limited Liability Agreement of Fathom
+
+             Holdco, LLC dated as of December 23, 2021 (incorporated by reference to Exhibit 10.3 to Fathom’s Current Report on Form
+
+             8-K filed with the SEC on February 20,
+
+             2024).
+
+10.4        Support Agreement, dated as of February 16, 2024, by and among Fathom Digital Manufacturing Corporation, Fathom Digital
+
+             Manufacturing Intermediate, LLC, and the stockholders party thereto (incorporated by reference to Exhibit 10.4 to
+
+             Fathom’s Current Report on Form 8-K filed with the SEC on February 20,
+
+             2024).
+
+31.1*       Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act
+
+             of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+             2002.
+
+31.2*       Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act
+
+             of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of
+
+             2002.
+
+32.1*       Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the
+
+             Sarbanes-Oxley Act of
+
+             2002.
+
+32.2*       Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the
+
+             Sarbanes-Oxley Act of
+
+             2002.
+
+101.INS     Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because XBRL tags are
+
+             embedded within the Inline XBRL
+
+             document.
+
+101.SCH     Inline XBRL Taxonomy Extension Schema Document
+
+101.CAL     Inline XBRL Taxonomy Extension Calculation Linkbase Document
+
+101.DEF     Inline XBRL Taxonomy Extension Definition Linkbase Document
+
+101.LAB     Inline XBRL Taxonomy Extension Label Linkbase Document
+
+101.PRE     Inline XBRL Taxonomy Extension Presentation Linkbase Document
+
+104         Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+* Filed herewith.
+
+†         Certain of the exhibits and schedules to this Exhibit have been omitted in accordance with Regulation S-K Item 601(a)(5). The Registrant agrees to furnish a copy of all omitted exhibits and schedules to the SEC upon its request.
+
+35
+
+
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+                                                FATHOM DIGITAL MANUFACTURING CORPORATION
+
+                                                              
+
+Date: May 15, 2024                              By:                                              /s/ Carey Chen
+
+                                                                                                   Carey Chen
+
+                                                                                            Chief Executive Officer
+
+                                                              
+
+                                                              
+
+                                                              
+
+Date: May 15, 2024                              By:                                              /s/ Mark Frost
+
+                                                                                                   Mark Frost
+
+                                                                                            Chief Financial Officer
+
+ 
+
+36

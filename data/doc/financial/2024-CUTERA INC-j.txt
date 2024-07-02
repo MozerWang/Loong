@@ -1,0 +1,2673 @@
+Table of Contents 
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+
+
+
+
+FORM 10-Q
+
+
+
+
+
+(Mark One)
+
+
+
+
+
+☒    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended March 31, 2024 
+
+OR
+
+
+
+☐    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from _____ to_____.
+
+Commission File Number: 000-50644
+
+
+
+
+
+Cutera, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+
+
+
+
+
+
+
+
+                                 Delaware                                                                 77-0492262
+
+      (State or other jurisdiction of incorporation or organization)                         (I.R.S. Employer Identification No.)
+
+3240 Bayshore Blvd., Brisbane, California 94005
+
+(Address of principal executive offices)
+
+(415) 657-5500
+
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+              Title of each class                              Trading Symbol(s)                  Name of each exchange on which registered
+
+        Common Stock ($0.001 par value)                              CUTR                                The NASDAQ Stock Market, LLC
+
+
+
+
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes    x    No    ¨
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes x     No    ¨
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act (check one):
+
+
+
+Large accelerated filer       ☐                                              Accelerated filer             ☒
+
+Non-accelerated filer         ☐                                              Smaller reporting company     ☐
+
+                                                                             Emerging growth company       ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.):    Yes    ☐    No    x
+
+The number of shares of Registrant’s common stock issued and outstanding as of May 8, 2024, was 20,072,096.
+
+
+
+
+
+Table of Contents 
+
+CUTERA, INC.
+
+FORM 10-Q
+
+TABLE OF CONTENTS
+
+
+
+                                                                                                                                 Page
+
+PART I          FINANCIAL INFORMATION
+
+
+
+Item 1          Financial Statements (Unaudited)                                                                                       3
+
+                Condensed Consolidated Balance Sheets                                                                                  3
+
+                Condensed Consolidated Statements of Operations                                                                        4
+
+                Condensed Consolidated Statements of Comprehensive Loss                                                                5
+
+                Condensed Consolidated Statements of Changes in Stockholders’ Deficit                                                  6
+
+                Condensed Consolidated Statements of Cash Flows                                                                        7
+
+                Notes to Condensed Consolidated Financial Statements                                                                   8
+
+Item 2          Management’s Discussion and Analysis of Financial Condition and Results of Operations                                 35
+
+Item 3          Quantitative and Qualitative Disclosures About Market Risk                                                            44
+
+Item 4          Controls and Procedures                                                                                               44
+
+
+
+PART II         OTHER INFORMATION
+
+
+
+Item 1          Legal Proceedings                                                                                                     47
+
+Item 1A         Risk Factors                                                                                                          47
+
+Item 2          Unregistered Sales of Equity Securities and Use of Proceeds                                                           47
+
+Item 3          Defaults Upon Senior Securities                                                                                       47
+
+Item 4          Mine Safety Disclosures                                                                                               47
+
+Item 5          Other Information                                                                                                     47
+
+Item 6          Exhibits                                                                                                              48
+
+                Signature                                                                                                             49
+
+
+
+
+
+
+
+Table of Contents 
+
+In this Quarterly Report on Form 10-Q, “Cutera,” “the Company,” “we,” “us” and “its” refer to Cutera, Inc. and its consolidated subsidiaries.
+
+
+
+This report may contain references to its proprietary intellectual property, including among others, trademarks for its systems and ancillary products, “ACUTIP 500®,” “AVI™,” “AVICLEAR®,” “AVICOOL®,” “AVIANALYTICS™,” “CUCF®,” “CUTERA®,” “CUTERA UNIVERSITY CLINICAL FORUM®,” “ENLIGHTEN®,” “EXCEL HR®,” “EXCEL V®,” “GENESIS™,” “LASER GENESIS™,” “LIMELIGHT®,” “PICO GENESIS®,” “PICO TONING®,” “PROWAVE 770®,” “SOLERA®,” “TITAN®,” “TRUBODY®,” “TRUSCULPT FLEX®,” “TRUFLEX™,” “TRUSCULPT®,” “TRUSCULPT ID®,” and “XEO®.” 
+
+These trademarks and trade names are the property of Cutera or the property of its consolidated subsidiaries and are protected under applicable intellectual property laws. Solely for convenience, its trademarks and tradenames referred to in this Quarterly Report on Form 10-Q may appear without the ® or symbols, but such references are not intended to indicate in any way that the Company will not assert, to the fullest extent under applicable law, its rights to these trademarks and tradenames.
+
+
+
+2
+
+
+
+Table of Contents 
+
+PART I.     FINANCIAL INFORMATION
+
+ITEM 1.    FINANCIAL STATEMENTS (UNAUDITED)
+
+CUTERA, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(In thousands, except share, per share data and par value)
+
+(Unaudited)
+
+
+
+                                                                                                                   March 31,          December 31,
+
+                                                                                                                      2024                2023
+
+Assets
+
+Current assets:
+
+Cash and cash equivalents                                                                                      $        105,444    $        143,612 
+
+
+
+Accounts receivable, net of allowance for credit losses of $12,059 and $9,878, respectively                               37,019               43,121 
+
+Inventories                                                                                                               73,469               62,600 
+
+Other current assets and prepaid expenses                                                                                 19,294               19,852 
+
+
+
+Total current assets                                                                                                     235,226              269,185 
+
+Long-term inventories                                                                                                     20,582               16,283 
+
+Property and equipment, net                                                                                               31,964               37,275 
+
+Deferred tax assets                                                                                                          534                  579 
+
+Goodwill                                                                                                                   1,339                1,339 
+
+Operating lease right-of-use assets                                                                                       12,034               10,055 
+
+Other long-term assets                                                                                                    10,313               11,575 
+
+Total assets                                                                                                   $        311,992    $        346,291 
+
+
+
+Liabilities and stockholders' deficit
+
+Current liabilities:
+
+Accounts payable                                                                                               $         13,316    $         19,829 
+
+Accrued liabilities                                                                                                       47,119               55,055 
+
+Operating lease liabilities                                                                                                3,231                2,441 
+
+Deferred revenue                                                                                                           9,038               10,422 
+
+Total current liabilities                                                                                                 72,704               87,747 
+
+Deferred revenue, net of current portion                                                                                   1,417                1,494 
+
+Operating lease liabilities, net of current portion                                                                       10,046                8,887 
+
+Convertible notes, net of unamortized debt issuance costs of $9,859 and $10,430, respectively                            419,266              418,695 
+
+Other long-term liabilities                                                                                                1,122                1,298 
+
+Total liabilities                                                                                                        504,555              518,121 
+
+Commitments and Contingencies (Note 12)
+
+Stockholders’ deficit:
+
+Common stock, $0.001 par value; authorized: 50,000,000 shares; issued and outstanding: 20,067,941 and                         20                   20 
+
+ 19,960,622 shares at March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Additional paid-in capital                                                                                               133,541              131,496 
+
+
+
+Accumulated deficit                                                                                                     (326,124)            (303,346)
+
+Total stockholders’ deficit                                                                                             (192,563)            (171,830)
+
+Total liabilities and stockholders’ deficit                                                                    $        311,992    $        346,291 
+
+
+
+See Accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+3
+
+
+
+Table of Contents 
+
+CUTERA, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In thousands, except per share data)
+
+(Unaudited)
+
+
+
+                                                                                                             Three Months Ended
+
+                                                                                                                 March 31,
+
+                                                                                                          2024              2023
+
+Net revenue:
+
+Products                                                                                            $       33,115   $       49,121 
+
+Service                                                                                                       5,678             5,405 
+
+Total net revenue                                                                                            38,793            54,526 
+
+Cost of revenue:
+
+Products                                                                                                     23,289            30,059 
+
+Service                                                                                                       3,085             2,835 
+
+Total cost of revenue                                                                                        26,374            32,894 
+
+Gross profit                                                                                                 12,419            21,632 
+
+
+
+Operating expenses:
+
+Sales and marketing                                                                                          23,677            29,512 
+
+Research and development                                                                                      5,001             6,468 
+
+General and administrative                                                                                   12,881            12,253 
+
+Gain on early termination of distribution agreement                                                          (9,708)                — 
+
+Total operating expenses                                                                                     31,851            48,233 
+
+Loss from operations                                                                                        (19,432)          (26,601)
+
+Interest and other expense, net:
+
+Amortization of debt issuance costs                                                                            (571)             (552)
+
+Interest on convertible notes                                                                                (2,939)           (2,939)
+
+Interest income                                                                                               1,455             2,636 
+
+Other expense, net                                                                                           (1,316)             (320)
+
+Total interest and other expense, net                                                                        (3,371)           (1,175)
+
+Loss before income taxes                                                                                    (22,803)          (27,776)
+
+Income tax (benefit) expense                                                                                    (25)              272 
+
+Net loss                                                                                            $      (22,778)  $      (28,048)
+
+
+
+Net loss per share:
+
+Basic                                                                                               $        (1.14)  $        (1.42)
+
+Diluted                                                                                             $        (1.14)  $        (1.42)
+
+Weighted-average number of shares used in per share calculation:
+
+Basic                                                                                                        19,991            19,776 
+
+Diluted                                                                                                      19,991            19,776 
+
+See Accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+4
+
+
+
+Table of Contents 
+
+CUTERA, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+
+(In thousands)
+
+(Unaudited)
+
+
+
+                                                                                                             Three Months Ended
+
+                                                                                                                 March 31,
+
+                                                                                                          2024              2023
+
+Net loss                                                                                            $      (22,778)  $      (28,048)
+
+Other comprehensive income:
+
+
+
+Net change in unrealized gain on available-for-sale investments, net of tax                                       —                86 
+
+Other comprehensive income, net of tax                                                                            —                86 
+
+Comprehensive loss                                                                                  $      (22,778)  $      (27,962)
+
+See Accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+5
+
+
+
+Table of Contents 
+
+CUTERA, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ DEFICIT
+
+(In thousands, except share amounts)
+
+(Unaudited)
+
+
+
+Three Months Ended March 31, 2024 and 2023
+
+
+
+                                           Common Stock               Additional      Accumulated        Accumulated          Total
+
+                                                                        Paid-in         Deficit             Other         Stockholders’
+
+                                                                        Capital                         Comprehensive        Deficit
+
+                                                                                                            Loss
+
+                                      Shares            Amount
+
+Balance at December 31, 2023           19,960,622   $        20   $    131,496   $    (303,346)  $              —   $      (171,830)
+
+
+
+
+
+Issuance of common stock in               107,319              —             (64)               —                   —               (64)
+
+ settlement of restricted and
+
+ performance stock units, net
+
+ of shares withheld for
+
+ employee
+
+ taxes
+
+Stock-based compensation expense                —              —           2,109                —                   —             2,109 
+
+
+
+Net loss                                        —              —               —          (22,778)                  —           (22,778)
+
+Balance at March 31, 2024              20,067,941   $        20   $    133,541   $    (326,124)  $              —   $      (192,563)
+
+
+
+
+
+                                           Common Stock              Additional      Accumulated        Accumulated          Total
+
+                                                                       Paid-in         Deficit             Other         Stockholders’
+
+                                                                       Capital                         Comprehensive        Deficit
+
+                                                                                                           Loss
+
+                                      Shares           Amount
+
+Balance at December 31, 2022           19,668,603   $        20   $    125,406   $    (140,513)  $            (94)  $      (15,181)
+
+Exercise of stock options                   5,775              —             109                —                  —              109 
+
+Issuance of common stock in               110,729              —          (2,397)               —                  —           (2,397)
+
+ settlement of restricted and
+
+ performance stock units, net
+
+ of shares withheld for
+
+ employee
+
+ taxes
+
+Stock-based compensation expense                —              —           3,386                —                  —            3,386 
+
+Net change in unrealized loss                   —              —               —                —                 86               86 
+
+ on available-for-sale
+
+ investments
+
+Net loss                                        —              —               —          (28,048)                 —          (28,048)
+
+Balance at March 31, 2023              19,785,107   $        20   $    126,504   $    (168,561)  $             (8)  $      (42,045)
+
+    
+
+See Accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+6
+
+
+
+Table of Contents 
+
+CUTERA, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In thousands)
+
+(Unaudited)
+
+
+
+                                                                                                                    Three Months Ended March 31,
+
+                                                                                                                     2024                 2023
+
+Cash flows from operating activities
+
+Net loss                                                                                                      $        (22,778)   $        (28,048)
+
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+Stock-based compensation                                                                                                  2,109                3,386 
+
+Depreciation and amortization                                                                                             1,991                1,409 
+
+Amortization of contract acquisition costs                                                                                1,391                2,178 
+
+Amortization of debt issuance costs                                                                                         571                  552 
+
+Unrealized gain on foreign exchange forward                                                                                   —                 (623)
+
+Accretion of discount on investment securities and investment income, net                                                     —                  (34)
+
+Deferred tax assets                                                                                                          45                   13 
+
+Provision for credit losses                                                                                               2,181                  225 
+
+
+
+
+
+
+
+Changes in assets and liabilities:
+
+Accounts receivable                                                                                                       3,921               (6,410)
+
+Inventories                                                                                                             (11,461)              (6,163)
+
+Other current assets and prepaid expenses                                                                                   560               (2,053)
+
+Other long-term assets                                                                                                     (240)              (2,011)
+
+Accounts payable                                                                                                         (6,513)              (1,330)
+
+Accrued liabilities                                                                                                      (7,916)               1,706 
+
+Operating leases, net                                                                                                       (30)                 (16)
+
+Deferred revenue                                                                                                         (1,461)                 201 
+
+Net cash used in operating activities                                                                                   (37,630)             (37,018)
+
+Cash flows from investing activities
+
+Acquisition of property and equipment                                                                                      (335)             (10,353)
+
+Proceeds from disposal of property and equipment                                                                             57                    — 
+
+Proceeds from maturities of marketable investments                                                                            —               94,154 
+
+Purchase of marketable investments                                                                                            —              (23,467)
+
+Net cash provided by (used in) investing activities                                                                        (278)              60,334 
+
+Cash flows from financing activities
+
+Proceeds from exercise of stock options and employee stock purchase plan                                                      —                  109 
+
+Taxes paid related to net share settlement of equity awards                                                                 (64)              (2,397)
+
+Payments on finance lease obligations                                                                                      (196)                (124)
+
+Net cash used in financing activities                                                                                      (260)              (2,412)
+
+Net increase (decrease) in cash, cash equivalents and restricted cash                                                   (38,168)              20,904 
+
+Cash, cash equivalents, and restricted cash at beginning of period                                                      143,612              146,624 
+
+Cash, cash equivalents, and restricted cash at end of period                                                  $        105,444    $        167,528 
+
+Supplemental non-cash operating, investing, and financing activities:
+
+Assets acquired under finance lease                                                                           $              —    $             33 
+
+Assets acquired under operating lease                                                                         $          2,749    $             57 
+
+Acquisition of property and equipment                                                                         $              —    $          6,894 
+
+Supplemental disclosure of cash flow information:
+
+Cash paid for interest                                                                                        $            817    $            778 
+
+Cash paid for income taxes                                                                                    $            804    $            483 
+
+See Accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+7
+
+
+
+Table of Contents 
+
+CUTERA, INC.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1.         Summary of Significant Accounting Policies 
+
+Description of Operations and Principles of Consolidation
+
+Cutera, Inc. (“Cutera” or the “Company”) develops, manufactures, distributes, and markets energy-based product platforms for medical practitioners, enabling them to offer treatments to their customers. In addition, the Company distributes third-party manufactured skincare products, until the termination of distribution agreement in February 2024, and Secret PRO and Secret RF systems and consumables. The Company currently markets the following system platforms: AviClear, enlighten, excel HR, excel V/V+, truSculpt, Secret PRO, Secret DUO, Secret RF, xeo, and xeo+ — each of which enables medical practitioners to perform procedures including treatment for acne, body contouring, skin resurfacing and revitalization, hair and tattoo removal, removal of benign pigmented lesions, and vascular conditions. Several of the Company’s systems offer multiple hand pieces and applications, providing customers the flexibility to upgrade their systems.
+
+The sale of systems, hand pieces, upgrade of systems, and leasing and direct sales of AviClear devices (collectively “Systems” revenue); replacement hand pieces, truSculpt cycle refills, truFlex cycle refills, AviClear treatment fees, and single use disposable tips applicable to Secret systems (collectively “Consumables” revenue); and the distribution of third-party manufactured skincare products (“Skincare”) revenue are collectively classified as “Products” revenue. In addition to Products revenue, the Company generates revenue from the sale of post-warranty service contracts and service parts and labor for the repair and maintenance of products that are out of warranty, all of which are collectively classified as “Service” revenue.
+
+The Company’s corporate headquarters and U.S. operations are located in Brisbane, California, where the Company conducts manufacturing, warehousing, research and development, regulatory, sales and marketing, service, and administrative activities. The Company also maintains regional distribution centers (“RDCs”) in select locations across the U.S. These RDCs serve as forward warehousing for systems and service parts in various geographies. The Company markets, sells and services the Company’s products through direct sales and service employees in North America (including Canada), Australia, New Zealand, Austria, France, Germany, Hong Kong, Japan, Switzerland, the United Kingdom and the Repblic of Ireland. Sales and services outside of these direct markets are made through a worldwide distributor network in over 38 countries. The condensed consolidated financial statements include the accounts of the Company and its subsidiaries. 
+
+Liquidity and Management’s Plans
+
+When preparing financial statements, management has the responsibility to evaluate if the Company has adequate liquidity to continue to operate for the next twelve months. In performing this assessment, management considered the Company's current financial condition and liquidity sources, including current funds, forecasted future cash flows and unconditional obligations due over the next twelve months. In addition, management evaluated the history of the Company's financial performance, and determined that the Company has had a historic trend of operating losses, which continues to have an unfavorable impact on the Company's overall liquidity. Most recently, the Company reported net losses of $22.8 million for the three months ended March 31, 2024 and $162.8 million for the year ended December 31, 2023.
+
+The Company believes that it will continue as a going concern for the twelve months from the issuance of its condensed consolidated financial statements. The accompanying condensed consolidated financial statements are prepared in accordance with generally accepted accounting principles applicable to a going concern, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business.
+
+The Company’s continued operations will depend on several factors, including but not limited to, growth of revenues from its revised business model for AviClear, which entails transitioning from a lease model to a direct sales model, maintaining or increasing revenues from sales of legacy systems, consumables and services, achieving cost savings as a result of workforce reductions implemented in the fourth quarter of 2023, restructuring of supplier and manufacturing relationships, and initiatives to improve inventory and receivables management. Failure to increase revenue, achieve cost savings, raise additional financing or re-finance the existing convertible notes when they become due, would adversely affect the Company’s ability to achieve its intended business objectives. There can be no assurances that financing will be available on terms favorable to the Company, if at all, and delays may occur in completing the operating activities.
+
+Basis of Presentation
+
+In the opinion of the Company, the accompanying unaudited condensed consolidated financial statements included in this report reflect all adjustments necessary for a fair statement of its condensed consolidated balance sheets as of March 31, 2024 and December 31, 2023, and its condensed consolidated statements of operations, condensed consolidated statements of 
+
+
+
+8
+
+
+
+Table of Contents 
+
+comprehensive loss, condensed consolidated statements of changes in stockholders' deficit, and condensed consolidated statements of cash flows, for the three months ended March 31, 2024, and 2023, respectively. The December 31, 2023 condensed consolidated balance sheet was derived from audited financial statements, but does not include all disclosures required by generally accepted accounting principles in the United States of America (“GAAP”). The results for interim periods are not necessarily indicative of results for the entire year or any other interim period. All intercompany accounts and transactions have been eliminated upon consolidation. The accompanying condensed consolidated financial statements should be read in conjunction with the Company’s previously filed audited financial statements and the related notes thereto included in the Company’s annual report on Form 10-K for the year ended December 31, 2023, filed with the Securities and Exchange Commission (the “SEC”) on May 10, 2024.
+
+Reclassification
+
+The Company reclassified the interest expense portion previously recorded in interest income (expense), net to other income (expense), net on the condensed consolidated statement of operations. Corresponding reclassifications of prior period amounts have been made in the Company's condensed consolidated statement of operations to conform to the current period presentation. These reclassifications had no effect on the reported net loss.
+
+Risks and Uncertainties
+
+The Company's future results of operations involve a number of risks and uncertainties. Factors that could affect the Company's future operating results and cause actual results to vary materially from expectations include, but are not limited to, rapid technological change, continued acceptance of the Company's products, stability of global financial markets, cybersecurity breaches and other disruptions that could compromise the Company’s information or results, business disruptions that are caused by natural disasters or pandemic events, management of international activities, competition from substitute products and larger companies, the Company's ability to obtain and maintain regulatory approvals, government regulations and oversight, patent and other types of litigation, the Company's ability to protect proprietary technology from counterfeit versions of the Company's products and its intellectual property rights generally, the successful execution of new product launches, the continuation of strategic relationships, such as the Company's distribution of third-party products, and dependence on key individuals.
+
+Accounting Policies
+
+These unaudited condensed consolidated financial statements are prepared in accordance with the rules and regulations of the SEC applicable to interim financial statements. While these statements reflect all normal recurring adjustments that are, in the opinion of management, necessary for fair presentation of the results of the interim period, they do not include all of the information and footnotes required by GAAP for complete financial statements. The Company uses the same accounting policies in preparing quarterly and annual financial statements. 
+
+Leases
+
+The Company incurred costs to fulfill its lease agreement obligations with its AviClear device lessees. These costs consisted of freight, installation, and training. In addition to these mobilization costs, the Company incurred commission costs associated with the placement of the AviClear device. The Company capitalized commission costs and made a policy election to capitalize the mobilization costs. 
+
+The Company determined to cease new leases of the AviClear device in 2023 and, therefore the Company no longer capitalizes additional mobilization costs and commission costs related to placements of the AviClear device, which were recorded in other long-term assets on the Company's condensed consolidated balance sheets and were amortized over the expected lease term. The amortization of the remaining mobilization costs and amortization of deferred commission costs are recorded in cost of revenue and sales and marketing, respectively, in the Company's condensed consolidated statement of operations. Total capitalized mobilization costs were $1.5 million and $2.1 million as of March 31, 2024 and December 31, 2023, respectively. Total capitalized commissions as of March 31, 2024, and December 31, 2023, were $2.4 million and $2.7 million, respectively, and are included in other long-term assets on the Company’s condensed consolidated balance sheet.
+
+Use of Estimates
+
+The preparation of condensed consolidated financial statements in conformity with GAAP requires the Company’s management to make estimates and assumptions that affect the amounts reported of assets and liabilities and disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements and the accompanying notes, and the reported amounts of revenue and expenses during the reported periods. Actual results could differ materially from those estimates.
+
+
+
+9
+
+
+
+Table of Contents 
+
+On an ongoing basis, management evaluates its estimates, including those related to warranty obligations, sales commissions, allowance for credit losses, sales allowances, fair value of investments, valuation of inventories, fair value of goodwill, useful lives of property and equipment, impairment testing for long-lived assets, implicit and incremental borrowing rates related to the Company’s leases, variables used in calculating the fair value of the Company's equity awards, expected achievement of performance-based vesting criteria and management performance bonuses, assumptions used in operating and sales-type lease classifications, the standalone selling price of the Company's products and services, the period of benefit used to capitalize and amortize contract acquisition costs, variable considerations, contingent liabilities, recoverability of deferred tax assets, residual value of leased equipment, lease term and effective income tax rates. Management bases estimates on historical experience and on various other assumptions that are believed to be reasonable, the results of which form the basis for making judgments about the carrying values of assets and liabilities.
+
+Distribution of Third-Party Products 
+
+The Company generated revenue from the distribution of skincare products, which were manufactured by ZO Skin Health, Inc. (“ZO”), and sold in the Japanese market. In the three months ended March 31, 2024, and 2023, revenue from the distribution of skincare products was $4.2 million and $8.1 million, respectively, representing 11% and 15% of the Company’s consolidated revenue, respectively. 
+
+On February 28, 2024, the Company and its Japanese subsidiary, Cutera KK, entered into a termination agreement (the “Termination Agreement”) with ZO USA and its Japanese subsidiary, ZO Skin Health GK (“ZO Japan” and together with ZO USA and their affiliates, “ZO”), which, among other things, (i) terminates all agreements related to the distribution by the Company of ZO’s products in Japan effective immediately, (ii) provides for the orderly transition of the distribution of ZO products to ZO, (iii) transfers certain Company employees dedicated to the distribution of ZO products to ZO, (iv) transfers certain customer contracts related to ZO products from the Company to ZO and (v) transfers certain inventory and assets related to the distribution of ZO products from the Company to ZO. The Termination Agreement requires ZO to pay the Company $5.75 million within three business days of the execution of the Termination Agreement and make a second payment of $5.75 million, less any offsets under the Termination Agreement (including, but not limited to, 42.2% of the Company’s net revenue for sales of ZO products under the Distribution Agreement between January 1, 2024 and February 28, 2024), upon the earlier of (a) the completion the transition of regulatory and distribution activities such that ZO is able to fulfill product orders by customers in Japan, as determined by ZO and the Company, and (b) June 14, 2024. The Company received the first payment of $5.75 million on February 29, 2024, and received a second payment of $2.37 million on April 1, 2024, which was net of $1.6 million in amounts owed by Cutera. The In the three months ended March 31, 2024, the Company recorded the net gain of $9.7 million resulting from the early termination proceeds received and the transfer of certain assets and liabilities as gain on early termination of distribution agreement on the Company's condensed consolidated statement of operations.
+
+The Company generates revenue from the distribution of the Secret systems, which are manufactured by ilooda Co. Ltd. (“ilooda”). The Company is the exclusive distributor for all systems sold in the United States, Canada, the United Kingdom; the exclusive distributor for certain systems in France, and Spain; and the non-exclusive distributor for systems sold in Austria and Germany. In the three months ended March 31, 2024, and 2023, revenue from the distribution of Secret products represented 6% and 4%, respectively, of the Company’s consolidated revenue. The Company‘s ilooda distribution agreement expires in June 30, 2026. 
+
+Termination of Manufacturing Service Agreement
+
+In November 2023, the Company communicated its intention not to renew its existing manufacturing service agreement (“Manufacturing Service Agreement”) with Jabil Inc. (“Jabil”), a third-party manufacturing provider that manufactured excel V+ and AviClear devices for the Company. At the time of the communication of non-renewal, the Company concluded that it would have an obligation to purchase unshipped inventory from Jabil. The Company subsequently received claims from Jabil related to other amounts associated with the termination and entered into settlement discussions with Jabil. 
+
+On February 28, 2024, the Company and Jabil signed a settlement agreement (“Settlement Agreement”) for the non-renewal of its existing Manufacturing Service Agreement. The Settlement Agreement provided for a payment by Cutera to Jabil of $19.5 million, to be offset by $1.3 million in amounts owed by Jabil. The $19.5 million payment to Jabil relates to the Company's receipt of $13.5 million of inventories, $0.3 million of equipment, and the payment of $5.7 million for expenses either previously incurred by Jabil or associated with the non-renewal of the Manufacturing Services Agreement. 
+
+The Company recorded the net balance of the $19.5 million payment owed to Jabil and the $15.1 million aggregate of inventories, equipment, and other amounts owed to Cutera, in accrued liabilities on the consolidated balance sheet at December 31, 2023. The $5.7 million for expenses incurred by Jabil was recorded in cost of revenue on the consolidated statements of operations in the twelve months ended December 31, 2023.
+
+
+
+10
+
+
+
+Table of Contents 
+
+As of March 31, 2024, the ownership of the $13.5 million inventories balance had been transferred from Jabil to Cutera. The Company has $0.8 million of settlement obligation to pay to Jabil, recorded in accrued liabilities on the condensed consolidated balance sheet.
+
+
+
+11
+
+
+
+Table of Contents 
+
+Note 2.         Cash, Cash Equivalents, Restricted Cash and Marketable Investments
+
+The Company determines the appropriate classification of its investments in marketable securities at the time of purchase and re-evaluates such designation at each balance sheet date. 
+
+The Company’s marketable securities have been classified and accounted for as available-for-sale securities. Investments with remaining maturities of more than one year are viewed by the Company as available to support current operations and are classified as current assets under the caption marketable investments in the accompanying consolidated balance sheets. Investments in available-for-sale debt securities are measured at fair value under the guidance in ASC 320. Credit losses on impaired available-for-sale debt securities are recognized through an allowance for credit losses. Under ASC 326, credit losses recognized on an available-for-sale debt security should not reduce the net carrying amount of the available-for-sale debt security below its fair value. Any changes in fair value unrelated to credit are recognized as an unrealized gain or loss in other comprehensive income.
+
+The Company's cash and cash equivalents was $105.4 million and $143.6 million as of March 31, 2024 and December 31, 2023, respectively. There were no marketable investments or restricted cash as of those dates.
+
+
+
+
+
+12
+
+
+
+Table of Contents 
+
+Note 3.         Fair Value of Financial Instruments
+
+The Company measures certain financial assets at fair value, including cash and cash equivalents. 
+
+The fair value hierarchy contains the following three levels of inputs that may be used to measure fair value, in accordance with ASC 820:
+
+•Level 1 inputs, which include quoted prices in active markets for identical assets or liabilities;
+
+•Level 2 inputs, which include observable inputs other than Level 1 inputs, such as quoted prices for similar assets or liabilities, quoted prices for identical or similar assets or liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the asset or liability. When sufficient quoted pricing for identical securities is not available, the Company uses market pricing and other observable market inputs for similar securities obtained from various third-party data providers. These inputs either represent quoted prices for similar assets in active markets or have been derived from observable market data; and
+
+•Level 3 inputs, which include unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the underlying asset or liability. Level 3 assets and liabilities include those whose fair value measurements are determined using pricing models, discounted cash flow methodologies, or similar valuation techniques, as well as significant management judgment or estimation.
+
+In determining fair value, the Company utilizes valuation techniques that maximize the use of observable inputs and minimize the use of unobservable inputs to the extent possible as well as considering counterparty credit risk in its assessment of fair value.
+
+As of March 31, 2024, financial assets measured and recognized at fair value on a recurring basis and classified under the appropriate level of the fair value hierarchy as described above were as follows (in thousands):
+
+
+
+March 31, 2024                                                                                                            Level 1
+
+Cash equivalents:
+
+      Money market funds                                                                                           $            89,458 
+
+
+
+
+
+
+
+
+
+
+
+As of December 31, 2023, financial assets and liabilities measured and recognized at fair value on a recurring basis and classified under the appropriate level of the fair value hierarchy as described above were as follows (in thousands):
+
+
+
+December 31, 2023                                                                                                         Level 1
+
+Cash equivalents:
+
+      Money market funds                                                                                           $           123,387 
+
+
+
+The Company's cash and cash equivalents, accounts receivable, and accounts payable are reflected on the accompanying consolidated balance sheets at cost, which approximated estimated fair value due to short-term nature of such accounts, using Level 1 inputs.
+
+See Note 13. Debt for the carrying amount and estimated fair value of the Company’s 2.25% Convertible Senior Notes due 2026 (the “2026 Notes”), the 2.25% Convertible Senior Notes due 2028 (the “2028 Notes”), and the 4.00% Convertible Senior Notes due 2029 (the “2029 Notes”).
+
+
+
+13
+
+
+
+Table of Contents 
+
+Note 4.         Balance Sheet Details
+
+Inventories
+
+Inventories consist of the following (in thousands):
+
+
+
+                                                                                                   March 31,          December 31,
+
+                                                                                                     2024                 2023
+
+Raw materials                                                                                 $          51,870   $           36,970 
+
+Work in process                                                                                            1,978                  889 
+
+Finished goods                                                                                            19,621               24,741 
+
+Total                                                                                         $          73,469   $           62,600 
+
+Valuation adjustments for excess and obsolete inventory, reflected as a reduction of inventory at March 31, 2024 and December 31, 2023, were $13.7 million and $13.0 million, respectively.
+
+Other current assets and prepaid expenses
+
+Other current assets and a prepaid expenses consist of the following (in thousands):
+
+
+
+                                                                                                   March 31,          December 31,
+
+                                                                                                     2024                 2023
+
+Sale tax and VAT receivable                                                                   $           6,884   $            6,307 
+
+Deposits with vendors                                                                                      6,738                9,501 
+
+
+
+Prepayments                                                                                                2,933                3,819 
+
+Distribution agreement settlement receivable                                                               2,374                    — 
+
+Other                                                                                                        365                  225 
+
+Total                                                                                         $          19,294   $           19,852 
+
+Long-term inventories
+
+The Company’s long-term inventories relate to AviClear devices, and parts for device manufacturing, not expected to be sold in the twelve months ended March 31, 2025. Long-term inventories consist of the following (in thousands):
+
+
+
+                                                                                                   March 31,          December 31,
+
+                                                                                                     2024                 2023
+
+Raw materials                                                                                 $          12,864   $            8,672 
+
+Work in process                                                                                            1,332                2,049 
+
+Finished goods                                                                                             6,386                5,562 
+
+Total                                                                                         $          20,582   $           16,283 
+
+Valuation adjustments for excess and obsolete inventory, reflected as a reduction of inventory at March 31, 2024 and December 31, 2023, were $19.0 million and $12.8 million, respectively.
+
+
+
+14
+
+
+
+Table of Contents 
+
+Property and Equipment, net
+
+Property and equipment, net consists of the following (in thousands):
+
+
+
+                                                                                                    March 31,          December 31,
+
+                                                                                                      2024                 2023
+
+Leasehold improvements                                                                         $          1,035   $            1,010 
+
+
+
+AviClear devices                                                                                          33,936               38,490 
+
+Office equipment and furniture                                                                             1,883                1,884 
+
+Machinery and equipment                                                                                    4,578                4,944 
+
+Assets under construction                                                                                  1,456                1,274 
+
+                                                                                                          42,888               47,602 
+
+Less: Accumulated depreciation                                                                           (10,924)             (10,327)
+
+Property and equipment, net                                                                    $         31,964   $           37,275 
+
+
+
+Accrued Liabilities
+
+Accrued liabilities consist of the following (in thousands):
+
+
+
+                                                                                                   March 31,          December 31,
+
+                                                                                                     2024                 2023
+
+Bonus and payroll-related accruals                                                            $          14,647   $           13,949 
+
+Accrued sales tax                                                                                          6,531                6,325 
+
+Liability for inventory in transit                                                                         5,004                5,461 
+
+Sales and marketing accruals                                                                               4,100                4,929 
+
+Accrued interest                                                                                           3,465                1,304 
+
+Product warranty                                                                                           2,472                2,593 
+
+Jabil settlement obligation, net                                                                             750                8,908 
+
+Other accrued liabilities                                                                                 10,150               11,586 
+
+Total                                                                                         $          47,119   $           55,055 
+
+
+
+15
+
+
+
+Table of Contents 
+
+Note 5.         Product Warranty 
+
+The Company has a direct field service organization in North America (including Canada). Internationally, the Company provides direct service support in Australia, Austria, Belgium, France, Germany, Hong Kong, Japan, the Netherlands, Spain, and Switzerland. In several other countries, where the Company does not have a direct presence, the Company provides service through a network of distributors and third-party service providers.
+
+After the original warranty period, maintenance and support are offered on an extended service contract basis or on a time and materials basis. The Company estimates cost to repair or replace products under standard warranty at the time of sale. Costs incurred in connection with extended service contracts are generally recognized at the time when costs are incurred.
+
+The following table provides the changes in the product warranty accrual for the three months ended March 31, 2024 and 2023 (in thousands):
+
+
+
+                                                                                                         Three Months Ended
+
+                                                                                                             March 31,
+
+                                                                                                     2024                2023
+
+Beginning Balance                                                                             $          2,593   $          3,254 
+
+Add: Accruals for warranties issued during the period                                                     1,156               1,016 
+
+Less: Settlements made during the period                                                                 (1,277)             (1,116)
+
+Ending Balance                                                                                $          2,472   $          3,154 
+
+
+
+16
+
+
+
+Table of Contents 
+
+Note 6.         Deferred Revenue
+
+The Company records deferred revenue when revenue is to be recognized subsequent to invoicing. For extended service contracts, the Company generally invoices customers at the beginning of the extended service contract term. The Company’s extended service contracts typically have one to three-year terms. Deferred revenue also includes payments for training not yet delivered. 
+
+The following table provides changes in the deferred revenue balance for the three months ended March 31, 2024 and 2023 (in thousands):
+
+
+
+                                                                                                         Three Months Ended
+
+                                                                                                              March 31,
+
+                                                                                                      2024               2023
+
+Beginning balance                                                                              $         11,916   $         13,498 
+
+Add: Payments received from current period sales                                                           3,850               6,045 
+
+Less: Revenue recognized from current period sales                                                          (572)               (615)
+
+Less: Revenue recognized from beginning balance                                                           (4,739)             (5,229)
+
+Ending balance                                                                                 $         10,455   $         13,699 
+
+Approximately 86% of the Company’s deferred revenue balance of $10.5 million as of March 31, 2024 will be recognized over the next 12 months. 
+
+The fixed annual license fees received related to the AviClear contracts are deferred and recognized over the annual lease periods. The AviClear deferred license fee balance included in the total deferred revenue balance at March 31, 2024, and December 31, 2023 was $0.8 million and $2.1 million, respectively.
+
+Costs for extended service contracts were $1.6 million for both the three months ended March 31, 2024 and 2023 and were recorded in cost of revenue on the condensed consolidated statements of operations.
+
+
+
+17
+
+
+
+Table of Contents 
+
+Note 7.         Revenue
+
+Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for promised goods or services. The Company’s performance obligations are satisfied either over time or at a point in time. Revenue from performance obligations that are transferred to customers over time accounted for approximately 14% of the Company's total revenue for the three months ended March 31, 2024, and 11% for the three months ended March 31, 2023. 
+
+The Company has certain system sale arrangements that contain multiple products and services. For these bundled sale arrangements, the Company accounts for individual products and services as separate performance obligations if they are distinct. The Company’s products and services are distinct if a customer can benefit from the product or service on its own or with other resources that are readily available to the customer, and if the Company’s promise to transfer the products or service to the customer is separately identifiable from other promises in the sale arrangements. The Company’s system sale arrangements can include all or a combination of the following performance obligations: the system and software license (considered one performance obligation), system accessories (hand pieces), training, AviClear license agreements, other accessories, extended service contracts, marketing services, and time and materials services.
+
+For the Company’s system sale arrangements that include an extended service contract, the period of service commences at the expiration of the Company’s standard warranty offered at the time of the system sale. The Company considers the extended service contracts terms in the arrangements that are legally enforceable to be performance obligations. Other than extended service contracts and marketing services, which are satisfied over time, the Company generally satisfies all performance obligations at a point in time. Systems, system accessories (hand pieces), service contracts, training, and time and materials services are also sold on a stand-alone basis. For contracts with multiple performance obligations, the Company allocates the transaction price of the contract to each performance obligation on a relative standalone selling price basis. 
+
+Nature of Products and Services
+
+Systems
+
+Systems revenue is generated from the sale of systems and from the sale of upgrades to existing systems. A system consists of a console that incorporates a universal graphic user interface, a laser or other energy-based module, control system software and high voltage electronics, as well as one or more hand pieces. In certain applications, the laser or other energy-based module is contained in the hand piece, rather than within the console.
+
+The Company offers customers the ability to select the system that best fits their practice at the time of purchase and then to cost-effectively add applications to their system as their practice grows. This provides customers the flexibility to upgrade their systems whenever they choose and provides the Company with a source of additional Systems revenue.
+
+The system or upgrade and the right to use the embedded software represent a single performance obligation as the software license is integral to the functionality of the system or upgrade.
+
+For systems sold directly to end-customers that are credit approved, revenue is recognized when the Company transfers control to the end-customer, which occurs when the product is shipped to the customer or when the customer receives the product, depending on the nature of the arrangement. When collectability is not established in advance of receipt of payment from the customer, revenue is recognized upon the later of the receipt of payment or the satisfaction of the performance obligation. For systems sold through credit approved distributors, revenue is recognized at the time of shipment to the distributor.
+
+The Company leases certain AviClear devices to customers and receives a fixed annual license fee over the term of the arrangement and variable lease income related to treatments performed by the lessee. In the fourth quarter of 2023, the Company announced a change in the AviClear business strategy and moved towards a direct sales model rather than a leasing model, whereby certain existing lessees were offered an option to purchase the leased AviClear device. The Company classifies its lease income and direct sales as product revenue and classifies the AviClear lease contracts as operating leases for the devices under the leasing model. The fixed annual license fee is recognized evenly over the period of the lease contract on a straight-line basis. The treatment fee is recognized as consumable revenue in the period the treatment protocol is initiated.
+
+
+
+The Company's payment terms for its system consoles and other accessories require payment within 30 days of shipment. Certain international distributor arrangements allow for longer payment terms.
+
+
+
+18
+
+
+
+Table of Contents 
+
+Consumables and other accessories
+
+The Company classifies its customers' purchases of replacement cycles for truSculpt and truFlex, as well as replacement hand pieces, xeo and truSculpt 3D hand pieces, AviClear treatment fee revenue, and single use disposable tips applicable to Secret PRO, and Secret RF as Consumable revenue. The Secret PRO, Secret DUO, and Secret RF products' single use disposable tips must be replaced after every treatment. The Company’s systems offer multiple hand pieces and applications, which allow customers to upgrade their systems. Revenue for consumables and other accessories is recognized when products are shipped to customers.
+
+Skincare products
+
+The Company generated revenue from the distribution of skincare products, which were manufactured by ZO Skin Health, Inc. (“ZO”), and sold in the Japanese market to medical offices and licensed physicians. The Company warranted that the skincare products are free of significant defects in workmanship and materials for 90 days from shipment. The Company acted as the principal in this arrangement, as the Company determined the price to charge customers for the skincare products and controlled the products before they were transferred to the customer. The Company recognized revenue for skincare products at a point in time upon shipment.
+
+On February 28, 2024, the Company entered into a termination agreement with ZO, which terminated all agreements related to the distribution by the Company of ZO’s products in Japan, as disclosed in Note 1. Through February 2024, revenue from the distribution of skincare products was $4.2 million.
+
+Extended service contract 
+
+The Company offers post-warranty services to its customers through extended service contracts that cover parts and labor for a term of one to three years. Service contract revenue is recognized over time, using a time-based measure of progress, as customers benefit from the service throughout the service period. The Company also offers services on a time and materials basis for systems and detachable hand piece replacements. Revenue related to services performed on a time and materials basis is recognized when performed.
+
+Training
+
+Sales of systems to customers include training on the use of the system to be provided within 90 days of purchase. The Company considers training a separate performance obligation as customers can immediately benefit from the training, and training is also sold separately from systems. The Company recognizes revenue for training when the training is provided.
+
+Significant Judgments
+
+The Company determines standalone selling price ("SSP") for each performance obligation as follows:
+
+•Systems: The SSPs for systems are based on directly observable sales in similar circumstances to similar customers.
+
+•Extended warranty/Service contracts: SSP is based on observable price when sold on a standalone basis to similar customers.
+
+Deferred Sales Commissions
+
+Incremental costs of obtaining a contract related to the sale of a system, which consist primarily of commissions and related payroll taxes, are capitalized, and amortized on a straight-line basis over the expected period of benefit, except for costs that are recognized when the product is sold. The Company uses the portfolio method to recognize the amortization expense related to these capitalized costs related to initial contracts and such expense is recognized over a period associated with the revenue of the related portfolio, which is generally two to three years.
+
+Total capitalized commissions as of March 31, 2024 and December 31, 2023 were $2.2 million and $2.4 million, respectively, and are included in other long-term assets on the Company’s condensed consolidated balance sheet. Amortization expense for these assets was $0.5 million and $0.6 million during the three months ended March 31, 2024, and 2023, respectively. The amortization related to these capitalized costs is included in sales and marketing expense on the Company’s condensed consolidated statement of operations.
+
+
+
+19
+
+
+
+Table of Contents 
+
+Note 8.         Stockholders’ Equity and Stock-based Compensation Expense
+
+The Company’s equity incentive plans are broad-based, long-term programs intended to attract and retain talented employees and align stockholder and employee interests. The 2019 Equity Incentive Plan (the "2019 Plan") and the 2023 Inducement Equity Plan (the "2023 Plan") provides for the grant of incentive stock options, non-statutory stock options, restricted stock units (“RSUs”), performance stock units ("PSUs"), and other stock or cash awards.
+
+Activity under the Company's equity incentive plans is summarized as follows:
+
+
+
+
+
+                                                                                                                     Shares Available 
+
+                                                                                                                         for Grant
+
+Balance, December 31, 2023                                                                                                     3,554,537 
+
+Additional shares reserved                                                                                                             — 
+
+Options and stock awards granted                                                                                                (649,500)
+
+Stock awards canceled / forfeited / expired                                                                                       32,396 
+
+Options canceled / forfeited / expired                                                                                            43,582 
+
+Balance, March 31, 2024                                                                                                        2,981,015 
+
+The equity plans deduct the shares available for issuance by the gross number of shares for which an award is exercised or vests, not the net number of shares actually issued upon exercise, in the event the exercise price is paid in shares of the Company's common stock or shares are withheld to satisfy tax withholding obligations. Any RSU or PSU shares granted on or after July 13, 2023 are counted against the shares available for grant at a ratio of 1.65 shares for every one share granted.
+
+
+
+                                                                                                   Options Outstanding
+
+                                                                       Number of Stock Options     Weighted Average         Weighted Average
+
+                                                                             Outstanding                Exercise                Remaining
+
+                                                                                                         Price                    Term
+
+                                                                                                                               (in Years)
+
+Balance, December 31, 2023                                                           1,282,240    $             17.97                         8.21
+
+Options granted                                                                        520,000    $              2.11 
+
+Options exercised                                                                            —    $                 — 
+
+Options canceled / forfeited / expired                                                 (43,582)   $             33.88 
+
+Balance, March 31, 2024                                                              1,758,658    $             12.89                         7.87
+
+
+
+
+
+                                                                                                           Stock Awards Outstanding
+
+                                                                                             Number of Awards Outstanding    Weighted Average
+
+                                                                                                                              Grant Date Fair
+
+                                                                                                                                 Value per
+
+                                                                                                                                   Share
+
+Balance, December 31, 2023                                                                                        909,862 $              20.46 
+
+Stock awards granted                                                                                              110,000 $               2.11 
+
+Awards vested                                                                                                   (137,583) $              25.53 
+
+Stock awards canceled / forfeited / expired                                                                      (32,396) $              27.11 
+
+Balance, March 31, 2024                                                                                           849,883 $              18.14 
+
+Stock-based Compensation Expense
+
+Stock-based compensation expense by financial statement line item recognized during the three months ended March 31, 2024 and 2023 was as follows (in thousands):
+
+
+
+                                                                                                       Three Months Ended
+
+                                                                                                            March 31,
+
+                                                                                                   2024                2023
+
+Cost of revenue                                                                             $             149   $             364 
+
+Sales and marketing                                                                                        567                1,148 
+
+Research and development                                                                                   305                  693 
+
+General and administrative                                                                               1,088                1,181 
+
+Total stock-based compensation expense                                                      $           2,109   $           3,386 
+
+
+
+20
+
+
+
+Table of Contents 
+
+Note 9.     Net Loss Per Share
+
+
+
+As of March 31, 2024, the Company’s Convertible Notes were potentially convertible into 8,696,792 shares of common stock.
+
+
+
+The denominator for diluted net loss per share does not include any effect from the capped call transactions the Company entered into concurrently with the issuances of convertible notes, as this effect would be anti-dilutive. In the event of conversion of a convertible note, shares delivered to the Company under the capped call will offset the dilutive effect of the shares that the Company would issue under the convertible notes. In the three months ended March 31, 2024 and March 31, 2023, the if-converted method was not applied as the effect would have been anti-dilutive.
+
+
+
+For the three months ended March 31, 2024 and March 31, 2023, a basic loss per common share and diluted loss per common share are the same in each period as the inclusion of any potentially issuable shares would be anti-dilutive.
+
+The following table sets forth the computation of basic and diluted net loss and the weighted average number of shares used in computing basic and diluted net loss per share (in thousands, except per share data):
+
+
+
+                                                                                                      Three Months Ended
+
+                                                                                                          March 31,
+
+                                                                                                   2024               2023
+
+Numerator:
+
+Net loss used in calculating net loss per share, basic                                      $       (22,778)  $       (28,048)
+
+Denominator:
+
+Weighted average shares of common stock outstanding used in computing net loss per share,             19,991             19,776 
+
+ basic
+
+Dilutive effect of incremental shares and share equivalents:
+
+     Convertible notes                                                                                     —                  — 
+
+Options                                                                                                    —                  — 
+
+RSUs                                                                                                       —                  — 
+
+PSUs                                                                                                       —                  — 
+
+ESPP                                                                                                       —                  — 
+
+Weighted average shares of common stock outstanding used in computing net loss per share,             19,991             19,776 
+
+ diluted
+
+Net loss per share:
+
+Net loss per share, basic                                                                   $         (1.14)  $         (1.42)
+
+Net loss per share, diluted                                                                 $         (1.14)  $         (1.42)
+
+The following numbers of shares outstanding, prior to the application of the treasury stock method and the if-converted method, were excluded from the computation of diluted net loss per common share for the periods presented because including them would have had an anti-dilutive effect (in thousands):
+
+
+
+                                                                                                   Three Months Ended
+
+                                                                                                        March 31,
+
+                                                                                               2024                2023
+
+Capped call                                                                                         10,780                8,697 
+
+Convertible notes                                                                                    8,697                8,697 
+
+Options                                                                                              1,282                  503 
+
+RSU's                                                                                                  682                  370 
+
+PSU's                                                                                                  221                  235 
+
+ESPP                                                                                                     —                   52 
+
+Total                                                                                               21,662               18,554 
+
+
+
+21
+
+
+
+Table of Contents 
+
+Note 10.     Income Taxes
+
+For the three months ended March 31, 2024, the Company's income tax benefit was $0.1 million, compared to $0.3 million expense for the three months ended March 31, 2023.
+
+The Company's income tax (benefit) expense for the three months ended March 31, 2024 and 2023 is due to income taxes in foreign jurisdictions. The Company continues to maintain a full valuation allowance on its U.S. deferred tax assets.
+
+
+
+22
+
+
+
+Table of Contents 
+
+Note 11.     Leases
+
+Lessee
+
+The Company is a party to certain operating and finance leases for vehicles, office space and storage facilities. The Company’s material operating leases consist of office space, as well as storage facilities and finance leases consist of automobile leases. The Company’s leases generally have remaining terms of one to 7 years, some of which include options to renew the leases for up to five years. The Company leases space for operations in the United States, Japan, Belgium, France, and Spain. 
+
+The Company determines if a contract contains a lease at inception. Operating lease assets and liabilities are recognized at the lease commencement date. Operating lease liabilities represent the present value of lease payments not yet paid. Operating lease assets represent the right to use an underlying asset and are based upon the operating lease liabilities adjusted for prepayments or accrued lease payments, initial direct costs, lease incentives, and impairment of operating lease assets. To determine the present value of lease payments not yet paid, the Company estimates the incremental secured borrowing rates corresponding to the maturities of the leases. The Company based the rate estimates on prevailing financial market conditions, credit analysis, and management judgment. 
+
+Tenant incentives used to fund leasehold improvements are recognized when earned and reduce the Company’s right-of-use asset related to the lease. These are amortized through the right-of-use asset as reductions of expense over the lease term. 
+
+Supplemental balance sheet information related to leases was as follows (in thousands):
+
+
+
+Leases                                       Classification                                        March 31,         December 31,
+
+                                                                                                      2024               2023
+
+Assets
+
+Right-of-use assets                          Operating lease right-of-use assets               $        12,034   $          10,055 
+
+Finance lease                                Property and equipment, net                                  2,228               2,516 
+
+Total leased assets                                                                             $        14,262   $          12,571 
+
+
+
+
+
+Liabilities                                    Classification                                       March 31,        December 31,
+
+                                                                                                      2024               2023
+
+Operating lease liabilities
+
+Operating lease liabilities, current           Operating lease liabilities                      $         3,231   $           2,441 
+
+Operating lease liabilities, non-current       Operating lease liabilities, net of current                10,046               8,887 
+
+                                                portion
+
+Total Operating lease liabilities                                                               $        13,277   $          11,328 
+
+
+
+Finance lease liabilities
+
+Finance lease liabilities, current             Accrued liabilities                              $           744   $             825 
+
+Finance lease liabilities, non-current         Other long-term liabilities                                   888               1,064 
+
+Total Finance lease liabilities                                                                 $         1,632   $           1,889 
+
+
+
+Lease costs during the three months ended March 31, 2024 and 2023 (in thousands) was as follows:
+
+
+
+                                                                                                           Three Months Ended
+
+                                                                                                               March 31,
+
+Lease costs                                    Classification                                           2024              2023
+
+Finance lease cost                             Amortization expense                               $          274   $           150 
+
+Finance lease cost                             Interest for finance lease                         $           42   $            20 
+
+Operating lease cost                           Operating lease expense                            $          969   $           891 
+
+
+
+23
+
+
+
+Table of Contents 
+
+Cash paid for amounts included in the measurement of lease liabilities during the three months ended March 31, 2024 and 2023 was as follows (in thousands):
+
+
+
+                                                                                                         Three Months Ended
+
+                                                                                                              March 31,
+
+Cash paid for amounts included in the           Classification                                         2024             2023
+
+ measurement of lease
+
+ liabilities
+
+Operating cash flow                             Finance lease                                    $           40   $           20 
+
+Financing cash flow                             Finance lease                                    $          196   $          124 
+
+Operating cash flow                             Operating lease                                  $          948   $          699 
+
+Operating leases
+
+Maturities of operating facility leases were as follows as of March 31, 2024 (in thousands):
+
+
+
+As of March 31, 2024                                                                                                      Amount
+
+Remainder of 2024                                                                                                   $          2,895 
+
+2025                                                                                                                            3,981 
+
+2026                                                                                                                            4,027 
+
+2027                                                                                                                            3,299 
+
+2028                                                                                                                              323 
+
+2029 and thereafter                                                                                                               143 
+
+Total lease payments                                                                                                           14,668 
+
+Less: imputed interest                                                                                                          1,391 
+
+Present value of lease liabilities                                                                                  $         13,277 
+
+Finance Leases
+
+As of March 31, 2024, the Company was committed to minimum lease payments for vehicles leased under long-term non-cancelable finance leases as follows (in thousands):
+
+
+
+As of March 31, 2024                                                                                                     Amount
+
+Remainder of 2024                                                                                                  $             731 
+
+2025                                                                                                                             697 
+
+2026                                                                                                                             424 
+
+2027                                                                                                                              16 
+
+Total lease payments                                                                                                           1,868 
+
+Less: imputed interest                                                                                                           236 
+
+Present value of lease liabilities                                                                                 $           1,632 
+
+Weighted-average remaining lease term and discount rate, as of March 31, 2024, were as follows:
+
+
+
+Lease Term and Discount Rate                                                                                          March 31, 2024
+
+Weighted-average remaining lease term (years)
+
+Operating leases                                                                                                                     3.7
+
+Finance leases                                                                                                                       2.3
+
+Weighted-average discount rate
+
+Operating leases                                                                                                                5.7   %
+
+Finance leases                                                                                                                  9.5   %
+
+Lessor - AviClear
+
+Lessor revenue
+
+
+
+24
+
+
+
+Table of Contents 
+
+The Company leases the AviClear device to customers and receives a fixed annual license fee over the term of the arrangement and variable revenue related to the number of treatments performed by the lessee. The contractual term of the lease agreement is three years with a one-year auto-renewal feature. Certain lease agreements' terms in excess of one year can be terminated without financial penalty, and these agreements are accounted for as having a lease term of one year. The AviClear lease agreements are accounted for as operating leases. The fixed annual license fee is recognized evenly throughout the period of the lease agreement on a straight-line basis. The treatment revenue is recognized in the period the lessee has the ability to perform the patient treatment.
+
+The following table summarizes the amount of operating lease income included in product revenue in the accompanying condensed consolidated statements of operations (in thousands):
+
+
+
+                                                                                                    Three Months Ended March 31,
+
+                                                                                                      2024               2023
+
+AviClear operating lease license fee revenue                                                   $          1,162   $          1,225 
+
+AviClear operating lease revenue                                                                          1,246              2,703 
+
+Total AviClear revenue                                                                         $          2,408   $          3,928 
+
+The AviClear device being leased has a useful life of seven years. The Company expects that a device will be leased for two consecutive lease terms at the end of which its residual value will be immaterial.
+
+The following is the minimum future lease payments as of March 31, 2024, under non-cancelable operating leases, assuming the minimum contractual lease term (in thousands):
+
+
+
+As of March 31, 2024                                                                                                       Amount
+
+Remainder of 2024                                                                                                    $           5,615 
+
+2025                                                                                                                             2,600 
+
+Total                                                                                                                $           8,215 
+
+Practical Expedients
+
+The Company elected to apply a practical expedient to operating leases and elected not to separate lease and nonlease components as long as the lease and at least one nonlease component have the same timing and pattern of transfer. As such, updates or upgrades on a when-and-if available basis to the AviClear device are combined with the operating lease revenue. The combined component is being accounted for under ASC 842. Additionally, the Company made an accounting policy election to present AviClear revenue net of sales and other similar taxes.
+
+Capitalized sales commissions
+
+Sales commissions related to obtaining AviClear lease agreements are accounted for as initial direct costs and are capitalized and amortized on a straight-line basis over the lease term. Amortization expenses for these assets were $0.3 million for the three-month periods ended March 31, 2024, and $1.0 million for the comparative period ended March 31, 2023, and were included in sales and marketing expense on the Company’s condensed consolidated statement of operations. Total capitalized commissions as of March 31, 2024, and December 31, 2023, were $2.4 million and $2.7 million, respectively, and are included in other long-term assets on the Company’s condensed consolidated balance sheet.
+
+Lease installment costs
+
+
+
+The Company capitalizes fulfillment costs incurred before AviClear lease commencement and these costs include freight, installation, and training costs. Amortization expenses for these assets were $0.6 million for the three-month period ended March 31, 2024 and $0.5 million for the comparative periods ended March 31, 2023, and were included in cost of revenue on the Company’s condensed consolidated statement of operations. Total lease installment costs as of March 31, 2024, and December 31, 2023, were $1.5 million and $2.1 million, respectively, and are included in other long-term assets on the Company’s condensed consolidated balance sheet.
+
+
+
+25
+
+
+
+Table of Contents 
+
+Note 12.     Commitments and Contingencies
+
+The Company is named from time to time as a party to other legal proceedings, product liability, intellectual property disputes, commercial disputes, employee disputes, and contractual lawsuits. A liability and related charge are recorded to earnings in the Company’s consolidated financial statements for legal contingencies when the loss is considered probable and the amount can be reasonably estimated. The assessment is re-evaluated each accounting period and is based on all available information, including discussion with outside legal counsel. If a reasonable estimate of a known or probable loss cannot be made, but a range of probable losses can be estimated, the low-end of the range of losses is recognized if no amount within the range is a better estimate than any other. If a material loss is reasonably possible, but not probable and can be reasonably estimated, the estimated loss or range of loss is disclosed in the notes to the consolidated financial statements. The Company expenses legal fees as incurred. Certain of the cases below are still in the preliminary stages, and the Company is not able to quantify the extent of its potential liability, if any, other than as described. The outcome of litigation is inherently unpredictable and subject to significant uncertainties. If any of these matters are resolved adversely to the Company, this could have a material adverse effect on its business, financial condition, results of operations, and cash flows. In addition, defending these legal proceedings is likely to be costly, which may have a material adverse effect on the Company's financial condition, results of operations and cash flows, and may divert management's attention from the day-to-day operations of its business. 
+
+On January 31, 2020, the Company filed a lawsuit against Lutronic Aesthetics in the United States District Court for the Eastern District of California. Lutronic employs numerous former Cutera employees. The complaint against Lutronic generally alleges claims for (1) misappropriation of trade secrets in violation of state and federal law; (2) violation of the Racketeer Influenced and Corrupt Organizations Act ("RICO"); (3) interference with contractual relations; (4) interference with prospective economic advantage; (5) unfair competition; and (6) aiding and abetting. On March 13, 2020, the court entered a temporary restraining order ("TRO") against Lutronic generally prohibiting it from using or disseminating the Company's confidential, proprietary, or trade secret information. The order also prohibited Lutronic, for two years, from using such information for the purpose of soliciting, or conducting business with, certain specified customers. On April 9, 2020, the parties stipulated to the entry of a preliminary injunction providing for the same relief afforded by the TRO. On August 4, 2022, Cutera filed a second amended complaint. In addition to the above referenced claims, Cutera alleged claims for violation of the Lanham Act, unlawful business practices, false advertising and trademark infringement. Discovery is ongoing. No trial date has been scheduled. On April 27, 2023, Lutronic filed a complaint for trade libel, intentional interference with prospective economic advantage, misappropriation of trade secrets and unfair business practices against Cutera in California State Court. Discovery has not yet commenced and no trial date has been scheduled. The Company denies the allegations of the complaint and has instructed counsel to defend the matter vigorously. Discovery is ongoing and no trial date has been scheduled.
+
+In March 2023, Serendia, LLC (“Serendia”), filed patent infringement complaints against the Company with the International Trade Commission (“ITC”) and in U.S. District Court for the District of Delaware alleging infringement of six Serendia patents by the Secret RF and Secret Pro systems, which the Company distributes in the U.S. on behalf of Ilooda Co. Ltd., a Korean company (“ilooda”). The manufacturer of these products, ilooda, is obligated to defend the Company against these claims and, as a result, the Company has not incurred significant external legal costs. Serendia and ilooda have agreed to a settlement of the ITC investigation, the Delaware litigation and any other past, present and future suits or claims related to the six Serendia patents and the Secret RF and Secret Pro systems. The settlement of these matters includes a non-exclusive, worldwide, fully paid up license from Serendia to ilooda to the six Serendia patents related to the Secret RF and Secret Pro systems, which are distributed by the Company. The ITC investigation as to ilooda and the Company was terminated as of April 10, 2024 and the Delaware litigation was dismissed as of April 3, 2024.
+
+On April 11, 2023, J. Daniel Plants, the Company’s former Executive Chairperson, and David Mowry, the Company’s former Chief Executive Officer, filed a complaint in the Delaware Court of Chancery against directors Gregory Barrett, Sheila Hopkins, Timothy O’Shea, Juliane Park and Janet Widmann, as defendants, and the Company, as nominal defendant (the “Delaware Litigation”) seeking a declaration that the individual defendants breached their fiduciary duties and enjoining them from enforcing the nomination deadline under the Company’s Amended and Restated Bylaws in connection with the 2023 annual meeting of stockholders, or in the alternative, a declaration that the Company must hold a special meeting of the stockholders on June 2, 2023. Mr. Plants and Mr. Mowry filed a motion for expedited proceedings with their complaint. Mr. Plants and Mr. Mowry subsequently agreed that the determination made by the Special Committee of the Board to hold a special meeting of the stockholders on June 9, 2023 mooted their request in the Delaware Litigation for a declaration that the Company hold a special meeting of the stockholders. On April 18, 2023, the Court of Chancery denied Mr. Plants and Mr. Mowry’s motion for expedited proceedings.
+
+
+
+On May 16, 2023, Mr. Mowry filed a letter with the Court of Chancery disclosing that he had resolved his dispute with the defendants and agreed to dismiss his claims with prejudice. On May 17, 2023, the Court of Chancery granted an order for voluntary dismissal of Mr. Mowry as a plaintiff in the Delaware Litigation. Mr. Plants subsequently publicly voiced opposition 
+
+
+
+26
+
+
+
+Table of Contents 
+
+to certain aspects of the Company's corporate governance and strategy but did not submit a notice of nomination of director candidates for the Company’s 2023 annual meeting of stockholders and did not purport to nominate any director candidates at the Company’s annual meeting of stockholders held on July 13, 2023. Due to Plaintiff’s failure to amend his Complaint within the time required by the Court’s order dated October 6, 2023, the Delaware Litigation was dismissed with prejudice.
+
+
+
+On October 5, 2023, Mr. Plants filed a Sarbanes-Oxley (“SOX”) discrimination claim (the “SOX Whistleblower Complaint”) with the U.S. Department of Labor Occupational Safety and Health Administration (“OSHA”). Mr. Plants alleges that he was terminated on April 11, 2023, in retaliation for reporting to the Board of Directors (the “Board”) his concerns that budgeting and guiding to higher forecasts for 2023 would be misleading to shareholders. The SOX Whistleblower Complaint referenced the April 3, 2023 letter from Mr. Plants to the Company’s Board that articulated Mr. Plants’ concerns. The Company received notice of the SOX Whistleblower Complaint on November 8, 2023. 
+
+
+
+On December 7, 2023, Mr. Plants made an arbitration demand in JAMS against the Company, Mr. Barrett, Ms. Hopkins, Mr. O’Shea, Ms. Park and Ms. Widmann for claims related to the termination of his employment (the “Arbitration Demand”). Mr. Plants alleges several claims: breach of his change of control and severance agreement; wrongful termination; retaliation in violation of California’s whistleblower laws; retaliation in violation of SOX; defamation/libel; tortious interference with prospective economic advantage; and breach of oral contract. He seeks compensatory, special, and punitive damages, as well as reinstatement, civil penalties, and attorneys’ fees and costs. Mr. Plants and the Company have agreed to a settlement of all claims against the Company and the parties listed in the Arbitration Demand. The OSHA investigation was officially closed on April 26, 2024, and the JAMS arbitration was dismissed as of April 19, 2024.
+
+As of March 31, 2024, and December 31, 2023, the Company had accrued $3.6 million and $3.3 million, respectively, related to various pending commercial and product liability lawsuits. The Company does not believe that a material loss in excess of accrued amounts is reasonably likely.
+
+As of March 31, 2024, the Company had $9.7 million of non-cancelable inventory purchase obligations with a certain vendor due in 2024. 
+
+
+
+27
+
+
+
+Table of Contents 
+
+Note 13.     Debt
+
+Convertible notes, net of unamortized debt issuance costs
+
+The following table presents the outstanding principal amount and carrying value of the Company’s Convertible Notes (in thousands):
+
+
+
+
+
+                                                                                                 March 31,           December 31,
+
+                                                                                                    2024                 2023
+
+Notes due in 2026
+
+Outstanding principal amount                                                                $           69,125   $           69,125 
+
+Unamortized debt issuance costs                                                                            (965)               (1,084)
+
+Carrying Value                                                                              $           68,160   $           68,041 
+
+
+
+Notes due in 2028
+
+Outstanding principal amount                                                                $          240,000   $          240,000 
+
+Unamortized debt issuance costs                                                                          (5,410)               (5,714)
+
+Carrying Value                                                                              $          234,590   $          234,286 
+
+
+
+Notes due in 2029
+
+Outstanding principal amount                                                                $          120,000   $          120,000 
+
+Unamortized debt issuance costs                                                                          (3,484)               (3,632)
+
+Carrying Value                                                                              $          116,516   $          116,368 
+
+
+
+Convertible notes, net                                                                      $          419,266   $          418,695 
+
+
+
+Issuance of convertible notes due in 2026
+
+
+
+In March 2021, the Company issued $138.3 million aggregate principal amount of 2026 Notes in a private placement offering. In May 2022, the Company entered into privately-negotiated exchange agreements with certain holders of the Company’s outstanding 2026 Notes. Following the exchange, approximately $69.1 million in aggregate principal amount of the 2026 Notes remained outstanding.
+
+The 2026 Notes bear interest at a rate of 2.25% per year payable semiannually in arrears on March 15 and September 15 of each year. Upon conversion, the 2026 Notes will be convertible into either cash, shares of the Company’s common stock or a combination thereof, at the Company’s election. The Convertible notes are presented as Convertible notes, net of unamortized debt issuance costs, on the condensed consolidated balance sheet. The aggregate proceeds from the offering were approximately $133.6 million, net of issuance costs, including initial purchaser fees.
+
+Each $1,000 principal amount of the 2026 Notes is initially convertible into 30.1427 shares of the Company’s common stock, which is equivalent to a conversion price of approximately $33.18 per share. The conversion rate for the 2026 Notes is subject to adjustment for certain events as set forth in the indenture governing the 2026 Notes. The 2026 Notes will mature on March 15, 2026, unless earlier converted, redeemed, or repurchased in accordance with the terms of the 2026 Notes.
+
+Issuance of convertible notes due in 2028
+
+
+
+In May 2022, the Company issued $240.0 million aggregate principal amount of 2028 Notes. A total of $230.0 million of aggregate principal amount of 2028 Notes was issued in a private placement offering and concurrently with this private placement, the Company entered into a purchase agreement with Voce Capital Management LLC ("Voce"), an entity affiliated with J. Daniel Plants, the Company’s former Executive Chairperson, pursuant to which the Company issued to Voce $10.0 million aggregate principal amount of 2028 Notes on the same terms and conditions. The 2028 Notes are presented as Convertible notes, net of unamortized debt issuance costs, on the condensed consolidated balance sheet. The aggregate proceeds from the offering of 2028 Notes were approximately $232.4 million, net of issuance costs, including initial purchaser fees.
+
+
+
+The 2028 Notes bear interest at a rate of 2.25% per year payable semiannually in arrears on June 1 and December 1 of each year, beginning on December 1, 2022. Upon conversion, the 2028 Notes will be convertible into either cash, shares of the 
+
+
+
+28
+
+
+
+Table of Contents 
+
+Company’s common stock or a combination thereof, at the Company’s election. Each $1,000 principal amount of the 2028 Notes is initially convertible into 18.9860 shares of the Company’s common stock, which is equivalent to an initial conversion price of approximately $52.67 per share. The conversion rate for the 2028 Notes is subject to adjustment for certain events as set forth in the indenture governing the 2028 Notes. The 2028 Notes will mature on June 1, 2028, unless earlier converted, redeemed, or repurchased in accordance with the terms of the 2028 Notes. 
+
+Issuance of convertible notes due in 2029
+
+In December 2022, the Company issued $120.0 million aggregate principal amount of 2029 Notes in a private placement offering. The 2029 Notes bear interest at a rate of 4.00% per year payable semiannually in arrears on June 1 and December 1 of each year. Upon conversion, the 2029 Notes will be convertible into either cash, shares of the Company’s common stock or a combination thereof, at the Company’s election. The convertible notes are presented as Convertible notes, net of unamortized debt issuance costs, on the condensed consolidated balance sheet. The aggregate proceeds from the offering were approximately $115.8 million, net of issuance costs, including initial purchaser fees.
+
+Each $1,000 principal amount of the 2029 Notes is initially convertible into 17.1378 shares of the Company’s common stock, which is equivalent to a conversion price of approximately $58.35 per share. The conversion rate for the 2029 Notes is subject to adjustment for certain events as set forth in the indenture governing the 2029 Notes. The 2029 Notes will mature on June 1, 2029, unless earlier converted, redeemed, or repurchased in accordance with the terms of the 2029 Notes.
+
+
+
+2026 Notes exchange
+
+
+
+In May 2022, the Company entered into privately-negotiated exchange agreements with certain holders of the Company’s outstanding 2026 Notes with respect to the exchange of $45.8 million in cash (excluding $0.3 million in cash for the payment of accrued interest) and 1,354,348 shares of common stock for $69.1 million in aggregate principal amount of the Company’s outstanding 2026 Notes (the “2026 Notes Exchange”). Immediately following the closing of the 2026 Notes Exchange, approximately $69.1 million in aggregate principal amount of the 2026 Notes remained outstanding.
+
+
+
+Conversion and other features
+
+
+
+2026 Notes:
+
+Holders may convert their 2026 Notes at their option prior to the close of business on the business day immediately preceding December 15, 2025, in multiples of $1,000 principal amount, only under the following circumstances:
+
+•During any fiscal quarter (and only during such fiscal quarter), if the last reported sale price of the common stock for at least 20 trading days (whether or not consecutive) during a period of 30 consecutive trading days ending on and including, the last trading day of the immediately preceding fiscal quarter, is greater than or equal to 130% of the conversion price for the 2026 Notes on each applicable trading day;
+
+•During the five-business day period after any five consecutive trading day period (the “measurement period”) in which the “trading price” per $1,000 principal amount of 2026 Notes for each trading day of the measurement period was less than 98% of the product of the last reported sale price of the Company's common stock and the conversion rate on each such trading day;
+
+•The Company calls such 2026 Notes for redemption, at any time prior to the close of business on the second scheduled trading day immediately preceding the redemption date; or
+
+•Upon the occurrence of specified corporate events.
+
+On or after December 15, 2025, and until the close of business on the second scheduled trading day immediately preceding the maturity date, holders may convert all or any portion of their 2026 Notes, in multiples of $1,000 principal amount, at the option of the holder regardless of the foregoing circumstances.
+
+The circumstances described in the bullets of the paragraph above were not met during the first quarter of 2024. As of March 31, 2024, the 2026 Notes are not convertible. The 2026 Notes may become convertible in future periods. Upon any conversion requests of the 2026 Notes, the Company would be required to pay or deliver, as the case may be, cash, shares of its common stock, or a combination of cash and shares of its common stock, at the Company’s election with respect to such conversion requests. To the extent there are any conversion requests during the twelve months ending March 31, 2025, the 
+
+
+
+29
+
+
+
+Table of Contents 
+
+Company intends to settle such conversion requests in shares of common stock. Therefore, as of March 31, 2024, the 2026 Notes have been included as Long-term debt on the condensed consolidated balance sheet.
+
+The Company may not redeem the 2026 Notes prior to March 20, 2024. On or after March 20, 2024, the Company may redeem for cash all or any portion of the 2026 Notes, at the Company’s option, if the last reported sale price of the Company’s common stock has been at least 130% of the conversion price then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive trading day period (including the last trading day of such period) ending on, and including, the trading day immediately preceding the date on which the Company provides notice of redemption at a redemption price equal to 100% of the principal amount of the 2026 Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date. If the Company elects to redeem fewer than all of the outstanding 2026 Notes, at least $50.0 million aggregate principal amount of 2026 Notes must be outstanding and not subject to redemption as of the relevant redemption notice date.
+
+If a specified corporate event occurs, 2026 Note holders have the option to require the Company to repurchase any portion or all of their 2026 Notes in $1,000 principal increments for cash. The price for such repurchase is calculated as 100% of the principal amounts of 2026 Notes, plus accrued and unpaid interest to the day immediately preceding the Fundamental Change repurchase date. Additionally, holders of the 2026 Notes who convert in connection with a fundamental change are, under certain circumstances, entitled to an increase in conversion rate.
+
+The 2026 Notes are general senior unsecured obligations that rank senior to any of the Company’s indebtedness that is explicitly subordinated to the 2026 Notes. The 2026 Notes have equal rank in right of payment with all existing and future unsecured indebtedness that is not subordinated to the 2026 Notes (including the 2028 Notes and 2029 Notes). The 2026 Notes will be junior to any of the Company’s secured indebtedness to the extent of the value of the assets securing such indebtedness.
+
+The estimated fair value of the 2026 Notes was approximately $26.5 million as of March 31, 2024, which the Company determined through consideration of market prices. The fair value measurement is classified as Level 2, as defined in Note 3.
+
+2028 Notes:
+
+
+
+Holders may convert their 2028 Notes at their option, in multiples of $1,000 principal amount, only under the following circumstances:
+
+•During any fiscal quarter commencing after the fiscal quarter ending on September 30, 2022 (and only during such fiscal quarter), if the last reported sale price of the common stock for at least 20 trading days (whether or not consecutive) during a period of 30 consecutive trading days ending on and including, the last trading day of the immediately preceding fiscal quarter, is greater than or equal to 130% of the conversion price for the 2028 Notes on each applicable trading day;
+
+•During the five-business day period after any five consecutive trading day period (the “measurement period”) in which the “trading price” per $1,000 principal amount of 2028 Notes for each trading day of the measurement period was less than 98% of the product of the last reported sale price of the Company's common stock and the conversion rate on each such trading day;
+
+•The Company calls such 2028 Notes for redemption, at any time prior to the close of business on the second scheduled trading day immediately preceding the redemption date; or
+
+•Upon the occurrence of specified corporate events.
+
+
+
+On or after March 1, 2028, and until the close of business on the second scheduled trading day immediately preceding the maturity date, holders may convert all or any portion of their 2028 Notes, in multiples of $1,000 principal amount, at the option of the holder regardless of the foregoing circumstances.
+
+
+
+The circumstances described in the bullets in the paragraph above were not met during the first quarter of 2024. As of March 31, 2024, the 2028 Notes are not convertible. The 2028 Notes may become convertible in future periods. Upon any conversion requests of the 2028 Notes, the Company would be required to pay or deliver, as the case may be, cash, shares of its common stock, or a combination of cash and shares of its common stock, at the Company’s election with respect to such conversion requests. To the extent there are any conversion requests during the twelve months ending September 30, 2024, the Company intends to settle such conversion requests in shares of common stock. Therefore, as of March 31, 2024, the 2028 Notes have been included as long-term debt on the condensed consolidated balance sheet.
+
+
+
+
+
+30
+
+
+
+Table of Contents 
+
+The Company may not redeem the 2028 Notes prior to June 5, 2025. On or after June 5, 2025, the Company may redeem for cash all or any portion of the 2028 Notes, at the Company’s option, if the last reported sale price of the Company’s common stock has been at least 130% of the conversion price then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive trading day period (including the last trading day of such period) ending on, and including, the trading day immediately preceding the date on which the Company provides notice of redemption at a redemption price equal to 100% of the principal amount of the 2028 Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date. If the Company elects to redeem fewer than all of the outstanding 2028 Notes, at least $100.0 million aggregate principal amount of 2028 Notes must be outstanding and not subject to redemption as of the relevant redemption notice date.
+
+
+
+If a specified corporate event occurs, note holders have the option to require the Company to repurchase any portion or all of their 2028 Notes in $1,000 principal increments for cash. The price for such repurchase is calculated as 100% of the principal amounts of 2028 Notes, plus accrued and unpaid interest to the day immediately preceding the Fundamental Change repurchase date. Additionally, holders of the 2028 Notes who convert in connection with a fundamental change are, under certain circumstances, entitled to an increase in conversion rate.
+
+
+
+The 2028 Notes are general senior unsecured obligations that rank senior to any of the Company’s indebtedness that is explicitly subordinated to the 2028 Notes. The 2028 Notes have equal rank in right of payment with all existing and future unsecured indebtedness that is not subordinated to the 2028 Notes (including the 2026 Notes and 2029 Notes). The 2028 Notes will be junior to any of the Company’s secured indebtedness to the extent of the value of the assets securing such indebtedness. 
+
+
+
+The estimated fair value of the 2028 Notes was approximately $57.1 million as of March 31, 2024, which the Company determined through consideration of market prices. The fair value measurement is classified as Level 2, as defined in Note 3.
+
+2029 Notes:
+
+Holders may convert their 2029 Notes at their option prior to the close of business on the business day immediately preceding March 1, 2029 in multiples of $1,000 principal amount, only under the following circumstances:
+
+•During any fiscal quarter commencing after the fiscal quarter ending March 31, 2023 (and only during such fiscal quarter), if the last reported sale price of the common stock for at least 20 trading days (whether or not consecutive) during a period of 30 consecutive trading days ending on and including, the last trading day of the immediately preceding fiscal quarter, is greater than or equal to 130% of the conversion price for the 2029 Notes on each applicable trading day;
+
+•During the five-business day period after any five consecutive trading day period (the “measurement period”) in which the “trading price” per $1,000 principal amount of 2029 Notes for each trading day of the measurement period was less than 98% of the product of the last reported sale price of the Company's common stock and the conversion rate on each such trading day;
+
+•The Company calls such 2029 Notes for redemption, at any time prior to the close of business on the second scheduled trading day immediately preceding the redemption date; or
+
+•Upon the occurrence of specified corporate events.
+
+On or after March 1, 2029, and until the close of business on the second scheduled trading day immediately preceding the maturity date, holders may convert all or any portion of their 2029 Notes, in multiples of $1,000 principal amount, at the option of the holder regardless of the foregoing circumstances.
+
+
+
+The circumstances described in the bullets of the paragraph above were not met during the first quarter of 2024. As of March 31, 2024, the 2029 Notes are not convertible. The 2029 Notes may become convertible in future periods. Upon any conversion requests of the 2029 Notes, the Company would be required to pay or deliver, as the case may be, cash, shares of its common stock, or a combination of cash and shares of its common stock, at the Company’s election with respect to such conversion requests. To the extent there are any conversion requests during the twelve months ending September 30, 2024, the Company intends to settle such conversion requests in shares of common stock. Therefore, as of March 31, 2024, the 2029 Notes have been included as Long-term debt on the consolidated balance sheet.
+
+
+
+The Company may not redeem the 2029 Notes prior to December 5, 2025. On or after December 5, 2025, the Company may redeem for cash all or any portion of the 2029 Notes, at the Company’s option, if the last reported sale price of the Company’s common stock has been at least 130% of the conversion price then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive trading day period (including the last trading day of such period) ending on, and 
+
+
+
+31
+
+
+
+Table of Contents 
+
+including, the trading day immediately preceding the date on which the Company provides notice of redemption at a redemption price equal to 100% of the principal amount of the 2029 Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date. If the Company elects to redeem fewer than all of the outstanding 2029 Notes, at least $100.0 million aggregate principal amount of 2029 Notes must be outstanding and not subject to redemption as of the relevant redemption notice date.
+
+
+
+If a specified corporate event occurs, 2029 Note holders have the option to require the Company to repurchase any portion or all of their 2029 Notes in $1,000 principal increments for cash. The price for such repurchase is calculated as 100% of the principal amounts of 2029 Notes, plus accrued and unpaid interest to the day immediately preceding the Fundamental Change repurchase date. Additionally, holders of the 2029 Notes who convert in connection with a fundamental change are, under certain circumstances, entitled to an increase in conversion rate.
+
+
+
+The 2029 Notes are general senior unsecured obligations that rank senior to any of the Company’s indebtedness that is explicitly subordinated to the 2029 Notes. The 2029 Notes have equal rank in right of payment with all existing and future unsecured indebtedness that is not subordinated to the 2029 Notes (including the 2026 Notes and 2028 Notes). The 2029 Notes will be junior to any of the Company’s secured indebtedness to the extent of the value of the assets securing such indebtedness. 
+
+
+
+The estimated fair value of the 2029 Notes was approximately $25.8 million as of March 31, 2024, which the Company determined through consideration of market prices. The fair value measurement is classified as Level 2, as defined in Note 3.
+
+
+
+Certain Covenants for the Convertible Notes
+
+
+
+Pursuant to the terms of the indentures that govern the Convertible Notes, the Company is required to file with U.S. Bank Trust Company, National Association (the “Trustee”), as trustee under each of the indentures governing the Convertible Notes, within 15 days after the same are required to be filed with the SEC (giving effect to any grace period provided by Rule 12b-25 under the Exchange Act), copies of any annual report on Form 10-K or quarterly reports on Form 10-Q that the Company is required to file with the SEC pursuant to Section 13 or 15(d) of the Exchange Act. To the extent the Company elects, the sole remedy for an event of default under the indenture governing a series of Convertible Notes relating to its failure to comply with this obligation (which shall occur upon failure by the Company for 60 days after receipt of written notice from the Trustee or the holders of 25% in aggregate principal amount the Convertible Notes of such series to comply with this obligation) shall, for the first 360 days after the occurrence of such an event of default, consist exclusively of the right for the holders of Convertible Notes of such series to receive additional interest on their Convertible Notes at a rate equal to (i) 0.25% per year for each day during the first 180 days after the occurrence and during the continuance of such event of default and (ii) 0.50% per year for each day from, and including, the 181st day to, but excluding, the 360th day after the occurrence and during the continuance of such event of default. On the 361st day after such event of default, if not previously cured or waived, the Convertible Notes of the applicable series shall be subject to acceleration pursuant to the terms of the indenture governing the Convertible Notes of such series. In the event the Company does not elect to pay additional interest on a series of Convertible Notes prior to the occurrence of an event of default relating to the Company’s failure to comply with this obligation, or the Company elects to make such payment but does not pay the additional interest on such Convertible Notes when due, the Convertible Notes of such series shall be immediately subject to acceleration at the election of either the Trustee or the holders of at least 25% in aggregate principal amount of the Convertible Notes of such series.
+
+
+
+Additionally, if at any time during the six-month period beginning on, and including, the date that is six months after the last date of original issuance of a series of Convertible Notes, the Company fails to timely file any document or report that it is required to file with the SEC pursuant to Section 13 or 15(d) of the Exchange Act, as applicable (after giving effect to all applicable grace period thereunder and other than reports on Form 8-K), or the Convertible Notes of such series are not otherwise freely tradable pursuant to Rule 144 as promulgated under the Securities Act of 1933, as amended, the Company shall pay additional interest on such Convertible Notes at a rate of 0.50% per year for each day during such period for which the Company’s failure to file has occurred and is continuing or such Convertible Notes are not otherwise freely tradable pursuant to Rule 144. Additional interest pursuant to the foregoing accrued on the outstanding principal amount of the 2029 Notes from November 24, 2023 to the one-year anniversary of the last date of original issuance of the 2029 Notes on December 12, 2023 was not material. 
+
+
+
+The Convertible Notes contain additional customary operating covenants, which include restrictions on the Company’s ability to undergo a merger or consolidation transaction, or transfer or lease substantially all of the consolidated properties and assets of the Company. The Convertible Notes do not contain any financial covenants or restrictions on the payment of dividends, the issuance of other indebtedness or the issuance or repurchase of securities by the Company.
+
+
+
+
+
+32
+
+
+
+Table of Contents 
+
+Capped Call Transactions
+
+
+
+In connection with the issuance of each series of the Convertible Notes, the Company entered into capped call transactions with certain option counterparties. The capped call transactions are generally intended to reduce the potential dilution of the Company's common stock upon any conversion or settlement of the applicable series of Convertible Notes or to offset any cash payment the Company is required to make in excess of the principal amount upon conversion of the applicable series of Convertible Notes, as the case may be, with such reduction or offset subject to a cap based on the cap price. If the market price per share of the Company’s common stock exceeds the cap price of the applicable capped call transactions, then the Company’s stock would experience some dilution and/or such capped call transactions would not fully offset the potential cash payments, in each case, to the extent the then-market price per share of its common stock exceeds the applicable cap price. 
+
+
+
+In connection with the offering of the 2026 Notes, the Company purchased from the option counterparties capped call options that in the aggregate relate to the total number of shares of the Company's common stock underlying the convertible notes, with a strike price equal to the conversion price of the convertible notes and with an initial cap price equal to $45.535, which represented a 75% premium over the last reported sale price of the Company's common stock of $26.02 per share on March 4, 2021, with certain adjustments to the settlement terms that reflect standard anti-dilution provisions. The capped call transactions expire over 40 consecutive scheduled trading days ended on March 12, 2026. The capped calls were purchased for $16.1 million. 
+
+
+
+In connection with the offering of the 2028 Notes, the Company purchased from the option counterparties capped call options that in the aggregate related to the total number of shares of the Company's common stock underlying the 2028 Notes sold to the initial purchasers in the offering of 2028 Notes, with a strike price equal to the conversion price of the 2028 Notes and with an initial cap price equal to $82.62, which represents a 100% premium over the last reported sale price of the Company's common stock of $41.31 per share on May 24, 2022, with certain adjustments to the settlement terms that reflect standard anti-dilution provisions. These capped call transactions expire over 40 consecutive scheduled trading days ended on May 30, 2028. The capped calls were purchased for $32.0 million, net of issuance costs.
+
+
+
+In connection with the offering of the 2029 Notes, the Company purchased from the option counterparties capped call options that in the aggregate related to the total number of shares of the Company's common stock underlying the 2029 Notes sold to the initial purchasers in the offering of 2029 Notes, with a strike price equal to the conversion price of the 2029 Notes and with an initial cap price equal to $99.21, which represents a 100% premium over the last reported sale price of the Company's common stock of $49.66 per share on December 7, 2022, with certain adjustments to the settlement terms that reflect standard anti-dilution provisions. These capped call transactions expire over 40 consecutive scheduled trading days ended on May 30, 2029. The capped calls were purchased for $25.1 million, net of issuance costs.
+
+
+
+The Company evaluated the capped call transactions under authoritative accounting guidance and determined that they should be accounted for as a separate transaction and classified as a net reduction to Additional paid-in capital within stockholders’ equity with no recurring fair value measurement recorded.
+
+The Company early adopted ASU 2020-6, Debt—Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging— Contracts in Entity’s Own Equity (Subtopic 815-40) on January 1, 2021. In accordance with Subtopic 470-20 and 815-40, as revised by ASU 2020-6, the Company records the convertible notes in long-term debt with no separation between the Notes and the conversion option. Each reporting period, the Company will determine whether any criteria is met for the note holders to have the option to redeem the Notes early, which could result in a change in the classification of the Notes to current liabilities.
+
+Debt Issuance Cost
+
+The issuance costs related to the Convertible Notes are presented in the condensed consolidated balance sheet as a direct deduction from the carrying amount of the Convertible Notes. The issuance costs are amortized using an effective interest method basis over the term of the Convertible Notes. The effective interest rates on the 2026 Notes, 2028 Notes, and 2029 Notes are 2.98%, 2.82%, and 4.63%, respectively. Interest expense for the three month periods ended March 31, 2024 and 2023, including the amortization of debt issuance cost, totaled approximately $3.5 million for both periods. 
+
+Loan and Security Agreement
+
+On July 9, 2020, the Company entered into a Loan and Security Agreement with Silicon Valley Bank for a four-year secured revolving loan facility (“SVB Revolving Line of Credit”) in an aggregate principal amount of up to $30.0 million. The Revolving Line of Credit, originally set to mature on July 9, 2024, was terminated by the Company on April 3, 2024.
+
+
+
+33
+
+
+
+Table of Contents 
+
+Note 14.     Segment Reporting
+
+Segment reporting is based on the “management approach,” following the method that management organizes the Company’s reportable segments for which separate financial information is made available to, and evaluated regularly by, the chief operating decision maker in allocating resources and in assessing performance. The Company’s chief operating decision maker ("CODM") is its Chief Executive Officer ("CEO"), who makes decisions on allocating resources and assessing performance. 
+
+In the three months ended December 31, 2023, the Company concluded a realignment of its operating segments to further drive its long-term strategic objectives. At the direction of the CEO, management reorganized its management reporting structure and began to manage its operations under one segment structure. The CEO, in making operating decisions, reviews consolidated financial information, accompanied by disaggregated information about revenues by geography and product. All of the Company’s principal operations and decision-making functions are located in the U.S. Substantially all of the Company's long-lived assets are located in the U.S. 
+
+The Company reassessed its reportable segments in the fourth quarter of fiscal year 2023 and determined it had one consolidated reportable segment beginning in the three months ended December 31, 2023. 
+
+The following table presents a summary of revenue by geography and product category for the three months ended March 31, 2024 and 2023 (in thousands):
+
+
+
+                                                                                                          Three Months Ended
+
+                                                                                                               March 31,
+
+                                                                                                        2024              2023
+
+Revenue mix by geography:
+
+United States                                                                                     $       14,070   $       22,501 
+
+Japan                                                                                                       7,598            12,908 
+
+Asia, excluding Japan                                                                                       4,912             6,731 
+
+Europe                                                                                                      4,575             5,118 
+
+Rest of the World                                                                                           7,638             7,268 
+
+Total consolidated revenue                                                                        $       38,793   $       54,526 
+
+Revenue mix by product category:
+
+Systems                                                                                           $       24,260   $       34,542 
+
+Consumables                                                                                                 4,655             6,447 
+
+Skincare                                                                                                    4,200             8,132 
+
+Total product revenue                                                                                      33,115            49,121 
+
+Service                                                                                                     5,678             5,405 
+
+Total consolidated revenue                                                                        $       38,793   $       54,526 
+
+
+
+
+
+34
+
+
+
+Table of Contents 
+
+ITEM 2.    MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This Management’s Discussion and Analysis should be read in conjunction with the Company’s financial condition and results of operations in conjunction with the Company’s unaudited condensed consolidated financial statements and notes thereto included in Part I, Item 1 of this Quarterly Report on Form 10-Q and the Company’s audited financial statements and notes thereto for the year ended December 31, 2023, included in its annual report on Form 10-K filed with the U.S. Securities and Exchange Commission (“SEC”) on May 10, 2024.
+
+Unless otherwise indicated, all results presented are prepared in a manner that complies, in all material respects, with accounting principles generally accepted in the United States of America (“GAAP”). Additionally, unless otherwise indicated, all changes identified for the current-period results represent comparisons to results for the prior corresponding fiscal period.
+
+Special Note Regarding Forward-Looking Statements
+
+This report contains forward-looking statements that involve risks and uncertainties. The Company’s actual results could differ materially from those discussed in the forward-looking statements. The statements contained in this report that are not purely historical are forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Securities Exchange Act of 1934, as amended, (the "Exchange Act"). Forward-looking statements are often identified by the use of words such as, but not limited to, “anticipate,” “believe,” “can,” “continue,” “could,” “estimate,” “might,” “expect,” “intend,” “may,” “plan,” “project,” “seek,” “should,” “strategy,” “target,” “will,” “would” and similar expressions or variations intended to identify forward-looking statements. These statements are based on the beliefs and assumptions of the Company’s management based on information currently available to management. Such forward-looking statements are subject to risks, uncertainties and other important factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by such forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those identified below and those discussed in the section titled “Risk Factors” included under Part II, Item 1A below.
+
+Furthermore, such forward-looking statements speak only as of the date of this report. Except as required by law, the Company undertakes no obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements.
+
+Introduction
+
+The Management’s Discussion and Analysis, or MD&A, is organized as follows:
+
+•Executive Summary. This section provides a general description and history of the Company’s business, a brief discussion of its product lines and the opportunities, trends, challenges and risks the Company focuses on in the operation of its business.
+
+•Critical Accounting Policies and Estimates. This section describes the key accounting policies that are affected by critical accounting estimates.
+
+•Results of Operations. This section provides the Company’s analysis and outlook for the significant line items on its condensed consolidated statements of operations.
+
+•Liquidity and Capital Resources. This section provides an analysis of the Company’s liquidity and cash flows, as well as a discussion of its commitments that existed as of March 31, 2024.
+
+Executive Summary
+
+Company Description 
+
+The Company develops, manufactures, distributes, and markets energy-based product platforms for medical practitioners, enabling them to offer safe and effective treatments to their customers. In addition, the Company distributes third-party manufactured Secret systems and consumables. The Company currently markets the following system platforms: AviClear, enlighten, excel V/V+, excel HR, truSculpt, Secret PRO, Secret DUO Secret RF, xeo, and xeo+ — each of which enables medical practitioners to perform procedures including treatment for acne, body contouring, skin resurfacing and revitalization, hair and tattoo removal, removal of benign pigmented lesions, and vascular conditions. Several of the Company’s systems offer multiple hand pieces and applications, providing customers the flexibility to upgrade their systems.
+
+The Company’s corporate headquarters and U.S. operations are located in Brisbane, California, where the Company conducts manufacturing, warehousing, research and development, regulatory, sales and marketing, service, and administrative activities. The Company also maintains regional distribution centers (“RDCs”) in selection locations across the U.S. These RDCs serve as 
+
+
+
+35
+
+
+
+Table of Contents 
+
+forward warehousing for systems and service parts in various geographies. The Company markets, sells, and services the Company’s products through direct sales and service employees in North America (including Canada), Australia, New Zealand, Austria, France, Germany, Hong Kong, Japan, and the United Kingdom and the Republic of Ireland. Sales and services outside of these direct markets are made through a worldwide distributor network in over 38 countries. The consolidated financial statements include the accounts of the Company and its subsidiaries. All inter-company transactions and balances have been eliminated.
+
+Products and Services
+
+The Company derives revenue from the sale of products and services. Product revenue includes revenue from the sale of systems, hand pieces, upgrade of systems, and leasing and direct sales of AviClear devices (collectively “Systems” revenue); replacement hand pieces, truSculpt cycle refills, truFlex cycle refills, AviClear treatment fees, and single use disposable tips applicable to Secret RF (collectively “Consumables” revenue); and the sale of third-party manufactured skincare products (“Skincare” revenue). A system consists of a console that incorporates a universal graphic user interface, a laser and (or) an energy-based module, control system software and high voltage electronics, as well as one or more hand pieces. However, depending on the application, the laser or other energy-based module is sometimes contained in the hand piece, such as with the Company’s Pearl and Pearl Fractional applications, instead of within the console.
+
+Several of the Company’s systems offer multiple hand pieces and applications, providing customers the flexibility to upgrade their systems whenever they choose and provides the Company with a source of additional Systems revenue.
+
+The Secret systems are manufactured by ilooda Co. Ltd. (“ilooda”), and Company is the exclusive distributor for all systems sold in the United States, Canada, the United Kingdom; the exclusive distributor for certain systems in France, and Spain; and the non-exclusive distributor for systems sold in Austria and Germany.
+
+Skincare revenue related to the distribution of ZO’s skincare products in Japan. The skincare products were purchased from a third-party manufacturer and sold to medical offices and licensed physicians. On February 28, 2024, the Company and its Japanese subsidiary, Cutera KK, entered into a termination agreement with ZO, which terminated all agreements related to the distribution by the Company of ZO’s products in Japan. The Company acted as the principal in this arrangement, as the Company determined the price to charge customers for the skincare products and controlled the products before they were transferred to the customer.
+
+Service revenue includes prepaid service contracts, and labor, time and material on out-of-warranty products.
+
+Significant Business Trends
+
+The Company believes that the ability to grow revenue will be primarily impacted by the following:
+
+•capturing market share in the Acne space and capitalizing on the momentum in AviClear;
+
+•continuing to expand the Company’s product offerings, both through internal development and sourcing from other vendors;
+
+•ongoing investment in the Company’s global sales and marketing infrastructure;
+
+•use of clinical results to support new aesthetic products and applications;
+
+•enhanced luminary development and reference selling efforts (to develop a location where the Company’s products can be displayed and used to assist in selling efforts);
+
+•customer demand for the Company’s products;
+
+•consumer demand for the application of the Company’s products;
+
+•marketing to physicians in the core dermatology and plastic surgeon specialties, as well as outside those specialties; and
+
+•generating recurring revenue from the Company’s growing installed base of customers through the sale of system upgrades, services, hand piece refills, truSculpt cycles, skincare products and replacement tips for Secret RF products.
+
+For a detailed discussion of the significant business trends impacting the Company’s business, please see the section titled “Results of Operations” below.
+
+Factors that May Impact Future Performance
+
+The Company’s industry is impacted by numerous competitive, regulatory and other significant factors. The Company’s industry is highly competitive and the Company’s future performance depends on the Company’s ability to compete successfully. Additionally, the Company’s future performance is dependent upon the ability to continue to expand the Company’s product offerings with innovative technologies, obtain regulatory clearances for the Company’s products, protect the proprietary technology of the products and manufacturing processes, manufacture the products cost-effectively, and 
+
+
+
+36
+
+
+
+Table of Contents 
+
+successfully market and distribute the products in a profitable manner. If the Company fails to execute on the aforementioned initiatives, the Company’s business would be adversely affected.
+
+The Company supports any reasonable action that helps ensure patient safety going forward. The Company has a robust, multi-functional process that reviews its promotional claims and materials to ensure they are truthful, not misleading, fair and balanced, and supported by sound scientific evidence.
+
+A detailed discussion of these and other factors that could impact the Company’s future performance are provided in (1) the Company’s Annual Report on Form 10-K for the year ended December 31, 2023 - Part I, Item 1A “Risk Factors,” and (2) other announcements the Company makes from time to time.
+
+Risks and Uncertainties
+
+The world is currently experiencing widespread inflation. Household budgets are tight and cash is generally being conserved and spent on essential items like housing, gas, food, clothing and healthcare. Given the inflationary environment, fewer funds may be spent on aesthetic treatments, which may translate into less demand for the Company's products and less revenue as a result.
+
+The Company continues to assess whether any impairment of its goodwill or its long-lived assets has occurred and has determined that no charges were necessary during the three months ended March 31, 2024. The Company will continue to monitor future conditions important to its assessment of potential impairment of its long-lived assets and goodwill.
+
+In March 2023, Serendia, LLC (“Serendia”), filed patent infringement complaints against the Company with the International Trade Commission (“ITC”) and in U.S. District Court for the District of Delaware alleging infringement of six Serendia patents by the Secret RF and Secret Pro systems, which the Company distributes in the U.S. on behalf of ilooda Co. Ltd., a Korean company. The manufacturer of these products, ilooda, is obligated to defend the Company against these claims and, as a result, the Company has not incurred significant external legal costs. Serendia and ilooda have agreed to a settlement of the ITC investigation, the Delaware litigation and any other past, present and future suits or claims related to the six Serendia patents and the Secret RF and Secret Pro systems. The settlement of these matters includes a non-exclusive, worldwide, fully paid up license from Serendia to ilooda to the six Serendia patents related to the Secret RF and Secret Pro systems, which are distributed by the Company. The ITC investigation as to ilooda and the Company was terminated as of April 10, 2024 and the Delaware litigation was dismissed as of April 3, 2024.
+
+Critical Accounting Policies, Significant Judgments and Use of Estimates
+
+The preparation of the Company’s consolidated financial statements and related notes requires the Company to make judgments, estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. The Company has based its estimates on historical experience and on various other assumptions that the Company believes to be reasonable under the circumstances. The Company periodically reviews its estimates and makes adjustments when facts and circumstances dictate. To the extent that there are material differences between these estimates and actual results, its financial condition or results of operations will be affected.
+
+An accounting policy is considered to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, and if different estimates that reasonably could have been used, or changes in the accounting estimates that are reasonably likely to occur periodically, could materially impact the consolidated financial statements. The Company believes that its critical accounting policies reflect the more significant estimates and assumptions used in the preparation of its audited consolidated financial statements. 
+
+The accounting policies and estimates that the Company considers to be critical, subjective, and requiring judgment in their application are summarized in “Item 7-Management’s Discussion and Analysis of Financial Condition and Results of Operations” in its Annual Report on Form 10-K for the year ended December 31, 2023 filed with the SEC on May 10, 2024. There have been no new or material changes to the significant accounting policies discussed in the Company’s Annual Report on Form 10-K that are of significance, or potential significance, to the Company.
+
+
+
+The Company established new accounting policies to account for the 2.25% Convertible Senior Notes due 2026 (the “2026 Notes” and, together with the 2028 Notes and 2029 Notes, the “Convertible Notes”) and related transactions during the first quarter of 2021.
+
+In March 2021, the Company issued $138.3 million aggregate principal amount of 2026 Notes in a private placement offering. In May 2022, the Company issued $240.0 million aggregate principal amount of 2028 Notes in a private placement offering. In 
+
+
+
+37
+
+
+
+Table of Contents 
+
+December 2022, the Company issued $120.0 million aggregate principal amount of 2029 Notes in a private placement offering. The notes issued in March 2021 and May 2022 each bear interest at a rate of 2.25% per year and the notes issued in December 2022 bear interest at 4.00% per year. In accordance with ASU 2020-06, the Company recorded the Convertible Notes in long-term debt with no separation between the notes and the conversion option. Each reporting period, the Company will determine whether any criteria are met for the note holders to have the option to redeem the notes early. To the extent there are any conversion requests, the Company intends to settle such conversion requests in shares of common stock. Therefore, the convertible notes have been included as Long-term debt on the condensed consolidated balance sheet.
+
+The issuance costs related to the Convertible Notes are presented in the balance sheet as a direct deduction from the carrying amount of the Convertible Notes. See Note 13. Debt of the unaudited condensed consolidated financial statements included in Item I, Part 1 of this Quarterly Report on Form 10-Q.
+
+Results of Operations
+
+The following table sets forth selected consolidated financial data for the periods indicated, expressed as a percentage of total net revenue. Percentages in this table and throughout its discussion and analysis of financial condition and results of operations may reflect rounding adjustments.
+
+
+
+                                                                                                      Three Months Ended
+
+                                                                                                          March 31,
+
+                                                                                                  2024                 2023
+
+Net revenue                                                                                            100  %              100  %
+
+Cost of revenue                                                                                         68  %               60  %
+
+Gross margin                                                                                            32  %               40  %
+
+
+
+Operating expenses:
+
+Sales and marketing                                                                                     61  %               54  %
+
+Research and development                                                                                13  %               12  %
+
+General and administrative                                                                              33  %               23  %
+
+Gain on early termination of distribution agreement                                                    (25) %                —  %
+
+Total operating expenses                                                                                82  %               89  %
+
+
+
+Loss from operations                                                                                   (50) %              (49) %
+
+Amortization of debt issuance costs                                                                     (2) %               (1) %
+
+Interest on convertible notes                                                                           (8) %               (5) %
+
+Interest income                                                                                          4  %                5  %
+
+
+
+Other expense, net                                                                                      (3) %               (1) %
+
+Loss before income taxes                                                                               (59) %              (51) %
+
+Income tax benefit (expense)                                                                             —  %                1  %
+
+Net loss                                                                                               (59) %              (52) %
+
+Revenue
+
+The timing of the Company’s revenue is significantly affected by the mix of system products, training, consumables and extended service contracts. The revenue generated in any given period is also impacted by whether the revenue is recognized over time or at a point in time. For an additional description on revenue, see Note 1 in the notes to consolidated financial statements on the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and Note 7 to the unaudited condensed consolidated financial statements included in Item I, Part 1 of this Quarterly Report on Form 10-Q.
+
+Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for promised goods or services. The Company’s performance obligations are satisfied either over time or at a point in time. Revenue from performance obligations that are transferred to customers over time accounted for approximately 14% and 11% of the Company’s total revenue for the three months ended March 31, 2024 and 2023, respectively. Revenue recognized over time relates to revenue from the Company’s extended service contracts and marketing services. Revenue recognized upon delivery is primarily generated by the sales of systems, consumables and skincare.
+
+
+
+38
+
+
+
+Table of Contents 
+
+Total Net Revenue
+
+
+
+                                                                                                Three Months Ended March 31,
+
+(Dollars in thousands)                                                                  2024             % Change            2023
+
+Revenue mix by geography:
+
+North America                                                                     $     18,391               (32)  % $     27,202 
+
+Japan                                                                                     7,598               (41)  %        12,908 
+
+Rest of World                                                                            12,804               (11)  %        14,416 
+
+Consolidated total revenue                                                        $     38,793               (29)  % $     54,526 
+
+
+
+North America as a percentage of total revenue                                               47  %                               50  %
+
+Japan as a percentage of total revenue                                                       20  %                               24  %
+
+Rest of World as a percentage of total revenue                                               33  %                               26  %
+
+
+
+Revenue mix by product category:
+
+Systems - North America                                                           $     11,859               (38)  % $     19,170 
+
+Systems - Rest of World (including Japan)                                                12,401               (19)  %        15,372 
+
+Total Systems                                                                            24,260               (30)  %        34,542 
+
+Consumables                                                                               4,655               (28)  %         6,447 
+
+Skincare                                                                                  4,200               (48)  %         8,132 
+
+Total Products                                                                           33,115               (33)  %        49,121 
+
+Service                                                                                   5,678                 5   %         5,405 
+
+Total Net Revenue                                                                 $     38,793               (29)  % $     54,526 
+
+The Company’s total net revenue decreased by $15.7 million, or 29%, in the three months ended March 31, 2024, compared to the same period in 2023. This decrease was primarily driven by a $10.3 million decline in Systems revenue, as well as a $1.8 million decline in Consumables revenue, and a $3.9 million decrease in Skincare revenue due to the early termination of distribution agreement on the Company's Japanese Skincare business. 
+
+Revenue by Geography
+
+The Company’s North America revenue decreased by $8.8 million, or 32%, in the three months ended March 31, 2024, compared to the same period in 2023. This decrease was primarily attributable to higher interest rates related to financing system purchases by customers.
+
+Revenue in Japan decreased by $5.3 million, or 41%, in the three months ended March 31, 2024, compared to the same period in 2023. On February 28, 2024, the Company entered into a termination agreement with ZO, which terminated all agreements related to the distribution by the Company of ZO’s products in Japan, as disclosed in Note. 1 under Distribution of Third-Party Products.
+
+Company’s Rest of World revenue decreased by $1.6 million, or 11%, in the three months ended March 31, 2024, compared to the same period in 2023, driven by system softness in all geographies, specifically in global distributor markets. 
+
+Revenue by Product Type
+
+Systems Revenue
+
+Systems revenue in North America decreased by $7.3 million, or 38%, in the three months ended March 31, 2024, compared to the same period in 2023, due to higher interest rates related to financing system purchases by customers and the macroeconomic conditions in North America, which resulted in a decrease in both unit volumes and average selling prices (“ASPs”). System revenue in the Rest of the World (including Japan) decreased by $3.0 million, or 19%, in the three months ended March 31, 2024, for the same reason. 
+
+Consumables Revenue
+
+Consumables revenue decreased by $1.8 million mainly due to an industry-wide slow down.
+
+
+
+39
+
+
+
+Table of Contents 
+
+Skincare Revenue
+
+The Company’s revenue from Skincare products in Japan decreased by $3.9 million, or 48%, in the three-month period ended March 31, 2024, compared to the same period in 2023. On February 28, 2024, the Company entered into a termination agreement with ZO, which terminated all agreements related to the distribution by the Company of ZO’s products in Japan.
+
+Service Revenue
+
+The Company’s Service revenue increased by $0.3 million, or 5%, in the three months ended March 31, 2024, compared to the same period in 2023. 
+
+Gross Profit
+
+
+
+                                                                                              Three Months Ended March 31,
+
+(Dollars in thousands)                                                                  2024              2023             Change
+
+Gross profit                                                                      $    12,419     $    21,632     $    (9,213)
+
+As a percentage of total net revenue                                                      32.0  %          39.7  %          (7.7) %
+
+The Company’s cost of revenue consists primarily of material, personnel expenses, product warranty costs, depreciation on AviClear devices, amortization of capitalized AviClear device mobilization costs, and manufacturing overhead expenses.
+
+Gross profit as a percentage of revenue for the three months ended March 31, 2024, was 32.0% compared to 39.7% in the same period in 2023. This 7.7 percentage point decrease comparison mainly reflects the following factors:
+
+
+
+•Geographic and product revenue mix and the decline in revenue adversely impacted the Company’s gross margin rate by 5.0 percentage points; 
+
+•Increases in sales return allowance adversely impacted the Company’s gross margin rate by 0.9 percentage points; and
+
+•Increases in the Company’s reserve for excess inventory parts adversely impacted the Company’s gross margin by 1.8 percentage points.
+
+
+
+Sales and Marketing
+
+
+
+                                                                                              Three Months Ended March 31,
+
+(Dollars in thousands)                                                                  2024              2023            Change
+
+Sales and Marketing                                                               $     23,677     $    29,512     $    (5,835)
+
+As a percentage of total net revenue                                                       61.0  %          54.1  %           6.9  %
+
+Sales and marketing expenses consist primarily of personnel expenses, expenses associated with customer-attended workshops and trade shows, post-marketing studies, advertising, and training.
+
+Sales and marketing expenses for the three months ended March 31, 2024, decreased $5.8 million, compared to the same period in 2023. This decrease primarily reflects a $3.3 million decrease in payroll and payroll-related costs resulting from workforce reductions implemented in the fourth quarter of 2023, a $1.3 million decrease in promotional and marketing spending, and a $1.5 million decrease in and outside professional services utilized.
+
+Research and Development (“R&D”)
+
+
+
+                                                                                                Three Months Ended March 31,
+
+(Dollars in thousands)                                                                    2024             2023            Change
+
+Research and development                                                             $    5,001     $    6,468     $    (1,467)
+
+As a percentage of total net revenue                                                        12.9  %         11.9  %           1.0  %
+
+R&D expenses consist primarily of personnel expenses, clinical research, regulatory and material costs. 
+
+R&D expenses decreased by $1.5 million in the three-month comparison, which primarily reflects a $0.6 million decrease in payroll and payroll-related costs resulting from workforce reductions implemented in the fourth quarter of 2023 and a $1.0 million decrease in material spending and outside consultancy services utilized by the Company.
+
+
+
+40
+
+
+
+Table of Contents 
+
+General and Administrative (“G&A”)
+
+
+
+                                                                                                Three Months Ended March 31,
+
+(Dollars in thousands)                                                                    2024             2023            Change
+
+General and administrative                                                           $    12,881     $    12,253     $      628 
+
+As a percentage of total net revenue                                                        33.2  %         22.5  %         10.7  %
+
+G&A expenses consist primarily of personnel expenses, legal, accounting, audit and tax consulting fees, as well as other general and administrative expenses. 
+
+G&A expenses for the three months ended March 31, 2024, increased $0.6 million, compared to the same period in 2023. Expense associated with an increase in the Company's allowance for credit losses resulted in an increase in expense of $1.9 million. This increase was partially offset by a decrease in payroll and payroll-related costs of $1.3 million, reflecting workforce reductions implemented in the fourth quarter of 2023.
+
+Gain on early termination of distribution agreement
+
+
+
+                                                                                                Three Months Ended March 31,
+
+(Dollars in thousands)                                                                    2024             2023           Change
+
+Gain on early termination of distribution agreement                                  $    (9,708)    $        —     $    (9,708)
+
+As a percentage of total net revenue                                                        (25.0) %            —  %         (25.0) %
+
+In the first quarter of 2024, the Company entered into a termination agreement with ZO and terminated its existing distribution agreement related to the distribution of Skincare products in Japan. In the three months ended March 31, 2024, the Company recorded a net gain of $9.7 million resulting from the net of the early termination proceeds received and the transfer of certain assets and liabilities, as gain on early termination of distribution agreement on the Company's condensed consolidated statement of operations.
+
+Interest and Other Expense, Net
+
+Interest and other expense, net, consists of the following:
+
+
+
+                                                                                                 Three Months Ended March 31,
+
+(Dollars in thousands)                                                                      2024            2023           Change
+
+Amortization of debt issuance costs                                                    $       (571)   $       (552)   $        (19)
+
+Interest on convertible notes                                                                 (2,939)          (2,939)               — 
+
+
+
+Interest income                                                                                1,455            2,636           (1,181)
+
+Other expense, net                                                                            (1,316)            (320)            (996)
+
+Interest and other expense, net                                                        $     (3,371)   $     (1,175)   $     (2,196)
+
+
+
+Interest and other expense, net, increased $2.2 million for the three months ended March 31, 2024, compared to the same period in 2023. 
+
+
+
+The Company's marketable investments matured in the third quarter of 2023, which decreased the interest income generated in prior periods. The Company's unrealized and realized foreign exchange loss increased in the three months March 31, 2024, compared to the comparable period in 2023. 
+
+Provision for Income Taxes
+
+
+
+                                                                                                 Three Months Ended March 31,
+
+(Dollars in thousands)                                                                       2024            2023           Change
+
+Income tax (benefit) expense                                                            $       (25)   $       272    $        (297)
+
+The Company's income tax benefit was immaterial for the three months ended March 31, 2024, compared to a $0.3 million expense for the same period in 2023. 
+
+
+
+41
+
+
+
+Table of Contents 
+
+
+
+Liquidity and Capital Resources
+
+The Company’s principal source of liquidity in the three months ended March 31, 2024, was its cash on hand. The Company actively manages its cash usage to ensure the maintenance of sufficient funds to meet its cash requirements. The majority of the Company’s cash and cash equivalents are held in U.S. banks. The Company's foreign subsidiaries maintain a limited amount of cash in their local banks to cover short-term operating expenses.
+
+As of March 31, 2024 and December 31, 2023, the Company had $162.5 million and $181.4 million of working capital, respectively. Cash, cash equivalents, restricted cash and marketable investments decreased by $38.2 million to $105.4 million as of March 31, 2024, from $143.6 million as of December 31, 2023, driven by net loss adjusted for non-cash items of $14.5 million, changes in assets and liabilities of $23.1 million, and capital expenditures of $0.3 million.
+
+When preparing financial statements, management has the responsibility to evaluate if the Company has adequate liquidity to continue to operate for the next twelve months. In performing this assessment, management considered the Company's current financial condition and liquidity sources, including current funds, forecasted future cash flows and unconditional obligations due over the next twelve months. In addition, management evaluated the history of the Company's financial performance, and determined that the Company has had a historic trend of operating losses, which continues to have an unfavorable impact on the Company's overall liquidity. Most recently, the Company reported net losses of $22.8 million for the three months ended March 31, 2024 and $162.8 million for the year ended December 31, 2023.
+
+The Company’s continued operations will depend on several factors, including but not limited to, growth of revenues from its revised business model for AviClear, maintaining or increasing revenues from sales of legacy systems, consumables and services, achieving cost savings as a result of workforce reductions implemented in the fourth quarter of 2023, restructuring of supplier and manufacturing relationships, and initiatives to improve inventory and receivables management. Failure to increase revenue, achieve cost savings, raise additional financing or re-finance the existing convertible notes when they become due, would adversely affect the Company’s ability to achieve its intended business objectives. There can be no assurances that financing will be available on terms favorable to the Company, if at all, and delays may occur in completing the operating activities.
+
+The Company intends to continue to evaluate market conditions and may in the future pursue additional sources of funding to enhance its financial position and to execute on its business strategy. In addition, should prevailing economic, financial, business or other factors adversely affect its ability to meet its operating cash requirements, the Company could be required to obtain funding though the credit or capital markets. Any equity financing obtained by the Company would dilute existing stockholders and any debt financing could contain restrictive covenants, which would reduce management’s flexibility to run the Company’s business or present a risk of default. If the Company raises funds through collaborations or licensing arrangements, the Company may be required to relinquish significant rights to its technologies or products or grant licenses on terms that are not favorable to the Company. The Company cannot be certain that additional funds would be available to it on favorable terms when required, or at all. 
+
+Cash, Cash Equivalents, Restricted Cash and Marketable Investments
+
+The following table summarizes the Company's cash and cash equivalents, restricted cash and marketable investments:
+
+
+
+(Dollars in thousands)                                                           March 31, 2024   December 31, 2023      Change
+
+Cash and cash equivalents                                                       $      105,444   $       143,612   $       (38,168)
+
+
+
+
+
+
+
+Cash Flows
+
+
+
+                                                                                                         Three Months Ended March 31,
+
+(Dollars in thousands)                                                                                      2024             2023
+
+Net cash flow provided by (used in):
+
+Operating activities                                                                                  $     (37,630)  $     (37,018)
+
+Investing activities                                                                                            (278)          60,334 
+
+Financing activities                                                                                            (260)          (2,412)
+
+Net increase (decrease) in cash and cash equivalents                                                  $     (38,168)  $      20,904 
+
+
+
+42
+
+
+
+Table of Contents 
+
+Cash Flows from Operating Activities
+
+During the three months ended March 31, 2024, net cash used in operating activities was $37.6 million, which mainly reflected the net loss adjusted for non-cash items of $14.5 million and a payment of $18.7 million associated with the non-renewal of the manufacturing services agreement with Jabil Inc. in February 2024.
+
+Cash Flows from Investing Activities
+
+Net cash used in investing activities was $0.3 million in the three months ended March 31, 2024, which represents the Company's capital expenditures. The net cash provided in the comparable period in 2023 was primarily the net proceeds from the maturities of marketable securities, partially offset by the capital expenditure related to the manufacture of the AviClear device.
+
+Cash Flows from Financing Activities
+
+Net cash used in financing activities was $0.3 million in the three months ended March 31, 2024, which was primarily due to taxes paid related to net share settlement of equity awards and finance lease payments. 
+
+Adequacy of Cash Resources to Meet Future Needs
+
+The Company had cash and cash equivalents of $105.4 million as of March 31, 2024. For the three months ended March 31, 2024, the Company’s principal source of liquidity was cash on hand. The Company has reported operating losses in recent quarters and intends to use its remaining cash resources to develop plans and take proactive steps to grow revenue and enhance its operations as further explained in the preceding Liquidity and Capital Resources section.
+
+The Company believes that the existing cash and cash equivalents will be sufficient to meet the Company’s anticipated cash needs for at least the next 12 months from the date the financial statements are issued.
+
+Debt
+
+In March 2021, the Company issued $138.3 million aggregate principal amount of 2026 Notes in a private placement offering. The 2026 Notes bear interest at a rate of 2.25% per year payable semiannually in arrears on March 15 and September 15 of each year. Upon conversion, the 2026 Notes will be convertible into either cash, shares of the Company’s common stock or a combination thereof, at the Company’s election. The convertible notes are presented as convertible notes, net of unamortized debt issuance costs, on the condensed consolidated balance sheet. The aggregate proceeds from the offering were approximately $133.6 million, net of issuance costs, including initial purchaser fees.
+
+In May 2022, the Company issued $240.0 million aggregate principal amount of 2028 Notes. A total of $230.0 million of aggregate principal amount of 2028 Notes was issued in a private placement offering and concurrently with this private placement, the Company entered into a purchase agreement with Voce Capital Management LLC, an entity affiliated with J. Daniel Plants, the Company’s former Executive Chairperson, pursuant to which the Company issued to Voce $10.0 million aggregate principal amount of 2028 Notes on the same terms and conditions. The aggregate proceeds from the offering of 2028 Notes were approximately $232.4 million, net of issuance costs, including initial purchaser fees.
+
+In December 2022, the Company issued $120.0 million aggregate principal amount of 2029 Notes in a private placement offering. The 2029 Notes bear interest at a rate of 4.00% per year payable semiannually in arrears on June 1 and December 1 of each year. Upon conversion, the 2029 Notes will be convertible into either cash, shares of the Company’s common stock or a combination thereof, at the Company’s election. The Convertible notes are presented as Convertible notes, net of unamortized debt issuance costs, on the consolidated balance sheet. The aggregate proceeds from the offering were approximately $115.8 million, net of issuance costs, including initial purchaser fees.
+
+The Company's Loan and Security Agreement for the Revolving Line of Credit, which was entered on July 9, 2020, was terminated by the Company on April 3, 2024.
+
+Commitments and Contingencies
+
+As of the date of this report, there were no material changes to the Company’s contractual obligations and commitments outside the ordinary course of business since May 10, 2024, the filing date of the Company’s Annual Report on Form 10-K.
+
+
+
+43
+
+
+
+Table of Contents 
+
+ITEM 3.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+A summary of the key market risks facing the Company is disclosed below. For a detailed discussion, please see the Company’s Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on May 10, 2024, and other announcements the Company makes from time to time.
+
+The conditional conversion feature of the Company's convertible notes, if triggered, may adversely affect the Company's financial condition and operating results.
+
+The Company has outstanding the 2.25% Convertible Senior Notes due 2026 (the “2026 Notes”), the 2.25% Convertible Senior Notes due 2028, and the 4.00% Convertible Senior Notes due 2029. During any fiscal quarter commencing after the fiscal quarter ending on June 30, 2021, in the case of the 2026 Notes, ending on September 30, 2022, in the case of the 2028 Notes, and ending on March 31, 2023, in the case of the 2029 Notes, if the last reported sale price of the common stock for at least 20 trading days (whether or not consecutive) during a period of 30 consecutive trading days ending on and including, the last trading day of the immediately preceding fiscal quarter is greater than or equal to 130% of conversion price for the applicable series of Convertible Notes on each applicable trading day then holders may convert their notes in the subsequent quarter. This condition was not met for any of the Company’s Convertible Notes in the three months ended March 31, 2024. Upon any future conversion requests of the Convertible Notes, the Company would be required to pay or deliver, as the case may be, cash, shares of its common stock, or a combination of cash and shares of its common stock, at the Company’s election with respect to such conversion requests.
+
+Interest Rate and Market Risk
+
+On April 3, 2024, the Loan and Security Agreement for the Revolving Line of Credit was terminated by the Company. The Company does not have any line of credit facility as of March 31, 2024.
+
+Inflation
+
+The Company has experienced inflationary pressure on its business. If the Company’s costs were to become subject to significant inflationary pressures, the Company may not be able to fully offset such higher costs through price increases. The Company’s inability or failure to do so could harm the Company’s business, financial condition, and results of operations.
+
+Foreign Exchange Fluctuations
+
+The Company generates revenue in Japanese Yen, Euros, Australian Dollars, Canadian Dollars, British Pounds, and Swiss Francs. Additionally, a portion of the Company’s operating expenses, and assets and liabilities are denominated in each of these currencies. Therefore, fluctuations in these currencies against the U.S. dollar could materially and adversely affect the Company’s results of operations upon translation of the Company’s revenue denominated in these currencies, as well as the re-measurement of the Company’s international subsidiaries’ financial statements into U.S. dollars. 
+
+ITEM 4.    CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+The Company maintains disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) that are designed to ensure that information required to be disclosed in the Company’s Exchange Act reports is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and that such information is accumulated and communicated to the Company’s management, including the Company’s principal executive officer and principal financial officer, as appropriate, to allow for timely decisions regarding required disclosure.
+
+Management identified material weaknesses in the year ended December 31, 2023, over the Company’s internal controls over financial reporting. These material weaknesses are related to information technology general controls (“ITGCs”) including, segregation of duties, user access, and reports produced by certain IT systems that support the Company's financial reporting process including those related to the implementation of an ERP system; inventory controls related to the completeness, existence, and cut-off of inventories held at third parties, inventories held by sales personnel, and inventories in transit, and controls related to the calculation of adjustments to inventory for items considered excessive and obsolete; the completeness and accuracy of expense for routine and non-routine equity-based awards; and failure to design, maintain and monitor a risk assessment program at a sufficiently precise level to identify new and evolving risks related to accounting policies, procedures and related controls performed over areas including, but not limited to inventory, revenues and lease income, costs for leased devices, and testing of certain key reports used in controls. Although certain of these material weaknesses did not result in any 
+
+
+
+44
+
+
+
+Table of Contents 
+
+material misstatement of the Company's consolidated financial statements for the periods presented, they could lead to a material misstatement of account balances or disclosures. Accordingly, management concluded that these deficiencies constitute material weaknesses.
+
+As required by SEC Rule 13a-15(b), the Company carried out an evaluation, under the supervision and with the participation of the Company’s management, including the Company’s principal executive officer and principal financial officer, of the effectiveness of the design and operation of the Company’s disclosure controls and procedures as of the end of the period covered by this Quarterly Report on Form 10-Q. The Company’s Chief Executive Officer (“CEO”) and Interim Chief Financial Officer (“CFO”) concluded that the Company’s disclosure controls and procedures were not effective as of March 31, 2024, at the reasonable assurance level, because of the material weaknesses in internal controls, which were disclosed in the Company's Annual Report on Form 10-K for the year ended December 31, 2023. Notwithstanding these material weaknesses, the Company’s management, including the CEO and CFO, has concluded that the condensed consolidated financial statements, included in the Form 10-Q, for the three months ended March 31, 2024, fairly present, in all material respects, the Company's financial condition, results of operations and cash-flows for the periods presented in conformity with generally accepted accounting principles.
+
+Remediation Plans
+
+Management continues to review and make changes to the overall design of its internal control environment, including implementing additional internal controls over ITGCs, inventory, equity and its risk assessment program over areas including but not limited to inventory, revenues and lease income, costs for leased devices, and certain key reports used in controls. The Company has added internal and external resources to its finance and internal audit functions to enhance the effectiveness of internal controls over financial reporting. The material weakness will not be considered remediated until the applicable remedial controls operate for a sufficient period. 
+
+The Company’s efforts include:
+
+ITGC remediation actions:
+
+•Developed a training program addressing ITGCs and policies, including educating control owners concerning the principles and requirements of each control, with a focus on those related to user access and change-management over IT systems impacting financial reporting;
+
+•Developed enhanced risk assessment procedures and controls related to changes in IT systems;
+
+•Implemented an IT management review and testing plan to monitor ITGCs with focus on systems supporting the financial reporting processes;
+
+Inventory control remediation actions:
+
+•Evaluated the effectiveness of the current annual inventory count program and controls;
+
+•Implemented a global inventory count policy and standard operating procedures to ensure consistent communication of the inventory count process and adherence to these policies at facilities managed by the Company and third-party logistics service providers;
+
+•Provided training of standard operating procedures and internal controls to key stakeholders within the supply chain, logistics, and inventory process; and
+
+•Enhanced existing management review controls related to inventory reconciliation, inventory in transit, inventories held by sales personnel, and key reports used in in the inventory count process. Evaluating the effectiveness of the current annual inventory count program and controls.
+
+Equity-based awards expense calculation remediation actions:
+
+• Enhanced current review controls around the calculation of stock-based compensation expense.
+
+Risk assessment remediation actions: 
+
+•Engaged third-party professionals to evaluate the design and operating effectiveness of the Company's risk assessment process in relation to the timely identification and assessment of changes in the business and leadership; and
+
+•Provided training of standard operating procedures and internal controls to key stakeholders.
+
+The actions the Company is taking are subject to ongoing executive management review and are also subject to audit committee oversight. If the Company is unable to successfully remediate these material weaknesses, or if in the future, the Company identifies further material weaknesses in its internal control over financial reporting, the Company may not detect errors on a timely basis, and its condensed financial statements may be materially misstated.
+
+
+
+45
+
+
+
+Table of Contents 
+
+Changes in Internal Control over Financial Reporting
+
+Except for the remediation measures in connection with the material weaknesses described above, there were no changes in the Company's internal control over financial reporting during the quarter ended March 31, 2024, that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting.
+
+Limitations on the Effectiveness of Controls
+
+A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Because of inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues, if any, within a company have been detected. Accordingly, the Company’s disclosure controls and procedures are designed to provide reasonable, not absolute, assurance that the objectives of the Company’s disclosure control system are met.
+
+
+
+46
+
+
+
+Table of Contents 
+
+PART II.     OTHER INFORMATION
+
+ITEM 1.    LEGAL PROCEEDINGS
+
+From time to time, the Company may be involved in legal and administrative proceedings and claims of various types. For a description of the Company’s material pending legal and regulatory proceedings and settlements, see Note 13 to the Company’s consolidated financial statements entitled “Commitments and Contingencies,” in the Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on May 10, 2024 and Note 12 to the Company's condensed consolidated financial statements entitled "Commitments and Contingencies", in this Quarterly Report on Form 10-Q for the three months ended March 31, 2024.
+
+ITEM 1A.    RISK FACTORS
+
+There are no material changes from the Risk Factors previously disclosed in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023, filed with the SEC on May 10, 2024 (the “Annual Report”).
+
+
+
+ITEM 2.    UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+None.
+
+ITEM 3.    DEFAULTS UPON SENIOR SECURITIES
+
+None.
+
+ITEM 4.    MINE SAFETY DISCLOSURES
+
+None.
+
+ITEM 5.    OTHER INFORMATION
+
+None.
+
+
+
+47
+
+
+
+Table of Contents 
+
+ITEM 6.    EXHIBITS
+
+
+
+  Exhibit    Description
+
+    No.
+
+       3.2   Amended and Restated Certificate of Incorporation of the Registrant (filed as Exhibit 3.5 to its
+
+              Quarterly Report on Form 10-Q filed on November 7, 2017 and incorporated herein by
+
+              reference)
+
+
+
+       3.4   Amended and Restated Bylaws of the Registrant (filed as Exhibit 3.1 to the Company’s Current Report on
+
+              Form 8-K filed on November 16, 2023 and incorporated herein by
+
+              reference).
+
+       4.1   Specimen Common Stock certificate of the Registrant (filed as Exhibit 4.1 to its Annual Report on Form
+
+              10-K filed on March 25, 2005 and incorporated herein by
+
+              reference).
+
+      31.1   Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+      31.2   Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+      32.1   Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C Section 1350,
+
+              as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+
+              2002.
+
+     101.sch Inline XBRL Taxonomy Extension Schema Document
+
+     101.cal Inline XBRL Taxonomy Extension Calculation Linkbase Document
+
+     101.def Inline XBRL Taxonomy Extension Definition Linkbase Document
+
+     101.lab Inline XBRL Taxonomy Extension Label Linkbase Document
+
+     101.pre Inline XBRL Taxonomy Extension Presentation Linkbase Document
+
+       104   Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+
+
+
+*    Management contract or compensatory plan
+
+
+
+
+
+48
+
+
+
+Table of Contents 
+
+SIGNATURE
+
+Pursuant to the requirements of Section 13 or 15(d) of The Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, in the city of Brisbane, State of California, on May 10, 2024.
+
+
+
+                                                                                             CUTERA, INC.
+
+
+
+                                                                                         /s/ Stuart Drummond
+
+                                                                                           Stuart Drummond
+
+                                                                                   Interim Chief Financial Officer
+
+
+
+
+
+49

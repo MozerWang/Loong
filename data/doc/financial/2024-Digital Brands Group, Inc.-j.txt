@@ -1,0 +1,2785 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024
+
+ 
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from _______to______
+
+ 
+
+Commission file number: 001-40400
+
+ 
+
+DIGITAL BRANDS GROUP, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                             Delaware                                                           46-1942864
+
+                 (State or other jurisdiction of                                             (I.R.S. Employer
+
+                  incorporation or organization)                                           Identification No.)
+
+ 
+
+1400 Lavaca Street
+
+Austin, TX 78701
+
+(Address of principal executive offices, including zip code)
+
+ 
+
+Tel: (209) 651-0172
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+N/A
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+                Title of each class                     Trading Symbol(s)            Name of each exchange on which registered
+
+     Common Stock, par value $0.0001 per share                 DBGI                         The Nasdaq Stock Market LLC
+
+ Warrants, each exercisable to purchase one share             DBGIW                         The Nasdaq Stock Market LLC
+
+                     of common
+
+                       stock
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer                 ☐                          Accelerated filer                       ☐
+
+Non-accelerated filer                   ☒                          Smaller reporting company               ☒
+
+                                                                   Emerging growth company                 ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if this registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+ 
+
+As of May 20, 2024, the Company had 1,935,519 shares of common stock, $0.0001 par value, issued and outstanding.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Table of Contents
+
+ 
+
+DIGITAL BRANDS GROUP, NC.
+
+FORM 10-Q
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                                Page
+
+                                                                                                                                  
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS                                                                             3
+
+                                                                                                                                  
+
+PART I. FINANCIAL INFORMATION                                                                                                    4
+
+                                                                                                                                 
+
+ITEM 1.        Financial Statements                                                                                             4
+
+                                                                                                                                 
+
+               Condensed Consolidated Balance Sheets as of March 31, 2024 (Unaudited), and December 31, 2023                    4
+
+                                                                                                                                 
+
+               Unaudited Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2024 and          5
+
+                2023
+
+                                                                                                                                 
+
+               Unaudited Condensed Consolidated Statements of Stockholders’ Equity (Deficit) for the Three Months Ended         6
+
+                March 31, 2024 and
+
+                2023
+
+                                                                                                                                 
+
+               Unaudited Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2024 and          7
+
+                2023
+
+                                                                                                                                 
+
+               Notes to Unaudited Condensed Consolidated Financial Statements                                                   8
+
+                                                                                                                                 
+
+ITEM 2.        Management’s Discussion and Analysis of Financial Condition and Results of Operations                            21
+
+                                                                                                                                 
+
+ITEM 3         Quantitative and Qualitative Disclosures about Market Risk                                                       32
+
+                                                                                                                                 
+
+ITEM 4.        Controls and Procedures                                                                                          32
+
+                                                                                                                                 
+
+PART II. OTHER INFORMATION                                                                                                       34
+
+                                                                                                                                 
+
+ITEM 1.        Legal Proceedings                                                                                                34
+
+                                                                                                                                 
+
+ITEM 1A.       Risk Factors                                                                                                     35
+
+                                                                                                                                 
+
+ITEM 2.        Unregistered Sales of Equity Securities and Use of Proceeds                                                      35
+
+                                                                                                                                 
+
+ITEM 3.        Defaults upon Senior Securities                                                                                  35
+
+                                                                                                                                 
+
+ITEM 4.        Mine Safety Disclosures                                                                                          35
+
+                                                                                                                                 
+
+ITEM 5.        Other Information                                                                                                35
+
+                                                                                                                                 
+
+ITEM 6.        Exhibits                                                                                                         36
+
+                                                                                                                                 
+
+SIGNATURES                                                                                                                       38
+
+ 
+
+                                                                   2
+
+
+
+Table of Contents
+
+ 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+ 
+
+Except for historical information, this Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which involve risks and uncertainties. These forward-looking statements can be identified by the use of forward- looking terminology, including the terms “believe,” “estimate,” “project,” “aim,” “anticipate,” “expect,” “seek,” “predict,” “contemplate,” “continue,” “possible,” “intend,” “may,” “plan,” “forecast,” “future,” “might,” “will,” “could,” would” or “should” or, in each case, their negative, or other variations or comparable terminology. These forward-looking statements include all matters that are not historical facts. They appear in a number of places throughout this Annual Report on Form 10-K and include statements regarding our intentions, beliefs or current expectations concerning, among other things, our results of operations, financial condition, liquidity, prospects, growth strategies, the industry in which we operate and potential acquisitions. We derive many of our forward- looking statements from our operating budgets and forecasts, which are based upon many detailed assumptions. While we believe that our assumptions are reasonable, we caution that it is very difficult to predict the impact of known factors, and, of course, it is impossible for us to anticipate all factors that could affect our actual results. All forward-looking statements are based upon information available to us on the date of this Quarterly Report on Form 10-Q.
+
+ 
+
+By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. We caution you that forward- looking statements are not guarantees of future performance and that our actual results of operations, financial condition and liquidity, and the stability of the industry in which we operate may differ materially from those made in or suggested by the forward-looking statements contained in this Quarterly Report on Form 10-Q. In addition, even if our results of operations, financial condition and liquidity and the development of the industry in which we operate are consistent with the forward-looking statements contained in this Quarterly Report on Form 10-Q, those results or developments may not be indicative of results or developments in subsequent periods. Important factors that could cause our results to vary from expectations include those discussed in “Risk Factors” in our most recent Annual Report on Form 10-K, as the same may be updated from time to time.
+
+ 
+
+Estimates and forward-looking statements speak only as of the date they were made, and, except to the extent required by law, we undertake no obligation to update or to review any estimate and/or forward-looking statement because of new information, future events or other factors.
+
+ 
+
+                                                                   3
+
+
+
+Table of Contents
+
+ 
+
+PART I – FINANCIAL INFORMATION
+
+ 
+
+ITEM 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+                                                                                          March 31,               December 31,       
+
+                                                                                            2024                      2023           
+
+                                                                                         (Unaudited)                                 
+
+ASSETS                                                                                                                             
+
+Current assets:                                                                                                                    
+
+Cash and cash equivalents                                                          $               11,330   $               20,773 
+
+Accounts receivable, net                                                                          281,904                   74,833 
+
+Due from factor, net                                                                              759,437                  337,811 
+
+Inventory                                                                                       4,648,473                4,849,600 
+
+Prepaid expenses and other current assets                                                         301,215                  276,670 
+
+Total current assets                                                                            6,002,359                5,559,687 
+
+Property, equipment and software, net                                                              69,294                   55,509 
+
+Goodwill                                                                                        8,973,501                8,973,501 
+
+Intangible assets, net                                                                          9,262,670                9,982,217 
+
+Deposits                                                                                           75,431                   75,431 
+
+Right of use asset                                                                                465,069                  689,688 
+
+Total assets                                                                       $           24,848,324   $           25,336,033 
+
+                                                                                                                                   
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY                                                                                               
+
+Current liabilities:                                                                                                               
+
+Accounts payable                                                                   $            6,266,813   $            7,538,902 
+
+Accrued expenses and other liabilities                                                          4,317,717                4,758,492 
+
+Due to related parties                                                                            398,779                  400,012 
+
+Convertible note payable, net                                                                     100,000                  100,000 
+
+Accrued interest payable                                                                        1,835,623                1,996,753 
+
+Loan payable, current                                                                           2,300,674                2,325,842 
+
+Promissory note payable, net                                                                    5,057,666                4,884,592 
+
+Lease liabilities                                                                               1,073,389                1,210,814 
+
+Total current liabilities                                                                      21,350,662               23,215,407 
+
+Loan payable                                                                                      150,000                  150,000 
+
+Deferred tax liability                                                                            368,034                  368,034 
+
+Total liabilities                                                                              21,868,696               23,733,441 
+
+                                                                                                                                   
+
+Commitments and contingencies                                                                          -                        -  
+
+                                                                                                                                   
+
+Stockholders’ equity:                                                                                                              
+
+Undesignated preferred stock, $0.0001 par value per share, 10,000,000 shares                            -                        - 
+
+ authorized, 0 shares issued and outstanding as of both March 31, 2024 and
+
+ December 31,
+
+ 2023
+
+Series A convertible preferred stock, $0.0001 par value per share, 6,300 shares                         1                        1 
+
+ designated, 6,300 shares issued and outstanding as of both March 31, 2024 and
+
+ December 31,
+
+ 2023
+
+Series C convertible preferred stock, $0.0001 par value per share, 3,239 and                            1                        1 
+
+ 4,786 shares issued and outstanding as of March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Common stock, $0.0001 par value per share, 1,000,000,000 shares authorized,                           170                      110 
+
+ 1,714,157 and 1,114,359 shares issued and outstanding as of March 31, 2024 and
+
+ December 31, 2023,
+
+ respectively
+
+Additional paid-in capital                                                                    117,657,641              115,596,929 
+
+Accumulated deficit                                                                          (114,678,184)            (113,994,449)
+
+Total stockholders’ equity                                                                      2,979,628                1,602,592 
+
+Total liabilities and stockholders’ equity                                         $           24,848,324   $           25,336,033 
+
+ 
+
+See the accompanying notes to the unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   4
+
+
+
+Table of Contents
+
+ 
+
+DIGITAL BRANDS GROUP, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(UNAUDITED)
+
+ 
+
+                                                                                                      Three Months Ended               
+
+                                                                                                           March 31,                   
+
+                                                                                                 2024                   2023         
+
+Net revenues                                                                             $          3,576,587   $          4,439,508 
+
+Cost of net revenues                                                                                1,855,851              2,420,194 
+
+Gross profit                                                                                        1,720,736              2,019,314 
+
+                                                                                                                                     
+
+Operating expenses:                                                                                                                  
+
+General and administrative                                                                            971,732              4,460,462 
+
+Sales and marketing                                                                                   708,150                977,154 
+
+Distribution                                                                                          265,499                270,185 
+
+Total operating expenses                                                                            1,945,381              5,707,802 
+
+                                                                                                                                     
+
+Loss from operations                                                                                 (224,645)            (3,688,487)
+
+                                                                                                                                     
+
+Other (expense) income:                                                                                                              
+
+Interest expense                                                                                     (504,991)            (1,864,598)
+
+Other non-operating income (expenses)                                                                  45,901               (678,989)
+
+Total other expense, net                                                                             (459,090)            (2,543,587)
+
+                                                                                                                                     
+
+Income tax benefit (provision)                                                                              -                      - 
+
+Net loss from continuing operations                                                                  (683,735)            (6,232,075)
+
+Income from discontinued operations, net of tax                                                             -                 95,726 
+
+Net loss                                                                                 $           (683,735)  $         (6,136,349)
+
+                                                                                                                                     
+
+Weighted average common shares outstanding -                                                                                         
+
+basic and diluted                                                                                   1,485,210                226,814 
+
+Net loss per common share - basic and diluted                                            $              (0.46)  $             (27.48)
+
+ 
+
+See the accompanying notes to the unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   5
+
+
+
+Table of Contents
+
+ 
+
+DIGITAL BRANDS GROUP, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (DEFICIT)
+
+(UNAUDITED)
+
+ 
+
+                       Series A        Series C Convertible                              Additional                             Total       
+
+                      Convertible
+
+                    Preferred Stock      Preferred Stock          Common Stock           Paid-in         Accumulated       Stockholders’   
+
+                   Shares   Amount       Shares   Amount        Shares     Amount          Capital           Deficit       Equity (Deficit)  
+
+                                                                                                                                             
+
+Balances at          6,300  $        1        -          -        178,758  $      18  $    96,294,123  $   (103,747,316) $     (7,453,174)
+
+ December 31,
+
+ 2022
+
+Issuance of              -           -         -          -        51,086          5        4,999,998                 -         5,000,003 
+
+ common stock
+
+ pursuant to
+
+ private
+
+ placement
+
+Offering costs           -           -         -          -             -          -         (536,927)                -          (536,927)
+
+Shares issued            -           -         -          -         4,756          -          499,338                 -           499,338 
+
+ for
+
+ services
+
+Shares and               -           -         -          -         4,400          -          658,494                 -           658,494 
+
+ warrants issued
+
+ with
+
+ notes
+
+Stock-based              -           -         -          -             -          -          105,594                 -           105,594 
+
+ compensation
+
+Net loss                 -           -         -          -             -          -                -        (6,136,349)       (6,136,349)
+
+Balances at          6,300           1         -  $       -       239,000  $      23  $   102,020,620  $   (109,883,665) $     (7,863,021)
+
+ March 31,
+
+ 2023
+
+                                                                                                                                          
+
+Balances at          6,300  $        1     4,786  $       1     1,114,359  $     110  $   115,596,929  $   (113,994,449) $      1,602,592 
+
+ December 31,
+
+ 2023
+
+Common shares            -           -         -          -       444,909         44        1,736,162                 -         1,736,206 
+
+ issued for
+
+ cash
+
+Shares issued            -           -         -          -        68,583          7          224,260                 -           224,267 
+
+ for services
+
+ and conversion
+
+ of accounts
+
+ payable
+
+Conversion of            -           -    (1,547)         -        86,306          9               (9)                -                 - 
+
+ preferred
+
+ shares into
+
+ common
+
+ stock
+
+Stock-based              -           -         -          -             -          -          100,299                 -           100,299 
+
+ compensation
+
+Net loss                 -           -         -          -             -          -                -          (683,735)         (683,735)
+
+Balances at          6,300  $        1     3,239  $       1     1,714,157  $     170  $   117,657,641  $   (114,678,184) $      2,979,628 
+
+ March 31,
+
+ 2024
+
+ 
+
+See the accompanying notes to the unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   6
+
+
+
+Table of Contents
+
+ 
+
+DIGITAL BRANDS GROUP, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(UNAUDITED)
+
+ 
+
+                                                                                                      Three Months Ended               
+
+                                                                                                           March 31,                   
+
+                                                                                                 2024                   2023         
+
+Cash flows from operating activities:                                                                                                
+
+Net loss                                                                                 $           (683,735)  $         (6,136,349)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                          
+
+Depreciation and amortization                                                                         719,547                959,207 
+
+Amortization of loan discount and fees                                                                665,932              1,412,425 
+
+Loss on extinguishment of debt                                                                              -                689,100 
+
+Stock-based compensation                                                                              100,299                105,594 
+
+Shares issued for services                                                                            142,536                499,338 
+
+Change in credit reserve                                                                             (151,611)               109,298 
+
+Non-cash lease expense                                                                                244,694                100,512 
+
+Changes in operating assets and liabilities:                                                                                         
+
+Accounts receivable, net                                                                             (207,071)               282,947 
+
+Due from factor                                                                                      (297,951)               (77,776)
+
+Inventory                                                                                             201,127                299,188 
+
+Prepaid expenses and other current assets                                                             (24,545)              (218,286)
+
+Accounts payable                                                                                   (1,190,358)              (416,093)
+
+Accrued expenses and other liabilities                                                               (440,775)               464,855 
+
+Deferred revenue                                                                                            -                115,292 
+
+Accrued interest payable                                                                             (161,130)               218,740 
+
+Lease liabilities                                                                                    (157,500)              (100,512)
+
+Net cash used in operating activities                                                              (1,240,541)            (1,692,520)
+
+Cash flows from investing activities:                                                                                                
+
+Purchase of property, equipment and software                                                          (13,785)                     - 
+
+Deposits                                                                                                    -                 87,379 
+
+Net cash (used in) provided by investing activities                                                   (13,785)                87,379 
+
+Cash flows from financing activities:                                                                                                
+
+Repayments from related party advances                                                                 (1,234)              (104,170)
+
+Advances from factor                                                                                   27,936                217,625 
+
+Issuance of loans and note payable                                                                          -              3,542,199 
+
+Repayments of convertible notes and loan payable                                                     (518,026)            (5,677,621)
+
+Issuance of common stock for cash                                                                   1,736,206              5,000,003 
+
+Offering costs                                                                                              -               (686,927)
+
+Net cash provided by financing activities                                                           1,244,883              2,291,109 
+
+Net change in cash and cash equivalents                                                                (9,443)               685,968 
+
+Cash and cash equivalents at beginning of period                                                       20,773              1,283,282 
+
+Cash and cash equivalents at end of period                                               $             11,330   $          1,969,250 
+
+                                                                                                                                     
+
+Supplemental disclosure of cash flow information:                                                                                    
+
+Cash paid for income taxes                                                               $                  -   $                  - 
+
+Cash paid for interest                                                                   $                  -   $             60,465 
+
+                                                                                                                                     
+
+Supplemental disclosure of non-cash investing and financing activities:                                                              
+
+Right of use asset                                                                       $                  -   $            467,738 
+
+Shares issued for services and conversion of accounts payable                            $             81,731   $                  - 
+
+Conversion of preferred stock to common stock                                            $                  9   $                  - 
+
+ 
+
+See the accompanying notes to the unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   7
+
+
+
+Table of Contents
+
+ 
+
+NOTE 1: NATURE OF OPERATIONS
+
+ 
+
+Digital Brands Group, Inc. (the “Company” or “DBG”), was organized on September 17, 2012 under the laws of Delaware as a limited liability company under the name Denim.LA LLC. The Company converted to a Delaware corporation on January 30, 2013 and changed its name to Denim.LA, Inc. Effective December 31, 2020, the Company changed its name to Digital Brands Group, Inc. (DBG).
+
+ 
+
+The Company is a curated collection of lifestyle brands, including Bailey 44, DSTLD, Harper & Jones, Stateside and ACE Studios, that offers a variety of apparel products through direct-to-consumer and wholesale distribution.
+
+ 
+
+On February 12, 2020, Denim.LA, Inc. entered into an Agreement and Plan of Merger with Bailey 44, LLC (“Bailey”), a Delaware limited liability company. On the acquisition date, Bailey became a wholly owned subsidiary of the Company.
+
+ 
+
+On May 18, 2021, the Company closed its acquisition of Harper & Jones, LLC (“H&J”) pursuant to its Membership Interest Stock Purchase Agreement with D. Jones Tailored Collection, Ltd. to purchase 100% of the issued and outstanding equity of Harper & Jones, LLC. On the acquisition date, H&J became a wholly owned subsidiary of the Company.
+
+ 
+
+On August 30, 2021, the Company closed its acquisition of Mosbest, LLC dba Stateside (“Stateside”) pursuant to its Membership Interest Purchase Agreement with Moise Emquies to purchase 100% of the issued and outstanding equity of Stateside. On the acquisition date, Stateside became a wholly owned subsidiary of the Company.
+
+ 
+
+On December 30, 2022, the Company closed its previously announced acquisition of Sunnyside, LLC dba Sundry (“Sundry”) pursuant to its Second Amended and Restated Membership Interest Purchase Agreement with Moise Emquies to purchase 100% of the issued and outstanding equity of Sundry. On the acquisition date, Sundry became a wholly owned subsidiary of the Company.
+
+ 
+
+On June 21, 2023, the Company and the former owners of H&J executed a Settlement Agreement and Release (the “Settlement Agreement”) whereby contemporaneously with the parties’ execution of the Settlement Agreement (i) the Company agreed to make an aggregate cash payment of $229,000 to D. Jones Tailored Collection, Ltd. (“D. Jones”), (ii) the Company issued 1,952,580 shares of common stock to D. Jones, and (iii) the Company assigned and transferred one hundred percent (100%) of the Company’s membership interest in H&J to D. Jones. The H&J Settlement was accounted for a business disposition.
+
+ 
+
+NOTE 2: GOING CONCERN
+
+ 
+
+The accompanying unaudited condensed consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The Company has not generated profits since inception, has sustained net losses of $683,735 and $6,136,349 for the three months ended March 31, 2024 and 2023, respectively, and has incurred negative cash flows from operations for the three months ended March 31, 2024 and 2023. The Company has historically lacked liquidity to satisfy obligations as they come due and as of March 31, 2024, and the Company had a working capital deficit of $15,348,303. These factors, among others, arise substantial doubt about the Company’s ability to continue as a going concern. The Company expects to continue to generate operating losses for the foreseeable future. The accompanying consolidated financial statements do not include any adjustments as a result of this uncertainty.
+
+ 
+
+The Company’s ability to continue as a going concern for the next 12 months from the date the financial statements were available to be issued is dependent upon its ability to generate sufficient cash flows from operations to meet its obligations, which it has not been able to accomplish to date, and/or to obtain additional capital financing. Through the date the financial statements were available to be issued, the Company has been primarily financed through the issuance of capital stock and debt. In the event that the Company cannot generate sufficient revenue to sustain its operations, the Company will need to reduce expenses or obtain financing through the sale of debt and/or equity securities. The issuance of additional equity would result in dilution to existing shareholders. If the Company is unable to obtain additional funds when they are needed or if such funds cannot be obtained on terms acceptable to the Company, the Company would be unable to execute upon the business plan or pay costs and expenses as they are incurred, which would have a material, adverse effect on the business, financial condition and results of operations. No assurance can be given that the Company will be successful in these efforts.
+
+ 
+
+                                                                   8
+
+
+
+Table of Contents
+
+ 
+
+NOTE 3: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+
+Basis of Presentation
+
+ 
+
+The accounting and reporting policies of the Company conform to accounting principles generally accepted in the United States of America (“GAAP”).
+
+ 
+
+Reverse Stock Split
+
+ 
+
+On August 21, 2023, the Board of Directors approved a one-for-25 reverse stock split of its issued and outstanding shares of common stock and a proportional adjustment to the existing conversion ratios for each series of the Company’s preferred stock. The reverse stock split became effective as of August 22, 2023. Accordingly, all share and per share amounts for all periods presented in the accompanying consolidated financial statements and notes thereto have been adjusted retroactively, where applicable, to reflect this reverse stock split and adjustment of the preferred stock conversion ratios.
+
+ 
+
+Unaudited Interim Financial Information
+
+ 
+
+The accompanying unaudited condensed consolidated balance sheet as of March 31, 2024, the unaudited condensed consolidated statements of operations for the three and three months ended March 31, 2024, and 2023 and of cash flows for the three months ended March 31, 2024, and 2023 have been prepared by the Company, pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”) for the interim financial statements. Certain information and footnote disclosures normally included in financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to rules and regulations. However, the Company believes that the disclosures are adequate to make the information presented not misleading. The unaudited interim consolidated financial statements have been prepared on a basis consistent with the audited consolidated financial statements and in the opinion of management, reflect all adjustments, consisting of only normal recurring adjustments, necessary for the fair presentation of the consolidated results for the interim periods presented and of the consolidated financial condition as of the date of the interim consolidated balance sheet. The results of operations are not necessarily indicative of the results expected for the year ending December 31, 2024.
+
+ 
+
+The accompanying unaudited interim condensed consolidated financial statements should be read in conjunction with the Company’s audited consolidated financial statements and the notes thereto for the year ended December 31, 2023 included in the Company’s Annual Report on Form 10-K filed with the SEC on April 15, 2024.
+
+ 
+
+Principles of Consolidation
+
+ 
+
+These unaudited condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries Bailey, Stateside and Sundry from the dates of acquisition. All inter-company transactions and balances have been eliminated on consolidation.
+
+ 
+
+Discontinued Operations
+
+ 
+
+Certain prior year accounts have been reclassified to conform with current year presentation regarding income from discontinued operations.
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of the Company’s financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Significant estimates and assumptions reflected in these financial statements include, but are not limited to, inventory, impairment of long-lived assets, contingent consideration and derivative liabilities. The Company bases its estimates on historical experience, known trends and other market-specific or other relevant factors that it believes to be reasonable under the circumstances. On an ongoing basis, management evaluates its estimates when there are changes in circumstances, facts and experience. Changes in estimates are recorded in the period in which they become known. Actual results could differ from those estimates.
+
+ 
+
+                                                                   9
+
+
+
+Table of Contents
+
+ 
+
+Cash and Equivalents and Concentration of Credit Risk
+
+ 
+
+The Company considers all highly liquid securities with an original maturity of less than three months to be cash equivalents. As of March 31, 2024 and December 31, 2023, the Company did not hold any cash equivalents. The Company’s cash and cash equivalents in bank deposit accounts, at times, may exceed federally insured limits of $250,000.
+
+ 
+
+Fair Value of Financial Instruments
+
+ 
+
+The Company’s financial instruments consist of cash and cash equivalents, prepaid expenses, accounts payable, accrued expenses, due to related parties, related party note payable, and convertible debt. The carrying value of these assets and liabilities is representative of their fair market value, due to the short maturity of these instruments.
+
+ 
+
+Accounts Receivable and Expected Credit Loss
+
+ 
+
+We carry our accounts receivable at invoiced amounts less allowances for customer credit losses and other deductions to present the net amount expected to be collected on the financial asset. All receivables are expected to be collected within one year of the consolidated balance sheet. We do not accrue interest on the trade receivables. Management evaluates the ability to collect accounts receivable based on a combination of factors. Receivables are determined to be past due based on individual credit terms. An allowance for credit losses is maintained based on the length of time receivables are past due, historical collections, or the status of a customer’s financial position. Receivables are written off in the year deemed uncollectible after efforts to collect the receivables have proven unsuccessful. We do not have any off-balance sheet credit exposure related to our customers.
+
+ 
+
+We periodically review accounts receivable, estimate an allowance for bad debts, and simultaneously record the appropriate expense in the statement of operations. Such estimates are based on general economic conditions, the financial conditions of customers, and the amount and age of past due accounts. Past due accounts are written off against that allowance only after all collection attempts have been exhausted and the prospects for recovery are remote. Recoveries of accounts receivable previously written off are recorded as income when received. The Company provides credit to its customers in the normal course of business and has established credit evaluation and monitoring processes to mitigate credit risk.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the Company determined an allowance for credit losses of $52,122 and $41,854, respectively.
+
+ 
+
+Inventory
+
+ 
+
+Inventory is stated at the lower of cost or net realizable value and accounted for using the weighted average cost method for DSTLD and first-in, first-out method for Bailey, Stateside and Sundry. The inventory balances as of March 31, 2024 and December 31, 2023 consist substantially of finished good products purchased or produced for resale, as well as any raw materials the Company purchased to modify the products and work in progress.
+
+ 
+
+Inventory consisted of the following:
+
+ SCHEDULE OF INVENTORY
+
+                                                                      March 31,           December 31,    
+
+                                                                         2024                 2023        
+
+Raw materials                                                     $          662,732   $          695,580 
+
+Work in process                                                              561,109              585,387 
+
+Finished goods                                                             3,420,631            3,568,633 
+
+Inventory                                                         $        4,648,473   $        4,849,600 
+
+ 
+
+Goodwill
+
+ 
+
+Goodwill and identifiable intangible assets that have indefinite useful lives are not amortized, but instead are tested annually for impairment and upon the occurrence of certain events or substantive changes in circumstances. The annual goodwill impairment test allows for the option to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. An entity may choose to perform the qualitative assessment on none, some or all of its reporting units or an entity may bypass the qualitative assessment for any reporting unit and proceed directly to step one of the quantitative impairment test. If it is determined, on the basis of qualitative factors, that the fair value of a reporting unit is, more likely than not, less than its carrying value, the quantitative impairment test is required.
+
+ 
+
+                                                                   10
+
+
+
+Table of Contents
+
+ 
+
+Annual Impairment
+
+ 
+
+At December 31, 2023, management determined that certain events and circumstances occurred that indicated that the carrying value of the Company’s brand name assets, and the carrying amount of the reporting units, pertaining to Bailey44, Stateside and Sundry may not be recoverable. The qualitative assessment was primarily due to reduced or stagnant revenues of both entities as compared to the Company’s initial projections at the time of each respective acquisition, as well as the entities’ liabilities in excess of assets. Upon the quantitative analysis performed, the Company determined that the fair value of the intangible assets and reporting units were greater than the respective carrying values. As such, no impairment was recorded. The Company utilized the enterprise value approach in the impairment tests of each reporting unit in 2023.
+
+ 
+
+Net Loss per Share
+
+ 
+
+Net earnings or loss per share is computed by dividing net income or loss by the weighted-average number of common shares outstanding during the period, excluding shares subject to redemption or forfeiture. The Company presents basic and diluted net earnings or loss per share. Diluted net earnings or loss per share reflect the actual weighted average of common shares issued and outstanding during the period, adjusted for potentially dilutive securities outstanding. Potentially dilutive securities are excluded from the computation of the diluted net loss per share if their inclusion would be anti-dilutive. As all potentially dilutive securities are anti-dilutive as of March 31, 2024 and 2023, diluted net loss per share is the same as basic net loss per share for each year. Potentially dilutive items outstanding as of March 31, 2024 and 2023 are as follows:
+
+ SCHEDULE OF POTENTIALLY DILUTIVE ITEMS OUTSTANDING
+
+                                                                                               March 31,                 
+
+                                                                                       2024                 2023        
+
+Series A convertible preferred stock                                                        27,097               27,097 
+
+Series C convertible preferred stock                                                       180,736                    - 
+
+Common stock warrants                                                                    1,180,220              237,745 
+
+Stock options                                                                                1,558                1,558 
+
+Total potentially dilutive shares                                                        1,389,611              266,400 
+
+ 
+
+The stock options and warrants above are out-of-the-money as of March 31, 2024 and 2023.
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+In January 2024, the Company adopted the Financial Accounting Standards Board’s (the “FASB”) Accounting Standards Update (“ASU”) 2020-06, Debt—Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging— Contracts in Entity’s Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity: This ASU addresses the complexity of certain guidance for convertible instruments and contracts in an entity’s own equity. The ASU was effective for public business entities that meet the definition of an SEC filer, excluding entities eligible to be smaller reporting companies as defined by the SEC, for fiscal years beginning after December 15, 2021, including interim periods within those fiscal years. For all other entities, the ASU will be effective for fiscal years beginning after December 15, 2023, including interim periods within those fiscal years. The ASU did not have a material impact on the consolidated financial statements.
+
+ 
+
+Management does not believe that any other recently issued, but not yet effective, accounting standards could have a material effect on the accompanying financial statements. As new accounting pronouncements are issued, the Company will adopt those that are applicable under the circumstances.
+
+ 
+
+                                                                   11
+
+
+
+Table of Contents
+
+ 
+
+The following accounting pronouncements have been issued as of May 20, 2024 but are not yet effective and may affect the future financial reporting by the Company:
+
+ 
+
+     ●    ASU 2022-03, Fair Value Measurement (Topic 820): Fair Value Measurement of Equity Securities Subject to Contractual Sale
+
+           Restrictions: The ASU is intended to clarify the guidance when measuring the fair value of an equity security subject to
+
+           contractual restrictions that prohibit the sale of the security. For public business entities, the amendments in ASU
+
+           2022-03 are effective for fiscal years beginning after December 15, 2023, and interim periods within those fiscal years.
+
+           For all other entities, the ASU is effective for fiscal years beginning after December 15, 2024, and interim periods within
+
+           those fiscal
+
+           years.
+
+ 
+
+NOTE 4: DUE FROM FACTOR
+
+ 
+
+Due to/from factor consist of the following:
+
+ SCHEDULE OF DUE TO/ FROM FACTOR
+
+                                                                                          March 31,               December 31,       
+
+                                                                                            2024                      2023           
+
+Outstanding receivables:                                                                                                           
+
+Without recourse                                                                   $            1,194,249   $              808,233 
+
+With recourse                                                                                      22,348                   99,055 
+
+Matured funds and deposits                                                                         53,963                   65,321 
+
+Advances                                                                                         (511,123)                (483,187)
+
+Credits due customers                                                                                   —                 (151,611)
+
+ Due from factor, net                                                              $              759,437   $              337,811 
+
+ 
+
+NOTE 5: GOODWILL AND INTANGIBLE ASSETS
+
+ 
+
+The following is a summary of goodwill attributable to each business combination:
+
+ SCHEDULE OF GOODWILL ATTRIBUTABLE TO EACH BUSINESS COMBINATION
+
+                                                                                          March 31,               December 31,       
+
+                                                                                            2024                      2023           
+
+Bailey                                                                             $            3,158,123   $            3,158,123 
+
+Stateside                                                                                       2,104,056                2,104,056 
+
+Sundry                                                                                          3,711,322                3,711,322 
+
+ Goodwill                                                                          $            8,973,501   $            8,973,501 
+
+ 
+
+The following table summarizes information relating to the Company’s identifiable intangible assets as of March 31, 2024:
+
+ SCHEDULE OF INFORMATION RELATING TO THE COMPANY’S IDENTIFIABLE INTANGIBLE ASSETS
+
+                                                                       Gross               Accumulated              Carrying       
+
+                                                                       Amount              Amortization              Value         
+
+Amortized:                                                                                                                         
+
+Customer relationships                                          $          8,634,560   $         (5,213,770)  $          3,420,790 
+
+                                                                $          8,634,560   $         (5,213,770)  $          3,420,790 
+
+                                                                                                                                   
+
+Indefinite-lived:                                                                                                                  
+
+Brand name                                                      $          5,841,880                      —              5,841,880 
+
+                                                                $          5,841,880   $                  —   $          5,841,880 
+
+ 
+
+The Company recorded amortization expense of $719,547 and $954,353 during the three months ended March 31, 2024 and 2023, respectively, which is included in general and administrative expenses in the consolidated statements of operations.
+
+ 
+
+                                                                   12
+
+
+
+Table of Contents
+
+ 
+
+NOTE 6: LIABILITIES AND DEBT
+
+ 
+
+Accrued Expenses and Other Liabilities
+
+ 
+
+The Company accrued expenses and other liabilities line in the consolidated balance sheets is comprised of the following as of March 31, 2024 and December 31, 2023:
+
+ SCHEDULE OF ACCRUED EXPENSES AND OTHER LIABILITIES
+
+                                                                                          March 31,               December 31,       
+
+                                                                                            2024                      2023           
+
+Accrued expenses                                                                   $              590,310   $              617,374 
+
+Payroll related liabilities                                                                     3,470,557                3,895,640 
+
+Sales tax liability                                                                               157,498                  145,545 
+
+Other liabilities                                                                                  99,353                   99,934 
+
+Accrued expenses and other liabilities, Total                                      $            4,317,717   $            4,758,492 
+
+ 
+
+Convertible Debt
+
+ 
+
+As of March 31, 2024 and December 31, 2023, there was $100,000 remaining in outstanding principal that was not converted into equity.
+
+ 
+
+Loan Payable — PPP and SBA Loan
+
+ 
+
+In April 2022, there was a partial forgiveness of Bailey’s first PPP Loan totaling $413,705. As of March 31, 2024 and December 31, 2023, Bailey had an outstanding PPP Loan balance of $933,295, which matures in 2026.
+
+ 
+
+Merchant Advances
+
+ 
+
+Future Sales Receipts
+
+ 
+
+In 2022 and 2023, the Company obtained several merchant advances. These advances are, for the most part, secured by expected future sales transactions of the Company with expected payments on a weekly basis. The Company made total cash repayments, pertaining to principal and interest of $464,386 for the three months ended March 31, 2024.
+
+ 
+
+The following is a summary of the merchant advances as of March 31, 2024 and December 31, 2023:
+
+ SCHEDULE OF MERCHANT ADVANCES
+
+                                                                            March 31,           December 31,     
+
+                                                                              2024                  2023         
+
+Principal                                                              $         2,496,559   $         2,960,946 
+
+Less: unamortized debt discount                                                 (1,475,160)           (1,966,881)
+
+Merchant cash advances, net                                            $         1,021,399   $           994,065 
+
+ 
+
+The unamortized debt discount of $1,475,160 will be amortized to interest expense over the expected remaining terms of the agreements through the fourth quarter of 2024. During the three months ended March 31, 2024, the Company recorded $491,720 in interest expense pertaining to these advances.
+
+ 
+
+Other
+
+ 
+
+The Company has outstanding merchant advances with Shopify Capital. During the three months ended March 31, 2024, the Company made repayments totaling $66,042. As of March 31, 2024, the remaining principal outstanding was $83,856. These advances are, for the most part, secured by expected future sales transactions of the Company with expected payments on a daily basis.
+
+ 
+
+                                                                   13
+
+
+
+Table of Contents
+
+ 
+
+The Company also has outstanding merchant advances with Gynger, Inc. As of March 31, 2024, the remaining principal outstanding was $273,188. As of the issuance date of the unaudited condensed consolidated financial statements, the two parties are working on extensions and/or potential settlement outcomes.
+
+ 
+
+Promissory Note Payable
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the outstanding principal on the note to the sellers of Bailey was $3,500,000. On July 5, 2023, the parties agreed to extend the maturity date to June 30, 2024.
+
+ 
+
+Interest expense was $105,000 and $105,000 for the three months ended March 31, 2024 and 2023, respectively, which was accrued and unpaid as of March 31, 2024.
+
+ 
+
+In March 2023, the Company and various purchasers executed a Securities Purchase Agreement (“March 2023 Notes”) whereby the investors purchased from the Company promissory notes in the aggregate principal amount of $2,458,750, consisting of original issue discount of $608,750. The Company received net proceeds of $1,850,000 after additional fees. The March 2023 Notes are due and payable on September 30, 2023 (the “Maturity Date”). If the Company completes a debt or equity financing of less than $7,500,000, the Company is required to repay 50% of the remaining balance of the March 2023 Notes. Following such 50% repayment, the Company must also use any proceeds from any subsequent debt or equity financing to repay the March 2023 Notes. Upon the closing of any debt or equity financing of $7,500,000 or greater, the Company is required to repay 100% of the Notes with no penalties. There is no additional interest after the 20% original interest discount. Upon the Company’s equity financing in September 2023, the Company repaid an aggregate $1,247,232 in principal to the respective noteholders. The Company recognized a debt discount of $608,750, which was fully amortized through December 31, 2023. The notes contain certain conversion provisions upon an event of default.
+
+ 
+
+The parties are currently working on an extension to the Maturity Date and have acknowledged that the default provisions have not been triggered. It is expected that the March 2023 Notes will be fully repaid by the end of the second quarter of 2024. In connection with the amendments, the Company increased the principal owed on the March 2023 Notes to $519,222, with a corresponding increase to unamortized debt discount. During the three months ended March 31, 2024, the Company amortized debt discount pertaining to these notes of $173,074.
+
+ 
+
+The following is a summary of promissory notes payable, net:
+
+ SCHEDULE OF PROMISSORY NOTES PAYABLE, NET
+
+                                                                                          March 31,               December 31,       
+
+                                                                                            2024                      2023           
+
+Bailey Note                                                                        $            3,500,000   $            3,500,000 
+
+March 2023 Notes – principal                                                                    1,730,740                1,730,740 
+
+March 2023 Notes - unamortized debt discount                                                     (173,074)                (346,148)
+
+Promissory note payable, net                                                       $            5,057,666   $            4,884,592 
+
+ 
+
+NOTE 7: STOCKHOLDERS’ DEFICIT
+
+ 
+
+Amendments to Certificate of Incorporation
+
+ 
+
+On August 21, 2023, the Board of Directors approved a one-for- 25 reverse stock split of its issued and outstanding shares of common stock and a proportional adjustment to the existing conversion ratios for each series of the Company’s preferred stock. The reverse stock split became effective as of August 22, 2023. Accordingly, all share and per share amounts for all periods presented in the accompanying consolidated financial statements and notes thereto have been adjusted retroactively, where applicable, to reflect this reverse stock split and adjustment of the preferred stock conversion ratios.
+
+ 
+
+Common Stock
+
+ 
+
+The Company had 1,000,000,000 shares of common stock, $0.0001 par value per share, authorized as of March 31, 2024.
+
+ 
+
+Common stockholders have voting rights of one vote per share. The voting, dividend, and liquidation rights of the holders of common stock are subject to and qualified by the rights, powers, and preferences of preferred stockholders.
+
+ 
+
+                                                                   14
+
+
+
+Table of Contents
+
+ 
+
+2024 Transactions
+
+ 
+
+During the three months ended March 31, 2024, the Company issued 444,909 shares of common stock pursuant to an At-The-Market Offering Agreement for an at-the-market offering (the “ATM Agreement”) with H.C. Wainwright & Co., LLC, as sales agent (“Wainwright”). The Company received net proceeds of $1,736,206 pursuant to the ATM Agreement.
+
+ 
+
+During the three months ended March 31, 2024, the Company issued an aggregate of 68,583 shares of common stock pursuant to services and conversion of accounts payable totaling a fair value of $224,265.
+
+ 
+
+In February 2024, the Company issued an aggregate of 52,994 shares of common stock to a marketing vendor for services. The fair value of $173,290, or $3.27 per share as determined by the agreements, was included in sales and marketing expenses in the consolidated statements of operations.
+
+ 
+
+In December 2023, the Company issued an aggregate of 15,589 shares of common stock to a vendor as conversion of accounts payable for a total value of $50,975.
+
+ 
+
+During the three months ended March 31, 2024, 1,547 shares of Series C Convertible Preferred Stock were converted into 86,306 shares of common stock.
+
+ 
+
+Series A Convertible Preferred Stock
+
+ 
+
+On September 29, 2022, the Company filed the Certificate of Designation designating up to 6,800 shares out of the authorized but unissued shares of its preferred stock as Series A Convertible Preferred Stock.
+
+ 
+
+Except for stock dividends or distributions for which adjustments are to be made pursuant to the Certificate of Designation, the holders of the Series A Preferred Stock (the “Holders”) shall be entitled to receive, and the Company shall pay, dividends on shares of the Series A Preferred Stock equal (on an as-if-converted-to-Common-Stock basis) to and in the same form as dividends actually paid on shares of the Common Stock when, as and if such dividends are paid on shares of the Common Stock. No other dividends shall be paid on shares of the Series A Preferred Stock.
+
+ 
+
+With respect to any vote with the class of Common Stock, each share of the Series A Preferred Stock shall entitle the Holder thereof to cast that number of votes per share as is equal to the number of shares of Common Stock into which it is then convertible.
+
+ 
+
+The Series A Preferred Stock shall rank (i) senior to all of the Common Stock; (ii) senior to any class or series of capital stock of the Company hereafter created specifically ranking by its terms junior to any Preferred Stock (“Junior Securities”); (iii) on parity with any class or series of capital stock of the Corporation created specifically ranking by its terms on parity with the Preferred Stock (“Parity Securities”); and (iv) junior to any class or series of capital stock of the Company hereafter created specifically ranking by its terms senior to any Preferred Stock (“Senior Securities”), in each case, as to dividends or distributions of assets upon liquidation, dissolution or winding up of the Company, whether voluntarily or involuntarily.
+
+ 
+
+Each share of the Series A Preferred Stock shall be convertible, at any time and from time to time from and after September 29, 2022 at the option of the Holder thereof, into that number of shares of Common Stock determined by dividing the Stated Value of such share of the Series A Preferred Stock ($1,000 as of September 29, 2022) by the Conversion Price. The conversion price for each share of the Series A Preferred Stock is the closing price of the Common Stock on September 29, 2022, which was $9.30.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, there were 6,300 shares of Series A Convertible Preferred Stock issued and outstanding.
+
+ 
+
+Series C Convertible Preferred Stock
+
+ 
+
+On June 21, 2023, the Company, on the one hand, and Moise Emquies, George Levy, Matthieu Leblan, Carol Ann Emquies, Jenny Murphy and Elodie Crichi (collectively, the “Sundry Investors”), on the other hand, executed a Securities Purchase Agreement (the “Sundry SPA”) whereby the Company issued 5,761 shares of Series C Convertible Preferred Stock, par value $0.0001 per share (the “Series C Preferred Stock”) to the Sundry Investors at a purchase price of $1,000 per share. The Series C Preferred Stock is convertible into a number of shares of the Company’s Common Stock equal to $1,000 divided by an initial conversion price of $0.717 which represents the lower of (i) the closing price per share of the Common Stock as reported on the Nasdaq on June 20, 2023, and (ii) the average closing price per share of Common Stock as reported on the Nasdaq for the five trading days preceding June 21, 2023. The shares of Series C Preferred Stock were issued in consideration for the cancellation of certain promissory notes issued by the Company to the Sundry Investors dated December 30, 2022 (the “Sundry Loan Documents”). The following is a summary of the rights and preferences of the Series C Convertible Preferred Stock.
+
+ 
+
+                                                                   15
+
+
+
+Table of Contents
+
+ 
+
+On June 21, 2023, the Company filed the Certificate of Designation with the Secretary of State for the State of Delaware designating up to 5,761 shares out of the authorized but unissued shares of its preferred stock as Series C Convertible Preferred Stock. The following is a summary of the principal terms of the Series C Preferred Stock.
+
+ 
+
+Except for stock dividends or distributions for which adjustments are to be made pursuant to the Certificate of Designation, the holders of the Series C Preferred Stock (the “Series C Holders”) shall be entitled to receive, and the Company shall pay, dividends on shares of the Series C Preferred Stock equal (on an as-if-converted-to-Common-Stock basis) to and in the same form as dividends actually paid on shares of the Common Stock when, as and if such dividends are paid on shares of the Common Stock. No other dividends shall be paid on shares of the Series C Preferred Stock.
+
+ 
+
+The Series C Holders are entitled to vote as a class as expressly provided in the Certificate of Designation. The Series C Holders are also entitled to vote with the holders of shares of Common Stock, voting together as one class, on all matters in which the Series C Holders are permitted to vote with the class of shares of Common Stock.
+
+ 
+
+With respect to any vote with the class of Common Stock, each share of the Series C Preferred Stock shall entitle the Holder thereof to cast that number of votes per share as is equal to the number of shares of Common Stock into which it is then convertible (subject to the ownership limitations specified in the Certificate of Designation) using the record date for determining the stockholders of the Company eligible to vote on such matters as the date as of which the conversion price is calculated.
+
+ 
+
+The Series C Preferred Stock shall rank (i) senior to all of the Common Stock; (ii) senior to Junior Securities; (iii) on parity with Parity Securities; and (iv) junior to Senior Securities, in each case, as to dividends or distributions of assets upon liquidation, dissolution or winding up of the Company, whether voluntarily or involuntarily. Subject to any superior liquidation rights of the holders of any Senior Securities of the Company and the rights of the Company’s existing and future creditors, upon a Liquidation, each Holder shall be entitled to be paid out of the assets of the Company legally available for distribution to stockholders, prior and in preference to any distribution of any of the assets or surplus funds of the Company to the holders of the Common Stock and Junior Securities and pari passu with any distribution to the holders of Parity Securities, an amount equal to the Stated Value (as defined in the Certificate of Designation) for each share of the Series C Preferred Stock held by such Holder and an amount equal to any accrued and unpaid dividends thereon, and thereafter the Series C Holders shall be entitled to receive out of the assets, whether capital or surplus, of the Company the same amount that a holder of Common Stock would receive if the Series C Preferred Stock were fully converted (disregarding for such purposes any conversion limitations hereunder) to Common Stock which amounts shall be paid pari passu with all holders of Common Stock.
+
+ 
+
+Each share of the Series C Preferred Stock shall be convertible, at any time and from time to time from and after June 21, 2023 at the option of the Holder thereof, into that number of shares of Common Stock determined by dividing the Stated Value of such share of the Series C Preferred Stock ($1,000 as of June 21, 2023) by the Conversion Price. The conversion price for each share of the Series C Preferred Stock is $0.717, which is the lower of (a) the closing price per share of the Common Stock as reported on the NasdaqCM on June 20, 2023 (the trading day before the date of the Sundry SPA), and (b) the average closing price per share of Common Stock as reported on the NasdaqCM for the five trading days preceding the date of the Sundry SPA, subject to adjustment herein (the “Series C Conversion Price”).
+
+ 
+
+The Company has the option to redeem any or all of the then outstanding Series C Preferred Stock at 112% of the then Stated Value any time after June 21, 2023 and so long as there is an effective Registration Statement covering the shares issuable upon conversion of the Series C Preferred Stock.
+
+ 
+
+In October 2023, 975 shares of Series C Convertible Preferred Stock were converted into 54,394 shares of common stock.
+
+ 
+
+During the three months ended March 31, 2024, 1,547 shares of Series C Convertible Preferred Stock were converted into 86,306 shares of common stock.
+
+ 
+
+                                                                   16
+
+
+
+Table of Contents
+
+ 
+
+NOTE 8: RELATED PARTY TRANSACTIONS
+
+ 
+
+As of March 31, 2024 and December 31, 2023, amounts due to related parties were $398,779 and $400,012, respectively. The advances are unsecured, non-interest bearing and due on demand. Amounts due to related parties consist of current and former executives, and a board member. The related party balances are with a former officer, current director and the Chief Executive Officer.
+
+ 
+
+NOTE 9: SHARE-BASED PAYMENTS
+
+ 
+
+Common Stock Warrants
+
+ 
+
+A summary of information related to common stock warrants for the three months ended Mach 31, 2024 is as follows:
+
+ SUMMARY OF INFORMATION RELATED TO COMMON STOCK WARRANTS
+
+                                                                                                                                     
+
+                                                                                               Common                Weighted        
+
+                                                                                               Stock                  Average        
+
+                                                                                              Warrants            Exercise Price     
+
+Outstanding - December 31, 2023                                                                    1,180,220   $               25.40 
+
+Granted                                                                                                    -                       - 
+
+Exercised                                                                                                  -                       - 
+
+Forfeited                                                                                                  -                       - 
+
+Outstanding - March 31, 2024                                                                       1,180,220   $               25.40 
+
+                                                                                                                                     
+
+Exercisable at December 31, 2023                                                                   1,180,220   $               25.40 
+
+Exercisable at March 31, 2024                                                                      1,180,220   $               25.40 
+
+ 
+
+Stock Options
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the Company had 1,558 stock options outstanding with a weighted average exercise price of $9,050 per share.
+
+ 
+
+Stock-based compensation expense of $100,299 and $105,594 was recognized for the three months ended March 31, 2024 and 2023, respectively. During the three months ended March 31, 2024 and 2023, $14,399 and $14,399, respectively, was recorded to sales and marketing expense, and all other stock compensation was included in general and administrative expense in the condensed consolidated statements of operations. Total unrecognized compensation cost related to non-vested stock option awards as of March 31, 2024 amounted to $69,103 and will be recognized over a weighted average period of 0.31 years.
+
+ 
+
+NOTE 10: LEASE OBLIGATIONS
+
+ 
+
+Rent is classified by function on the consolidated statements of operations either as general and administrative, sales and marketing, or cost of revenue.
+
+ 
+
+The Company determines whether an arrangement is or contains a lease at inception by evaluating potential lease agreements including services and operating agreements to determine whether an identified asset exists that the Company controls over the term of the arrangement. Lease commencement is determined to be when the lessor provides access to, and the right to control, the identified asset.
+
+ 
+
+The rental payments for the Company’s leases are typically structured as either fixed or variable payments. Fixed rent payments include stated minimum rent and stated minimum rent with stated increases. The Company considers lease payments that cannot be predicted with reasonable certainty upon lease commencement to be variable lease payments, which are recorded as incurred each period and are excluded from the calculation of lease liabilities.
+
+ 
+
+                                                                   17
+
+
+
+Table of Contents
+
+ 
+
+Management uses judgment in determining lease classification, including determination of the economic life and the fair market value of the identified asset. The fair market value of the identified asset is generally estimated based on comparable market data provided by third-party sources.
+
+ 
+
+In January 2023, the Company entered into a lease agreement extension for its corporate office and distribution center in Vernon, California that expires on January 31, 2025. The lease has monthly base rent payments of $12,000. The Company recognized a right of use asset of $31,597 and lease liability of $170,002 using a discount rate of 10.0%.
+
+ 
+
+In September 2023, the Company entered into a lease agreement extension for a showroom space in Los Angeles, California that commences in March 2023 and expires in September 2024. The lease has a monthly base rent of $25,000. The Company recognized a right of use asset of $658,091 and lease liability of $1,040,812 using a discount rate of 10.0%.
+
+ 
+
+The following is a summary of operating lease assets and liabilities:
+
+ SUMMARY OF OPERATING LEASE ASSETS AND LIABILITIES
+
+                                                                      March 31,           December 31,    
+
+Operating leases                                                         2024                 2023        
+
+                                                                                                          
+
+Assets                                                                                                    
+
+ROU operating lease assets                                        $          465,069   $          689,688 
+
+                                                                                                          
+
+Liabilities                                                                                               
+
+Current portion of operating lease                                         1,073,389            1,210,814 
+
+Total operating lease liabilities                                 $        1,073,389   $        1,210,814 
+
+ 
+
+Operating leases                                                     March 31,         December 31, 2023  
+
+                                                                        2024
+
+                                                                                                          
+
+Weighted average remaining lease term (years)                                  0.75                  1.00 
+
+Weighted average discount rate                                                10.00%                10.00%
+
+ 
+
+ SUMMARY OF OPERATING LEASE OBLIGATIONS
+
+                                                                                           March 31,        
+
+                                                                                              2024
+
+Future minimum payments - 2024                                                        $          1,110,730 
+
+Less imputed interest                                                                              -37,341 
+
+Total lease obligations                                                               $          1,073,389 
+
+ 
+
+                                                                   18
+
+
+
+Table of Contents
+
+ 
+
+NOTE 11: CONTINGENCIES
+
+ 
+
+We are currently involved in, and may in the future be involved in, legal proceedings, claims, and government investigations in the ordinary course of business. These include proceedings, claims, and investigations relating to, among other things, regulatory matters, commercial matters, intellectual property, competition, tax, employment, pricing, discrimination, consumer rights, personal injury, and property rights. These matters also include the following:
+
+ 
+
+On March 21, 2023, a vendor filed a lawsuit against Digital Brands Group related to trade payables totaling approximately $43,501. Such amounts include interest due, and are included in accounts payable, net of payments made to date, in the accompanying consolidated balance sheets. The Company does not believe it is probable that the losses in excess of such trade payables will be incurred.
+
+ 
+
+On February 7, 2023, a vendor filed a lawsuit against Digital Brands Group related to trade payables totaling approximately $182,400. Such amounts include interest due, and are included in accounts payable, net of payments made to date, in the accompanying consolidated balance sheets. The Company does not believe it is probable that the losses in excess of such trade payables will be incurred.
+
+ 
+
+On November 9, 2022, a vendor filed a lawsuit against Digital Brand’s Group related to prior services rendered. The claims (including fines, fees, and legal expenses) total an aggregate of $50,190. The matter was settled in January 2023 and are on payment plans which will be paid off in the second quarter of 2024.
+
+ 
+
+In August 2020 and March 2021, two lawsuits were filed against Bailey’s by third parties related to prior services rendered. The claims (including fines, fees, and legal expenses) total an aggregate of $96,900. Both matters were settled in February 2022 and are on payment plans which will be paid off in the second quarter of 2024.
+
+ 
+
+On December 21, 2020, a Company investor filed a lawsuit against DBG for reimbursement of their investment totaling $100,000. Claimed amounts are included in short-term convertible note payable in the accompanying consolidated balance sheets and the Company does not believe it is probable that losses in excess of such short-term note payable will be incurred. The Company is actively working to resolve this matter.
+
+ 
+
+On November 16, 2023 a vendor filed a lawsuit against Digital Brands Group related to trade payables totaling approximately $345,384, which represents past due fees and late fees. Such amounts are included in the accompanying balance sheets. The Company does not believe it is probable that the losses in excess of such pay trade payables will be incurred.
+
+ 
+
+On November 15, 2023 a vendor filed a lawsuit against Digital Brands Group related to trade payables totaling approximately $582,208, which represents “double damages.” The amount due to the vendor is $292,604. Such amounts are included in the accompanying balance sheets. The Company does not believe it is probable that the losses in excess of such pay trade payables will be incurred.
+
+ 
+
+On December 21, 2023, a former employee from over two years ago filed a wrongful termination lawsuit against the Company. The Company is disputing this claim. To this point, this same law firm recently sent a demand letter for another wrongful termination of a temporary worker we used from a third party placement agency. This person was not a Company employee at any time.
+
+ 
+
+A vendor filed a lawsuit against Bailey 44 related to a retail store lease in the amount of $1.5 million. The Company is disputing the claim for damages and the matter is ongoing. The vendor has recently updated the claim to now be $450,968 after signing a long-term lease with another brand for this location. The Company is disputing this new amount after review of the lease.
+
+ 
+
+All claims above, to the extent management believes it will be liable, have been included in accounts payable and accrued expenses and other liabilities in the accompanying consolidated balance sheet as of March 31, 2024.
+
+ 
+
+Depending on the nature of the proceeding, claim, or investigation, we may be subject to monetary damage awards, fines, penalties, or injunctive orders. Furthermore, the outcome of these matters could materially adversely affect our business, results of operations, and financial condition. The outcomes of legal proceedings, claims, and government investigations are inherently unpredictable and subject to significant judgment to determine the likelihood and amount of loss related to such matters. While it is not possible to determine the outcomes, we believe based on our current knowledge that the resolution of all such pending matters will not, either individually or in the aggregate, have a material adverse effect on our business, results of operations, cash flows, or financial condition.
+
+ 
+
+Except as may be set forth above the Company is not a party to any legal proceedings, and the Company is not aware of any claims or actions pending or threatened against us. In the future, the Company might from time to time become involved in litigation relating to claims arising from its ordinary course of business, the resolution of which the Company does not anticipate would have a material adverse impact on our financial position, results of operations or cash flows.
+
+ 
+
+                                                                   19
+
+
+
+Table of Contents
+
+ 
+
+NOTE 12: INCOME TAXES
+
+ 
+
+The Company has historically calculated the provision for income taxes during interim reporting periods by applying an estimate of the annual effective tax rate for the full fiscal year to “ordinary” income or loss (pretax income or loss excluding unusual or infrequently occurring discrete items) for the reporting period. The Company has used a discrete effective tax rate method to calculate taxes for the fiscal three month periods ended March 31, 2024. The Company determined that since small changes in estimated “ordinary” income would result in significant changes in the estimated annual effective tax rate, the historical method would not provide a reliable estimate for the fiscal three month period ended March 31, 2024.
+
+The Company recognizes deferred tax assets to the extent that it believes that these assets are more likely than not to be realized. In making such a determination, the Company considers all available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax-planning strategies, and results of recent operations. The Company assessed the need for a valuation allowance against its net deferred tax assets and determined a full valuation allowance is required due, cumulative losses through March 31, 2024, and no history of generating taxable income.
+
+ 
+
+NOTE 13: SUBSEQUENT EVENTS
+
+ 
+
+Target Capital Convertible Promissory Note
+
+ 
+
+On April 30, 2024 (the “Issue Date”), the Company issued a convertible promissory note in the original principal amount of $250,000 (the “Note”) to Target Capital 1 LLC, an Arizona limited liability company (the “Note Holder”), with a maturity date of April 30, 2025 (the “Maturity Date”). Pursuant to the terms of the Note, the Company agreed to pay the principal sum and a one-time interest charge of $50,000 to the Note Holder. The Note Holder may convert the Note into the Company’s common stock, par value of $0.0001 per share (the “Common Stock”), at any time at a price of $3.50 per share, subject to beneficial ownership limitations contained in the Note. The Company will issue 50,000 shares of restricted Common Stock (the “Commitment Shares”) to the Note Holder within ten (10) calendar days after the Issue Date, as a commitment fee. If this Note is not repaid in cash or converted into Common Stock by October 31, 2024 (the “Trigger Date”), then the Company shall issue an additional 50,000 shares of restricted Common Stock to the Holder within ten (10) calendar days after the Trigger Date. The Note contains customary events of default relating to, among other things, payment defaults, breach of representations and warranties, and breach of covenants.
+
+ 
+
+Securities Purchase Agreement
+
+ 
+
+On or about August 31, 2023, the Company entered into a securities purchase agreement with an accredited investor (the “Investor”), pursuant to which the Company issued on September 5, 2023 those certain Series A warrants to purchase 513,875 shares of Common Stock and Series B warrants to purchase 513,875 shares of Common Stock (collectively, the “Existing Warrants”), amongst other securities.
+
+ 
+
+On May 3, 2024, the Company entered into that certain inducement offer to exercise common stock purchase warrants with the Investor (the “Inducement Agreement”), pursuant to which (i) the Company agreed to lower the exercise price of the Existing Warrants to $3.13 per share and (ii) the Investor agreed to exercise the Existing Warrants into 1,027,750 shares of Common Stock (the “Exercise Shares”) by payment of the aggregate exercise price of $3,216,857.50 (gross proceeds before expenses, including but not limited to fees to H.C. Wainwright & Co., LLC (the “Placement Agent”), the exclusive placement agent in connection therewith). The closing occurred on May 7, 2024 (the “Closing Date”). The Exercise Shares were issued in accordance with the beneficial ownership limitations in the Inducement Agreement. From May 3, 2024 until sixty (60) days after the Closing Date, subject to certain exception, neither the Company nor any subsidiary of the Company shall (i) issue, enter into any agreement to issue or announce the issuance or proposed issuance of any Common Stock or Common Stock equivalents (subject to customary carve outs for certain exempt issuances) or (ii) file any registration statement or any amendment or supplement to any existing registration statement. The Inducement Agreement also contains customary representations, warranties, closing conditions, and restrictive covenants.
+
+ 
+
+Pursuant to the Inducement Agreement, the Company issued to the Investor a new unregistered Series A-1 common share purchase warrant to purchase up to 1,027,750 shares of Common Stock (“Series A-1 Warrant”) and Series B-1 common share purchase warrant to purchase up to 1,027,750 shares of Common Stock (“Series B-1 Warrant”, and collectively with the Series A-1 Warrant, the “New Warrants”) pursuant to Section 4(a)(2) of the Securities Act of 1933, as amended (“Securities Act”), each at an initial exercise price equal to $2.88 per share of Common Stock. The Series A-1 Warrant are exercisable immediately upon issuance and expires five and one-half (5.5) years following the issuance date and the Series B-1 Warrant are exercisable immediately upon issuance and expires fifteen (15) months following the issuance date. The Company is required to file a registration statement (the “Resale Registration Statement”) within 30 calendar days of the date of the Inducement Agreement providing for the resale of the Common Stock underlying the New Warrants (the “New Warrant Shares”) by the Investor. The Company shall use commercially reasonable efforts to cause the Resale Registration Statement to become effective within 60 calendar days following the date of the Inducement Agreement and shall use commercially reasonable efforts to keep the Resale Registration Statement effective at all times until no holder owns any New Warrants or New Warrant Shares.
+
+ 
+
+Pursuant to that certain engagement letter entered into by the Company and the Placement Agent, as amended, the Company paid the Placement Agent (i) an aggregate cash fee equal to 7.5% of the gross proceeds from the exercise of the Existing Warrants and (ii) a management fee equal to 1.0% of the gross proceeds from the exercise of the Existing Warrants. The Company also paid to the Placement Agent $50,000 for non-accountable expenses and $15,950 for its clearing fee. In connection with the closing, the Company also issued to the Placement Agent, or its designees, a common stock purchase warrant for the purchase of up to 77,081 shares of Common Stock (the “PA Warrants”) pursuant to Section 4(a)(2) of the Securities Act. The PA Warrants have the same terms as the Series A-1 Warrants, except that the PA Warrants have an exercise price of $3.9125 per share.
+
+ 
+
+Additionally, upon exercise, if any, of the New Warrants for cash, the Company shall pay the Placement Agent, (i) a cash fee of 7.5% of the aggregate gross exercise price paid in cash with respect thereto and (ii) a management fee of 1.0% of the aggregate gross exercise price paid in cash with respect thereto. In addition, upon any exercise for cash of the New Warrants, the Company shall issue to Placement Agent or its designees, warrants to purchase the number of shares of Common Stock equal to 7.5% of the aggregate number of shares of Common Stock underlying such New Warrants that have been exercised.
+
+ 
+
+                                                                   20
+
+
+
+Table of Contents
+
+ 
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the historical financial statements of the relevant entities and the pro forma financial statements and the notes thereto included elsewhere in this Quarterly Report on Form 10-Q. This discussion and analysis contains forward-looking statements that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements.”
+
+ 
+
+Unless otherwise indicated by the context, references to “DBG” refer to Digital Brands Group, Inc. solely, and references to the “Company,” “our,” “we,” “us” and similar terms refer to Digital Brands Group, Inc., together with its wholly-owned subsidiaries Bailey 44, LLC (“Bailey”), MOSBEST, LLC (“Stateside”) and Sunnyside (“Sundry”).
+
+ 
+
+Some of the statements contained in this discussion and analysis or set forth elsewhere in this Quarterly Report on Form 10-Q, including information with respect to our plans and strategy for our business, constitute forward looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). We have based these forward-looking statements on our current expectations and projections about future events. The following information and any forward-looking statements should be considered in light of factors discussed elsewhere in this Quarterly Report on Form 10-Q, particularly including those risks identified in Part II-Item 1A “Risk Factors” and our other filings with the Securities and Exchange Commission (the “SEC”).
+
+ 
+
+Our actual results and timing of certain events may differ materially from the results discussed, projected, anticipated, or indicated in any forward-looking statements. We caution you that forward-looking statements are not guarantees of future performance and that our actual results of operations, financial condition and liquidity, and the development of the industry in which we operate may differ materially from the forward-looking statements contained in this Quarterly Report on Form 10-Q. Statements made herein are as of the date of the filing of this Form 10-Q with the SEC and should not be relied upon as of any subsequent date. Even if our results of operations, financial condition and liquidity, and the development of the industry in which we operate are consistent with the forward-looking statements contained in this Quarterly Report on Form 10-Q, they may not be predictive of results or developments in future periods. We disclaim any obligation, except as specifically required by law and the rules of the SEC, to publicly update or revise any such statements to reflect any change in our expectations or in events, conditions or circumstances on which any such statements may be based or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements.
+
+ 
+
+Business Overview
+
+ 
+
+Recent Developments
+
+ 
+
+Retail Store
+
+ 
+
+We entered into a retail store sublease for approximately 3.5 years at the Simon Premium Outlet in Allen, TX, a suburb of Dallas. We opened the store in mid April 2024. We expect the store to generate meaningful cash flow as we already have excess product that we can sell, which means we will not have to use cash to create inventory for sale. We expect the store to generate over $1.5 million in annual revenue and over $500,000 in free cash flow on an annual basis.
+
+ 
+
+                                                                   21
+
+
+
+Table of Contents
+
+ 
+
+Nasdaq Listing
+
+ 
+
+On May 23, 2023, The Nasdaq Stock Market LLC (“Nasdaq”) notified the Company that it had determined to delist the Company’s shares as the Company no longer satisfied the $35,000,000 market value of listed securities requirement, or the alternative $2,500,000 stockholders’ equity requirement, as set forth in Listing Rule 5550(b) (the “Equity Rule”), for continued listing on The Nasdaq Capital Market. On May 30, 2023, the Company requested a hearing before a Nasdaq Hearings Panel (the “Panel”). On June 28, 2023, Nasdaq issued an additional delist determination based upon the Company’s non-compliance with the minimum bid price requirement. The hearing was held on July 13, 2023, and by decision dated July 27, 2023, the Panel granted the Company’s request for an extension to evidence compliance with all applicable continued listing criteria, through September 15, 2023.
+
+ 
+
+On September 20, 2023, the Company was formally notified by Nasdaq that it had evidenced full compliance with all requirements for continued listing on The Nasdaq Capital Market, including the bid price requirement and the Equity Rule.
+
+ 
+
+The Company remained subject to a “Panel Monitor” as that term is defined under Nasdaq Listing Rule 5815(d)(4)(A), through September 20, 2024. Under the terms of the Panel Monitor, in the event the Company fails to satisfy any requirement for continued listing on The Nasdaq Capital Market during the monitoring period, the Company will be required to request a hearing before the Panel in order to maintain its listing rather than taking the interim step of submitting a compliance plan for the Listing Qualifications Staff’s review or receiving any otherwise applicable grace period.
+
+ 
+
+In the Company’s Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on April 15, 2024, the Company reported stockholders’ equity of $1,602,592 and, therefore, no longer complied with the Equity Rule. On April 22, 2024, Nasdaq notified the Company that, given the Panel Monitor, unless the Company timely requests a hearing before a Panel, the Company’s securities would be subject to delisting from Nasdaq. The Company timely requested a hearing before the Panel. The hearing request automatically stayed any suspension or delisting action pending the hearing and the expiration of any additional extension period granted by the Panel following the hearing. In that regard, pursuant to the Listing Rules, the Panel has the authority to grant an additional extension period not to exceed October 21, 2024.
+
+ 
+
+Notwithstanding the foregoing, there can be no assurance that the Panel will grant the Company a further extension or that the Company will ultimately regain compliance with all applicable requirements for continued listing.
+
+ 
+
+Target Capital Convertible Promissory Note
+
+ 
+
+On April 30, 2024 (the “Issue Date”), the Company issued a convertible promissory note in the original principal amount of $250,000 (the “Note”) to Target Capital 1 LLC, an Arizona limited liability company (the “Note Holder”), with a maturity date of April 30, 2025 (the “Maturity Date”). Pursuant to the terms of the Note, the Company agreed to pay the principal sum and a one-time interest charge of $50,000 to the Note Holder. The Note Holder may convert the Note into the Company’s common stock, par value of $0.0001 per share (the “Common Stock”), at any time at a price of $3.50 per share, subject to beneficial ownership limitations contained in the Note. The Company agreed to issue 50,000 shares of restricted Common Stock (the “Commitment Shares”) to the Note Holder within ten (10) calendar days after the Issue Date, as a commitment fee. If this Note is not repaid in cash or converted into Common Stock by October 31, 2024 (the “Trigger Date”), then the Company shall issue an additional 50,000 shares of restricted Common Stock to the Holder within ten (10) calendar days after the Trigger Date. The Note contains customary events of default relating to, among other things, payment defaults, breach of representations and warranties, and breach of covenants.
+
+ 
+
+Our Company
+
+ 
+
+Digital Brands Group is a curated collection of lifestyle brands, including Bailey 44, DSTLD, Stateside, Sundry and ACE Studios, that offers a variety of apparel products through direct-to-consumer and wholesale distribution. Our complementary brand portfolio provides us with the unique opportunity to cross merchandise our brands. We aim for our customers to wear our brands head to toe and to capture what we call “closet share” by gaining insight into their preferences to create targeted and personalized content specific to their cohort. Operating our brands under one portfolio provides us with the ability to better utilize our technological, human capital and operational capabilities across all brands. As a result, we have been able to realize operational efficiencies and continue to identify additional cost saving opportunities to scale our brands and overall portfolio.
+
+ 
+
+                                                                   22
+
+
+
+Table of Contents
+
+ 
+
+Our portfolio consists of four significant brands that leverage our three channels: our websites, wholesale and our own stores.
+
+ 
+
+● Bailey 44 combines beautiful, luxe fabrics and on-trend designs to create sophisticated ready-to-wear capsules for women on-the-go. Designing for real life, this brand focuses on feeling and comfort rather than how it looks on a runway. Bailey 44 is primarily a wholesale brand, which we are transitioning to a digital, direct-to-consumer brand.
+
+ 
+
+● DSTLD offers stylish high-quality garments without the luxury retail markup valuing customer experience over labels. DSTLD is primarily a digital direct-to-consumer brand, to which we recently added select wholesale retailers to generate brand awareness.
+
+ 
+
+● Stateside is an elevated, America first brand with all knitting, dyeing, cutting and sewing sourced and manufactured locally in Los Angeles. The collection is influenced by the evolution of the classic T-shirt offering a simple yet elegant look. Stateside is primarily a wholesale brand that we will be transitioning to a digital, direct-to-consumer brand.
+
+ 
+
+● Sundry offers distinct collections of women’s clothing, including dresses, shirts, sweaters, skirts, shorts, athleisure bottoms and other accessory products. Sundry’s products are coastal casual and consist of soft, relaxed and colorful designs that feature a distinct French chic, resembling the spirits of the French Mediterranean and the energy of Venice Beach in Southern California. Sundry is primarily a wholesale brand that we will be transitioning to a digital, direct-to-consumer brand.
+
+ 
+
+We believe that successful apparel brands sell in all revenue channels. However, each channel offers different margin structures and requires different customer acquisition and retention strategies. We were founded as a digital-first retailer that has strategically expanded into select wholesale and direct retail channels. We strive to strategically create omnichannel strategies for each of our brands that blend physical and online channels to engage consumers in the channel of their choosing. Our products are sold direct-to-consumers principally through our websites and our own showrooms, but also through our wholesale channel, primarily in specialty stores and select department stores. With the continued expansion of our wholesale distribution, we believe developing an omnichannel solution further strengthens our ability to efficiently acquire and retain customers while also driving high customer lifetime value.
+
+ 
+
+We believe that by leveraging a physical footprint to acquire customers and increase brand awareness, we can use digital marketing to focus on retention and a very tight, disciplined high value new customer acquisition strategy, especially targeting potential customers lower in the sales funnel. Building a direct relationship with the customer as the customer transacts directly with us allows us to better understand our customer’s preferences and shopping habits. Our substantial experience as a company originally founded as a digitally native-first retailer gives us the ability to strategically review and analyze the customer’s data, including contact information, browsing and shopping cart data, purchase history and style preferences. This in turn has the effect of lowering our inventory risk and cash needs since we can order and replenish product based on the data from our online sales history, replenish specific inventory by size, color and SKU based on real times sales data, and control our mark-down and promotional strategies versus being told what mark downs and promotions we have to offer by the department stores and boutique retailers.
+
+ 
+
+We define “closet share” as the percentage (“share”) of a customer’s clothing units that (“of closet”) she or he owns in her or his closet and the amount of those units that go to the brands that are selling these units. For example, if a customer buys 20 units of clothing a year and the brands that we own represent 10 of those units purchased, then our closet share is 50% of that customer’s closet, or 10 of our branded units divided by 20 units they purchased in entirety. Closet share is a similar concept to the widely used term wallet share, it is just specific to the customer’s closet. The higher our closet share, the higher our revenue as higher closet share suggests the customer is purchasing more of our brands than our competitors.
+
+ 
+
+We have strategically expanded into an omnichannel brand offering these styles and content not only on-line but at selected wholesale and retail storefronts. We believe this approach allows us opportunities to successfully drive Lifetime Value (“LTV”) while increasing new customer growth. We define Lifetime Value or LTV as an estimate of the average revenue that a customer will generate throughout their lifespan as our customer. This value/revenue of a customer helps us determine many economic decisions, such as marketing budgets per marketing channel, retention versus acquisition decisions, unit level economics, profitability and revenue forecasting.
+
+ 
+
+We acquired Bailey in February 2020, Stateside in August 2021 and Sundry in December 2022. We agreed on the consideration that we paid in each acquisition in the course of arm’s length negotiations with the holders of the membership interests in each of Bailey, H&J, Stateside and Sundry. In determining and negotiating this consideration, we relied on the experience and judgment of our management and our evaluation of the potential synergies that could be achieved in combining the operations of Bailey, Stateside and Sundry. We did not obtain independent valuations, appraisals or fairness opinions to support the consideration that we paid/agreed to pay.
+
+ 
+
+                                                                   23
+
+
+
+Table of Contents
+
+ 
+
+Material Trends, Events and Uncertainties
+
+ 
+
+Supply Chain Disruptions
+
+ 
+
+We are subject to global supply chain disruptions, which may include longer lead times for raw fabrics, inbound shipping and longer production times. Supply chain issues have specifically impacted the following for our brands:
+
+ 
+
+● Increased costs in raw materials from fabric prices, which have increased 10% to 100% depending on the fabric, the time of year, and the origin of the fabric, as well as where the fabric is being shipped;
+
+ 
+
+● Increased cost per kilo to ship via sea or air, which has increased from 25% to 300% depending on the time of year and from the country we are shipping from;
+
+ 
+
+● Increased transit time via sea or air, which have increased by two weeks to two months; and
+
+ 
+
+● Increased labor costs for producing the finished goods, which have increased 5% to 25% depending on the country and the labor skill required to produce the goods. We have been able to pass along some of these increased costs and also offset some of these increased costs with higher gross margin online revenue
+
+ 
+
+Seasonality
+
+ 
+
+Our quarterly operating results vary due to the seasonality of our individual brands and are historically stronger in the second half of the calendar year.
+
+ 
+
+Substantial Indebtedness
+
+ 
+
+As of March 31, 2024, we had an aggregate principal amount of debt outstanding of approximately $9.1 million. We believe this is an amount of indebtedness which may be considered significant for a company of our size and current revenue base. Our substantial debt could have important consequences to us. For example, it could:
+
+ 
+
+● make it more difficult for us to satisfy our obligations to the holders of our outstanding debt, resulting in possible defaults on and acceleration of such indebtedness;
+
+ 
+
+● require us to dedicate a substantial portion of our cash flows from operations to make payments on our debt, which would reduce the availability of our cash flows from operations to fund working capital, capital expenditures or other general corporate purposes;
+
+ 
+
+● increase our vulnerability to general adverse economic and industry conditions, including interest rate fluctuations;
+
+ 
+
+● place us at a competitive disadvantage to our competitors with proportionately less debt for their size;
+
+ 
+
+● limit our ability to refinance our existing indebtedness or borrow additional funds in the future;
+
+ 
+
+● limit our flexibility in planning for, or reacting to, changing conditions in our business; and
+
+ 
+
+● limit our ability to react to competitive pressures or make it difficult for us to carry out capital spending that is necessary or important to our growth strategy.
+
+ 
+
+Any of the foregoing impacts of our substantial indebtedness could have a material adverse effect on our business, financial condition and results of operations.
+
+ 
+
+                                                                   24
+
+
+
+Table of Contents
+
+ 
+
+We currently have $3.5 million in notes outstanding pursuant to our Bailey acquisition. We are currently unable to repay or refinance borrowings so any such action by these lenders could force us into bankruptcy or liquidation.
+
+ 
+
+In addition, our ability to make scheduled payments on our indebtedness or to refinance our obligations under our debt agreements, will depend on our financial and operating performance, which, in turn, will be subject to prevailing economic and competitive conditions and to the financial and business risk factors we face as described in this section, many of which may be beyond our control. We may not be able to maintain a level of cash flows from operating activities sufficient to permit us to pay the principal, premium, if any, and interest on our indebtedness.
+
+ 
+
+If our cash flows and capital resources are insufficient to fund our debt service obligations, we may be forced to reduce or delay capital expenditures or planned growth objectives, seek to obtain additional equity capital or restructure our indebtedness. In the future, our cash flows and capital resources may not be sufficient for payments of interest on and principal of our debt, and such alternative measures may not be successful and may not permit us to meet scheduled debt service obligations. In addition, the recent worldwide credit crisis could make it more difficult for us to refinance our indebtedness on favorable terms, or at all.
+
+ 
+
+In the absence of such operating results and resources, we may be required to dispose of material assets to meet our debt service obligations. We may not be able to consummate those sales, or, if we do, we will not control the timing of the sales or whether the proceeds that we realize will be adequate to meet debt service obligations when due.
+
+ 
+
+Performance Factors
+
+ 
+
+We believe that our future performance will depend on many factors, including the following:
+
+ 
+
+Ability to Increase Our Customer Base in both Online and Traditional Wholesale Distribution Channels
+
+ 
+
+We are currently growing our customer base through both paid and organic online channels, as well as by expanding our presence in a variety of physical retail distribution channels. Online customer acquisitions typically occur at our direct websites for each brand. Our online customer acquisition strategies include paid and unpaid social media, search, display and traditional media. Our products for Bailey, DSTLD and Stateside are also sold through a growing number of physical retail channels, including specialty stores, department stores and online multi-brand platforms.
+
+ 
+
+Ability to Acquire Customers at a Reasonable Cost
+
+ 
+
+We believe an ability to consistently acquire customers at a reasonable cost relative to customer retention rates, contribution margins and projected life-time value will be a key factor affecting future performance. To accomplish this goal, we intend to balance advertising spend between online and offline channels, as well as cross marketing and cross merchandising our portfolio brands and their respective products. We believe the ability to cross merchandise products and cross market brands, will decrease our customer acquisition costs while increasing the customer’s lifetime value and contribution margin. We will also balance marketing spend with advertising focused on creating emotional brand recognition, which we believe will represent a lower percentage of our spend.
+
+ 
+
+Ability to Drive Repeat Purchases and Customer Retention
+
+ 
+
+We accrue substantial economic value and margin expansion from customer cohort retention and repeat purchases of our products on an annual basis. Our revenue growth rate and operating margin expansion will be affected by our customer cohort retention rates and the cohorts annual spend for both existing and newly acquired customers.
+
+ 
+
+Ability to Expand Our Product Lines
+
+ 
+
+Our goal is to expand our product lines over time to increase our growth opportunity. Our customer’s annual spend and brand relevance will be driven by the cadence and success of new product launches.
+
+ 
+
+                                                                   25
+
+
+
+Table of Contents
+
+ 
+
+Ability to Expand Gross Margins
+
+ 
+
+Our overall profitability will be impacted by our ability to expand gross margins through effective sourcing and leveraging buying power of finished goods and shipping costs, as well as pricing power over time.
+
+ 
+
+Ability to Expand Operating Margins
+
+ 
+
+Our ability to expand operating margins will be impacted by our ability to leverage (1) fixed general and administrative costs, (2) variable sales and marketing costs, (3) elimination of redundant costs as we acquire and integrate brands, (4) cross marketing and cross merchandising brands in our portfolio, and (4) drive customer retention and customer lifetime value. Our ability to expand operating margins will result from increasing revenue growth above our operating expense growth, as well as increasing gross margins. For example, we anticipate that our operating expenses will increase substantially in the foreseeable future as we undertake the acquisition and integration of different brands, incur expenses associated with maintaining compliance as a public company, and increased marketing and sales efforts to increase our customer base. While we anticipate that the operating expenses in absolute dollars will increase, we do not anticipate that the operating expenses as a percentage of revenue will increase. We anticipate that the operating expenses as a percentage of revenue will decrease as we eliminate duplicative costs across brands including a reduction in similar labor roles, contracts for technologies and operating systems and creating lower costs from higher purchasing power from shipping expenses to purchase orders of products. This reduction of expenses and lower cost per unit due to purchasing power should create meaningful savings in both dollars and as a percentage of revenue.
+
+ 
+
+As an example, we were able to eliminate several million in expenses within six months of acquiring Bailey. Examples of these savings include eliminating several Bailey teams, which our teams took over.
+
+ 
+
+We merged over half of the technology contracts and operating systems contracts from two brands into one brand contract at significant savings. We also eliminated our office space and rent and moved everyone into the Bailey office space. Finally, we eliminated DSTLD’s third-party logistics company and started using Bailey’s internal logistics. This resulted in an increase in our operating expenses in absolute dollars as there were now two brands versus one brand. However, the operating expenses as a percentage of pre-COVID revenue declined meaningfully and as we increase revenue for each brand, we expect to experience higher margins.
+
+ 
+
+Ability to Create Free Cash Flow
+
+ 
+
+Our goal is to achieve near term free cash flow through cash flow positive acquisitions, elimination of redundant expenses in acquired companies, increasing customer annual spend and lowering customer acquisition costs through cross merchandising across our brand portfolio.
+
+ 
+
+Components of Our Results of Operations
+
+ 
+
+Bailey
+
+ 
+
+Net Revenue
+
+ 
+
+Bailey sells its products directly to customers. Bailey also sells its products indirectly through wholesale channels that include third-party online channels and physical channels such as specialty retailers and department stores.
+
+ 
+
+Cost of Net Revenue
+
+ 
+
+Bailey’s cost of net revenue includes the direct cost of purchased and manufactured merchandise; inventory shrinkage; inventory adjustments due to obsolescence including excess and slow-moving inventory and lower of cost and net realizable reserves; duties; and inbound freight. Cost of net revenue also includes direct labor to production activities such as pattern makers, cutters and sewers. Cost of net revenue includes an allocation of overheard costs such as rent, utilities and commercial insurance pertaining to direct inventory activities.
+
+ 
+
+                                                                   26
+
+
+
+Table of Contents
+
+ 
+
+Operating Expenses
+
+ 
+
+Bailey’s operating expenses include all operating costs not included in cost of net revenues and sales and marketing. These costs consist of general and administrative, fulfillment and shipping expense to the customer.
+
+ 
+
+General and administrative expenses consist primarily of all payroll and payroll-related expenses, professional fees, insurance, software costs, occupancy expenses related to Bailey’s operations at its headquarters, including utilities, depreciation and amortization, and other costs related to the administration of its business.
+
+ 
+
+Bailey’s fulfillment and shipping expenses include the cost to operate its warehouse including occupancy and labor costs to pick and pack customer orders and any return orders; packaging; and shipping costs to the customer from the warehouse and any returns from the customer to the warehouse.
+
+ 
+
+Sales & Marketing
+
+ 
+
+Bailey’s sales and marketing expense primarily includes digital advertising; photo shoots for wholesale and direct-to-consumer communications, including email, social media and digital advertisements; and commission expenses associated with sales representatives.
+
+ 
+
+Interest Expense
+
+ 
+
+Bailey’s interest expense consists primarily of interest related to its outstanding debt to our senior lender.
+
+ 
+
+DBG
+
+ 
+
+Net Revenue
+
+ 
+
+We sell our products to our customers directly through our website. In those cases, sales, net represents total sales less returns, promotions and discounts.
+
+ 
+
+Cost of Net Revenue
+
+ 
+
+Cost of net revenue include direct cost of purchased merchandise; inventory shrinkage; inventory adjustments due to obsolescence, including excess and slow-moving inventory and lower of cost and net realizable reserves.
+
+ 
+
+Operating Expenses
+
+ 
+
+Our operating expenses include all operating costs not included in cost of net revenues. These costs consist of general and administrative, sales and marketing, and fulfillment and shipping expense to the customer.
+
+General and administrative expenses consist primarily of all payroll and payroll-related expenses, professional fees, insurance, software costs, and expenses related to our operations at our headquarters, including utilities, depreciation and amortization, and other costs related to the administration of our business.
+
+ 
+
+We expect to continue to incur additional expenses as a result of operating as a public company, including costs to comply with the rules and regulations applicable to companies listed on a national securities exchange, costs related to compliance and reporting obligations pursuant to the rules and regulations of the SEC and higher expenses for insurance, investor relations and professional services. We expect these costs will increase our operating costs.
+
+ 
+
+Fulfillment and shipping expenses include the cost to operate our warehouse — or prior to Bailey 44 acquisition, costs paid to our third-party logistics provider — including occupancy and labor costs to pick and pack customer orders and any return orders; packaging; and shipping costs to the customer from the warehouse and any returns from the customer to the warehouse.
+
+ 
+
+In addition, going forward, the amortization of the identifiable intangibles acquired in the acquisitions will be included in operating expenses.
+
+ 
+
+                                                                   27
+
+
+
+Table of Contents
+
+ 
+
+Interest Expense
+
+ 
+
+Interest expense consists primarily of interest related to our debt outstanding to our senior lender, convertible debt, and other interest bearing liabilities.
+
+ 
+
+Stateside
+
+ 
+
+Net Revenue
+
+ 
+
+Stateside sells its products directly to customers. Stateside also sells its products indirectly through wholesale channels that include third-party online channels and physical channels such as specialty retailers and department stores.
+
+ 
+
+Cost of Net Revenue
+
+ 
+
+Stateside’s cost of net revenue includes the direct cost of purchased and manufactured merchandise; inventory shrinkage; inventory adjustments due to obsolescence including excess and slow-moving inventory and lower of cost and net realizable reserves; duties; and inbound freight. Cost of net revenue also includes direct labor to production activities such as pattern makers, cutters and sewers. Cost of net revenue includes an allocation of overheard costs such as rent, utilities and commercial insurance pertaining to direct inventory activities.
+
+ 
+
+Operating Expenses
+
+ 
+
+Stateside’s operating expenses include all operating costs not included in cost of net revenues and sales and marketing. These costs consist of general and administrative, fulfillment and shipping expense to the customer.
+
+ 
+
+General and administrative expenses consist primarily of all payroll and payroll-related expenses, professional fees, insurance, software costs, occupancy expenses related to Stateside’s stores and to Stateside’s operations at its headquarters, including utilities, depreciation and amortization, and other costs related to the administration of its business.
+
+ 
+
+Stateside’s fulfillment and shipping expenses include the cost to operate its warehouse including occupancy and labor costs to pick and pack customer orders and any return orders; packaging; and shipping costs to the customer from the warehouse and any returns from the customer to the warehouse.
+
+ 
+
+Sales & Marketing
+
+ 
+
+Stateside’s sales and marketing expense primarily includes digital advertising; photo shoots for wholesale and direct-to-consumer communications, including email, social media and digital advertisements; and commission expenses associated with sales representatives.
+
+ 
+
+Sundry
+
+ 
+
+Net Revenue
+
+ 
+
+Sundry sells its products directly to customers. Sundry also sells its products indirectly through wholesale channels that include third-party online channels and physical channels such as specialty retailers and department stores.
+
+ 
+
+Cost of Net Revenue
+
+ 
+
+Sundry’s cost of net revenue includes the direct cost of purchased and manufactured merchandise; inventory shrinkage; inventory adjustments due to obsolescence including excess and slow-moving inventory and lower of cost and net realizable reserves; duties; and inbound freight. Cost of net revenue also includes direct labor to production activities such as pattern makers, cutters and sewers. Cost of net revenue includes an allocation of overheard costs such as rent, utilities and commercial insurance pertaining to direct inventory activities.
+
+ 
+
+                                                                   28
+
+
+
+Table of Contents
+
+ 
+
+Operating Expenses
+
+ 
+
+Our operating expenses include all operating costs not included in cost of net revenues. These costs consist of general and administrative, sales and marketing, and fulfillment and shipping expense to the customer.
+
+ 
+
+General and administrative expenses consist primarily of all payroll and payroll-related expenses, stock-based compensation, professional fees, insurance, software costs, and expenses related to our operations at our headquarters, including utilities, depreciation and amortization, and other costs related to the administration of our business.
+
+ 
+
+Sales and marketing expense primarily includes digital advertising; photo shoots for wholesale and direct-to-consumer communications, including email, social media and digital advertisements; and commission expenses associated with sales representatives.
+
+ 
+
+We expect to incur additional expenses as a result of operating as a public company, including costs to comply with the rules and regulations applicable to companies listed on a national securities exchange, costs related to compliance and reporting obligations pursuant to the rules and regulations of the SEC and higher expenses for insurance, investor relations and professional services. We expect these costs will increase our operating costs.
+
+ 
+
+Distribution expenses includes costs paid to our third-party logistics provider, packaging and shipping costs to the customer from the warehouse and any returns from the customer to the warehouse.
+
+ 
+
+At each reporting period, we estimate changes in the fair value of contingent consideration and recognize any change in fair in our consolidated statement of operations, which is included in operating expenses. Additionally, amortization of the identifiable intangibles acquired in the acquisitions is also included in operating expenses.
+
+ 
+
+Interest Expense
+
+ 
+
+Interest expense consists primarily of interest related to our debt outstanding to promissory notes, convertible debt, and other interest bearing liabilities
+
+ 
+
+                                                                   29
+
+
+
+Table of Contents
+
+ 
+
+Results of Operations
+
+ 
+
+Three Months Ended March 31, 2024 compared to Three Months Ended March 31, 2023
+
+ 
+
+The following table presents our results of operations for the three months ended March 31, 2024 and 2023:
+
+ 
+
+                                                                                                      Three Months Ended               
+
+                                                                                                           March 31,                   
+
+                                                                                                 2024                   2023         
+
+Net revenues                                                                             $          3,576,587   $          4,439,508 
+
+Cost of net revenues                                                                                1,885,851              2,420,194 
+
+Gross profit                                                                                        1,720,736              2,019,314 
+
+General and administrative                                                                            971,732              4,460,462 
+
+Sales and marketing                                                                                   708,150                977,154 
+
+Other operating expenses                                                                              265,499                270,185 
+
+Operating loss                                                                                       (224,645)            (3,688,487)
+
+Other expenses                                                                                       (459,090)            (2,543,587)
+
+Loss before provision for income taxes                                                               (683,735)            (2,543,587)
+
+Provision for income taxes                                                                                  -                      - 
+
+Net loss                                                                                 $           (683,735)  $         (6,136,349)
+
+ 
+
+Net Revenues
+
+ 
+
+Revenues decreased by $0.8 million to $3.6 million for the three months ended March 31, 2024, compared to $4.4 million in the corresponding fiscal period in 2023. The decrease was primarily due to a delay in wholesale shipments in April 2024.
+
+ 
+
+Gross Profit
+
+ 
+
+Our gross profit decreased by $0.3 million for the three months ended March 31, 2024 to $1.7 million from a gross profit of $2.0 million for the corresponding fiscal period in 2023. The decrease in gross margin was primarily attributable to a decrease in sales.
+
+ 
+
+Our gross margin was 48.1% for three months ended March 31, 2024, compared to 45.5% for the three months ended March 31, 2023. The increase in gross margin was primarily attributable to the ability to leverage fixed costs across all brands.
+
+ 
+
+Operating Expenses
+
+ 
+
+Our operating expenses decreased by $3.7 million for the three months ended March 31, 2024 to $1.9 million compared to $5.7 million for the corresponding fiscal period in 2023. General and administrative expenses decreased by $3.5 million, and sales and marketing expenses decreased by $0.3 million. The deceases were primarily due to cost cutting measures and synergies from the Sundry acquisition including the elimination of its warehouse, office, fulfillment and redundancies in headcount.
+
+ 
+
+Other Income (Expenses)
+
+ 
+
+Other income (expense) was $0.04 million and $(0.67) million for the three months ended March 31, 2024 and 2023, respectively. In 2023, the Company had $0.7 million in other expense because of loss on extinguishment of debt. The Company had less notes outstanding in 2024 and therefore less amortization of debt discount.
+
+ 
+
+Net Loss from Continuing Operations
+
+ 
+
+Our net loss from continuing operations decreased by $5.5 million to a net loss from continuing operations of $0.7 million for the three months ended March 31, 2024 compared to a net loss from continuing operations of $6.2 million for the corresponding fiscal period in 2023, primarily due to lower other expenses and operating expenses in 2024.
+
+ 
+
+                                                                   30
+
+
+
+Table of Contents
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+Each of DBG, Bailey, Stateside and Sundry has historically satisfied our liquidity needs and funded operations with borrowings, capital raises and internally generated cash flow, Changes in working capital, most notably accounts receivable, are driven primarily by levels of business activity. Historically each of DBG, Bailey, Stateside and Sundry has maintained credit line facilities to support such working capital needs and makes repayments on that facility with excess cash flow from operations.
+
+ 
+
+As of March 31, 2024, we had cash of $0.1 million, but we had a working capital deficit of $15 million. The Company requires significant capital to meet its obligations as they become due. These factors raise substantial doubt about our Company’s ability to continue as a going concern. Throughout the next twelve months, the Company intends to fund its operations primarily from the funds raised through the equity line of credit agreement. The Company may pursue secondary offerings or debt financings to provide working capital and satisfy debt obligations. There can be no assurance as to the availability or terms upon which such financing and capital might be available in the future. If the Company is unable to secure additional funding, it may be forced to curtail or suspend its business plans.
+
+ 
+
+Cash Flow Activities
+
+ 
+
+The following table presents selected captions from our condensed statement of cash flows for the three months ended March 31, 2024 and 2023:
+
+ 
+
+                                                                                                      Three Months Ended               
+
+                                                                                                           March 31,                   
+
+                                                                                                 2024                   2023         
+
+Net cash provided by operating activities:                                                                                           
+
+Net loss                                                                                 $           (683,735)  $         (6,136,349)
+
+Non-cash adjustments                                                                     $          1,721,397   $          3,774,961 
+
+Change in operating assets and liabilities                                               $         (2,278,203)  $            668,867 
+
+Net cash used in operating activities                                                    $         (1,240,541)  $         (1,692,520)
+
+Net cash (used in) provided by investing activities                                      $            (13,785)  $             87,379 
+
+Net cash provided by financing activities                                                $          1,244,883   $          2,291,109 
+
+Net change in cash                                                                       $             (9,443)  $            685,968 
+
+ 
+
+Cash Flows Used In Operating Activities
+
+ 
+
+Our cash used in operating activities decreased by $0.5 million to cash used of $1.2 million for the three months ended March 31, 2024, as compared to cash used of $1.7 million for the corresponding fiscal period in 2023. The increase in net cash used in operating activities was primarily driven by a lower net loss in 2024, partially offset by changes in our operating assets and liabilities,
+
+ 
+
+Cash Flows Provided By Investing Activities
+
+ 
+
+Our cash provided by investing activities was $13,785 in the three months ended March 31, 2024, primarily due to purchase of property, equipment and software.
+
+ 
+
+Our cash provided by investing activities was $87,379 in 2023 due to return of deposits.
+
+ 
+
+Cash Flows Provided by Financing Activities
+
+ 
+
+Cash provided by financing activities was $1.2 million for the three months ended March 31, 2024. Cash inflows included $1.7 million in net proceeds from the issuance from the common stock for cash. Cash outflows are primarily due to $0.5 million in repayments of notes of $0.5 million.
+
+ 
+
+                                                                   31
+
+
+
+Table of Contents
+
+ 
+
+Cash provided by financing activities was $2.3 million for the three months ended March 31, 2023. Cash inflows included $4.3 million in net proceeds from the January Private Transaction, $3.5 million in proceeds from loans and promissory notes and $0.2 million in advances from the factor.
+
+ 
+
+Contractual Obligations and Commitments
+
+ 
+
+As of March 31, 2024, we had $9.1 million in outstanding principal on debt, primarily our promissory notes due to the Bailey44 Sellers, the March 2023 Notes, PPP and merchant advances. Aside from our remaining non-current SBA obligations, all outstanding loans have maturity dates through 2024.
+
+ 
+
+Critical Accounting Policies and Estimates
+
+ 
+
+Our management’s discussion and analysis of financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with generally accepted accounting principles in the United States. The preparation of our consolidated financial statements and related disclosures requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, costs and expenses and the disclosure of contingent assets and liabilities in our financial statements. We base our estimates on historical experience, known trends and events and various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. We evaluate our estimates and assumptions on an ongoing basis. Our actual results may differ from these estimates under different assumptions or conditions.
+
+ 
+
+Emerging Growth Company Status
+
+ 
+
+We are an emerging growth company as that term is used in the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”) and, as such, have elected to comply with certain reduced public company reporting requirements.
+
+ 
+
+Section 107 of the JOBS Act provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We have elected to take advantage of the benefits of this extended transition period. Our financial statements may, therefore, not be comparable to those of companies that comply with such new or revised accounting standards.
+
+ 
+
+Off-Balance Sheet Arrangements
+
+ 
+
+We did not have during the periods presented, and we do not currently have, any off-balance sheet arrangements, as defined in the rules and regulations of the Securities and Exchange Commission.
+
+ 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ 
+
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information required under this item.
+
+ 
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+We maintain “disclosure controls and procedures” as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended, or the Exchange Act, that are designed to ensure that information required to be disclosed in the reports we file and submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and management necessarily applies its judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+
+ 
+
+                                                                   32
+
+
+
+Table of Contents
+
+ 
+
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, who serve as our principal executive officer and principal financial and accounting officer, respectively, has evaluated the effectiveness of our disclosure controls and procedures as of March 31, 2024. In making this evaluation, our management considered the material weakness in our internal control over financial reporting described below. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that our disclosure controls and procedures were not effective as of such date.
+
+ 
+
+We have initiated various remediation efforts, including the hiring of additional financial personnel/consultants with the appropriate public company and technical accounting expertise and other actions that are more fully described below. As such remediation efforts are still ongoing, we have concluded that the material weaknesses have not been fully remediated. Our remediation efforts to date have included the following:
+
+ 
+
+● We have made an assessment of the basis of accounting, revenue recognition policies and accounting period cutoff procedures. In some cases, we made the necessary adjustments to convert the basis of accounting from cash basis to accrual basis. In all cases we have done the required analytical work to ensure the proper cutoff of the financial position and results of operations for the presented accounting periods.
+
+ 
+
+● We have made an assessment of the current accounting personnel, financial reporting and information system environments and capabilities. Based on our preliminary findings, we have found these resources and systems lacking and have concluded that these resources and systems will need to be supplemented and/or upgraded. We are in the process of identifying a single, unified accounting and reporting system that can be used by the Company and Bailey, with the goal of ensuring consistency and timeliness in reporting, real time access to data while also ensuring ongoing data integrity, backup and cyber security procedures and processes.
+
+ 
+
+● We engaged external consultants with public company and technical accounting experience to facilitate accurate and timely accounting closes and to accurately prepare and review the financial statements and related footnote disclosures. We plan to retain these financial consultants until such time that the internal resources of the Company have been upgraded and the required financial controls have been fully implemented.
+
+ 
+
+● We have made an assessment on significant judgments and estimates, including impairment of long-lived assets and inventory valuation. We plan to take the steps as noted above to have the proper resources to conduct proper analyses on areas requiring judgments and estimates.
+
+ 
+
+The actions that have been taken are subject to continued review, implementation and testing by management, as well as audit committee oversight. While we have implemented a variety of steps to remediate these weaknesses, we cannot assure you that we will be able to fully remediate them, which could impair our ability to accurately and timely meet our public company reporting requirements.
+
+ 
+
+Notwithstanding the assessment that our internal controls over financial reporting are not effective and that material weaknesses exist, we believe that we have employed supplementary procedures to ensure that the financial statements contained in this filing fairly present our financial position, results of operations and cash flows for the reporting periods covered herein in all material respects.
+
+ 
+
+Limitations on Effectiveness of Controls and Procedures
+
+ 
+
+Our management, including our Chief Executive Officer (Principal Executive Officer) and Chief Financial Officer (Principal Financial Officer), does not expect that our disclosure controls and procedures will prevent all errors and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include, but are not limited to, the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the control. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+
+ 
+
+Management believes that the material weakness set forth above did not have an effect on our financial results.
+
+ 
+
+Changes in Internal Control over Financial Reporting
+
+ 
+
+No change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during the quarter ended March 31, 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+ 
+
+                                                                   33
+
+
+
+Table of Contents
+
+ 
+
+PART II. OTHER INFORMATION
+
+ 
+
+ITEM 1. LEGAL PROCEEDINGS
+
+ 
+
+We are currently involved in, and may in the future be involved in, legal proceedings, claims, and government investigations in the ordinary course of business. These include proceedings, claims, and investigations relating to, among other things, regulatory matters, commercial matters, intellectual property, competition, tax, employment, pricing, discrimination, consumer rights, personal injury, and property rights. These matters also include the following:
+
+ 
+
+     On March 21, 2023, a vendor filed a lawsuit against Digital Brands Group related to trade payables totaling approximately $43,501.
+
+      Such amounts include interest due, and are included in accounts payable, net of payments made to date, in the accompanying
+
+      consolidated balance sheets. The Company does not believe it is probable that the losses in excess of such trade payables will be
+
+      incurred.
+
+      
+
+     On February 7, 2023, a vendor filed a lawsuit against Digital Brands Group related to trade payables totaling approximately
+
+      $182,400. Such amounts include interest due, and are included in accounts payable, net of payments made to date, in the
+
+      accompanying consolidated balance sheets. The Company does not believe it is probable that the losses in excess of such trade
+
+      payables will be
+
+      incurred.
+
+      
+
+     On November 9, 2022, a vendor filed a lawsuit against Digital Brand’s Group related to prior services rendered. The claims
+
+      (including fines, fees, and legal expenses) total an aggregate of $50,190. The matter was settled in January 2023 and are on
+
+      payment plans which will be paid off in the second quarter of
+
+      2024.
+
+      
+
+     In August 2020 and March 2021, two lawsuits were filed against Bailey’s by third parties related to prior services rendered. The
+
+      claims (including fines, fees, and legal expenses) total an aggregate of $96,900. Both matters were settled in February 2022 and
+
+      are on payment plans which will be paid off in the second quarter of
+
+      2024.
+
+      
+
+     On December 21, 2020, a Company investor filed a lawsuit against DBG for reimbursement of their investment totaling $100,000.
+
+      Claimed amounts are included in short-term convertible note payable in the accompanying consolidated balance sheets and the
+
+      Company does not believe it is probable that losses in excess of such short-term note payable will be incurred. The Company is
+
+      actively working to resolve this
+
+      matter.
+
+      
+
+     On November 16, 2023, a vendor filed a lawsuit against Digital Brands Group related to trade payables totaling approximately
+
+      $345,384, which represents past due fees and late fees. Such amounts are included in the accompanying balance sheets. The Company
+
+      does not believe it is probable that the losses in excess of such pay trade payables will be
+
+      incurred.
+
+      
+
+     On November 15, 2023, a vendor filed a lawsuit against Digital Brands Group related to trade payables totaling approximately
+
+      $582,208, which represents “double damages.” The amount due to the vendor is $292,604. Such amounts are included in the
+
+      accompanying balance sheets. The Company does not believe it is probable that the losses in excess of such pay trade payables
+
+      will be
+
+      incurred.
+
+ 
+
+                                                                   34
+
+
+
+Table of Contents
+
+ 
+
+On December 21, 2023, a former employee from over two years ago filed a wrongful termination lawsuit against the Company. The Company is disputing this claim. To this point, this same law firm recently sent a demand letter for another wrongful termination of a temporary worker we used from a third party placement agency. This person was not a Company employee at any time.
+
+ 
+
+     A vendor filed a lawsuit against Bailey 44 related to a retail store lease in the amount of $1.5 million. The Company is disputing
+
+      the claim for damages and the matter is ongoing. The vendor has recently updated the claim to now be $450,968 after signing a
+
+      long-term lease with another brand for this location. The Company is disputing this new amount after review of the
+
+      lease.
+
+ 
+
+All claims above, to the extent management believes it will be liable, have been included in accounts payable and accrued expenses and other liabilities in the accompanying consolidated balance sheet as of March 31, 2024.
+
+ 
+
+Depending on the nature of the proceeding, claim, or investigation, we may be subject to monetary damage awards, fines, penalties, or injunctive orders. Furthermore, the outcome of these matters could materially adversely affect our business, results of operations, and financial condition. The outcomes of legal proceedings, claims, and government investigations are inherently unpredictable and subject to significant judgment to determine the likelihood and amount of loss related to such matters. While it is not possible to determine the outcomes, we believe based on our current knowledge that the resolution of all such pending matters will not, either individually or in the aggregate, have a material adverse effect on our business, results of operations, cash flows, or financial condition.
+
+ 
+
+ITEM 1A. RISK FACTORS
+
+ 
+
+As a “smaller reporting company” as defined by Item 10 of Regulation S-K, we are not required to provide information required by this Item.
+
+ 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+ 
+
+None.
+
+ 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+ 
+
+None.
+
+ 
+
+ITEM 4. MINE SAFETY DISCLOSURE
+
+ 
+
+Not applicable.
+
+ 
+
+ITEM 5. OTHER INFORMATION
+
+ 
+
+(a) None.
+
+ 
+
+(b) There have been no material changes to the procedures by which security holders may recommend nominees to the Company’s Board of Directors since the Company last provided disclosure in response to the requirements of Item 407(c)(3) of Regulation S-K.
+
+ 
+
+(c) During the quarter ended March 31, 2024, no director or officer of the Company adopted or terminated a contract, instruction or written plan for the purchase or sale of securities of the Company intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) and/or a non-Rule 10b5-1 trading arrangement.
+
+ 
+
+                                                                   35
+
+
+
+Table of Contents
+
+ 
+
+ITEM 6. EXHIBITS
+
+ 
+
+   Exhibit       Description
+
+    Number
+
+      4.1        Form of Series A-1 Common Stock Purchase Warrant (incorporated by reference to Exhibit 4.1 to the Company’s Current
+
+                  Report on Form 8-K filed with the SEC on May 7,
+
+                  2024).
+
+      4.2        Form of Series B-1 Common Stock Purchase Warrant (incorporated by reference to Exhibit 4.2 to the Company’s Current
+
+                  Report on Form 8-K filed with the SEC on May 7,
+
+                  2024).
+
+      4.3        Form of Placement Agent Common Stock Purchase Warrant (incorporated by reference to Exhibit 4.3 to the Company’s
+
+                  Current Report on Form 8-K filed with the SEC on May 7,
+
+                  2024).
+
+     10.1        30% OID Promissory Note, dated October 1, 2023, issued by Digital Brands Group, Inc. in favor of Erinn Thomas-Mackey
+
+                  (incorporated by reference to Exhibit 10.40 to the Company’s Annual Report on Form 10-K for the year ended December
+
+                  31,
+
+                  2023).
+
+     10.2        30% OID Promissory Note, dated October 1, 2023, issued by Digital Brands Group, Inc. in favor of Gary Carr
+
+                  (incorporated by reference to Exhibit 10.41 to the Company’s Annual Report on Form 10-K for the year ended December
+
+                  31,
+
+                  2023).
+
+     10.3        30% OID Promissory Note, dated October 1, 2023, issued by Digital Brands Group, Inc. in favor of Mohsen Khorassani
+
+                  (incorporated by reference to Exhibit 10.42 to the Company’s Annual Report on Form 10-K for the year ended December
+
+                  31,
+
+                  2023).
+
+     10.4        30% OID Promissory Note, dated October 1, 2023, issued by Digital Brands Group, Inc. in favor of 622 Capital, LLC
+
+                  (incorporated by reference to Exhibit 10.43 to the Company’s Annual Report on Form 10-K for the year ended December
+
+                  31,
+
+                  2023).
+
+     10.5        30% OID Promissory Note, dated October 1, 2023, issued by Digital Brands Group, Inc. in favor of Dragon Dynamic
+
+                  Catalytic Bridge Sac Fund (incorporated by reference to Exhibit 10.44 to the Company’s Annual Report on Form 10-K
+
+                  for the year ended December 31,
+
+                  2023).
+
+     10.6        Convertible Promissory Note, dated as of April 30, 2024, by and between Digital Brands Group, Inc. and Target Capital
+
+                  1 LLC (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed with the SEC on
+
+                  May 3,
+
+                  2024).
+
+     10.7        Form of Inducement Offer to Exercise Common Stock Purchase Warrants, dated as of May 3, 2024 (incorporated by
+
+                  reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed with the SEC on May 7,
+
+                  2024).
+
+     31.1*       Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a)
+
+     31.2*       Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a)
+
+    32.1**       Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350
+
+    32.2**       Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350
+
+   101.INS*      Inline XBRL Instance
+
+   101.SCH*      Inline XBRL Taxonomy Extension Schema
+
+   101.CAL*      Inline XBRL Taxonomy Extension Calculation
+
+   101.LAB*      Inline XBRL Taxonomy Extension Labels
+
+   101.PRE*      Inline XBRL Taxonomy Extension Presentation
+
+      104        Cover Page Interactive Data File (embedded within the Inline XBRL and contained in Exhibit 101)
+
+ 
+
+* Filed herewith.
+
+** Furnished herewith
+
+# Indicates management contract or compensatory plan or arrangement.
+
+ 
+
+                                                                   36
+
+
+
+Table of Contents
+
+ 
+
+SIGNATURES
+
+ 
+
+In accordance with the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+                                                                    DIGITAL BRANDS GROUP, INC.
+
+                                                                         
+
+May 20, 2024                                                        By: /s/ John Hilburn Davis, IV
+
+                                                                        John Hilburn Davis, IV, Chief Executive Officer
+
+                                                                         
+
+May 20, 2024                                                        By: /s/ Reid Yeoman
+
+                                                                        Reid Yeoman, Chief Financial Officer
+
+ 
+
+                                                                   37

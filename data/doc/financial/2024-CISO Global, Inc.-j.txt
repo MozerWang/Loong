@@ -1,0 +1,2339 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the Quarterly Period Ended March 31, 2024
+
+ 
+
+or
+
+ 
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the Transition Period from _________ to _________
+
+ 
+
+Commission file number: 001-41227
+
+ 
+
+CISO GLOBAL, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                             Delaware                                                           83-4210278
+
+                 (State or other Jurisdiction of                                             (I.R.S. Employer
+
+                  Incorporation or Organization)                                           Identification No.)
+
+ 
+
+      6900 E. Camelback Road, Suite 900, Scottsdale, Arizona                                      85251
+
+             (Address of Principal Executive Offices)                                           (Zip Code)
+
+ 
+
+(480) 389-3444
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+               Title of each class                     Trading Symbol(s)              Name of each exchange on which registered 
+
+        Common Stock, $0.00001 par value                      CISO                           The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a small reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer        ☐                                                            Accelerated filer                         ☐
+
+                                                                                                                                       
+
+Non-accelerated filer          ☒                                                            Smaller reporting company                 ☒
+
+                                                                                                                                       
+
+                                                                                            Emerging growth company                   ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act: ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+ 
+
+As of May 15, 2024, there were 12,279,341 shares of the registrant’s common stock outstanding.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CISO GLOBAL, INC.
+
+QUARTERLY REPORT ON FORM 10-Q
+
+FOR THE QUARTERLY PERIOD ENDED MARCH 31, 2024 (unaudited)
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                               Page
+
+                                                                                                                                 
+
+PART I. FINANCIAL INFORMATION                                                                                                    4
+
+                                                                                                                                 
+
+ITEM 1.        Financial Statements (unaudited)                                                                                 4
+
+                                                                                                                                 
+
+               Condensed Consolidated Balance Sheets                                                                            4
+
+                                                                                                                                 
+
+               Condensed Consolidated Statements of Operations and Comprehensive Loss                                           5
+
+                                                                                                                                 
+
+               Condensed Consolidated Statements of Changes in Stockholders’ Equity                                             6
+
+                                                                                                                                 
+
+               Condensed Consolidated Statements of Cash Flows                                                                  7
+
+                                                                                                                                 
+
+               Notes to Condensed Consolidated Financial Statements                                                             8
+
+                                                                                                                                 
+
+ITEM 2.        Management’s Discussion and Analysis of Financial Condition and Results of Operations                            20
+
+                                                                                                                                 
+
+ITEM 3.        Quantitative and Qualitative Disclosures about Market Risk                                                       26
+
+                                                                                                                                 
+
+ITEM 4.        Controls and Procedures                                                                                          26
+
+                                                                                                                                 
+
+PART II. OTHER INFORMATION                                                                                                       27
+
+                                                                                                                                 
+
+ITEM 1.        Legal Proceedings                                                                                                27
+
+                                                                                                                                 
+
+ITEM 1A.       Risk Factors                                                                                                     27
+
+                                                                                                                                 
+
+ITEM 2.        Unregistered Sales of Equity Securities and Use of Proceeds                                                      27
+
+                                                                                                                                 
+
+ITEM 3.        Defaults Upon Senior Securities                                                                                  27
+
+                                                                                                                                 
+
+ITEM 4.        Mine Safety Disclosures                                                                                          27
+
+                                                                                                                                 
+
+ITEM 5.        Other Information                                                                                                27
+
+                                                                                                                                 
+
+ITEM 6.        Exhibits                                                                                                         27
+
+                                                                                                                                 
+
+SIGNATURES                                                                                                                       28
+
+ 
+
+                                                                   2
+
+ 
+
+ 
+
+FORWARD-LOOKING STATEMENTS
+
+ 
+
+The information contained in this report should be read in conjunction with the financial statements and related notes contained elsewhere in this Quarterly Report on Form 10-Q. Certain statements made in this report are “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). These statements are based upon beliefs of, and information currently available to, us as of the date hereof, as well as estimates and assumptions made by us. Readers are cautioned not to place undue reliance on these forward-looking statements, which are only predictions and speak only as of the date hereof. When used herein, the words “anticipate,” “believe,” “estimate,” “expect,” “forecast,” “future,” “intend,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue” or the negative of these terms and similar expressions identify forward-looking statements. Such statements reflect our current view with respect to future events and are subject to risks, uncertainties, assumptions, and other factors, including the risks relating to our business, industry, and our operations and results of operations. Should one or more of these risks or uncertainties materialize, or should the underlying assumptions prove incorrect, actual results may differ significantly from those anticipated, believed, estimated, expected, intended, or planned.
+
+ 
+
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance, or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend to update any of the forward-looking statements to conform these statements to actual results.
+
+ 
+
+Forward-looking statements made in this Quarterly Report on Form 10-Q include statements about:
+
+ 
+
+●         our ability to maintain an effective system of internal controls and accurately report our financial results;
+
+●         that we will continually seek to identify and acquire cybersecurity talent to expand our service scope and geographical
+
+           coverage to provide the best possible service for our
+
+           clients;
+
+●         our belief that our cash balance as of the date of this filing, together with anticipated revenues, will be sufficient to
+
+           meet our anticipated cash requirement for the near
+
+           term;
+
+●         the doubt about our ability to continue as a going concern;
+
+●         our efforts to developing our business, reducing overhead cost, and capital raising;
+
+●         our plan to improve our liquidity by a planned reduction in overhead costs and actively pursuing additional debt and /or
+
+           equity financing through discussions with investment bankers and private
+
+           investors;
+
+●         our estimate for indirect tax liabilities; and
+
+●         our expectation that we will incur further losses through the end of 2024.
+
+ 
+
+These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks detailed from time to time in our reports filed with the Securities and Exchange Commission (the “SEC”), including our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, any of which may cause our or our industry’s actual results, levels of activity, performance, or achievements to be materially different from any future results, levels of activity, performance, or achievements expressed or implied by these forward-looking statements. These risks may cause our or our industry’s actual results, levels of activity, or performance to be materially different from any future results, levels of activity, or performance expressed or implied by these forward-looking statements.
+
+ 
+
+Our financial statements are prepared in accordance with accounting principles generally accepted in the United States. These accounting principles require us to make certain estimates, judgments, and assumptions. We believe that the estimates, judgments, and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments, and assumptions are made. These estimates, judgments, and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenue and expenses during the periods presented. Our financial statements would be affected to the extent there are material differences between these estimates and actual results. The following discussion should be read in conjunction with our financial statements and notes thereto appearing elsewhere in this report.
+
+ 
+
+                                                                   3
+
+ 
+
+ 
+
+PART I – FINANCIAL INFORMATION
+
+ 
+
+ITEM 1. FINANCIAL STATEMENTS
+
+ 
+
+CISO GLOBAL, INC. AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(Unaudited)
+
+ 
+
+                                                                                              March 31,             December 31,     
+
+                                                                                                 2024                   2023         
+
+                                                                                                                                     
+
+ASSETS                                                                                                                               
+
+                                                                                                                                     
+
+Current Assets:                                                                                                                      
+
+Cash and cash equivalents                                                                $          1,516,989   $          1,062,442 
+
+Accounts receivable, net                                                                            3,738,160              5,685,727 
+
+Inventory                                                                                              10,662                218,890 
+
+Prepaid cost of revenue                                                                             2,711,798              2,592,828 
+
+Prepaid expenses and other current assets                                                           1,103,762              1,200,271 
+
+Contract asset                                                                                        194,692                197,656 
+
+Total Current Assets                                                                                9,276,063             10,957,814 
+
+                                                                                                                                     
+
+Property and equipment, net                                                                         3,215,636              3,677,474 
+
+Right of use asset, net                                                                               704,882                762,228 
+
+Intangible assets, net                                                                              3,261,830              3,778,244 
+
+Goodwill                                                                                           30,334,588             31,519,844 
+
+Prepaid cost of revenue, net of current portion                                                       674,352                888,255 
+
+Other assets                                                                                           71,518                 71,523 
+
+                                                                                                                                     
+
+Total Assets                                                                             $         47,538,869   $         51,655,382 
+
+                                                                                                                                     
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY                                                                                                 
+
+                                                                                                                                     
+
+Current Liabilities:                                                                                                                 
+
+Accounts payable and accrued expenses                                                    $         15,114,789   $         15,951,327 
+
+Deferred revenue                                                                                    4,418,495              4,158,969 
+
+Lease liability                                                                                       222,674                219,342 
+
+Loans payable                                                                                       3,497,460              3,691,464 
+
+Line of credit                                                                                      2,300,708                      - 
+
+Convertible notes payable                                                                           2,050,000              2,050,000 
+
+Convertible notes payable, related party                                                            5,000,000                      - 
+
+Total Current Liabilities                                                                          32,604,126             26,071,102 
+
+                                                                                                                                     
+
+Long-term Liabilities:                                                                                                               
+
+Deferred revenue, net of current portion                                                              872,049              1,099,734 
+
+Loans payable, net of current portion                                                               2,281,612              2,748,788 
+
+Convertible notes payable, related party                                                                    -              5,000,000 
+
+Lease liability, net of current portion                                                               539,474                596,307 
+
+                                                                                                                                     
+
+Total Liabilities                                                                                  36,297,261             35,515,931 
+
+                                                                                                                                     
+
+Commitments and Contingencies                                                                               -                      - 
+
+                                                                                                                                     
+
+Stockholders’ Equity:                                                                                                                
+
+Common stock, $.00001 par value; 300,000,000 shares authorized; 12,138,569 and                            121                    119 
+
+ 11,949,959 shares issued and outstanding at March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Preferred stock, $.00001 par value; 50,000,000 shares authorized; 0 shares issued and                       -                      - 
+
+ outstanding on March 31, 2024 and December 31, 2023,
+
+ respectively
+
+Additional paid-in capital                                                                        175,212,199            172,837,842 
+
+Accumulated translation adjustment                                                                    657,174              1,320,177 
+
+Accumulated deficit                                                                              (164,627,886)          (158,018,687)
+
+Total Stockholders’ Equity                                                                         11,241,608             16,139,451 
+
+                                                                                                                                     
+
+Total Liabilities and Stockholders’ Equity                                               $         47,538,869   $         51,655,382 
+
+ 
+
+The accompanying footnotes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   4
+
+ 
+
+ 
+
+CISO GLOBAL, INC. AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+(Unaudited)
+
+ 
+
+                                                                                                      Three Months Ended               
+
+                                                                                            March 31, 2024         March 31, 2023    
+
+                                                                                                                                     
+
+Revenue:                                                                                                                             
+
+Security managed services                                                                $         10,447,840   $         11,766,133 
+
+Professional services                                                                               1,285,213              1,960,548 
+
+Cybersecurity software                                                                                100,283                      - 
+
+Total revenue                                                                                      11,833,336             13,726,681 
+
+                                                                                                                                     
+
+Cost of revenue:                                                                                                                     
+
+Security managed services                                                                           4,655,484              5,560,563 
+
+Professional services                                                                                 273,331                198,293 
+
+Cybersecurity software                                                                                 30,505                      - 
+
+Cost of payroll                                                                                     4,787,340              5,800,657 
+
+Stock based compensation                                                                            1,097,250              1,768,084 
+
+Total cost of revenue                                                                              10,843,910             13,327,597 
+
+Total gross profit                                                                                    989,426                399,084 
+
+                                                                                                                                     
+
+Operating expenses:                                                                                                                  
+
+Professional fees                                                                                     596,647              1,677,387 
+
+Advertising and marketing                                                                              28,306                115,394 
+
+Selling, general and administrative                                                                 4,997,203              9,508,766 
+
+Stock based compensation                                                                            1,107,022              3,628,975 
+
+Impairment of goodwill                                                                                      -             20,199,368 
+
+Total operating expenses                                                                            6,729,178             35,129,890 
+
+                                                                                                                                     
+
+Loss from operations                                                                               (5,739,752)           (34,730,806)
+
+                                                                                                                                     
+
+Other income (expense):                                                                                                              
+
+Other income (expense)                                                                                    702               (156,420)
+
+Interest expense, net                                                                                (870,149)              (390,141)
+
+                                                                                                                                     
+
+Total other income (expense)                                                                         (869,447)              (546,561)
+
+                                                                                                                                     
+
+Loss before income taxes                                                                           (6,609,199)           (35,277,367)
+
+Benefit from income taxes                                                                                   -               (435,678)
+
+                                                                                                                                     
+
+Net loss                                                                                           (6,609,199)           (34,841,689)
+
+Foreign currency translation adjustment                                                              (663,003)             2,036,962 
+
+                                                                                                                                     
+
+Comprehensive loss                                                                       $         (7,272,202)  $        (32,804,727)
+
+                                                                                                                                     
+
+Net loss per common share - basic and diluted                                            $              (0.55)  $              (3.56)
+
+                                                                                                                                     
+
+Weighted average shares outstanding - basic                                                        11,965,984              9,791,665 
+
+Weighted average shares outstanding - diluted                                                      11,965,984              9,791,665 
+
+ 
+
+The accompanying footnotes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   5
+
+ 
+
+ 
+
+CISO GLOBAL, INC. AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (NOTE 2)
+
+(Unaudited)
+
+ 
+
+                                                                                          Accumulated                                       
+
+                                                                       Additional            Other                                          
+
+                         Common Stock          Preferred Stock        Paid-in          Comprehensive       Accumulated                    
+
+                      Shares        Amount     Shares     Amount        Capital           Gain/(Loss)          Deficit           Total      
+
+                                                                                                                                            
+
+Balance at             11,949,959  $     119         -  $       -  $   172,837,842  $         1,320,177  $   (158,018,687) $   16,139,451 
+
+ January 1,
+
+ 2024
+
+                                                                                                                                          
+
+Stock based                     -          -         -          -        2,204,272                    -                 -       2,204,272 
+
+ compensation -
+
+ stock
+
+ options
+
+Stock issued for           41,254          1         -          -           48,086                    -                 -          48,087 
+
+ cash
+
+Stock issued as           100,000          1         -          -          121,999                    -                 -         122,000 
+
+ lending
+
+ discount
+
+Stock adjustment           47,356          -         -          -                -                    -                 -               - 
+
+ after reverse
+
+ stock
+
+ split
+
+Foreign currency                -          -         -          -                -             (663,003)                -        (663,003)
+
+ translation
+
+Net loss                        -          -         -          -                -                    -        (6,609,199)     (6,609,199)
+
+Balance at March       12,138,569  $     121         -  $       -  $   175,212,199  $           657,174  $   (164,627,886) $   11,241,608 
+
+ 31,
+
+ 2024
+
+                                                                                                                                          
+
+Balance at              9,697,921  $      97         -  $       -  $   153,170,351  $         1,062,247  $    (77,787,604) $   76,445,091 
+
+ January 1,
+
+ 2023
+
+                                                                                                                                          
+
+Stock based                     -          -         -          -        5,272,059                    -                 -       5,272,059 
+
+ compensation -
+
+ stock
+
+ options
+
+Stock issued for          449,353          4         -          -        3,143,143                    -                 -       3,143,147 
+
+ cash
+
+Exercise of                69,378          1         -          -          491,852                    -                 -         491,853 
+
+ options
+
+Foreign currency                -          -         -          -                -            2,036,962                 -       2,036,962 
+
+ translation
+
+Net loss                        -          -         -          -                -                    -       (34,841,689)    (34,841,689)
+
+Balance at March       10,216,652  $     102         -  $       -  $   162,077,405  $         3,099,209  $   (112,629,293) $   52,547,423 
+
+ 31,
+
+ 2023
+
+ 
+
+The accompanying footnotes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   6
+
+ 
+
+ 
+
+CISO GLOBAL, INC. AND SUBSIDIARIES 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(Unaudited)
+
+ 
+
+                                                                                                      Three Months Ended               
+
+                                                                                            March 31, 2024         March 31, 2023    
+
+Cash flows from operating activities:                                                                                                
+
+Net loss                                                                                 $         (6,609,199)  $        (34,841,689)
+
+Adjustments to reconcile net loss to net cash used in operating activities:                                                          
+
+Stock based compensation - stock options                                                            2,204,272              5,272,059 
+
+Stock based compensation - common stock                                                                     -                125,000 
+
+Depreciation and amortization                                                                         760,281              1,050,193 
+
+Right of use amortization                                                                              57,346                 28,432 
+
+Other                                                                                                 185,137                 18,431 
+
+Impairment of intangible assets                                                                             -              3,116,039 
+
+Impairment of goodwill                                                                                      -             20,199,368 
+
+Changes in operating assets and liabilities:                                                                                         
+
+Accounts receivable, net                                                                            1,711,217              1,974,401 
+
+Inventory                                                                                             199,826                 (6,382)
+
+Contract assets                                                                                         2,964                (79,916)
+
+Prepaids and other current assets                                                                    (213,949)              (144,410)
+
+Accounts payable and accrued expenses                                                                (120,323)             1,723,688 
+
+Lease liability                                                                                       (30,155)                     - 
+
+Deferred revenue                                                                                      443,950               (546,086)
+
+                                                                                                                                     
+
+Net cash used in operating activities                                                              (1,408,633)            (2,110,872)
+
+                                                                                                                                     
+
+Cash flows from investing activities:                                                                                                
+
+                                                                                                                                     
+
+Purchases of property and equipment                                                                   (75,571)              (182,839)
+
+                                                                                                                                     
+
+Net cash used in investing activities                                                                 (75,571)              (182,839)
+
+                                                                                                                                     
+
+Cash flows from financing activities:                                                                                                
+
+Proceeds from sale of common stock                                                                     48,087              3,143,147 
+
+Proceeds from stock option exercise                                                                         -                491,853 
+
+Proceeds from loan payable                                                                          2,201,984              2,000,000 
+
+Proceeds from convertible notes payable, related party                                                      -              5,000,000 
+
+Proceeds from lines of credit                                                                       2,413,599                 32,517 
+
+Payment on lines of credit                                                                           (137,634)               (61,673)
+
+Payment on loans payable                                                                           (2,468,002)            (5,779,547)
+
+Payment of convertible note payable                                                                         -               (500,000)
+
+Payment of debt issuance cost                                                                         (44,000)               (87,500)
+
+                                                                                                                                     
+
+Net cash provided by financing activities                                                           2,014,034              4,238,797 
+
+                                                                                                                                     
+
+Effect of exchange rates on cash and cash equivalents                                                 (75,283)                45,486 
+
+                                                                                                                                     
+
+Net increase in cash and cash equivalents                                                             454,547              1,990,572 
+
+                                                                                                                                     
+
+Cash and cash equivalents - beginning of the period                                                 1,062,442              1,833,163 
+
+                                                                                                                                     
+
+Cash and cash equivalents - end of the period                                            $          1,516,989   $          3,823,735 
+
+                                                                                                                                     
+
+Supplemental cash flow information:                                                                                                  
+
+Cash paid for:                                                                                                                       
+
+Interest                                                                                 $            629,364   $            349,107 
+
+Income taxes                                                                             $                  -   $                  - 
+
+Supplemental disclosure of non-cash transactions:                                                                                    
+
+Operating lease assets obtained in exchange for operating lease obligations              $                  -   $            733,782 
+
+Common stock issued as a lending discount                                                $            122,000   $                  - 
+
+ 
+
+The accompanying footnotes are an integral part of these unaudited condensed consolidated financial statements.
+
+ 
+
+                                                                   7
+
+ 
+
+ 
+
+CISO GLOBAL, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Unaudited)
+
+ 
+
+Unless otherwise indicated or the context requires otherwise, the terms “we,” “us,” “our,” and “our company” refer to CISO Global, Inc., a Delaware corporation and its wholly owned subsidiaries. Unless otherwise specified, all dollar amounts are expressed in United States dollars.
+
+ 
+
+NOTE 1 – ORGANIZATION OF BUSINESS AND GOING CONCERN
+
+ 
+
+Description of the Business
+
+ 
+
+We are a cybersecurity, compliance and software company comprised of highly trained and seasoned security professionals who work with clients to enhance or create a better cyber posture in their organization. We provide a full range of cybersecurity consulting, related services and cybersecurity software, encompassing all three pillars of compliance, cybersecurity, and culture. Our services include secured managed services, compliance services, security operations center (“SOC”) services, virtual Chief Information Security Officer (“vCISO”) services, incident response, certified forensics, technical assessments, and cybersecurity training. We believe that culture is the foundation of every successful cybersecurity and compliance program. To deliver that outcome, we developed our unique offering of MCCP+ (“Managed Compliance & Cybersecurity Provider + Culture”), which is a holistic solution that provides all three of these pillars under one roof from a dedicated team of subject matter experts. In contrast to the majority of cybersecurity firms that are focused on a specific technology or service, we seek to differentiate ourselves by remaining technology agnostic, focusing on accumulating highly sought-after topic experts. We continually seek to identify and acquire cybersecurity talent to expand our service scope and geographical coverage to provide the best possible service for our clients. We believe that bringing together a world-class team of technological experts with multi-faceted expertise in the critical aspects of cybersecurity is key to providing technology agnostic solutions to our clients in a business environment that has suffered from a chronic lack of highly skilled professionals, thereby setting us apart from competitors and in-house security teams. Our goal is to create a culture of security and to help quantify, define, and capture a return on investment from information technology and cybersecurity spending.
+
+ 
+
+Basis of Presentation
+
+ 
+
+Our financial statements have been prepared in accordance with accounting principles generally accepted in the United States (“GAAP”), the instructions to Form 10-Q pursuant to regulations of the SEC, and include our accounts and the accounts of our subsidiaries. Certain information and disclosures normally included in annual financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to those rules and regulations, although, we believe that the disclosures made are adequate to make the information not misleading. All material intercompany accounts and transactions have been eliminated.
+
+ 
+
+Our interim financial statements are unaudited, and in our opinion, include all adjustments of a normal recurring nature necessary for the fair presentation of the periods presented. The results for the interim periods are not necessarily indicative of the results to be expected for any subsequent period or for the year ending December 31, 2024. These unaudited condensed consolidated financial statements and related notes should be read in conjunction with our audited consolidated financial statements for the year ended December 31, 2023.
+
+ 
+
+Going Concern
+
+ 
+
+The accompanying financial statements have been prepared on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities in the normal course of business. However, due to losses incurred, substantial doubt about our ability to continue as a going concern exists.
+
+ 
+
+We are evaluating strategies to obtain the required additional funding for future operations. These strategies may include obtaining equity financing, issuing debt or entering into other financing arrangements, and restructuring operations to grow revenues and decrease expenses. However, we may be unable to access further equity or debt financing when needed. As such, there can be no assurance that we will be able to obtain additional liquidity when needed or under acceptable terms, if at all.
+
+ 
+
+                                                                   8
+
+ 
+
+ 
+
+The ability for us to continue as a going concern is dependent upon our ability to successfully accomplish the plan and eventually attain profitable operations. The condensed consolidated financial statements do not include any adjustments to the carrying amounts and classification of assets, liabilities, and reported expenses that may be necessary if w are were unable to continue as a going concern.
+
+ 
+
+Reclassifications
+
+ 
+
+Reclassifications of certain immaterial prior period amounts have been made to conform to the current period presentation.
+
+ 
+
+Use of Estimates
+
+ 
+
+GAAP requires management to make estimates and assumptions that affect the reported amounts in our unaudited condensed consolidated financial statements. We periodically evaluate our estimates and adjust prospectively, if necessary. We believe our estimates and assumptions are reasonable; however, actual results could materially differ.
+
+ 
+
+We believe the critical accounting policies discussed below affect our more significant judgments and estimates used in the preparation of the accompanying unaudited condensed consolidated financial statements. Material estimates include the allowance for credit losses, the carrying value of intangible assets and goodwill, deferred tax asset and valuation allowance, the estimated fair value of assets acquired, liabilities assumed and stock issued in business combinations, and assumptions used in the Black-Scholes option pricing model, such as expected volatility, risk-free interest rate, share price, and expected dividend rate.
+
+ 
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+
+Revenue
+
+ 
+
+Our revenue is derived from three major types of services to clients: security managed services, professional services and software. With respect to security managed services, we provide culture education and enablement, tools and technology provisioning, data and privacy monitoring, regulations and compliance monitoring, remote infrastructure administration, and cybersecurity services, including, but not limited to, antivirus and patch management. With respect to professional services, we provide cybersecurity consulting, compliance auditing, vulnerability assessment and penetration testing, and disaster recovery and data backup solutions.
+
+ 
+
+Our revenue is categorized and disaggregated as reflected in our unaudited condensed consolidated statement of operations as follows:
+
+ 
+
+Security Managed Services
+
+ 
+
+Security managed services revenue primarily consists of risk compliance, cyber defense operations, and secured managed services. We consider these services to be a single performance obligation, and revenue is recognized as services and materials are provided to the customer.
+
+ 
+
+Professional Services
+
+ 
+
+Professional services revenue primarily consists of security testing and training, and incident response and digital forensics. We consider these services to be a single performance obligation, and revenue is recognized in the period in which the performance obligations are satisfied.
+
+ 
+
+Cybersecurity Software
+
+ 
+
+Cybersecurity software revenue primarily consists of our internally developed cybersecurity software designed to provide a security management platform, protect users from untrusted and malicious online threats, provide proactive security monitoring, and deliver continuous security assessments. We consider these services to be a single performance obligation, and revenue is recognized in the period in which the performance obligations are satisfied.
+
+ 
+
+                                                                   9
+
+ 
+
+ 
+
+Accounts Receivable
+
+ 
+
+Accounts receivable are reported at their outstanding unpaid principal balances, net of allowances for credit losses. We periodically assess our accounts and other receivables for collectability on a specific identification basis. We provide for allowances for credit losses based on management’s estimate of uncollectible amounts considering age, collection history, and any other factors considered appropriate. Payments are generally due within 30 days of invoice. We write off accounts receivable against the allowance for credit losses when a balance is determined to be uncollectible. As of March 31, 2024 and December 31, 2023, our allowance for credit losses was $220,714 and $219,141, respectively.
+
+ 
+
+Reverse Stock Split
+
+ 
+
+On February 29, 2024, our board of directors approved a 1-for-15 reverse stock split of our common stock. The record date for the reverse stock split was the close of business on March 7, 2024, with share distribution occurring on March 8, 2024. As a result of the reverse stock split, stockholders received one share of CISO Global, Inc. common stock, par value $0.00001, for each 15 shares they held as of the record date. All share and per share amounts have been retroactively restated for the effects of this reverse stock split. Common stock underlying our outstanding warrants, convertible notes, and options have also been adjusted, and the conversion and exercise prices have also been adjusted.
+
+ 
+
+Net Loss per Common Share
+
+ 
+
+Net loss per common share is computed by dividing the net loss by the weighted average number of common shares outstanding during the period. For dilutive securities, all outstanding options and warrants are considered potentially outstanding common stock. The dilutive effect, if any, of stock options is calculated using the treasury stock method. All outstanding convertible notes are considered common stock at the beginning of the period or at the time of issuance, if later, pursuant to the if-converted method. Since the effect of common stock equivalents are anti-dilutive with respect to losses, the options, warrants and shares issuable upon conversion thereof have been excluded from our computation of net loss per common share for the three months ended March 31, 2024 and 2023.
+
+ 
+
+Our shares of outstanding common stock and earnings per share calculation have been retroactively restated for all periods presented to reflect our 1-for-15 reverse stock split. The following tables summarize the securities that were excluded from the diluted per share calculation because the effect of including these potential shares was antidilutive due to our net loss position even though the exercise price could be less than the average market price of the common shares:
+
+ 
+
+SUMMARY OF SECURITIES EXCLUDED FROM DILUTED PER SHARE
+
+                                                                          March 31, 2024            March 31, 2023      
+
+Stock options                                                                       1,951,206                 2,151,036 
+
+Warrant                                                                                49,614                     9,614 
+
+Convertible debt                                                                      874,672                   300,598 
+
+Total                                                                               2,875,292                 2,461,248 
+
+ 
+
+Deferred Revenue
+
+ 
+
+Deferred revenue primarily consists of billings or payments received from customers in advance of revenue recognized for the services provided to our customers or annual licenses and is recognized as services are performed or ratably over the life of the license. We generally invoice customers in advance or in milestone-based installments.
+
+ 
+
+Deferred revenue consisted of the following:
+
+ 
+
+SCHEDULE OF DEFERRED REVENUE
+
+                                                                              March 31, 2024         December 31, 2023   
+
+Current:                                                                                                               
+
+Security managed services                                                  $          3,702,690   $          3,366,273 
+
+Professional services                                                                   622,017                792,696 
+
+Software                                                                                 93,788                      - 
+
+Total deferred revenue - current                                           $          4,418,495   $          4,158,969 
+
+Long-term:                                                                                                             
+
+Security managed services                                                  $            872,049   $          1,099,734 
+
+Total deferred revenue – long term                                         $            872,049   $          1,099,734 
+
+ 
+
+                                                                   10
+
+ 
+
+ 
+
+The increase in the deferred revenue balance is primarily driven by payments received in advance of satisfying our performance obligations, offset by $1,528,220 of revenue recognized during 2024, which was included in the deferred revenue balance as of December 31, 2023. The deferred revenue balance as of March 31, 2024 represents our remaining performance obligations that will be recognized as revenue over the period in which the performance obligations are satisfied, and is expected to be recognized in revenue as follows:
+
+ 
+
+SCHEDULE OF PERFORMANCE OBLIGATIONS EXPECTED TO RECOGNIZED REVENUE
+
+                                             Remainder of       2025          2026          2027         2028          Total     
+
+                                                  2024
+
+Security managed services                    $   3,391,764   $  831,821   $  285,304   $   50,871   $   14,979   $  4,574,739 
+
+Professional services                              622,017            -            -            -            -        622,017 
+
+Software                                            93,788            -            -            -            -         93,788 
+
+Total deferred revenue                       $   4,107,569   $  831,821   $  285,304   $   50,871   $   14,979   $  5,290,544 
+
+ 
+
+Income Taxes
+
+ 
+
+Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities, including tax loss and credit carry forwards, are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date.
+
+ 
+
+We utilize ASC 740, Income Taxes, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the unaudited condensed consolidated financial statements or tax returns. We account for income taxes using the asset and liability method to compute the differences between the tax basis of assets and liabilities and the related financial amounts, using currently enacted tax rates. A valuation allowance is recorded when it is “more likely than not” that a deferred tax asset will not be realized. At March 31, 2024, our net deferred tax asset has been fully reserved.
+
+ 
+
+For uncertain tax positions that meet a “more likely than not” threshold, we recognize the benefit of uncertain tax positions in the unaudited condensed consolidated financial statements. Our practice is to recognize interest and penalties, if any, related to uncertain tax positions in income tax expense in the unaudited condensed consolidated statements of operations when a determination is made that such expense is likely.
+
+ 
+
+Recent Accounting Pronouncements
+
+ 
+
+In November 2023, the Financial Standards Accounting Board (FASB) issued guidance to update reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses and information used to assess segment performance. This update is effective for our 2024 fiscal year and interim periods in fiscal year 2025, with early adoption permitted. We are currently evaluating the impact that the adoption of this standard will have on our condensed consolidated financial statements.
+
+ 
+
+In December 2023, the FASB issued guidance to enhance the transparency and decision usefulness of income tax disclosures. The amendments in this guidance require additional disclosures about income taxes, primarily focused on the disclosures of income taxes paid and the rate reconciliation table. The new guidance will be effective for the 2025 fiscal year, with early adoption permitted. We are currently evaluating the impact of this standard on our disclosures within our consolidated financial statements.
+
+ 
+
+NOTE 3 – PREPAID EXPENSES AND OTHER CURRENT ASSETS
+
+ 
+
+Prepaid expenses and other current assets consisted of:
+
+ 
+
+SCHEDULE OF PREPAID EXPENSES AND OTHER CURRENT ASSETS 
+
+                                                                            March 31,           December 31,     
+
+                                                                              2024                  2023
+
+Prepaid expenses                                                       $           575,474   $           253,953 
+
+Prepaid taxes                                                                      460,920               886,920 
+
+Prepaid insurance                                                                   67,368                59,398 
+
+Total prepaid expenses and other current assets                        $         1,103,762   $         1,200,271 
+
+ 
+
+                                                                   11
+
+ 
+
+ 
+
+NOTE 4 – PROPERTY AND EQUIPMENT
+
+ 
+
+Property and equipment consisted of the following:
+
+SCHEDULE OF PROPERTY AND EQUIPMENT 
+
+                                                                            March 31,           December 31,     
+
+                                                                              2024                  2023
+
+Computer equipment                                                     $         1,188,222   $         1,277,609 
+
+Building                                                                         1,539,476             1,715,929 
+
+Leasehold improvements                                                             476,092               527,705 
+
+Furniture and fixtures                                                             123,454               128,904 
+
+Software                                                                         1,710,533             1,728,126 
+
+Property and equipment gross                                                     5,037,777             5,378,273 
+
+Less: accumulated depreciation                                                  (1,822,141)           (1,700,799)
+
+Property and equipment, net                                            $         3,215,636   $         3,677,474 
+
+ 
+
+Total depreciation expense was $267,408 and $305,705 for the three months ended March 31, 2024 and 2023, respectively.
+
+ 
+
+NOTE 5 – INTANGIBLE ASSETS AND GOODWILL
+
+ 
+
+Goodwill
+
+ 
+
+The following table summarizes the changes in goodwill during the three months ended March 31, 2024:
+
+SCHEDULE OF CHANGES IN GOODWILL 
+
+Balance as of December 31, 2023                                                                             
+
+Goodwill                                                                                 $       98,792,625 
+
+Accumulated impairment losses                                                                   (67,272,781)
+
+                                                                                                 31,519,844 
+
+                                                                                                            
+
+Foreign currency translation adjustment                                                          (1,185,256)
+
+Balance March 31, 2024                                                                                      
+
+Goodwill                                                                                         95,114,652 
+
+Accumulated impairment losses                                                                   (64,780,064)
+
+                                                                                         $       30,334,588 
+
+ 
+
+Intangible Assets
+
+ 
+
+Intangible assets, net are summarized as follows:
+
+SUMMARY OF IDENTIFIABLE INTANGIBLE ASSETS 
+
+                                                                                           March 31, 2024                             
+
+                                                                   Gross Carrying          Accumulated        Net Carrying Amount  
+
+                                                                       Amount              Amortization
+
+Tradenames – trademarks                                         $          4,006,938   $         (2,592,933)  $          1,414,005 
+
+Customer base                                                              1,133,894               (632,441)               501,453 
+
+Non-compete agreements                                                       649,262               (625,450)                23,812 
+
+Intellectual property/technology                                           2,552,964             (1,230,404)             1,322,560 
+
+Intangible Asset                                                $          8,343,058   $         (5,081,228)  $          3,261,830 
+
+ 
+
+                                                                                          December 31, 2023                           
+
+                                                                   Gross Carrying          Accumulated        Net Carrying Amount  
+
+                                                                       Amount              Amortization
+
+Tradenames – trademarks                                         $          4,037,142   $         (2,329,498)  $          1,707,644 
+
+Customer base                                                              1,145,378               (639,937)               505,441 
+
+Non-compete agreements                                                       685,651               (630,595)                55,056 
+
+Intellectual property/technology                                           2,588,560             (1,078,457)             1,510,103 
+
+Intangible Asset                                                $          8,456,731   $         (4,678,487)  $          3,778,244 
+
+ 
+
+                                                                   12
+
+ 
+
+ 
+
+The weighted average remaining useful life of identifiable amortizable intangible assets is 2.53 years as of March 31, 2024.
+
+ 
+
+Amortization of identifiable intangible assets for the three months ended March 31, 2024 and 2023 was $492,873 and $747,172, respectively.
+
+ 
+
+Based on the balance of intangible assets at March 31, 2024, expected future amortization expense is as follows:
+
+SCHEDULE OF FUTURE AMORTIZATION EXPENSE 
+
+2024 (remainder of)                                                                      $        1,309,498 
+
+2025                                                                                                977,433 
+
+2026                                                                                                765,758 
+
+2027                                                                                                110,741 
+
+2028                                                                                                 49,200 
+
+Thereafter                                                                                           49,200 
+
+Future Amortization Expense                                                              $        3,261,830 
+
+ 
+
+NOTE 6 – ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+
+ 
+
+Accounts payable and accrued expenses consisted of the following amounts:
+
+SCHEDULE OF ACCOUNTS PAYABLE AND ACCRUED EXPENSES 
+
+                                                                              March 31, 2024         December 31, 2023   
+
+Accounts payable                                                           $          9,966,197   $         11,045,657 
+
+Accrued payroll and bonuses                                                           1,968,158              1,873,848 
+
+Accrued expenses                                                                      2,203,842              1,650,624 
+
+Accrued commissions                                                                      95,647                100,000 
+
+Indirect taxes payable                                                                  217,047                793,347 
+
+Accrued interest                                                                        663,898                487,851 
+
+Total accounts payable and accrued expenses                                $         15,114,789   $         15,951,327 
+
+ 
+
+NOTE 7 – RELATED PARTY TRANSACTIONS
+
+ 
+
+Independent Consulting Agreement with Stephen Scott
+
+ 
+
+In July 2023, we entered into an Independent Consulting Agreement with Stephen Scott, a significant stockholder, to provide, on a non-exclusive basis, advisory and consulting services relating to our strategic and business development, intellectual property development, banking relationships, and strategic M&A for a period of one year. Mr. Scott will receive a consulting fee of $15,000 per month for such services under the terms of this agreement. During the three months ended March 31, 2024 and 2023, we paid consulting fees to Mr. Scott in the amounts of $45,000 and $34,500, respectively.
+
+ 
+
+Managed Services Agreement with Hensley Beverage Company – Related Party
+
+ 
+
+In July 2021, we entered into a 1-year Managed Services Agreement with Hensley Beverage Company to provide secured managed services. We also may be engaged by Hensley Beverage Company from time to time to provide other related services outside the scope of the Managed Services Agreement. While the agreement provides for a term through December 31, 2021, the agreement will continue until terminated by either party. For the three months ended March 31, 2024 and 2023, we received $1,123,322 and $212,006, respectively, from Hensley Beverage Company for contracted services, and had an outstanding receivable balance of zero and $152,213 as of March 31, 2024 and December 31, 2023, respectively. The payments received during the three months ended March 31, 2024, included a payment of $543,743 for future services. Andy McCain, a director of our company, is President and Chief Executive Officer of Hensley & Company, the parent company of Hensley Beverage Company.
+
+ 
+
+Convertible Note Payable with Hensley & Company
+
+ 
+
+In March 2023, we issued an unsecured convertible note to Hensley & Company in the principal amount of $5,000,000 bearing an interest rate of 10.00% per annum. The principal amount, together with accrued and unpaid interest is due on March 20, 2025. At any time prior to or on the maturity date, Hensley & Company is permitted to convert all or any portion of the outstanding principal amount and all accrued but unpaid interest thereon into shares of our common stock at a conversion price of $18.00 per share. During the quarter ended March 31, 2024 and 2023, we recorded interest expense of $125,000 and $13,888, respectively. As of March 31, 2024 and December 31, 2023, we had accrued interest of $513,888 and $388,888, respectively. Mr. McCain, a director of our company, is President and Chief Operating Officer of Hensley & Company.
+
+ 
+
+                                                                   13
+
+ 
+
+ 
+
+NOTE 8 – STOCKHOLDERS’ EQUITY
+
+ 
+
+Options
+
+ 
+
+We granted stock options vesting solely upon the continued service of the recipient. We recognize the accounting grant date fair value of equity-based awards as compensation expense over the required service period of each award.
+
+ 
+
+The following table summarizes stock option activity:
+
+ SCHEDULE OF STOCK OPTIONS ACTIVITY
+
+                                                                Shares          Weighted          Weighted          Aggregate    
+
+                                                                                 Average           Average          Intrinsic
+
+                                                                                Exercise          Remaining           Value
+
+                                                                                  Price          Contractual
+
+                                                                                                    Life
+
+                                                                                                 (in years)
+
+Outstanding at January 1, 2024                                   2,105,168   $         31.63                -                - 
+
+Granted                                                             33,953              1.68                -                - 
+
+Exercised                                                                -                 -                -                - 
+
+Expired or cancelled                                              (187,915)            18.06                -                - 
+
+Outstanding at March 31, 2024                                    1,951,206   $         32.09             4.68   $       40,666 
+
+Exercisable at March 31, 2024                                    1,428,347   $         30.08             3.62   $       40,666 
+
+ 
+
+Total compensation expense related to the options was $2,204,272 and $5,272,059 for the three months ended March 31, 2024 and 2023, respectively. As of March 31, 2024, there was future compensation expense of $13,903,674 with a weighted average recognition period of 1.63 years related to the options.
+
+ 
+
+The weighted-average grant-date fair value of options granted during the three months ended March 31, 2024 was $1.34. The total intrinsic value of options exercised during the three months ended March 31, 2024, was zero.
+
+ 
+
+During the three months ended March 31, 2024, 127,182 options vested, net of forfeitures.
+
+ 
+
+Warrant Activity Summary
+
+ 
+
+The following table summarizes warrant activity:
+
+ SCHEDULE OF STOCK WARRANT ACTIVITY
+
+                                                                Shares          Weighted          Weighted          Aggregate     
+
+                                                                                 Average           Average          Intrinsic
+
+                                                                                Exercise          Remaining           Value
+
+                                                                                  Price          Contractual
+
+                                                                                                    Life
+
+                                                                                                 (in years)
+
+Outstanding at January 1, 2024                                      49,614   $         17.56             4.12                 - 
+
+Granted                                                                  -                 -                -                 - 
+
+Exercised                                                                -                 -                -                 - 
+
+Expired or cancelled                                                     -                 -                -                 - 
+
+Outstanding at March 31, 2024                                       49,614   $         17.56             3.87   $             - 
+
+Exercisable at March 31, 2024                                       49,614   $         17.56             3.87   $             - 
+
+ 
+
+                                                                   14
+
+ 
+
+ 
+
+NOTE 9 – COMMITMENTS AND CONTINGENCIES
+
+ 
+
+Legal Claims
+
+ 
+
+There are no material pending legal proceedings in which we or any of our subsidiaries are a party or in which any of our directors, officers or affiliates, any owner of record or beneficially of more than 5% of any class of our voting securities, or security holder is a party adverse to us or has a material interest adverse to us.
+
+ 
+
+Indirect Taxes
+
+ 
+
+We are subject to indirect taxation in some, but not all, of the various states and foreign jurisdictions in which we conduct business. Laws and regulations attempting to subject commerce conducted over the Internet to various indirect taxes are becoming more prevalent, both in the U.S. and internationally, and may impose additional burdens on us in the future. Increased regulation could negatively affect our business directly, as well as the business of our customers. Taxing authorities may impose indirect taxes on the Internet-related revenue we generated based on regulations currently being applied to similar, but not directly comparable industries. There are many transactions and calculations where the ultimate indirect tax determination is uncertain. In addition, domestic and international indirect taxation laws are complex and subject to change. We may be audited in the future, which could result in changes to our indirect tax estimates. We continually evaluate those jurisdictions in which nexus exists, and believe we maintain adequate indirect tax accruals.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, our accrual for estimated indirect tax liabilities was $217,047 and $774,298, respectively, reflecting our best estimate of the potential liability based on an analysis of our business activities, revenues subject to indirect taxes, and applicable regulations. Although we believe our indirect tax estimates and associated liabilities are reasonable, the final determination of indirect tax audits, litigation, or settlements could be materially different than the amounts established for indirect tax contingencies.
+
+ 
+
+Warranties
+
+ 
+
+Our services are generally warranted to deliver and operate in a manner consistent with general industry standards that are reasonably applicable and materially conform with our documentation under normal use and circumstances.
+
+ 
+
+We offer a limited warranty to certain customers, subject to certain conditions, to cover certain costs incurred by the customer in case of a security breach. We have entered into an insurance policy to cover our potential liability arising from this limited warranty arrangement. We have not incurred any material costs related to such obligations and have not accrued any liabilities related to such obligations in the unaudited condensed consolidated financial statements as of March 31, 2024 and 2023.
+
+ 
+
+In addition, we also indemnify certain of our directors and executive officers against certain liabilities that may arise while they are serving in good faith in their company capacities. We maintain director and officer liability insurance coverage that would generally enable us to recover a portion of any future amounts paid.
+
+ 
+
+NOTE 10 – LOANS PAYABLE AND LINES OF CREDIT
+
+ 
+
+Loans Payable
+
+ 
+
+Loans payable was as follows:
+
+ SCHEDULE OF LOAN PAYABLE
+
+                                                     Interest Rate       Maturities        March 31, 2024       December 31, 2023  
+
+                                                                                                                                   
+
+Term loans (US dollar denominated)                     4.00% – 71.55%       2024 - 2027  $        2,163,922   $        1,899,035 
+
+Term loans (Chilean peso denominated)                  3.48% - 19.20%       2024 - 2029           3,615,150            4,541,217 
+
+                                                                                                  5,779,072            6,440,252 
+
+Less, current portion                                                                            (3,497,460)          (3,691,464)
+
+Long term loans payable                                                                  $        2,281,612   $        2,748,788 
+
+ 
+
+                                                                   15
+
+ 
+
+ 
+
+Term Loans
+
+ 
+
+Various subsidiaries in the United States are borrowers under certain term loans. These term loans require monthly principal and interest payments. These term loans are secured by various assets owned by our subsidiaries. We recorded aggregate interest expense on these term loans of $2,469 and $6,222 for the three months ended March 31, 2024 and 2023, respectively. Accrued interest as of March 31, 2024 and December 31, 2023 was $2,286 and zero, respectively. The aggregate effective interest rate of the term loans is 6.44%.
+
+ 
+
+Our Latin America subsidiaries are the borrowers under certain term loans denominated in Chilean Pesos. These term loans require monthly principal and interest payments. These term loans are secured by various assets owned by our subsidiaries. We recorded aggregate interest expense on these term loans of $97,367 and $135,916 for the three months ended March 31, 2024 and 2023, respectively. Accrued interest as of March 31, 2024 and December 31, 2023 was zero. The aggregate effective interest rate of the term loans is 9.42%.
+
+ 
+
+In November 2023, we entered into a business loan and security agreement with LendSpark Corporation, pursuant to which we obtained a loan with a principal amount of $2,200,000 and paid an origination fee of $44,000. The business loan bears interest at a rate of 53.44% per annum and is payable in 52 weekly installments of $53,731. We may prepay the loan in whole or in part, but partial repayments do not reduce the total interest payable on the loan, of $594,000. The business loan is secured by all of the assets of our US subsidiaries. The proceeds of the loan were used to repay in full the amount owned under our cash advance agreements that we entered into in March and August 2023. For the three months ended March 31, 2024, we recorded interest expense of $564,529.
+
+ 
+
+In connection with the business loan, we entered into a fee agreement, pursuant to which we issued 133,334 shares (2,000,000 on a pre-reverse split basis) of our common stock as partial consideration for the lender to enter into the business loan and extend credit to us. We recorded the issuance of our common stock as a discount to the business loan, which is amortized using the effective interest method over the term of the loan.
+
+ 
+
+On March 28, 2024, under a trouble debt restructuring, we entered into a Business Loan and Security Agreement (the “Loan Agreement” with LendSpark Corporation (the “Lender”), pursuant to which we obtained a restructured loan with a principal amount of $2,200,000 (the “Restructured Loan”) from the Lender. Pursuant to the Loan Agreement, we paid the Lender a $44,000 origination fee. The Restructured Loan bears interest at a rate of 51.73% per annum and is payable in 52 weekly installments of $53,308, commencing on April 5, 2024. We may prepay the Loan in whole or in part, but partial repayments do not reduce the total interest payable on the Loan, or $572,000. If the Restructured Loan is prepaid in full prior to the 60-day anniversary of the date of the Loan Agreement, the total interest is reduced as follows: (i) if the Loan is repaid within 30 days, the total amount of interest due will be $242,000, and (ii) if the Restructured Loan is repaid within 60 days, the total amount of interest due will be $286,000.
+
+ 
+
+Pursuant to the Loan Agreement, we granted the Lender a security interest in all if our assets and the assets of our U.S. subsidiaries (the “Collateral”) that is secondary to the security interest held by Aion. Upon the occurrence of an event of default, the Lender may, among other things, accelerate the Loan and declare all obligations immediate due and payable or take possession of the Collateral.
+
+ 
+
+In connection with Restructured Loan, we entered into a Fee Agreement (the “Fee Agreement”) with the Lender pursuant to which we issued 100,000 shares of our common stock, par value $0.00001 per share (the “Shares”) as partial consideration for the Lender’s agreement to enter into the Loan Agreement and extend credit to us. Pursuant to the Fee Agreement, if we repay the Restructured Loan in full by (i) May 1, 2024, the Lender will return 75% of the Shares to us, and (ii) June 1, 2024, the Lender will return 50% of the Shares to us. The Fee Agreement contains customary representations, warranties, agreements and obligations of the parties.
+
+ 
+
+Line of Credit
+
+ 
+
+On January 31, 2024, we entered into a Loan and Security Agreement (the “Loan and Security Agreement”) with Aion Financial Technologies, Inc. (“Aion”), pursuant to which we may borrow up to $3,500,000. The amount available for borrowing at any one time is limited to 80% of our eligible accounts receivable. The Loan and Security Agreement will bear interest at a rate of 19.25% per annum (based on a 360-day year), payable on the first business day of each month following the accrual thereof. The Loan and Security Agreement, together with accrued and unpaid interest thereon, is due on January 30, 2025 (the “Maturity Date”). Upon providing 30 days written notice we may terminate the Loan and Security Agreement, subject to an early termination fee of $35,000. Upon the occurrence of an “Event of Default” (as defined in the Loan Security Agreement and including the failure to make required payments when due after specified grace periods, certain breaches and certain specified insolvency events), Aion would have the right to accelerate payments due, which from after such acceleration would bear interest at a default rate of 29.25% per annum. The Loan and Security Agreement is secured by our assets.
+
+ 
+
+                                                                   16
+
+ 
+
+ 
+
+We used proceeds from the Loan and Security Agreement to repay our business loan entered into November 2023 and may use for general corporate purposes, which includes working capital, capital expenditures, and repayment of debt. For the three months ended March 31, 2024, we recorded interest expense of $14,874. Accrued interest as of March 31, 2024 was zero.
+
+ 
+
+Convertible Notes Payable
+
+ 
+
+In March 2023, we issued an unsecured convertible note to Hensley & Company in the principal amount of $5,000,000 bearing an interest rate of 10.00% per annum. The principal amount, together with accrued and unpaid interest is due on March 20, 2025. At any time prior to or on the maturity date, Hensley & Company is permitted to convert all or any portion of the outstanding principal amount and all accrued but unpaid interest thereon into shares of our common stock at a conversion price of $18.00 per share ($1.20 on a pre-reverse split basis). During the three months ended March 31, 2024 and 2023, we recorded interest expense of $125,000 and $13,888, respectively. Accrued interest as of March 31, 2024 and December 31, 2023 was $513,888 and $388,888, respectively. Mr. McCain, a director of our company, is President and Chief Executive Officer of Hensley & Company.
+
+ 
+
+In June 2023, we issued an unsecured convertible note in the principal amount of $1,050,000 bearing an interest rate of 10.00% per annum payable monthly. The principal amount, together with accrued and unpaid interest is due on June 7, 2024. At any time prior to or on the maturity date the holder is permitted to convert all of the outstanding principal amount into 4.20% of the authorized units of our wholly owned subsidiary vCISO, LLC. We recorded interest expense of $27,603 for the three months ended March 31, 2024. Accrued interest as of March 31, 2024 and December 31, 2023 was $89,557 and $61,954, respectively.
+
+ 
+
+In October 2023, we issued an unsecured convertible note in the principal amount of $1,000,000 bearing an interest rate of 12.00% per annum payable monthly. The principal amount, together with accrued and unpaid interest is due on October 12, 2024. At any time prior to or on the maturity date the holder is permitted to convert all of the outstanding principal amount into shares of our common stock at a conversion price of $1.7595 per share ($0.1173 on a pre-reverse split basis). We recorded interest expense of $31,184 for the three months ended March 31, 2024. Accrued interest as of March 31, 2024 and December 31, 2023 was $58,167 and $26,983, respectively.
+
+ 
+
+Future minimum payments under the above loans payable and convertible notes payable due as of March 31, 2024 were as follows:
+
+ SCHEDULE OF FUTURE MINIMUM PAYMENTS FOR LONG TERM DEBT
+
+2024 (remainder of)                                                        $        5,058,542 
+
+2025                                                                                9,029,108 
+
+2026                                                                                  486,453 
+
+2027                                                                                  265,291 
+
+2028                                                                                  222,089 
+
+Thereafter                                                                            304,559 
+
+Total future minimum payments                                                      15,366,042 
+
+Less: discount                                                                       (236,262)
+
+Total                                                                              15,129,780 
+
+Less: current                                                                     (12,848,168)
+
+Long term debt, net                                                        $        2,281,612 
+
+ 
+
+                                                                   17
+
+ 
+
+ 
+
+NOTE 11 – LEASES
+
+ 
+
+We have entered into various non-cancellable operating lease agreements for certain offices. These leases currently have lease periods expiring through 2028. The lease agreements may include one or more options to renew. Renewals were not assumed in our determination of the lease term unless the renewals were deemed to be reasonably assured at lease commencement. Our lease agreements do not contain any material residual value guarantees or material restrictive covenants. The components of lease costs, weighted-average lease term, and discount rates are detailed below.
+
+ 
+
+When measuring lease liabilities for leases that were classified as operating leases, we discounted lease payments using our estimated incremental borrowing rate at commencement date of each lease. The weighted average incremental borrowing rate applied was 9.99%. As of March 31, 2024, our leases had a remaining weighted average term of 3.51 years.
+
+ 
+
+Operating leases are included in the unaudited condensed consolidated balance sheets as follows:
+
+SCHEDULE OF LEASE COST AND OTHER SUPPLEMENT LEASE INFORMATION 
+
+                                                                                          Three Months Ended         Year Ended      
+
+                                                                                            March 31, 2024       December 31, 2023
+
+Lease cost                                                                                                                           
+
+Operating lease cost (cost resulting from lease payments)                                $             73,996   $            270,638 
+
+Short term lease cost                                                                                  16,165                156,828 
+
+Net lease cost                                                                           $             90,161   $            427,466 
+
+                                                                                                                                     
+
+Operating lease – operating cash flows (fixed payments)                                  $             73,996   $            270,638 
+
+Operating lease – operating cash flows (liability reduction)                             $             53,502   $            199,069 
+
+Non-current leases – right of use assets                                                 $            704,882   $            762,228 
+
+Current liabilities – operating lease liabilities                                        $            222,674   $            219,342 
+
+Non-current liabilities – operating lease liabilities                                    $            539,474   $            596,307 
+
+ 
+
+Future minimum payments under non-cancelable leases for operating leases for the remaining terms of the leases following the three months ended March 31, 2024 were as follows:
+
+SCHEDULE OF FUTURE MINIMUM UNDER NON-CANCELLABLE LEASES FOR OPERATING LEASES 
+
+Fiscal Year                                                                                                       Operating Leases     
+
+2024 (remainder of)                                                                                            $              220,152 
+
+2025                                                                                                                          252,513 
+
+2026                                                                                                                          199,177 
+
+2027                                                                                                                          205,145 
+
+2028                                                                                                                           51,914 
+
+Total future minimum lease payments                                                                                           928,901 
+
+Amount representing interest                                                                                                 (166,753)
+
+Present value of net future minimum lease payments                                                             $              762,148 
+
+ 
+
+NOTE 12 – CONCENTRATION OF CREDIT RISK AND SIGNIFICANT CUSTOMERS
+
+ 
+
+Our financial instruments exposed to concentrations of credit risk consist primarily of cash and cash equivalents. Although we deposit cash with multiple banks, these deposits, including those held in foreign branches of global banks, may exceed the amount of insurance provided on such deposits. These deposits may generally be redeemed upon demand and bear minimal risk.
+
+ 
+
+No single customer represented over 10% of our total revenue for any period presented.
+
+ 
+
+                                                                   18
+
+ 
+
+ 
+
+NOTE 13 – GEOGRAPHIC INFORMATION
+
+ 
+
+Revenue by geography is based on the customer’s billing address and was as follows:
+
+ SCHEDULE OF REVENUE BY GEOGRAPHY IS BASED ON CUSTOMERS BILLING ADDRESS
+
+                                                                                       March 31, 2024            March 31, 2023      
+
+                                                                                                                                     
+
+U.S.                                                                               $            8,045,743   $            8,600,864 
+
+Chile                                                                                           3,691,673                4,891,318 
+
+All other countries                                                                                95,920                  234,499 
+
+Revenue                                                                            $           11,833,336   $           13,726,681 
+
+ 
+
+Property and equipment, net by geography was as follows:
+
+SCHEDULE OF PROPERTY AND EQUIPMENT, NET BY GEOGRAPHIC AREAS 
+
+                                                                                       March 31, 2024           December 31, 2023    
+
+                                                                                                                                     
+
+U.S.                                                                               $              968,825   $            1,052,637 
+
+Chile                                                                                           2,245,960                2,623,881 
+
+All other countries                                                                                   851                      956 
+
+Property and equipment net                                                         $            3,215,636   $            3,677,474 
+
+ 
+
+No other international country represented more than 10% of property and equipment, net in any period presented.
+
+ 
+
+NOTE 14 – ACCUMULATED OTHER COMPREHENSIVE INCOME
+
+ 
+
+The following table presents AOCI activity in equity:
+
+SCHEDULE OF ACCUMULATED OTHER COMPREHENSIVE INCOME 
+
+                                                                                      Foreign Currency             Total AOCI        
+
+                                                                                         Translation
+
+                                                                                         Adjustments
+
+                                                                                                                                     
+
+Balance as of December 31, 2023                                                    $            1,320,177   $            1,320,177 
+
+Other comprehensive income                                                                       (663,003)                (663,003)
+
+Amounts reclassified from AOCI                                                                          -                        - 
+
+Balance as of March 31, 2024                                                       $              657,174   $              657,174 
+
+ 
+
+ 
+
+                                                                   19
+
+ 
+
+ 
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ 
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with our condensed consolidated financial statements and related notes included in this Quarterly Report on Form 10-Q and the audited financial statements and related notes and Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023.
+
+ 
+
+Unless otherwise indicated or the context requires otherwise, the terms “we,” “us,” “our,” and “our company” refer to CISO Global Inc., a Delaware corporation, and its wholly owned subsidiaries. Unless otherwise specified, all dollar amounts are expressed in U.S. dollars.
+
+ 
+
+First Quarter 2024 Highlights
+
+ 
+
+Our operating results for the three months ended March 31, 2024 included the following:
+
+ 
+
+          ●         Total revenue decreased by $1.9 million to $11.8 million for the three months ended March 31, 2024, as compared to
+
+                     the three months ended March 31,
+
+                     2023.
+
+          ●         Total gross profit increased to $0.6 million for the three months ended March 31, 2024, as compared to the three
+
+                     months ended March 31,
+
+                     2023.
+
+ 
+
+Results of Operations
+
+ 
+
+Comparison of the Three Months Ended March 31, 2024 to the Three Months Ended March 31, 2023
+
+ 
+
+Our financial results for the three months ended March 31, 2024 are summarized as follows in comparison to the three months ended March 31, 2023:
+
+ 
+
+                                                                Three Months Ended March, 31                            
+
+                                                                 2024                 2023               Variance      
+
+Revenue:                                                                                                               
+
+Security managed services                                 $       10,447,840   $       11,766,133   $       (1,318,293)
+
+Professional services                                              1,285,213            1,960,548             (675,335)
+
+Cybersecurity software                                               100,283                    -              100,283 
+
+Total revenue                                                     11,833,336           13,726,681           (1,893,345)
+
+                                                                                                                       
+
+Cost of revenue:                                                                                                       
+
+Security managed services                                          4,655,484            5,560,563             (905,079)
+
+Professional services                                                273,331              198,293               75,038 
+
+Cybersecurity software                                                30,505                    -               30,505 
+
+Cost of payroll                                                    4,787,340            5,800,657           (1,013,317)
+
+Stock based compensation                                           1,097,250            1,768,084             (670,834)
+
+Total cost of revenue                                             10,843,910           13,327,597           (2,483,687)
+
+Total gross profit                                                   989,426              399,084              590,342 
+
+Operating expenses:                                                                                                    
+
+Professional fees                                                    596,647            1,677,387           (1,080,740)
+
+Advertising and marketing                                             28,306              115,394              (87,088)
+
+Selling, general, and administrative                               4,997,203            9,508,766           (4,511,563)
+
+Stock-based compensation                                           1,107,022            3,628,975           (2,521,953)
+
+Impairment of goodwill                                                     -           20,199,368          (20,199,368)
+
+Total operating expenses                                           6,729,178           35,129,890          (28,400,712)
+
+                                                                                                                       
+
+Loss from operations                                              (5,739,752)         (34,730,806)          28,991,054 
+
+Other income (expense):                                                                                                
+
+Other income (expense)                                                   702             (156,420)             157,122 
+
+Interest expense, net                                               (870,149)            (390,141)            (480,008)
+
+                                                                                                                       
+
+Total other income (expense)                                        (869,447)            (546,561)            (322,886)
+
+                                                                                                                       
+
+Loss before income taxes                                  $       (6,609,199)  $      (35,277,367)  $       28,668,168 
+
+ 
+
+                                                                   20
+
+ 
+
+ 
+
+Revenue
+
+ 
+
+Security managed services revenue decreased by $1,318,293, or 11%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to higher hardware sales in our Latin American region for the three months ended March 31, 2023.
+
+ 
+
+Professional services revenue decreased by $675,335, or 34%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to lower volumes of project work in Latin America.
+
+ 
+
+Cybersecurity software revenue increased by $100,283, or 100%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to the initial launch of our suite of internally developed cybersecurity software products.
+
+ 
+
+Expenses
+
+ 
+
+Cost of Revenue
+
+ 
+
+Security managed services cost of revenue decreased by $905,079, or 16%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to higher hardware sales in our Latin American region for the three months ended March 31, 2023.
+
+ 
+
+Professional services cost of revenue increased by $75,038, or 38%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, due to our increased use of consultants.
+
+ 
+
+Cybersecurity software cost of revenue increased by $30,505, or 100%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to the initial launch of our suite of internally developed cybersecurity software products.
+
+ 
+
+Cost of payroll decreased by $1,013,317, or 17%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to headcount reductions.
+
+ 
+
+Stock-based compensation expenses decreased by $670,834, or 38%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, due to outstanding option awards becoming fully vested, a decrease in the amount of new stock options awarded to our revenue generating employees, and the decline in our share price which produces a lower fair value of our option awards to recognize as stock-based compensation.
+
+ 
+
+Operating Expenses
+
+ 
+
+Professional fees decreased by $1,080,740, or 64%, for the three months ended March 31, 2024 as compared to three months ended March 31, 2023, due to an decrease in accounting, legal, and other professional fees incurred related to our periodic SEC filings and our efforts to raise additional capital.
+
+ 
+
+Advertising and marketing expenses decreased by $87,088, or 75%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, due to utilization of more internal marketing resources.
+
+ 
+
+                                                                   21
+
+ 
+
+ 
+
+Selling, general, and administrative expenses decreased by $4,511,563, or 47%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to our analysis of our carrying amount of intangible assets being impaired for the three months ended March 31, 2023, reductions in headcount, and lower costs for insurance and lease expenses for the three months ended March 31, 2024.
+
+ 
+
+Stock based compensation expenses decreased by $2,521,953, or 69%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, due to outstanding option awards becoming fully vested, a decrease in the amount of new stock options awarded to our employees, and the decline in our share price which produces a lower fair value of our option awards to recognize as stock-based compensation.
+
+ 
+
+Impairment of goodwill decreased by $20,199,368, or 100%, for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, due to our analysis of our carrying amount of goodwill being impaired in 2023.
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+The accompanying condensed consolidated financial statements have been prepared on the basis that we will continue as a going concern, which contemplates the realization of assets and satisfying liabilities in the normal course of business. For the three months ended March 31, 2024, we incurred a net loss of $6,609,199 and negative cash flows from operations of $1,408,632 and expect to incur further losses through the end of 2024. In the report accompanying our financial statements for the year ended December 31, 2023, our independent registered public accounting firm stated that our financial statements were prepared assuming that we would continue as a going concern and that they have substantial doubt as to our ability to do so based on our recurring losses from operations and need to raise additional capital. These condensed consolidated financial statements do not include any adjustments relating to the recoverability of assets and the amount or classification of liabilities that might be necessary should we be unable to continue as a going concern.
+
+ 
+
+As of March 31, 2024, we had $291,301,171 of available funding under our Shelf Registration Statement on From S-3 from which we may issue our securities to fund current and future operations, assuming there is adequate demand for our securities.
+
+ 
+
+Working Capital Deficit
+
+ 
+
+Our working capital deficit as of March 31, 2024 in comparison to our working capital deficit as of December 31, 2023, is summarized as follows:
+
+ 
+
+                                                                                               As of                     
+
+                                                                                 March 31,             December 31,      
+
+                                                                                   2024                    2023          
+
+Current assets                                                             $          9,276,063   $         10,957,814 
+
+Current liabilities                                                                  32,604,126             26,071,102 
+
+Working capital deficit                                                    $        (23,328,063)  $        (15,113,288)
+
+ 
+
+The decrease in current assets is primarily due to an increase in cash and cash equivalents of $454,547, offset by a decrease in accounts receivable, net, of $1,947,567. The increase in current liabilities is primarily due to our $5,000,000 related party convertible note becoming due within the next year and net borrowings on our new line of credit of $2,300,708.
+
+ 
+
+                                                                   22
+
+ 
+
+ 
+
+Cash Flows
+
+ 
+
+Our cash flows for the three months ended March 31, 2024 in comparison to our cash flows for the three months ended March 31, 2023, can be summarized as follows:
+
+ 
+
+                                                                                   Three Months ended March 31,          
+
+                                                                                   2024                    2023          
+
+Net cash used in operating activities                                      $         (1,408,633)  $         (2,110,872)
+
+Net cash used in investing activities                                                   (75,571)              (182,839)
+
+Net cash provided by financing activities                                             2,014,034              4,238,797 
+
+Effect of exchange rates on cash and cash equivalents                                   (75,283)                45,486 
+
+ 
+
+Operating Activities
+
+ 
+
+Net cash used in operating activities was $1,408,633 for the three months ended March 31, 2024 and was primarily due to cash used to fund a net loss of $6,609,199, adjusted for non-cash expenses in the aggregate of $3,207,036 and additional cash inflow by changes in the levels of operating assets and liabilities, primarily as a result of a decrease in accounts receivables, net, and an increase in deferred revenue. Net cash used in operating activities was $2,110,872 for the three months ended March 31, 2023 and was primarily due to cash used to fund a net loss of $34,841,689, adjusted for non-cash expenses in the aggregate of $29,809,522 and additional cash inflow by changes in the levels of operating assets and liabilities, primarily as a result of an increase in current assets, and accounts payable and accrued expenses.
+
+ 
+
+Investing Activities
+
+ 
+
+Net cash used in investing activities of $75,571 for the three months ended March 31, 2024 was due to purchases of property and equipment. Net cash used in investing activities of $182,839 for the three months ended March 31, 2023 was due to purchases of property and equipment.
+
+ 
+
+Financing Activities
+
+ 
+
+Net cash provided by financing activities for the three months ended March 31, 2024 was $2,014,034, which was primarily due to cash received from borrowings on our loans payable and lines of credit, net of debt issuance cost, of $4,571,583, offset by $2,605,636 in repayments of our loans payable and lines of credit. Net cash provided by financing activities for the three months ended March 31, 2023 was $4,238,797, which was primarily due to cash received from the sale of our common stock of $3,143,147, $1,912,500 in net proceeds from our loan payable, and $5,000,000 in proceeds from a related party convertible note payable, offset by aggregate repayments on loans payable and a convertible note payable of $6,279,547.
+
+ 
+
+Based on our current business plan, we believe our cash balance as of the date of this filing, together with anticipated revenues, will be sufficient to meet our anticipated cash requirement for the near term. However, there can be no assurance that the current business plan will be achievable. Such conditions raise substantial doubts about our ability to continue as a going concern for one year from the date the condensed consolidated financial statements are issued.
+
+ 
+
+Our existence is dependent upon our ability to develop profitable operations. We are devoting substantially all of our efforts to developing our business, reducing overhead costs, and raising capital, although there can be no assurance that our efforts will be successful. No assurance can be given that our actions will result in profitable operations or the resolution of liquidity problems. The accompanying condensed consolidated financial statements do not include any adjustments that might result should we be unable to continue as a going concern.
+
+ 
+
+In order to improve our liquidity, in addition to a planned reduction in overhead costs, we are actively pursuing additional debt and/or equity financing through discussions with investment bankers and private investors. There can be no assurance that we will be successful in our efforts to secure additional financing.
+
+ 
+
+The financial statements do not include any adjustments relating to the recoverability of assets and the amount or classification of liabilities that might be necessary should we be unable to continue as a going concern.
+
+ 
+
+Critical Accounting Policies and Estimates
+
+ 
+
+Our critical accounting policies are more fully described in the notes to our condensed consolidated financial statements included herein for the quarter ended March 31, 2024 and in the notes to our consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2023, as filed with the SEC on April 16, 2024.
+
+ 
+
+                                                                   23
+
+ 
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent liabilities at the dates of the financial statements and the reported amounts of revenue and expenses during the periods. Our material estimates and assumptions include the allowance for credit losses, the carrying value of intangible assets and goodwill, deferred tax asset and valuation allowance, the estimated fair value of assets acquired, liabilities assumed and stock issued in business combinations, and assumptions used in the Black-Scholes option pricing model, such as expected volatility, risk-free interest rate, share price, and expected dividend rate. Certain of our estimates, including the carrying amount of intangible assets and goodwill, could be affected by external conditions, including those unique to us and general economic conditions. It is reasonably possible that these external factors could have an effect on our estimates and could cause actual results to materially differ from those estimates.
+
+ 
+
+Fair Value Measurement
+
+ 
+
+The fair value measurement guidance clarifies that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in the valuation of an asset or liability. It establishes a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1 measurements) and the lowest priority to unobservable inputs (Level 3 measurements). The three levels of the fair value hierarchy under the fair value measurement guidance are described below:
+
+ 
+
+Level 1 - Unadjusted quoted prices in active markets that are accessible at the measurement date for identical assets or liabilities;
+
+ 
+
+Level 2 - Quoted prices in markets that are not active, or inputs that are observable, either directly or indirectly, for substantially the full term of the asset or liability; or
+
+ 
+
+Level 3 - Prices or valuation techniques that require inputs that are both significant to the fair value measurement and unobservable (supported by little or no market activity).
+
+ 
+
+Intangible Assets
+
+ 
+
+Intangible assets are comprised of trademarks, customer bases, non-compete agreements, and intellectual property with original estimated useful lives with a range of 2 to 10 years. Once placed into service, we amortize the cost of intangible assets over their estimated useful lives on a straight-line basis.
+
+ 
+
+Goodwill
+
+ 
+
+Goodwill represents the excess of the purchase price of the acquired business over the estimated fair value of the identifiable net assets acquired. Goodwill is not amortized but is tested for impairment at the reporting unit level at least annually at year end or more frequently if events or changes in circumstances indicate that the asset might be impaired. Goodwill is tested for impairment at the reporting unit level by first performing a qualitative assessment to determine whether it is more likely than not that the fair value of the reporting unit is less than its carrying value. If the reporting unit does not pass the qualitative assessment, then the reporting unit’s carrying value is compared to its fair value. The fair values of the reporting units are estimated using market and revenue multiple approaches. Goodwill is considered impaired if the carrying value of the reporting unit exceeds its fair value. Failure to achieve these expected results may cause a future impairment of goodwill at the reporting unit.
+
+ 
+
+                                                                   24
+
+ 
+
+ 
+
+Impairment of Long-Lived and Intangible Assets
+
+ 
+
+We will periodically evaluate the carrying value of long-lived and intangible assets to be held and used when events and circumstances warrant such a review and at least annually. The carrying value of a long-lived and intangible asset is considered impaired when the anticipated undiscounted cash flow from such asset is separately identifiable and is less than its carrying value. In that event, a loss is recognized based on the amount by which the carrying value exceeds the fair value of the long-lived asset. Fair value is determined primarily using the anticipated cash flows discounted at a rate commensurate with the risk involved. Losses on long-lived and intangible assets to be disposed of are determined in a similar manner, except that fair values are reduced for the cost to dispose.
+
+ 
+
+Stock-Based Compensation
+
+ 
+
+We measure the cost of services received in exchange for an award of equity instruments based on the fair value of the award. The fair value of the award is measured on the grant date. Awards granted to directors are treated on the same basis as awards granted to employees.
+
+ 
+
+Revenue Recognition
+
+ 
+
+Our agreements with clients are primarily service contracts that range in duration from a few months to one year. We recognize revenue when control of these services is transferred to the client for an amount, referred to as the transaction price, which reflects the consideration to which we are expected to be entitled in exchange for those goods or services.
+
+ 
+
+A contract with a client exists only when:
+
+ 
+
+     ●    the parties to the contract have approved it and are committed to perform their respective obligations;
+
+     ●    we can identify each party’s rights regarding the distinct services to be transferred (“performance obligations”);
+
+     ●    we can determine the transaction price for the services to be transferred; and
+
+     ●    the contract has commercial substance, and it is probable that we will collect the consideration to which it will be
+
+           entitled in exchange for the goods or services that will be transferred to the
+
+           client.
+
+ 
+
+For the majority of our contracts, we receive non-refundable upfront payments. We do not adjust the promised amount of consideration for the effects of a significant financing component since we expect, at contract inception, that the period between the time of transfer of the promised goods or services to the client and the time the client pays for these goods or services to be generally one year or less. Our credit terms to clients generally average 30 days, although in some cases payments are required in 15 days.
+
+ 
+
+We do not disclose the value of unsatisfied performance obligations for contracts with original expected duration of one year or less.
+
+ 
+
+Our revenue is categorized and disaggregated as reflected in our statements of operations as follows:
+
+ 
+
+Security Managed Services
+
+ 
+
+Security managed services revenue primarily consists of compliance, security managed services, SOC managed services, and vCISO. We consider these services to be a single performance obligation, and revenue is recognized as services and materials are provided to the customer.
+
+ 
+
+Professional Services
+
+ 
+
+Professional services revenue primarily consists of technical assessments, incident response and forensics, training, and other cybersecurity services. We consider these services to be a single performance obligation, and revenue is recognized in the period in which the performance obligations are satisfied.
+
+ 
+
+                                                                   25
+
+ 
+
+ 
+
+Cybersecurity Software
+
+ 
+
+Cybersecurity revenue primarily consists of our internally developed software products CHECKLIGHT Endpoint Security Monitoring, ARGO Security Management, CISO Edge Cloud Security Platform, DISC Net Gen VPN and Skanda Breach Assessment Tool. Each software offering is a single performance obligation, and we begin revenue recognition upon provisioning of our cybersecurity software to our customers and recognize ratably over the duration of the service period. We currently do not bundle our cybersecurity software with other product offerings and as a result, judgment is not required to determine standalone selling price.
+
+ 
+
+Off-Balance Sheet Arrangements
+
+ 
+
+We have no off-balance sheet arrangements that have or are reasonably likely to have a material current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures, or capital resources.
+
+ 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ 
+
+Because we are a smaller reporting company, we are not required to provide the information called for by this Item.
+
+ 
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+We maintain disclosure controls and procedures (as that term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) that are designed to provide reasonable assurance that information required to be disclosed in our reports under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosures.
+
+ 
+
+In designing and evaluating our disclosure controls and procedures, management recognizes that any disclosure controls and procedures, no matter how well designed and operated, can provide only reasonable, not absolute, assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+
+ 
+
+Our management, with the participation of our principal executive officer and principal financial officer, has evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the period covered by this report. Based upon that evaluation, our principal executive officer and principal financial officer concluded that, as of March 31, 2024, our disclosure controls and procedures were effective. This does not include an evaluation by our independent registered public accounting firm regarding our internal control over financial reporting.
+
+ 
+
+Changes in Internal Control Over Financial Reporting
+
+ 
+
+There have been no changes in our internal control over financial reporting (as defined in Rule 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended March 31, 2024, that have materially affected, or that are reasonably likely to materially affect, our internal control over financial reporting.
+
+ 
+
+                                                                   26
+
+ 
+
+ 
+
+PART II – OTHER INFORMATION
+
+ 
+
+ITEM 1. LEGAL PROCEEDINGS
+
+ 
+
+We are currently not a party to any material legal proceedings.
+
+ 
+
+ITEM 1A. RISK FACTORS
+
+ 
+
+We have disclosed under the heading “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on April 16, 2024, risk factors that materially affect our business, financial condition, or results of operations. There have been no material changes from the risk factors previously disclosed.
+
+ 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+ 
+
+In March 2024, we issued 100,000 shares of our common stock to LendSpark Corporation as additional consideration to enter into a loan agreement in which we received gross proceeds of $2,200,000.
+
+ 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+ 
+
+None.
+
+ 
+
+ITEM 4. MINE SAFETY DISCLOSURES
+
+ 
+
+Not Applicable.
+
+ 
+
+ITEM 5. OTHER INFORMATION
+
+ 
+
+During the quarter ended March 31, 2024, none of our directors or officers adopted or terminated a “Rule 10b5-1 trading agreement” or a “non-Rule 10b5-1 trading agreement” (in each case, defined in Item 408 of Regulation S-K).
+
+ 
+
+ITEM 6. EXHIBITS
+
+ 
+
+                                                                                                     Incorporated by Reference
+
+    Exhibit                                 Exhibit Description                                 Form      Exhibit      Filing Date
+
+    Number
+
+      3.1        Certificate of Amendment of Amended and Restated By-Laws of the Registrant     8-K         3.1        03/07/2024
+
+     31.1*       Rule 13a-14(a) / 15d-14(a) Certification of Principal Executive Officer                                     
+
+     31.2*       Rule 13a-14(a) / 15d-14(a) Certification of Principal Financial Officer                                     
+
+     32.1        Section 1350 Certification of Principal Executive Officer                                                   
+
+     32.2        Section 1350 Certification of Principal Financial Officer                                                   
+
+   101.INS*      Inline XBRL Instance Document                                                                               
+
+   101.SCH*      Inline XBRL Taxonomy Extension Schema Document                                                              
+
+   101.CAL*      Inline XBRL Taxonomy Extension Calculation Linkbase Document                                                
+
+   101.DEF*      Inline XBRL Taxonomy Extension Definition Linkbase Document                                                 
+
+   101.LAB*      Inline XBRL Taxonomy Extension Label Linkbase Document                                                      
+
+   101.PRE*      Inline XBRL Taxonomy Extension Presentation Linkbase Document                                               
+
+     104*        Cover Page Interactive Data File (formatted as Inline XBRL and contained                                    
+
+                  in Exhibit
+
+                  101)
+
+ 
+
+*Filed herewith.
+
+#Management contracts and compensatory plans and arrangements.
+
+ 
+
+                                                                   27
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+CISO GLOBAL, INC.                                                    
+
+                                                                    
+
+By:   /s/ David G. Jemmett                                          
+
+      David G. Jemmett                                              
+
+      Chief Executive Officer                                       
+
+      (Principal Executive Officer)                                 
+
+Date: May 20, 2024                                                  
+
+                                                                    
+
+By:   /s/ Debra L. Smith                                            
+
+      Debra L. Smith                                                
+
+      Chief Financial Officer                                       
+
+      (Principal Financial Officer and Principal Accounting         
+
+       Officer)
+
+Date: May 20, 2024                                                  
+
+ 
+
+                                                                   28

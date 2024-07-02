@@ -1,0 +1,2983 @@
+Table of Contents
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549 
+
+ 
+
+
+
+ 
+
+FORM 10-Q
+
+ 
+
+
+
+ 
+
+(Mark One)
+
+  ☒         QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024
+
+or
+
+ 
+
+  ☐         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from                     to                    
+
+ 
+
+Commission File Number 001-37893
+
+ 
+
+
+
+ 
+
+FLUENT, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+
+ 
+
+                                   Delaware                                                                 77-0688094
+
+                       (State or other jurisdiction of                                                   (I.R.S. Employer
+
+                        incorporation or organization)                                                 Identification No.)
+
+ 
+
+                      300 Vesey Street, 9th Floor                                                   10282
+
+                          New York, New York
+
+               (Address of principal executive offices)                                          (Zip Code)
+
+ 
+
+(646) 669-7272
+
+(Registrant's telephone number, including area code)
+
+ 
+
+Not Applicable 
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+ 
+
+
+
+ 
+
+  
+
+
+
+Table of Contents 
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                                                   
+
+                  Title of each class                           Trading                Name of each exchange on which registered
+
+                                                               Symbol(s)
+
+       Common Stock, $0.0005 par value per share                  FLNT                        The NASDAQ Stock Market, LLC
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    ☒  Yes    ☐  No
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    ☒  Yes    ☐  No
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+
+  Large accelerated filer       ☐                                                      Accelerated filer                         ☐
+
+  Non-accelerated filer         ☒                                                      Smaller reporting company                 ☒
+
+                                                                                       Emerging growth company                   ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act):    Yes  ☐    No  ☒
+
+As of May 13, 2024, the registrant had 13,660,598 shares of common stock, $0.0005 par value per share, outstanding.
+
+
+
+
+
+ 
+
+  
+
+
+
+Table of Contents 
+
+ 
+
+  
+
+  
+
+FLUENT, INC.
+
+ 
+
+TABLE OF CONTENTS FOR FORM 10-Q
+
+ 
+
+                                                                                                                                   Page
+
+  PART I - FINANCIAL INFORMATION                                                                                                        
+
+                                                                                                                                       
+
+  Item 1.   Financial Statements (unaudited)                                                                                           
+
+            Consolidated Balance Sheets as of March 31, 2024 and December 31, 2023                                                    2
+
+            Consolidated Statements of Operations for the three months ended March 31, 2024 and 2023                                  3
+
+            Consolidated Statements of Changes in Shareholders' Equity for the three months ended March 31, 2024 and 2023             4
+
+            Consolidated Statements of Cash Flows for the three months ended March 31, 2024 and 2023                                  5
+
+            Notes to Consolidated Financial Statements                                                                                6
+
+  Item 2.   Management's Discussion and Analysis of Financial Condition and Results of Operations                                    22
+
+  Item 3.   Quantitative and Qualitative Disclosures About Market Risk                                                               33
+
+  Item 4.   Controls and Procedures                                                                                                  33
+
+                                                                                                                                       
+
+  PART II - OTHER INFORMATION                                                                                                           
+
+                                                                                                                                       
+
+  Item 1.   Legal Proceedings                                                                                                        34
+
+  Item 1A.  Risk Factors                                                                                                             34
+
+  Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds                                                              35
+
+  Item 3.   Defaults Upon Senior Securities                                                                                          35
+
+  Item 5.   Other Information                                                                                                        35
+
+  Item 6.   Exhibits                                                                                                                 36
+
+  Signatures                                                                                                                          37
+
+ 
+
+1 
+
+
+
+Table of Contents 
+
+ 
+
+  
+
+PART I - FINANCIAL INFORMATION
+
+ 
+
+Unless otherwise indicated or required by the context, all references in this Quarterly Report on Form 10-Q to "we," "us," "our," "Fluent," or the "Company," refer to Fluent, Inc. and its consolidated subsidiaries.
+
+ 
+
+ITEM 1. FINANCIAL STATEMENTS.
+
+ 
+
+FLUENT, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+                                                                                                  March 31, 2024    December 31, 2023 
+
+  ASSETS:                                                                                                                            
+
+  Cash and cash equivalents                                                                      $         11,658  $          15,804 
+
+  Accounts receivable, net of allowance for doubtful accounts of $247 and $231, respectively               53,421             56,531 
+
+  Prepaid expenses and other current assets                                                                 6,337              6,071 
+
+  Total current assets                                                                                     71,416             78,406 
+
+  Property and equipment, net                                                                                 502                591 
+
+  Operating lease right-of-use assets                                                                       2,952              3,395 
+
+  Intangible assets, net                                                                                   26,141             26,809 
+
+  Goodwill                                                                                                  1,261              1,261 
+
+  Other non-current assets                                                                                  1,305              1,405 
+
+  Total assets                                                                                   $        103,577  $         111,867 
+
+  LIABILITIES AND SHAREHOLDERS' EQUITY:                                                                                              
+
+  Accounts payable                                                                               $          8,829  $          10,954 
+
+  Accrued expenses and other current liabilities                                                           30,878             30,534 
+
+  Deferred revenue                                                                                            561                430 
+
+  Current portion of long-term debt                                                                        30,981              5,000 
+
+  Current portion of operating lease liability                                                              2,279              2,296 
+
+  Total current liabilities                                                                                73,528             49,214 
+
+  Long-term debt, net                                                                                           —             25,488 
+
+  Operating lease liability, net                                                                            1,188              1,699 
+
+  Other non-current liabilities                                                                               115              1,062 
+
+  Total liabilities                                                                                        74,831             77,463 
+
+  Contingencies (Note 10)                                                                                                            
+
+                                                                                                                                     
+
+  Shareholders' equity:                                                                                                              
+
+  Preferred stock — $0.0001 par value, 10,000,000 Shares authorized; Shares outstanding — 0                     —                  — 
+
+   shares for both
+
+   periods
+
+  Common stock — $0.0005 par value, 200,000,000 Shares authorized; Shares issued — 14,429,193                  43                 43 
+
+   and 14,384,936, respectively; and Shares outstanding — 13,660,598 and 13,616,341,
+
+   respectively (Note
+
+   7)
+
+  Treasury stock, at cost — 768,595 and 768,595 Shares, respectively (Note 7)                             (11,407)           (11,407)
+
+  Additional paid-in capital                                                                              427,904            427,286 
+
+  Accumulated deficit                                                                                    (387,794)          (381,518)
+
+  Total shareholders' equity                                                                               28,746             34,404 
+
+  Total liabilities and shareholders' equity                                                     $        103,577  $         111,867 
+
+ 
+
+See notes to consolidated financial statements
+
+ 
+
+2 
+
+
+
+Table of Contents 
+
+ 
+
+  
+
+FLUENT, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+                                                                                                    Three Months Ended March 31,      
+
+                                                                                                      2024               2023        
+
+  Revenue                                                                                       $          65,983  $          77,254 
+
+  Costs and expenses:                                                                                                                
+
+  Cost of revenue (exclusive of depreciation and amortization)                                             47,348             58,272 
+
+  Sales and marketing                                                                                       4,812              4,813 
+
+  Product development                                                                                       4,840              4,938 
+
+  General and administrative                                                                               10,365             12,325 
+
+  Depreciation and amortization                                                                             2,571              2,359 
+
+  Goodwill impairment and write-off of intangible assets                                                        —             25,700 
+
+  Total costs and expenses                                                                                 69,936            108,407 
+
+  Loss from operations                                                                                     (3,953)           (31,153)
+
+  Interest expense, net                                                                                    (1,415)              (689)
+
+  Loss before income taxes                                                                                 (5,368)           (31,842)
+
+  Income tax expense                                                                                         (908)              (101)
+
+  Net loss                                                                                                 (6,276)           (31,943)
+
+                                                                                                                                     
+
+  Basic and diluted loss per share:                                                                                                  
+
+  Basic                                                                                         $           (0.45) $           (2.34)
+
+  Diluted                                                                                       $           (0.45) $           (2.34)
+
+                                                                                                                                     
+
+  Weighted average number of shares outstanding:                                                                                     
+
+  Basic                                                                                                13,902,165         13,651,152 
+
+  Diluted                                                                                              13,902,165         13,651,152 
+
+ 
+
+See notes to consolidated financial statements
+
+ 
+
+3 
+
+
+
+Table of Contents 
+
+ 
+
+  
+
+FLUENT, INC.
+
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+                                Common stock              Treasury stock        Additional      Accumulated          Total       
+
+                                                                                  paid-in                         shareholders'
+
+                            Shares        Amount       Shares      Amount       capital         deficit            equity      
+
+  Balance at December       14,384,936  $        43     768,595  $ (11,407) $    427,286  $       (381,518) $         34,404 
+
+   31,
+
+   2023
+
+  Vesting of                    44,257            —           —          —             —                 —                 — 
+
+   restricted stock
+
+   units and issuance
+
+   of stock under
+
+   incentive
+
+   plans
+
+  Share-based                        —            —           —          —           618                 —               618 
+
+   compensation
+
+  Net loss                           —            —           —          —             —            (6,276)           (6,276)
+
+  Balance at March 31,      14,429,193  $        43     768,595  $ (11,407) $    427,904  $       (387,794) $         28,746 
+
+   2024
+
+ 
+
+ 
+
+                                         Common stock            Treasury stock       Additional      Accumulated          Total       
+
+                                                                                        paid-in                         shareholders'
+
+                                     Shares        Amount      Shares      Amount       capital         deficit            equity      
+
+  Balance at December 31, 2022        14,129,530  $       42     716,692  $ (11,171) $    423,384  $       (318,300) $         93,955 
+
+  Vesting of restricted stock            193,323           1           —          —            (1)                —                 — 
+
+   units and issuance of stock
+
+   under incentive
+
+   plans
+
+  Increase in treasury stock                   —           —      51,903       (236)            —                 —              (236)
+
+   resulting from shares
+
+   withheld to cover statutory
+
+   taxes
+
+  Share-based compensation                     —           —           —          —         1,148                 —             1,148 
+
+  Net loss                                     —           —           —          —             —           (31,943)          (31,943)
+
+  Balance at March 31, 2023           14,322,853  $       43     768,595  $ (11,407) $    424,531  $       (350,243) $         62,924 
+
+ 
+
+See notes to consolidated financial statements
+
+ 
+
+4 
+
+
+
+Table of Contents 
+
+ 
+
+  
+
+FLUENT, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Amounts in thousands)
+
+(unaudited)
+
+ 
+
+                                                                                                        Three Months Ended March 31,   
+
+                                                                                                           2024            2023      
+
+  CASH FLOWS FROM OPERATING ACTIVITIES:                                                                                              
+
+  Net loss                                                                                            $       (6,276) $      (31,943)
+
+  Adjustments to reconcile net loss to net cash provided by operating activities:                                                    
+
+  Depreciation and amortization                                                                                2,571           2,359 
+
+  Non-cash loan amortization expense                                                                             711              61 
+
+  Share-based compensation expense                                                                               600           1,061 
+
+  Goodwill impairment                                                                                              —          25,700 
+
+  Allowance for credit losses                                                                                     82             (55)
+
+  Changes in assets and liabilities, net of business acquisitions:                                                                   
+
+  Accounts receivable                                                                                          3,028           6,460 
+
+  Prepaid expenses and other current assets                                                                     (266)         (2,082)
+
+  Other non-current assets                                                                                       100              82 
+
+  Operating lease assets and liabilities, net                                                                    (85)            (82)
+
+  Accounts payable                                                                                            (2,125)          6,739 
+
+  Accrued expenses and other current liabilities                                                               2,344          (3,362)
+
+  Deferred revenue                                                                                               131              (9)
+
+  Other                                                                                                         (947)            (39)
+
+  Net cash (used in) provided by operating activities                                                           (132)          4,890 
+
+  CASH FLOWS FROM INVESTING ACTIVITIES:                                                                                              
+
+  Capitalized costs included in intangible assets                                                             (1,796)         (1,134)
+
+  Business acquisitions, net of cash acquired                                                                      —          (1,250)
+
+  Net cash used in investing activities                                                                       (1,796)         (2,384)
+
+  CASH FLOWS FROM FINANCING ACTIVITIES:                                                                                              
+
+  Repayments of long-term debt                                                                                (1,250)         (1,250)
+
+  Debt financing costs                                                                                          (968)              — 
+
+  Taxes paid related to net share settlement of vesting of restricted stock units                                  —            (236)
+
+  Net cash used in financing activities                                                                       (2,218)         (1,486)
+
+  Net increase (decrease) in cash and cash equivalents                                                        (4,146)          1,020 
+
+  Cash and cash equivalents at beginning of period                                                            15,804          25,547 
+
+  Cash and cash equivalents at end of period                                                          $       11,658  $       26,567 
+
+  SUPPLEMENTAL DISCLOSURE INFORMATION                                                                                                
+
+  Cash paid for interest                                                                              $          759             664 
+
+  Cash paid for income taxes                                                                          $           31              55 
+
+  Share-based compensation capitalized in intangible assets                                           $           18              27 
+
+  SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING AND FINANCING ACTIVITIES                                                             
+
+  Contingent payments in connection with TAPP consolidation                                           $            —  $        2,693 
+
+  Long-term debt issuance                                                                             $        2,000  $            — 
+
+ 
+
+See notes to consolidated financial statements
+
+ 
+
+5 
+
+
+
+Table of Contents 
+
+ 
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+  
+
+1. Summary of significant accounting policies
+
+ 
+
+(a) Basis of preparation 
+
+ 
+
+The accompanying unaudited consolidated financial statements have been prepared by Fluent, Inc., a Delaware corporation (the "Company" or "Fluent"), in accordance with accounting principles generally accepted in the United States ("GAAP" or "U.S. GAAP") and applicable rules and regulations of the Securities and Exchange Commission (the "SEC") regarding interim financial reporting. Certain information and note disclosures normally included in annual financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to those rules and regulations.
+
+ 
+
+The accompanying unaudited consolidated financial statements reflect all normal recurring adjustments necessary to present fairly the financial position, results of operations, and cash flows for the interim periods ended March 31, 2024 and 2023, respectively, but are not necessarily indicative of the results of operations to be anticipated for any future interim periods or for the full year ending December 31, 2024.
+
+ 
+
+From time to time, the Company may enter into relationships or investments with other entities, and, in certain instances, the entity in which the Company has a relationship or investment may qualify as a variable interest entity ("VIE"). The Company consolidates a VIE in its financial statements if the Company is deemed to be the primary beneficiary of the VIE. The primary beneficiary is the party that has the power to direct activities that most significantly impact the operations of the VIE and has the obligation to absorb losses or the right to benefits from the VIE that could potentially be significant to the VIE. 
+
+ 
+
+The information included in this Quarterly Report on Form 10-Q should be read in conjunction with the consolidated financial statements and accompanying notes included in the Company's Annual Report on Form 10-K for the year ended  December 31, 2023 ("2023 Form 10-K") filed with the SEC on April 2, 2024. The consolidated balance sheet as of  December 31, 2023 included herein was derived from the audited financial statements as of that date and included in the 2023 Form 10-K.
+
+ 
+
+Going concern
+
+ 
+
+In accordance with Accounting Standards Codification (“ASC”) 205-40, Presentation of Financial Statements – Going Concern, management must evaluate whether there are conditions and events, considered in the aggregate, that raise substantial doubt about the Company’s ability to continue as a going concern for one year after the date these accompanying unaudited consolidated financial statements are issued (the “issuance date”). As part of this evaluation, management may consider the potential mitigating impact of its plans that have not been fully implemented as of the issuance date if (a) it is probable that management’s plans will be effectively implemented on a timely basis, and (b) it is probable that the plans, when implemented, will alleviate the relevant conditions or events that raise substantial doubt about the Company’s ability to continue as a going concern within one year after the issuance date.
+
+ 
+
+The Company has experienced a decline in its operating results, driven primarily by the continued impact of the imposed regulatory requirements on its owned and operated digital media properties (see Note 10, Contingencies). As a result, the Company had pre-emptively received a waiver for not being in compliance with the total leverage and fixed charge ratio covenants under the Citizens Credit Agreement as of  March 31, 2024 (as defined in Note 5) (see Note 5, Long-term debt, net) and such event of default continued until that debt was extinguished with proceeds from the SLR Credit Agreement (as defined in Note 5) entered into on April 2, 2024. The SLR Credit Agreement requires the Company to maintain and comply with certain financial covenants. Moreover, the borrowings under the SLR Revolver (as defined in Note 5) under the SLR Credit Agreement are limited to a borrowing base described in Note 5. The borrowing base fluctuates as regularly as weekly based on our eligible accounts receivable. As a result of a decline in financial performance of the Company's owned and operated digital media properties in April 2024, the Company's accounts receivable were expected to be insufficient to support the borrowing base needed to fund operations through the end of the second quarter of 2024. The Company therefore raised equity capital in the private placement described below and updated its projections to reflect the continued decline in its operating results. The revised projections indicate that the Company will not be in compliance with all financial covenants under the SLR Credit Agreement for each of the quarters in the twelve months following the issuance date of this Quarterly Report on Form 10-Q. Such non-compliance, in turn, would constitute an event of default that would give SLR (as defined in Note 5) the right to accelerate maturities under the SLR Credit Agreement. Furthermore, the decline in operating results could lead to declines in the borrowing base, which could lead to the Company's inability to draw on the SLR Revolver Facility in order to fund its operations as well as, potentially, require repayment of a portion of its current borrowings under the SLR Credit Facility. While the Company had cash and cash equivalents of $11,658 as of March 31, 2024 and raised an additional $10,000 in gross proceeds from the private placement on May 13, 2024 (as described in Note 12, Subsequent Events), management does not expect the Company’s cash resources will be adequate to meet its obligations as they become due within the one-year period after the issuance date if maturities under the SLR Credit Agreement are accelerated or the SLR Revolver cannot be drawn on due to a decline in the borrowing base if the Company did not meet is projections. These circumstances raise substantial doubt about the Company’s ability to continue as a going concern.
+
+ 
+
+On  May 15, 2024, the Company and SLR entered into the first amendment to the SLR Credit Agreement pursuant to which, among other things, SLR waived any required prepayments on the SLR Revolver from the proceeds from the Private Placement (see Note 5, Long-term debt, net). Additionally, the Company has initiated discussions with SLR about remedies if the Company is unable to meet its covenants in the next twelve months.
+
+ 
+
+Given the continued challenges the Company has faced achieving its financial targets, the Company plans to consider further cost reduction measures and focus resources on opportunities that will enable the Company to meet its projected budget and cash flow requirements. These initial plans include divesting a business unit (see Note 12, Subsequent Events) and reviewing divesting other business units to determine the impact of potential divestments.
+
+ 
+
+While management believes the proceeds from the Private Placement and the other steps noted above will be adequate to cover a decline in the borrowing base under the SLR Revolver and fund its current operations, there is no guarantee that the Company's plans will be successfully executed or have the expected benefits. Furthermore, if an event of default under the SLR Credit Agreement were to occur and the maturity date accelerated, the Company likely would not have sufficient funds to repay the Term Loan (as defined in Note 5) and the SLR Revolver. While management believes the Company will be able to work through its plans to mitigate any event of default with SLR, obtaining a waiver of an event of default or entering into an amendment to mitigate an event of default is not entirely within the Company’s control. As there can be no assurance that the Company will be able to effectively implement its plans within one year after the issuance date, based on the factors above, management concluded that there is substantial doubt about the Company's ability to continue as a going concern through such one-year period.
+
+ 
+
+The accompanying unaudited financial statements do not include any adjustments relating to the possible future effects on the recoverability and classification of recorded assets and classification of liabilities that might result should the Company be unable to continue as a going concern.
+
+ 
+
+Principles of consolidation
+
+ 
+
+The consolidated financial statements include the financial statements of the Company and its subsidiaries. All significant transactions among the Company and its subsidiaries have been eliminated upon consolidation.
+
+ 
+
+(b) Reverse stock split
+
+ 
+
+On April 11, 2024, the Company effected a 1-for-6 reverse split of the issued shares (the "Reverse Stock Split") of the Company’s common stock. All historical share amounts disclosed in this Quarterly Report on Form 10-Q have been retroactively restated to reflect the Reverse Stock Split. No fractional shares were issued as a result of the Reverse Stock Split, as fractional shares of Common Stock were rounded up to the nearest whole share. See Note 7, Common stock and treasury stock for additional information.
+
+ 
+
+(c) Recently issued and adopted accounting standards
+
+ 
+
+Accounting pronouncements not listed below were assessed and determined to be not applicable or are expected to have minimal impact on the Company's consolidated financial statements.
+
+ 
+
+In October 2023, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2023-06, Disclosure Improvements: Codification Amendments in Response to the SEC’s Disclosure Update and Simplification Initiatives, which incorporates updates to the Codification to align with SEC disclosure requirements in response to the August 2018 SEC Release No. 33-10532. The amendment updates and simplifies certain SEC disclosure requirements that were duplicative, overlapping, or outdated due to changes in other SEC requirements and in U.S. GAAP, International Financial Reporting Standards (“IFRS”), or the overall financial reporting environment. The new guidance is effective for each amendment only if the SEC removes the related disclosure of presentation requirements from its existing regulations by June 30, 2027. The guidance is to be applied prospectively, with early adoption prohibited. The Company is currently evaluating the impact of adopting the ASU on its consolidated financial statements and disclosures.
+
+ 
+
+6
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+In  November 2023, the FASB issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which requires a public entity to disclose significant segment expenses that are regularly provided to the chief operating decision maker ("CODM"), a description of other segment items by reportable segment, and an explanation of any additional measures the CODM uses in deciding how to allocate resources. The new guidance is effective for fiscal years beginning after December 15, 2023 and interim periods within fiscal years beginning after December 15, 2024, and early adoption is permitted. The guidance is to be applied on a retrospective basis, with such disclosures to be made in regard to all prior periods presented in the financial statements. The Company is currently completing its assessment and expects this update to have no material impact on its consolidated financial statements.
+
+ 
+
+In  December 2023, the FASB issued ASU No. 2023-09, Income Taxes (Topic 470): Improvements to Income Tax Disclosures, which are designed to increase the transparency and decision-usefulness of income tax disclosures for financial statement users. The ASU follows investors' indication and request for enhanced tax disclosures in order to better assess an entity’s operations, related tax risks, jurisdictional tax exposures, and increase transparency regarding tax information through improvements to tax disclosures, specifically rate reconciliation, income taxes paid, and unrecognized tax benefits and certain temporary differences. The new guidance is effective for fiscal years beginning after December 15, 2024 and interim periods within fiscal years beginning after December 15, 2025, and early adoption is permitted. The guidance is to be applied on a prospective basis, but retrospective application is permitted. The Company is currently evaluating the impact of adopting this ASU on its consolidated financial statements and disclosures.
+
+ 
+
+(d) Revenue recognition
+
+ 
+
+Data and performance-based marketing 
+
+ 
+
+Revenue is generated when control of goods or services is transferred to customers, in the amounts that reflect the consideration the Company expects to be entitled to in exchange for those goods or services. The Company's performance obligation is typically to (a) deliver data records based on predefined qualifying characteristics specified by the customer, (b) generate conversions based on predefined user actions (for example, a click, a registration, or the installation of an app) and subject to certain qualifying characteristics specified by the customer, (c) verify user interest or transfer calls to advertiser clients as a part of the contact center operation, or (d) deliver media spend as a part of the business of AdParlor, LLC ("AdParlor"), a wholly-owned subsidiary of the Company.
+
+ 
+
+The Company applies the practical expedient related to the review of a portfolio of contracts in reviewing the terms of customer contracts as one collective group, rather than by individual contract. Based on historical knowledge of the contracts contained in this portfolio and the similar nature and characteristics of the customers, the Company concluded that the financial statement effects are not materially different than accounting for revenue on a contract-by-contract basis.
+
+ 
+
+Revenue is recognized upon satisfaction of associated performance obligations. The Company's customers simultaneously receive and consume the benefits provided, which satisfies the Company's performance obligations. Furthermore, the Company elected the "right to invoice" practical expedient available within ASC 606-10-55-18 as the measure for revenue to be recognized, as it corresponds directly with the amount that reflects the consideration the Company expects to be entitled to in exchange for those goods or services. The Company's revenue arrangements do not contain significant financing components. The Company has further concluded that revenue does not require disaggregation.
+
+ 
+
+For each identified performance obligation in a contract with a customer, the Company assesses whether it or the third-party supplier is the principal or agent. In arrangements where Fluent has substantive control of the specified goods and services, is primarily responsible for the integration of products and services into the final deliverable to the customer, and has inventory risk and discretion in establishing pricing, Fluent is considered to have acted as the principal. For performance obligations in which Fluent acts as principal, the Company records the gross amount billed to the customer within revenue and the related incremental direct costs incurred as cost of revenue. If the third-party supplier, rather than Fluent, is primarily responsible for the performance and deliverable to the customer, and Fluent solely arranges for the third-party supplier to provide services to the customer, Fluent is considered to have acted as the agent. For performance obligations in which Fluent acts as the agent, the net fees on such transactions are recorded as revenue, with no associated costs of revenue for the Company.
+
+ 
+
+If a customer pays consideration before the Company's performance obligations are satisfied, such amounts are classified as deferred revenue on the consolidated balance sheets. As of  March 31, 2024 and December 31, 2023, the balance of deferred revenue was  $561 and $430, respectively. The majority of the deferred revenue balance as of  December 31, 2023 was recognized as revenue during the first quarter of 2024. 
+
+ 
+
+7
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+When there is a delay between the period in which revenue is recognized and when a customer invoice is issued, revenue is recognized, and the related amounts are recorded as unbilled revenue within accounts receivable on the consolidated balance sheets. As of  March 31, 2024 and December 31, 2023, unbilled revenue included in accounts receivable was $18,623 and $21,488, respectively. In line with industry practice, the unbilled revenue balance is recorded based on the Company's internally tracked conversions, net of estimated variances between this amount and the amount tracked and subsequently confirmed by customers. Substantially all amounts included within the unbilled revenue balance are invoiced to customers within the month directly following the period of service. Historical estimates related to unbilled revenue have not differed materially from actual invoiced revenue.
+
+ 
+
+Sales commissions are recorded at the time revenue is recognized and recorded in sales and marketing in the consolidated statements of operations. The Company has elected to utilize a practical expedient to expense incremental costs incurred related to obtaining a contract.
+
+ 
+
+In addition, the Company elected the practical expedient to not disclose the value of unsatisfied performance obligations for (i) contracts with an original expected length of one year or less and (ii) contracts for which revenue is recognized at the amount to which the Company has the right to invoice for services performed.
+
+ 
+
+Commission revenue
+
+ 
+
+The Company, acting as the agent, recognizes commission revenue that it expects to receive from the insurance provider from the sale of certain of its health insurance policies, which includes the assumed automatic renewals of such policies once its performance obligation is satisfied. The Company considers its performance obligation related to commissions for both the initial policy sale and future renewals of the policy to be satisfied upon submission by the Company of the initial policy application.
+
+ 
+
+The Company applies the practical expedient to estimate the commission revenue for each insurance policy by applying the use of the portfolio approach to policies grouped together by product type and period submitted for effectuation.
+
+ 
+
+The commission revenue is variable based on a policy's estimated lifetime value ("LTV"), which is based on the time the Company expects the policy will remain effective due to past trends, industry data, expectations as to future retention rates, and commission rates. Further, the Company considers the application of constraints to the LTV and only recognizes the amount of variable consideration believed probable to be received that will not be subject to a significant revenue reversal in the future. Based on this, the commission revenue is recorded upon satisfaction of the performance obligation, which is typically paid monthly by the insurance provider as the consumer renews and pays the insurance provider for the policy over the duration the consumer remains on the policy.
+
+ 
+
+The Company reassesses the estimated LTV for the health insurance policies on a quarterly or as-needed basis. Adjustments to the LTV may result in an increase or decrease in revenue and the corresponding asset in the period the change is made.
+
+ 
+
+(e) Use of estimates
+
+ 
+
+The preparation of consolidated financial statements in accordance with U.S. GAAP requires the Company’s management to make estimates and assumptions relating to the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the consolidated financial statements, and the reported amounts of revenue and expenses during the reporting periods. Significant items subject to such estimates and assumptions include the allowance for credit losses, useful lives of intangible assets, recoverability of the carrying amounts of goodwill and intangible assets, the portion of revenue subject to estimates for variances between internally-tracked conversions and those confirmed by the customer, the variable commission revenue based on the estimated LTV, purchase accounting, consolidation of variable interest entity and income tax provision. These estimates are often based on complex judgments and assumptions that management believes to be reasonable but are inherently uncertain and unpredictable. Actual results could differ from these estimates.
+
+ 
+
+(f) Fair value
+
+ 
+
+Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date.
+
+ 
+
+Valuation techniques used to measure fair value must maximize the use of observable inputs and minimize the use of unobservable inputs. ASC 820, Fair Value Measurements and Disclosure describes a fair value hierarchy based on the following three levels of inputs, of which the first two are considered observable and the last unobservable, that may be used to measure fair value:
+
+ 
+
+                 ●    Level 1 — defined as observable inputs, such as quoted prices in active markets;
+
+
+
+                 ●    Level 2— defined as inputs other than quoted prices in active markets that are either directly or indirectly
+
+                       observable;
+
+                       and
+
+                 ●    Level 3 — defined as unobservable inputs, for which little or no market data exists, therefore requiring an
+
+                       entity to develop its own
+
+                       assumptions.
+
+ 
+
+8
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+The fair value of the Company’s cash, cash equivalents, accounts receivable, accounts payable, and accrued liabilities approximate their carrying values because of the short-term nature of these instruments.
+
+ 
+
+As of March 31, 2024, the Company regards the fair value of its long-term debt to approximate its carrying value. The fair value assessment represents a Level 2 measurement. See Note 5, Long-term debt, net.
+
+ 
+
+The fair value of certain long-lived non-financial assets and liabilities may be required to be measured on a nonrecurring basis in certain circumstances, including when there is evidence of impairment. As of March 31, 2024, certain non-financial assets have been measured at fair value subsequent to their initial recognition. The Company determined the estimated fair value to be a Level 3 measurement, as certain inputs used to determine fair value are unobservable.
+
+ 
+
+  
+
+2. Loss per share
+
+ 
+
+Basic loss per share is computed by dividing net loss by the weighted average number of common shares outstanding during the period, in addition to restricted stock units ("RSUs") that are vested but not delivered. Diluted loss per share reflects the potential dilution that could occur if securities or other contracts to issue common stock are exercised or converted into common stock and is calculated using the treasury stock method for stock options, restricted stock units, restricted stock, warrants and deferred common stock. Stock equivalent shares are excluded from the calculation in loss periods, as their effects would be anti-dilutive.
+
+ 
+
+For the three months ended March 31, 2024 and 2023, basic and diluted loss per share were as follows:
+
+ 
+
+                                                                                                    Three Months Ended March 31,      
+
+                                                                                                      2024               2023        
+
+  Numerator:                                                                                                                         
+
+  Net loss                                                                                      $          (6,276) $         (31,943)
+
+  Denominator:                                                                                                                       
+
+  Weighted average shares outstanding                                                                  13,572,224         13,368,380 
+
+  Weighted average restricted shares vested not delivered                                                 329,941            282,772 
+
+  Total basic weighted average shares outstanding                                                      13,902,165         13,651,152 
+
+  Dilutive effect of assumed conversion of restricted stock units                                               —                  — 
+
+  Total diluted weighted average shares outstanding                                                    13,902,165         13,651,152 
+
+  Basic and diluted loss per share:                                                                                                  
+
+  Basic                                                                                         $           (0.45) $           (2.34)
+
+  Diluted                                                                                       $           (0.45) $           (2.34)
+
+ 
+
+Based on exercise prices compared to the average stock prices for the three months ended March 31, 2024 and 2023, certain stock equivalents, including restricted stock units and stock options, have been excluded from the diluted weighted average share calculations due to their anti-dilutive nature.
+
+ 
+
+                                                                                                     Three Months Ended March 31,      
+
+                                                                                                       2024               2023        
+
+  Restricted stock units                                                                                   449,673            878,349 
+
+  Stock options                                                                                            302,330            356,500 
+
+  Total anti-dilutive securities                                                                           752,003          1,234,849 
+
+  
+
+9
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+  
+
+3. Intangible assets, net
+
+ 
+
+Intangible assets, net, other than goodwill, consist of the following: 
+
+ 
+
+                                                                               Amortization      March 31, 2024    December 31, 2023 
+
+                                                                                period (in
+
+                                                                                  years)
+
+  Gross amount:                                                                                                                     
+
+  Software developed for internal use                                                       3  $          21,990             20,175 
+
+  Acquired proprietary technology                                                         3-5             16,972             16,972 
+
+  Customer relationships                                                                 5-10             39,168             39,168 
+
+  Trade names                                                                            4-20             16,657             16,657 
+
+  Domain names                                                                             20                195                195 
+
+  Databases                                                                              5-10             31,292             31,292 
+
+  Non-competition agreements                                                              2-5              1,768              1,768 
+
+                                                                                                         128,042            126,227 
+
+  Total gross amount                                                                                                                
+
+  Accumulated amortization:                                                                                                         
+
+  Software developed for internal use                                                                    (13,353)           (12,142)
+
+  Acquired proprietary technology                                                                        (15,285)           (15,132)
+
+  Customer relationships                                                                                 (37,497)           (37,249)
+
+  Trade names                                                                                             (7,098)            (6,893)
+
+  Domain names                                                                                               (80)               (77)
+
+  Databases                                                                                              (26,820)           (26,157)
+
+  Non-competition agreements                                                                              (1,768)            (1,768)
+
+  Total accumulated amortization                                                                        (101,901)           (99,418)
+
+  Net intangible assets:                                                                                                            
+
+  Software developed for internal use                                                                      8,637              8,033 
+
+  Acquired proprietary technology                                                                          1,687              1,840 
+
+  Customer relationships                                                                                   1,671              1,919 
+
+  Trade names                                                                                              9,559              9,764 
+
+  Domain names                                                                                               115                118 
+
+  Databases                                                                                                4,472              5,135 
+
+  Total intangible assets, net                                                                 $          26,141  $          26,809 
+
+ 
+
+The gross amounts associated with software developed for internal use primarily represent capitalized costs of internally developed software. The amounts relating to acquired proprietary technology, customer relationships, trade names, domain names, databases, and non-competition agreements primarily represent the fair values of intangible assets acquired as a result of the acquisition of Fluent, LLC, effective December 8, 2015; the acquisition of Q Interactive, LLC, effective June 8, 2016; the acquisition of substantially all the assets of AdParlor Holdings, Inc. and certain of its affiliates, effective July 1, 2019 (the "AdParlor Acquisition"); the acquisition of a 50% interest in Winopoly, LLC, effective April 1, 2020; the acquisition of a 100% interest in True North Loyalty, LLC, (the "True North Acquisition"), effective January 1, 2022, and the consolidation of TAPP Influencers Corp. ("TAPP") effective January 9, 2023 (see Note 11, Variable Interest Entity).
+
+ 
+
+10
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+ 
+
+Amortization expenses of $2,483 and $2,256 for the three months ended March 31, 2024 and 2023, respectively, are included in depreciation and amortization expenses in the consolidated statements of operations. As of March 31, 2024, intangible assets with a carrying amount of $688, included in the gross amount of software developed for internal use, have not commenced amortization, as they are not ready for their intended use.
+
+ 
+
+As of March 31, 2024, estimated amortization expenses related to the Company's intangible assets for the remainder of 2024 and through 2029 and thereafter are as follows:
+
+ 
+
+  Year                                                                                                                March 31, 2024   
+
+  Remainder of 2024                                                                                                  $           5,252 
+
+  2025                                                                                                                           7,963 
+
+  2026                                                                                                                           4,365 
+
+  2027                                                                                                                           1,991 
+
+  2028                                                                                                                             828 
+
+  2029 and thereafter                                                                                                            5,742 
+
+  Total                                                                                                              $          26,141 
+
+ 
+
+  
+
+4. Goodwill
+
+ 
+
+Goodwill represents the difference between the purchase price and the estimated fair value of net assets acquired, when accounted for by the acquisition method of accounting. As of March 31, 2024, the total balance of goodwill was $1,261, which represented no change from the balance as of  December 31, 2023. The remaining balance relates to the AdParlor Acquisition.
+
+ 
+
+In accordance with ASC 350, Intangibles - Goodwill and Other, goodwill is assessed at least annually for impairment, or when events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable, by assessing qualitative factors or performing a quantitative analysis in determining whether it is more likely than not that its fair value exceeds the carrying value. The measurement date of the Company's annual goodwill impairment test is set to October 1.
+
+ 
+
+11
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+  
+
+5. Long-term debt, net
+
+ 
+
+Long-term debt, net of unamortized discount and financing costs, related to the Credit Facility (as defined herein) consisted of the following:
+
+ 
+
+                                                                                                 March 31, 2024    December 31, 2023  
+
+  Credit Facility due 2025 (less unamortized discount and financing costs of $1,019 and $762,   $          28,981  $          30,488 
+
+   respectively)
+
+  Note Payable due 2026                                                                                     2,000                  — 
+
+  Long-term debt, net                                                                                      30,981             30,488 
+
+  Less: Current portion of long-term debt                                                                 (30,981)            (5,000)
+
+  Long-term debt, net (non-current)                                                             $               —  $          25,488 
+
+ 
+
+Citizens Credit Facility
+
+ 
+
+On March 31, 2021, Fluent, LLC (the "Borrower") entered into a credit agreement (as amended, modified, extended, restated, replaced, or supplemented from time to time, the "Citizens Credit Agreement") with certain subsidiaries of the Borrower as guarantors, the lenders thereto, and Citizens Bank, N.A. ("Citizens Bank") as administrative agent, lead arranger and bookrunner. The original Citizens Credit Agreement provided for a term loan in the aggregate principal amount of $50,000 funded on the closing date (the "Term Loan"), along with an undrawn revolving credit facility of up to $15,000 (the "Revolving Loans," and together with the Term Loan, the "Credit Facility"). 
+
+ 
+
+On May 15, 2023, the Borrower and Citizens Bank entered into a third amendment to the Citizens Credit Agreement, which amended certain provisions by adding an additional tier of applicable margin to the selected rates and providing for additional notice of certain material events and, for the remaining fiscal quarters of 2023, established certain terms and conditions under the Citizens Credit Agreement.
+
+ 
+
+12
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+On August 21, 2023, the Borrower and Citizens Bank entered into a fourth amendment to the Citizens Credit Agreement (the "Fourth Amendment"), which adjusted certain financial covenants for the remaining fiscal quarters of 2023, required updated reporting requirements, including a business consultant to be retained at the Borrower's expense and required a $5,000 prepayment of the Term Loan and a reduction in the maximum amount of the Revolving Loans by the same amount to $10,000. The $5,000 prepayment amount was paid as of September 30, 2023, and in evaluating the amendments under ASC 470-50, Debt- Modifications and Extinguishments, the Company determined that the amendment should be treated as a debt modification with no gain or loss recognized.
+
+ 
+
+On November 15, 2023, the Borrower and Citizens Bank entered into a Temporary Waiver under Credit Agreement (the "Initial Waiver"), pursuant to which Citizens Bank agreed to waive, through the termination date, its rights and remedies arising from the Company’s breach of the total leverage ratio covenant during the quarter ending September 30, 2023. On January 17, 2024, the Initial Waiver termination date was extended until January 26, 2024.
+
+ 
+
+On January 26, 2024, the Borrower and Citizens Bank entered into a Third Temporary Waiver and Amendment to Credit agreement (the "Third Waiver"), pursuant to which Citizens Bank agreed to waive through the earlier of  April 30, 2024, an occurrence of any other event of default, or failure to comply with requirements of the Third Waiver and its rights and remedies arising from the Company’s breach of the total leverage covenant and fixed charge ratio during the quarters ending December 31, 2023 and March 31, 2024. Among other things, the Third Waiver required the Borrower to, by March 31, 2024, deliver one or more Transaction Commitments, defined as: (i) a third-party commitment to provide additional capital in exchange for equity or subordinated debt, (ii) a purchase agreement for the sale of a divested business, or (iii) a third-party commitment to refinance the Credit Agreement. One condition of the Transaction Commitments was that the Borrower provide for net proceeds, in the aggregate, to Fluent of not less than $10,000.
+
+ 
+
+All obligations under the Citizens Credit Agreement were accelerated from the initial March 30, 2026 deadline to September 30, 2025, and interest was payable monthly. Scheduled principal amortization of the Term Loan was $1,250 per quarter, which commenced with the fiscal quarter ended June 30, 2021. At March 31, 2024, the Company was in compliance with all of the financial covenants under the Citizens Credit Agreement, except for the total leverage ratio and fixed charge ratio covenants. As discussed above, these covenant breaches were waived through the termination date by the Third Waiver. 
+
+ 
+
+Borrowings under the Citizens Credit Agreement bore interest at a rate per annum equal to the benchmark selected by the Borrower, which was based on the Alternative Base Rate (as defined in the Citizens Credit Agreement), LIBOR (as defined in the Citizens Credit Agreement) rate (subject to a floor of 0.25%) prior to the election as of December 31, 2022, or Term SOFR (as defined in the Citizens Credit Agreement) (subject to a floor of 0.00%) subsequent to the election, plus a margin applicable to the selected benchmark. The applicable margin was between 0.75% and 2.25% for borrowings based on the Alternative Base Rate and 1.75% and 3.25% for borrowings based on Term SOFR, depending upon the Borrower's total leverage ratio. The opening interest rate of the Credit Facility was 2.50% (LIBOR + 2.25%), which increased to 9.43% (Term SOFR + 0.1% + 4.00%) as of March 31, 2024.
+
+ 
+
+The Citizens Credit Agreement also contains certain customary conditions applicable to extensions of credit, including that representations and warranties made in the Credit Agreement be materially true and correct at the time of such extension (once such extensions are no longer prohibited by the Fourth Amendment or a later amendment). 
+
+ 
+
+On April 2, 2024, the Company repaid the $30,000 aggregate principal amount of the Term Loan, prior to maturity, resulting in a debt extinguishment loss of approximately $1,000, which will be recognized in the second quarter of 2024.
+
+ 
+
+New Credit Facility
+
+ 
+
+On April 2, 2024, Fluent, LLC, as Borrower, entered into a credit agreement (the "SLR Credit Agreement") with Fluent, Inc. and certain subsidiaries of the Borrower as guarantors, Crystal Financial LLC D/B/A SLR Credit Solutions, as administrative agent, lead arranger and bookrunner ("SLR") and each other lender from time to time party thereto.
+
+ 
+
+The SLR Credit Agreement provides for a $20,000 term loan (the "SLR Term Loan") and a revolving credit facility of up to $30,000 (the "SLR Revolver" and together with the SLR Term Loan, the "SLR Credit Facility"). As of April 2, 2024, the SLR Credit Facility has an outstanding principal balance of $32,700 and matures on April 2, 2029.
+
+ 
+
+The Company used a portion of the net proceeds of the SLR Credit Facility to repay its outstanding Term Loan under the Citizens Credit Agreement, dated March 31, 2021. 
+
+ 
+
+13
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+There is no principal amortization prior to maturity under the SLR Credit Agreement except for certain mandatory prepayments to be made with the net cash proceeds of certain asset sales, casualty events, and other extraordinary receipts and upon the occurrence of certain other events, in each case, subject to certain reinvestment rights, thresholds and other exceptions. Unfunded commitments will be subject to an unused facility fee, which will be payable monthly in arrears, as of the month following the closing, at a rate of 0.50% per annum. All amounts owed under the Credit Facility are due and payable on the five-year anniversary of the closing date (the "Maturity Date"), or earlier following a change in control or an event of default, unless otherwise extended in accordance with the terms of the SLR Credit Agreement. Borrowings under the SLR Credit Agreement bear interest at a rate per annum equal to a 3-month term SOFR plus 0.26161%, subject to a 1.50% floor, plus 5.25% (the "Applicable Margin"). The Applicable Margin will be reduced to 5.0% when our fixed charge coverage ratio is greater than 1.10 to 1. The opening interest rate of the SLR Credit Facility was 10.81% [SOFR + CSA + 5.25%].
+
+ 
+
+The Borrower's ability to draw on the SLR Revolver depends on its weekly borrowing base, which is calculated by adding specified percentages established by SLR of the Borrower's eligible accounts receivable and cash less reserves, subject to certain limitations.  
+
+ 
+
+On May 15, 2024, the Borrower and SLR entered into a First Amendment to Credit Agreement, pursuant to which, among other things, SLR (1) waived any required prepayments on the SLR Revolver from the proceeds from the Company’s Private Placement; (2) required that the Credit Parties (as defined in the SLR Credit Agreement) retain a financial advisor; (3) increased the minimum excess availability covenant following the Private Placement; (4) amended the definition of borrowing base (as defined in the SLR Credit Agreement) and (5) amended certain post-closing obligations.
+
+ 
+
+The SLR Credit Agreement contains restrictive covenants which impose limitations on the way the Company conducts business, including limitations on the amount of additional debt the Company is able to incur and its ability to make certain investments or other restricted payments. The SLR Credit Agreement is guaranteed by the Company and certain of its direct and indirect subsidiaries and is secured by substantially all of the Company's assets and those of its direct and indirect subsidiaries, including Fluent, LLC.
+
+ 
+
+Note Payable
+
+ 
+
+On March 17, 2024, Fluent, LLC entered into a junior secured promissory note (the "Note Payable") with Freedom Debt Relief, LLC in the principal amount of $2,000 in connection with the Berman Settlement Agreement (see Note 10, Contingencies). The Note Payable bears interest at a rate per annum equal to one-month CME Term SOFR (defined as the rate published by the CME Group Benchmark Administration Limited) plus 11.0%. The opening interest rate of the Note Payable is 16.32% [SOFR +11%].
+
+ 
+
+A maximum of $1,000 of the borrowings under the Note Payable are secured by substantially all of the assets of Fluent, LLC. This security interest is subordinate to the security interest under the SLR Credit Agreement.
+
+ 
+
+The Note Payable matures on March 31, 2026 and interest is payable quarterly. Scheduled principal amortization of the Note Payable is $250 per quarter, which will commence with the fiscal quarter ended June 30, 2024.
+
+ 
+
+Maturities
+
+ 
+
+As of March 31, 2024, scheduled future maturities of the Citizens Credit Agreement and Note Payable are as follows, not reflective of the debt being accelerated as noted in Note 1:
+
+ 
+
+  Year                                                                                                                 March 31, 2024  
+
+  Remainder of 2024                                                                                                  $           4,500 
+
+  2025                                                                                                                          27,250 
+
+  2026                                                                                                                             250 
+
+  Total maturities                                                                                                              32,000 
+
+ 
+
+14
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+  
+
+6. Income taxes
+
+ 
+
+The Company is subject to federal and state income taxes in the United States. The tax provision for interim periods is determined using an estimate of the Company's annual effective tax rate ("AETR"). The Company updates its estimated AETR on a quarterly basis and, if the estimate changes, a cumulative adjustment is made. 
+
+ 
+
+As of  March 31, 2024 and December 31, 2023, the Company recorded a full valuation allowance against net deferred tax assets and intends to continue maintaining a full valuation allowance on these net deferred tax assets until there is sufficient evidence to support the release of all or a portion of these allowances. Release of some or all of the valuation allowance would result in the recognition of certain deferred tax assets and an increase in deferred tax benefit for any period in which such a release may be recorded. However, the exact timing and amount of any valuation allowance release are subject to change, depending upon the level of profitability that the Company is able to achieve and the net deferred tax assets available.
+
+ 
+
+For the three months ended March 31, 2024, the Company's effective income tax expense rate of 16.9% differed from the statutory federal income tax rate of 21% primarily due to state and local tax expense, offset by the benefit of federal research and development credit. For the three months ended March 31, 2023, the Company's effective income tax expense rate of 0.3% primarily represents the projected federal and state cash tax expense expected to result in taxable income for full-year 2023 after the impact of a non-deductible goodwill impairment against pre-tax year-to-date losses, offset by the benefit of federal research and development credits on expected federal cash tax expense. 
+
+ 
+
+The Company assesses its income tax positions and records tax benefits for all years subject to examination based upon its evaluation of the facts, circumstances, and information available as of the reporting dates. For those tax positions where it is more-likely-than-not that a tax benefit will be sustained, the Company has recorded the largest amount of tax benefit with a greater than 50% likelihood of being realized upon ultimate settlement with a taxing authority that has full knowledge of all relevant information. For those income tax positions where it is not more-likely-than-not that a tax benefit will be sustained, no tax benefit has been recognized in the Company's financial statements.
+
+ 
+
+As of  March 31, 2024 and December 31, 2023, the balance of unrecognized tax benefits was $1,480. If the Company’s tax positions are ultimately sustained, the Company’s liability would be reduced by $1,480, all of which would impact the Company’s tax provision. As of March 31, 2024, the Company has not accrued any interest or penalties with respect to its uncertain tax positions.
+
+ 
+
+The Company is reasonably certain that all of its uncertain tax positions will reverse within the next twelve months due to the closing of the statute of limitations.
+
+ 
+
+  
+
+7. Common stock and treasury stock
+
+ 
+
+Common stock
+
+ 
+
+Effective at 6:00 p.m. Eastern Time on April 11, 2024, the Company effected a 1-for-6 (the "Reverse Stock Split Ratio") reverse split of the issued shares of the Company’s common stock (the "Reverse Stock Split") pursuant to a certificate of amendment to the Company's Certificate of Incorporation, as amended, filed with the Secretary of State of the State of Delaware on April 11, 2024. As a result of the Reverse Stock Split, every six shares of common stock issued and outstanding or held by the Company in treasury stock were combined and reclassified into one share of common stock. No fractional shares were issued as a result of the Reverse Stock Split. Stockholders who were otherwise entitled to receive a fractional share received an additional fraction of a share of common stock to round up to the next whole share. The Reverse Stock Split affected all stockholders uniformly and did not alter any stockholder’s percentage ownership interest or any stockholder’s proportionate voting power, except for immaterial adjustments that resulted from the treatment of fractional shares. The Reverse Stock Split did not change the number of authorized shares of common stock or the par value per share of the common stock.
+
+ 
+
+The Reverse Stock Split reduced the number of issued and outstanding shares of common stock from 81,571,864 shares to 13,660,598 shares and reduced the issued shares of common stock held by the Company in treasury stock from 4,611,569 shares to 768,595 shares.
+
+ 
+
+The common stock began trading on a reverse split-adjusted basis at the opening of trading on The Nasdaq Capital Market on April 12, 2024 under the same symbol (FLNT) with a new CUSIP number (34380C 201).
+
+ 
+
+As of the effective time of the Reverse Stock Split, the number of shares available for issuance under the Company’s equity incentive plans and the number of shares issuable pursuant to each outstanding equity award immediately prior to the Reverse Stock Split were reduced proportionately at the Reverse Stock Split Ratio, and the exercise price for each outstanding stock option was increased in inverse proportion to the Reverse Stock Split Ratio.
+
+ 
+
+ 
+
+15
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+As of  March 31, 2024 and December 31, 2023, the number of issued shares of common stock was 14,429,193 and 14,384,936, respectively, which included shares of treasury stock of 768,595 and 768,595, respectively.
+
+ 
+
+For the three months ended March 31, 2024, the change in the number of issued shares of common stock was the result of an aggregate 44,257 shares of common stock issued upon vesting of RSUs, in which no shares of common stock were withheld to cover statutory taxes upon such vesting.
+
+ 
+
+Treasury stock
+
+ 
+
+As of  March 31, 2024 and December 31, 2023, the Company held shares of treasury stock of 768,595 and 768,595, respectively, with a cost of $11,407 and $11,407, respectively.
+
+ 
+
+The Company's share-based incentive plans allow employees the option to either make cash payment or forfeit shares of common stock upon vesting to satisfy federal and state statutory tax withholding obligations associated with equity awards. The forfeited shares of common stock may be taken into treasury stock by the Company or sold on the open market. For the three months ended March 31, 2024, no shares of common stock were withheld to cover statutory taxes owed by certain employees for this purpose, all of which were taken into treasury stock. See Note 8, Share-based compensation.
+
+  
+
+  
+
+8. Share-based compensation
+
+ 
+
+On June 8, 2022, the stockholders of the Company approved the Fluent, Inc. 2022 Omnibus Equity Incentive Plan (the "2022 Plan") that authorized for issuance 2,570,421 shares of the Company's common stock. As of March 31, 2024, the Company had 1,173,248 shares of common stock available for grants pursuant to the 2022 Plan, which includes 1,286,607 shares of common stock previously available for issuance under the 2018 Stock Incentive Plan. 
+
+ 
+
+The primary purpose of the 2022 Plan and prior plans is to attract, retain, reward, and motivate certain individuals by providing them with opportunities to acquire or increase their ownership interests in the Company. In October 2022, the Company issued to certain of its senior officers and employees, RSUs (time-based vesting), long-term incentive grants (performance and time-based vesting RSUs), or performance share units ("PSUs") (achievement of performance targets settled in cash) under the 2022 Plan.
+
+ 
+
+Stock options
+
+ 
+
+The Compensation Committee of the Company's Board of Directors approved the grant of stock options to certain Company executives, which were issued on February 1, 2019, December 20, 2019,  March 1, 2020, and March 1, 2021. Subject to continuing service, 50% of the shares subject to these stock options will vest if the Company's stock price remains above 125.00%, 133.33%, 133.33% and 133.33%, respectively, of the exercise price for 20 consecutive trading days, and the remaining 50% of the shares subject to these stock options will vest if the Company's stock price remains above 156.25%, 177.78%, 177.78% and 177.78%, respectively, of the exercise price for 20 consecutive trading days; provided, that no shares will vest prior to the first anniversary of the grant date. As of March 31, 2024, the first condition for the stock options issued on February 1, 2019, December 20, 2019 and March 1, 2020 had been met and the second condition for the stock options issued on December 20, 2019 and March 1, 2020 had been met. Any shares that remain unvested as of the fifth anniversary of the grant date will vest in full on such date. The fair value of the stock options granted was estimated at the trading day before the date of grant using a Monte Carlo simulation model. The key assumptions utilized to calculate the grant-date fair values for these awards are summarized below:
+
+ 
+
+  Issuance Date                                                      February 1,    December 20,    March 1, 2020   March 1, 2021 
+
+                                                                         2019            2019
+
+  Fair value lower range                                            $      16.86   $        9.48   $       8.76   $      26.04 
+
+  Fair value higher range                                           $      17.16   $        9.66   $       8.94   $      26.58 
+
+  Exercise price                                                    $      28.32   $       15.36   $      13.98   $      37.98 
+
+  Expected term (in years)                                             1.0 - 1.3       1.0 - 1.6      1.0 - 1.5      1.0 - 1.3 
+
+  Expected volatility                                                         65%             70%            70%            80%
+
+  Dividend yield                                                               —%              —%             —%             —%
+
+  Risk-free rate                                                            2.61%           1.85%          1.05%          1.18%
+
+ 
+
+16
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+For the three months ended March 31, 2024, details of stock option activity were as follows:
+
+ 
+
+                                                                       Number of       Weighted        Weighted        Aggregate     
+
+                                                                        options         average         average         intrinsic
+
+                                                                                       exercise        remaining          value
+
+                                                                                       price per      contractual
+
+                                                                                         share         term (in
+
+                                                                                                        years)
+
+  Outstanding as of December 31, 2023                                     302,333  $       25.68             5.4  $             — 
+
+  Granted                                                                       —              —               —                — 
+
+  Exercised                                                                     —              —               —                — 
+
+  Forfeited                                                                     —              —               —                — 
+
+  Outstanding as of March 31, 2024                                        302,333  $       25.68             5.2  $             — 
+
+  Options exercisable as of March 31, 2024                                284,333  $       24.91             5.1  $             — 
+
+ 
+
+The aggregate intrinsic value amounts in the table above represent the difference between the closing price of the Company's common stock at the end of the reporting period and the corresponding exercise prices, multiplied by the number of in-the-money stock options as of the same date.
+
+ 
+
+For the three months ended March 31, 2024, the unvested balance of stock options was as follows:
+
+ 
+
+                                                                     Number of stock      Weighted average      Weighted average    
+
+                                                                         options         exercise price per         remaining
+
+                                                                                                share            contractual term
+
+                                                                                                                       (in
+
+                                                                                                                      years)
+
+  Unvested as of December 31, 2023                                             123,833  $              29.72                   5.4 
+
+  Granted                                                                            —                     —                     — 
+
+  Forfeited                                                                          —                     —                     — 
+
+  Vested                                                                      (105,833)                    —                     — 
+
+  Unvested as of March 31, 2024                                                 18,000  $              37.98                   6.9 
+
+ 
+
+Compensation expense recognized for stock options of $0 and $0 for the three months ended March 31, 2024 and 2023, respectively, was recorded in sales and marketing, product development, and general and administrative expenses in the consolidated statements of operations. As of March 31, 2024, there was $0 of unrecognized share-based compensation with respect to outstanding stock options.
+
+ 
+
+17
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+Restricted stock units and restricted stock
+
+ 
+
+For the three months ended March 31, 2024, details of unvested RSU activity were as follows:
+
+ 
+
+                                                                                                 Number of units    Weighted average  
+
+                                                                                                                     grant-date fair
+
+                                                                                                                          value
+
+  Unvested as of December 31, 2023                                                                        731,538  $            25.95 
+
+  Granted                                                                                                       —                   — 
+
+  Vested and delivered                                                                                    (44,257)              22.57 
+
+  Withheld as treasury stock (1)                                                                                —                   — 
+
+  Vested not delivered (2)                                                                               (211,505)              10.57 
+
+  Forfeited                                                                                               (26,104)               7.98 
+
+  Unvested as of March 31, 2024                                                                           449,673               34.50 
+
+ 
+
+  (1)  As discussed in Note 7, Common stock and treasury stock, the treasury stock was related to shares withheld to cover statutory
+
+        withholding taxes upon the delivery of shares following the vesting of RSUs. As of March 31, 2024, there were 768,595
+
+        outstanding shares of treasury
+
+        stock.
+
+
+
+  (2)  Vested not delivered represents vested RSUs with delivery deferred to a future time. For the three months ended March 31, 2024,
+
+        there was a net increase in the vested not delivered balance as a result of 214,770 shares that were deferred due to timing of
+
+        delivery of certain shares, slightly offset by 3,265 deferred shares that were delivered. As of March 31, 2024, 501,437
+
+        outstanding RSUs were vested not
+
+        delivered.
+
+ 
+
+Compensation expense recognized for RSUs of $618 and $1,148 for the three months ended March 31, 2024 and 2023, respectively, was recorded in sales and marketing, product development and general and administrative in the consolidated statements of operations, and intangible assets, net in the consolidated balance sheets. The fair value of the RSUs and restricted stock was estimated using the closing prices of the Company's common stock on the dates of grant.
+
+ 
+
+As of March 31, 2024, unrecognized share-based compensation expense associated with the granted RSUs and stock options amounted to $2,223, which is expected to be recognized over a weighted average period of 1.1 years.
+
+ 
+
+For the three months ended March 31, 2024 and 2023, share-based compensation for the Company's stock options, RSUs, and common stock awards were allocated to the following accounts in the consolidated financial statements:
+
+ 
+
+                                                                                                    Three Months Ended March 31,      
+
+                                                                                                      2024               2023        
+
+  Sales and marketing                                                                           $              84  $             167 
+
+  Product development                                                                                          45                191 
+
+  General and administrative                                                                                  471                763 
+
+  Share-based compensation expense                                                                            600              1,121 
+
+  Capitalized in intangible assets                                                                             18                 27 
+
+  Total share-based compensation                                                                $             618  $           1,148 
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the Company recorded a liability of $22 and $22, respectively, related to PSUs that are to be settled in cash.
+
+ 
+
+18
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+  
+
+9. Segment information
+
+ 
+
+The Company identifies operating segments as components of an entity for which discrete financial information is available and is regularly reviewed by the CODM, in making decisions regarding resource allocation and performance assessment. The profitability measure employed by CODM is earnings before interest, taxes, depreciation, and amortization ("EBITDA"). As of March 31, 2024, the Company had two operating segments and two corresponding reporting units, "Fluent" and "All Other," and one reportable segment. "Fluent," for the purposes of segment reporting, represents the consolidated operating results of the Company excluding "All Other." "All Other" represents the operating results of AdParlor, LLC and is included for purposes of reconciliation of the respective balances below to the consolidated financial statements.
+
+ 
+
+Summarized financial information concerning the Company's segments for the three months ended March 31, 2024 and 2023 are shown in the following tables below:
+
+ 
+
+                                                                                                     Three Months Ended March 31,      
+
+                                                                                                       2024               2023        
+
+  Fluent segment revenue(1):                                                                                                          
+
+  United States                                                                                  $          40,316  $          42,908 
+
+  International                                                                                             22,862             32,330 
+
+  Fluent segment revenue                                                                         $          63,178  $          75,238 
+
+                                                                                                                     
+
+  All Other segment revenue(1):                                                                                                       
+
+  United States                                                                                  $           2,805  $           2,016 
+
+  International                                                                                                  —                  — 
+
+  All Other segment revenue                                                                      $           2,805  $           2,016 
+
+                                                                                                  
+
+  Segment EBITDA                                                                                                                      
+
+  Fluent segment EBITDA                                                                          $          (1,849) $         (28,579)
+
+  All Other segment EBITDA                                                                                     467               (215)
+
+  Total EBITDA                                                                                              (1,382)           (28,794)
+
+  Depreciation and amortization                                                                              2,571              2,359 
+
+  Total loss from operations                                                                     $          (3,953) $         (31,153)
+
+ 
+
+(1) Revenue aggregation is based upon location of the customer.
+
+ 
+
+ 
+
+19
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+ 
+
+                                                                                                    March 31,        December 31,    
+
+                                                                                                      2024               2023        
+
+  Total assets:                                                                                                                      
+
+  Fluent                                                                                        $          87,782  $          97,629 
+
+  All Other                                                                                                15,795             14,238 
+
+  Total assets                                                                                  $         103,577  $         111,867 
+
+ 
+
+As of March 31, 2024, long-lived assets are all located in the United States.
+
+ 
+
+For the three months ended  March 31, 2024, the Company identified an international customer within the Fluent segment with revenue in the amount of $6,669 which represents 10% of consolidated revenue. In addition, 23% of the Company’s revenue is earned from customers located in Israel.
+
+ 
+
+20
+
+
+
+Table of Contents 
+
+  
+
+FLUENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+(Amounts in thousands, except share and per share data)
+
+(unaudited)
+
+  
+
+10. Contingencies
+
+ 
+
+In the ordinary course of business, the Company is subject to loss contingencies that cover a range of matters. An estimated loss from a loss contingency, such as a legal proceeding or claim, is accrued if it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. In determining whether a loss should be accrued, the Company evaluates, among other factors, the degree of probability and the ability to reasonably estimate the amount of any such loss. The Company does not accrue liabilities when the likelihood that the liability has been incurred is probable, but the amount cannot be reasonably estimated.
+
+ 
+
+On January 28, 2020, Fluent received a Civil Investigative Demand from the Federal Trade Commission ("FTC") regarding compliance with the FTC Act and the Telemarketing Sales Rule. On October 18, 2022, the FTC staff sent the Company a draft complaint and proposed consent order seeking injunctive relief and a civil monetary penalty. On January 12, 2023, the Company made an initial proposal of $5,000 for the civil monetary penalty contingent on successful negotiation of the remaining outstanding terms. The Company accrued the same amount for the year ending December 31, 2022. On  May 26, 2023, Fluent agreed to the terms of a Stipulated Order for Permanent Injunction, Monetary Judgment, Civil Penalty Judgment, and Other Relief (the "FTC Consent Order"). The FTC Consent Order imposed a civil penalty of $2,500, required additional changes to the Company’s employment opportunities marketplace and programmatic advertising business, and resulted in the implementation of compliance measures across the business. On July 17, 2023, the FTC filed its Complaint for Civil Penalties, Permanent Injunction, Monetary Relief, and Other Relief and, together with Fluent, filed a Joint Motion for Entry of Proposed Stipulated Order in the United States District Court for the Southern District of Florida. The FTC Consent Order was entered by the Court on August 11, 2023, and the escrow funds were released on August 15, 2023. The Company maintains insurance policies that cover certain legal costs, which include those incurred related to the FTC investigation.
+
+ 
+
+On October 6, 2020, the Company received notice from the Pennsylvania Office of the Attorney General ("PAAG") that it was reviewing the Company’s business practices relating to telemarketing. After the Company and the PAAG were unable to reach agreement on a proposed Assurance of Voluntary Compliance, the Commonwealth of Pennsylvania filed a complaint for permanent injunction, civil penalties, and other relief in the United States District Court for the Western District of Pennsylvania on November 2, 2022. On May 18, 2023, the parties entered into a settlement and jointly filed a Consent Petition of Final Decree, wherein the Company agreed to injunctive relief and to pay the PAAG $250 for investigatory costs, all of which was paid as of June 30, 2023.
+
+ 
+
+The Company had been involved in a Telephone Consumer Protection Act class action, Daniel Berman v. Freedom Financial Network, which was originally filed in 2018. On May 31, 2023, the parties entered into an Amended Class Action Settlement Agreement (the "Berman Settlement Agreement"), which included injunctive provisions and payment to plaintiffs of $9,750 for legal fees and a consumer redress fund, of which the Company was responsible for $3,100 due upon final approval of the settlement. That amount had been accrued as of December 31, 2022. On July 28, 2023, the Court preliminarily approved the Berman Settlement Agreement. The final approval of the Berman Settlement Agreement was filed on February 23, 2024. The Company made a cash payment of $1,100 on March 15, 2024 and entered into a $2,000 interest-bearing note provided by co-defendant, Freedom Financial Network, as discussed in Note 5, Long-term debt, net, to satisfy its obligations under the Berman Settlement Agreement.
+
+ 
+
+  
+
+11. Variable Interest Entity
+
+ 
+
+A VIE is an entity that either (i) has insufficient equity to permit the entity to finance its activities without additional subordinated financial support, or (ii) has equity investors who lack the characteristics of a controlling financial interest. The primary beneficiary is the party that has the power to direct activities that most significantly impact the operations of the VIE and has the obligation to absorb losses or the right to benefits from the VIE that could potentially be significant to the VIE. The Company assesses whether it is the primary beneficiary of a VIE at the inception of the arrangement and as of the reporting date.
+
+ 
+
+On January 9, 2023, the Company entered into employment agreements with certain key employees of TAPP, an influencer-based business that uses as an application to utilize its relationship with influencers to bring consumers to advertising clients. The Company is also a customer of TAPP and accounts for the majority of TAPP’s revenues. By virtue of TAPP’s key employees being employed by the Company and the significance of the Company to TAPP’s financial performance, the Company determined that TAPP qualified as a VIE in which the Company has a variable interest and that the Company is the primary beneficiary as a result of its significant influence and control over certain activities that most significantly impact its economic performance. As a result, the Company consolidates the TAPP operations. As the Company does not have an equity interest in TAPP, 100% of the net assets and results of the operations of TAPP are attributable to non-controlling interests.
+
+ 
+
+As the Company gained control of TAPP, in accordance with ASC 805, Business Combinations, it was then determined that TAPP constituted a business. The deemed fair value of the consideration was $4,165, which consisted of $1,250 of initial cash and $2,915 which was contingent based upon achievement of specified revenue and media margin targets over three years. The fair value of assets acquired, which excluded the immaterial net-working capital, were determined to be the publisher contracts of $1,100, which were valued using the 'with or without' method, a variation of the income approach, to be amortized over a period of one year and industry-based trade secrets of $1,510, which were valued using the excess earnings method, a variation of the income approach, to be amortized over a period of four years. The amount of the purchase price in excess of the fair value of the net assets acquired was recorded as goodwill in the amount of $1,555 and primarily represents workforce and expected cash flow generation for the TAPP business that does not qualify for separate recognition as intangible assets included within the Fluent operating segment. For tax purposes, the value of the acquisition payments is treated as ordinary compensation for services rendered, deductible when paid and included in the employees’ wages.
+
+ 
+
+  
+
+12. Subsequent Events 
+
+ 
+
+Divestiture 
+
+On May 1, 2024, the Company and Caspian Ventures, LLC (“Caspian”) entered into a membership interest purchase agreement pursuant to which the Company conveyed 100% of the membership interests of True North Loyalty, LLC and its direct and indirect subsidiaries (collectively, "True North") to Caspian. True North is a subscription-based business that utilizes call center operations and other media channels to market third-party recurring revenue services to consumers. The deemed fair value of the consideration to be received was approximately $1,100, which consisted of (i) the forgiveness of a $500 deferred payment owed by the Company in connection with the True North Acquisition on January 1, 2022, (ii) a share of the True North contribution margin after the closing until the Company has received an amount equal to the closing net working capital of approximately $130, and (iii) a continued share of the True North contribution margin of an additional amount of approximately $500. The True North founder who entered into an employment agreement in connection with the True North Acquisition will remain an employee of the Company after the closing. As of March 31, 2024, the Company determined that the True North sale did not meet the criteria of a discontinued operation under ASC 205-20, Discontinued operations nor was it considered held for sale under the guidance, and as a result, it was properly reflected in the results. The Company is in the process of evaluating any additional financial impacts of this transaction. 
+
+ 
+
+Private Placement
+
+On May 13, 2024, the Company entered into a Securities Purchase Agreements (the “Purchase Agreements”) with certain accredited investors (the "Purchasers") to sell pre-funded warrants (the "Pre-Funded Warrants") to purchase up to 2,955,084 shares of the Company's common stock, at a purchase price of $3.384 per Pre-Funded Warrant. The Pre-Funded Warrants will have an exercise price of $0.005 per share of common stock, will be immediately exercisable after stockholder approval of the Private Placement and will terminate when exercised in full. The aggregate gross proceeds for the Private Placement are to total $10,000, before deducting offering expenses payable by the Company. The exercise of the Pre-Funded Warrants is subject to stockholder approval expected in July. The Company will be obligated to use its reasonable best efforts to obtain stockholder approval of the exercise of the Pre-Funded Warrants in accordance with the rules of the Nasdaq Stock Market at a special meeting of the Company's’ stockholders. The Purchasers included, among others, three individuals who are officers and/or directors of the Company and a principal stockholder of the Company. No underwriting discounts or commissions were paid with respect to the Private Placement. The issuance of the Pre-Funded Warrants was made in reliance upon the exemption from registration under Section 4(a)(2) of the Securities Act of 1933, as amended, and Rule 506 of Regulation D promulgated thereunder.
+
+ 
+
+Support Agreements
+
+In connection with the Private Placement, the Company entered into Support Agreements with certain principal stockholders of the Company on May 13, 2024 (the "Support Agreements"). Pursuant to the Support Agreements, the stockholders party thereto agreed to vote shares of the Company’s common stock beneficially owned by them in favor of certain actions subject to Stockholder Approval (as defined in the Purchase Agreements) at any meeting of stockholders of the Company and to vote against or decline to consent to  any proposal or any other corporate action or agreement that would result in a breach by the Company of the Purchase Agreements or impede, delay or otherwise adversely affect the consummation of the transactions contemplated by the Purchase Agreements or any similar agreements entered into by the Company and the party stockholders in connection with the consummation of the transactions contemplated by the Purchase Agreements. Each of the parties to the Support Agreements is also a purchaser in the Private Placement. 
+
+ 
+
+ 
+
+21
+
+
+
+Table of Contents 
+
+  
+
+  
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+ 
+
+ 
+
+This Quarterly Report on Form 10-Q contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 ("PSLRA"), Section 27A of the Securities Act of 1933, as amended (the "Securities Act"), and Section 21E of the Securities Exchange Act of 1934, as amended, (the "Exchange Act"), about our expectations, beliefs, or intentions regarding our business, financial condition, results of operations, strategies, the outcome of litigation, or prospects. Forward-looking statements are those that do not relate strictly to historical or current matters, but instead relate to anticipated or expected events, activities, trends, or results as of the date they are made. These forward-looking statements can be identified by the use of terminology such as "anticipate," "believe," "estimate," "expect," "intend," "project," "will,"  or the negative thereof or other variations thereon or comparable terminology. Because forward-looking statements relate to matters that have not yet occurred, these statements are inherently subject to risks and uncertainties that could cause our actual results to differ materially from any future results expressed or implied by the forward-looking statements. Many factors could cause our actual activities or results to differ materially from the activities and results anticipated in forward-looking statements , including, without limitation, those discussed in Part I, Item 1A of  the Company's Annual Report on Form 10-K for the year ended December 31, 2023 filed with the Securities and Exchange Commission (the "SEC") on April 2, 2024 (the "2023 Form 10-K"), those contained in this Quarterly Report on Form 10-Q, and such other factors contained in our  other filings we make with the SEC. We do not undertake any obligation to update forward-looking statements, except as required by law and intend that all forward-looking statements be subject to the safe harbor provisions of the PSLRA. 
+
+  
+
+These forward-looking statements are only predictions and reflect our views as of the date they are made with respect to future events and financial performance.  The following discussion should be read in conjunction with the 2023 Form 10-K and the consolidated financial statements and related notes included in this Quarterly Report on Form 10-Q.
+
+  
+
+Overview
+
+ 
+
+Fluent, Inc. ("we," "us," "our," "Fluent," or the "Company") is an industry leader in digital marketing services. We primarily perform customer acquisition services by operating highly scalable digital marketing campaigns, through which we connect our advertiser clients with consumers they are seeking to reach. We access these consumers through both our owned and operated digital media properties and our auxiliary syndicated performance marketplace products. In 2023, we delivered data and performance-based customer acquisition services for over 500 consumer brands, direct marketers, and agencies across a wide range of industries, including Media & Entertainment, Financial Products & Services, Health & Life Sciences, Retail & Consumer, and Staffing & Recruitment.
+
+ 
+
+We attract consumers at scale to our owned and operated digital media properties primarily through promotional offerings where they are rewarded for completing activities within the platforms. When registering on our sites, consumers provide their names, contact information, and opt-in permission to present them with relevant offers on behalf of our clients. Approximately 90% of these users engage with our media on their mobile devices or tablets.
+
+ 
+
+Once users have registered on our sites, we integrate our proprietary direct marketing technologies and analytics to engage them with surveys, polls, and other experiences, through which we learn about their lifestyles, preferences, and purchasing histories, among other matters. Based on these insights, we serve targeted, relevant offers to them on behalf of our clients. As new users register and engage with our sites and existing registrants re-engage, the enrichment of our database expands our addressable client base and improves the effectiveness of our performance-based campaigns.
+
+ 
+
+We also operate syndicated performance marketplaces on partner sites where we utilize our proprietary ad-serving technology to identify and acquire additional consumers for our advertiser clients. Our technology is integrated at key moments in the consumer experience to capitalize on high engagement and improve conversion. For example, Adflow, our post-sale e-commerce business, connects our advertisers to consumers on e-commerce websites after check-out. These syndicated solutions generate meaningful income for our partners, while driving additional growth for our advertiser clients. We typically remunerate our syndication partners on a revenue share or impression basis.
+
+ 
+
+Additionally, the Company operates a call center-supported performance marketplace that provides live-call-based performance campaigns to help clients increase engagement and in some cases sell products and services directly on behalf of our clients. The call solutions marketplace serves clients across an array of industries but has a heavy focus on the health insurance sector.
+
+ 
+
+Since our inception, we have amassed a large, proprietary database of first-party, self-declared user information and preferences. We solicit our users’ consent to be contacted by us and/or our advertisers via various contact methods including email, telephone, SMS/text, and push messaging. We then leverage their self-declared data in our performance offerings primarily in two ways: (1) to serve advertisements that we believe will be relevant to users based on the information they provide when they engage on our sites or other partner sites through our syndicated performance marketplaces and (2) to provide our clients with users' contact information so that such clients may communicate with them directly. We may also leverage our existing technology and database to drive new revenue streams, including utilization-based models (e.g., programmatic advertising).
+
+ 
+
+We generate revenue by delivering measurable marketing results to our clients. We differentiate ourselves from other marketing alternatives by our abilities to provide clients with a cost-effective and measurable return on advertising spend ("ROAS"), a measure of profitability of sales compared to the money spent on ads, and to manage highly targeted and highly fragmented online media sources. We are predominantly paid on a negotiated or market-driven "per click," "per lead," or other "per action" basis that aligns with the customer acquisition cost targets of our clients. We bear the costs of acquiring traffic from publishers' performance marketplaces that ultimately generate qualified clicks, leads, calls, app downloads, or customers for our clients.
+
+ 
+
+22 
+
+
+
+Table of Contents 
+
+ 
+
+Through AdParlor, LLC ("AdParlor"), we conduct our non-core business which offers clients various social media strategies through the planning and buying of media on different platforms.
+
+ 
+
+Reverse stock split
+
+ 
+
+Effective at 6:00 p.m. Eastern Time on April 11, 2024, the Company effected a 1-for-6 (the "Reverse Stock Split Ratio") reverse split of the issued shares of the Company’s common stock (the "Reverse Stock Split") pursuant to a certificate of amendment to the Company's Certificate of Incorporation, as amended, filed with the Secretary of State of the State of Delaware on April 11, 2024. As a result of the Reverse Stock Split, every six shares of common stock issued and outstanding or held by the Company in treasury stock were combined and reclassified into one share of common stock. No fractional shares were issued as a result of the Reverse Stock Split. Stockholders who were otherwise entitled to receive a fractional share received an additional fraction of a share of common stock to round up to the next whole share. The Reverse Stock Split affected all stockholders uniformly and did not alter any stockholder’s percentage ownership interest or any stockholder’s proportionate voting power, except for immaterial adjustments that resulted from the treatment of fractional shares. The Reverse Stock Split did not change the number of authorized shares of common stock or the par value per share of the common stock.
+
+ 
+
+The Reverse Stock Split reduced the number of issued and outstanding shares of common stock from approximately 81.6 million shares to approximately 13.6 million shares and reduced the issued shares of common stock held by the Company in treasury stock from approximately 4.6 million shares to approximately 0.8 million shares.
+
+ 
+
+The common stock began trading on a reverse split-adjusted basis at the opening of trading on The Nasdaq Capital Market on April 12, 2024 under the same symbol (FLNT) with a new CUSIP number (34380C 201).
+
+ 
+
+As of the effective time of the Reverse Stock Split, the number of shares available for issuance under the Company’s equity incentive plans and the number of shares issuable pursuant to each outstanding equity award immediately prior to the Reverse Stock Split were reduced proportionately at the Reverse Stock Split Ratio, and the exercise price for each outstanding stock option was increased in inverse proportion to the Reverse Stock Split Ratio.
+
+ 
+
+First Quarter Financial Summary
+
+ 
+
+Three months ended March 31, 2024, compared to three months ended March 31, 2023:
+
+  •      Revenue decreased 15% to $66.0 million, compared to $77.3 million
+
+  •      Net loss was $6.3 million, or $0.45 per share, compared to net loss of $31.9 million or $2.34 per share
+
+  •      Gross profit (exclusive of depreciation and amortization) decreased 2% to $18.6 million, representing 28% of revenue for the
+
+          three months ended March 31, 2024, from $19.0 million, representing 25% of revenue for the three months ended March 31,
+
+          2023
+
+  •      Media margin increased 1% to $22.1 million, representing 33.6% of revenue for the three months ended March 31, 2024, from
+
+          $22.0 million, representing 28.4% of revenue for the three months ended March 31,
+
+          2023
+
+  •      Adjusted EBITDA increased 48% to $0.7 million, based on net loss of $6.3 million, from $0.4 million, based on net loss of
+
+          $31.9
+
+          million
+
+  •      Adjusted net loss was $4.2 million, or $0.30 per share, compared to adjusted net loss of $2.7 million, or $0.20 per share
+
+ 
+
+Media margin, adjusted EBITDA, and adjusted net income (loss) are non-GAAP financial measures. See "Definitions, Reconciliations and Uses of Non-GAAP Financial Measures" below.
+
+ 
+
+Recent Developments
+
+ 
+
+On May 13, 2024, we entered into securities purchase agreements with certain accredited investors, including three individuals who are our officers and/or directors and a principal stockholder of our Company to sell pre-funded warrants to purchase up to 2,955,084 shares of our common stock for an aggregate of $10.0 million in gross proceeds before deducting offering expenses payable by us (the "Private Placement") (see Note 12, Subsequent Events, in the Notes to the Consolidated Financial Statements). The pre-funded warrants are exercisable for $0.0005 per share and will expire when exercised in full. The exercise of the pre-funded warrants is subject to stockholder approval expected in July. No underwriting discounts or commissions were paid with respect to the Private Placement. The issuance of the pre-funded warrants was made in reliance upon the exemption from registration under Section 4(a)(2) of the Securities Act of 1933, as amended, and Rule 506 of Regulation D promulgated thereunder.
+
+ 
+
+Trends Affecting our Business
+
+ 
+
+Development, Acquisition and Retention of High-Quality Targeted Media Traffic
+
+ 
+
+Our business depends on identifying and accessing media sources that are of high quality and on our ability to attract targeted users to our owned and operated media properties. As our business has grown, we have attracted larger and more sophisticated clients to our marketplaces. To further increase our value proposition to clients and to fortify our leadership position in the evolving regulatory landscape of our industry, we implemented a Traffic Quality Initiative in 2020 and established new syndicated performance marketplaces in 2023 to access more higher value consumers. Sourcing high quality traffic will remain a focus and part of a broader initiative to improve customer acquisition for our clients.
+
+ 
+
+Starting in 2022, we increased our spend with major digital media platforms, revised our bidding strategies for affiliate traffic, and developed partnerships to expand traffic from social media platforms, including the growing influencer sector. We also pursued strategic initiatives that enable us to grow revenue with existing user traffic volume by attracting users to our media properties via email and SMS messages. In addition, we have focused on improved monetization of consumer traffic through improved customer relationship management and internal capabilities that allow us to re-engage consumers who have registered on our owned media properties. Through these initiatives, our business has become less dependent on the volume of users to generate revenue growth.
+
+ 
+
+We believe that significant value has been, and will continue to be, created by improving the quality of traffic and value of consumers sourced to our media properties and syndicated performance marketplaces, through increased user participation rates, leading to higher conversion rates, resulting in increased monetization, and ultimately increasing revenue and media margin. Media margin, a non-GAAP measure, is the portion of gross profit (exclusive of depreciation and amortization) reflecting variable costs paid for media and related expenses and excluding non-media cost of revenue.
+
+ 
+
+23 
+
+
+
+Table of Contents 
+
+ 
+
+Since 2022, we have experienced challenges growing our traffic volume to our owned and operated properties due to several factors including the volatility of affiliate supply sources, changes in search engine algorithms, email and text message blocking algorithms, tightened compliance standards for available media, and increased competition that often does not follow our compliance standards. In response to these challenges, we invested in strategic and internal efforts to secure additional traffic from the growing influencer sector and expanding our ad network beyond our owned and operated marketplace to new syndicated performance marketplaces. The mix and profitability of our media channels, strategies, and partners is likely to continue to be dynamic and reflect evolving market trends and the regulatory environment.
+
+ 
+
+Advertiser Trends & Seasonality
+
+ 
+
+We deliver data and performance-based marketing executions to our clients across a wide range of industries, including Media & Entertainment, Financial Products & Services, Health & Life Sciences, Retail & Consumer, and Staffing & Recruitment. Both data and performance-based spend continued to be challenged in 2024 by general economic uncertainty. In 2023, we experienced slowdowns in certain sectors of the Media & Entertainment, Staffing & Recruitment, and Financial Products & Services industries. Specifically, in the third quarter of 2023, our largest client in the gaming sector pulled back pricing and spend as they refocused on ROAS rather than growth. Although the Company addressed this pullback by scaling other clients in the marketplace from the gaming sector and other sectors of the Media & Entertainment industry, the gap was not fully absorbed by other bidders. In the first quarter of 2024 revenue declined due to media supply challenges in our owned and operated marketplaces. Those challenges have continued into the second quarter causing further sequential revenue retractions. 
+
+ 
+
+To offset the advertiser pull back challenges, we continue to work with a select group of advertisers to define high performing consumer segments and strategically price paid conversions to help clients drive higher ROAS. This initiative has driven increased budgets from clients across the Media & Entertainment industry, which represents a large component of our revenue mix.
+
+ 
+
+Additionally, our performance is subject to fluctuations as a result of seasonality and cyclicality in our clients' businesses and fluctuations in media sources. Specifically, Adflow and our performance marketplaces that benefit from Medicare and Affordable Care Act open enrollment experience increased volume in the fourth quarters. Other factors affecting our business may include macroeconomic conditions that impact the digital advertising industry, the various client verticals we serve, and general market conditions.
+
+ 
+
+We believe the second quarter of 2024 will continue to be characterized by slowed economic conditions and media supply uncertainty. To confront these headwinds, we will continue to diversify our client base and intend to further develop our "ROAS program" across additional segments of advertisers in an effort to gain additional budget allocations and further improve our user monetization. 
+
+ 
+
+Business Practices & Compliance
+
+ 
+
+During 2023 and into 2024, we continued to be affected by slowed economic conditions and the impacts of the FTC Consent Order described in Note 10, Contingencies, to the Consolidated Financial Statements (the "FTC Consent Order"), on our owned and operated marketplaces and programmatic advertising business. The industry-leading compliance measures implemented on the owned and operated marketplace, continue to put negative competitive impacts on our revenues and media margin. Although we have not yet experienced it, we continue to believe that the increased regulatory scrutiny on the broader industry will eventually eliminate the advantage that less compliance-focused competitors currently benefit from, enabling us to recapture market share.
+
+ 
+
+Current Economic Conditions
+
+ 
+
+We are subject to risks and uncertainties caused by events with significant macroeconomic impacts. Inflation, rising interest rates, and reduced consumer confidence have caused our clients and their customers to be cautious in their spending. The full impact of these macroeconomic events and the extent to which these macro factors may impact our business, financial condition, and results of operations in the future remains uncertain. In light of the challenging macro-economic environment, we continue to prioritize strategic investments that have near-term benefits to revenue while also streamlining our organization through targeted workforce reductions.
+
+ 
+
+Please see Item 1A. Risk Factors in the 2023 Form 10-K —"Economic or political instability could adversely affect our business, financial condition, and results of operations," and "We are exposed to credit risks from our clients, and we may not be able to collect on amounts owed to us.", for further discussion of the possible impact of unfavorable conditions on our business.
+
+ 
+
+24 
+
+
+
+Table of Contents 
+
+ 
+
+Definitions, Reconciliations and Uses of Non-GAAP Financial Measures
+
+ 
+
+We report the following non-GAAP measures:
+
+ 
+
+Media margin is defined as that portion of gross profit (exclusive of depreciation and amortization) reflecting variable costs paid for media and related expenses and excluding non-media cost of revenue. Gross profit (exclusive of depreciation and amortization) represents revenue minus cost of revenue (exclusive of depreciation and amortization). Media margin is also presented as a percentage of revenue.
+
+ 
+
+Adjusted EBITDA is defined as net income (loss), excluding (1) income taxes, (2) interest expense, net, (3) depreciation and amortization, (4) share-based compensation expense, (5) loss on early extinguishment of debt, (6) accrued compensation expense for Put/Call Consideration, (7) goodwill impairment, (8) write-off of intangible assets, (9) loss (gain) on disposal of property and equipment, (10) acquisition-related costs, (11) restructuring and other severance costs, and (12) certain litigation and other related costs.
+
+ 
+
+Adjusted net income (loss) is defined as net income (loss), excluding (1) share-based compensation expense, (2) loss on early extinguishment of debt, (3) accrued compensation expense for Put/Call Consideration, (4) goodwill impairment, (5) write-off of intangible assets, (6) loss (gain) on disposal of property and equipment, (7) acquisition-related costs, (8) restructuring and other severance costs, and (9) certain litigation and other related costs. Adjusted net income (loss) is also presented on a per share (basic and diluted) basis.
+
+ 
+
+Below is a reconciliation of media margin from gross profit (exclusive of depreciation and amortization) for the three months ended March 31, 2024 and 2023, which we believe is the most directly comparable GAAP measure:
+
+ 
+
+                                                                                                    Three Months Ended March 31,      
+
+                                                                                                     2024                2023        
+
+  Revenue                                                                                      $         65,983   $         77,254 
+
+  Less: Cost of revenue (exclusive of depreciation and amortization)                                     47,348             58,272 
+
+  Gross profit (exclusive of depreciation and amortization)                                    $         18,635   $         18,982 
+
+  Gross profit (exclusive of depreciation and amortization) % of revenue                                     28%                25%
+
+  Non-media cost of revenue (1)                                                                           3,504              2,981 
+
+  Media margin                                                                                 $         22,139   $         21,963 
+
+  Media margin % of revenue                                                                                33.6%              28.4%
+
+ 
+
+  (1)  Represents the portion of cost of revenue (exclusive of depreciation and amortization) not attributable to variable costs paid
+
+        for media and related
+
+        expenses.
+
+ 
+
+25 
+
+
+
+Table of Contents 
+
+ 
+
+Below is a reconciliation of adjusted EBITDA from net loss for the three months ended March 31, 2024 and 2023, which we believe is the most directly comparable GAAP measure:
+
+ 
+
+                                                                                                     Three Months Ended March 31,      
+
+                                                                                                       2024               2023        
+
+  Net loss                                                                                       $          (6,276) $         (31,943)
+
+  Income tax expense                                                                                           908                101 
+
+  Interest expense, net                                                                                      1,415                689 
+
+  Depreciation and amortization                                                                              2,571              2,359 
+
+  Share-based compensation expense                                                                             600              1,061 
+
+  Goodwill impairment                                                                                            —             25,700 
+
+  Acquisition-related costs(1)                                                                                 782                623 
+
+  Restructuring and other severance costs                                                                      665                480 
+
+  Certain litigation and other related costs                                                                     —              1,378 
+
+  Adjusted EBITDA                                                                                $             665  $             448 
+
+ 
+
+  (1)  Balance includes compensation expense related to non-competition agreements and earn-out expense incurred as a result of
+
+        business combinations (see Note 11, Variable Interest Entity, in the Notes to the Consolidated Financial Statements). The
+
+        earn-out expense was $151 and $85 for the three months ended March 31, 2024 and 2023,
+
+        respectively.
+
+ 
+
+Below is a reconciliation of adjusted net loss and adjusted net loss per share from net loss for the three months ended March 31, 2024 and 2023, which we believe is the most directly comparable GAAP measure.
+
+ 
+
+                                                                                                    Three Months Ended March 31,      
+
+  (In thousands, except share and per share data)                                                     2024               2023        
+
+  Net loss                                                                                      $          (6,276) $         (31,943)
+
+  Share-based compensation expense                                                                            600              1,061 
+
+  Goodwill impairment                                                                                           —             25,700 
+
+  Acquisition-related costs(1)                                                                                782                623 
+
+  Restructuring and other severance costs                                                                     665                480 
+
+  Certain litigation and other related costs                                                                    —              1,378 
+
+  Adjusted net loss                                                                             $          (4,229) $          (2,701)
+
+  Adjusted net loss per share:                                                                                                       
+
+  Basic                                                                                         $           (0.30) $           (0.20)
+
+  Diluted                                                                                       $           (0.30) $           (0.20)
+
+  Weighted average number of shares outstanding:                                                                                     
+
+  Basic                                                                                                13,902,165         13,651,152 
+
+  Diluted                                                                                              13,902,165         13,651,152 
+
+ 
+
+  (1)  Balance includes compensation expense related to non-competition agreements and earn-out expense incurred as a result of
+
+        business combinations (see Note 11, Variable Interest Entity, in the Notes to the Consolidated Financial Statements). The
+
+        earn-out expense was $151 and $85 for the three months ended March 31, 2024 and 2023,
+
+        respectively.
+
+ 
+
+26 
+
+
+
+Table of Contents 
+
+ 
+
+We present media margin, media margin as a percentage of revenue, adjusted EBITDA, adjusted net income (loss), and adjusted net income (loss) per share as supplemental measures of our financial and operating performance because we believe they provide useful information to investors. More specifically:
+
+ 
+
+Media margin, as defined above, is a measure of the efficiency of the Company’s operating model. We use media margin and the related measure of media margin as a percentage of revenue as primary metrics to measure the financial return on our media and related costs, specifically to measure the degree by which the revenue generated from our digital marketing services exceeds the cost to attract the consumers to whom offers are made through our services. Media margin is used extensively by our management to manage our operating performance, including evaluating operational performance against budgeted media margin and understanding the efficiency of our media and related expenditures. We also use media margin for performance evaluations and compensation decisions regarding certain personnel.
+
+ 
+
+Adjusted EBITDA, as defined above, is another primary metric by which we evaluate the operating performance of our business, on which certain operating expenditures and internal budgets are based and by which, in addition to media margin and other factors, our senior management is compensated. The first three adjustments represent the conventional definition of EBITDA, and the remaining adjustments are items recognized and recorded under U.S. GAAP in particular periods but might be viewed as not necessarily coinciding with the underlying business operations for the periods in which they are so recognized and recorded. These adjustments include certain litigation and other related costs associated with legal matters outside the ordinary course of business, including costs and accruals related to matters as described below (See Part II, Item 1 — Legal Proceedings). We consider items one-time in nature if they are non-recurring, infrequent or unusual and have not occurred in the past two years or are not expected to recur in the next two years, in accordance with SEC rules. There were no adjustments for one-time items in the periods presented in this Quarterly Report on Form 10-Q.
+
+ 
+
+Adjusted net income (loss), as defined above, and the related measure of adjusted net income (loss) per share exclude certain items that are recognized and recorded under U.S. GAAP in particular periods but might be viewed as not necessarily coinciding with the underlying business operations for the periods in which they are so recognized and recorded. We believe adjusted net income (loss) affords investors a different view of the overall financial performance of the Company than adjusted EBITDA and the U.S. GAAP measure of net income (loss).
+
+ 
+
+Media margin, adjusted EBITDA, adjusted net income (loss), and adjusted net income (loss) per share are non-GAAP financial measures with certain limitations regarding their usefulness. They do not reflect our financial results in accordance with U.S. GAAP, as they do not include the impact of certain expenses that are reflected in our consolidated statements of operations. Accordingly, these metrics are not indicative of our overall results or indicators of past or future financial performance. Further, they are not financial measures of profitability and are neither intended to be used as a proxy for the profitability of our business nor to imply profitability. The way we measure media margin, adjusted EBITDA, and adjusted net income (loss) may not be comparable to similarly titled measures presented by other companies and may not be identical to corresponding measures used in our various agreements.
+
+ 
+
+Comparison of Our Results of Operations for the Three Months Ended March 31, 2024 and 2023
+
+ 
+
+Revenue
+
+ 
+
+                                                                                         Three Months Ended March 31,                
+
+  (In thousands)                                                                 2024               2023             % Change      
+
+  Revenue                                                                  $         65,983  $         77,254               (15%)
+
+ 
+
+27 
+
+
+
+Table of Contents 
+
+ 
+
+The decrease in revenue was primarily attributable to contraction of our owned and operated marketplaces due to a challenging macro-economic environment and media supply challenges related to changes in business practices to reflect regulatory requirements in connection with the FTC Consent Order, which influenced reductions in spend by key clients in the Media & Entertainment, Retail & Consumer, and Staffing & Recruitment sectors. These challenges in the owned and operated marketplaces have continued into the second quarter causing further revenue retraction. The decreases have been partially offset by growth of our new syndicated performance marketplaces.
+
+ 
+
+Cost of revenue (exclusive of depreciation and amortization)
+
+ 
+
+                                                                                         Three Months Ended March 31,                
+
+  (In thousands)                                                                 2024               2023             % Change      
+
+  Cost of revenue (exclusive of depreciation and amortization)             $         47,348  $         58,272               (19%)
+
+ 
+
+The decrease in cost of revenue (exclusive of depreciation and amortization) was largely attributable to the same factors causing the decline in revenue for the period. Our cost of revenue primarily consists of media and related costs associated with acquiring traffic from third-party publishers, digital media platforms, and influencers for our owned and operated websites and purchasing media from syndicated publisher partners. The costs also include enablement costs associated with our call centers and tracking costs related to our consumer data. In addition, there are indirect costs which include fulfillment costs related to rewards earned by consumers who complete the requisite number of advertiser offers, along with call center software and hosting costs.
+
+ 
+
+For the three months ended March 31, 2024 the total cost of revenue (exclusive of depreciation and amortization) as a percentage of revenue decreased to 72% compared to 75% for the three months ended March 31, 2023.
+
+ 
+
+In the normal course of executing paid media campaigns to source consumer traffic, we regularly evaluate new channels, strategies, and partners. Traffic acquisition costs incurred with the major digital media platforms have historically been higher than affiliate traffic sources. For the three months ended March 31, 2024, digital media spend continued to be driven by strategic test and learn initiatives that began in the second quarter of 2022. The mix and profitability of our media channels, strategies, and partners reflect evolving market dynamics, the impact of our Traffic Quality Initiative, and the increased compliance obligations from the FTC Consent Order. As we evaluate and scale new media channels, strategies, and partners, we may determine that certain sources initially able to provide us profitable quality traffic may not be able to maintain our quality standards over time, and we may need to discontinue, or direct a modification of the practices of such sources which could reduce profitability. The improved traffic quality being sourced is the foundation to support sustainable long-term growth and positioning us as an industry leader. For the three months ended March 31, 2024, decreased spend for our owned and operated websites from social media platforms was the largest driver of the decline. Past levels of cost of revenue (exclusive of depreciation and amortization) may therefore not be indicative of future costs, which may increase or decrease as these uncertainties in our business play out.
+
+ 
+
+Sales and marketing
+
+ 
+
+                                                                                        Three Months Ended March 31,                
+
+  (In thousands)                                                                2024               2023              % Change      
+
+  Sales and marketing                                                     $          4,812  $          4,813                 (0%)
+
+ 
+
+For the three months ended March 31, 2024 and 2023, sales and marketing expenses consisted mainly of employee salaries and benefits of $4.1 million and $3.8 million, restructuring and severance costs of $0.2 and $0.1 million, professional fees of $0.2 and $0.1 million, travel and entertainment of $0.1 and $0.1 million, and advertising costs of $0.0 and $0.3 million, respectively. The immaterial decrease was primarily due to the decline of third party referral fees largely offset by annual salary increases. 
+
+ 
+
+Product development
+
+ 
+
+                                                                                        Three Months Ended March 31,                
+
+  (In thousands)                                                                2024               2023              % Change      
+
+  Product development                                                     $          4,840  $          4,938                 (2%)
+
+ 
+
+28 
+
+
+
+Table of Contents 
+
+ 
+
+For the three months ended March 31, 2024 and 2023, product development expenses consisted mainly of salaries and benefits of $3.2 million and $3.5 million, software license and maintenance costs of $0.5 million and $0.5 million, professional fees of $0.4 million and $0.5 million, and restructuring and severance costs of $0.4 and $0.1 million, respectively. The decrease in product development expense was primarily due to lower salaries and other employee related costs due in part to lower headcount, which was partially offset by an increase in restructuring costs due to the current period reduction in workforce. 
+
+ 
+
+General and administrative
+
+ 
+
+                                                                                         Three Months Ended March 31,                
+
+  (In thousands)                                                                 2024               2023             % Change      
+
+  General and administrative                                               $         10,365  $         12,325               (16%)
+
+ 
+
+For the three months ended March 31, 2024 and 2023, general and administrative expenses consisted mainly of employee salaries and benefits of $4.7 million and $4.9 million, professional fees of $1.7 million and $1.6 million, office overhead of $1.0 million and $1.1 million, acquisition-related costs of $0.8 million and $0.6 million, software license and maintenance costs of $0.7 million and $0.6 million, non-cash share-based compensation expense of $0.5 million and $0.8 million, and certain litigation and related costs of $0.0 million and $1.4 million, respectively. The decrease in general and administrative expenses is primarily due to the decline in litigation and related costs which was mainly the result of legal fees in the prior period related to the FTC Consent Order that was settled as of the second quarter of 2023.
+
+ 
+
+During the first quarter of 2023 and the first quarter of 2024, the Company implemented reductions in the workforce that resulted in the termination of 20 and 20 employees, respectively. These reductions in workforce were implemented following management’s determination to decrease the Company's overhead to more effectively align resources to the Company's strategic initiatives. In connection with the first quarter 2023 reductions in workforce, the Company incurred $0.5 million in exit-related restructuring costs, consisting primarily of one-time termination benefits and associated costs, fully settled in cash by March 31, 2024. In connection with the first quarter 2024 reductions in workforce, the Company incurred $0.7 million in exit-related restructuring costs, consisting primarily of one-time termination benefits and associated costs, to be fully settled in cash by September 30, 2024. Apart from these exit-related restructuring costs, these reductions in workforce are expected to result in corresponding reductions in future salary and benefits within sales and marketing, product development, and general and administrative expenses.
+
+ 
+
+Depreciation and amortization
+
+ 
+
+                                                                                         Three Months Ended March 31,                
+
+  (In thousands)                                                                2024               2023              % Change      
+
+  Depreciation and amortization                                           $          2,571  $          2,359                   9%
+
+ 
+
+The increase in depreciation and amortization costs was mainly due to an increase in software developed for internal use and the amortization of the intangibles related to the consolidation of TAPP Influencers Corp ("TAPP") as compared to the three months ended March 31, 2023, partly offset by certain intangible assets that fully amortized as compared to the prior period.
+
+ 
+
+Goodwill impairment and write-off of intangible assets
+
+ 
+
+                                                                                         Three Months Ended March 31,                
+
+  (In thousands)                                                                 2024               2023             % Change      
+
+  Goodwill impairment and write-off of intangible assets                   $              —  $         25,700              (100%)
+
+ 
+
+The Company did not recognize an impairment loss related to goodwill or a write-off of intangible assets during the three months ended March 31, 2024, compared to the goodwill impairment of  $25.7 million for the Fluent Reporting Unit for the three months ended March 31, 2023.
+
+ 
+
+ 
+
+29 
+
+
+
+Table of Contents 
+
+ 
+
+Interest expense, net
+
+ 
+
+                                                                                          Three Months Ended March 31,                
+
+  (In thousands)                                                                  2024               2023             % Change      
+
+  Interest expense, net                                                     $         (1,415) $           (689)               105%
+
+ 
+
+The increase in interest expense was driven by a higher average interest rate on the Citizens Bank term loan described below under "Liquidity and Capital Resources" below along with increased loan amortization. 
+
+ 
+
+Loss before income taxes
+
+ 
+
+                                                                                         Three Months Ended March 31,                
+
+  (In thousands)                                                                 2024               2023             % Change      
+
+  Loss before income taxes                                                 $         (5,368) $        (31,842)              (83%)
+
+ 
+
+The decrease in loss before income taxes of $26.5 million was primarily due to a decrease of goodwill impairment of $25.7 million that occurred in the prior period, a decline in cost of revenue of $10.9 million, and an overall decrease in operating expenses of $2.3 million driven in part by the increase in prior period legal fees, partially offset by decline in revenue of $11.3 million.
+
+ 
+
+Income tax expense
+
+ 
+
+                                                                                          Three Months Ended March 31,                
+
+  (In thousands)                                                                  2024               2023             % Change      
+
+  Income tax expense                                                        $           (908) $           (101)               799%
+
+ 
+
+For the three months ended March 31, 2024 and 2023, the effective tax rate of 16.9% differed from the statutory federal income tax rate of 21% primarily due to state and local tax expense,  offset by the benefit of federal research and development credit. For the three months ended March 31, 2023, the Company's effective income tax expense rate of 0.3% primarily represents the projected federal and state cash tax expense expected to result in taxable income for full-year 2023 after the impact of a non-deductible goodwill impairment against pre-tax year-to-date losses, offset by the benefit of federal research and development credits on expected federal cash tax expense.
+
+ 
+
+30 
+
+
+
+Table of Contents 
+
+ 
+
+As of March 31, 2024 and 2023, the Company recorded full valuation allowances against its net deferred tax assets. The Company intends to maintain full valuation allowances against the net deferred tax assets until there is sufficient evidence to support the release of all or some portion of such allowances. Release of some or all of the valuation allowance would result in the recognition of certain deferred tax assets and an increase in deferred tax benefit for any period in which such a release may be recorded, however, the exact timing and amount of any valuation allowance release are subject to change, depending upon the level of profitability that the Company is able to achieve and the net deferred tax assets available.
+
+ 
+
+Net loss
+
+ 
+
+                                                                                         Three Months Ended March 31,                
+
+  (In thousands)                                                                 2024               2023             % Change      
+
+  Net loss                                                                 $         (6,276) $        (31,943)              (80%)
+
+ 
+
+For the three months ended March 31, 2024 and 2023, net loss was $6.3 million and $31.9 million, respectively, as a result of the foregoing. 
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+Cash (used in) provided by operating activities. For the three months ended March 31, 2024, net cash used in operating activities was $0.1 million, compared to net cash provided by operating activities of $4.9 million for the three months ended March 31, 2023. Net loss in the current period of $6.3 million represents a decrease of $25.7 million, as compared with net loss of $31.9 million in the prior period. Adjustments to reconcile net loss to net cash used in operating activities of $4.0 million in the current period decreased by $25.1 million, as compared with $29.1 million in the prior period, primarily due to no goodwill impairment in the current period as compared to the goodwill impairment of $25.7 million in the prior period. There were changes in assets and liabilities sourcing cash of $2.2 million in the current period, as compared with $7.7 million in the prior period, primarily due to ordinary-course changes in working capital, largely involving the timing of receipt of amounts owing from clients and disbursements of amounts payable to vendors.
+
+ 
+
+Cash used in investing activities. For the three months ended March 31, 2024 and 2023, net cash used in investing activities was $1.8 million and $2.4 million, respectively. The decrease was mainly due to the increase in investment in capitalized software, compared to the impact of the TAPP consolidation that occurred in 2023.
+
+ 
+
+Cash used in financing activities. Net cash used in financing activities for the three months ended March 31, 2024 and 2023 was $2.2 million and $1.5 million, respectively. The decrease was mainly due to the $2.0 million issuance of a junior secured promissory note in the current period offset by debt financing costs, as compared to the prior period taxes paid related to share settlements of vesting of restricted stock units.
+
+ 
+
+As of March 31, 2024, we had noncancelable operating lease commitments of $3.6 million and long-term debt with a $30.0 million principal balance. For the three months ended March 31, 2024, we funded our operations using available cash.
+
+ 
+
+As of March 31, 2024, we had cash and cash equivalents of $11.7 million, a decrease of $4.1 million from $15.8 million as of December 31, 2023. If we are not in compliance with our covenants or unable to draw on the SLR Revolver (as defined herein), both as described below, we would not have sufficient cash resources to finance our operations and expected capital expenditures for the next twelve months and beyond, raising substantial doubt about our ability to continue as a going concern.
+
+ 
+
+As of March 31, 2024, we were in compliance with our covenants under the SLR Credit Agreement (as defined herein) and had excess access to the SLR Revolver. As a result of economic downward trends as described above in "Advertiser Trends & Seasonality", we updated our projections to reflect the continued decline in our operating results. Based on our projections, we do not expect to be in compliance for each of the quarters in the next twelve months. Such non-compliance, in turn, would constitute an event of default that would give SLR (as defined herein) the right to accelerate the maturities under the SLR Credit Agreement. Furthermore, the decline in operating results could lead to declines in the borrowing base under the SLR Revolver, which could lead to the Company's inability to draw on the SLR Revolver in order to fund its operations as well as, potentially, require repayment of a portion of its current borrowings under the SLR Credit Facility.
+
+ 
+
+As a result, on May 13, 2024, we entered into the Private Placement discussed in Recent Developments above.
+
+ 
+
+In addition, management initiated discussions with SLR about remedies if we are unable to meet our future covenants in the next twelve months or our borrowing base declines. As a result of such discussions, on May 15, 2024 we entered into the first amendment to the SLR Credit Agreement pursuant to which SLR, among other things, waived any required repayments on the SLR Revolver from the proceeds from the Private Placement (See Note 5, Long-term debt, net in the Notes to the Consolidated Financial Statements).
+
+ 
+
+Furthermore, given the continued challenges we have faced achieving our financial targets, we plan to implement additional cost reductions and focus resources on opportunities that will enable us to meet our projected budget and cash flow requirements. These initial plans have included divesting a business unit that has not met our needs (see Note 12, Subsequent Events, in the Notes to the Consolidated Financial Statements) and reviewing divesting other business units to determine the impact of potential divestments.
+
+ 
+
+While we believe the proceeds from the Private Placement and other steps as noted above will be adequate enough to cover a decline in the borrowing base under the SLR Revolver (as defined below) as well as fund our current operations, there is no guarantee that our plans will be successfully executed or have the expected benefits. Furthermore, if an event of default under the SLR Credit Agreement (as defined below) were to occur and the maturity date accelerated, we likely would not have sufficient funds to repay the SLR Term Loan and the SLR Revolver. While management believes they will be able to work through their plans to mitigate any event of default with SLR, obtaining a waiver of an event of default or entering into an amendment to mitigate an event of default is not entirely within our control. As there can be no assurance that we will be able to effectively implement our plans within one year after the date of this report, based on the factors above, management concluded that there is substantial doubt about our ability to continue as a going concern through such one-year period.
+
+ 
+
+31 
+
+
+
+Table of Contents 
+
+ 
+
+We may explore the possible acquisition of businesses, products and/or technologies that are complementary to our existing business. We continue to identify and prioritize additional technologies, which we may wish to develop internally or through licensing or acquisition from third parties. While we may engage from time to time in discussions with respect to potential acquisitions, there can be no assurance that any such acquisitions will be made or that we will be able to successfully integrate any acquired business with our then current business or realize anticipated cost synergies. In order to finance such acquisitions and working capital, it may be necessary for us to raise additional funds through public or private financings. Any equity or debt financings, if available at all, may be on terms which are not favorable to us and, in the case of equity financings, may result in dilution to shareholders.
+
+ 
+
+On March 31, 2021, Fluent, LLC (the "Borrower") entered into a credit agreement (as amended, modified, extended, restated, replaced, or supplemented from time to time, the "Citizens Credit Agreement") with certain subsidiaries of Fluent, LLC as guarantors, the lenders thereto, and Citizens Bank, N.A. ("Citizens Bank") as administrative agent, lead arranger and bookrunner. The original Citizens Credit Agreement provided for a term loan in the aggregate principal amount of $50.0 million funded on the closing date, along with an undrawn revolving credit facility of up to $15.0 million (together with the term loan, the "Citizens Credit Facility").
+
+ 
+
+On January 26, 2024, the Borrower and Citizens Bank entered into a Third Temporary Waiver and Amendment to Credit Agreement (the "Third Waiver"), pursuant to which Citizens Bank agreed to waive through the earlier of April 30, 2024, an occurrence of any other event of default, or failure to comply with requirements of the Third Waiver and its rights and remedies arising from the Company’s breach of the total leverage covenant and fixed charge ratio during the quarters ending December 31, 2023 and March 31, 2024. Among other things, the Third Waiver required the Borrower to, by March 31, 2024, deliver one or more Transaction Commitments, defined as: (i) a third-party commitment to provide additional capital in exchange for equity or subordinated debt, (ii) a purchase agreement for the sale of a divested business, or (iii) a third-party commitment to refinance the Credit Agreement. One condition of the Transaction Commitments was that the Borrower provide for net proceeds, in the aggregate, to Fluent of not less than $10.0 million.
+
+ 
+
+On April 2, 2024, Fluent, LLC, as Borrower, entered into a credit agreement (the "SLR Credit Agreement") with Fluent, Inc. and certain subsidiaries of the Borrower as guarantors, Crystal Financial LLC D/B/A SLR Credit Solutions, as administrative agent, lead arranger and bookrunner ("SLR"), and the lenders from time to time party thereto.
+
+ 
+
+The SLR Credit Agreement provides for a $20.0 million term loan (the "SLR Term Loan") and a revolving credit facility of up to $30.0 million (the "SLR Revolver" and, together with the SLR Term Loan, the "SLR Credit Facility"). As of April 2, 2024, the SLR Credit Facility has an outstanding principal balance of $32.7 million and will mature on April 2, 2029 (the "Maturity Date"). 
+
+ 
+
+We used a portion of the net proceeds of the SLR Credit Facility to repay our outstanding obligations under the Citizens Credit Agreement dated March 31, 2021.
+
+ 
+
+We may voluntarily prepay the SLR Term Loan, in whole or in part, at any time, subject to a premium payable on the aggregate principal amount of any such voluntary prepayments within the first three years following the closing date. There is no principal amortization prior to maturity under the SLR Credit Agreement, except for certain mandatory prepayments to be made with the net cash proceeds of certain asset sales, casualty events, and other extraordinary receipts and upon the occurrence of certain other events, in each case, subject to certain reinvestment rights, thresholds and other exceptions. Unfunded commitments under the SLR Revolver will be subject to an unused facility fee, which will be payable monthly in arrears, as of the month following the closing, at a rate of 0.50% per annum. All amounts owed under the Credit Facilities will be due and payable on the Maturity Date, or earlier following a change in control or other event of default, unless otherwise extended in accordance with the terms of the SLR Credit Agreement. Borrowings under the SLR Credit Agreement bear interest at a rate per annum equal to a 3-month term SOFR plus 0.26161%, subject to a 1.50% floor, plus 5.25% (the "Applicable Margin"). The Applicable Margin will be reduced to 5.0% when our fixed charge coverage ratio is greater than 1.10 to 1. The opening interest rate of the SLR Credit Facility was 10.81% (SOFR + CSA + 5.25%).
+
+ 
+
+On May 15, 2024, the Borrower and SLR entered into the first amendment to SLR Credit Agreement, pursuant to which SLR (1) waived any required prepayments on the SLR Revolver from the proceeds from the Private Placement; (2) required that the Credit Parties (as defined in the SLR Credit Agreement) retain a financial advisor, (3) increased the minimum excess availability covenant following the Private Placement; (4) amended the definition of borrowing base (as defined in the SLR Credit Agreement); and (5) amended certain post-closing obligations.
+
+ 
+
+The SLR Credit Facility is guaranteed by us and certain of our direct and indirect subsidiaries and is secured by substantially all of our assets and those of certain of our direct and indirect subsidiaries, including Fluent, LLC.
+
+ 
+
+The SLR Credit Agreement contains restrictive covenants which impose limitations on the way we conduct our business, including, but not limited to, limitations on the amount of additional debt we are able to incur and our ability to make certain investments or to pay dividends or other restricted payments.
+
+ 
+
+The SLR Credit Agreement also contains certain affirmative covenants and customary events of default provisions, including, subject to grace periods, among others, payment default, covenant default and judgment default.
+
+ 
+
+Critical Accounting Estimates
+
+ 
+
+Management's discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an ongoing basis, we evaluate our estimates, including those related to revenue recognition, recoverability of the carrying amounts of goodwill and intangible assets, share-based compensation, income taxes, and contingencies. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+ 
+
+Further details of the Company's accounting policies are available in Item 1, Financial Statements, Note 1, Summary of significant accounting policies, to Consolidated Financial Statements.
+
+ 
+
+32 
+
+
+
+Table of Contents 
+
+ 
+
+ 
+
+For additional information, please refer to our 2023 Form 10-K. There have been no additional material changes to Critical Accounting Estimates disclosed in the 2023 Form 10-K.
+
+  
+
+Recently issued accounting and adopted standards
+
+ 
+
+See Note 1(c), "Recently issued and adopted accounting standards," in the Notes to Consolidated Financial Statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+ 
+
+As a smaller reporting company, we are not required to provide the information required by this Item.
+
+ 
+
+Item 4. Controls and Procedures.
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+The Company's management, with the participation of the Company's Chief Executive Officer and Interim Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act as of March 31, 2024. We maintain disclosure controls and procedures that are designed to provide reasonable assurance that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms and that such information is accumulated and communicated to our management, including our Company's Chief Executive Officer and Interim Chief Financial Officer, as appropriate, to allow for timely decisions regarding required disclosure. Our management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+
+ 
+
+Based on the evaluation of disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), the Company's Chief Executive Officer and Interim Chief Financial Officer carried out an evaluation of the effectiveness of the Company's disclosure controls and procedures as of March 31, 2024 and concluded they were effective as of that date.
+
+ 
+
+Changes in Internal Control Over Financial Reporting
+
+ 
+
+There were no changes to our internal control over financial reporting during the quarter ended March 31, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+ 
+
+33 
+
+
+
+Table of Contents 
+
+ 
+
+PART II - OTHER INFORMATION
+
+Item 1. Legal Proceedings.
+
+ 
+
+Other than as disclosed below under "Certain Legal Matters," the Company is not currently a party to any legal proceeding, investigation or claim which, in the opinion of the Company's management, is likely to have a material adverse effect on the business, financial condition, results of operations or cash flows of the Company. Legal fees associated with such legal proceedings are expensed as incurred. We review legal proceedings and claims on an ongoing basis and follow appropriate accounting guidance, including Financial Accounting Standards Board Accounting Standards Codification 450 ("ASC 450"), Contingencies, when making accrual and disclosure decisions. We establish accruals for those contingencies where the incurrence of a loss is probable and can be reasonably estimated, and we disclose the amount accrued and the amount of a reasonably possible loss in excess of the amount accrued, if such disclosure is necessary for our financial statements to not be misleading. To estimate whether a loss contingency should be accrued by a charge to income, we evaluate, among other factors, the degree of probability of an unfavorable outcome and the ability to make a reasonable estimate of the amount of such loss. We do not accrue liabilities when the likelihood that the liability has been incurred is probable, but the amount cannot be reasonably estimated.
+
+ 
+
+In addition, we may be involved in litigation from time to time in the ordinary course of business. We do not believe that the ultimate resolution of any such matters will have a material adverse effect on our business, financial condition, results of operations or cash flows. However, the results of such matters cannot be predicted with certainty, and we cannot assure you that the ultimate resolution of any legal or administrative proceeding or dispute will not have a material adverse effect on our business, financial condition, results of operations and cash flows.
+
+ 
+
+Certain Legal Matters
+
+ 
+
+The Company had been involved in a Telephone Consumer Protection Act class action, Daniel Berman v. Freedom Financial Network, which was originally filed in the Northern District of California in 2018. On May 31, 2023, the parties entered into an Amended Class Action Settlement Agreement (the "Berman Settlement Agreement"), which included injunctive provisions and payment to plaintiffs of $9.75 million for legal fees and a consumer redress fund, of which the Company was responsible for $3.1 million due upon final approval of the settlement. That amount had been accrued as of December 31, 2022. On July 28, 2023, the Court preliminarily approved the Berman Settlement Agreement. The final approval of the Berman Settlement Agreement was filed on February 23, 2024. The Company made a cash payment of $1.1 million on March 15, 2024 and entered into a $2.0 million interest-bearing note provided by co-defendant, Freedom Financial Network, as discussed in Note 5, Long-term debt, net, to its consolidated financial statements, to satisfy its obligations under the Berman Settlement Agreement.
+
+ 
+
+Item 1A. Risk Factors.
+
+ 
+
+Our business, financial condition, results of operations, and cash flows may be impacted by a number of factors, many of which are beyond our control, including those set forth in our 2023 Form 10-K, the occurrence of any one of which could have a material adverse effect on our actual results.
+
+ 
+
+Except as set forth below, there have been no material changes to the risk factors previously disclosed in our 2023 Form 10-K. The risk factors below supplement or update the risk factors in our 2023 Form 10-K.
+
+ 
+
+34 
+
+
+
+Table of Contents 
+
+ 
+
+We are currently listed on The Nasdaq Capital Market ("Nasdaq"). If we are unable to maintain listing of our securities on Nasdaq or any stock exchange, our stock price could be adversely affected and the liquidity of our stock and our ability to obtain financing could be impaired and it may be more difficult for our stockholders to sell their securities.
+
+ 
+
+Although our common stock is currently listed on Nasdaq, we may not be able to continue to meet the exchange's minimum listing requirements or those of any other national exchange. The Listing Rules of Nasdaq require listing issuers to comply with certain standards in order to remain listed on its exchange. For example, while we currently meet the required listing standards of Nasdaq, if, in the future, the closing bid price for our common stock falls below $1.00 per share for 30 consecutive business days, we will not be in compliance with the $1.00 minimum bid price requirement for continued listing on Nasdaq under Rule 5550(a)(2) of the Nasdaq Listing Rules. We can provide no assurance that the trading price of our common stock will not fall below $1.00 per share for a period of 30 consecutive trading days or that if it does, we will be able to regain compliance with the minimum bid price requirement, even if we maintain compliance with the other listing requirements. If, for any reason, we should fail to maintain compliance with the listing standards of Nasdaq, Nasdaq should delist our securities from trading on its exchange and we are unable to obtain listing on another national securities exchange, a reduction in some or all of the following may occur, each of which could have a material adverse effect on our shareholders:
+
+ 
+
+ ● the liquidity of our common stock;
+
+    
+
+ ● the market price of our common stock;
+
+    
+
+ ● our ability to obtain financing for the continuation of our operations;
+
+    
+
+ ● the number of investors that will consider investing in our common stock;
+
+    
+
+ ● the number of market makers in our common stock;
+
+    
+
+ ● the availability of information concerning the trading prices and volume of our common stock; and
+
+    
+
+ ● the number of broker-dealers willing to execute trades in shares of our common stock.
+
+ 
+
+ 
+
+There is substantial doubt about our ability to continue as a going concern
+
+ 
+
+On April 2, 2024, the Company entered into the SLR Credit Agreement. The SLR Credit Agreement requires the Company to maintain and comply with certain financial covenants and the borrowings under the SLR Revolver are limited to a borrowing base which fluctuates as regularly as weekly based on the Company's eligible accounts receivable. As a result of a decline in financial performance of the Company's owned and operated digital media properties in April 2024, the Company's accounts receivable were insufficient to support the borrowing base needed to fund operations through the end of the second quarter of 2024. As a result, the Company raised $10 million in gross proceeds from the Private Placement and updated its projections to reflect the continued decline in its operating results. While the revised projections indicate that the Company will be in compliance with all financial covenants under the SLR Credit Agreement for each of the quarters in the twelve months following the issuance date of this Quarterly Report on Form 10-Q, if these projections are not met, the Company will not be in compliance with such covenants. As of the date of this Quarterly Report on Form 10-Q, the Company's results have been trending below its forecast. The Company's decline in operating results could lead to declines in the borrowing base, which could lead to the Company's inability to draw on the SLR Revolver in order to fund its operations as well as, potentially, require repayment of a portion of its current borrowings under the SLR Credit Facility.
+
+ 
+
+While management believes the proceeds from the Private Placement and other cost reduction measures such as divesting business units will be adequate to cover a decline in the borrowing base under the SLR Revolver and fund its current operations, there is no guarantee that the Company's plans will be successfully executed or have the expected benefits. Furthermore, if an event of default under the SLR Credit Agreement were to occur and the maturity date thereunder accelerated, the Company likely would not have sufficient funds to repay the SLR Term Loan and the SLR Revolver. As there can be no assurance that the Company will be able to effectively implement its plans within one year after the date of this Quarterly Report on Form 10-Q, management concluded that there is substantial doubt about the Company's ability to continue as a going concern through such one-year period.
+
+ 
+
+If the Company's current plans are not successful, it may need to consider other strategic alternatives, including restructuring or refinancing its debt, seeking additional equity or debt financing, reducing or delaying our business activities and strategic initiatives, selling assets, and other strategic transactions and/or other measures. If the Company seeks additional financing to fund its operations and there remains substantial doubt about the Company's ability to continue as a going concern, financing sources may be unwilling to provide such funding to the Company on commercially reasonable terms, or at all. Furthermore, the perception that the Company may not be able to continue as a going concern may cause publishers, vendors, advertisers and other clients (current and potential) to review their business relationships and terms with the Company. Uncertainty regarding the Company's ability to continue as a going concern could also have a material and adverse impact on the price of the Company's common stock, which could negatively impact its ability to obtain stock-based financing or enter into strategic transactions.
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+ 
+
+None.
+
+ 
+
+Item 3. Defaults Upon Senior Securities.
+
+ 
+
+None.
+
+  
+
+Item 5. Other Information.
+
+ 
+
+Rule 10b5-1 Trading Plans
+
+ 
+
+During the fiscal quarter ended March 31, 2024, none of the Company's directors or executive officers adopted or terminated any contract, instruction or written plan for the purchase or sale of Company securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any "non-Rule 10b5-1 trading arrangement."
+
+ 
+
+Private Placement
+
+ 
+
+On May 13, 2024, the Company entered into Securities Purchase Agreements (the "Purchase Agreements") with certain accredited investors (the "Purchasers") to sell pre-funded warrants (the "Pre-Funded Warrants") to purchase up to 2,955,084 shares of the Company's common stock, at a purchase price of $3.384 per Pre-Funded Warrant. The Pre-Funded Warrants will have an exercise price of $0.005 per share of common stock, will be immediately exercisable after stockholder approval of the Private Placement and will terminate when exercised in full. The aggregate gross proceeds for the Private Placement were $10 million, before deducting offering expenses payable by the Company. The exercise of the Pre-Funded Warrants is subject to stockholder approval. The Company will be obligated to use its reasonable best efforts to obtain stockholder approval of the exercise of the Pre-Funded Warrants in accordance with the rules of the Nasdaq Stock Market at a special meeting of the Company's stockholders. The Purchasers included, among others, three individuals who are officers and/or directors of the Company and a principal stockholder of the Company. No underwriting discounts or commissions were paid with respect to the Private Placement. The issuance of the Pre-Funded Warrants was made in reliance upon the exemption from registration under Section 4(a)(2) of the Securities Act and Rule 506 of Regulation D promulgated thereunder.
+
+ 
+
+The foregoing descriptions of the Purchase Agreements and Pre-Funded Warrants do not purport to be complete and are subject to, and qualified in their entirety by, the full text of the Purchase Agreements and Pre-Funded Warrants, copies of which are filed as Exhibits 10.1 and 10.2, respectively, to this Quarterly Report on Form 10-Q and are incorporated by reference herein.
+
+ 
+
+Support Agreements
+
+ 
+
+In connection with the Private Placement, the Company entered into Support Agreements with certain principal stockholders of the Company on May 13, 2024 (the "Support Agreements"). Pursuant to the Support Agreements, the stockholders party thereto agreed to vote shares of the Company's common stock beneficially owned by them in favor of certain actions subject to Stockholder Approval (as defined in the Purchase Agreements) at any meeting of stockholders of the Company and to vote against or decline to consent to  any proposal or any other corporate action or agreement that would result in a breach by the Company of the Purchase Agreements or impede, delay or otherwise adversely affect the consummation of the transactions contemplated by the Purchase Agreements or any similar agreements entered into by the Company and the party stockholders in connection with the consummation of the transactions contemplated by the Purchase Agreements. Each of the parties to the Support Agreements is also a purchaser in the Private Placement. 
+
+ 
+
+The foregoing description of the Support Agreements does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Support Agreements, a copy of which is filed as Exhibit 10.3 to this Quarterly Report on Form 10-Q and is incorporated by reference herein.
+
+ 
+
+SLR Credit Agreement
+
+ 
+
+On April 2, 2024, Fluent, LLC, a wholly-owned subsidiary of the Company as Borrower, entered into the SLR Credit Agreement with Fluent, Inc. and certain subsidiaries of the Borrower as guarantors, SLR, and the lenders from time to time party thereto. For further information concerning the SLR Credit Agreement, see Part II, Item 2 — Management's Discussion and Analysis of Financial Condition and Results of Operations – Liquidity and Capital Resources.
+
+ 
+
+On May 15, 2024, the Borrower, the Company and certain subsidiaries of the Borrower as guarantors, SLR, and the lenders from time to time party thereto entered into a first amendment to SLR Credit Agreement (the "SLR Credit Agreement Amendment") pursuant to which SLR (1) waived any required prepayments on the SLR Revolver from the proceeds from the Private Placement; (2) required that the Credit Parties (as defined in the SLR Credit Agreement) retain a financial advisor; (3) increased the minimum excess availability covenant following the Private Placement; (4) amended the definition of borrowing base (as defined in the SLR Credit Agreement); and (5) amended certain post-closing obligations.
+
+ 
+
+The foregoing description of the SLR Credit Agreement Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the SLR Credit Agreement Amendment, a copy of which is filed as Exhibit 10.8 to this Quarterly Report on Form 10-Q and is incorporated by reference herein.
+
+ 
+
+35
+
+
+
+Table of Contents 
+
+   
+
+  
+
+Item 6. Exhibits. 
+
+ 
+
+The following exhibits are filed as part of, or incorporated by reference into, this Quarterly Report on Form 10-Q.
+
+ 
+
+                                                                                       Incorporated by Reference             Filed
+
+  Exhibit    Exhibit Description                                                Form    File No.   Exhibit  Filing Date  Herewith
+
+   No.
+
+  3.1        Certificate of Domestication                                        8-K    001-37893    3.1     3/26/2015   
+
+                                                                                                                         
+
+  3.2        Certificate of Incorporation                                        8-K    001-37893    3.2     3/26/2015   
+
+                                                                                                                         
+
+  3.3        Certificate of Amendment to the Certificate of Incorporation        8-K    001-37893    3.1     9/26/2016   
+
+                                                                                                                         
+
+  3.4        Certificate of Amendment to the Certificate of Incorporation        8-K    001-37893    3.1     4/16/2018   
+
+                                                                                                                         
+
+  3.5        Amended and Restated Bylaws                                         8-K    001-37893    3.2     2/19/2019   
+
+                                                                                                                         
+
+  10.1+      Securities Purchase Agreement by and between Fluent, Inc. and                                                   X
+
+              the purchasers a party thereto, dated as of May 13,
+
+              2024.
+
+                                                                                                                         
+
+  10.2       Form of Pre-Funded Warrant dated May 13, 2024                                                                   X
+
+                                                                                                                              
+
+  10.3       Form of Support Agreement by and among Fluent, Inc. and the                                                     X
+
+              parties thereto dated as of May 13,
+
+              2024
+
+                                                                                                                         
+
+  10.4       Second Temporary Waiver Under Credit Agreement, effective as of    10-K    001-37893   10.11    4/2/2024    
+
+              January 17, 2024, by and among Fluent, LLC, as Borrower,
+
+              certain subsidiaries of the Borrower party thereto, the
+
+              lenders party thereto, and Citizens Bank, N.A., as
+
+              Administrative
+
+              Agent
+
+                                                                                                                         
+
+  10.5       Third Temporary Waiver and Amendment to Credit Agreement,          10-K    001-37893   10.12    4/2/2024    
+
+              effective as of January 26, 2024, by and among Fluent, LLC, as
+
+              Borrower, certain subsidiaries of the Borrower party thereto,
+
+              the lenders party thereto, and Citizens Bank, N.A., as
+
+              Administrative
+
+              Agent
+
+                                                                                                                         
+
+  10.6       Amendment to Letter Agreement for Consulting Services,             10-K    001-37893   10.25    4/2/2024    
+
+              effective as of February 1, 2024, by and between Fluent, LLC
+
+              and CRIO,
+
+              LLC
+
+                                                                                                                         
+
+  10.7       Credit Agreement dated as of April 2, 2024, by and among,          10-K    001-37893   10.26    4/2/2024    
+
+              Fluent, LLC, Fluent, Inc., certain subsidiaries of Fluent, LLC
+
+              as guarantors, Crystal Financial LLC D/B/A SLR Credit
+
+              Solutions, and each other lender from time to time party
+
+              thereto.
+
+                                                                                                                         
+
+  10.8       First Amendment to Credit Agreement, dated as of May 15, 2024,                                                  X
+
+              by and among the Company, lenders thereto, Crystal Financial
+
+              LLC d/b/a SLR Credit Solutions, and Fluent,
+
+              LLC.
+
+                                                                                                                         
+
+  31.1       Certification of Chief Executive Officer filed pursuant to                                                      X
+
+              Exchange Act Rules 13a-14(a) and 15d-14(a) of the Securities
+
+              and Exchange Act of 1934 as adopted pursuant to Section 302 of
+
+              the Sarbanes-Oxley Act of
+
+              2002.
+
+  31.2       Certification of Interim Chief Financial Officer filed pursuant                                                 X
+
+              to Exchange Act Rules 13a-14(a) and 15d-14(a) of the
+
+              Securities and Exchange Act of 1934 as adopted pursuant to
+
+              Section 302 of the Sarbanes-Oxley Act of
+
+              2002.
+
+  32.1*      Certification by Chief Executive Officer pursuant to 18 U.S.C.                                                   
+
+              Section 1350, as adopted pursuant to Section 906 of the
+
+              Sarbanes-Oxley Act of
+
+              2002.
+
+  32.2*      Certification by Interim Chief Financial Officer pursuant to 18                                                  
+
+              U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+
+              Sarbanes-Oxley Act of
+
+              2002.
+
+  101.INS    Inline XBRL Instance Document (the Instance Document does not                                                   X
+
+              appear in the Interactive Data File because its XBRL tags are
+
+              embedded within the Inline XBRL
+
+              document)
+
+  101.SCH    Inline XBRL Taxonomy Extension Schema Document                                                                  X
+
+  101.CAL    Inline XBRL Taxonomy Extension Calculation Linkbase Document                                                    X
+
+  101.DEF    Inline XBRL Taxonomy Extension Definition Linkbase Document                                                     X
+
+  101.LAB    Inline XBRL Taxonomy Extension Label Linkbase Document                                                          X
+
+  101.PRE    Inline XBRL Taxonomy Extension Presentation Linkbase Document                                                   X
+
+  104        Cover Page Interactive Data File (formatted as Inline XBRL and                                                  X
+
+              contained in Exhibit
+
+              101)
+
+  *          Furnished herewith. This certification is deemed not filed for purposes of Section 18 of the Exchange Act or otherwise
+
+              subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the
+
+              Securities Act or the Exchange
+
+              Act.
+
+  +          Certain of the schedules to this exhibit have been omitted in accordance with Regulation S-K Item 601(b)(10). The Company
+
+              hereby undertakes to furnish supplementally a copy of all omitted schedules to the SEC upon its
+
+              request
+
+ 
+
+36 
+
+
+
+Table of Contents 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+ 
+
+                                                                                        Fluent, Inc.
+
+                                                                                         
+
+                                                                                         
+
+  May 15, 2024                                                                     By:  /s/ Ryan Perfit
+
+                                                                                        Ryan Perfit
+
+                                                                                        Interim Chief Financial Officer
+
+                                                                                        (Principal Financial and Accounting Officer)
+
+ 
+
+37

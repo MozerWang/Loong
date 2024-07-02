@@ -1,0 +1,1402 @@
+﻿ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+FORM 10-Q
+ 
+(Mark One)
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the quarter ended March 31, 2024
+ 
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the transition period from                    to                  
+ 
+Commission file number: 001-38762
+ 
+BiomX Inc.
+(Exact Name of Registrant as Specified in Its Charter) 
+ 
+                             Delaware                                                           82-3364020
+                 (State or other jurisdiction of                                            (I.R.S. Employer 
+                 incorporation or organization)                                            Identification No.) 
+ 
+          22 Einstein St., 4th Floor, Ness Ziona, Israel                                         7414003
+             (Address of principal executive offices)                                           (Zip Code)
+ 
+Registrant’s telephone number, including area code: +972 723942377
+  
+Securities registered pursuant to Section 12(b) of the Act: 
+ 
+            Title of each class                           Trading Symbol(s)                Name of each exchange on which registered
+  Units, each consisting of one share of                       PHGE.U                                    NYSE American
+  common stock, $0.0001 par value, and one
+  warrant exercisable for one-half of one
+              share of common
+                   stock
+      Common stock, $0.0001 par value                           PHGE                                     NYSE American
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+ 
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒  No ☐
+ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+ 
+Large accelerated filer           ☐                                 Accelerated filer                 ☐
+Non-accelerated filer             ☒                                 Smaller reporting company         ☒
+                                                                    Emerging growth company           ☐
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐  
+ 
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+ 
+The number of shares outstanding of the Registrant’s shares of Common Stock as of May 17, 2024 was 69,806,440.
+ 
+ 
+ 
+ 
+ 
+BIOMX INC.
+ 
+FORM 10-Q FOR THE QUARTER ENDED MARCH 31, 2024
+ 
+TABLE OF CONTENTS
+ 
+                                                                                                                               Page
+Part I. Financial Information                                                                                                   1
+Item 1. Financial Statements                                                                                                    1
+Condensed Consolidated Balance Sheets (unaudited)                                                                              F-1
+Condensed Consolidated Statements of Operations (unaudited)                                                                    F-3
+Condensed Consolidated Statements of Stockholders’ Equity (unaudited)                                                          F-4
+Condensed Consolidated Statements of Cash Flows (unaudited)                                                                    F-6
+Notes to Condensed Consolidated Financial Statements (unaudited)                                                               F-7
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations                                   2
+Item 3. Quantitative and Qualitative Disclosures About Market Risk                                                              9
+Item 4. Controls and Procedures                                                                                                 9
+Part II. Other Information                                                                                                      10
+Item 6. Exhibits.                                                                                                               10
+Part III. Signatures                                                                                                            11
+ 
+i
+ 
+ 
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+ 
+This Quarterly Report on Form 10-Q, or the Quarterly Report, includes “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and other securities laws. The statements contained herein that are not purely historical, are forward-looking statements. Forward-looking statements include statements about our expectations, beliefs, plans, objectives, intentions, assumptions and other statements that are not historical facts. Words or phrases such as “anticipate,” “believe,” “continue,” “estimate,” “expect,” “intend,” “may,” “ongoing,” “plan,” “potential,” “predict,” “project,” “will” or similar words or phrases, or the negatives of those words or phrases, may identify forward-looking statements, but the absence of these words does not necessarily mean that a statement is not forward-looking. For example, we are making forward-looking statements when we discuss our business strategy and plans, our clinical and pre-clinical development program, including timing, milestones and the design thereof, including acceptance of regulatory agencies of such design, the potential opportunities for and benefits of the BacteriOphage Lead to Treatment, or BOLT, platform, the potential of our product candidates and the sufficiency of financial resources and financial needs and ability to continue as a going concern. However, you should understand that these statements are not guarantees of performance or results, and there are a number of risks, uncertainties and other important factors that could cause our actual results to differ materially from those expressed in the forward-looking statements, including, among others:
+  
+          ●    the ability to generate revenues, and raise sufficient financing to meet working capital requirements;
+ 
+          ●    the integration of the operations of Adaptive Phage Therapeutics LLC, a Delaware limited liability company, or APT,
+                into the
+                Company;
+ 
+          ●    the receipt of our stockholders’ approval to certain proposals relating to the acquisition of APT by BiomX Inc.,
+                pursuant to an agreement and plan of merger, or the Merger Agreement, by and among BiomX Inc., APT, BTX Merger Sub I,
+                Inc., a Delaware corporation, and BTX Merger Sub II, LLC, a Delaware limited liability company, or the Acquisition and
+                related private investment
+                transaction;
+ 
+          ●    the unpredictable timing and cost associated with our approach to developing product candidates using phage technology;
+ 
+          ●    political and economic instability, including, without limitation, due to natural disasters or other catastrophic
+                events, such as the Russian invasion of Ukraine and world sanctions on Russia, Belarus, and related parties, terrorist
+                attacks, hurricanes, fire, floods, pollution and
+                earthquakes;
+ 
+          ●    obtaining U.S. Food and Drug Administration, or FDA, acceptance of any non-U.S. clinical trials of product candidates;
+ 
+          ●    our ability to enroll patients in clinical trials and achieve anticipated development milestones when expected;
+ 
+          ●    the ability to pursue and effectively develop new product opportunities and acquisitions and to obtain value from such
+                product opportunities and
+                acquisitions;
+ 
+          ●    penalties and market withdrawal associated with any unanticipated problems with product candidates and failure to
+                comply with labeling and other
+                restrictions;
+ 
+          ●    general economic conditions, our current low stock price and other factors on our operations, the continuity of our
+                business, including our preclinical and clinical trials, and our ability to raise additional capital;
+                
+                
+          ●    expenses associated with compliance with ongoing regulatory obligations and successful continuing regulatory review;
+ 
+          ●    market acceptance of our product candidates and ability to identify or discover additional product candidates;
+ 
+ii
+ 
+ 
+          ●    our ability to obtain high titers for specific phage cocktails necessary for preclinical and clinical testing;
+ 
+          ●    the availability of specialty raw materials and global supply chain challenges;
+ 
+          ●    the ability of our product candidates to demonstrate requisite, safety and efficacy for drug products, or safety,
+                purity and potency for biologics without causing adverse
+                effects;
+ 
+          ●    the success of expected future advanced clinical trials of our product candidates;
+ 
+          ●    our ability to obtain required regulatory approvals;
+ 
+          ●    delays in developing manufacturing processes for our product candidates;
+ 
+          ●    competition from similar technologies, products that are more effective, safer or more affordable than our product
+                candidates or products that obtain marketing approval before our product
+                candidates;
+ 
+          ●    the impact of unfavorable pricing regulations, third-party reimbursement practices or healthcare reform initiatives on
+                our ability to sell product candidates or therapies
+                profitably;
+ 
+          ●    protection of our intellectual property rights and compliance with the terms and conditions of current and future
+                licenses with third
+                parties;
+ 
+          ●    infringement on the intellectual property rights of third parties and claims for remuneration or royalties for assigned
+                service invention
+                rights;
+ 
+          ●    our ability to acquire, in-license or use proprietary rights held by third parties necessary to our product candidates
+                or future development
+                candidates;
+ 
+          ●    ethical, legal and social concerns about synthetic biology and genetic engineering that may adversely affect market
+                acceptance of our product
+                candidates;
+ 
+          ●    reliance on third-party collaborators;
+ 
+          ●    political, economic and military instability in the State of Israel, and in particular, the war in Gaza following the
+                October 7 attack, additional potential conflicts with other middle eastern countries and the continuation of the
+                proposed judicial and other legislation reform by the Israeli
+                government;
+ 
+          ●    our ability to attract and retain key employees or to enforce the terms of noncompetition agreements with employees; 
+  
+          ●    the failure to comply with applicable laws and regulations other than drug manufacturing compliance; and
+ 
+          ●    potential security breaches, including cybersecurity incidents.
+ 
+For a detailed discussion of these and other risks, uncertainties and factors, see Part I, Item 1A “Risk Factors” of our 2023 Annual Report. All forward-looking statements contained in this Quarterly Report speak only as of the date hereof. Except as required by law, we are under no duty to (and expressly disclaim any such obligation to) update or revise any of the forward-looking statements, whether as a result of new information, future events or otherwise, after the date of this Quarterly Report. Comparisons of results between current and prior periods are not intended to express any future trends, or indications of future performance, and should be viewed only as historical data. 
+ 
+iii
+ 
+ 
+PART I - FINANCIAL INFORMATION
+ 
+Item 1. Financial Statements
+ 
+INDEX TO FINANCIAL STATEMENTS
+ 
+                                                                                                                               Page
+                                                                                                                                 
+Condensed Consolidated Balance Sheets as of March 31, 2024 and December 31, 2023 (unaudited)                                 F-1-F-2
+                                                                                                                                 
+Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2024 and 2023 (unaudited)                 F-3
+                                                                                                                                 
+Condensed Consolidated Statements of Changes in Redeemable Convertible Preferred Shares and in Stockholders’ Equity          F-4-F-5
+ (Capital Deficiency) for the Three Months ended March 31, 2024 and 2023
+ (unaudited)
+                                                                                                                                 
+Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2024 and 2023 (unaudited)                 F-6
+                                                                                                                                 
+Notes to Condensed Consolidated Financial Statements (unaudited)                                                             F-7-F-22
+ 
+1
+ 
+ 
+BIOMX INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(USD in thousands, except share and per share data)
+(unaudited)
+ 
+                                                                                                                    As of              
+                                                                                                         March 31,     December 31,  
+                                                                                                            2024           2023
+ASSETS                                                                                                                               
+                                                                                                                                     
+Current assets                                                                                                                       
+                                                                                                                                     
+Cash and cash equivalents                                                                                      43,007         14,907 
+Restricted cash                                                                                                 1,108            957 
+Other current assets                                                                                            2,986          1,768 
+Total current assets                                                                                           47,101         17,632 
+                                                                                                                                     
+Non-current assets                                                                                                                   
+Operating lease right-of-use assets                                                                            11,279          3,495 
+Property and equipment, net                                                                                     7,438          3,902 
+In-process Research and development (“IPR&D”) assets and Goodwill                                              15,788              - 
+Total non-current assets                                                                                       34,505          7,397 
+                                                                                                               81,606         25,029 
+ 
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.  
+ 
+F-1
+ 
+ 
+BIOMX INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(USD in thousands, except share and per share data)
+(unaudited)
+ 
+                                                                                                                    As of              
+                                                                                                          March 31,    December 31,  
+                                                                                                            2024           2023
+                                                                                                                                     
+LIABILITIES AND STOCKHOLDERS’ EQUITY                                                                                                 
+                                                                                                                                     
+Current liabilities                                                                                                                  
+Trade accounts payable                                                                                          3,686          1,381 
+Current portion of lease liabilities                                                                              985            666 
+Other accounts payable                                                                                          6,036          3,344 
+Current portion of long-term debt                                                                                   -          5,785 
+Total current liabilities                                                                                      10,707         11,176 
+                                                                                                                                     
+Non-current liabilities                                                                                                              
+Contract liability                                                                                              1,976          1,976 
+Long-term debt, net of current portion                                                                              -          5,402 
+Operating lease liabilities, net of current portion                                                             9,139          3,239 
+Other liabilities                                                                                                 153            155 
+Private Placement Warrants                                                                                     36,755              - 
+Total non-current liabilities                                                                                  48,023         10,772 
+                                                                                                                                     
+Commitments and Contingencies (Note 7)                                                                                               
+                                                                                                                                     
+Redeemable Convertible Preferred Shares                                                                                            - 
+                                                                                                                                     
+Preferred Stock, $0.0001 par value; Authorized - 1,000,000 shares as of March 31, 2024 and December            32,420              - 
+ 31, 2023. Issued and outstanding- 256,887 as of March 31, 2024. No shares issued and outstanding as
+ of December 31,
+ 2023.
+                                                                                                                                     
+Stockholders’ equity (Capital Deficiency)                                                                                            
+                                                                                                                                     
+Common Stock, $0.0001 par value; Authorized - 120,000,000 shares as of March 31, 2024 and December 31,              4              3 
+ 2023. Issued and outstanding-59,998,342 shares as of March 31, 2024 and 45,979,930 shares as of
+ December 31,
+ 2023.
+                                                                                                                                     
+Additional paid in capital                                                                                    170,749        166,048 
+Accumulated deficit                                                                                          (180,297)      (162,970)
+Total stockholders’ equity (Capital Deficiency)                                                                (9,544)         3,081 
+                                                                                                               81,606         25,029 
+ 
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.  
+ 
+F-2
+ 
+ 
+BIOMX INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(USD in thousands, except share and per share data)
+(unaudited)
+ 
+                                                                                                             Three Months Ended        
+                                                                                                                  March 31,
+                                                                                                            2024            2023      
+                                                                                                                                      
+Research and development (“R&D”) expenses, net                                                                  4,105           4,564 
+General and administrative expenses                                                                             2,680           1,644 
+                                                                                                                                      
+Operating loss                                                                                                  6,785           6,208 
+                                                                                                                                      
+Other income                                                                                                      (88)            (91)
+Interest expenses                                                                                                 850             565 
+Loss from change in fair value of Private Placement Warrants                                                    8,010               - 
+Finance expense (income), net                                                                                   1,765            (327)
+                                                                                                                                      
+Loss before tax                                                                                                17,322           6,355 
+                                                                                                                                      
+Tax expenses                                                                                                        5               6 
+                                                                                                                                      
+Net loss                                                                                                       17,327           6,361 
+                                                                                                                                      
+Basic and diluted loss per share of Common Stock                                                                 0.28            0.20 
+                                                                                                                                      
+Weighted average number of shares of Common Stock outstanding, basic and diluted                           62,292,277      32,125,227 
+ 
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.  
+ 
+F-3
+ 
+ 
+BIOMX INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN REDEEMABLE CONVERTIBLE
+PREFERRED SHARES AND IN STOCKHOLDERS’ EQUITY (CAPITAL DEFICIENCY)
+(USD in thousands, except share and per share data)
+(unaudited)
+ 
+ 
+                          Redeemable Convertible              Common Stock           Additional      Accumulated           Total       
+                             Preferred Shares                                          Paid-in                         Stockholders’
+                                                                                                                      Equity (Capital
+                         Shares          Amount           Shares         Amount        Capital         Deficit          Deficiency)    
+                                                                                                                                       
+Balance as of                    -                  -      45,979,930             3        166,048          (162,970)            3,081 
+ January 1,
+ 2024
+                                                                                                                                       
+Issuance of Common          40,470             12,561       9,164,968             1          3,227                 -             3,228 
+ Stock, Merger
+ Warrants and
+ Redeemable
+ Convertible
+ Preferred Shares
+ upon the APT
+ acquisition, net of
+ issuance cost
+ (***)
+Exercise of                                                 4,778,265             *              5                 -                 5 
+ Pre-Funded Warrants
+ into shares of
+ Common Stock
+ (**)
+Issuance of Common                                             75,179             *             19                 -                19 
+ Stock under Open
+ Market Sales
+ Agreement, net of
+ $1 issuance costs
+ (**)
+Stock-based                                                         -             -            909                 -               909 
+ compensation
+ expenses
+Issuance of                216,417             19,859                                          541                                 541 
+ Redeemable
+ Convertible
+ Preferred Shares
+ upon March 2024
+ PIPE, net of
+ issuance costs
+ (**)
+Net loss                                                                                                     (17,327)          (17,327)
+Balance as of March        256,887             32,420      59,998,342             4        170,749          (180,297)           (9,544)
+ 31,
+ 2024
+     
+(*)    Less than $1.
+(**)   See Note 9A.
+(***)  See Note 1D.
+ 
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.  
+ 
+F-4
+ 
+ 
+BIOMX INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+(USD in thousands, except share and per share data)
+(unaudited)
+ 
+                                                          Common Stock            Additional      Accumulated           Total       
+                                                                                    Paid-in                         Stockholders’
+                                                      Shares         Amount         Capital         Deficit            Equity       
+                                                                                                                                    
+Balance as of January 1, 2023                         29,976,582             2        157,838          (136,801)           21,039 
+                                                                                                                                  
+Issuance of Common Stock and warrants under            3,199,491                        1,293                 -             1,293 
+ Private Investment in Public Equity (“PIPE”),                               *
+ net of $176 issuance costs
+ (**)
+Stock-based compensation expenses                              -             -            175                 -               175 
+Net loss                                                       -             -              -            (6,361)           (6,361)
+                                                                                                                                  
+Balance as of March 31, 2023                          33,176,073             2        159,306          (143,162)           16,146 
+ 
+(*)    Less than $1.
+ 
+(**)   See Note 9A.
+ 
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.  
+ 
+F-5
+ 
+ 
+BIOMX INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(USD in thousands, except share and per share data)
+(unaudited)
+ 
+                                                                                                          For the Three Months Ended   
+                                                                                                                  March 31,
+                                                                                                            2024           2023      
+CASH FLOWS – OPERATING ACTIVITIES                                                                                                    
+Net loss                                                                                                      (17,327)        (6,361)
+                                                                                                                                     
+Adjustments required to reconcile cash flows used in operating activities:                                                           
+Depreciation and amortization                                                                                     229            223 
+Stock-based compensation                                                                                          177            175 
+Amortization of debt issuance costs                                                                                 -             68 
+Finance expense (income), net                                                                                    (456)          (123)
+Changes in other liabilities                                                                                       (2)             4 
+Loss from change in fair value of Private Placement Warrants                                                    8,010              - 
+Private Placement Warrants issuance cost                                                                          732              - 
+                                                                                                                                     
+Changes in operating assets and liabilities:                                                                                         
+Other current and non-current assets                                                                              562           (174)
+Trade accounts payable                                                                                         (1,775)           363 
+Other accounts payable                                                                                           (122)           806 
+Net change in operating leases                                                                                 (1,384)           (26)
+Net cash used in operating activities                                                                         (11,356)        (5,045)
+                                                                                                                                     
+CASH FLOWS – INVESTING ACTIVITIES                                                                                                    
+Cash and Restricted Cash acquired from the APT acquisition                                                        663              - 
+Proceeds from short-term deposits                                                                                   -          2,000 
+Purchases of property and equipment                                                                                 -            (10)
+Net cash provided by investing activities                                                                         663          1,990 
+                                                                                                                                     
+CASH FLOWS – FINANCING ACTIVITIES                                                                                                    
+Issuance of Private Placement Warrants under March 2024 PIPE                                                   28,745              - 
+Issuance of Redeemable Convertible Preferred Shares under March 2024 PIPE                                      21,269              - 
+March 2024 PIPE issuance costs                                                                                   (316)             - 
+Issuance of Common Stock and Warrants under PIPE                                                                    -          1,469 
+Pre-Funded Warrants exercise                                                                                        5              - 
+Issuance of Common Stock under Open Market Sales Agreement, net of issuance costs                                  19              - 
+Repayment of long-term debt                                                                                   (10,747)          (419)
+Net cash provided by financing activities                                                                      38,975          1,050 
+                                                                                                                                     
+Increase(decrease) in cash and cash equivalents and restricted cash                                            28,282         (2,005)
+Effect of exchange rate changes on cash and cash equivalents and restricted cash                                  (31)            13 
+Cash and cash equivalents and restricted cash at the beginning of the period                                   15,864         32,294 
+Cash and cash equivalents and restricted cash at the end of the period                                         44,115         30,302 
+                                                                                                                                     
+RECONCILIATION OF AMOUNTS ON CONSOLIDATED BALANCE SHEETS                                                                             
+Cash and cash equivalents                                                                                      43,007         29,346 
+Restricted cash                                                                                                 1,108            956 
+Total cash and cash equivalents and restricted cash                                                            44,115         30,302 
+                                                                                                                                     
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:                                                                                    
+Cash paid for interest                                                                                          1,419            495 
+Taxes paid                                                                                                          3              6 
+                                                                                                                                     
+SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING ACTIVITIES:                                                                            
+Issuance costs from PIPE included in trade accounts payable                                                         -            176 
+Property and equipment purchases included in accounts payable and Trade payable                                    17              - 
+Issuance cost from March 2024 PIPE                                                                              1,826              - 
+Issuance cost from the APT acquisition                                                                             62                
+Issuance of Common Stock under the APT acquisition                                                              3,041              - 
+Issuance of Redeemable Convertible Preferred Shares under the APT acquisition                                  12,610              - 
+Issuance of Merger Warrants under the APT acquisition                                                             200              - 
+ 
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+ 
+F-6
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 1 – GENERAL
+ 
+               A.   General information
+ 
+BiomX Inc. (individually, and together with its subsidiaries, BiomX Ltd. (“BiomX Israel”), RondinX Ltd. and Adaptive Phage Therapeutics LLC,(“APT”), the “Company” or “BiomX”) was incorporated in 2017. The Company’s shares of Common Stock and units are traded on the NYSE American under the symbols PHGE and PHGE.U, respectively. Certain warrants are currently quoted on OTC Pink under the symbol “PHGEW”.
+  
+BiomX is developing both natural and engineered phage cocktails designed to target and destroy harmful bacteria in chronic diseases, focusing its efforts, at this point, on cystic fibrosis and on diabetic foot osteomyelitis. BiomX discovers and validates proprietary bacterial targets and customizes phage compositions against these targets. The Company’s headquarters are located in Ness Ziona, Israel.
+ 
+On March 6, 2024, the Company entered into an agreement and plan of merger (the “Merger Agreement”) with APT and certain other parties, as a result of which APT became a wholly-owned subsidiary of the Company (the “Acquisition”), as further defined below. Additionally, on March 15, 2024, concurrently with the consummation of the Acquisition, the Company consummated a private placement (the “March 2024 PIPE”) with certain investors pursuant to which such investors purchased an aggregate of 216,417 shares of our Series X non-voting convertible preferred share, par value $0.0001 per share (the “Redeemable Convertible Preferred Shares”), with each share of Redeemable Convertible Preferred Shares being convertible into 1,000 shares of the Company’s Common Stock, and warrants (the “Private Placement Warrants”) to purchase up to an aggregate of 108,208,500 shares of the Company’s Common Stock, for aggregate gross proceeds of approximately $50,000. See note 1D for further information regarding the Acquisition.
+ 
+               B.   Israel-Hamas war
+ 
+On October 7, 2023, an unprecedented attack was launched against Israel by terrorists from the Hamas terrorist organization that infiltrated Israel’s southern border from the Gaza Strip and in other areas within the state of Israel attacking civilians and military targets while simultaneously launching extensive rocket attacks on the Israeli population. These attacks resulted in extensive deaths, injuries and kidnapping of civilians and soldiers. In response, the Security Cabinet of the State of Israel declared war against Hamas and a military campaign against these terrorist organizations commenced in parallel to their continued rocket and terror attacks. In addition, Hezbollah, an Islamist terrorist group that controls large portions of southern Lebanon, has attacked military and civilian targets in Northern Israel, to which Israel has responded.
+ 
+To date, the State of Israel continues to be at war with Hamas and in an armed conflict with Hezbollah.
+ 
+BiomX headquarters and principal offices and most of its operations are located in the State of Israel. In addition, most of the key employees and officers are residents of Israel. Accordingly, political, economic and military conditions in Israel and the surrounding region may directly affect its business.
+ 
+While a few employees of the Company were called to reserve duty in the Israel Defense Forces, the ongoing war with Hamas has not, since its inception, materially impacted BiomX’s business or operations. Furthermore, BiomX does not expect any delays to its programs as a result of the situation. However, at this time, it is not possible to predict the intensity or duration of Israel’s war against Hamas, nor predict how this war will ultimately affect BiomX business and operations or Israel’s economy in general.
+ 
+F-7
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 1 – GENERAL (Cont.)
+ 
+               C.   Going concern
+ 
+The Company has incurred significant losses and negative cash flows from operations and incurred an accumulated deficit of $180,297 as of March 31, 2024. The Company expects to continue to incur additional losses and negative cash flows from operations for the foreseeable future. The Company plans to continue to fund its current operations, as well as other development activities relating to additional product candidates, through future issuances of debt and/or equity securities, loans and possibly additional grants from the Israel Innovation Authority (“IIA”) (see note 7A) and other government institutions. The Company’s ability to raise additional capital in the equity and debt markets is dependent on a number of factors including, but not limited to, the market demand for the Company’s Common Stock, which itself is subject to a number of development and business risks and uncertainties, as well as the uncertainty that the Company would be able to raise such additional capital at a price or on terms that are favorable to it. If the Company is unable to raise capital when needed or on attractive terms, it may be forced to delay or reduce its research and development programs. On March 15, 2024, the Company raised approximately $50,000 under the March 2024 PIPE. Management believes that its available funds as of the issuance date of the financial statements, which include the funds received under the March 2024 PIPE, will be sufficient to fund its operations for at least one year from the issuance date of these financial statements. However, the conversion of the Redeemable Convertible Preferred Shares that was issued in connection with the March 2024 PIPE and the Acquisition is subject to stockholder approval and obtaining such approval is not guaranteed. If such approval is not received, the Company may be required to redeem the Redeemable Convertible Preferred Shares at its fair value. These factors raise substantial doubt about the Company’s ability to continue as a going concern. The unaudited condensed consolidated financial statements have been prepared on a going concern basis and do not include any adjustments that may result from the outcome of such circumstances.
+ 
+               D.   Merger Agreement
+ 
+On March 6, 2024, the Company, entered into the Merger Agreement with BTX Merger Sub I, Inc., a Delaware corporation and a wholly owned subsidiary of the Company (“First Merger Sub”), BTX Merger Sub II, LLC, a Delaware limited liability company and wholly owned subsidiary of the Company (“Second Merger Sub”), and APT. Pursuant to the Merger Agreement, First Merger Sub merged with and into APT, with APT being the surviving corporation and becoming a wholly owned subsidiary of the Company (the “First Merger”). Immediately following the First Merger, APT merged with and into Second Merger Sub, pursuant to which Second Merger Sub was the surviving entity. APT was a U.S.-based privately-held, clinical-stage biotechnology company pioneering the development of phage-based therapies to combat bacterial infection. As a result of the Acquisition, the Company is expected to have a pipeline that includes two Phase 2 assets each aimed at treating serious infections with unmet medical needs.
+ 
+On March 15, 2024, the effective time of the Acquisition (the “Closing Date”), APT’s former stockholders were issued an aggregate of 9,164,968 shares of the Company’s Common Stock, 40,470 Redeemable Convertible Preferred Shares and Warrants to purchase up to an aggregate of 2,166,497 shares of the Company Common Stock (“Merger Warrants”). Each share of Redeemable Convertible Preferred Shares is convertible into an aggregate of 1,000 shares of Common Stock. The Merger Warrants will be exercisable at any time after the date of the receipt of BiomX stockholder approval at an exercise price of $5.00 per share and will expire on January 28, 2027. In the event the Redeemable Convertible Preferred Shares are not converted by the earlier to occur of (i) the time that meeting of BiomX stockholders is ultimately concluded or (ii) five months after the initial issuance of the Redeemable Convertible Preferred Shares, the Company may be required to pay to each holder of the Redeemable Convertible Preferred Shares an amount in cash equal to the fair value of the Redeemable Convertible Preferred Shares.
+ 
+F-8
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 1 – GENERAL (Cont.)
+ 
+The Redeemable Convertible Preferred Shares are classified as temporary equity in accordance with the provisions of ASC 480-10-S99, as they include clauses that could constitute redemption clauses that are outside of the Company’s control. The Merger Warrants are classified as equity, as they are indexed to the Company’s own shares and meet the classification requirements for stockholders’ equity classification under ASC 815-40.
+ 
+Concurrently with the consummation of the Acquisition, the Company entered into a securities purchase agreement with certain investors, for aggregate gross proceeds of $50,000. See note 9A for further information.
+ 
+Immediately following the Acquisition, and without taking into account the PIPE Preferred Shares and the Private Placement Warrants as described in note 9A, the Company’s stockholders prior to the Acquisition owned approximately 55% of the Company and APT’s stockholders prior to the Acquisition owned approximately 45% of the Company on a diluted basis
+ 
+The Acquisition was accounted in accordance with Accounting Standards Codification (“ASC”) Topic 805, “Business Combinations,” using the acquisition method of accounting. The Company was identified as the accounting acquirer, based on the evaluation of the following facts and circumstances:
+ 
+                          ●    Pursuant to the Merger Agreement, the post- Acquisition board of directors of the Company consisted of
+                                seven directors, out of which the Company designated four board seats, with the Company’s chair of the
+                                board prior to the Acquisition continuing in his position, i.e. the majority of the post-closing board
+                                was designated by the
+                                Company.
+ 
+                          ●    The Chief Executive Officer and the majority of management roles are held by individuals who were
+                                affiliated with the Company prior to the
+                                Acquisition.
+ 
+The Acquisition-related transaction costs are accounted for as expenses in the period in which the costs are incurred. The Company incurred transaction costs of $741 during the three months ended March 31, 2024, which were included in general and administrative expenses in the condensed consolidated statements of operations.
+ 
+Purchase Price Allocation
+ 
+The following sets forth the fair value of acquired identifiable assets and assumed liabilities of APT which includes preliminary adjustments to reflect the fair value of intangible assets acquired as of March 15, 2024:
+ 
+                                                                                                                            Amounts    
+Cash and cash equivalents                                                                                                          509 
+Restricted cash                                                                                                                    154 
+Other current assets                                                                                                             1,780 
+Property, plant and equipment                                                                                                    3,748 
+Operating lease right-of-use asset                                                                                               7,953 
+IPR&D assets and Goodwill                                                                                                       15,788 
+Total assets                                                                                                                    29,932 
+                                                                                                                                       
+Trade accounts payable                                                                                                          (3,667)
+Other accounts payable                                                                                                          (2,595)
+Operating lease liability                                                                                                       (7,819)
+Total liabilities                                                                                                              (14,081)
+Total consideration                                                                                                             15,851 
+ 
+The following table summarizes the fair value of the consideration transferred to APT shareholders for the Acquisition:
+ 
+                                                                                                                            Amounts    
+Common Stock                                                                                                                     3,041 
+Redeemable Convertible Preferred Shares                                                                                         12,610 
+Merger Warrants                                                                                                                    200 
+                                                                                                                                15,851 
+ 
+F-9
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 1 – GENERAL (Cont.)
+ 
+The fair value of shares of Common Stock issued by the Company was determined using the Company’s closing trading price on the Closing Date adjusted by a discount for lack of marketability (“DLOM”) of 9.4% as a registration statement will be filed within 45 days. The fair value of Redeemable Convertible Preferred Shares was determined using the Company’s closing trading price on the Closing Date adjusted by a DLOM of 14.9% as the conversion of the Redeemable Convertible Preferred Shares to shares of Common Stock is subject to the stockholder approval which is expected take place in July 2024. The Company determined the fair value of the Merger Warrants using the Black-Scholes model as of the Closing Date. The main assumptions used are as follows:
+ 
+                                                                                                              Three Months Ended       
+                                                                                                                  March 31,
+                                                                                                            2024           2023      
+Underlying value of Common Stock ($)                                                                             0.37              - 
+Exercise price ($)                                                                                                5.0              - 
+Expected volatility (%)                                                                                         117.7              - 
+Expected terms (years)                                                                                           2.87              - 
+Risk-free interest rate (%)                                                                                       4.5              - 
+ 
+The fair value estimate for all identifiable assets and liabilities assumed is preliminary and is based on assumptions that market participants would use in pricing an asset, based on the most advantageous market for the asset (i.e., its highest and best use). This preliminary fair value estimate could include assets that are not intended to be used, may be sold, or are intended to be used in a manner other than their best use. Such estimates are subject to change during the measurement period, which is not expected to exceed one year. Any adjustments identified during the measurement period will be recognized in the period in which the adjustments are determined.
+ 
+The Company recognized intangible assets related to the Acquisition, which consist of IPR&D valued at $15,287 using the Multi-Period Excess Earnings Method valuation method and of goodwill valued at $501. The goodwill is primarily attributed to the expected synergies from combining the operations of APT with the Company’s operations and to the assembled workforce of APT. The Company considered the criteria in ASC 350-30-35 and determined the estimated useful life of the IPR&D to be 20 years and will be amortized on a straight-line basis over its estimated useful life. The basis of amortization approximates the pattern in which the assets are utilized, over their estimated useful life. The Company routinely reviews the remaining estimated useful lives of finite-lived intangible assets. In case the Company reduces the estimated useful life for any asset, the remaining unamortized balance is amortized or depreciated over the revised estimated useful life.
+ 
+These intangible assets are classified as Level 3 measurements within the fair value hierarchy.
+ 
+The actual APT net loss included in the Company’s condensed consolidated statements of operations for the three months ended March 31, 2024, is as follows:
+ 
+                                                                                                                           March 31,   
+                                                                                                                             2024
+Net loss attributable to APT                                                                                                       855 
+ 
+The unaudited pro forma financial information below summarizes the combined results of operations for BiomX Inc. (including its wholly owned subsidiaries, BiomX Ltd. and RondinX Ltd.) and APT. The unaudited pro forma financial information includes adjustments to reflect certain business combination effects, including: acquisition-related costs incurred by both parties and reversal of certain costs incurred by BiomX Inc. which would not have been incurred had the acquisition occurred on January 1, 2023. The unaudited pro forma financial information as presented below is for informational purposes only and is not necessarily indicative of the results of operations that would have been achieved if the Acquisition had taken place at the beginning of fiscal 2023.
+ 
+The following unaudited table provides certain pro forma financial information for the Company as if the Acquisition occurred on January 1, 2023:
+ 
+                                                                                                                          March  31,   
+                                                                                                                             2024*
+Net loss                                                                                                                        16,720 
+ 
+*    The pro forma amounts above are derived from historical numbers of the Company and APT.
+ 
+F-10
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 2 – SIGNIFICANT ACCOUNTING POLICIES
+ 
+               A.   Unaudited Condensed Financial Statements
+ 
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”) for condensed financial information. They do not include all the information and footnotes required by GAAP for complete financial statements. In the opinion of management, all adjustments considered necessary for a fair statement have been included (consisting only of normal recurring adjustments except as otherwise discussed).
+ 
+The financial information contained in this report should be read in conjunction with the annual financial statements included in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023, that the Company filed with the U.S. Securities and Exchange Committee (the “SEC”) on April 4, 2024. The year-end balance sheet data was derived from the audited consolidated financial statements as of December 31, 2023.
+ 
+               B.   Principles of Consolidation
+ 
+The condensed consolidated financial statements include the accounts of the Company and its subsidiaries. Intercompany balances and transactions have been eliminated upon consolidation.
+ 
+               C.   Use of Estimates in the Preparation of Financial Statements
+ 
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities in the financial statements and the amounts of expenses during the reported years. The most significant estimates in the Company’s financial statements relate to accruals for research and development expenses, valuation of stock-based compensation awards, purchase price allocation related to the Acquisition and the Private Placement Warrants fair value revaluation. These estimates and assumptions are based on current facts, future expectations, and various other factors believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the recording of expenses that are not readily apparent from other sources. Actual results may differ materially and adversely from these estimates.
+ 
+The full extent to which the Israel-Hamas war may directly or indirectly impact the Company’s business, results of operations and financial condition will depend on future developments that are uncertain, as well as the economic impact on local, regional, national and international markets.
+ 
+               D.   Business Acquisition
+ 
+The Company allocates the fair value of consideration transferred in a business acquisition to the assets acquired, liabilities assumed based on their fair values at the acquisition date. Acquisition-related expenses are recognized separately from the business Acquisition and are expensed as incurred. The excess of the fair value of the consideration transferred over the fair value of the assets acquired, liabilities assumed in the acquired business is recorded as IPR&D and goodwill. The fair value of the consideration transferred may include equity securities. The allocation of the consideration transferred in certain cases may be subject to revision based on the final determination of fair values during the measurement period, which may be up to one year from the acquisition date. The cumulative impact of revisions during the measurement period is recognized in the reporting period in which the revisions are identified. The Company includes the results of operations of the businesses that it has acquired in its consolidated results prospectively from the respective dates of Acquisition.
+ 
+F-11
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 2 – SIGNIFICANT ACCOUNTING POLICIES (Cont.)
+ 
+               E.   Financial instruments
+ 
+When the Company issues freestanding instruments, it first analyzes the provisions of ASC 480, “Distinguishing Liabilities From Equity” (“ASC 480”) in order to determine whether the instrument should be classified as a liability, with subsequent changes in fair value recognized in the consolidated statements of operations in each period. If the instrument is not within the scope of ASC 480, the Company further analyzes the provisions of ASC 815-10 in order to determine whether the instrument is considered indexed to the entity’s own stock and qualifies for classification within equity.
+ 
+When the Company issues preferred shares, it first considers the provisions of ASC 480, in order to determine whether the preferred shares should be classified as a liability. If the instrument is not within the scope of ASC 480, the Company further analyzes the instrument’s characteristics in order to determine whether it should be classified within temporary equity (mezzanine) or within permanent equity in accordance with the provisions of ASC 480-10-S99. The Company’s Redeemable Convertible Preferred Shares are not mandatorily or currently redeemable. However, they include clauses that could constitute as redemption clauses that are outside of the Company’s control. As such, all Redeemable Convertible Preferred Shares have been presented outside of permanent equity. See note 1D and 9A for further information regarding the Redeemable Convertible Preferred Shares.
+ 
+When the Company issues warrants, it first considers the provisions of ASC 815-40, “Contracts in Entity’s Own Equity” (“ASC 815-40”) in order to determine whether the warrants should be classified as equity. Equity classification is permitted when warrants are indexed to the Company’s own shares and meet the classification requirements for stockholders’ equity classification under ASC 815-40. If the warrants are not within the scope of ASC 815-40, the Company accounts for the warrants in accordance with the guidance contained in Accounting Standards Codification 815 (“ASC 815”), “Derivatives and Hedging”, under which the warrants do not meet the criteria for equity treatment and must be recorded as derivative liabilities. Accordingly, the Company classifies the Private Placement Warrants as liabilities at their fair value and adjusts the warrants to fair value at each reporting period. This liability is subject to re-measurement at each balance sheet date until the warrants are exercised or expire, and any change in fair value is recognized in the condensed consolidated statements of operations. See note 9A for further information regarding the Private Placement Warrants.
+ 
+               F.   Basic and diluted loss per share
+ 
+ Basic loss per share is computed by dividing net loss by the weighted average number of shares of Common Stock outstanding during the period, fully vested warrants with no exercise price for the Company’s Common Stock and fully vested Pre-Funded Warrants for the Company’s Common Stock at an exercise price of $0.001 per share, as the Company considers these shares to be exercised for little to no additional consideration. The calculation excludes shares of Common Stock purchased by the Company and held as treasury shares. Diluted loss per share is computed by dividing net loss by the weighted average number of shares of Common Stock outstanding during the year, plus the number of shares of Common Stock that would have been outstanding if all potentially dilutive shares of Common Stock had been issued, using the treasury stock method, in accordance with ASC 260-10, “Earnings per Share.” Potentially dilutive shares of Common Stock were excluded from the calculation of diluted loss per share for all periods presented due to their anti-dilutive effect due to losses in each period.
+ 
+The Company computes net loss per share using the two-class method required for participating securities. The two-class method requires income available to common stockholders for the period to be allocated between shares of Common Stock and participating securities based upon their respective rights to receive dividends as if all income for the period had been distributed. The Company considers its Redeemable Convertible Preferred Shares to be participating securities as the holders of the Redeemable Convertible Preferred Shares would be entitled to dividends that would be distributed to the holders of Common Stock, on a pro-rata basis assuming conversion of all Redeemable Convertible Preferred Shares into shares of Common Stock. These participating securities do not contractually require the holders of such shares to participate in the Company’s losses. As such, net loss for the periods presented was not allocated to the Company’s participating securities.
+ 
+               G.   Intangible Assets
+ 
+Goodwill
+ 
+Goodwill reflects the excess of the consideration transferred at the business combination date over the fair values of the identifiable net assets acquired. Goodwill is an asset representing the future economic benefits arising from other assets acquired in a business combination that are not individually identified and separately recognized. The primary items that generate goodwill include the value of the synergies between the acquired company and the Company and the acquired assembled workforce, neither of which qualifies for recognition as an intangible asset. ASC 350, “Intangibles—Goodwill and Other” allows an entity to first assess qualitative factors to determine whether a quantitative goodwill impairment test is necessary. Further testing is only required if the entity determines, based on the qualitative assessment, that it is more likely than not that the fair value is less than its carrying amount. Otherwise, no further impairment testing is required.
+ 
+F-12
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 2 – SIGNIFICANT ACCOUNTING POLICIES (Cont.)
+ 
+The Company’s goodwill is tested for impairment at least on an annual basis, on the last day of the fourth quarter of the fiscal year and whenever events or changes in circumstances indicate the carrying value of a reporting unit may not be recoverable. When necessary, the Company records charges for impairments of goodwill for the amount by which the carrying amount of the respective reporting unit exceeds its fair value. However, the loss recognized should not exceed the total amount of goodwill allocated to that reporting unit.
+ 
+Intangible assets
+ 
+The definite life intangible asset is amortized using the straight-line method over its estimated period of useful life. Amortization of the technology acquired is recorded under research and development expenses in the condensed consolidated statements of operations.
+ 
+               H.   Recent Accounting Standards
+ 
+Recently issued accounting pronouncements
+ 
+In November 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2023-07 “Segment Reporting: Improvements to Reportable Segment Disclosures” (“ASU 2023-07”). This guidance expands public entities’ segment disclosures primarily by requiring disclosure of significant segment expenses that are regularly provided to the chief operating decision maker and included within each reported measure of segment profit or loss, an amount and description of its composition for other segment items, and interim disclosures of a reportable segment’s profit or loss and assets that are currently required annually. Public entities with a single reportable segment are required to provide the new disclosures and all the disclosures required under ASC 280, “Segment Reporting”. The guidance is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024, with early adoption permitted. The amendments are required to be applied retrospectively to all prior periods presented in an entity’s financial statements. The Company adopted the guidance on January 1, 2024, and concluded that its adoption did not have a material effect on the Company’s financial position or results of operations.
+ 
+Recently issued accounting pronouncements, not yet adopted
+ 
+In December 2023, the FASB issued ASU 2023-09 “Income Taxes (Topic 740): Improvements to Income Tax Disclosures” (“ASU 2023-09”). This guidance is intended to enhance the transparency and decision-usefulness of income tax disclosures. The amendments in ASU 2023-09 address investor requests for enhanced income tax information primarily through changes to disclosure regarding rate reconciliation and income taxes paid both in the U.S. and in foreign jurisdictions. ASU 2023-09 is effective for fiscal years beginning after December 15, 2024 on a prospective basis, with the option to apply the standard retrospectively. Early adoption is permitted. The Company is currently evaluating this guidance to determine the impact it may have on its consolidated financial statements disclosures.
+ 
+NOTE 3 – FAIR VALUE OF FINANCIAL INSTRUMENTS
+ 
+The Company accounts for financial instruments in accordance with ASC 820, “Fair Value Measurements and Disclosures” (“ASC 820”). ASC 820 establishes a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1 measurements) and the lowest priority to unobservable inputs (Level 3 measurements). The three levels of the fair value hierarchy under ASC 820 are described below:
+ 
+Level 1 – Unadjusted quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities.
+ 
+Level 2 – Quoted prices in non-active markets or in active markets for similar assets or liabilities, observable inputs other than quoted prices, and inputs that are not directly observable but are corroborated by observable market data.
+ 
+Level 3 – Prices or valuations that require inputs that are both significant to the fair value measurement and unobservable.
+ 
+There were no changes in the fair value hierarchy levelling during the three months ended March 31, 2024 and year ended December 31, 2023.
+ 
+F-13
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 3 – FAIR VALUE OF FINANCIAL INSTRUMENTS (Cont.)
+ 
+The following table summarizes the fair value of our financial assets and liabilities that were accounted for at fair value on a recurring basis, by level within the fair value hierarchy: 
+ 
+                                                                                               March 31, 2024                         
+                                                                          Level 1      Level 2          Level 3      Fair Value   
+Assets:                                                                                                                           
+Cash equivalents:                                                                                                                 
+Money market funds                                                            37,124              -              -         37,124 
+Foreign exchange contracts receivable                                                            99              -             99 
+                                                                              37,124             99              -         37,223 
+Liabilities:                                                                                                                      
+Contingent consideration                                                                                       153            153 
+Private Placement Warrants                                                                                  36,755         36,755 
+                                                                                   -                        36,908         36,908 
+ 
+                                                                                                                                      
+                                                                                                      
+                                                                                             December 31, 2023
+                                                                          Level 1       Level 2         Level 3       Fair Value  
+Assets:                                                                                                                           
+Cash equivalents:                                                                                                                 
+Money market funds                                                            11,377              -              -         11,377 
+Foreign exchange contracts receivable                                                           256              -            256 
+                                                                              11,377            256              -         11,633 
+Liabilities:                                                                                                                      
+Contingent consideration                                                           -              -            155            155 
+                                                                                   -              -            155            155 
+ 
+The changes in the fair value of the Company’s Level 3 financial liabilities, which are measured on a recurring basis are as follows:
+ 
+                                                                                                        Three Months   Three Months  
+                                                                                                            Ended          Ended
+                                                                                                          March 31,      March 31,
+                                                                                                            2024           2023
+Beginning balance                                                                                                   -              - 
+Private Placement Warrants                                                                                     28,745              - 
+Revaluation recorded in financial expense                                                                       8,010              - 
+Ending balance                                                                                                 36,755              - 
+ 
+Financial instruments with carrying values approximating fair value include cash and cash equivalents, restricted cash, short-term deposits, other current assets, trade accounts payable and other accounts payable, due to their short-term nature. 
+ 
+F-14
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 3 – FAIR VALUE OF FINANCIAL INSTRUMENTS (Cont.)
+ 
+The Company determined the fair value of the liabilities for the contingent consideration based on a probability discounted cash flow analysis. This fair value measurement is based on significant unobservable inputs in the market and thus represents a Level 3 measurement within the fair value hierarchy. The fair value of the contingent consideration is based on several factors, such as: the attainment of future clinical, developmental, regulatory, commercial and strategic milestones relating to product candidates for treatment of primary sclerosing cholangitis. The discount rate applied ranged from 3.60% to 4.4%. The contingent consideration is evaluated quarterly, or more frequently, if circumstances dictate. Changes in the fair value of contingent consideration are recorded in consolidated statements of operations. Significant changes in unobservable inputs, mainly the probability of success and cash flows projected, could result in material changes to the contingent consideration liability. Changes in contingent consideration for the three months ended March 31, 2024 and March 31, 2023, resulted from the passage of time and discount rate revaluation.
+ 
+The Company uses foreign exchange contracts (mainly option and forward contracts) to hedge cash flows from currency exposure. These foreign exchange contracts are not designated as hedging instruments for accounting purposes. In connection with these foreign exchange contracts, the Company recognizes gains or losses that offset the revaluation of the cash flows also recorded under financial expenses (income), net in the condensed consolidated statements of operations. As of March 31, 2024, the Company had outstanding foreign exchange contracts for the exchange of USD to NIS in the amount of approximately $1,711 with a fair value asset of $99. As of December 31, 2023, the Company had outstanding foreign exchange contracts for the exchange of USD to NIS in the amount of approximately $4,136 with a fair value asset of $256.
+ 
+The Company determined the fair value of the liabilities for the Private Placement Warrants using the Black-Scholes model, a Level 3 measurement, within the fair value hierarchy.
+ 
+The main assumptions used are as follows:
+ 
+                                                                                                               Three Months Ended      
+                                                                                                                   March 31,
+                                                                                                              2024          2023      
+Underlying value of Common Stock ($)                                                                        0.37-0.45             - 
+Exercise price ($)                                                                                               0.23             - 
+Expected volatility (%)                                                                                    117.7-117.             - 
+                                                                                                                    8
+Expected terms (years)                                                                                       2.3-2.25             - 
+Risk-free interest rate (%)                                                                                   4.5-4.6             - 
+ 
+F-15
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 4 – OTHER CURRENT ASSETS
+ 
+                                                                                                          March 31,    December 31,  
+                                                                                                            2024           2023
+Government institutions                                                                                           120             66 
+Prepaid insurance                                                                                                 119            505 
+Other prepaid expenses                                                                                            362            128 
+Grants receivables                                                                                              2,241            574 
+Other                                                                                                             144            495 
+Other current assets                                                                                            2,986          1,768 
+ 
+NOTE 5 – OTHER ACCOUNTS PAYABLE
+ 
+                                                                                                          March 31,    December 31,  
+                                                                                                            2024           2023
+Employees and related institutions                                                                              2,197          1,852 
+Accrued expenses                                                                                                2,393          1,289 
+Government institutions                                                                                           663            175 
+Prepaid sublease income                                                                                            28             28 
+Severance related to former employees of APT                                                                      526              - 
+Other                                                                                                             229              - 
+                                                                                                                6,036          3,344 
+ 
+NOTE 6 – LEASES
+ 
+On August 9, 2019, APT entered into a lease agreement (the “Lease Agreement”) with ARE-708 Quince Orchard, LLC (the “Landlord”), for office and lab spaces in Gaithersburg, Maryland starting on September 1, 2019. Over the course of years, APT and the Landlord amended the Lease Agreement in order to expand the square footage and to extend the lease period until November 28, 2034. The agreement included 49,625 square feet of area. The monthly lease payments under the lease agreement are approximately $255. On March 5, 2024, in connection with the Acquisition, APT and the Landlord, signed an amendment to the lease agreement. Pursuant to the amendment, the leased area will be decreased to 25,894 square feet (the “Remaining Area”), effective as of December 31, 2024. Following the amendment, the revised monthly lease payments will be approximately $134. In exchange, APT was required to pay a relinquished premises fee in an amount equal to $1,500 within 10 business days following March 15, 2024 (the “Amendment Effective Date”). In addition, the Company issued the Landlord 250,000 warrants to purchase up to an aggregate of 250,000 shares of the Company’s Common Stock at an exercise price of $5.00 per share. The warrants will become exercisable at any time after the date of the receipt of BiomX stockholder approval and will expire on January 28, 2027. The amendment also included a one-time option to early terminate the lease agreement on February 28, 2029 with respect to the Remaining Area under certain terms. The execution of the early termination will require APT to pay a termination fee of $3,000.
+ 
+APT accounted for the decreased leased area and the termination option as a modification as it continues to use the area for a period of time after the termination. The modification occurred before the Acquisition as APT signed the amendment before the Closing Date but was contingent upon the Acquisition. The operating lease right-of-use assets and operating lease liabilities contemplate the termination option.
+ 
+Lease expenses recorded in the condensed statements of operations were $593 and $315 for the three months ended March 31, 2024 and 2023, respectively.
+ 
+F-16
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 7 – COMMITMENTS AND CONTINGENCIES
+ 
+               A.   In March 2021, the IIA approved two new applications in relation to the Company’s cystic fibrosis product
+                     candidate for an aggregate budget of NIS 10,879 (approximately $3,286) and for the Company’s product candidate
+                     for Inflammatory Bowel Disease (“IBD”) and Primary Sclerosing Cholangitis for an aggregate revised budget of NIS
+                     6,753 (approximately $2,118). The IIA committed to fund 30% of the approved budgets. The programs are for the
+                     period beginning January 2021 through December 2021. Through March 31, 2024, the Company received NIS 5,289
+                     (approximately $1,622) from the IIA and does not expect to receive additional funds with respect to these
+                     programs.
+                     
+                    In August 2021, the IIA approved an application that supports upgrading the Company’s manufacturing capabilities
+                     for an aggregate budget of NIS 5,737 (approximately $1,778). The IIA committed to fund 50% of the approved
+                     budget. The program was for the period beginning July 2021 through June 2022. The program does not bear
+                     royalties. Through March 31, 2024, the Company received NIS 1,912 (approximately $577) from the IIA with respect
+                     to this
+                     program.
+                     
+                    In March 2022, the IIA approved an application for a total budget of NIS 13,004 (approximately $4,094) in relation
+                     to the Company’s cystic fibrosis product candidate. The IIA committed to fund 30% of the approved budget. The
+                     program was for the period beginning January 2022 through December 2022. Through March 31, 2024, the Company
+                     received NIS 1,365 (approximately $395) from the IIA with respect to this
+                     program.
+                     
+                    In March 2023, the IIA approved an application for a total budget of NIS 11,283 (approximately $3,164) in relation
+                     to the Company’s cystic fibrosis product candidate. The IIA committed to fund 30% of the approved budget. The
+                     program was for the period beginning January 2023 through December 2023. Through March 31, 2024, the Company
+                     received NIS 2,783 (approximately $768) from the IIA with respect to this
+                     program.
+ 
+According to the agreement with the IIA, excluding the August 2021 program, BiomX Israel will pay royalties of 3% to 3.5% of future
+ sales up to an amount equal to the accumulated grant received including annual interest of LIBOR linked to the USD. Starting January
+ 2024, the IIA has notified that the interest has changed to the 12-month Secured Overnight Financing Rate (“SOFR”) as published on the
+ first trading day of each calendar year. BiomX Israel may be required to pay additional royalties upon the occurrence of certain
+ events as determined by the IIA, that are within the control of BiomX Israel. No such events have occurred or were probable of
+ occurrence as of the balance sheet date with respect to these royalties. Repayment of the grant is contingent upon the successful
+ completion of the BiomX Israel’s R&D programs and generating sales. BiomX Israel has no obligation to repay these grants if the R&D
+ program fails, is unsuccessful or aborted or if no sales are generated. The Company had not yet generated sales as of March 31, 2024;
+ therefore, no liability was recorded in these condensed consolidated financial statements. IIA grants are recorded as a reduction of
+ R&D expenses,
+ net.
+ 
+Through March 31, 2024, total grants approved from the IIA aggregated to approximately $9,353 (NIS 32,068). Through March 31, 2024, the
+ Company had received an aggregate amount of $8,003 (NIS 27,423) in the form of grants from the IIA. Total grants subject to royalties’
+ payments aggregated to approximately $7,413. As of March 31, 2024, BiomX Israel had a contingent obligation to the IIA in the amount
+ of approximately $8,033 including annual interest of SOFR applicable to dollar
+ deposits.
+ 
+F-17
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 7 – COMMITMENTS AND CONTINGENCIES (Cont.)
+ 
+               B.   In August 2019, APT was awarded $9,638 from the U.S. Army Medical Research Acquisition Activity (“USAMRAA”) and
+                     the U.S. Army Medical Research & Development Command (“USAMRDC”) to advance personalized phage therapy from niche
+                     to broad use. This award is intended to lay the groundwork for rapid advancement of personalized phage therapy to
+                     commercialization for the variety of clinical indications and bacterial pathogens representing un-met needs with
+                     a focus on infections with significant military relevance. The competitive award was granted by USAMRAA and
+                     USAMRDC in collaboration with the Medical Technology Enterprise Consortium (“MTEC”), a 501(c)(3) biomedical
+                     technology consortium working in partnership with the Department of Defense. Under the cost reimbursement
+                     contract, MTEC reimburses APT for approved incurred costs that are based upon the achievement of certain
+                     milestones for conduct and completion of a Phase 1/2 study utilizing APT’s PhageBank to treat patients with
+                     urinary tract infections (“UTIs”). Over the course of years, APT entered into certain modifications to the
+                     contract to include additional activities for APT’s UTI program and perform pre-clinical activities to advance
+                     the Diabetic Foot Ulcer clinical program, as well as to include activities to advance potential
+                     bacteriophage-based vaccines against COVID-19, for a total contract value of $36,214. In conjunction with this
+                     agreement, APT is subject to a royalty assessment fee of an amount equal to 3% of the total funded value of the
+                     research project award. No liability was recorded in these condensed consolidated statements. During the period
+                     between the Acquisition and March 31, 2024, APT recorded $196 as a reduction of R&D expenses,
+                     net.
+                     
+               C.   On June 23, 2022 (“Effective Date”), BiomX Israel entered into a research collaboration agreement with Boehringer
+                     Ingelheim International GmbH (“BI”) for a collaboration to identify biomarkers for IBD. Under the agreement,
+                     BiomX Israel is eligible to receive fees totaling $1,411 to cover costs to be incurred by BiomX Israel in
+                     conducting the research plan under the collaboration. The fees were paid in four installments according to
+                     certain activities under the agreement. In December 2023, the Company completed its obligations with respect to
+                     this agreement and the last installment of $211 was received on January 18, 2024. The consideration is recorded
+                     as a reduction of R&D expenses, net in the condensed consolidated statements of operations according to the input
+                     model method on a cost-to-cost basis.
+                     
+ 
+NOTE 8 – LONG-TERM DEBT
+ 
+On August 16, 2021 (the “Closing Date”), the Company entered into a Loan and Security Agreement (the “Loan Agreement”) with Hercules Capital, Inc. (“Hercules”), with respect to a venture debt facility. Under the Loan Agreement, $15,000 was advanced to the Company on the date the Loan Agreement was executed. The Company was required to make interest only payments through March 1, 2023, and started to then repay the principal balance and interest in equal monthly installments through September 1, 2025.
+ 
+The Loan Agreement provided that the Company could prepay advances under the Loan Agreement, in whole or in part, at any time subject to a prepayment charge equal to 1.0% after 24 months but prior to 36 months following the Closing Date Upon prepayment or repayment of all or any of the term loans under the Term Loan Facility, the Company is required to pay an end of term charge (“End of Term Charge”) equal to 6.55% of the total aggregate amount of the term loans being prepaid or repaid. On March 19, 2024, the Company prepaid the entire balance under the Term Loan Facility in a total of $10,428. The prepayment included the End of Term Charge of $983 and accrued interest of $69. The Company received from Hercules a waiver regarding the prepayment charge that should have been 1% out of the prepaid principal amount that equals to $94.
+ 
+Interest expense relating to the term loan, which is included in interest expense in the condensed statements of operations was $850 and $565 for the three months ended March 31, 2024 and March 31, 2023, respectively.
+ 
+F-18
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 9 – STOCKHOLDERS EQUITY
+ 
+               A.   Share Capital:
+ 
+Private Investment in Public Equity:
+ 
+On February 22, 2023, the Company entered into a Securities Purchase Agreement to issue and sell an aggregate of 15,997,448 shares of its Common Stock and 14,610,714 pre-funded warrants (the “Pre-Funded Warrants”) at a price of $0.245 per share and $0.244 per Pre-Funded Warrant in the PIPE. The net proceeds from the PIPE were approximately $7,152, after deducting issuance costs of $333. As of March 31, 2024, 4,778,265 Pre-Funded Warrants were exercised into 4,778,265 shares of Common Stock for total consideration of $5 at an exercise price of $0.001 per share of Common Stock.
+ 
+On March 15, 2024, in connection with the Acquisition, the Company issued to APT’s former stockholders 9,164,968 shares of the Company’s Common Stock, 40,470 Redeemable Convertible Preferred Shares and 2,166,497 Merger Warrants. See note 1D for further information.
+ 
+Concurrently with the consummation of the Acquisition as described in note 1D, the Company entered into the March 2024 PIPE, pursuant to which such investors purchased an aggregate of 216,417 Redeemable Convertible Preferred Shares (“PIPE Preferred Shares”) and Private Placement Warrants to purchase up to an aggregate of 108,208,500 shares of the Company’s Common Stock, at a combined price of $231.10 per share. The PIPE Preferred Shares and the Private Placement Warrants were issued in a private placement pursuant to an exemption from registration requirements under the Securities Act for aggregate gross proceeds of $50,000. Each Private Placement Warrant’s exercise price equals to $0.2311, subject to customary adjustments for stock dividends, stock splits, reclassifications and the like, will become exercisable at any time after the date of the receipt of BiomX stockholder approval and will expire within two years after the approval date. Under certain circumstances, the Company may be required to pay to each holder of the Private Placement Warrants (i) an amount in cash equal to the holder’s total purchase price for the shares of Common Stock purchased (the “Buy-In Price”) or credit such holder’s balance account with the Depository Trust Company (“DTC”) for such shares of Common Stock shall terminate, or (ii) promptly honor its obligation to deliver to such holder a certificate or certificates representing such shares of Common Stock or credit such holder’s balance account with DTC, as applicable, and pay cash to such holder in an amount equal to the excess (if any) of the Buy-In Price over the product of (A) such number of shares of Common Stock, times (B) Weighted Average Price (as defined in the Private Placement Warrant) on the trading day immediately preceding the exercise date.
+ 
+The Company accounted for the Private Placement Warrants as liabilities as the Private Placement Warrants are not considered indexed to the entity’s own stock based on the provision of ASC 815. The Private Placement Warrants will be measured at fair value at inception and in subsequent reporting periods with changes in fair value recognized in the condensed consolidated statements.
+ 
+The terms of the PIPE Preferred Shares are substantially the same as those of the Redeemable Convertible Preferred Shares issued under the Acquisition and were accounted for as temporary equity. See note 1D for further information.
+ 
+In connection therewith, the Company issued warrants to purchase shares of the Company’s Common Stock to the Placement Agents (the “Agents Warrants”). See Note 9B for further information.
+ 
+The Company allocated the total consideration from the issuance of the 2024 March PIPE first to the fair value of the Private Placement Warrants and then to the PIPE Preferred Shares. The Company had transaction costs of approximately $3,317 out of which $1,273 are Stock-Based Compensation due to issuance of the Agents Warrants. The transaction costs were allocated in the same manner as the consideration. Issuance costs which were allocated to the PIPE Preferred Shares were $1,410 and deducted from Redeemable Convertible Preferred Shares, and issuance costs that were allocated to the Private Placement Warrants were $1,907 and were expensed immediately.
+ 
+At-the-market Sales Agreement:
+  
+In December 2023, pursuant to a registration statement on Form S-3 declared effective by the SEC on January 2, 2024, the Company entered into an At the Market Offering Agreement with H.C. Wainwright & Co., LLC (“Wainwright”), pursuant to which the Company may issue and sell shares of Common Stock having an aggregate offering price of up to $7,500 from time to time through Wainwright. During the three months ended March 31, 2024, the Company sold 75,179 shares of Common Stock under this agreement, at an average price of $0.271 per share, raising aggregate net proceeds of approximately $19, after deducting an aggregate commission of $1.
+ 
+F-19
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 9 – STOCKHOLDERS EQUITY (Cont.)
+  
+Preferred Stock:
+ 
+The Company is authorized to issue 1,000,000 shares of preferred stock with a par value of $0.0001 per share with such designation, rights and preferences as may be determined from time to time by the Company’s Board of Directors (the “Board”).
+ 
+On March 15, 2024, the Company issued 40,470 and 216,417 Redeemable Convertible Preferred Shares, par value $0.0001 per share, as part of the Acquisition and the March 2024 PIPE, respectively. See note 1D and 9A for further information.
+ 
+Warrants:
+ 
+As of March 31, 2024, the Company had the following outstanding warrants to purchase Common Stock issued to stockholders:
+ 
+Warrant                                               Issuance Date                Expiration         Exercise        Number of    
+                                                                                      Date             Price          Shares of
+                                                                                                      Per Share     Common Stock
+                                                                                                                     Underlying
+                                                                                                                      Warrants
+Public Warrants                                  IPO (December 13, 2018)        October 28, 2024            11.50        3,500,000 
+2021 Registered Direct Offering Warrants           SPA (July 28, 2021)          January 28, 2027             5.00        2,812,501 
+Pre-Funded Warrants                                 February 27, 2023                   -                   0.001        1,869,755 
+Pre-Funded Warrants                                    May 4, 2023                      -                   0.001        7,962,694 
+Merger Warrants                                      March 15, 2024             January 28, 2027             5.00        2,166,497 
+Private Placement Warrants                           March 15, 2024            Two years after the         0.2311      108,208,500 
+                                                                                   stockholder
+                                                                                     approval
+Agents Warrants                                      March 15, 2024            Two years after the         0.2311        9,523,809 
+                                                                                   stockholder
+                                                                                     approval
+                                                                                                                       136,043,756 
+ 
+               B.   Stock-based Compensation:
+  
+On March 15, 2024, the Company issued 9,523,809 Agents Warrants to purchase up to an aggregate of 9,523,809 shares of the Company’s Common Stock to the Placement Agents in connection with the March 2024 PIPE. The exercise price of the Agents Warrants is $0.2311 per share and will become exercisable at any time after the date of the receipt of BiomX stockholder approval and will expire within two years after the approval date.
+ 
+The Company accounted for the Agents Warrants under the scope of ASC 718-10 “Stock-Based Payment”, (“ASC 718-10”), and treated them as issuance costs of the March 2024 PIPE as the Company considers these Warrants as consideration for receipt of Private Placement Services.
+ 
+The Company determined the fair value of the Agents Warrants using the Black-Scholes model as of March 5, 2024. The main assumptions used are as follows:
+ 
+                                                                                                              Three Months Ended       
+                                                                                                                  March 31,
+                                                                                                            2024           2023      
+Underlying value of Common Stock ($)                                                                             0.23              - 
+Exercise price ($)                                                                                               0.23              - 
+Expected volatility (%)                                                                                         100.6              - 
+Expected terms (years)                                                                                           2.32              - 
+Risk-free interest rate (%)                                                                                       4.4              - 
+ 
+F-20
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 9 – STOCKHOLDERS EQUITY (Cont.)
+  
+                     A summary of options granted to purchase the Company’s Common Stock under the Company’s share option plans is as
+                      follows:
+ 
+                                                                                                For the Three Months Ended             
+                                                                                                      March 31, 2024
+                                                                                       Number of       Weighted       Aggregate     
+                                                                                        Options        Average         Intrinsic
+                                                                                                    Exercise Price       Value
+Outstanding at the beginning of period                                                   5,280,711  $         0.54  $            72 
+Granted                                                                                          -  $            -                  
+Forfeited                                                                                  (87,363) $         0.37                  
+Expired                                                                                          -               -                  
+Exercised                                                                                        -  $            -                  
+Outstanding at the end of period                                                         5,193,348            0.54  $           587 
+Exercisable at the end of period                                                         3,249,620            0.57                  
+Weighted average remaining contractual life of outstanding options – years as of              6.42                                  
+ March 31,
+ 2024
+ 
+Warrants:
+ 
+As of March 31, 2024, the Company had the following outstanding compensation related warrants to purchase Common Stock:
+ 
+Warrant                                                              Issuance         Expiration       Exercise        Number of    
+                                                                       Date              Date            Price         Shares of
+                                                                                                       Per Share     Common Stock
+                                                                                                                      Underlying
+                                                                                                                       Warrants
+Private Warrants issued to scientific founders                   November 27, 2017                               -           2,974 
+Landlord Warrants*                                                March 15, 2024   January 28, 2027           5.00         250,000 
+                                                                                                                           252,974 
+ 
+(*)  See note 6.
+   
+F-21
+ 
+ 
+BIOMX INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(USD and NIS in thousands, except share and per share data)
+(unaudited)
+ 
+NOTE 9 – STOCKHOLDERS EQUITY (Cont.)
+ 
+                     The following table sets forth the total stock-based payment expenses resulting from options granted, included in
+                      the statements of
+                      operations:
+ 
+                                                                                                              Three Months Ended       
+                                                                                                                  March 31,
+                                                                                                            2024           2023      
+Research and development expenses, net                                                                             65             87 
+General and administrative                                                                                        112             88 
+                                                                                                                  177            175 
+ 
+NOTE 10 – BASIC AND DILUTED LOSS PER SHARE
+ 
+Basic loss per share is computed on the basis of the net loss for the period divided by the weighted average number of shares of Common Stock outstanding during the period, fully vested warrants with no exercise price for the Company’s Common Stock and fully vested Pre-Funded Warrants for the Company’s Common Stock at an exercise price of $0.001 per share, as the Company considers these shares to be exercised for little to no additional consideration. As of March 31, 2024, the basic loss per share calculation included a weighted average number of 2,974 of fully vested warrants and 9,832,449 of fully vested Pre-Funded Warrants. As of March 31,2023, the basic loss per share calculation included a weighted average number of 2,776,429 of fully vested Pre-Funded Warrants.
+ 
+Diluted loss per share is based upon the weighted average number of shares of Common Stock and of potential shares of Common Stock outstanding when dilutive. Potential shares of Common Stock equivalents include outstanding stock options and warrants, which are included under the treasury stock method when dilutive. The calculation of diluted loss per share for the three months ended March 31, 2024 does not include 5,193,348, 126,461,307, 2,000,000 and 256,887,000 of shares underlying options, shares underlying warrants, contingent shares and Redeemable Convertible Preferred Shares, respectively, because the effect would be anti-dilutive.
+ 
+NOTE 11 – EVENTS DURING THE PERIOD
+ 
+On March 21, 2024, RondinX signed an agreement with the Israeli tax authority in respect to an assessment for the years 2018-2022. The agreement concluded that RondinX’s IP and employees were transferred to BiomX Israel on the acquisition date. As a result, RondinX had a capital gain equal to its carryforward losses of $2,785 (NIS 10,036) and no further payment will be required. 
+ 
+NOTE 12 – SUBSEQUENT EVENTS
+ 
+On May 9, 2024, the Company received a payment of $1,617 from MTEC as part of the reimbursement of approved incurred costs between December 2023 and February 2024.
+ 
+F-22
+ 
+ 
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+References in this Quarterly Report to “the Company”, “BiomX”, “we”, “us” or “our”, mean BiomX Inc. and its consolidated subsidiaries unless otherwise expressly stated or the context indicates otherwise.
+ 
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our financial statements and the notes thereto contained elsewhere in this Quarterly Report. The analysis of the financial condition and results of operations includes Adaptive Phage Therapeutics LLC, a Delaware limited liability company (formerly Adaptive Phage Therapeutics Inc., a Delaware corporation), or APT from the date that we acquired it March 15, 2024. Certain information contained in the discussion and analysis set forth below includes forward-looking statements that involve risks and uncertainties. Our actual results may differ materially from those discussed in any forward-looking statement because of various factors discussed in this Quarterly Report and in our other filings with the U.S. Securities and Exchange Committee, or the SEC.
+ 
+General 
+ 
+We are a clinical stage product discovery company developing products using both natural and engineered phage technologies designed to target and kill specific harmful bacteria associated with chronic diseases, such as cystic fibrosis, or CF and diabetic foot osteomyelitis, or DFO. Bacteriophage or phage are bacterial, species-specific, strain-limited viruses that infect, amplify and kill the target bacteria and are considered inert to mammalian cells. By utilizing proprietary combinations of naturally occurring phage and by creating novel phage using synthetic biology, we develop phage-based therapies intended to address both large-market and orphan diseases.
+ 
+Based on the urgency of treating the infection (whether acute or chronic), the susceptibility of the target bacteria to phage (e.g. the ability to identify a phage cocktail that would target a broad range of bacterial strains) and other considerations, we offer two phage-based product types:
+ 
+          (1)  Fixed cocktail therapy – in this approach a single product containing a fixed number of selected phage is developed to
+                cover a wide range of bacterial strains, thus allowing treatment of broad patient populations with the same product.
+                Fixed cocktails are developed using our proprietary BOLT platform, in which high throughput screening, directed
+                evolution, and bioinformatic approaches are leveraged to produce an optimal phage
+                cocktail.
+ 
+          (2)  Personalized therapy – in this approach a large library of phage is developed, of which a single optimal phage is
+                personally matched to treat specific patients. Matching optimal phage with patients is carried out using a proprietary
+                phage susceptibility testing, where multiple considerations are analyzed simultaneously – allowing for an efficient
+                screen of the phage library while maintaining
+                short
+turnaround times.
+ 
+ In our therapeutic programs, we focus on using phage therapy to target specific strains of pathogenic bacteria that are associated with diseases. Our phage-based product candidates are developed utilizing our proprietary research and development platform named BOLT. The BOLT platform is unique, employing cutting edge methodologies and capabilities across disciplines including computational biology, microbiology, synthetic engineering of phage and their production bacterial hosts, bioanalytical assay development, manufacturing and formulation, to allow agile and efficient development of natural or engineered phage combinations, or cocktails. The cocktail contains phage with complementary features and is optimized for multiple characteristics such as broad target host range, ability to prevent resistance, biofilm penetration, stability and ease of manufacturing.
+ 
+Our goal is to develop multiple products based on the ability of phage to precisely target harmful bacteria and on our ability to screen, identify and combine different phage, both naturally occurring and created using synthetic engineering, to develop these treatments.
+ 
+2
+ 
+ 
+On March 6, 2024, we entered into a merger agreement with APT and certain other parties, as a result of which APT became our wholly-owned subsidiary, effective as of March 15, 2024, or the Acquisition. The Acquisition was structured as a stock-for-stock transaction whereby all outstanding equity interests of APT were exchanged in a merger for an aggregate of 9,164,968 shares of BiomX common stock, 40,470 shares of Series X Preferred Stock, or Redeemable Convertible Preferred Shares, convertible upon stockholder approval into 40,470,000 shares of BiomX common stock, and warrants, or the Merger Warrants, exercisable for 2,166,497 shares of BiomX common stock. Upon the consummation of the Acquisition, a successor-in-interest of APT became a wholly-owned subsidiary of BiomX. The Merger Warrants will be exercisable at any time after the date of the receipt of BiomX stockholder approval of their exercise at an exercise price of $5.00 per share and will expire on January 28, 2027.
+ 
+Concurrently with the consummation of the Acquisition, we entered into a securities purchase agreement or the March 2024 PIPE with certain investors, pursuant to which such investors purchased an aggregate of 216,417 Redeemable Convertible Preferred Shares and warrants to purchase up to an aggregate of 108,208,500 shares of Common Stock, or the Private Placement Warrants, for aggregate gross proceeds of approximately $50 million.
+ 
+Immediately following the Acquisition, and without taking into account the Redeemable Convertible Preferred Shares issued in the March 2024 PIPE, and assuming conversion of all of the Redeemable Convertible Preferred Shares into Common Stock, our stockholders (including holders of the Pre-Funded Warrants, as defined below) prior to the Acquisition owned approximately 55% of the share capital of the Company and APT’s stockholders prior to the Acquisition owned approximately 45% of the share capital of the Company.
+ 
+Clinical and Pre-Clinical Developments  
+ 
+Ongoing Programs
+ 
+Cystic Fibrosis
+ 
+BX004 is our therapeutic phage product candidate under development for chronic pulmonary infections caused by Pseudomonas aeruginosa, or P. aeruginosa, a main contributor to morbidity and mortality in patients with CF. Enhanced resistance to antibiotics develops, particularly in CF patients, due to extensive drug use consisting of prolonged and repeated broad-spectrum antibiotic courses often beginning in childhood, and leading to the appearance of multidrug-resistant strains. In preclinical in vitro studies, BX004 was shown to be active against antibiotic resistant strains of P. aeruginosa and demonstrated the ability to penetrate biofilm, an assemblage of surface-associated microbial cells enclosed in an extracellular polymeric substance and one of the leading causes for antibiotic resistance.
+ 
+The Phase 1b/2a trial in CF patients with chronic respiratory infections caused by P. aeruginosa. is comprised of two parts. The study design is based on recommendations from the Cystic Fibrosis Therapeutic Development Network.
+ 
+In February 2023, we announced positive results from Part 1 of the Phase 1b/2a trial evaluating BX004. Part 1 evaluated the safety, tolerability, pharmacokinetics, and microbiologic activity of BX004 over a 7-day ascending treatment period in nine CF patients (7 on BX004, 2 on placebo) with chronic P. aeruginosa pulmonary infection in a single ascending dose and multiple dose design.
+ 
+Results from Part 1 of the Phase 1b/2a trial included the following findings: No safety events related to treatment with BX004 occurred; Mean P. aeruginosa colony forming units, at Day 15 (compared to baseline): -1.42 log (BX004) vs. -0.28 log (placebo). This reduction was seen on top of standard of care inhaled antibiotics; Phage were detected in all patients treated with BX004 during the dosing period, including in several patients up to Day 15 (one week after end of therapy); no phage were detected in patients receiving placebo; there was no evidence of treatment-related resistance to BX004 during or after treatment , compared to placebo; and as expected due to the short duration of treatment, there was no detectable effect on % predicted forced expiratory volume in 1 second, or FEV1.
+ 
+In November 2023, we announced positive topline results from Part 2 of the Phase 1b/2a trial evaluating BX004. The objectives of Part 2 of the Phase 1b/2a trial were to evaluate the safety and tolerability of BX004 in a larger number of CF patients dosed for a longer treatment duration than Part 1 of the study. In Part 2, 34 CF patients were randomized in a 2:1 ratio with 23 CF patients receiving BX004 and 11 patients receiving placebo via nebulization twice daily for 10 days.
+ 
+3
+ 
+ 
+Highlights from the Part 2 data of the Phase 1b/2a study included:
+ 
+          ●    Study drug was safe and well-tolerated, with no related SAEs (serious adverse events) or related APEs (acute pulmonary
+                exacerbations) to study
+                drug.
+ 
+          ●    In the BX004 arm, 3 out of 21 (14.3%) patients converted to sputum culture negative for P. aeruginosa after 10 days of
+                treatment (including 2 patients after 4 days) compared to 0 out of 10 (0%) in the placebo arm (In patients that had
+                quantitative colony-forming unit levels at study
+                baseline).
+ 
+          ●    BX004 vs. placebo showed a clinical effect in a predefined subgroup of patients with reduced baseline lung function
+                (FEV1<70%). Difference between groups at Day 17: relative FEV1 improvement of 5.67% (change from baseline +1.46 vs.
+                -4.21) and +8.87 points in CFQR respiratory symptom scale (change from baseline +2.52 vs.
+                -6.35).
+ 
+In August 2023, the FDA granted BX004 Fast Track designation for the treatment of chronic respiratory infections caused by P. aeruginosa bacterial strains in patients with CF. In addition, in December 2023, BX004 received orphan drug designation from the FDA.
+ 
+BiomX expects to initiate a randomized, double blind, placebo-controlled, multi-center Phase 2b study in CF patients with chronic P. aeruginosa pulmonary infections in the fourth quarter of 2024. The study is designed to enroll approximately 60 patients randomized at a 2:1 ratio to BX004 or placebo. Treatment is expected to be administered via inhalation twice daily for a duration of 8 weeks. The study is designed to monitor the safety and tolerability of BX004 and is designed to demonstrate improvement in microbiological reduction of P. aeruginosa burden and evaluation of effects on clinical parameters such as lung function measured by FEV1 and patient reported outcomes. Study results are expected in the third quarter 2025. 
+ 
+BX211 – Treatment of Diabetic Foot Osteomyelitis, or DFO
+ 
+BX211 is a personalized phage therapy for the treatment of DFO associated with Staphylococcus aureus, or S. aureus, a bacterium associated with the development and exacerbation of inflammation in atopic dermatitis. The personalized phage treatment tailors a specific phage selected from a proprietary phage-bank according to the specific strain of S. aureus biopsied and isolated from each patient. DFO is a bacterial infection of the bone that usually develops from an infected foot ulcer and is a leading cause of amputation in patients with diabetes. We believe that scientific literature demonstrating the potential benefit in treating osteomyelitis using phage in animal models as well as numerous successful compassionate cases using phage therapy to treat DFO patient support our approach of using phage therapy to treat DFO.
+ 
+The ongoing randomized, double-blind, placebo-controlled, multi-center phase 2 study investigating the safety, tolerability, and efficacy of BX211 for subjects with DFO associated with S. aureus is expected to enroll approximately 45 subjects randomized at a 2:1 ratio to BX211 or placebo. BX211 or placebo is designed to be administered weekly, by topical and intravenous, or IV route at week 1 and by the topical route only at each of weeks 2-12. Over the 12-week treatment period, all subjects are expected to continue to be treated in accordance with standard of care which will include antibiotic treatment as appropriate. A first readout of study topline results is expected at week 13 evaluating healing of the wound associated with osteomyelitis, followed by a second readout at week 52 evaluating amputation rates and resolution of osteomyelitis based on X-ray, clinical assessments, and established biomarkers (Erythrocyte Sedimentation Rate, or ESR, and C-Reactive Protein, or CRP). These readouts are expected in the first quarter of 2025 and the first quarter of 2026, respectively.
+ 
+National Institutes of Health, or NIH, study in Cystic Fibrosis 
+ 
+We are supporting a study conducted by the NIH and The Antibacterial Resistance Leadership Group targeting P. Aeruginosa infections in CF patients under FDA emergency Investigational New Drug allowance. The Phase 1b/2, multi-centered, randomized, double-blind, placebo-controlled trial is assessing the safety and microbiological activity of a single IV dose of bacteriophage therapy in cystic fibrosis subjects colonized with P. aeruginosa.
+ 
+4
+ 
+ 
+Programs on hold
+ 
+BX005 – Treatment of Atopic Dermatitis 
+ 
+BX005 is our topical phage product candidate targeting S. aureus. S. aureus is more abundant on the skin of atopic dermatitis patients than on the skin of healthy individuals and on lesional skin than non-lesional skin. It also increases in abundance, becoming the dominant bacteria, when patients experience flares. By reducing the load of S. aureus, BX005 is designed to shift the skin microbiome composition to its ‘pre-flare’ state and potentially provide a clinical benefit. In preclinical in vitro studies, BX005 was shown to eradicate over 90% of strains, including antibiotic resistant strains, from a panel of S. aureus strains (120 strains isolated from skin of subjects from the U.S. and Europe). On April 8, 2022, the FDA approved the Company’s IND application for BX005.
+ 
+As of the date of this Quarterly Report, we have paused development efforts for BX005 due to prioritizing resources towards our CF and DFO programs, and we cannot provide guidance on resuming its development.
+ 
+Prosthetic Joint Infections, or PJI
+ 
+Our personalized phage therapy for treating PJI targets multiple bacterial organisms such as Staphylococcus aureus, Staphylococcus epidermidis and Enterococcus faecium. This treatment was granted Orphan-drug designation by the FDA in July 2020. As of the date of this Quarterly Report, we have paused development efforts of this program due to prioritizing resources towards our CF and DFO programs, and we cannot provide guidance on resuming its development.
+ 
+5
+ 
+ 
+Consolidated Results of Operations 
+ 
+Comparison of the Three Months Ended March 31, 2024 and 2023
+ 
+The following table summarizes our consolidated results of operations for the three months ended March 31, 2024 and 2023:
+ 
+                                                                                                             Three Months ended        
+                                                                                                                  March 31,
+                                                                                                            2024           2023       
+                                                                                                              USD in thousands         
+Research and development (“R&D”) expenses, net                                                                  4,105           4,564 
+General and administrative expenses                                                                             2,680           1,644 
+Operating loss                                                                                                  6,785           6,208 
+Other income                                                                                                      (88)            (91)
+Interest expenses                                                                                                 850             565 
+Loss from change in fair value of Private Placement Warrants                                                    8,010               - 
+Finance expense (income), net                                                                                   1,765            (327)
+Loss before tax                                                                                                17,322           6,355 
+Tax expenses                                                                                                        5               6 
+Net loss                                                                                                       17,327           6,361 
+Basic and diluted loss per share of Common Stock                                                                 0.28            0.20 
+Weighted average number of shares of Common Stock outstanding, basic and diluted                           62,292,277      32,125,227 
+ 
+R&D expenses, net (net of grants received from the Israel Innovation Authority (“IIA”), and consideration from research collaborations) were $4.1 million for the three months ended March 31, 2024, compared to $4.6 million for the three months ended March 31, 2023. The decrease of $0.5 million, or 11%, is primarily due to the end of the enrollment and follow-up period of patients in the clinical trial of our CF product candidate, BX004, which resulted in lower expenses. Such decrease was partly offset by lower IIA grants and by R&D expenses that were incurred in APT after the Acquisition. The Company did not record any IIA grants during the three months ended March 31, 2024. During the three months ended March 31, 2023, the Company recorded $0.3 million of IIA grants.
+ 
+General and administrative expenses were $2.7 million for the three months ended March 31, 2024, compared to $1.6 million for the three months ended March 31, 2023. The increase of $1.1 million, or 69%, is primarily due to issuance costs incurred under the Acquisition and the March 2024 PIPE agreement.
+ 
+There was no material change to other income that impacted earnings for the three months ended March 31, 2024 compared to the three months ended March 31, 2023.
+ 
+Interest expenses were $0.9 million for the three months ended March 31, 2024, compared to $0.6 million for the three months ended March 31, 2023. The increase of $0.3 million, or 50%, is due to the acceleration of the effective interest expenses which resulted from the prepayment of the loan under the Loan and Security Agreement, or the Hercules Loan Agreement, with Hercules Capital, Inc., or Hercules.
+ 
+Loss from change in fair value of Private Placement Warrants consisted of the changes in the Private Placement Warrants fair value issued under the March 2024 PIPE as a result of revaluation.
+ 
+Finance expense, net was $1.8 million for the three months ended March 31, 2024, compared to Finance income, net of $0.3 million for the three months ended March 31, 2023. The increase of $2.1 million resulted mainly from the Private Placement Warrants transaction costs.
+ 
+Basic and diluted loss per share of Common Stock was $0.28 for the three months ended March 31, 2024, compared to $0.20 for the three months ended March 31, 2023. The increase in loss per share of $0.08, or 40%, is due to an increase in our operating loss, partially offset by the increase in outstanding shares resulting from the Acquisition.
+ 
+6
+ 
+ 
+Liquidity and Capital Resources 
+ 
+We believe our cash and cash equivalents and short-term deposits on hand will be sufficient to meet our working capital and capital expenditure requirements for at least one year from the date of this Quarterly Report. We currently plan to continue to focus primarily on development of BX004, our product candidate for CF and BX211, our product candidate for DFO. Although we recently completed the 2024 March PIPE, in the future we will likely require or desire additional funds to support our operating expenses and capital requirements. In addition, the conversion of the Series X Non-Voting Convertible Preferred Shares (as described below) that was issued in connection with the March 2024 PIPE and the Acquisition is subject to stockholder approval and there is no assurance that such approval will be received. If such approval is not received, the Company may be required to redeem the Redeemable Convertible Preferred Shares at its fair value. Accordingly, we are exploring and expect to further explore, raising such additional funds through public or private equity, debt financings, loans, governmental or other grants or collaborative agreements or from other sources, as well as under the 2023 ATM Agreement discussed below. If we are unable to obtain adequate financing or financing on terms satisfactory to us, when we require it, our ability to continue to grow or support our business and to respond to business challenges could be significantly limited. If there are increases in operating costs for facilities expansion, research and development and clinical activity, we will need to use mitigating actions such as to seek additional financing or postpone expenses that are not based on firm commitments. If certain disruptions due to, for instance, the Israel-Hamas War, or Israeli political instability persists and deepens, we could experience an inability to access additional capital, which could in the future negatively affect our capacity to support our operating expenses and capital requirements. As a result of these factors, management believes that there is substantial doubt as to the Company’s ability to continue as a going concern.
+ 
+Cash Flows
+ 
+The following table summarizes our sources and uses of cash for the three months ended March 31, 2024 and 2023:  
+ 
+                                                                                                             Three Months Ended        
+                                                                                                                  March 31,
+                                                                                                            2024           2023      
+                                                                                                               USD in thousands        
+Net cash used in operating activities                                                                         (11,356)        (5,045)
+Net cash provided by (used in) investing activities                                                               663          1,990 
+Net cash provided by financing activities                                                                      38,975          1,050 
+Effect of exchange rate changes on cash and cash equivalents and restricted cash                                  (31)            13 
+Net increase (decrease) in cash and cash equivalents                                                           28,251         (1,992)
+ 
+Operating Activities
+ 
+Net cash used in operating activities for the three months ended March 31, 2024 was $11.4 million, primarily due to a net loss of $17.3 million, mostly due to our R&D, general and administrative expenses, and due to changes in our operating assets and liabilities of $2.7 million. This was partly offset by non-cash charges of $8.7 million. Non-cash charges for the three months ended March 31, 2024 consisted primarily of loss from change in fair value of Private Placement Warrants of $8.0 million and Private Placement Warrants issuance cost in amount of $0.7 million. Net changes in our operating assets and liabilities consisted primarily of a decrease in trade accounts payable of $1.8 million and net change in operating lease of $1.4 million. Such decrease was partly offset by the change in other current and non-current assets of $0.6 million.
+ 
+Net cash used in operating activities for the three months ended March 31, 2023 was $5.0 million, primarily due to a net loss of $6.4 million, mostly due to our R&D and general and administrative expenses, and due to changes in our operating assets and liabilities of $1.0 million, offset by non-cash charges of $0.3 million. Non-cash charges for the three months ended March 31, 2023 consisted primarily of depreciation and amortization expenses of $0.2 million and stock-based compensation expenses in the amount of $0.2 million. Net changes in our operating assets and liabilities consisted primarily of an increase in trade accounts payable of $0.4 million and in other accounts payable in the amount of $0.8 million, partially offset by an increase in other current assets in the amount of $0.2 million.
+ 
+7
+ 
+ 
+Investing Activities
+ 
+During the three months ended March 31, 2024, net cash provided by investing activities was $0.7 million, consisting of cash and restricted cash acquired from the Acquisition.
+ 
+During the three months ended March 31, 2023, net cash provided by investing activities was $2.0 million, mainly consisting of proceeds from short-term deposits of $2.0 million.
+ 
+We have invested, and plan to continue to invest, our existing cash in short-term investments in accordance with our investment policy. These investments may include money market funds and investment securities consisting of U.S. Treasury notes, and high quality, marketable debt instruments of corporations and government sponsored enterprises. We use foreign exchange contracts (mainly option and forward contracts) to hedge balance sheet items from currency exposure. These foreign exchange contracts are not designated as hedging instruments for accounting purposes. In connection with these foreign exchange contracts, we record gains or losses that offset the revaluation of the balance sheet items under financial income, net in our condensed consolidated statements of operations. As of March 31, 2024, we had outstanding foreign exchange contracts for the exchange of USD to NIS in the amount of approximately $1.7 million with a fair value asset of $0.1 million. As of March 31, 2023, we had outstanding foreign exchange contracts for the exchange of USD to NIS in the amount of approximately $4.6 million with a fair value of $0.1 million liability.
+ 
+Financing Activities
+ 
+During the three months ended March 31, 2024, net cash provided by financing activities was $39.0 million, mainly consisting of the issuance of Redeemable Convertible Preferred Shares and the Private Placement Warrants in the March 2024 PIPE in the amount of $21.3 million and $28.7 million, respectively. This was partially offset by the prepayment of the long-term debt in amount of $10.7 million.
+ 
+During the three months ended March 31, 2023, net cash provided by financing activities was $1.1 million, mainly consisting of the issuance of Common Stock in the first closing of the PIPE of $1.5 million, partially offset by the repayment to Hercules of long-term debt of $0.4 million.
+  
+Under the Hercules Loan Agreement, Hercules provided the Company with access to a term loan with an aggregate principal amount of up to $30 million, or the Term Loan Facility, available in three tranches, subject to certain terms and conditions. The first tranche of $15 million was advanced to us on the date the Loan Agreement was executed. The conditions for the second and third tranches were not reached and have expired. We were required to make interest only payments through March 1, 2023, and started to then repay the principal balance and interest in equal monthly installments. Interest on the Hercules Loan accrues at a per annum rate equal to the greater of (i) the Prime Rate as reported in The Wall Street Journal plus 5.70% and (ii) 8.95%. On March 19, 2024, the Company prepaid all of the term loan under the Term Loan Facility in a total of $10,428,000. The prepayment included an end of term charge of $983,000 and accrued interest of $69,000. The Company received a waiver regarding the prepayment charge that should have been 1% out of the prepaid principal amount that equaled $94,000.
+ 
+On December 7, 2023, we filed a shelf registration statement on Form S-3, which was declared effective by the SEC on January 2, 2024. In addition, on December 7, 2023, we entered into an At the Market Offering Agreement, or the 2023 ATM Agreement, with H.C. Wainwright & Co., LLC, or Wainwright, with Wainwright, as manager, pursuant to which we may issue and sell shares of our Common Stock having an aggregate offering price of up to $7.5 million from time to time through Wainwright. We are not obligated to make any sales of Common Stock under the 2023 ATM Agreement. From January 1, 2024 through May 17, 2024, we issued 75,179 shares of Common Stock pursuant to the 2023 ATM Agreement for aggregate gross proceeds of $19 thousand.
+ 
+On March 15, 2024, concurrently with the consummation of the Acquisition, we consummated the March 2024 PIPE with existing and new investors, resulting in aggregate gross proceeds of approximately $50 million, in which the investors purchased (i) an aggregate of 216,417 Redeemable Convertible Preferred Shares, convertible upon stockholder approval into an aggregate of up to 216,417,000 shares of BiomX common stock, and (ii) the Private Placement Warrants, to purchase up to an aggregate of 108,208,500 shares of BiomX common stock, at a combined purchase price of $231.10 per share of Series X Preferred Stock and an accompanying Private Placement Warrant to purchase 500 shares of BiomX common stock. The Private Placement Warrants will be exercisable any time after the date of the receipt of BiomX stockholder approval, at an exercise price of $0.2311 per share, and will expire on the 24-month anniversary of the initial exercisability date.
+ 
+8
+ 
+ 
+Outlook 
+ 
+We have accumulated a deficit of $180.3 million since our inception. To date, we have not generated revenue from our operations and we do not expect to generate any significant revenues from sales of products in the next twelve months. Our cash needs may increase in the foreseeable future. We expect to generate revenues, from the sale of licenses to use our technology or products, but in the short and medium terms any amounts generated are unlikely to exceed our costs of operations. According to our estimates and based on our current operating plans, our liquidity resources as of March 31, 2024, which consisted primarily of cash, cash equivalents, short-term deposits and restricted cash of approximately $44.1 million will be sufficient to fund our operations for at least one year from the date of this Quarterly Report. 
+ 
+Consistent with our ongoing R&D activities, we expect to continue to incur additional losses in the foreseeable future. To the extent we require funds above our existing liquidity resources in the medium and long term, we plan to fund our operations, as well as other development activities relating to additional product candidates, through future issuances of public or private equity, including under our 2023 ATM Agreement, issuance of debt securities, loans, and possibly additional grants from the IIA or other government or non-profit institutions. Our ability to raise additional capital in the equity and debt markets is dependent on a number of factors including, but not limited to, the market demand for our securities, which itself is subject to a number of development and business risks and uncertainties, as well as the uncertainty that we would be able to raise such additional capital at a price or on terms that are favorable to us.
+ 
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+As a smaller reporting company, we are not required to make disclosures under this Item.
+ 
+Item 4. Controls and Procedures
+ 
+We maintain disclosure controls and procedures (as that term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) that are designed to ensure that information required to be disclosed by us in our Exchange Act reports is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure.
+ 
+Evaluation of Disclosure Controls and Procedures
+ 
+Our management, with the participation of our principal executive officer and principal financial officer, conducted an evaluation, as of the end of the period covered by this Quarterly Report, of the effectiveness of our disclosure controls and procedures, as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act. Based on this evaluation, our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures were effective as of March 31, 2024.
+ 
+Changes in Internal Control over Financial Reporting
+ 
+There has been no change in our internal control over financial reporting, as that term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act, during the quarter ended March 31, 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+9
+ 
+ 
+PART II - OTHER INFORMATION  
+  
+Item 6. Exhibits 
+  
+No.                                                            Description of Exhibit
+3.1          Composite Copy of Amended and Restated Certificate of Incorporation of the Company, effective on December 11, 2018, as
+              amended to date. (Incorporated by reference to Exhibit 3.1 to the Company’s Quarterly Report on Form 10-Q filed by the
+              Company on November 9,
+              2022)
+              
+3.2          Amended and Restated Bylaws of the Company, as amended on April 11, 2024 (Incorporated by reference to Exhibit 3.1 to the
+              Company’s Current Report on Form 8-K filed by the Company on April 11,
+              2024)
+              
+10.1         At the Market Offering Agreement, dated December 7, 2023, between the Company and H.C. Wainwright & Co., LLC
+              (Incorporated by reference to Exhibit 1.2 of the Company’s Registration Statement on Form S-3 filed with the Securities
+              and Exchange Commission on December 7,
+              2023)
+              
+10.2*        Form of Indemnification Agreement
+              
+31.1*        Certification of Principal Executive Officer pursuant to Rule 13a-14 and Rule 15d-14(a)
+              
+31.2*        Certification of Principal Financial Officer pursuant to Rule 13a-14 and Rule 15d-14(a)
+              
+32**         Certification of Principal Executive Officer and Principal Financial Officer pursuant to 18 U.S.C. Section 1350
+              
+101.INS*     Inline XBRL Instance Document.
+101.SCH*     Inline XBRL Taxonomy Extension Schema Document.
+101.CAL*     Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF*     Inline XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB*     Inline XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE*     Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+104*         Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+ 
+*    Filed herewith.
+ 
+**   Furnished herewith.
+ 
+10
+ 
+ 
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+                                                                                 BIOMX INC. 
+                                                                                         
+Date: May 20, 2024                                                               By:    /s/ Jonathan Solomon
+                                                                                 Name:  Jonathan Solomon
+                                                                                 Title: Chief Executive Officer
+                                                                                        (Principal Executive Officer)
+                                                                                         
+Date: May 20, 2024                                                               By:    /s/ Avraham Gabay
+                                                                                 Name:  Avraham Gabay
+                                                                                 Title: Interim Chief Financial Officer
+                                                                                        (Principal Financial Officer and Principal
+                                                                                         Accounting
+                                                                                         Officer)
+ 
+ 
+11
+ 
+ 
+0.20 0.28 32125227 62292277 false --12-31 Q1 0001739174 0001739174 2024-01-01 2024-03-31 0001739174 phge:UnitsEachConsistingOfOneShareOfCommonStock00001ParValueAndOneWarrantExercisableForOnehalfOfOneShareOfCommonStockMember 2024-01-01 2024-03-31 0001739174 phge:CommonStock00001ParValueMember 2024-01-01 2024-03-31 0001739174 2024-05-17 0001739174 2024-03-31 0001739174 2023-12-31 0001739174 2023-01-01 2023-03-31 0001739174 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2023-12-31 0001739174 us-gaap:CommonStockMember 2023-12-31 0001739174 us-gaap:AdditionalPaidInCapitalMember 2023-12-31 0001739174 us-gaap:RetainedEarningsMember 2023-12-31 0001739174 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2024-01-01 2024-03-31 0001739174 us-gaap:CommonStockMember 2024-01-01 2024-03-31 0001739174 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-03-31 0001739174 us-gaap:RetainedEarningsMember 2024-01-01 2024-03-31 0001739174 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2024-03-31 0001739174 us-gaap:CommonStockMember 2024-03-31 0001739174 us-gaap:AdditionalPaidInCapitalMember 2024-03-31 0001739174 us-gaap:RetainedEarningsMember 2024-03-31 0001739174 us-gaap:CommonStockMember 2022-12-31 0001739174 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 0001739174 us-gaap:RetainedEarningsMember 2022-12-31 0001739174 2022-12-31 0001739174 us-gaap:CommonStockMember 2023-01-01 2023-03-31 0001739174 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-03-31 0001739174 us-gaap:RetainedEarningsMember 2023-01-01 2023-03-31 0001739174 us-gaap:CommonStockMember 2023-03-31 0001739174 us-gaap:AdditionalPaidInCapitalMember 2023-03-31 0001739174 us-gaap:RetainedEarningsMember 2023-03-31 0001739174 2023-03-31 0001739174 2024-03-15 0001739174 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2024-03-15 0001739174 phge:PrivatePlacementWarrantsMember 2024-03-15 0001739174 phge:March2024PIPEMember 2024-03-15 2024-03-15 0001739174 us-gaap:CommonStockMember 2024-03-15 0001739174 us-gaap:ConvertiblePreferredStockMember 2024-03-15 0001739174 phge:MergerWarrantsMember 2024-03-15 0001739174 us-gaap:CommonStockMember 2024-03-15 2024-03-15 0001739174 2024-03-15 2024-03-15 0001739174 phge:APTsStockholdersMember phge:PrivatePlacementWarrantsMember 2024-03-31 0001739174 phge:APTsStockholdersMember 2024-03-31 0001739174 us-gaap:RedeemableConvertiblePreferredStockMember 2024-01-01 2024-03-31 0001739174 phge:MultiPeriodExcessEarningsMethodMPEEMMember 2024-01-01 2024-03-31 0001739174 phge:MultiPeriodExcessEarningsMethodMPEEMMember 2024-03-31 0001739174 phge:PurchasePriceAllocationMember 2024-03-15 0001739174 phge:APTMember 2024-01-01 2024-03-31 0001739174 srt:MinimumMember 2024-01-01 2024-03-31 0001739174 srt:MaximumMember 2024-01-01 2024-03-31 0001739174 us-gaap:FairValueInputsLevel1Member 2024-03-31 0001739174 us-gaap:FairValueInputsLevel2Member 2024-03-31 0001739174 us-gaap:FairValueInputsLevel3Member 2024-03-31 0001739174 us-gaap:FairValueInputsLevel3Member 2024-01-01 2024-03-31 0001739174 us-gaap:FairValueInputsLevel1Member 2023-12-31 0001739174 us-gaap:FairValueInputsLevel2Member 2023-12-31 0001739174 us-gaap:FairValueInputsLevel3Member 2023-12-31 0001739174 srt:MinimumMember us-gaap:FairValueInputsLevel3Member 2024-03-31 0001739174 srt:MaximumMember us-gaap:FairValueInputsLevel3Member 2024-03-31 0001739174 us-gaap:FairValueInputsLevel3Member 2023-03-31 0001739174 srt:MinimumMember us-gaap:FairValueInputsLevel3Member 2024-01-01 2024-03-31 0001739174 srt:MaximumMember us-gaap:FairValueInputsLevel3Member 2024-01-01 2024-03-31 0001739174 us-gaap:FairValueInputsLevel3Member 2023-01-01 2023-03-31 0001739174 2021-03-01 2021-03-31 0001739174 phge:IIAMember 2024-01-01 2024-03-31 0001739174 2021-08-01 2021-08-31 0001739174 phge:IsraelInnovationAuthorityMember 2024-01-01 2024-03-31 0001739174 2022-03-01 2022-03-31 0001739174 2023-03-01 2023-03-31 0001739174 phge:USArmyMedicalResearchAcquisitionActivityUSAMRAAMember 2019-08-31 2019-08-31 0001739174 2019-08-31 2019-08-31 0001739174 2023-06-01 2023-06-23 0001739174 2023-01-01 2023-12-31 0001739174 us-gaap:ShareBasedCompensationAwardTrancheOneMember 2021-08-16 0001739174 us-gaap:LoansPayableMember 2024-01-01 2024-03-31 0001739174 2024-03-19 2024-03-19 0001739174 2024-03-19 0001739174 phge:LongTermDebtsMember 2024-03-19 2024-03-19 0001739174 phge:LongTermDebtsMember 2023-01-01 2023-03-31 0001739174 us-gaap:PrivatePlacementMember 2023-02-22 0001739174 us-gaap:PrivatePlacementMember 2023-02-22 2023-02-22 0001739174 us-gaap:PrivatePlacementMember 2024-01-01 2024-03-31 0001739174 us-gaap:PrivatePlacementMember 2024-03-31 0001739174 phge:PrivatePlacementWarrantsMember 2024-03-31 0001739174 phge:SecuritiesPurchaseAgreementMember 2024-03-15 2024-03-15 0001739174 phge:BoardOfDirectorsMember 2023-03-01 2024-03-15 0001739174 phge:IPODecember132018Member phge:PublicWarrantsMember us-gaap:WarrantMember 2024-01-01 2024-03-31 0001739174 phge:IPODecember132018Member phge:PublicWarrantsMember us-gaap:WarrantMember 2024-03-31 0001739174 phge:SPAJuly282021PMember phge:TwoThousandTwentyOneRegisteredDirectOfferingWarrantsMember us-gaap:WarrantMember 2024-01-01 2024-03-31 0001739174 phge:SPAJuly282021PMember phge:TwoThousandTwentyOneRegisteredDirectOfferingWarrantsMember us-gaap:WarrantMember 2024-03-31 0001739174 phge:FebTwentySevenTwoThousandTwentyThreeMember phge:PreFundedWarrantsMember us-gaap:WarrantMember 2024-01-01 2024-03-31 0001739174 phge:FebTwentySevenTwoThousandTwentyThreeMember phge:PreFundedWarrantsMember us-gaap:WarrantMember 2024-03-31 0001739174 phge:PreFundedWarrantsMember phge:MayFourTwoThousandTwentyThreeMember us-gaap:WarrantMember 2024-01-01 2024-03-31 0001739174 phge:PreFundedWarrantsMember phge:MayFourTwoThousandTwentyThreeMember us-gaap:WarrantMember 2024-03-31 0001739174 phge:MarchFifteenTwoThousandTwentyFourMember phge:MergerWarrantsMember us-gaap:WarrantMember 2024-01-01 2024-03-31 0001739174 phge:MarchFifteenTwoThousandTwentyFourMember phge:MergerWarrantsMember us-gaap:WarrantMember 2024-03-31 0001739174 phge:MarchFifteenTwoThousandTwentyFourMember phge:PrivatePlacementWarrantsMember us-gaap:WarrantMember 2024-01-01 2024-03-31 0001739174 phge:MarchFifteenTwoThousandTwentyFourMember phge:PrivatePlacementWarrantsMember us-gaap:WarrantMember 2024-03-31 0001739174 phge:MarchFifteenTwoThousandTwentyFourMember phge:AgentsWarrantsMember us-gaap:WarrantMember 2024-01-01 2024-03-31 0001739174 phge:MarchFifteenTwoThousandTwentyFourMember phge:AgentsWarrantsMember us-gaap:WarrantMember 2024-03-31 0001739174 us-gaap:WarrantMember 2024-03-31 0001739174 us-gaap:BlackScholesMertonModelMember 2024-03-31 0001739174 us-gaap:BlackScholesMertonModelMember 2023-03-31 0001739174 us-gaap:BlackScholesMertonModelMember 2024-01-01 2024-03-31 0001739174 us-gaap:BlackScholesMertonModelMember 2023-01-01 2023-03-31 0001739174 us-gaap:EmployeeStockMember 2023-12-31 0001739174 us-gaap:EmployeeStockMember 2024-01-01 2024-03-31 0001739174 us-gaap:EmployeeStockMember 2024-03-31 0001739174 us-gaap:WarrantMember phge:PrivateWarrantsIssuedToScientificFounderMember 2024-01-01 2024-03-31 0001739174 us-gaap:WarrantMember phge:PrivateWarrantsIssuedToScientificFounderMember 2024-03-31 0001739174 us-gaap:WarrantMember phge:LandlordWarrantsMember 2024-01-01 2024-03-31 0001739174 us-gaap:WarrantMember phge:LandlordWarrantsMember 2024-03-31 0001739174 us-gaap:WarrantMember 2024-03-31 0001739174 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2024-01-01 2024-03-31 0001739174 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2023-01-01 2023-03-31 0001739174 phge:FullyVestedWarrantsMember 2024-03-31 0001739174 phge:FullyVestedPreFundedWarrantsMember 2024-03-31 0001739174 phge:FullyVestedPreFundedWarrantsMember 2023-03-31 0001739174 phge:UnderlyingOptionsMember 2024-01-01 2024-03-31 0001739174 phge:UnderlyingWarrantsMember 2024-01-01 2024-03-31 0001739174 phge:ContingentSharesMember 2024-01-01 2024-03-31 0001739174 phge:RedeemableConvertiblePreferredSharesMember 2024-01-01 2024-03-31 0001739174 2024-03-21 0001739174 us-gaap:SubsequentEventMember 2024-05-09 2024-05-09 xbrli:shares iso4217:USD iso4217:USD xbrli:shares xbrli:pure utr:sqm iso4217:ILS

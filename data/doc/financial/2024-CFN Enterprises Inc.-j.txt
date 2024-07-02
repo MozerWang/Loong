@@ -1,0 +1,1729 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+(Mark One)
+
+ 
+
+          ☒       QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024
+
+ 
+
+          ☐       TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+
+ 
+
+For the transition period from ________ to ________
+
+ 
+
+Commission File Number: 000-52635
+
+ 
+
+CFN ENTERPRISES INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                                             Delaware                                                                     90-1559541
+
+                  (State or other jurisdiction of incorporation or organization)                             (I.R.S. Employer Identification No.)
+
+ 
+
+600 E. 8TH STREET
+
+WHITEFISH, MT 59937
+
+(Address of principal executive offices) (Zip code)
+
+ 
+
+(833) 420-2636
+
+(Registrant’s Telephone Number, including Area Code)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   Yes ☒  No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).   Yes ☒  No ☐
+
+ 
+
+Indicate by check mark whether the registrant is large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+          Large accelerated filer ☐                                                     Accelerated filer ☐
+
+          Non-accelerated filer ☒                                                       Smaller reporting company ☒
+
+                                                                                        Emerging growth company ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes ☐  No ☒
+
+ 
+
+The number of shares outstanding of the registrant’s Common Stock, $0.001 par value per share, as of May 15, 2024 was 82,210,664.
+
+ 
+
+When used in this quarterly report, the terms “CFN Enterprises,” “the Company,” “we,” “our,” and “us” refer to CFN Enterprises Inc., a Delaware corporation, and its consolidated subsidiaries, unless the context indicates otherwise.
+
+
+
+
+
+ 
+
+CAUTIONARY STATEMENT REGARDING FORWARD LOOKING INFORMATION
+
+ 
+
+This quarterly report on Form 10-Q contains certain forward-looking statements. Forward-looking statements may include our statements regarding our goals, beliefs, strategies, objectives, plans, including product and service developments, future financial conditions, results or projections or current expectations. In some cases, you can identify forward-looking statements by terminology such as "may," "will," "should," "expect," "plan," "anticipate," "believe," "estimate," "predict," "potential" or "continue," the negative of such terms, or other comparable terminology. For example, when we discuss our expectations for 2024, our expectations for revenue sources, costs of revenue and expenses going forward, and that we will continue to pursue strategic transactions and opportunities, we are using forward-looking statements. These statements are subject to known and unknown risks, uncertainties, assumptions and other factors that may cause actual results to be materially different from those contemplated by the forward-looking statements. These factors include, but are not limited to, our ability to implement our strategic initiatives, economic, political and market conditions and fluctuations, government and industry regulation, interest rate risk, U.S. and global competition, and other factors. Most of these factors are difficult to predict accurately and are generally beyond our control. You should consider the areas of risk described in connection with any forward-looking statements that may be made herein. The business and operations of CFN Enterprises Inc. are subject to substantial risks, which increase the uncertainty inherent in the forward-looking statements contained in this report. Except as required by law, we undertake no obligation to release publicly the result of any revision to these forward-looking statements that may be made to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events. Further information on potential factors that could affect our business is described under “Item 1A. Risk Factors” contained in our annual report on Form 10-K as filed with the Securities and Exchange Commission, or the SEC, on April 11, 2024. Readers are also urged to carefully review and consider the various disclosures we have made in this report and in our annual report on Form 10-K.
+
+
+
+
+
+ 
+
+ 
+
+CFN ENTERPRISES INC.
+
+ 
+
+INDEX
+
+ 
+
+                                                                                                                                Page
+
+                                                                                                                               
+
+          PART I - FINANCIAL INFORMATION:                                                                                         1
+
+                                                                                                                               
+
+          Item 1. Financial Statements and accompanying Notes to the Financial Statements (Unaudited)                             1
+
+                                                                                                                               
+
+          Item 2. Management’s Discussion and Analysis of Financial Position and Results of Operations                           16
+
+                                                                                                                                
+
+          Item 4. Controls and Procedures                                                                                        20
+
+                                                                                                                               
+
+          PART II - OTHER INFORMATION:                                                                                           21
+
+                                                                                                                               
+
+          Item 5. Other Information                                                                                              21
+
+                                                                                                                                   
+
+          Item 6. Exhibits                                                                                                       21
+
+                                                                                                                                   
+
+          SIGNATURES                                                                                                             21
+
+
+
+
+
+ 
+
+PART I - FINANCIAL INFORMATION
+
+ 
+
+Item 1. Financial Statements
+
+CFN ENTERPRISES INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+                                                                                                                           March 31,               December 31,
+
+                                                                                                                                2024                     2023
+
+                                                                                                                          (Unaudited)                     
+
+          ASSETS                                                                                                                                  
+
+          Current assets:                                                                                                                         
+
+                  Cash                                                                                                $153,044                  $78,744  
+
+                  Restricted cash                                                                                     20,525                    20,448  
+
+                  Accounts receivable, net                                                                            1,739,657                 942,248  
+
+                  Inventory                                                                                           1,677,503                 1,796,227  
+
+                          Total current assets                                                                        3,590,729                 2,837,667  
+
+          Property and equipment, net                                                                                  154,620                   156,343  
+
+          Right of use asset                                                                                           2,012,033                 2,159,043  
+
+          Deposits                                                                                                     297,269                   297,269  
+
+          Other assets                                                                                                 8,910                     8,910  
+
+                          Total assets                                                                                $6,063,561                $5,459,232  
+
+                                                                                                                                                
+
+          LIABILITIES AND STOCKHOLDERS' DEFICIT                                                                                                   
+
+          Current liabilities:                                                                                                                    
+
+                  Accounts payable                                                                                    $4,074,897                $3,018,531  
+
+                  Accrued liabilities                                                                                 4,712,076                 3,828,063  
+
+                  Due to related party                                                                                501,140                   501,140  
+
+                  Deferred revenue                                                                                    7,206                     484,212  
+
+                  Current portion of notes payable                                                                    7,241,286                 7,272,357  
+
+                  Due to seller                                                                                       1,000,000                 1,000,000  
+
+                  Contingent consideration                                                                            208,000                   208,000  
+
+                  Current portion of right of use liability                                                           608,661                   822,259  
+
+                  Current liabilities of discontinued operations                                                      79,823                    79,823  
+
+                          Total current liabilities                                                                   18,433,089                17,214,385  
+
+          Right of use liability                                                                                       1,569,606                 1,547,410  
+
+          Long-term note payable, net of current portion and discounts                                                 128,443                   128,443  
+
+                          Total liabilities                                                                           20,131,138                18,890,238  
+
+                                                                                                                                                
+
+          Commitments and contingencies                                                                                                           
+
+                                                                                                                                                
+
+          Stockholders' deficit:                                                                                                                  
+
+              Series A preferred stock, $0.001 par value, 500 shares authorized, 500 shares issued and outstanding     1                         1  
+
+               as of both March 31, 2024 and December 31,
+
+               2023
+
+              Series B preferred stock, $0.001 par value, 3,000 shares authorized, 3,000 shares issued and             3                         3  
+
+               outstanding as of both March 31, 2024 and December 31,
+
+               2023
+
+              Common stock, $0.001 par value, 500,000,000 shares authorized, 82,210,664 shares issued and              82,210                    82,210  
+
+               outstanding as of both March 31, 2024 and December 31,
+
+               2023
+
+              Additional paid-in capital                                                                               60,980,641                60,909,641  
+
+              Accumulated deficit                                                                                      (75,130,432)              (74,422,861) 
+
+                          Total stockholders' deficit                                                                 (14,067,577)              (13,431,006) 
+
+                          Total liabilities and stockholders' deficit                                                 $6,063,561                $5,459,232  
+
+ 
+
+See accompanying notes to the unaudited condensed consolidated financial statements
+
+
+
+1
+
+
+
+ 
+
+ 
+
+CFN ENTERPRISES INC.
+
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+ 
+
+                                                                                                  Three Months Ended
+
+                                                                                                      March 31, 
+
+                                                                                                 2024                    2023
+
+          Net revenues                                                                  $3,844,592               $112,957  
+
+          Cost of revenue                                                               2,151,835                176,191  
+
+                  Gross profit (loss)                                                  1,692,757                (63,234) 
+
+                                                                                                              
+
+          Operating expenses:                                                                                     
+
+               Selling, general and administrative                                      1,619,794                422,013  
+
+                  Total operating expenses                                             1,619,794                422,013  
+
+                                                                                                              
+
+          Income (loss from) operations                                                 72,963                   (485,247) 
+
+                                                                                                              
+
+          Other income (expense):                                                                                 
+
+               Interest expense                                                        (720,611)                (66,051) 
+
+               Interest income                                                         77                       76  
+
+                  Total other income (expense), net                                    (720,534)                (65,975) 
+
+                                                                                                              
+
+          Provision for income taxes                                                    -                        -  
+
+          Net loss                                                                      $(647,571)               $(551,222) 
+
+          Preferred stock interest                                                      60,000                   60,000  
+
+          Net loss available to common shareholders                                     $(707,571)               $(611,222) 
+
+                                                                                                              
+
+          Net loss per common share - basic and diluted                                 $(0.01)                  $(0.02) 
+
+                                                                                                              
+
+          Weighted average common shares outstanding – basic and diluted                82,210,664               38,170,664  
+
+ 
+
+See accompanying notes to the unaudited condensed consolidated financial statements
+
+
+
+2
+
+
+
+CFN ENTERPRISES INC.
+
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' DEFICIT
+
+ 
+
+                                          Series A              Series B                                    Additional                            Total
+
+                                       Preferred Stock       Preferred Stock           Common Stock           Paid-in       Accumulated       Stockholders'
+
+                                        Shares     Amount    Shares     Amount      Shares       Amount      Capital         Deficit            Deficit
+
+                                                                                                                                         
+
+             Balance at December 31,   500       $1         3,000     $3         37,690,664    $37,690    $49,786,056   $(58,996,099)      $(9,172,349) 
+
+              2022
+
+             Issuance of common stock  -         -          -         -          2,400,000     2,400      597,600       -                  600,000  
+
+              for
+
+              cash
+
+             Preferred stock interest  -         -          -         -          -             -          -             (60,000)           (60,000) 
+
+             Net loss                  -         -          -         -          -             -          -             (551,222)          (551,222) 
+
+             Balances at March 31,     500       $1         3,000     $3         40,090,664    $40,090    $50,383,656   $(59,607,321)      $(9,183,571) 
+
+              2023
+
+                                                                                                                                         
+
+             Balances at December 31,  500       $1         3,000     $3         82,210,664    $82,210    $60,909,641   $(74,422,861)      $(13,431,006) 
+
+              2023
+
+             Contributed capital       -         -          -         -          -             -          71,000        -                  71,000  
+
+             Preferred stock interest  -         -          -         -          -             -          -             (60,000)           (60,000) 
+
+             Net loss                  -         -          -         -          -             -          -             (647,571)          (647,571) 
+
+             Balances at March 31,     500       $1         3,000     $3         82,210,664    $82,210    $60,980,641   $(75,130,432)      $(14,067,577) 
+
+              2024
+
+ 
+
+See accompanying notes to the unaudited condensed consolidated financial statements
+
+
+
+3
+
+
+
+ 
+
+CFN ENTERPRISES INC.
+
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+ 
+
+                                                                                                   Three Months Ended
+
+                                                                                                       March 31, 
+
+                                                                                                 2024                    2023
+
+          Cash flows from operating activities:                                                                   
+
+          Net loss                                                                       $(647,571)              $(551,222) 
+
+          Adjustments to reconcile net loss to net cash used in operating activities:                             
+
+                Depreciation and amortization                                           8,432                   2,832  
+
+                Amortization of right of use asset                                      147,010                 10,915  
+
+                Bad debt expense                                                        232,487                 -  
+
+                Amortization of debt discount                                           162,372                 -  
+
+             Changes in operating assets and liabilities:                                                         
+
+                   Accounts receivable, net                                             (1,029,896)             8,135  
+
+                   Inventory                                                            118,724                 -  
+
+                   Prepaid expenses and other assets                                    -                       (7,410) 
+
+                   Accounts payable and accrued expenses                                1,880,379               251,898  
+
+                   Deferred revenue                                                     (477,006)               2,289  
+
+                   Payments made in advance of securities date                          -                       (250,000) 
+
+                   Right of use liability, net                                          (191,402)               (53,718) 
+
+                Net cash provided by (used in) operating activities                     203,529                 (586,281) 
+
+          Cash flows from investing activities:                                                                   
+
+          Purchase of property and equipment, net                                        (6,709)                 -  
+
+                Net cash used in investing activities                                   (6,709)                 -  
+
+          Cash flows from financing activities:                                                                   
+
+          Net advances from related parties                                              -                       (3,619) 
+
+          Repayments of notes                                                            (193,443)               (3,863) 
+
+          Contributed capital                                                            71,000                  -  
+
+          Proceeds from sale of common stock                                             -                       600,000  
+
+             Net cash (used in) provided by financing activities                         (122,443)               592,518  
+
+          Net change in cash and cash equivalents                                        74,377                  6,237  
+
+          Cash and restricted cash at beginning of period                                99,192                  32,602  
+
+          Cash and restricted cash at end of period                                      $173,569                $38,839  
+
+                                                                                                               
+
+          Reconciliation of cash and restricted cash:                                                             
+
+             Cash at beginning of period                                                 $78,744                 $12,474  
+
+             Restricted cash at beginning of period                                      20,448                  20,128  
+
+             Cash and restricted cash at beginning of period                             $99,192                 $32,602  
+
+                                                                                                               
+
+             Cash at end of period                                                       $153,044                $18,636  
+
+             Restricted cash at end of period                                            20,525                  20,203  
+
+             Cash and restricted cash at end of period                                   $173,569                $38,839  
+
+                                                                                                               
+
+          Supplemental disclosure of cash flow information:                                                       
+
+          Cash paid for income taxes                                                     $-                      $-  
+
+          Cash paid for interest                                                         $115,000                $-  
+
+                                                                                                               
+
+          Supplemental disclosure of non-cash investing and financing activities:                                 
+
+          Accrual of preferred stock interest                                            $60,000                 $60,000  
+
+ 
+
+ 
+
+See accompanying notes to the unaudited condensed consolidated financial statements
+
+
+
+4
+
+
+
+ 
+
+CFN ENTERPRISES INC.
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+NOTE 1: ORGANIZATION AND BASIS OF PRESENTATION
+
+ 
+
+Organization
+
+ 
+
+CFN Enterprises Inc., formerly known as Accelerize Inc., or the Company, is a Delaware corporation incorporated on November 22, 2005. Effective October 22, 2019, the Company filed a certificate of amendment to its certificate of incorporation with the Secretary of State of the State of Delaware to change its corporate name to CFN Enterprises Inc.
+
+ 
+
+On May 15, 2019, the Company entered into an asset purchase agreement or the Emerging Growth Agreement with Emerging Growth, LLC, or Emerging Growth, pursuant to which the Company acquired certain assets from the Emerging Growth related to its sponsored content and marketing business for a purchase price consideration consisting of $420,000 in cash, 30,000,000 shares of the Company’s common stock, and 3,000 shares of Series B preferred stock with a total stated value of $3,000,000 which bears interest at 6% per annum and is convertible into the Company’s common stock at a conversion price to be mutually agreed in the future, without voting rights or a liquidation preference except with respect to default interest. The securities were issued pursuant to an exemption under Section 4(a)(2) of the Securities Act of 1933, as amended. The closing of the purchase of the assets pursuant to the Emerging Growth Agreement occurred on June 20, 2019.
+
+ 
+
+On August 23, 2021, the Company entered into securities purchase agreements with CNP Operating, LLC, a Colorado limited liability company, or CNP Operating, and the owners of all of the equity interests of CNP Operating, or the Owners, whereby the Company acquired 100% of CNP Operating from the Owners in exchange for an aggregate of 23.6 million shares of the Company’s common stock. The securities were issued pursuant to an exemption under Section 4(a)(2) of the Securities Act of 1933, as amended. On August 25, 2021 the transaction was closed and CNP Operating became a wholly owned subsidiary of the Company. CNP Operating is a cannabidiol manufacturer. In the fourth quarter of 2022 and the first quarter of 2023, the Company took steps to wind down the operations of CNP Operating and focus on the CFN Business.
+
+ 
+
+On December 6, 2021, the Company effected a reverse split of its outstanding common stock in the ratio of 1-for-15, or the Reverse Stock Split.  All share amounts retrospectively reflect the effect of the Reverse Stock Split.
+
+ 
+
+On July 1, 2023, the Company and its wholly owned subsidiary, Ranco LLC, a Delaware limited liability company, or Ranco, entered into an asset purchase agreement, or the Asset Purchase Agreement (“Ranco Agreement”) with RAN CoPacking Solutions LLC, a California limited liability company, or the Seller and the members of the Seller (collectively, the Founders). The assets of the Seller acquired by Ranco consist of assets for co-packing and white label manufacturing services, including comprehensive solutions for third party logistics (3PL) related areas such as storage, order fulfillment, solutions for custom packaging and hardware needs for many different industries, and media and design services, along with strategic marketing support, to help clients establish and enhance their brand presence in the market, or the Purchased Assets.
+
+ 
+
+Also on July 1, 2023, Ranco entered into the Packwoods Private Label Services and Intellectual Property Licensing Agreement, or the Licensing Agreement, with PW Industries LLC, a Wyoming limited liability company, or PW, RS Distributions LLC, a Delaware limited liability company, or RS, and Packaging Innovations LLC, a Wyoming limited liability company, or PI, and together with PW and RS, the Licensors, for the exclusive manufacturing, packaging and distribution of, and wholesale and retail sales of a variety hemp-based inhalable (pre-roll and vaporizer), edible products, and disposable nicotine-based inhalable vaporizer products, and the purchase of packaging materials to be used with Packwoods-branded cannabis products (containing more than 0.3% delta-9 THC by weight) and the distribution of those packaging materials to licensed cannabis manufacturers designated by PW, using the Licensor’s licensed property for a 5 year exclusive term, subject to certain exclusions.
+
+ 
+
+The Company’s current operations consist of the sponsored content and marketing business, or the CFN Business, from the assets acquired pursuant to the Emerging Growth Agreement, and the business of Ranco, or the Ranco Business.
+
+ 
+
+Going Concern
+
+ 
+
+The accompanying consolidated financial statements have been prepared on a going concern basis which implies the Company will continue to meet its obligations for the next 12 months as of the date these financial statements are issued.
+
+ 
+
+The Company had a working capital deficit of $14,842,360 and an accumulated deficit of $75,130,432 as of March 31, 2024. The Company also had a net loss of $647,571 for the three months ended March 31, 2024.
+
+ 
+
+Management’s plan to continue as a going concern includes raising capital in the form of debt or equity, growing the CFN Business, growing the newly acquired Ranco Business, managing and reducing operating and overhead costs and continuing to pursue strategic 
+
+
+
+5
+
+
+
+transactions and opportunities including launching an e-commerce network focused on the sale of general wellness cannabidiol, or CBD, products.
+
+ 
+
+These matters, among others, raise substantial doubt about the ability of the Company to continue as a going concern. These financial statements do not include any adjustments to the amounts and classification of assets and liabilities that may be necessary should the Company be unable to continue as a going concern.
+
+ 
+
+Basis of Presentation and Consolidation
+
+ 
+
+The accompanying consolidated financial statements include the results of operations of the Company and its subsidiaries CNP Operating, a Delaware limited liability company, CNP of Wyoming, LLC, a Colorado limited liability company, and Ranco, LLC, a Delaware limited liability company. All intercompany accounts and transactions between the Company and its subsidiaries have been eliminated in consolidation.
+
+ 
+
+These unaudited condensed financial statements reflect all adjustments including normal recurring adjustments, which, in the opinion of management, are necessary to present fairly the financial position, results of operations, and cash flows for the periods presented in accordance with accounting principles generally accepted in the United States of America, or GAAP. These unaudited condensed consolidated financial statements and notes included herein should be read in conjunction with the Company’s consolidated financial statements and notes thereto for the years ended December 31, 2023 and 2022, which are included in the Company’s December 31, 2023 Annual Report on Form 10-K filed with the United States Securities and Exchange Commission on April 11, 2024. The Company assumes that the users of the interim financial information herein have read, or have access to, the audited consolidated financial statements for the preceding period, and that the adequacy of additional disclosure needed for a fair presentation of these may be determined in that context. The results of operations for the period ended March 31, 2024 are not necessarily indicative of results for the entire year ending December 31, 2024.
+
+ 
+
+NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of consolidated financial statements in conformity with GAAP, requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reporting amounts of revenues and expenses during the reported period. Actual results will differ from those estimates. Included in these estimates are assumptions about collection of accounts receivable, useful life of fixed assets and intangible assets, borrowing rate considered for operating lease right-of-use asset and related operating lease liability, and assumptions used in Black-Scholes valuation methods, such as expected volatility, risk-free interest rate, and expected dividend rate.
+
+ 
+
+Segment Reporting
+
+ 
+
+The Company operates under one reporting segment.
+
+ 
+
+Cash and Cash Equivalents
+
+ 
+
+The Company considers all highly liquid temporary cash investments with an original maturity of three months or less when purchased, to be cash equivalents. The Company has restricted cash as a result of its corporate card program through its bank, which requires collateral placed in a money market account. At March 31, 2024, the Company had a restricted cash balance of $20,525 included as a component of total cash and restricted cash as presented on the accompanying unaudited condensed consolidated statement of cash flows.
+
+ 
+
+Accounts Receivable
+
+ 
+
+The Company’s account receivables for the CFN Business are due from customers relating to contracts to provide investor relation services for the CFN Business. For the Ranco Business, accounts receivables are due from customers for products sold and manufacturing, packing and labeling services provided.  Collateral is currently not required. The Company also maintains allowances for doubtful accounts for estimated losses resulting from the inability of the Company’s customers to make payments. The Company periodically reviews these estimated allowances, including an analysis of the customers’ payment history and creditworthiness, the age of the trade receivable balances and current economic conditions that may affect a customer’s ability to make payments as well as historical collection trends for its customers as a whole. Based on this review, the Company specifically reserves for those accounts deemed uncollectible or likely to become uncollectible. When receivables are determined to be uncollectible, principal amounts of such receivables outstanding are deducted from the allowance. The allowance for doubtful accounts as of March 31, 2024 and December 31, 2023 amounted to $1,028,738 and $796,251, respectively.
+
+
+
+6
+
+
+
+ 
+
+Inventory
+
+ 
+
+The Company’s inventory consists of finished goods acquired for its Ranco business.  As of March 31, 2024, all inventory consisted of disposable nicotine-based inhalable vaporizer products purchased from overseas.  The inventory is valued at the lower of cost (specific identification) or estimated net realizable value. As of March 31, 2024, the Company valued the inventory at $1,677,503.
+
+ 
+
+Concentration of Credit Risks
+
+ 
+
+The Company is subject to concentrations of credit risk primarily from cash and cash equivalents and accounts receivable.
+
+ 
+
+The Company’s cash and restricted cash accounts are held at a financial institution and are insured by the Federal Deposit Insurance Corporation, or the FDIC, up to $250,000. From time-to-time, the Company’s bank balances exceed the FDIC insurance limit. To reduce its risk associated with the failure of such financial institutions, the Company periodically evaluates the credit quality of the financial institution in which it holds deposits.
+
+ 
+
+Concentrations
+
+ 
+
+The Company had two customers which accounted for 40% of accounts receivable as of March 31, 2024. During the three months ended March 31, 2024, one customer accounted for 33% of the Company’s revenues. The Company may be negatively affected by the loss of one of these customers.
+
+ 
+
+Revenue Recognition
+
+ 
+
+The Company recognizes revenue in accordance with Accounting Standards Codification, or ASC, 606, the core principle of which is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled to receive in exchange for those goods or services. To achieve this core principle, five basic criteria must be met before revenue can be recognized: (1) identify the contract with a customer; (2) identify the performance obligations in the contract; (3) determine the transaction price; (4) allocate the transaction price to performance obligations in the contract; and (5) recognize revenue when or as the Company satisfies a performance obligation.
+
+ 
+
+The Company accounts for revenues when both parties to the contract have approved the contract, the rights and obligations of the parties are identified, payment terms are identified, and collectability of consideration is probable. Payment terms vary by client and the services offered.
+
+ 
+
+CFN Business
+
+ 
+
+Subsequent to the closing of the Emerging Growth Agreement on June 20, 2019, the Company’s revenue is generated from the sale of promotional service packages to its customers ranging from 3 to 6 months. The Company offers different packages tailored to the type and stage of the potential customer, such as public companies looking to increase their shareholder base, as well as private companies potentially looking to go public and attract capital and publicity. The services provided by the Company include advertising, publishing of interviews and articles across its network and featuring of client content on its newsletters and social media. The packages all have fixed prices that are billed monthly over the terms of the agreement in even amounts. The Company recognizes revenue for its performance obligation associated with its contracts with customers over time as work is performed, which is deemed to occur evenly throughout the duration of the contract. This also reflects the pattern in which costs are incurred on performing the contracts. To the extent revenue recognized on contracts at each period end exceeds collections, the amounts are reflected as accounts receivable. To the extent collections on contracts at each period end exceeds revenue recognized, the amounts are reflected as deferred revenue.
+
+ 
+
+Ranco Business
+
+ 
+
+The Company performs services including white label manufacturing and co-packing for customers.  Customers will drop off their product and the Company will perform the services via their employees and contractors.  When the services are complete, the Company has satisfied its performance obligations.  Revenue is recognized at this point in time.
+
+ 
+
+The Company will order products that are manufactured overseas, such as custom boxes, packaging and hardware.  These products are generally shipped from overseas to the customer.  When these products are shipped out from the manufacturer, the Company has satisfied its performance obligations.  Revenue is recognized at this point in time.
+
+ 
+
+Lastly, the Company provides certain shipping and third party logistics services for customers.  Once the products have arrived from overseas to the Company’s warehouse, the Company has satisfied its performance obligations which was the underlying shipping and logistics services.  Revenue is recognized at this point in time.
+
+
+
+7
+
+
+
+ 
+
+Disaggregation of Revenue
+
+ 
+
+The following is a disaggregation of revenue for the three months ended March 31, 2024 and 2023 respectively:
+
+ 
+
+                                                                                                         Three Months Ended
+
+                                                                                                             March 31,
+
+                                                                                                    2024                 2023
+
+          Services (CFN and Ranco services)                                                  $2,155,903           $112,957 
+
+          Products                                                                           1,501,603            - 
+
+          Shipping and logistics                                                             187,086              - 
+
+                                                                                             $3,844,592           $112,957 
+
+ 
+
+Contract Liabilities
+
+ 
+
+In some instances, customers provide payment before the Company has satisfied its performance obligations.  These amounts are recorded to deferred revenue.  As of March 31, 2024 and December 31, 2023, the Company had $7,206 and $484,212, respectively in deferred revenue.
+
+ 
+
+Cost of Revenue 
+
+ 
+
+Cost of revenue includes direct labor and materials.  Cost of revenues also includes inbound and outbound shipping, freight and delivery costs.
+
+ 
+
+Shipping and Handling Fees and Costs
+
+ 
+
+Amounts billed to customers for shipping and handling fees are presented in revenue. Costs incurred for shipping and handling are included in cost of revenue.
+
+ 
+
+Fair Value of Financial Instruments
+
+ 
+
+The Company accounts for assets and liabilities measured at fair value on a recurring basis in accordance with ASC Topic 820, Fair Value Measurements and Disclosures, or ASC 820. ASC 820 establishes a common definition for fair value to be applied to existing generally accepted accounting principles that require the use of fair value measurements, establishes a framework for measuring fair value, and expands disclosure about such fair value measurements.
+
+ 
+
+ASC 820 defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Additionally, ASC 820 requires the use of valuation techniques that maximize the use of observable inputs and minimize the use of unobservable inputs. These inputs are prioritized below:
+
+ 
+
+          Level 1:    Observable inputs such as quoted market prices in active markets for identical assets or liabilities.
+
+                       
+
+          Level 2:    Observable market-based inputs or unobservable inputs that are corroborated by market data.
+
+                       
+
+          Level 3:    Unobservable inputs for which there is little or no market data, which require the use of the reporting entity’s
+
+                       own
+
+                       assumptions.
+
+ 
+
+The carrying value of cash and cash equivalents, accounts receivable, accounts payable, accrued expenses, deferred revenue and due to related party approximate their fair value due to the short-term maturity of these items. The Company’s notes payable approximate their fair value due to the market rate of interest on the notes.
+
+ 
+
+The Company’s contingent consideration recorded in connection with the Ranco acquisition (see Note 3) is a Level 3 liability.  The liability is valued using a probability weighted analysis of the respective earn out provisions.
+
+ 
+
+Business Combinations
+
+ 
+
+The Company accounts for acquisitions in which it obtains control of one or more businesses as a business combination. The purchase price of the acquired businesses is allocated to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values at the acquisition date. The excess of the purchase price over those fair values is recognized as goodwill. During the measurement period, which may be up to one year from the acquisition date, the Company may record adjustments, in the period in which they are determined, to the assets acquired and liabilities assumed with the corresponding offset to goodwill. If the assets acquired are not a business, the Company accounts for the transaction or other event as an asset acquisition. Under both methods, the Company 
+
+
+
+8
+
+
+
+recognizes the identifiable assets acquired, the liabilities assumed, and any noncontrolling interest in the acquired entity. In addition, for transactions that are business combinations, the Company evaluates the existence of goodwill or a gain from a bargain purchase.
+
+ 
+
+Goodwill represents the excess of the purchase price of an acquired entity over the fair value of identifiable tangible and intangible assets acquired and liabilities assumed in a business combination.
+
+ 
+
+Impairment
+
+ 
+
+Long-Lived Assets
+
+ 
+
+In accordance with ASC 360-10, the Company evaluates long-lived assets for impairment whenever events or changes in circumstances indicate that their net book value may not be recoverable. When such factors and circumstances exist, the Company compares the projected undiscounted future cash flows associated with the related asset or group of assets over their estimated useful lives against their respective carrying amount. Impairment, if any, is based on the excess of the carrying amount over the fair value, based on market value when available, or discounted expected cash flows, of those assets and is recorded in the period in which the determination is made.
+
+ 
+
+Contingent Consideration
+
+ 
+
+The Company records a contingent consideration liability relating to earn the Company’s shares included in its acquisition agreements. The estimated fair value of the contingent consideration is recorded using significant unobservable measures and other fair value inputs and is therefore classified as a Level 3 financial instrument.
+
+ 
+
+The Company estimates and records the acquisition date fair value of contingent consideration as part of purchase price consideration for acquisitions. Additionally, each reporting period, the Company estimates changes in the fair value of contingent consideration and recognizes any change in fair in the consolidated statement of operations. The estimate of the fair value of contingent consideration requires very subjective assumptions to be made of future operating results, discount rates and probabilities assigned to various potential operating result scenarios. Future revisions to these assumptions could materially change the estimate of the fair value of contingent consideration and, therefore, materially affect the Company’s future financial results. The contingent consideration liability is to be settled with the issuance of shares of common stock once contingent provisions set forth in respective acquisition agreements have been achieved. Upon achievement of contingent provisions, respective liabilities are relieved and offset by increases to common stock and additional paid-in capital in the stockholders’ equity section of the Company’s consolidated balance sheets.
+
+ 
+
+Ranco Earnout
+
+ 
+
+The Ranco Agreement contains an earn out provision providing for the issuance of (i) 8 million shares of Company common stock to be issued upon Ranco achieving $19 million in gross revenue attributable to the Purchased Assets and a net profit of $3.9 million within the twelve month period beginning three months from the closing of the Acquisition, or the First Earnout Period, and (ii) 8 million shares of Company common stock to be issued upon Ranco achieving $29 million in gross revenue attributable to the Purchased Assets and a net profit of $5.9 million within the twelve month period beginning on the day immediately following the end of the First Earnout Period.
+
+ 
+
+The Company utilized a probability weighted scenario based on the earnout provisions above and determined the fair value of the contingent consideration was $208,000, which is a Level 3 financial instrument.  There was no change to the fair value for the contingent consideration as of March 31, 2024.
+
+ 
+
+Advertising
+
+ 
+
+The Company expenses advertising costs as incurred. Advertising expenses for the three months ended March 31, 2024 and 2023 amounted to $19,326 and $12,614, respectively. 
+
+ 
+
+Property and Equipment
+
+ 
+
+Property and equipment are recorded at cost and are depreciated on a straight-line basis over their estimated useful lives of five years. Maintenance and repairs are charged to expense as incurred. Significant renewals and betterments are capitalized.
+
+ 
+
+Basic and Diluted Earnings Per Share
+
+ 
+
+Basic earnings per share are calculated by dividing income available to stockholders by the weighted-average number of common shares outstanding during each period. Diluted earnings per share are computed using the weighted average number of common and dilutive common share equivalents outstanding during the period. Dilutive common share equivalents consist of shares issuable upon the exercise of stock options and warrants (calculated using the modified-treasury stock method). As of March 31, 2024, the Company had no
+
+
+
+9
+
+
+
+outstanding stock options, 11,988,500 outstanding warrants and 3,500 shares of preferred stock which were excluded from the calculation of diluted earnings per share because their effects were anti-dilutive. As of March 31, 2023, the Company had no outstanding stock options, 988,500 outstanding warrants and 3,500 shares of preferred stock which were excluded from the calculation of diluted earnings per share because their effects were anti-dilutive. As a result, the basic and diluted earnings per share are the same for each of the periods presented.
+
+ 
+
+Share-Based Payments
+
+ 
+
+The Company accounts for stock-based compensation in accordance with ASC Topic 718, Compensation-Stock Compensation, or ASC 718. Under the fair value recognition provisions of this topic, stock-based compensation cost is measured at the grant date based on the fair value of the award and is recognized as an expense on a straight-line basis over the requisite service period, which is the vesting period.
+
+ 
+
+The Company has elected to use the Black-Scholes option-pricing model to estimate the fair value of its options, which incorporates various subjective assumptions including volatility, risk-free interest rate, expected life, and dividend yield to calculate the fair value of stock option awards. Compensation expense recognized in the statements of operations is based on awards ultimately expected to vest and reflects estimated forfeitures. ASC 718 requires forfeitures to be estimated at the time of grant and revised, if necessary, in subsequent periods if actual forfeitures differ from those estimates.
+
+ 
+
+Leases
+
+ 
+
+The Company adopted Accounting Standards Update No. 2016-02, Leases (“Topic 842”) using the modified retrospective method. This accounting standard requires a lessee to recognize an asset and liability for most leases on its balance sheet.
+
+ 
+
+Under Topic 842, the Company determines if an arrangement is a lease at inception. ROU assets and lease liabilities are recognized at commencement date based on the present value of remaining lease payments over the lease term. For this purpose, the Company considers only payments that are fixed and determinable at the time of commencement and leases with an initial term of 12 months or less are not included in lease liabilities or ROU asset. As most leases do not provide an implicit rate, a rate which approximates the Company’s incremental borrowing rate is used, based on the information available at commencement date, in determining the present value of lease payments. The ROU asset also includes any lease payments made prior to commencement and is recorded net of any lease incentives received. Lease terms may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise such options. Lease agreements may contain variable costs such as common area maintenance, insurance, real estate taxes or other costs. Variable lease costs are expensed as incurred. Lease agreements generally do not contain residual value guarantees or restrictive covenants. Over the lease term, the Company uses the effective interest rate method to account for the lease liability as lease payments are made and the ROU asset is amortized in a manner that results in straight-line expense recognition.
+
+ 
+
+NOTE 3: BUSINESS COMBINATIONS
+
+ 
+
+RAN CoPacking Solutions LLC
+
+ 
+
+The Company evaluated the Asset Purchase Agreement pursuant to ASC 805 and ASU 2017-01, Topic 805, Business Combinations.  The Company first determined that the Seller met the definition of a business as it includes inputs and a substantive process that together significantly contribute to the ability to create outputs.  The Seller’s  results of operations are included in the Company’s consolidated financial statements from the date of acquisition.The acquisition method of accounting requires, among other things, that the assets acquired and liabilities assumed in a business combination be measured at their estimated respective fair values as of the closing date of the acquisition. Goodwill recognized in connection with this transaction represents primarily the potential economic benefits that the Company believes may arise from the acquisition The purchase price allocation is preliminary and could be significantly revised as a result of additional information obtained regarding assets acquired and liabilities assumed and revisions of estimates of fair values of tangible assets and related deferred tax assets and liabilities. The Company will finalize its valuation and the allocation of the purchase price, along with required retrospective adjustments, if any, within a year following the acquisition date.
+
+Total fair value of the preliminary purchase price consideration as of July 1, 2023 was determined as follows:
+
+ 
+
+          Cash (due to seller)                                                                     $1,000,000 
+
+          Common stock                                                                             8,000,000 
+
+          Contingent consideration                                                                 208,000 
+
+          Purchase price consideration                                                             $9,208,000 
+
+ 
+
+On July 1, 2023, the Company issued 40,000,000 shares of common stock pursuant to the Asset Purchase Agreement for a fair value of $8,000,000, or $0.20 per share.
+
+
+
+10
+
+
+
+ 
+
+Pursuant to the Asset Purchase Agreement, the Company owes the Seller $1,000,000 in cash consideration.  The amount was recorded as a due to seller liability on the consolidated balance sheet.  As of March 31, 2024, no payments were made.
+
+ 
+
+In accordance with the Earn Out provisions per the Asset Purchase Agreement, the Company determined an initial fair value of $208,000 based on the fair value of the shares at the acquisition date and probabilities of the respective Earn Out terms.  There was no change in fair value of the contingent consideration at March 31, 2024.
+
+ 
+
+Preliminary Purchase Price Allocation
+
+ 
+
+The Company has made a preliminary allocation of the purchase price in regard to the acquisition related to the assets acquired and the liabilities assumed as of the purchase date. The following table summarizes the preliminary purchase price allocation:
+
+ 
+
+          Cash                                                                                      $134,060  
+
+          Accounts receivable                                                                       175,340  
+
+          Deposits                                                                                  297,269  
+
+          Goodwill                                                                                  8,676,430  
+
+          Right of use asset                                                                        2,272,059  
+
+          Accounts payable                                                                          (48,430) 
+
+          Current portion of right of use liability                                                 (538,243) 
+
+          Right of use of liability                                                                 (1,760,485) 
+
+          Purchase price consideration                                                              $9,208,000  
+
+ 
+
+Goodwill is primarily attributable to the go-to-market synergies that are expected to arise as a result of the acquisition and other intangible assets that do not qualify for separate recognition. The goodwill is not deductible for tax purposes.
+
+ 
+
+Unaudited Pro Forma Financial Information
+
+ 
+
+The following unaudited pro forma financial information presents the Company’s financial results as if the RAN CoPacking Solutions LLC acquisition had occurred as of January 1, 2023. The unaudited pro forma financial information is not necessarily indicative of what the financial results actually would have been had the acquisitions been completed on this date. In addition, the unaudited pro forma financial information is not indicative of, nor does it purport to project, the Company’s future financial results. The unaudited pro forma information does not give effect to any estimated and potential cost savings or other operating efficiencies that could result from the acquisition:
+
+ 
+
+                                                                                                                           Three Months
+
+                                                                                                                               Ended
+
+                                                                                                                            March 31, 
+
+                                                                                                                               2023
+
+          Net revenues                                                                                               $1,184,347  
+
+          Net loss                                                                                                   $(479,126) 
+
+          Net loss per common share                                                                                  $(0.01) 
+
+ 
+
+NOTE 4: PROPERTY AND EQUIPMENT
+
+ 
+
+The Company’s property and equipment relating to continuing operations consisted of the following:
+
+          .                                                                                       March 31,         December 31,
+
+                                                                                                     2024                 2023
+
+          Machinery & equipment                                                               $50,000               $50,000  
+
+          Furniture and equipment and leasehold improvements                                  14,773                14,773  
+
+          Tradeshow booth                                                                     168,909               162,200  
+
+                                                                                              233,682               226,973  
+
+          Less: Accumulated depreciation                                                      (79,062)              (70,630) 
+
+                                                                                              $154,620              $156,343  
+
+ 
+
+Depreciation expense for the three months ended March 31, 2024 and 2023 amounted to $8,432 and $2,832, respectively.
+
+ 
+
+NOTE 5: NOTES PAYABLE
+
+ 
+
+On September 10, 2019, the Company entered into a promissory note payable whereby the Company borrowed $500,000 bearing interest at 8% per annum. Interest on the note is payable quarterly on the first business day of December, March, June and September commencing December 1, 2019. In May 2021, the Company and the holder of the promissory note reached an agreement to extend the 
+
+
+
+11
+
+
+
+maturity date of the note from September 30, 2022 to September 30, 2024. In connection with the extension, the Company issued 160,000 shares of its common stock to the noteholder in lieu of $40,000 of interest accrued and accruing on the promissory note through December 31, 2022. In 2022, the maturity date was extended to 2024.
+
+ 
+
+In connection with the promissory note on September 10, 2019, the Company issued warrants to purchase 33,333 shares of the Company’s common stock at an exercise price of $1.50 per share. The warrants were exercised on June 30, 2021 and the Company received $50,000. The note was discounted by $17,624 allocated from the valuation of the warrants issued. The discount recorded on the note is being amortized as interest expense through the maturity date. As of March 31, 2024, the net book value of the promissory note amounted to $500,000, including the principal amount of $50,000 which was fully amortized.
+
+ 
+
+On October 28, 2019, the Company’s subsidiary CNP Operating entered into a promissory note payable with Complete Business Solutions Group, Inc (“CBSG”) whereby the Company borrowed $3,050,000. The outstanding balance of the note was $2,218,000 at December 31, 2022.  At December 31, 2022, the Company reversed $1,312,080 previously recorded to additional paid-in capital in 2022 to reflect the outstanding principal of $2,218,000. The note is currently in default and personally guaranteed by Anthony Zingarelli.
+
+ 
+
+On September 30, 2019, the Company’s subsidiary CNP Operating entered into a promissory note payable with Eagle Six Consultants, Inc. (“Eagle”) whereby the Company borrowed $550,000 bearing interest at 16% per annum. The outstanding balance of the note was $302,489 at September 30, 2023. The note is currently in default.
+
+ 
+
+On June 24, 2020, the Company entered into a Loan Authorization and Agreement with the SBA under which the Company borrowed $150,000 and issued to the SBA a note and security agreement for the amount borrowed. Outstanding borrowings accrue interest at a rate of 3.75% per annum, and installment payments, including principal and interest, of $731 are due monthly and begin 12 months from the date of the loan agreement. The balance of any remaining principal and interest is due 30 years from the date of the loan agreement. As collateral for the borrowing, the Company granted the SBA a security interest in substantially all assets of the Company.
+
+ 
+
+On May 12, 2021, the Company’s subsidiary CNP Operating restructured the CSBG note payable of $2,957,000, the Eagle #1 note payable of $550,000 and the Eagle #2 note payable of $300,000 by entering into a payment and indemnification agreement with the receivers/trustee of CBSG and Eagle. The receiver has agreed that the balance of the outstanding amounts will be paid over the course of 24 months in equal payments of $158,625. Further, the Company shall pay $20,000 per month toward the balance and Anthony Zingarelli (“Zingarelli”) and Colorado Sky Industrial Supply LLC (“CSIS”), agree to personally pay the sum of $138,625 per month. Zingarelli is the only member of CNP Operating that signed a personal guarantee on the loans and Zingarelli is the sole member of CSIS. Zingarelli and CSIS has agreed to indemnify and hold the Company harmless from any and all losses, liabilities and claims. If a loss is incurred by the Company with respect to any claims, Zingarelli shall reimburse the Company for the amount of any such loss. The Company has recorded the Zingarelli payments during the period as contributions to additional paid in capital through December 31, 2021.  This note is currently in default.
+
+ 
+
+On November 19, 2020, the Company’s subsidiary CNP Operating purchased equipment for $58,095 which was financed at zero interest rate. The monthly payments of $968 will be made for the next 60 months and mature on November 19, 2025. Imputed interest was not material. The outstanding balance of the note was $34,892 at December 31, 2022. In 2022, CNP purchased equipment for $55,016 which was financed at zero interest rate with the same lender with similar terms.  The outstanding balance of the note was $48,513 at March 31, 2024.
+
+ 
+
+On October 19, 2021, the Company borrowed $250,000 from a lender and issued a promissory note for the repayment of the amount borrowed. The promissory note is unsecured, has a maturity date of December 31, 2024 and all principal is due upon maturity. The amount borrowed accrues interest at 12% per annum and accrued interest is payable monthly commencing on December 1, 2021. The promissory note contains customary events of default permitting acceleration of repayment for nonpayment of amounts due, a bankruptcy related proceeding, breach of representations or covenants, sale of substantially all assets, and change of control.
+
+ 
+
+On May 8, 2023, the Company entered into a promissory note with two lenders for aggregate proceeds of $1,150,000.  The notes are unsecured and have a maturity date 15 months following their issuance.  Beginning on the fourth month after issuance, the Company will make monthly repayments totaling $143,750, including principal and interest.  Total principal and interest to be repaid is $1,725,000, and any remaining outstanding balance is due at maturity. In connection with the notes, the Company granted an aggregate of 1,150,000 warrants to the lenders with an exercise price of $0.25 per share. The fair value of the warrants was $185,788, which was recognized as a debt discount and will be amortized to interest expense over the life of the notes. During the three months ended March 31, 2024, amortization of debt discount was $37,158. As of March 31, 2024, note payable, net of unamortized discount of $57,966, was $699,534 for these two notes.
+
+ 
+
+On July 1, 2023, the Company entered into a promissory note with two lenders for aggregate proceeds of $3,850,000.  The notes are unsecured and have a maturity date 15 months following their issuance. In connection with the notes, the Company granted an aggregate of 3,850,000 warrants to the lenders with an exercise price of $0.25 per share. The fair value of the warrants was $626,073, which was recognized as a debt discount and will be amortized to interest expense over the life of the notes. During the three months ended March 
+
+
+
+12
+
+
+
+31, 2024, amortization of debt discount was $125,215. As of March 31, 2024, note payable, net of unamortized discount of $250,429, was $3,150,404 for these two notes.
+
+ 
+
+On July 1, 2023, the May and July notes were rolled over to Ranco, LLC for an aggregate of $5,000,000 (the “Ranco Notes”).  The Ranco Notes have a 15 month term and are subject to mandatory equal repayments commencing on the fourth month following issuance, for an aggregate repayment of $7,500,000. The Ranco Notes are secured by the assets of Ranco and guaranteed by the Company.
+
+ 
+
+Future scheduled maturities of long-term debt are as follows:
+
+ 
+
+                                                                                                    March, 31 2024 
+
+          2024                                                                                    7,241,286 
+
+          2025                                                                                    8,772 
+
+          2026                                                                                    8,772 
+
+          2027                                                                                    8,772 
+
+          Thereafter                                                                              102,127 
+
+                                                                                                  7,369,729 
+
+ 
+
+The aggregate current portion of long-term debt as of March 31, 2024 amounted is $7,241,286, which represents the contractual principal payments due in the next 12 months period as well as any notes in default.
+
+ 
+
+NOTE 6: STOCKHOLDERS’ DEFICIT
+
+ 
+
+Common Stock
+
+ 
+
+In January 2023, the Company issued 2,400,000 shares of common stock at a purchase price of $0.25 per share for $600,000 in gross proceeds. 
+
+ 
+
+Preferred Stock
+
+ 
+
+The Company is authorized to issue 2,000,000 shares of preferred stock with a par value of $0.001 per share, of which 500 have been authorized as Series A Preferred Stock and 3,000 have been authorized as Series B Preferred Stock.
+
+ 
+
+For the three months ending March 31, 2024 and 2023, the Company incurred $60,000 and $60,000, respectively, of interest from the outstanding preferred stock. 
+
+ 
+
+Warrants
+
+ 
+
+The following summarizes the Company’s warrant activity for the three months ended March 31, 2024:
+
+ 
+
+                                                                                                                            Weighted-Average
+
+                                                                                                                               Remaining
+
+                                                                                                Weighted-Average            Contractual Life
+
+                                                                           Warrants              Exercise Price                 (Years)
+
+          Outstanding at December 31, 2023                                    11,988,500     $0.41                      4.18 
+
+          Granted                                                                      -     -                          - 
+
+          Forfeited                                                                    -     -                          - 
+
+          Outstanding at March 31, 2024                                       11,988,500     $0.41                      3.93 
+
+                                                                                                                         
+
+                                                                                                                         
+
+          Vested and expected to vest at March 31, 2024                       11,988,500     $0.41                      3.93 
+
+          Exercisable at March 31, 2024                                       11,988,500     $0.41                      3.93 
+
+ 
+
+As of March 31, 2024, all outstanding warrants were fully vested and there was no remaining unrecorded compensation expense.
+
+ 
+
+
+
+13
+
+
+
+ 
+
+Options
+
+The Company had a Stock Option Plan, or the Plan, under which the total number of shares of capital stock of the Company that may be subject to options under the Plan was 1,500,000 shares of Common Stock from either authorized but unissued shares or treasury shares. The Plan expired on December 14, 2016.
+
+ 
+
+As of March 31, 2024, there were no outstanding options.
+
+ 
+
+NOTE 7: LEASES
+
+On April 1, 2023, Emerging Growth LLC entered into a modification of the existing lease agreement for its premises in Whitefish, Montana commencing April 11, 2023, for a period of five years at a rate of $3,750 per month, which lease contains an option for the Company to renew the lease for a period of one additional year at a monthly rent subject to a 3% increase.  In connection with this lease, the Company recorded a ROU asset and liability of $187,863.
+
+ 
+
+In connection with the Ranco acquisition, the Company agreed to assume the Seller’s lease for property related to the Purchased Assets in Los Angeles, California, consisting of approximately 46,000 square feet of space.  The Ranco operating lease agreement commenced on July 1, 2022 and expires on July 31, 2027.  The lease requires monthly base rent payments of $49,782 and required a security deposit of $297,269.  Upon the Ranco acquisition, the Company recognized a right of use asset of $2,270,059 and right of use liability of $1,760,485.  Furthermore, the Company acquired the existing security deposit of $297,269.  In 2023, the Company recognized a right of use asset of $1,993,847 and right of use liability of $2,031,541.
+
+ 
+
+The following is a summary of related liabilities for all non-cancelable operating leases:
+
+ 
+
+                                                                                                   March 31,             December 31,
+
+                                                                                                     2024                    2023
+
+          Operating leases                                                                                            
+
+          Assets                                                                                                      
+
+          Right of use asset                                                                  $2,012,033             $2,159,043   
+
+                                                                                                                      
+
+          Liabilities                                                                                                 
+
+          Current portion of right of use liability                                           $608,661               $822,259   
+
+          Right of use liability                                                              1,569,606              1,547,410   
+
+          Total operating lease liabilities                                                   $2,178,267             $2,369,669   
+
+                                                                                                                      
+
+          Weighted average remaining lease term (years)                                       2.81                   3.06   
+
+          Weighted average discount rate                                                      10.00%                 10.00% 
+
+ 
+
+NOTE 8: RELATED PARTY TRANSACTIONS
+
+ 
+
+As of March 31, 2024 and December 31, 2023, there was $501,140 and $501,140, respectively, in amounts due to related parties, including $428,700 due to CSIS. The advances are unsecured, non-interest bearing and due on demand.
+
+ 
+
+During the three months ended March 31, 2024, the executives of Ranco paid payroll to certain employees totalling $71,000.  The payroll was for Ranco employees, and as such, the Company recorded the expense accordingly.  The amounts were paid by the executives themselves and were recognized as contributed capital into the Company.  The amounts are not liable by the Company (Ranco LLC and CFN Enterprises, Inc.) for repayment.
+
+ 
+
+NOTE 9: COMMITMENTS AND CONTINGENCIES
+
+ 
+
+Legal Proceedings
+
+ 
+
+From time to time, the Company may become involved in legal proceedings arising in the ordinary course of business. Except as set forth below, the Company is not presently a party to any legal proceedings that it currently believes, if determined adversely to the Company, would individually or taken together have a material adverse effect on the Company’s business, operating results, financial condition or cash flows.
+
+ 
+
+In October 2022, CAKE Software Inc., or CAKE, filed a lawsuit against the Company in the Supreme Court of the State of New York, County of New York, captioned CAKE Software, Inc. v. Accelerize Inc. n/k/a CFN Enterprises Inc., Index No. 653838/2022. On December 6, 2022, CAKE filed an amended complaint, which is the operative complaint in this matter. CAKE's lawsuit stems from an Asset Purchase Agreement, or the APA, executed by the parties in May 2019, in which CAKE was the buyer of certain assets from the Company. CAKE alleges that the Company breached the APA by not paying a purported outstanding amount due which was to be 
+
+
+
+14
+
+
+
+calculated post-closing, and for breaching certain representations and warranties in the APA. CAKE further seeks indemnification under the APA for what it alleges are liabilities the Company retained after the closing of the sale. Based on its claims, CAKE is seeking compensatory damages of at least $1,045,441.86, attorney's fees, interests and costs, and such other relief as the court may deem just and appropriate. 
+
+ 
+
+In January 2023, the Company filed its initial Answer and Counterclaims, denying the material allegations and asserting its own claims against CAKE and Perseus Operating Group, or Perseus, a division of Constellation Software Inc. (TSX:CSU, OTCPK: CNSWF; www.csisoftware.com), or Constellation Software.  On July 19, 2023, the parties held a mediation but were unsuccessful in reaching an agreement.  
+
+ 
+
+On September 25, 2023, after prevailing on a motion for leave to amend its initial Answer with Counterclaims, the Company filed its Amended Answer with Counterclaims against CAKE and Constellation Software itself, instead of its operating group, Perseus. The Amended Answer with Counterclaims is the Company’s operative pleading in this matter, and through it, the Company asserts that CAKE breached the APA by failing to pay the Company an earn-out, calculated in accordance with the APA, over a three-year period and totaling no less than $12,375,000, and that CAKE failed to pay the Company a $500,000 holdback amount. The Company further alleges that Constellation Software is the alter ego of CAKE, and therefore, is also liable under the APA. Through its amended counterclaims, the Company seeks compensatory damages of no less than $12,875,000, encompassing the earn-out amounts owed and the holdback amount, plus attorneys' fees, interests and costs, and other such relief as the court may deem just and proper. 
+
+ 
+
+On November 3, 2023, CAKE and Constellation Software filed replies to the Company’s amended counterclaims.  Currently, the parties are engaged in the discovery process. A status conference with the Court regarding discovery is being scheduled for the second quarter of 2024. The Company expects to vigorously defend against CAKE and Constellation Software’s claims, and to pursue its own counterclaims against CAKE, Constellation Software, and any other persons that it may identify through discovery to have harmed the Company or to have taken any action to interfere with the Company’s ability to receive its earn-out and/or the holdback amount.
+
+ 
+
+The Company has determined that potential losses in this matter are neither probable or reasonably possible at this time.
+
+ 
+
+NOTE 10: SUBSEQUENT EVENTS
+
+ 
+
+Management has evaluated subsequent events through May 15, 2024, the date the consolidated financial statements were available to be issued. Based on this evaluation, no additional material events were identified which require adjustment or disclosure in these financial statements.
+
+
+
+15
+
+
+
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+ 
+
+The following discussion of our financial condition and results of operations should be read in conjunction with the financial statements and related notes included elsewhere in this report and our Annual Report on Form 10-K for the year ended December 31, 2023. Certain statements in this discussion and elsewhere in this report constitute forward-looking statements. See “Cautionary Statement Regarding Forward Looking Information’’ elsewhere in this report. Because this discussion involves risk and uncertainties, our actual results may differ materially from those anticipated in these forward-looking statements.
+
+ 
+
+Overview
+
+ 
+
+We own and operate a cannabis industry focused sponsored content and marketing business, or the CFN Business, and a white label manufacturing and co-packing business, or the Ranco Business. Our ongoing operations currently consist primarily of the CFN Business and the Ranco Business and we will continue to pursue strategic transactions and opportunities. We are currently in the process of launching an e-commerce network focused on the sale of general wellness CBD products. We also own CNP Operating which is a cannabidiol manufacturer. In the fourth quarter of 2022 and the first quarter of 2023, the Company took steps to wind down the operations of CNP Operating and focus on the CFN Business and the Ranco Business.
+
+ 
+
+On July 1, 2023, the Company, through its wholly owned subsidiary, RANCO, LLC, a Delaware limited liability company, or  Ranco, acquired assets from RAN CoPacking Solutions LLC, a California limited liability company, or the Acquisition which consists of assets for co-packing and white label manufacturing services, including comprehensive solutions for third party logistics (3PL) related areas such as storage, order fulfillment, solutions for custom packaging and hardware needs for many different industries, and media and design services, along with strategic marketing support, to help clients establish and enhance their brand presence in the market. Also on July 1, 2023, Ranco entered into the Packwoods Private Label Services and Intellectual Property Licensing Agreement, or the Licensing Agreement, with PW Industries LLC, a Wyoming limited liability company, or PW, RS Distributions LLC, a Delaware limited liability company, or RS, and Packaging Innovations LLC, a Wyoming limited liability company, or PI, and together with PW and RS, the Licensors, for the exclusive manufacturing, packaging and distribution of, and wholesale and retail sales of a variety hemp-based inhalable (pre-roll and vaporizer), edible products, and disposable nicotine-based inhalable vaporizer products, and the purchase of packaging materials to be used with Packwoods-branded cannabis products (containing more than 0.3% delta-9 THC by weight) and the distribution of those packaging materials to licensed cannabis manufacturers designated by PW, using the Licensor’s licensed property for a 5 year exclusive term, subject to certain exclusions.
+
+ 
+
+The CFN Business generates revenue through sponsored content, including articles, press releases, videos, podcasts, advertisements and other media, email advertisements and other marketing campaigns run on behalf of public and private companies in the cannabis industry, helping them reach accredited, retail and institutional investors. Most revenue is generated through contracts involving a monthly cash payment.
+
+ 
+
+Ranco performs services including white label manufacturing and co-packing for customers.  Customers will drop off their product and the Company will perform the services via their employees and contractors.  Ranco will also order products that are manufactured overseas, such as custom boxes, packaging and hardware.  These products are generally shipped from overseas to the customer.  Lastly, Ranco provides certain shipping and third party logistics services for customers.
+
+
+
+16
+
+
+
+ 
+
+Results of Operations for the Three Months Ended March 31, 2024 and 2023 
+
+ 
+
+The following are the results of our operations for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023:
+
+ 
+
+                                                                                        Three Months Ended                   
+
+                                                                                             March 31,                       
+
+                                                                                    2024                 2023                    Change
+
+                                                                                                                            
+
+          Net revenues                                                           $3,844,592           $112,957                  $3,731,635  
+
+          Cost of revenue                                                        2,151,835            176,191                   1,975,644  
+
+                Gross profit (loss)                                            1,692,757            (63,234)                  1,755,991  
+
+                                                                                                                            
+
+          Operating expenses:                                                                                                    
+
+             Selling, general and administrative                                1,619,794            422,013                   1,197,781  
+
+                Total operating expenses                                       1,619,794            422,013                   1,197,781  
+
+                                                                                                                            
+
+          Income (Loss) from operations                                          72,963               (485,247)                 558,210  
+
+                                                                                                                            
+
+          Other income (expense):                                                                                                
+
+             Interest expense                                                   (720,611)            (66,051)                  (654,560) 
+
+             Interest income                                                    77                   76                        1  
+
+                Total other income (expense), net                              (720,534)            (65,975)                  (654,559) 
+
+                                                                                                                            
+
+          Provision for income taxes                                             -                    -                         -  
+
+          Net loss                                                             $(647,571)           $(551,222)                $(96,349) 
+
+ 
+
+Net Revenues
+
+ 
+
+The Company’s revenues from the CFN Business are generated from the sale of promotional service packages to customers ranging from 3 to 6 months. The Company offers different packages tailored to the type and stage of the potential customer, such as public companies looking to increase their shareholder base, as well as private companies potentially looking to go public and attract capital and publicity.  Ranco performs services including white label manufacturing and co-packing for customers.  Customers will drop off their product and the Company will perform the services via their employees and contractors.  When the services are complete, the Company has satisfied its performance obligations.  Revenue is recognized at this point in time.  Ranco will order products that are manufactured overseas, such as custom boxes, packaging and hardware.  These products are generally shipped from overseas to the customer.  When these products are shipped out from the manufacturer, the Company has satisfied its performance obligations.  Revenue is recognized at this point in time. Lastly, Ranco provides certain shipping and third party logistics services for customers.  When the services are complete, the Company has satisfied its performance obligations.  Revenue is recognized at this point in time.
+
+ 
+
+Revenues increased by $3,731,635 to $3,844,592 for the three months ended March 31, 2024, compared to $112,957 in the corresponding fiscal period in 2023. The increase was primarily due to the acquisition of Ranco in July 2023. 
+
+ 
+
+During the three months ended March 31, 2024, the Company realized $38,500 of campaign revenue compared to $84,711 in 2023. The decrease was primarily due to a shift in efforts during the period to the Ranco Business.
+
+ 
+
+Our revenue for the period March 31, 2024 and 2023 also included $5,575 and $22,246, respectively, relating to sales of product from our e-commerce network focused on the sale of general wellness CBD products.
+
+ 
+
+During the three months ended March 31, 2024, CNP Operating was no longer operating nor generating revenue.
+
+ 
+
+During the three months ended March 31, 2024, the Company’s Ranco subsidiary generated revenue of $3.7 million.
+
+ 
+
+Cost of Revenue
+
+ 
+
+The costs of revenue for the CFN Business consist primarily of labor, fees paid for production of content for clients and the costs of placement of the content on various platforms. Cost of revenue also includes products sold, shipping costs and direct labor  in the Ranco Business.
+
+ 
+
+Cost of revenue increased by $1,975,644 to $2,151,835 for the three months ended March 31, 2024, compared to $176,191 in the corresponding fiscal period in 2023. The increase was primarily due to the Ranco business acquired in July 2023.
+
+
+
+17
+
+
+
+Operating Expenses
+
+ 
+
+The Company’s operating expenses for the three months ended March 31, 2024 were higher than those in the corresponding period in 2023 due to the acquisition of Ranco in July 2023, including higher payroll, professional fees and travel. 
+
+ 
+
+Other Income/Expense
+
+ 
+
+Other income/expenses during the three months ended March 31, 2024 were due to interest expense related to notes payable, which incudes amortization of debt discount on Ranco’s notes.
+
+ 
+
+Liquidity, Capital Resources and Going Concern
+
+As of March 31, 2024, we had $153,044 in unrestricted cash and $7,369,729 in notes payable.
+
+ 
+
+The Company had a working capital deficit of $14,842,360 and an accumulated deficit of $75,130,432 as of March 31, 2024. The Company also had a net loss of $647,571 for the three months ended March 31, 2024.
+
+   
+
+Management’s plan to continue as a going concern includes raising capital in the form of debt or equity, growing the CFN Business, growing its existing business acquired under the Ranco Agreement, managing and reducing operating and overhead costs and continuing to pursue strategic transactions and opportunities including launching an e-commerce network focused on the sale of general wellness CBD products.
+
+ 
+
+These matters, among others, raise substantial doubt about the ability of the Company to continue as a going concern. These financial statements do not include any adjustments to the amounts and classification of assets and liabilities that may be necessary should the Company be unable to continue as a going concern.
+
+ 
+
+Cash Flows
+
+ 
+
+The following is a summary of our cash flows from operating, investing and financing activities for the three months ended March 31, 2024:
+
+ 
+
+                                                                                                                Three Months Ended
+
+                                                                                                                    March 31,
+
+                                                                                                          2023                    2022
+
+          Net cash provided by (used) in operating activities                                         $203,529                $(586,281) 
+
+          Net cash used in investing activities                                                       $(6,709)                $-  
+
+          Net cash (used in) provided by financing activities                                         $(122,443)              $592,518  
+
+ 
+
+Net cash provided by operating activities was $203,529 during the three months ended March 31, 2024, compared to cash used in operating activities of $(586,281) during the same period in 2023. The increase in cash provided by operating activities was primarily due to increase of accounts payable and accrued expenses.
+
+ 
+
+Net cash used in investing activities during the three months ended March 31, 2024 consisted of the sale and purchase of property and equipment.
+
+ 
+
+Net cash used in financing activities during the three months ended March 31, 2024 was $122,443, including the repayment of notes of $193,443, offset by capital contribution of $71,000. Net cash provided by financing activities during the three months ended March 31, 2023 was $592,518, including proceeds from common stock for $600,000 less related party repayments of $3,619 and note repayments of $3,863.
+
+ 
+
+Description of Indebtedness
+
+ 
+
+On September 10, 2019, the Company entered into a promissory note payable whereby the Company borrowed $500,000 bearing interest at 8% per annum. Interest on the note is payable quarterly on the first business day of December, March, June and September commencing December 1, 2019. In May 2021, the Company and the holder of the promissory note reached an agreement to extend the maturity date of the note from September 30, 2022 to September 30, 2024. In connection with the extension, the Company issued 160,000 shares of its common stock to the noteholder in lieu of $40,000 of interest accrued and accruing on the promissory note through December 31, 2022. In 2022, the maturity date was extended to 2024.
+
+ 
+
+In connection with the promissory note on September 10, 2019, the Company issued warrants to purchase 33,333 shares of the Company’s common stock at an exercise price of $1.50 per share. The warrants were exercised on June 30, 2021 and the Company received $50,000. The note was discounted by $17,624 allocated from the valuation of the warrants issued. The discount recorded on 
+
+
+
+18
+
+
+
+the note is being amortized as interest expense through the maturity date. As of March 31, 2024, the net book value of the promissory note amounted to $500,000, including the principal amount of $50,000 which was fully amortized.
+
+ 
+
+On October 28, 2019, the Company’s subsidiary CNP Operating entered into a promissory note payable with Complete Business Solutions Group, Inc (“CBSG”) whereby the Company borrowed $3,050,000. The outstanding balance of the note was $2,218,000 at December 31, 2022.  At December 31, 2022, the Company reversed $1,312,080 previously recorded to additional paid-in capital in 2022 to reflect the outstanding principal of $2,218,000. The note is currently in default and personally guaranteed by Anthony Zingarelli.
+
+ 
+
+On September 30, 2019, the Company’s subsidiary CNP Operating entered into a promissory note payable with Eagle Six Consultants, Inc. (“Eagle”) whereby the Company borrowed $550,000 bearing interest at 16% per annum. The outstanding balance of the note was $302,489 at September 30, 2023. The note is currently in default.
+
+ 
+
+On June 24, 2020, the Company entered into a Loan Authorization and Agreement with the SBA under which the Company borrowed $150,000 and issued to the SBA a note and security agreement for the amount borrowed. Outstanding borrowings accrue interest at a rate of 3.75% per annum, and installment payments, including principal and interest, of $731 are due monthly and begin 12 months from the date of the loan agreement. The balance of any remaining principal and interest is due 30 years from the date of the loan agreement. As collateral for the borrowing, the Company granted the SBA a security interest in substantially all assets of the Company.
+
+ 
+
+On May 12, 2021, the Company’s subsidiary CNP Operating restructured the CSBG note payable of $2,957,000, the Eagle #1 note payable of $550,000 and the Eagle #2 note payable of $300,000 by entering into a payment and indemnification agreement with the receivers/trustee of CBSG and Eagle. The receiver has agreed that the balance of the outstanding amounts will be paid over the course of 24 months in equal payments of $158,625. Further, the Company shall pay $20,000 per month toward the balance and Anthony Zingarelli (“Zingarelli”) and Colorado Sky Industrial Supply LLC (“CSIS”), agree to personally pay the sum of $138,625 per month. Zingarelli is the only member of CNP Operating that signed a personal guarantee on the loans and Zingarelli is the sole member of CSIS. Zingarelli and CSIS has agreed to indemnify and hold the Company harmless from any and all losses, liabilities and claims. If a loss is incurred by the Company with respect to any claims, Zingarelli shall reimburse the Company for the amount of any such loss. The Company has recorded the Zingarelli payments during the period as contributions to additional paid in capital through December 31, 2021.  This note is currently in default.
+
+ 
+
+On November 19, 2020, the Company’s subsidiary CNP Operating purchased equipment for $58,095 which was financed at zero interest rate. The monthly payments of $968 will be made for the next 60 months and mature on November 19, 2025. Imputed interest was not material. The outstanding balance of the note was $34,892 at December 31, 2022. In 2022, CNP purchased equipment for $55,016 which was financed at zero interest rate with the same lender with similar terms.  The outstanding balance of the note was $48,513 at March 31, 2024.
+
+ 
+
+On October 19, 2021, the Company borrowed $250,000 from a lender and issued a promissory note for the repayment of the amount borrowed. The promissory note is unsecured, has a maturity date of December 31, 2024 and all principal is due upon maturity. The amount borrowed accrues interest at 12% per annum and accrued interest is payable monthly commencing on December 1, 2021. The promissory note contains customary events of default permitting acceleration of repayment for nonpayment of amounts due, a bankruptcy related proceeding, breach of representations or covenants, sale of substantially all assets, and change of control.
+
+ 
+
+On May 8, 2023, the Company entered into a promissory note with two lenders for aggregate proceeds of $1,150,000.  The notes are unsecured and have a maturity date 15 months following their issuance.  Beginning on the fourth month after issuance, the Company will make monthly repayments totaling $143,750, including principal and interest.  Total principal and interest to be repaid is $1,725,000, and any remaining outstanding balance is due at maturity. In connection with the notes, the Company granted an aggregate of 1,150,000 warrants to the lenders with an exercise price of $0.25 per share. The fair value of the warrants was $185,788, which was recognized as a debt discount and will be amortized to interest expense over the life of the notes. During the three months ended March 31, 2024, amortization of debt discount was $37,158. As of March 31, 2024, note payable, net of unamortized discount of $57,966, was $699,534 for these two notes.
+
+ 
+
+On July 1, 2023, the Company entered into a promissory note with two lenders for aggregate proceeds of $3,850,000.  The notes are unsecured and have a maturity date 15 months following their issuance. In connection with the notes, the Company granted an aggregate of 3,850,000 warrants to the lenders with an exercise price of $0.25 per share. The fair value of the warrants was $626,073, which was recognized as a debt discount and will be amortized to interest expense over the life of the notes. During the three months ended March 31, 2024, amortization of debt discount was $125,215. As of March 31, 2024, note payable, net of unamortized discount of $250,429, was $3,150,404 for these two notes.
+
+ 
+
+On July 1, 2023, the May and July notes were rolled over to Ranco, LLC for an aggregate of $5,000,000 (the “Ranco Notes”).  The Ranco Notes have a 15 month term and are subject to mandatory equal repayments commencing on the fourth month following issuance, for an aggregate repayment of $7,500,000. The Ranco Notes are secured by the assets of Ranco and guaranteed by the Company.
+
+
+
+19
+
+
+
+ 
+
+Future scheduled maturities of long-term debt are as follows:
+
+ 
+
+                                                                                                  March, 31 2024 
+
+          2024                                                                                  7,241,286 
+
+          2025                                                                                  8,772 
+
+          2026                                                                                  8,772 
+
+          2027                                                                                  8,772 
+
+          Thereafter                                                                            102,127 
+
+                                                                                                7,369,729 
+
+ 
+
+The aggregate current portion of long-term debt as of March 31, 2024 amounted is $7,241,286, which represents the contractual principal payments due in the next 12 months period as well as any notes in default.
+
+ 
+
+Obligations Under Preferred Stock
+
+ 
+
+On June 20, 2019, existing debtholders were issued an aggregate of 500 shares of Series A Preferred Stock, each with a stated value per share of $1,000, as conversion of $500,000 worth of outstanding promissory notes. The Series A Preferred Stock bears interest at 12% per annum, and is convertible into our common stock at the election of the holder at a conversion price per share to be mutually agreed between us and the holder in the future, and be redeemable at our option following the third year after issuance, without voting rights or a liquidation preference.
+
+ 
+
+On June 20, 2019, we issued 3,000 shares of Series B Preferred Stock, each with a stated value of $1,000 per share, to Emerging Growth, LLC as part of the Emerging Growth Agreement. The aggregate fair value of $687,000 was recorded as part of the acquisition price of the net assets acquired from Emerging Growth, LLC. The Series B Preferred Stock bears interest at 6% per annum and is convertible into our common stock at the election of Emerging Growth, LLC at a conversion price per share to be mutually agreed between us and Emerging Growth, LLC in the future, without voting rights or a liquidation preference, except with respect to accrued penalty interest.
+
+ 
+
+Other Outstanding Obligations at March 31, 2024
+
+ 
+
+Warrants
+
+ 
+
+As of March 31, 2024, 11,988,500 shares of our common stock are issuable pursuant to the exercise of warrants.
+
+ 
+
+Options
+
+ 
+
+As of March 31, 2024, 0 shares of our common stock are issuable pursuant to the exercise of options.
+
+ 
+
+Off-Balance Sheet Arrangements
+
+ 
+
+We have no off-balance sheet arrangements.
+
+ 
+
+Item 4. Controls and Procedures
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+Our management, with the participation of our Chief Executive Officer, who is our principal executive officer and our principal financial officer, has evaluated the effectiveness of our disclosure controls and procedures as defined in Rule 13a-15(e) of the Securities Exchange Act of 1934, as amended. Based upon that evaluation, our principal executive officer and principal financial officer concluded that as of March 31, 2024, our disclosure controls and procedures were not effective.
+
+ 
+
+Changes in Internal Control Over Financial Reporting
+
+ 
+
+During the quarter ended March 31, 2024, in order to remediate the segregation of duties and other deficiencies initially created by the departure of our accounting department in June 2019, we hired accounting consultants to perform our account reconciliations and other day-to-day accounting requirements. The internal control structure was also documented and assessed in the areas of financial reporting and disclosure controls as it relates to our continuing operations. In addition, we revised and improved the use of our systems for getting appropriate approvals for purchases and other activities that require authorization. However, our ability to file timely reports is heavily dependent on having the necessary financial resources to pay consultants and other outside service providers involved with performing key elements of our disclosure and financial reporting controls. Our current financial condition, has temporarily hindered our ability to file timely reports for this reason. As a result, we have assessed our disclosure controls and controls over financial reporting as not effective.
+
+
+
+20
+
+
+
+ 
+
+PART II - OTHER INFORMATION
+
+Item 6.  Exhibits
+
+ 
+
+          31.1  Certification of Principal Executive Officer and Principal Financial Officer Pursuant to Rule 13a-14(a) and15d-14(a).*
+
+                  
+
+          32.1  Certification of Principal Executive Officer and Principal Financial Officer Pursuant to 18 U.S.C. 1350.**
+
+                 
+
+          101.  The following materials from the Company's Quarterly Report on Form 10-Q for the quarter ended March 31, 2024,
+
+                 formatted in XBRL (eXtensible Business Reporting Language): (i) the Balance Sheets, (ii) the Statements of
+
+                 Operations, (iii) the Statements of Comprehensive Loss, (iv) the Statements of Changes in Stockholders’ Deficit, (v)
+
+                 the Statements of Cash Flows, and (vi) related notes to these financial
+
+                 statements.*
+
+ 
+
+*Filed herewith.
+
+ 
+
+**Furnished herewith.
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+                                                                                   CFN ENTERPRISES INC. 
+
+                                                                                         
+
+          Dated: May 15, 2024                                                           
+
+                                                                                   By: /s/ Brian Ross
+
+                                                                                       Brian Ross
+
+                                                                                       President and Chief Executive Officer
+
+                                                                                       (Principal Executive Officer and 
+
+                                                                                       Principal Financial Officer)
+
+
+
+21

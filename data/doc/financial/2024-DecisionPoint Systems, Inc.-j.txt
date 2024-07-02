@@ -1,0 +1,2223 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+Form 10-Q
+
+ 
+
+(Mark One)
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024
+
+ 
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from _______________ to _______________.
+
+ 
+
+Commission file number: 001-41376
+
+ 
+
+DECISIONPOINT SYSTEMS, Inc.
+
+ 
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+                            Delaware                                                           37-1644635 
+
+                 (State or other jurisdiction of                                             (I.R.S. Employer
+
+                  incorporation or organization)                                           Identification No.)
+
+                                                                                                     
+
+               1615 South Congress Avenue Suite 103                                               33445 
+
+                        Delray Beach, FL 
+
+             (Address of principal executive offices)                                           (Zip Code)
+
+ 
+
+(561) 900-3723
+
+Registrant’s telephone number, including area code
+
+ 
+
+ 
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+ 
+
+Securities Registered Pursuant to Section 12(b) of the Act: 
+
+ 
+
+             Title of Each Class                             Trading Symbol                 Name on Each Exchange on Which Registered
+
+        Common Stock, $0.001 par value                            DPSI                                    NYSE American
+
+ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒      No ☐
+
+ 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒      No ☐
+
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer                 ☐                          Accelerated filer                       ☐ 
+
+Non-accelerated Filer                   ☒                          Smaller reporting company               ☒ 
+
+                                                                   Emerging growth company                 ☐ 
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐      No ☒
+
+ 
+
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date. As of May 10, 2024 there were 7,681,000 shares of common stock, $0.001 par value, outstanding.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                                Page
+
+PART I. FINANCIAL INFORMATION                                                                                                     
+
+Item 1.   Financial Statements (Unaudited)                                                                                      1
+
+          Condensed Consolidated Balance Sheets                                                                                 1
+
+          Condensed Consolidated Statements of Income and Comprehensive Income                                                  2
+
+          Condensed Consolidated Statements of Stockholders’ Equity                                                             3
+
+          Condensed Consolidated Statements of Cash Flows                                                                       4
+
+          Notes to Condensed Consolidated Financial Statements                                                                  5
+
+Item 2.   Management’s Discussion and Analysis of Financial Condition and Results of Operations                                 16
+
+Item 3.   Quantitative and Qualitative Disclosures About Market Risk                                                            24
+
+Item 4.   Controls and Procedures                                                                                               24
+
+PART II. OTHER INFORMATION                                                                                                        
+
+Item 1.   Legal Proceedings                                                                                                     25
+
+Item 1A.  Risk Factors                                                                                                          25
+
+Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds                                                           27
+
+Item 6.   Exhibits                                                                                                              28
+
+          Signatures                                                                                                            29
+
+ 
+
+i
+
+ 
+
+ 
+
+PART I. FINANCIAL INFORMATION
+
+ 
+
+Item 1. Financial Statements (Unaudited)
+
+ 
+
+DecisionPoint Systems, Inc.
+
+Condensed Consolidated Balance Sheets
+
+(in thousands, except par value)
+
+(Unaudited)
+
+ 
+
+                                                                                                         March 31,     December 31,   
+
+                                                                                                            2024            2023
+
+ASSETS                                                                                                                                
+
+Current assets:                                                                                                                       
+
+Cash                                                                                                    $       5,834  $       4,300 
+
+Accounts receivable, net of allowance of $324 and $267 as of March 31, 2024 and December 31, 2023,             19,292         23,768 
+
+ respectively
+
+Inventory, net                                                                                                  1,193          2,133 
+
+Deferred costs                                                                                                  4,158          3,826 
+
+Prepaid expenses and other current assets                                                                         598            630 
+
+Total current assets                                                                                           31,075         34,657 
+
+Operating lease assets                                                                                          3,208          3,392 
+
+Property and equipment, net                                                                                     2,889          2,973 
+
+Deferred costs, net of current portion                                                                          3,744          3,689 
+
+Deferred tax assets, net                                                                                        1,475          1,161 
+
+Intangible assets, net                                                                                          7,317          7,815 
+
+Goodwill                                                                                                       22,204         22,081 
+
+Other assets                                                                                                      172            172 
+
+Total assets                                                                                            $      72,084  $      75,940 
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY                                                                                                 
+
+Current liabilities:                                                                                                                 
+
+Accounts payable                                                                                        $      14,575  $      16,857 
+
+Accrued expenses and other current liabilities                                                                  5,607          6,566 
+
+Deferred revenue                                                                                                9,222          8,066 
+
+Current portion of earnout consideration                                                                        5,550          5,370 
+
+Current portion of long-term debt                                                                               1,003          1,003 
+
+Current portion of operating lease liabilities                                                                    888            874 
+
+Total current liabilities                                                                                      36,845         38,736 
+
+Deferred revenue, net of current portion                                                                        5,298          5,307 
+
+Revolving line of credit                                                                                            -          1,300 
+
+Long-term debt, net of current portion                                                                          3,388          3,639 
+
+Noncurrent portion of operating lease liabilities                                                               2,862          3,093 
+
+Long-term portion of earnout consideration                                                                      4,692          4,316 
+
+Other liabilities                                                                                                   6              6 
+
+Total liabilities                                                                                              53,091         56,397 
+
+Commitments and contingencies (Note 10)                                                                                              
+
+Stockholders’ equity:                                                                                                                
+
+Preferred stock, $0.001 par value; 10,000 shares authorized; no shares issued or outstanding                        -              - 
+
+Common stock, $0.001 par value; 50,000 shares authorized; 7,681 and 7,680 shares issued and                         8              8 
+
+ outstanding,
+
+ respectively
+
+Additional paid-in capital                                                                                     39,184         38,902 
+
+Accumulated deficit                                                                                           (20,199)       (19,367)
+
+Total stockholders’ equity                                                                                     18,993         19,543 
+
+Total liabilities and stockholders’ equity                                                              $      72,084  $      75,940 
+
+ 
+
+See Accompanying Notes to the Condensed Consolidated Financial Statements.
+
+ 
+
+1
+
+ 
+
+ 
+
+DecisionPoint Systems, Inc.
+
+Condensed Consolidated Statements of Income and Comprehensive Income
+
+(in thousands, except per share data)
+
+(Unaudited)
+
+ 
+
+                                                                                                              Three Months Ended       
+
+                                                                                                                  March 31,
+
+                                                                                                            2024           2023      
+
+Net sales:                                                                                                                           
+
+Product                                                                                                 $      15,317  $      22,166 
+
+Service                                                                                                        10,301          4,873 
+
+Net sales                                                                                                      25,618         27,039 
+
+Cost of sales:                                                                                                                       
+
+Product                                                                                                        12,488         17,885 
+
+Service                                                                                                         7,119          3,104 
+
+Cost of sales                                                                                                  19,607         20,989 
+
+Gross profit                                                                                                    6,011          6,050 
+
+Operating expenses:                                                                                                                  
+
+Sales and marketing expense                                                                                     2,813          2,368 
+
+General and administrative expenses                                                                             4,096          2,494 
+
+Total operating expenses                                                                                        6,909          4,862 
+
+Operating (loss) income                                                                                          (898)         1,188 
+
+Interest expense, net                                                                                            (248)           (13)
+
+(Loss) income before income taxes                                                                              (1,146)         1,175 
+
+Income tax benefit (expense)                                                                                      314           (309)
+
+Net (loss) income and comprehensive (loss) income attributable to common stockholders                   $        (832) $         866 
+
+Net (loss) income per share attributable to stockholders:                                                                            
+
+Basic                                                                                                   $       (0.11) $        0.12 
+
+Diluted                                                                                                 $       (0.11) $        0.11 
+
+Weighted average common shares outstanding                                                                                           
+
+Basic                                                                                                           7,681          7,417 
+
+Diluted                                                                                                         7,889          7,789 
+
+ 
+
+See Accompanying Notes to the Condensed Consolidated Financial Statements.
+
+ 
+
+2
+
+ 
+
+ 
+
+DecisionPoint Systems, Inc.
+
+Condensed Consolidated Statements of Stockholders’ Equity
+
+For the Three Ended March 31, 2024 and 2023
+
+(in thousands)
+
+(Unaudited)
+
+ 
+
+                                                          Common Stock              Additional      Accumulated           Total       
+
+                                                                                      Paid-in                         Stockholders’
+
+                                                    Shares          Amount          Capital          Deficit            Equity       
+
+Balance at December 31, 2023                            7,680  $             8  $       38,902  $        (19,367) $         19,543 
+
+Net loss                                                    -                -               -              (832)             (832)
+
+Share-based compensation expense                            -                -             279                 -               279 
+
+Exercise of stock options                                   1                -               3                 -                 3 
+
+Balance at March 31, 2024                               7,681  $             8  $       39,184  $        (20,199) $         18,993 
+
+ 
+
+                                                          Common Stock              Additional      Accumulated          Total        
+
+                                                                                     Paid-in                          Stockholders’
+
+                                                    Shares          Amount          Capital          Deficit            Equity       
+
+Balance at December 31, 2022                            7,416  $             7  $       38,429  $        (21,854) $         16,582 
+
+Net income                                                  -                -               -               866               866 
+
+Share-based compensation expense                            -                -             196                 -               196 
+
+Exercise of stock options                                   1                -               6                 -                 6 
+
+Balance at March 31, 2023                               7,417  $             7  $       38,631  $        (20,988) $         17,650 
+
+ 
+
+See Accompanying Notes to the Condensed Consolidated Financial Statements
+
+ 
+
+3
+
+ 
+
+ 
+
+DecisionPoint Systems, Inc.
+
+Condensed Consolidated Statements of Cash Flows
+
+(in thousands)
+
+(Unaudited)
+
+ 
+
+                                                                                                              Three Months Ended       
+
+                                                                                                                  March 31,
+
+                                                                                                            2024           2023      
+
+Cash flows from operating activities                                                                                                 
+
+Net (loss) income                                                                                       $        (832) $         866 
+
+Adjustments to reconcile net (loss) income to net cash provided by (used in) operating activities:                                   
+
+Depreciation and amortization                                                                                     743            564 
+
+Share-based compensation expense                                                                                  279            196 
+
+Deferred income taxes, net                                                                                       (314)            10 
+
+Provision for credit losses                                                                                        57             68 
+
+Provision for inventory obsolescence                                                                               (6)            45 
+
+Changes in operating assets and liabilities:                                                                                         
+
+Accounts receivable                                                                                             4,419         (9,413)
+
+Inventory, net                                                                                                    946         (1,551)
+
+Deferred costs                                                                                                   (387)          (212)
+
+Prepaid expenses and other current assets                                                                          32            (75)
+
+Accounts payable                                                                                               (2,282)         3,507 
+
+Accrued expenses and other current liabilities                                                                   (526)        (1,871)
+
+Operating lease liabilities                                                                                       (33)           (24)
+
+Deferred revenue                                                                                                1,147          6,394 
+
+Net cash provided by (used in) operating activities                                                             3,243         (1,496)
+
+Cash flows from investing activities                                                                                                 
+
+Purchases of property and equipment                                                                              (161)          (176)
+
+Net cash used in investing activities                                                                            (161)          (176)
+
+Cash flows from financing activities                                                                                                 
+
+Proceeds from term loan                                                                                             -          5,000 
+
+Repayment of term debt                                                                                           (251)            (1)
+
+Line of credit, net                                                                                            (1,300)         7,000 
+
+Proceeds from exercise of stock options                                                                             3              6 
+
+Net cash (used in) provided by financing activities                                                            (1,548)        12,005 
+
+Change in cash                                                                                                  1,534         10,333 
+
+Cash, beginning of period                                                                                       4,300          7,642 
+
+Cash, end of period                                                                                     $       5,834  $      17,975 
+
+Supplemental disclosures of cash flow information                                                                                    
+
+Cash paid for interest                                                                                  $         147  $           7 
+
+Cash paid for income taxes                                                                              $           6  $           - 
+
+ 
+
+See Accompanying Notes to the Condensed Consolidated Financial Statements.
+
+ 
+
+4
+
+ 
+
+ 
+
+DecisionPoint Systems, Inc.
+
+Notes to the Condensed Consolidated Financial Statements
+
+(Unaudited)
+
+ 
+
+Note 1: Description of Business 
+
+ 
+
+DecisionPoint Systems, Inc., which we sometimes refer to as the “Company”, “we” or “us”, is an enterprise mobility systems integrator that sells, installs, deploys and repairs mobile computing, POS equipment and wireless systems that are used both within a company’s facilities and in the field. These systems generally include mobile computers, mobile application software, and related data capture equipment including bar code scanners and radio frequency identification (“RFID”) readers. We also provide services, consulting, staging, kitting, deployment, maintenance, proprietary and third-party software and software customization as an integral part of our customized solutions for our customers. The suite of products utilizes the latest technologies with the intent to make complex mobile technologies easy to use, understand and keep running within all vertical markets such as merchandising, sales and delivery, field service, logistics and transportation and warehouse management.
+
+ 
+
+In April 2023, we acquired 100% of the issued and outstanding shares of Macro Integration Services, Inc. (“Macro”). Macro is a value-added reseller (“VAR”) that buys point of sale mobile computing, scanning, printing, and wireless products from various manufacturers and distributors. Macro also provides professional services for project management, implementation, deployment, installations, upgrades, training, and support.
+
+ 
+
+Note 2: Basis of Presentation and Summary of Significant Accounting Policies 
+
+ 
+
+Basis of Presentation 
+
+ 
+
+We have prepared the accompanying unaudited condensed consolidated financial statements of DecisionPoint Systems, Inc. and its subsidiaries on the accrual basis of accounting in accordance with United States Generally Accepted Accounting Principles (“U.S. GAAP”). The accompanying condensed consolidated financial statements include the accounts of DecisionPoint Systems, Inc. and its directly or indirectly wholly owned subsidiaries, DecisionPoint Systems International (“DPSI”), DecisionPoint Systems Group, Inc. (“DPS Group”), Royce Digital Systems, Inc. (“RDS”) ExtenData Solutions, LLC (“ExtenData”), Advanced Mobile Group, LLC (“AMG”), Macro and DecisionPoint Systems CA, Inc. Macro was acquired on April 1, 2023, and as such, has been consolidated into our financial position and results of operations beginning April 1, 2023. All intercompany accounts and transactions have been eliminated in consolidation. These unaudited condensed consolidated financial statements have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”). Certain information and note disclosures normally included in financial statements prepared in accordance with U.S. GAAP have been omitted from these interim financial statements as permitted by SEC rules and regulations. Accordingly, these unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and the related notes included in our Annual Report on Form 10-K for the year ended December 31, 2023.
+
+ 
+
+In the opinion of management, the accompanying unaudited condensed consolidated financial statements contain all normal and recurring adjustments necessary to present fairly the financial condition, results of operations and cash flows for the interim periods presented. The results of operations for the three months ended March 31, 2024 are not necessarily indicative of results to be expected for the full fiscal year.
+
+ 
+
+Operating Segments
+
+ 
+
+Under the Financial Accounting Standards Board Accounting Standards Codification 280-10, two or more operating segments may be aggregated into a single operating segment for financial reporting purposes if aggregation is consistent with the objective and basic principles, if the segments have similar characteristics, and if the segments are similar in each of the following areas: (i) the nature of products and services, (ii) the nature of the production processes, (iii) the type or class of customer for their products and services, and (iv) the methods used to distribute their products or provide their services. We believe each of the Company’s segments meet these criteria as they provide similar products and services to similar customers using similar methods of production and distribution. Because we believe each of the criteria set forth above has been met and each of the Company’s segments has similar characteristics, we aggregate results of operations in one reportable operating segment.
+
+ 
+
+5
+
+ 
+
+ 
+
+Use of Estimates 
+
+ 
+
+The preparation of consolidated financial statements in conformity with U.S. GAAP requires us to make estimates and assumptions that affect the amounts reported in the accompanying condensed consolidated financial statements and these notes. Actual results could differ from those estimates and may result in material effects on our operating results and financial position. Significant estimates made in preparing the accompanying condensed consolidated financial statements include (but are not limited to) those related to revenue recognition, goodwill and long-lived valuations and impairment assessments, earnout obligations, income tax valuations, and stock-based compensation expense.
+
+ 
+
+Concentration of Credit Risk
+
+ 
+
+Credit is extended to all customers based on financial condition, and collateral is generally not required. Concentrations of credit risk with respect to trade receivables are limited because of the large number of customers comprising our customer base and dispersion across many different industries and geographies. Accordingly, we continually monitor collections and payments from our customers and maintain a provision for estimated credit losses based upon our historical experience and any specific customer collection issues that we have identified. Although credit losses have historically been within our expectations and the provisions established, we cannot guarantee that it will continue to experience the same credit loss rates that it has in the past.
+
+ 
+
+Inventory
+
+ 
+
+Inventory consists solely of finished goods and is stated at the lower of cost or net realizable value. Cost is determined under the first-in, first-out (FIFO) method. We periodically review our inventory and make provisions as necessary for estimated obsolete and slow-moving goods. The creation of such provisions results in reduction of inventory to net realizable value and a charge to cost of sales. Inventories are reflected in the accompanying condensed consolidated balance sheets net of a valuation allowance of $125,000 and $131,000 as of March 31, 2024 and December 31, 2023, respectively.
+
+ 
+
+Income Taxes
+
+ 
+
+Our quarterly provision for income taxes uses an annual effective tax rate based on the expected annual income and statutory tax rates. Our effective tax rate, including discrete items as more fully described below, was 27.5% for the three months ended March 31, 2024, and 26.7% for the three months ended March 31, 2023.
+
+ 
+
+The change in the effective tax rate was primarily due to a combination of an increase in projected annual pre-tax income and an increase to estimated annual non-deductible permanent items in 2024.
+
+ 
+
+We recognize excess tax benefits (windfalls) and excess tax deficiencies (shortfalls) as discrete items in income taxes in the period that stock options are exercised. For the three months ended March 31, 2024, and March 31, 2023, we recorded no income tax benefit nor deferred tax asset related to excess tax benefits for stock option exercises which represents the difference in deferred tax assets recorded at fair value during the vesting period and the actual deferred tax assets realized based on the intrinsic value on the date of exercise.
+
+ 
+
+Operating Leases
+
+ 
+
+At the inception of a contract we assesses whether the contract is, or contains, a lease. Our assessment is based on: (1) whether the contract involves the use of a distinct identified asset, (2) whether we obtain the right to substantially all the economic benefit from the use of the asset throughout the period, and (3) whether we have the right to direct the use of the asset. The commencement date of the contract is the date the lessor makes the underlying asset available for use by the lessee.
+
+ 
+
+6
+
+ 
+
+ 
+
+Right-of-use (“ROU”) assets represent our right to use an underlying asset during the lease term and lease liabilities represent obligations to make lease payments arising from the lease. ROU assets and lease liabilities are recognized at the commencement date based on the net present value of fixed lease payments over the lease term. ROU assets also include any initial direct costs and advance lease payments made and exclude lease incentives. Lease liabilities also include terminal purchase options when deemed reasonably certain to exercise. Our lease term includes options to extend when it is reasonably certain that it will exercise that option. We have elected not to recognize ROU assets and lease liabilities for short-term leases that have a term of 12 months or less; we recognize lease expense for these leases on a straight-line basis over the lease term.
+
+ 
+
+As most of our operating leases do not have an implicit rate that can be readily determined, we use our secured incremental borrowing rate for the same term as the underlying lease based on information available at lease commencement.
+
+ 
+
+The lease classification affects the expense recognition on the consolidated statements of operations. Operating lease charges are recorded in “General and administrative” expense.
+
+ 
+
+Revenue Recognition
+
+ 
+
+We recognize revenue when a customer obtains control of promised goods or services under the terms of a contract and is measured as the amount of consideration we expect to receive in exchange for transferring goods or providing services. We do not have any material extended payment terms, as payment is due at or shortly after the time of the sale. Sales, value-added and other taxes collected concurrently with revenue producing activities are excluded from revenue.
+
+ 
+
+We recognize contract assets or unbilled receivables related to revenue recognized for services completed but not yet invoiced to our clients. Unbilled receivables are recorded when we have an unconditional right to contract consideration. A contract liability is recognized as deferred revenue when we invoice clients, or receive customer cash payments, in advance of performing the related services under the terms of a contract. Remaining performance obligations represent the transaction price allocated to the performance obligations that are unsatisfied as of the end of each reporting period. Deferred revenue is recognized as revenue when we have satisfied the related performance obligation.
+
+ 
+
+As of March 31, 2024, the total aggregate transaction price allocated to the unsatisfied performance obligations was approximately $14.5 million, of which approximately $9.2 million is expected to be recognized over the next 12 months.
+
+ 
+
+As of December 31, 2023, the total aggregate transaction price allocated to the unsatisfied performance obligations under our service contracts was approximately $13.4 million, of which approximately $8.1 million is expected to be recognized over the next 12 months.
+
+ 
+
+The following tables summarizes the deferred revenue activity for the three months ending March 31 (in thousands):
+
+ 
+
+                                                                                                            2024           2023      
+
+Beginning Balance                                                                                       $      13,373  $      10,352 
+
+Additions                                                                                                       5,195         14,958 
+
+Revenue recognized from beginning of period                                                                    (3,207)        (2,817)
+
+Revenue recognized from additions                                                                                (841)        (5,747)
+
+Ending balance                                                                                          $      14,520  $      16,746 
+
+ 
+
+We defer costs to acquire contracts, including commissions, incentives and payroll taxes if they are incremental and recoverable costs of obtaining a customer contract with a term exceeding one year. Deferred contract costs are amortized to sales and marketing expense over the contract term, generally over one to three years. We have elected to recognize the incremental costs of obtaining a contract with a term of less than one year as a selling expense when incurred. We include deferred contract acquisition costs in “Prepaid expenses and other current assets” in the consolidated balance sheets. As of March 31, 2024 and December 31, 2023, we deferred $0.2 million and $0.2 million, respectively, of related contract acquisition costs
+
+ 
+
+7
+
+ 
+
+ 
+
+The following table summarizes net sales by revenue source (in thousands):
+
+ 
+
+                                                                                                             Three Months Ended        
+
+                                                                                                                  March 31,
+
+                                                                                                            2024           2023      
+
+Hardware and software                                                                                   $      13,893  $      20,540 
+
+Consumables                                                                                                     1,424          1,626 
+
+Professional services                                                                                          10,301          4,873 
+
+                                                                                                        $      25,618  $      27,039 
+
+ 
+
+Recently Issued Accounting Pronouncements
+
+ 
+
+In November 2023, the FASB issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures. This ASU improves financial reporting by requiring disclosure of significant segment expenses that are regularly provided to the chief operating decision maker (“CODM”) and included with each reported measure of significant profit or loss on an annual and interim basis. This ASU also requires that a public entity disclose the title and position of the CODM and an explanation of how the CODM uses the reported measures of a segment’s profit or loss in assessing segment performance and deciding how to allocate resources. The ASU is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024, with early adoption permitted. This ASU is required to be applied retrospectively for all prior periods presented in the financial statements. We are evaluating the adoption impact of this ASU on our condensed consolidated financial statements and related disclosures but do not expect any material impact upon adoption.
+
+ 
+
+In December 2023, the FASB issued ASU 2023-09, Improvements to Income Tax Disclosures, which amends the guidance in ASC 740, Income Taxes. The ASU is intended to improve the transparency of income tax disclosures by requiring (1) consistent categories and greater disaggregation of information in the rate reconciliation and (2) income taxes paid disaggregated by jurisdiction. It also includes certain other amendments to improve the effectiveness of income tax disclosures. The ASU’s amendments are effective for public business entities for annual periods beginning after December 15, 2024. Entities are permitted to early adopt the standard “for annual financial statements that have not yet been issued or made available for issuance.” We are currently evaluating the impact of this ASU but do not expect any material impact upon adoption.
+
+ 
+
+There are no other accounting standards that have been issued but not yet adopted that we believe could have a material impact on our consolidated financial statements.
+
+ 
+
+Note 3: Acquisitions
+
+ 
+
+Macro Integration Services, Inc.
+
+ 
+
+On March 31, 2023, we entered into a Stock Purchase Agreement (the “Purchase Agreement”) with the Durwood Wayne Williams Revocable Trust and the Collins Family Living Trust, as sellers (collectively, the “Sellers”) and with Durwood W. Williams and Bartley E. Collins (the respective trustees of the Sellers), individually, pursuant to which the Company acquired all of the issued and outstanding equity of Macro from the Sellers (the “Acquisition”), effective April 1, 2023 (the “Effective Date”). Upon consummation of the Acquisition, Macro, a project management and professional services and integrated solutions company, became a wholly-owned subsidiary of the Company.
+
+ 
+
+8
+
+ 
+
+ 
+
+Total consideration for the acquisition has been recorded as $25.7 million. $26.3 million was recorded at closing and additional $0.1 million was paid during the third quarter of 2023 due to a net working capital adjustment. In the fourth quarter of 2023 our estimated earnout to the sellers of Marco for year 1 was reduced by $0.8 million. During the first quarter of 2024 we finalized the Year 1 earnout obligation and the working capital amount and recorded an additional adjustment to goodwill of $0.1 million. The total consideration is comprised of the following (in thousands):
+
+ 
+
+Purchase price                                                                                                           $      10,623 
+
+Working capital excess                                                                                                           5,638 
+
+Subtotal                                                                                                                        16,261 
+
+Earnout                                                                                                                          9,422 
+
+                                                                                                                         $      25,683 
+
+ 
+
+Earnout payments are subject to the financial performance of Macro in each of the two years following closing and are presented at net present values. At March 31, 2024 the Year 1 and Year 2 earnouts are estimated to be $5.6 million and $5.1 million, respectively, for each year and are due by June 14, 2024 and June 14, 2025. The earnout is based on Macro achieving EBITDA targets in years one and two following the Effective Date of $2.8 million and $3.8 million, respectively.
+
+  
+
+The cash due at closing was $13.7 million which reflects the following (in thousands):
+
+ 
+
+Purchase price                                                                                                           $      10,500 
+
+Working capital excess                                                                                                           5,899 
+
+Less: bank indebtedness                                                                                                         (1,837)
+
+Seller party expenses                                                                                                             (845)
+
+                                                                                                                         $      13,717 
+
+ 
+
+Actual consideration paid on the Effective Date was $11.0 million which reflects cash due at close less holdbacks for cash, accounts receivable, and inventory.
+
+ 
+
+We also made an election under Section 338(h)(10) of the Internal Revenue Code to treat the acquisition as an asset purchase to step up the tax basis of the assets acquired. To make this election we will pay the seller an additional $1.6 million. The result of these two adjustments was to reduce our deferred tax liability from $3.3 million to $1.6 million and to adjust goodwill from $14.0 million to $11.6 million.
+
+  
+
+Also, customer payments on specified accounts receivable actually received by us through September 30, 2024, are to be remitted to the Sellers on a quarterly basis. The Sellers are also due certain payments from us if certain inventory is utilized by the Company before March 31, 2024. These payments will be remitted in the second quarter of 2024.
+
+ 
+
+As of March 31, 2024 the allocation of the total consideration to the estimated fair value of acquired net assets as of the acquisition date for Macro was as follows (in thousands):
+
+ 
+
+Cash                                                                                                                     $         923 
+
+Accounts receivable, net                                                                                                        10,124 
+
+Inventory, net                                                                                                                   2,630 
+
+Prepaids and other current assets                                                                                                  111 
+
+Operating lease assets                                                                                                           1,390 
+
+Property and equipment, net                                                                                                      1,058 
+
+Customer lists and relationships                                                                                                 4,080 
+
+Trade name                                                                                                                       1,380 
+
+Other assets                                                                                                                        44 
+
+Accounts payable                                                                                                                (2,809)
+
+Accrued expenses and other current liabilities                                                                                    (695)
+
+Deferred tax liability                                                                                                          (1,611)
+
+Operating lease liability                                                                                                       (1,503)
+
+Deferred revenue                                                                                                                (1,144)
+
+Total fair value excluding goodwill                                                                                             13,978 
+
+Goodwill                                                                                                                        11,705 
+
+Total consideration                                                                                                      $      25,683 
+
+ 
+
+9
+
+ 
+
+ 
+
+The estimated useful lives of intangible assets recorded related to the Macro acquisition are as follows:
+
+ 
+
+                                                                                                                            Expected 
+
+                                                                                                                              Life
+
+Customer lists and relationships                                                                                             7 years
+
+Trade name                                                                                                                   3 years
+
+ 
+
+Pro Forma Information
+
+ 
+
+The following unaudited pro forma condensed consolidated statement of operations for the three months ended March 31, 2023 is presented as if the Macro acquisition had been completed on January 1, 2023, and after giving effect to certain pro forma adjustments. The pro forma condensed consolidated statement of operations is presented for informational purposes only and is not indicative of the results of operations that would have necessarily been achieved if the acquisition had actually been consummated on January 1, 2023.
+
+ 
+
+                                                                                                                         Three Months  
+
+                                                                                                                             Ended
+
+                                                                                                                           March 31,
+
+                                                                                                                             2023
+
+Net sales                                                                                                                $      37,980 
+
+Net income                                                                                                               $       2,223 
+
+Net income per share - basic                                                                                             $        0.30 
+
+Net income per share - diluted                                                                                           $        0.29 
+
+ 
+
+Note 4: Intangible Assets
+
+ 
+
+Definite lived intangible assets are as follows (in thousands):
+
+ 
+
+                                                    March 31, 2024                                  December 31, 2023                 
+
+                                      Gross         Accumulated         Net           Gross         Accumulated         Net       
+
+                                      Amount        Amortization       Amount         Amount        Amortization       Amount
+
+Customer lists and relationships   $     12,020  $        (5,742) $      6,278  $     12,020  $        (5,395) $      6,625 
+
+Trade names                               2,740           (1,720)        1,020         2,740           (1,575)        1,165 
+
+Developed technology                        140             (121)           19           140             (115)           25 
+
+Backlog                                     340             (340)            -           340             (340)            - 
+
+                                   $     15,240  $        (7,923) $      7,317  $     15,240  $        (7,425) $      7,815 
+
+ 
+
+Amortization expense recognized during the three ended March 31, 2024 and 2023 was $0.5 and $0.4 million, respectively. Amortization expense is primarily calculated on an accelerated basis.
+
+  
+
+Note 5: Net Income Per Share
+
+ 
+
+Basic net income per common share is computed by dividing the net income available to common stockholders by the weighted-average number of common shares outstanding. Diluted net income per share is calculated similarly to basic per share amounts, except that the denominator is increased to include the number of additional common shares that would have been outstanding if the potential common shares had been issued and if the additional common shares were dilutive. For periods in which there is a net loss, potentially dilutive securities are excluded from the computation of fully diluted net loss per share as their effect is anti-dilutive.
+
+ 
+
+10
+
+ 
+
+ 
+
+Below is a reconciliation of the fully dilutive securities effect for the three months ended March 31, 2024 and 2023 (in thousands, except per share data):
+
+ 
+
+                                                                                                              Three Months Ended       
+
+                                                                                                                  March 31,
+
+                                                                                                            2024           2023      
+
+Net income attributable to common stockholders                                                          $        (832) $         866 
+
+                                                                                                                                     
+
+Weighted average basic common shares outstanding                                                                7,681          7,417 
+
+Dilutive effect of stock options, warrants and restricted stock                                                   208            372 
+
+Weighted average shares for diluted earnings per share                                                          7,889          7,789 
+
+                                                                                                                                     
+
+Basic income per share                                                                                  $       (0.11) $        0.12 
+
+Diluted income per share                                                                                $       (0.11) $        0.11 
+
+ 
+
+Note 6: Line of Credit
+
+ 
+
+Our Loan and Security Agreement (the “Loan Agreement”) with MUFG Union Bank, National Association (the “Bank”), as amended, provides for a revolving line of credit of up to $10.0 million with our obligations being secured by a security interest in substantially all of our assets. Loans extended to us under the Loan Agreement are currently scheduled to mature on July 31, 2026. Effective March 27, 2023, we entered into an amendment letter (“Amendment”) with the Bank that served to amend certain terms of the Loan Agreement and increased the revolving line of credit available to us from $9.0 million to $10.0 million. The Amendment also served to modify certain covenants in the original agreement. On March 31, 2023, we drew down $7.0 million of this facility and amounts borrowed under this credit facility are evidenced, and governed, by the terms of a commercial promissory note in favor of the Bank. As of March 31, 2024, there is zero outstanding on the line of credit.
+
+ 
+
+Interest and Fees
+
+ 
+
+Loans under the Loan Agreement with an outstanding balance of at least $150,000 bear interest, at our option, at a base interest rate equal to the Term secured overnight financing rate as administered by the Federal Reserve Bank of New York (“SOFR”) plus 2.50% or a base rate equal to an index offered by the Bank for the interest period selected and is payable at the on the last day of each month, commencing April 30, 2023. The interest rate on the loans adjusts at the end of each SOFR rate period (1, 3, or 6 month term) selected by us. All other loan amounts bear interest at a rate equal to an index rate determined by the Bank, which shall vary when the index rate changes. As of March 31, 2024, the effective interest rate was 7.9%. We have the right to prepay variable interest rate loans, in whole or in part at any time, without penalty or premium. Amounts outstanding with a base interest rate may be prepaid in whole or in part provided we have given the Bank written notice of at least five days prior to prepayment and pay a prepayment fee. At any time prior to the maturity date, we may borrow, repay and reborrow amounts under the Loan Agreement, subject to the prepayment terms, and, as long as the total outstanding does not exceed $10.0 million.
+
+ 
+
+Covenants
+
+ 
+
+Under the Loan Agreement , as amended by the Amendment, we are subject to a variety of customary affirmative and negative covenants, including that we (i) maintain a ratio of total debt to EBITDA of not greater than 3.0:1.0 measured at the end of each quarter, (ii) maintain a fixed charge coverage ratio of not less than 1.35:1.00 to be measured as of the end of each fiscal quarter, and (iii) submit a pro-forma statement in advance showing compliance and overall satisfactory metrics post-acquisition should the Company use any loan under the Loan Agreement for any acquisition with a purchase price in excess of $1,500,000. The Loan Agreement also prohibits us from, or otherwise imposes restrictions on us with respect to, among other things, liquidating, dissolving, entering into any consolidation, merger, division, partnership, or other combination, selling or leasing a majority of our assets or business or purchase or lease all or the greater part of the assets or business of another entity or person.
+
+ 
+
+As of March 31, 2024, we were in compliance with all of our covenants, were eligible to borrow up to $10.0 million, and had zero in outstanding borrowings under the Loan Agreement.
+
+ 
+
+11
+
+ 
+
+ 
+
+Note 7: Term Debt
+
+ 
+
+MUFG Promissory Note
+
+ 
+
+We entered into a $5.0 million unsecured promissory note agreement, effective March 27, 2023, with the Bank. Principal and interest payments on this note are due in quarterly installments of $250,000 on the last day of each quarter commencing June 30, 2023, with an interest rate based on Term SOFR plus 2.5% (secured overnight financing rate) as administered by the Federal Reserve Bank of New York, which was 7.8% at March 31, 2024. This note matures March 31, 2028.
+
+ 
+
+EIDL Promissory Note
+
+ 
+
+On August 27, 2020, we received $0.2 million in connection with a promissory note from the SBA under the Economic Injury Disaster Loan (“EIDL”) program pursuant to the CARES Act. Under the terms of the EIDL promissory note, interest accrues on the outstanding principal at an interest rate of 3.75% per annum and with a term of 30 years with equal monthly payments of principal and interest of $731 beginning on August 27, 2021. As of March 31, 2024, and December 31, 2023, outstanding debt under the promissory note was $0.1 million.
+
+ 
+
+At March 31, 2024, our total term debt consisted of the following:
+
+ 
+
+MUFG promissory note                                                                                                     $       4,250 
+
+EIDL promissory note                                                                                                               141 
+
+Total term debt                                                                                                                  4,391 
+
+Less: current portion of long-term debt                                                                                         (1,003)
+
+Long-term debt                                                                                                           $       3,388 
+
+ 
+
+Note 8: Stockholders’ Equity
+
+ 
+
+We are authorized to issue two classes of stock designated as common stock and preferred stock. As of March 31, 2024, we are authorized to issue 60,000,000 total shares of stock. Of this amount, 50,000,000 shares are designated as common stock, each having a par value of $0.001 and 10,000,000 shares are designated as preferred stock, each having a par value of $0.001.
+
+ 
+
+Warrants 
+
+ 
+
+All warrants were exercised as of December 31, 2023.
+
+ 
+
+Note 9: Share-Based Compensation
+
+ 
+
+Under our amended 2014 Equity Incentive Plan (the “2014 Plan”), 1,600,000 shares of our common stock are reserved for issuance, of which 218,209 shares of common stock remain available for issuance under the 2014 Plan.
+
+ 
+
+Under the 2014 Plan, common stock incentives may be granted to our officers, employees, directors, consultants, and advisors (and prospective directors, officers, managers, employees, consultants and advisors) and our affiliates can acquire and maintain an equity interest in us, or be paid incentive compensation, which may (but need not) be measured by reference to the value of our common stock.
+
+ 
+
+12
+
+ 
+
+ 
+
+The 2014 Plan permits us to provide equity-based compensation in the form of stock options, stock appreciation rights, restricted stock, restricted stock units, unrestricted stock and other stock bonus awards and performance compensation awards.
+
+ 
+
+The 2014 Plan is administered by the Board of Directors, or a committee appointed by the Board of Directors, which determines recipients and the number of shares subject to the awards, the exercise price and the vesting schedule. The term of stock options granted under the 2014 Plan cannot exceed ten years. Options cannot have an exercise price less than 100% of the fair market value of our common stock on the grant date, and generally vest over a period of three years. If the individual possesses more than 10% of the combined voting power of all classes of our stock, the exercise price shall not be less than 110% of the fair market of a share of common stock on the date of grant.
+
+ 
+
+The following table summarizes stock option activity under the 2014 Plan for the three months ended March 31, 2024:
+
+ 
+
+                                                                         Stock        Grant Date       Weighted        Aggregate    
+
+                                                                        Options        Weighted         Average        Intrinsic
+
+                                                                                       Average         Remaining         Value
+
+                                                                                       Exercise       Contractual
+
+                                                                                        Price            Life
+
+                                                                                                      (in years)         ($ in      
+
+                                                                                                                       thousands)
+
+Outstanding at December 31, 2023                                           416,813  $         4.89                                 
+
+Granted                                                                     69,500            6.51                                 
+
+Forfeited or expired                                                          (500)           4.15                                 
+
+Exercised                                                                     (666)           4.15                                 
+
+Outstanding at March 31, 2024                                              485,147            5.12            3.14  $        1,925 
+
+Exercisable at March 31, 2024                                              408,685            5.12            3.09  $        6,047 
+
+ 
+
+Share-based compensation cost is measured at the grant date based on the fair value of the award. The fair values of stock options granted during the three months ended March 31, 2024 were estimated using the Black-Scholes option-pricing model with the following assumptions:
+
+ 
+
+Weighted average grant-date fair value per option granted                                                              $6.47 to $6.56
+
+Expected option term in years                                                                                            2.5 to 3.2
+
+Expected volatility factor                                                                                             59.4% to 62.9%
+
+Risk-free interest rate                                                                                                4.12% to 4.14%
+
+                                                                                                                            0.0%
+
+ 
+
+We estimate expected volatility using historical volatility of common stock of our peer group over a period equal to the expected life of the options. The expected term of the awards represents the period of time that the awards are expected to be outstanding. We considered expectations for the future to estimate employee exercise and post-vest termination behavior. We do not intend to pay common stock dividends in the foreseeable future, and therefore have assumed a dividend yield of zero. The risk-free interest rate is the yield on zero-coupon U.S. Treasury securities for a period that is commensurate with the expected term of the awards.
+
+ 
+
+As of March 31, 2024, there was $0.2 million of total unrecognized share-based compensation related to unvested stock options. These costs have a weighted average remaining recognition period of 1.7 years.
+
+ 
+
+Restricted Stock Units
+
+ 
+
+On January 1, 2024, we granted restricted stock units (“RSUs”) to our Chief Executive Officer that vest annually over the three years, following the date of grant at a rate of 34%, 33% and 33%, respectively, if the CEO is in service to the Company at each vesting date. The RSUs are subject to the terms and conditions of the 2014 Plan and the Restricted Stock Unit Award Agreement. See Note 11. Subsequent Events for a discussion of the vesting upon consummation of the Merger.
+
+ 
+
+13
+
+ 
+
+ 
+
+The following table summarizes our RSU activity for the three months ended March 31, 2024:
+
+ 
+
+                                                                                        Number of       Weighted        Weighted     
+
+                                                                                         Shares       Average Fair       Average
+
+                                                                                                     Value at Grant     Remaining
+
+                                                                                                          Date        Contractual 
+
+                                                                                                                          Term 
+
+                                                                                                                       (in years)
+
+RSU Outstanding as of December 31, 2023                                                           -                                 
+
+Granted                                                                                     300,000  $         6.18                 
+
+Vested                                                                                            -                                 
+
+Forfeited or expired                                                                              -                                 
+
+RSU Outstanding as of March 31, 2024                                                        300,000  $         6.18            2.75 
+
+ 
+
+As of March 31, 2024, there was $1.7 million of total unrecognized compensation cost related to unvested shares underlying outstanding RSUs. That cost is expected to be expensed over a remaining weighted average period of 2.75 years.
+
+ 
+
+We recorded $0.2 million of expense during the three months ended March 31, 2024 related to RSUs. We have not recorded any tax benefit related to our RSU expense.
+
+ 
+
+The fair value of each RSU granted during the three months ended March 31, 2024 was estimated using the closing stock price of our common stock on the date of grant.
+
+ 
+
+Note 10: Contingencies
+
+ 
+
+Litigation
+
+ 
+
+From time to time, we are subject to litigation incidental to the conduct of our business. When applicable, we record accruals for contingencies when it is probable that a liability will be incurred, and the amount of loss can be reasonably estimated. While the outcome of lawsuits and other proceedings against us cannot be predicted with certainty, in our opinion, individually or in the aggregate, no such lawsuits are expected to have a material effect on our condensed consolidated financial position or results of operations.
+
+ 
+
+Concentrations
+
+ 
+
+One customer accounted for 12% of consolidated revenue during the three months ended March 31, 2024, and one customer accounted for 20% of consolidated revenue during the three months ended March 31, 2023. Trade accounts receivable from one customer represented 14% of net consolidated receivables at March 31, 2024 and one customer represented 49% of net consolidated receivables at March 31, 2023.
+
+ 
+
+Two vendors each accounted for 21% of all consolidated purchases during the three months ended March 31, 2024. Three vendors accounted for 33%, 26%, and 22% of all consolidated purchases during the three months ended March 31, 2023. No other vendor accounted for more than 10% of purchases during the three months ended March 31, 2024 and 2023.
+
+ 
+
+As of March 31, 2024, two vendors accounted for 24% and 21% of total accounts payable. As of March 31, 2023, three vendors accounted for 35%, 29% and 20% of total accounts payable. No other vendor accounted for more than 10% of accounts payable as of March 31, 2024 and 2023.
+
+ 
+
+A significant decrease or interruption in business from our significant customers or vendors could have a material adverse effect on our business, financial condition and results of operations. Financial instruments that potentially expose us to a concentration of credit risk principally consist of accounts receivable. We sell product to a large number of customers in many different geographic regions. To minimize credit risk, we perform ongoing credit evaluations of our customers’ financial condition.
+
+ 
+
+14
+
+ 
+
+ 
+
+Note 11: Subsequent Events
+
+ 
+
+Agreement and Plan of Merger
+
+ 
+
+On April 30, 2024, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Barcoding Derby Buyer, Inc., a Delaware corporation (“Parent”), and Derby Merger Sub, Inc., a Delaware corporation and wholly owned subsidiary of Parent (“MergerCo”), providing for the merger of MergerCo with and into the Company (collectively with the other transactions contemplated by the Merger Agreement, the “Merger”), with the Company continuing as the surviving corporation of the Merger and a wholly owned subsidiary of Parent. Parent and MergerCo are affiliates of Barcoding Holdings, LLC, a portfolio company of Graham Partners. The consummation of the Merger is subject to certain closing conditions, including, among others, the approval of the Company’s stockholders of the adoption of the Merger Agreement.
+
+ 
+
+If the Merger is consummated, at the effective time of the Merger (the “Effective Time”):
+
+ 
+
+     ●    each issued and outstanding share of the Company’s common stock (other than certain exceptions, including shares of the
+
+           Company’s common stock owned by the Company, Parent or MergerCo or by holders who are entitled to and have properly
+
+           exercised and not waived, withdrawn, failed to perfect or otherwise lost their appraisal rights) will be cancelled and
+
+           extinguished and automatically converted into the right to receive cash in an amount equal to $10.22 (the “Per Share
+
+           Price”), without
+
+           interest;
+
+ 
+
+     ●    each outstanding restricted stock unit (“Company RSUs”) granted under the Company’s 2014 Equity Incentive Plan, as amended,
+
+           will be accelerated and fully vested, cancelled and exchanged into the right to receive an amount in cash equal to the
+
+           product of (A) the aggregate number of shares of the Company’s common stock subject to such Company RSU, multiplied by (B)
+
+           the Per Share Price, subject to applicable tax withholdings;
+
+           and
+
+ 
+
+     ●    each outstanding stock option (“Company Options”) granted under the Company’s 2014 Equity Incentive Plan, as amended, whether
+
+           vested or unvested, will be cancelled and with the holders becoming entitled to receive an amount in cash equal to the
+
+           product of (A) the aggregate number of shares of the Company’s common stock subject to such Company Option multiplied by (B)
+
+           the excess, if any, of the Per Share Price over the per share exercise price applicable to such Company Option, subject to
+
+           applicable tax
+
+           withholdings.
+
+ 
+
+Our board of directors has unanimously approved the Merger Agreement and resolved to recommend that stockholders vote in favor of the Merger. Assuming the satisfaction of the conditions set forth in the Merger Agreement, including the approval of DecisionPoint stockholders, the transaction is currently expected to close in July 2024.
+
+ 
+
+The Merger Agreement contains customary representations, warranties and covenants, including, among others, covenants by the Company to conduct its businesses in the ordinary course and consistent with past practice between the execution and completion of the Merger Agreement, to convene and hold a meeting of its stockholders to consider and vote upon the adoption of the Merger Agreement, to cooperate with Parent in connection with obtaining financing for the transaction, and, subject to certain customary exceptions, for the Board to recommend that its stockholders adopt the Merger Agreement. The Merger Agreement also contains customary representations, warranties and covenants of Parent and Merger Sub, including a covenant to use reasonable best efforts to obtain financing.
+
+ 
+
+15
+
+ 
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ 
+
+The following discussion and analysis should be read in conjunction with the condensed consolidated financial statements and notes thereto included elsewhere in this Quarterly Report on Form 10-Q. This Quarterly Report on Form 10-Q contains statements that discuss future events or expectations, projections of results of operations or financial condition, trends in our business, business prospects and strategies and other “forward-looking” information. In some cases, you can identify “forward-looking statements” by words like “may,” “will,” “should,” “expects,” These statements may relate to, among other things, our expectations regarding for our financial results, revenue, operating expenses and other financial measures in future periods, and the adequacy of our sources of liquidity to satisfy our working capital needs, capital expenditures, and other liquidity requirements. Our actual results may differ materially from those anticipated in these forward-looking statements. Among the factors that could cause actual results to differ materially are the factors discussed under “Risk Factors” in documents and reports we have filed with the Securities and Exchange Commission. Some additional factors that could cause actual results to differ include:
+
+ 
+
+     ●    any failure to complete, or delays in completing, the Merger (as defined below), and uncertainties related to the
+
+           consummation of the
+
+           Merger;
+
+           
+
+     ●    the various uncertainties and restrictions on the conduct of our business while the Merger is pending;
+
+           
+
+     ●    the risk that the Merger Agreement (as defined below) may be terminated in circumstances that require us to pay a
+
+           termination fee of approximately $2.6 million to Parent (as defined
+
+           below);
+
+           
+
+     ●    the substantial transaction-related costs being incurred in connection with the Merger;
+
+           
+
+     ●    the risk related to us and our directors and officers being subject to lawsuits relating to the Merger;
+
+           
+
+     ●    the risk that provisions of the Merger Agreement may deter alternative business combinations and could negatively impact our
+
+           stock price if the Merger Agreement is terminated in certain
+
+           circumstances;
+
+           
+
+     ●    our estimates regarding expenses, future revenue, capital requirements and liquidity;
+
+           
+
+     ●    our plans to obtain any requisite outside funding for our current and proposed operations and potential acquisition and
+
+           expansion
+
+           efforts;
+
+           
+
+     ●    the success of the Company’s plan for growth, both internally and through pursuit of suitable acquisition candidates;
+
+           
+
+     ●    the concentration of our customers and vendors and the potential effect of the loss of a significant customer or vendor;
+
+           
+
+     ●    debt obligations of the Company arising from our line of credit and term loan from time to time or otherwise;
+
+           
+
+     ●    our ability to integrate the business operations of businesses that we acquire from time to time;
+
+           
+
+     ●    the possibility that we may be adversely affected by other economic, business or competitive factors including market
+
+           volatility, inflation, increases in interest rates, supply chain interruptions, and may not be able to manage other risks
+
+           and
+
+           uncertainties;
+
+ 
+
+16
+
+ 
+
+ 
+
+     ●    our ability to compete with companies producing similar products and services;
+
+           
+
+     ●    the scope of protection we are able to establish and maintain for intellectual property rights covering our products and
+
+           technology;
+
+           
+
+     ●    the accuracy of our estimates regarding expenses, future revenue, capital requirements and needs for additional financing;
+
+           
+
+     ●    our ability to develop and maintain our corporate infrastructure, including our internal controls;
+
+           
+
+     ●    general economic conditions, including effects of inflation, market volatility, interest rate increases, general recession
+
+           concerns in the U.S. and abroad, and effects of geopolitical events domestically and
+
+           abroad;
+
+           
+
+     ●    our ability to develop innovative new products and services; and
+
+           
+
+     ●    our financial performance.
+
+ 
+
+Our financial statements are stated in United States Dollars (“$”) and are prepared in accordance with U.S. GAAP. In this Quarterly Report, unless otherwise specified, all dollar amounts are expressed in United States dollars and all references to “common shares” refer to the common shares in our capital stock.
+
+ 
+
+Overview 
+
+ 
+
+We are a provider and integrator of mobility and wireless systems for business organizations. We design, deploy and support mobile computing systems that enable customers to access employers’ data networks at various locations (i.e., the retail selling floor, nurse workstations, warehouse and distribution centers or on the road deliveries via enterprise-grade handheld computers, printers, tablets, and smart phones). We also integrate data capture equipment including bar code scanners and radio frequency identification (RFID) readers.
+
+ 
+
+In April 2023, we completed the acquisition of Macro Integration Services, Inc. (“Macro”), a privately held company headquartered in Greensboro, North Carolina. We acquired Macro to increase profit margins through adding more services, expanding our regional presence, and adding new capabilities and deepening existing ones. This acquisition also strengthens our position in the traditional retail market while adding to adjacent retail verticals in food service and grocery.
+
+ 
+
+General economic uncertainty and volatility arising from geopolitical events and concerns, inflation, rises in energy prices, increased interest rates, recession concerns, and general declines in capital spending in the information technology sector (and the economy in general) make it difficult to predict changes in the purchasing requirements of our customers and the markets we serve and whether our results of operations will be materially impacted. 
+
+ 
+
+Components of Results of Operations
+
+ 
+
+Net Sales
+
+ 
+
+Net sales reflect revenue from the sale of hardware, software, consumables and professional services (including hardware and software maintenance) to our clients, net of sales taxes.
+
+ 
+
+Revenue is recognized when a customer obtains control of promised goods or services under the terms of a contract and is measured as the amount of consideration we expect to receive in exchange for transferring goods or providing services. We do not have any material extended payment terms, as payment is due at or shortly after the time of the sale. Sales, value-added and other taxes collected concurrently with revenue producing activities are excluded from revenue.
+
+ 
+
+17
+
+ 
+
+ 
+
+Cost of Sales, Sales and Marketing Expenses, and General and Administrative Expenses
+
+ 
+
+The following illustrates the primary costs classified in each major expense category:
+
+ 
+
+Cost of sales, include:
+
+ 
+
+     ●    Cost of goods sold for hardware, software and consumables;
+
+           
+
+     ●    Cost of professional services, including maintenance; 
+
+           
+
+     ●    Markdowns of inventory; and
+
+           
+
+     ●    Freight expenses. 
+
+ 
+
+Sales and marketing expenses, include:
+
+ 
+
+     ●    Sales salaries, benefits and commissions;
+
+           
+
+     ●    Consulting;
+
+           
+
+     ●    Marketing tools;
+
+           
+
+     ●    Travel; and 
+
+           
+
+     ●    Marketing promotions and trade shows.
+
+ 
+
+General and administrative expenses, include:
+
+ 
+
+     ●    Corporate payroll and benefits;
+
+           
+
+     ●    Depreciation and amortization; 
+
+           
+
+     ●    Rent;
+
+           
+
+     ●    Utilities; and
+
+           
+
+     ●    Other administrative costs such as maintenance of corporate offices, supplies, legal, consulting, audit and tax preparation
+
+           and other professional
+
+           fees.
+
+ 
+
+18
+
+ 
+
+ 
+
+Results of Operations
+
+ 
+
+The following table summarizes key components of our results of operations for the periods indicated, both in dollars and as a percentage of our net sales (in thousands):
+
+ 
+
+                                                                                                            Three Months Ended        
+
+                                                                                                                 March 31,            
+
+                                                                                                          2024            2023      
+
+Statements of Operations Data:                                                                                                      
+
+Net sales                                                                                             $      25,618   $      27,039 
+
+Cost of sales                                                                                                19,607          20,989 
+
+Gross profit                                                                                                  6,011           6,050 
+
+Sales and marketing expenses                                                                                  2,813           2,368 
+
+General and administrative expenses                                                                           4,096           2,494 
+
+Total operating expenses                                                                                      6,909           4,862 
+
+Operating (loss) income                                                                                        (898)          1,188 
+
+Interest expense, net                                                                                          (248)            (13)
+
+(Loss) income before income taxes                                                                            (1,146)          1,175 
+
+Income tax benefit (expense)                                                                                    314            (309)
+
+Net (loss) income attributable to common shareholders                                                 $        (832)  $         866 
+
+Percentage of Net Sales:                                                                                                            
+
+Net sales                                                                                                     100.0%          100.0%
+
+Cost of sales                                                                                                  76.5%           77.6%
+
+Gross profit                                                                                                   23.5%           22.4%
+
+Sales and marketing expenses                                                                                   11.0%            8.8%
+
+General and administrative expenses                                                                            16.0%            9.2%
+
+Total operating expenses                                                                                       27.0%           18.0%
+
+Operating (loss) income                                                                                        -3.5%            4.4%
+
+Interest expense, net                                                                                          -1.0%            0.0%
+
+(Loss) income before income taxes                                                                              -4.5%            4.3%
+
+Income tax benefit (expense)                                                                                    1.2%           -1.1%
+
+Net (loss) income attributable to common shareholders                                                          -3.2%            3.2%
+
+ 
+
+19
+
+ 
+
+ 
+
+Results of Operations for the First Quarter of 2024 Compared to the First Quarter of 2023 (Unaudited)
+
+ 
+
+Net sales
+
+ 
+
+                                                                           Three Months Ended                                     
+
+                                                                                March 31,               Dollar         Percent    
+
+                                                                          2024           2023          Change         Change     
+
+                                                                                  (dollars in thousands)                            
+
+Hardware and software                                                 $      13,893  $      20,540  $      (6,647)         (32.4)%
+
+Consumables                                                                   1,424          1,626           (202)         (12.4)%
+
+Services                                                                     10,301          4,873          5,428          111.4%
+
+                                                                      $      25,618  $      27,039  $      (1,421)          (5.3)%
+
+ 
+
+Net sales decreased by 5.3%, or $1.4 million, during the three months ended March 31, 2024 as compared to the same period of the prior year. Hardware and software net sales decreased $6.6 million, during the three months ended March 31, 2024, primarily due decreases in hardware sales to two of our significant customers. These customers purchased hardware in 2023 and these sales were not repeated in 2024. Overall, we experienced a general decline in sales for most of our customers in the first quarter of 2024. Consumables decreased $0.2 million during the three months ended March 31, 2024 primarily due to an overall decline in sales to existing customers. Services increased $5.4 million during the three months ended March 31, 2024, primarily due to the acquisition of Macro on April 1, 2023 (and, thus, there were no corresponding sales by Macro included in our results of operations during the first quarter of 2023), which contributed $5.8 million in services.
+
+ 
+
+Cost of sales
+
+ 
+
+                                                                           Three Months Ended                                     
+
+                                                                                March 31,               Dollar         Percent    
+
+                                                                          2024           2023          Change         Change     
+
+                                                                                  (dollars in thousands)                            
+
+Hardware and software                                                 $      11,478  $      16,706  $      (5,228)         (31.3)%
+
+Consumables                                                                   1,010          1,179           (169)         (14.3)%
+
+Services                                                                      7,119          3,104          4,015          129.3%
+
+                                                                      $      19,607  $      20,989  $      (1,382)          (6.6)%
+
+ 
+
+Cost of sales decreased by 6.6%, or $1.4 million during the three months ended March 31, 2024 as compared to the same prior year period primarily due to lower hardware sales volume and the corresponding decrease in costs associated with those sales.
+
+ 
+
+Gross profit 
+
+ 
+
+                                                                           Three Months Ended                                     
+
+                                                                                March 31,               Dollar         Percent    
+
+                                                                          2024           2023          Change         Change     
+
+                                                                                  (dollars in thousands)                            
+
+Hardware and software                                                 $       2,415  $       3,834  $      (1,419)         (37.0)%
+
+Consumables                                                                     414            447            (33)          (7.4)%
+
+Services                                                                      3,182          1,769          1,413           79.9%
+
+                                                                      $       6,011  $       6,050  $         (39)          (0.6)%
+
+ 
+
+20
+
+ 
+
+ 
+
+Gross profit remained flat $6.0 million for the three months ended March 31, 2024 as compared to the prior year period, primarily as a result of overall lower sales volume and the other impacts noted above. Overall gross profit margin increased 60 basis points due to a shift in mix to services sales with higher profit margins.
+
+ 
+
+Sales and marketing expenses
+
+ 
+
+                                                                          Three Months Ended                                       
+
+                                                                              March 31,                  Dollar         Percent    
+
+                                                                        2024            2023            Change         Change     
+
+                                                                                 (dollars in thousands)                             
+
+Sales and marketing expenses                                        $      2,813   $      2,368   $          445           18.8%
+
+As a percentage of sales                                                    11.0%           8.8%                            2.2%
+
+ 
+
+Sales and marketing expenses increased $0.5 million, or 18.8%, for the three months ended March 31, 2024 as compared to the prior year period primarily due to $0.5 million in additional expenses for Macro’s operations that were acquired on April 1, 2023 (and, thus, there were not corresponding sales and marketing expenses of Macro included in our results of operations for 2023).
+
+ 
+
+General and administrative expenses
+
+ 
+
+                                                                           Three Months Ended                                      
+
+                                                                               March 31,                 Dollar         Percent    
+
+                                                                         2024            2023           Change         Change     
+
+                                                                                  (dollars in thousands)                             
+
+General and administrative                                           $       4,096   $       2,494   $       1,602           64.2%
+
+As a percentage of sales                                                      16.0%            9.2%                           6.8%
+
+ 
+
+General and administrative expenses increased $1.6 million, or 64.2%, for the three months ended March 31, 2024 as compared to the same period of the prior year. The increase in these expenses was due to a $1.0 million increase in expenses primarily associated with Macro (which we acquired on April 1, 2023, and, thus, there were no corresponding general and administrative expenses by Macro included in our results of operations for 2023). Furthermore, during the first quarter of 2024, we incurred $0.5 million in additional legal, consulting, and other professional fees in connection with the merger (the “Merger”) contemplated by that certain Agreement and Plan of Merger (the “Merger Agreement”), dated April 30, 2024, by and among the Company, Barcoding Derby Buyer, Inc., a Delaware corporation (“Parent”), and Derby Merger Sub, Inc., a Delaware corporation and wholly owned subsidiary of Parent (“MergerCo”) (see Note 11 in the condensed consolidated financial statements).
+
+ 
+
+Interest expense. Interest expense increased to $0.2 million in the first quarter of 2024 from $13,000 from the same period last year due to an increase in debt levels as compared to the same period last year and the unwinding of the present value discount on the accrued earnout obligation incurred for the Macro acquisition. The adjustment of the present value calculation of the accrued earnout obligation resulted in an additional $0.14 million of interest expense for the three months ended March 31, 2024.
+
+ 
+
+Income tax expense. Income tax benefit was approximately $0.3 million for the three months ended March 31, 2024 compared to $0.3 million income tax expense for the three months ended March 31, 2023. The current year income tax benefit is primarily due to the net loss incurred during the current quarter.
+
+ 
+
+Net (loss) income. Net (loss) income was ($0.8) million for the three months ended March 31, 2024, a decrease of $1.7 million compared to net income of $0.9 million in the same period last year.
+
+  
+
+21
+
+ 
+
+ 
+
+Liquidity and Capital Resources
+
+ 
+
+As of March 31, 2024, our principal sources of liquidity were cash totaling $5.8 million and $10.0 million of availability under our line of credit. In recent years, we have financed our operations primarily through cash generated from operating activities, borrowings from term loans and our line of credit. In certain prior years, we generated operating losses and negative cash flows from operating activities as reflected in our accumulated deficit. Since December 31, 2018 through December 31, 2023 we have generated operating income. Based on our recent trends and our current projections, we expect to generate cash from operations for the year ending December 31, 2024. Given our projections, combined with our existing cash and credit facilities, we believe the Company has sufficient liquidity for at least the next 12 months. In addition, we believe cash generated from operating income and our existing credit facilities will be sufficient to meet our long-term liquidity needs beyond the next 12 months.
+
+ 
+
+Part of our consideration for the acquisition of Macro included earnout payments to the sellers, which are subject to the financial performance of Macro in each of the two years following closing and are presented at net present values. The earnout is based on achieving EBITDA targets in years one and two following the Effective Date of $2.8 million and $3.8 million, respectively. At March 31, 2024, we have accrued $5.6 million and $4.6 million for the Year 1 and Year 2 earnouts at their net present values, respectively, which are due by June 14, 2024 and June 14, 2025, respectively.
+
+ 
+
+Our ability to continue to meet our cash requirements will depend on, among other things, macro-economic conditions, U.S. and global economic activity, continuing disruptions in supply chains and labor shortages across industry sectors, our ability to achieve anticipated levels of revenues and cash flow from operations, our ability to manage costs and working capital successfully and the continued availability of financing, if needed. We cannot provide any assurance that our assumptions used to estimate our liquidity requirements will remain accurate due to, among other things, volatile macro-economic conditions. In the event of a sustained market deterioration, and declines in net sales, we may need additional liquidity, which would require us to evaluate available alternatives and take appropriate actions. We cannot provide any assurance that we will be able to obtain any additional sources of financing or liquidity on acceptable terms, or at all.
+
+ 
+
+Working Capital (Deficit)
+
+ 
+
+                                                                                         March 31,     December 31,     Increase/    
+
+                                                                                           2024            2023         (Decrease)   
+
+                                                                                                       (in thousands)                  
+
+Current assets                                                                         $      31,075  $      34,657  $       (3,582)
+
+Current liabilities                                                                           36,845         38,736           (1891)
+
+Working capital (deficit)                                                              $      (5,770) $      (4,079) $       (1,691)
+
+ 
+
+The working capital deficit increase as of March 31, 2024 was primarily due to the net loss of $0.8 million in the first quarter of 2024.
+
+ 
+
+Line of Credit
+
+ 
+
+Our Loan and Security Agreement (the “Loan Agreement”) with MUFG Union Bank, National Association (the “Bank”), as amended, provides for a revolving line of credit of up to $10.0 million with our obligations being secured by a security interest in substantially all of our assets. Loans extended to us under the Loan Agreement are scheduled to mature on July 31, 2026. Effective March 27, 2023, we entered into an amendment letter (“Amendment”) with the Bank that served to amend certain terms of the Loan Agreement and increased the revolving line of credit available to us from $9.0 million to $10.0 million. The Amendment also served to modify certain covenants in the original Loan Agreement. On March 31, 2024, we had $0.0 million outstanding and $10.0 million available under this line of credit.
+
+ 
+
+22
+
+ 
+
+ 
+
+MUFG Promissory Note
+
+ 
+
+We entered into a $5.0 million unsecured promissory note agreement, effective March 27, 2023, with the Bank. Principal and interest payments on this note are due in quarterly installments of $250,000 on the last day of each quarter commencing June 30, 2023, with an interest rate based on Term SOFR plus 2.5%, which was 7.9% at December 31, 2023. This note matures March 31, 2028.
+
+ 
+
+Cash Flow Analysis
+
+ 
+
+                                                                                                              Three Months Ended       
+
+                                                                                                                  March 31,            
+
+                                                                                                            2024           2023      
+
+                                                                                                                (in thousands)         
+
+Net cash provided by (used in) operating activities                                                     $       3,243  $      (1,496)
+
+Net used in investing activities                                                                                 (161)          (176)
+
+Net cash provided by (used in) financing activities                                                            (1,548)        12,005 
+
+Net increase in cash                                                                                    $       1,534  $      10,333 
+
+ 
+
+Operating Activities 
+
+ 
+
+Net cash provided by operating activities increased to $3.2 million for the three months ended March 31, 2024 from net cash used in operating activities of $1.5 million for the three months ended March 31, 2023. The increase was primarily due to the $4.4 million collection of accounts receivable during the three months ended March 31, 2024.
+
+ 
+
+Investing Activities
+
+ 
+
+Net cash used in investing activities was $0.2 million for the three months ended March 31, 2024 and 2023 which is comprised of capital expenditures of property and equipment.
+
+ 
+
+Financing Activities 
+
+  
+
+Net cash used in financing activities was $1.5 million for the three months ended March 31, 2024 due to the $1.3 million repayment of the outstanding balance on the line of credit and $0.2 million principal payment on the term loan. Net cash provided by financing activities was $12.0 million for the three months ended March 31, 2023 due to the $7.0 million draw on the revolving line of credit and the proceeds from the $5.0 million term loan which were used to fund the acquisition of Macro Integration on April 1, 2023.
+
+ 
+
+23
+
+ 
+
+ 
+
+Critical Accounting Estimates
+
+ 
+
+The preparation of financial statements in accordance with accounting principles generally accepted in the United States requires the appropriate application of certain accounting policies, some of which require us to make estimates and assumptions about future events and their impact on amounts reported in our condensed consolidated financial statements. Since future events and their impact cannot be determined with absolute certainty, the actual results will inevitably differ from our estimates.
+
+  
+
+For a description of other critical accounting policies and estimates, refer to Part II, Item 7, Critical Accounting Estimates in our Annual Report on Form 10-K for the year ended December 31, 2023. There have been no material changes to our critical accounting estimates since our Annual Report on Form 10-K for the year ended December 31, 2023.
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+ 
+
+We are a smaller reporting company, as defined in Rule 12b-2 under the Securities Exchange Act of 1934, as amended, for this reporting period and are not required to provide the information required under this item.
+
+ 
+
+Item 4. Controls and Procedures
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+  
+
+Our management, with the participation of our principal executive officer and principal financial officer, evaluated the effectiveness of our disclosure controls and procedures as of March 31, 2024. The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management, including its principal executive and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. Based on the evaluation of our disclosure controls and procedures as of March 31, 2024, our principal executive officer and principal financial officer concluded that, as of such date, our disclosure controls and procedures were effective.
+
+ 
+
+Changes in Internal Control Over Financial Reporting
+
+ 
+
+There were no material changes in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the period covered by this Quarterly Report on Form 10-Q that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+ 
+
+24
+
+ 
+
+ 
+
+PART II. OTHER INFORMATION
+
+ 
+
+Item 1. Legal Proceedings
+
+ 
+
+The information contained in “Note 10: Contingencies” to our condensed consolidated financial statements included in this Quarterly Report on Form 10-Q is incorporated by reference into this Item.
+
+ 
+
+Item 1A. Risk Factors
+
+ 
+
+In addition to the other information set forth in this Quarterly Report on Form 10-Q, please refer to the section titled Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023 for a detailed discussion of certain risks that affect us. Other than the updated risk factors below, there have been no material changes in our risk factors as previously disclosed in our Annual Report on Form 10-K for the year ended December 31, 2023.
+
+ 
+
+Risks Related to Our Proposed Merger
+
+ 
+
+On April 30, 2024, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Barcoding Derby Buyer, Inc., a Delaware corporation (“Parent”), and Derby Merger Sub, Inc., a Delaware corporation and wholly owned subsidiary of Parent (“MergerCo”), providing for the merger of MergerCo with and into the Company (collectively with the other transactions contemplated by the Merger Agreement, the “Merger”), with the Company continuing as the surviving corporation of the Merger and a wholly owned subsidiary of Parent. See Note 11, Subsequent Events appearing elsewhere in this Quarterly Report on Form 10-Q for additional information.
+
+ 
+
+The Merger Agreement was unanimously approved by our board of directors. The description of the Merger Agreement in these Risk Factors does not purport to be complete and is qualified in its entirety by reference to the Merger Agreement, which was filed as Exhibit 2.1 to our Current Report on Form 8-K filed on May 1, 2024.
+
+ 
+
+Failure to complete, and delays in completing, the Merger, and uncertainties related to the consummation of the Merger may have a material adverse effect on our business, results of operations and financial condition and negatively impact the price of our common stock.
+
+ 
+
+The consummation of the Merger is subject to a number of customary closing conditions, some of which are beyond our control, including the receipt of stockholder approval. Failure to satisfy the conditions to the Merger could prevent, delay or otherwise materially and adversely affect the completion of the Merger. Further, regulators may impose conditions, obligations or restrictions on the Merger that may have the effect of delaying or preventing its completion. We can provide no assurance that all closing conditions will be satisfied. Even if all closing conditions are satisfied, we also cannot assure you that we will be able to successfully consummate the Merger as currently contemplated under the Merger Agreement or at all. Risks related to the failure of the Merger to be consummated include, but are not limited to, the following:
+
+ 
+
+     ●    under some circumstances, we may be required to pay a termination fee to Parent of approximately $2.6 million;
+
+ 
+
+     ●    we will remain liable for significant transaction costs, including legal, accounting, financial advisory, and other costs
+
+           relating to the Merger regardless of whether the Merger is
+
+           consummated;
+
+ 
+
+     ●    we may experience negative reactions from financial markets or the trading price of our common stock may decline to the
+
+           extent that the current market price for our common stock reflects a market assumption that the Merger will be
+
+           completed;
+
+ 
+
+25
+
+ 
+
+ 
+
+     ●    we and our directors and officers could be subject to litigation relating to the Merger, including relating to any failure to
+
+           complete the
+
+           Merger;
+
+ 
+
+     ●    the attention of our management and employees may have been diverted by the Merger;
+
+ 
+
+     ●    the potential loss of key personnel during the pendency of the Merger as employees may experience uncertainty about their
+
+           future roles with us following completion of the
+
+           Merger;
+
+ 
+
+     ●    the potential loss of, and negative reactions from customers, vendors, distributors and other business partners, including
+
+           those with which we are seeking to establish business relationships, due to uncertainties about the Merger;
+
+           and
+
+ 
+
+     ●    under the Merger Agreement, we are subject to certain restrictions on the conduct of our business prior to completing the
+
+           Merger, which restrictions could adversely affect our ability to conduct our business as we otherwise would have done if we
+
+           were not subject to these
+
+           restrictions.
+
+ 
+
+The occurrence of any of these events individually or in combination could materially and adversely affect our business, results of operations, financial condition, and stock price. If the Merger is not consummated and one or more of these events occur, such as payment of a termination fee to Parent or other significant transaction costs in connection with the Merger, our cash balances and other outstanding indebtedness at that time could be materially and adversely impacted and our options for sources of financing or refinancing could be more limited than if we had not pursued the Merger. If the Merger is not completed, there can be no assurance that these risks will not materialize and will not materially and adversely affect our stock price, business, financial condition, results of operations or cash flows.
+
+ 
+
+We are subject to various uncertainties and restrictions on the conduct of our business while the Merger is pending, which could have a material adverse effect on our business, results of operations and financial condition.
+
+ 
+
+Uncertainty about the pendency of the Merger and the effect of the Merger on our employees, customers, vendors, distributors and other third parties who deal with us may have a material adverse effect on our business, results of operations and financial condition. These uncertainties may impair our ability to attract, retain and motivate key personnel pending the consummation of the Merger, as such personnel may experience uncertainty about their future roles following the consummation of the Merger. Additionally, these uncertainties could cause customers, vendors, distributors and other business partners who deal with us to seek to change existing business relationships with us or fail to extend an existing relationship with us, all of which could have a material adverse effect on our business, results of operations, financial condition and market price of our common stock.
+
+ 
+
+In addition, the Merger Agreement restricts us from taking certain actions without Parent’s consent while the Merger is pending. These restrictions may, among other matters, prevent us from hiring key personnel, buying or selling assets, refinancing or incurring additional indebtedness, entering into or amending certain transactions, or making other changes to our business prior to consummation of the Merger or termination of the Merger Agreement. These restrictions and uncertainties could have a material adverse effect on our business, results of operations and financial condition during the pendency of the Merger.
+
+ 
+
+26
+
+ 
+
+ 
+
+We will continue to incur substantial transaction-related costs in connection with the Merger.
+
+ 
+
+We have incurred significant legal, advisory and financial services fees in connection with Merger. We have incurred, and expect to continue to incur, additional costs in connection with the satisfaction of the various conditions to closing of the Merger, including seeking approval from our stockholders. If there is any delay in the consummation of the Merger, these costs could increase significantly.
+
+ 
+
+We and our directors and officers may be subject to lawsuits relating to the Merger.
+
+ 
+
+Litigation is very common in connection with the sale of public companies, regardless of whether the claims have any merit. One of the conditions to consummating the Merger is that no statute, rule, regulation, order, or other legal or regulatory restraint which has the effect of preventing, prohibiting or rendering illegal the consummation of the Merger shall have been issued by any governmental authority. Consequently, if any lawsuit challenging the Merger is successful in obtaining an order preventing the consummation of the Merger, that order may delay or prevent the Merger from being completed. While we will evaluate and defend against any lawsuits, the time and costs of defending against litigation relating to the Merger may adversely affect our business.
+
+ 
+
+Provisions of the Merger Agreement may deter alternative business combinations and could negatively impact our stock price if the Merger Agreement is terminated in certain circumstances.
+
+ 
+
+The Merger Agreement prohibits us from initiating, soliciting, proposing, inducing the making, submission, or announcement of or knowingly encouraging or knowingly facilitating any inquiries or the making of any proposal or other action that constitutes, or may reasonably be expected to lead to, any Acquisition Proposal (as defined in the Merger Agreement), subject to exceptions set forth in the Merger Agreement. The Merger Agreement also provides for the payment by us of a termination fee of approximately $2.6 million if the Merger Agreement is terminated in certain circumstances in connection with a competing third-party acquisition proposal. These provisions limit our ability to pursue offers from third parties that could result in greater value to our stockholders. The obligation to pay the termination fee may also discourage a third party from pursuing an alternative acquisition proposal. If the Merger Agreement is terminated and we determine to seek another business combination, we cannot assure our stockholders or other securities holders that we will be able to negotiate a transaction with another company on terms comparable to the terms of the Merger Agreement, or that we will avoid incurrence of any fees associated with the termination of the Merger Agreement. In the event the Merger Agreement is terminated, our stock price may decline.
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+ 
+
+None.
+
+ 
+
+27
+
+ 
+
+ 
+
+Item 6. Exhibits
+
+  
+
+EXHIBIT INDEX
+
+ 
+
+  Exhibit                                                           Description
+
+   Number
+
+    2.1±     Agreement and Plan of Merger, dated as of April 30, 2024, by and among DecisionPoint Systems, Inc., Barcoding Derby
+
+              Buyer, Inc., and Derby Merger Sub, Inc. (incorporated by reference to Exhibit 2.1 to the Current Report on Form 8-K
+
+              filed on May 1,
+
+              2024)
+
+              
+
+    3.1      Amended and Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1 to the Registration Statement
+
+              on Form S-1 filed on August 13,
+
+              2020)
+
+              
+
+    3.2      Amendment to Amended and Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1 to the Current
+
+              Report on Form 8-K filed on December 17,
+
+              2021)
+
+              
+
+    3.3      Amended and Restated Bylaws of the Company (incorporated by reference to Exhibit 3.4 to the Registration Statement on
+
+              Form S-1 filed on August 13,
+
+              2020)
+
+              
+
+    3.4      First Amendment to the Amended and Restated Bylaws of DecisionPoint Systems, Inc., dated April 30, 2024 (incorporated by
+
+              reference to Exhibit 3.1 to the Current Report on Form 8-K filed on May 1,
+
+              2024)
+
+              
+
+   31.1*     Certification by the Principal Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+              
+
+   31.2*     Certification by the Principal Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+              
+
+   32.1**    Section 1350 Certification of Principal Executive Officer
+
+              
+
+   32.2**    Section 1350 Certification of Principal Financial Officer
+
+              
+
+  101.INS    Inline XBRL Instance Document.
+
+              
+
+  101.SCH    Inline XBRL Taxonomy Extension Schema Document.
+
+              
+
+  101.CAL    Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+
+              
+
+  101.DEF    Inline XBRL Taxonomy Extension Definition Linkbase Document.
+
+              
+
+  101.LAB    Inline XBRL Taxonomy Extension Label Linkbase Document.
+
+              
+
+  101.PRE    Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+
+              
+
+    104      Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+
+ 
+
+±    All schedules to this exhibit have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company hereby agrees to furnish
+
+      supplementally a copy of any omitted schedule to the Securities and Exchange Commission upon
+
+      request.
+
+*    Filed herewith
+
+
+
+**   Furnished herewith
+
+ 
+
+28
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf of the undersigned thereunto duly authorized. 
+
+ 
+
+                                                                                 DECISIONPOINT SYSTEMS, INC.
+
+                                                                                         
+
+Date: May 15, 2024                                                               By:    /s/ Steve Smith
+
+                                                                                 Name:  Steve Smith
+
+                                                                                 Title: Chief Executive Officer
+
+                                                                                        (Principal Executive Officer) and Director
+
+                                                                                         
+
+Date: May 15, 2024                                                               By:    /s/ Melinda Wohl
+
+                                                                                 Name:  Melinda Wohl
+
+                                                                                 Title: Chief Financial Officer
+
+                                                                                        (Principal Financial Officer and
+
+                                                                                        Principal Accounting Officer)
+
+ 
+
+ 
+
+29
+
+ 
+
+ 
+
+false --12-31 Q1 0001505611 0001505611 2024-01-01 2024-03-31 0001505611 2024-05-10 0001505611 2024-03-31 0001505611 2023-12-31 0001505611 us-gaap:ProductMember 2024-01-01 2024-03-31 0001505611 us-gaap:ProductMember 2023-01-01 2023-03-31 0001505611 us-gaap:ServiceMember 2024-01-01 2024-03-31 0001505611 us-gaap:ServiceMember 2023-01-01 2023-03-31 0001505611 2023-01-01 2023-03-31 0001505611 us-gaap:CommonStockMember 2023-12-31 0001505611 us-gaap:AdditionalPaidInCapitalMember 2023-12-31 0001505611 us-gaap:RetainedEarningsMember 2023-12-31 0001505611 us-gaap:CommonStockMember 2024-01-01 2024-03-31 0001505611 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-03-31 0001505611 us-gaap:RetainedEarningsMember 2024-01-01 2024-03-31 0001505611 us-gaap:CommonStockMember 2024-03-31 0001505611 us-gaap:AdditionalPaidInCapitalMember 2024-03-31 0001505611 us-gaap:RetainedEarningsMember 2024-03-31 0001505611 us-gaap:CommonStockMember 2022-12-31 0001505611 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 0001505611 us-gaap:RetainedEarningsMember 2022-12-31 0001505611 2022-12-31 0001505611 us-gaap:CommonStockMember 2023-01-01 2023-03-31 0001505611 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-03-31 0001505611 us-gaap:RetainedEarningsMember 2023-01-01 2023-03-31 0001505611 us-gaap:CommonStockMember 2023-03-31 0001505611 us-gaap:AdditionalPaidInCapitalMember 2023-03-31 0001505611 us-gaap:RetainedEarningsMember 2023-03-31 0001505611 2023-03-31 0001505611 us-gaap:SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember 2023-04-30 0001505611 2023-01-01 2023-12-31 0001505611 dpsi:HardwareAndSoftwareMember 2024-01-01 2024-03-31 0001505611 dpsi:HardwareAndSoftwareMember 2023-01-01 2023-12-31 0001505611 dpsi:ConsumablesMember 2024-01-01 2024-03-31 0001505611 dpsi:ConsumablesMember 2023-01-01 2023-12-31 0001505611 dpsi:ProfessionalServicesMember 2024-01-01 2024-03-31 0001505611 dpsi:ProfessionalServicesMember 2023-01-01 2023-12-31 0001505611 2023-07-01 2023-09-30 0001505611 dpsi:MacroIntegrationServicesIncMember 2024-01-01 2024-03-31 0001505611 srt:MinimumMember 2024-01-01 2024-03-31 0001505611 srt:MaximumMember 2024-01-01 2024-03-31 0001505611 srt:MaximumMember srt:ScenarioForecastMember 2024-06-14 2024-06-14 0001505611 srt:MinimumMember srt:ScenarioForecastMember 2025-06-14 2025-06-14 0001505611 dpsi:EBITDATargetsMember 2024-01-01 2024-03-31 0001505611 srt:MaximumMember 2024-03-31 0001505611 srt:MinimumMember 2024-03-31 0001505611 dpsi:MacroAcquisitionMember 2024-01-01 2024-03-31 0001505611 dpsi:MacroMember 2024-03-31 0001505611 dpsi:MacroAcquisitionMember dpsi:CustomerListsAndRelationshipsMember 2023-12-31 0001505611 dpsi:MacroAcquisitionMember us-gaap:TradeNamesMember 2023-12-31 0001505611 dpsi:CustomerListsAndRelationshipsMember 2024-03-31 0001505611 dpsi:CustomerListsAndRelationshipsMember 2023-12-31 0001505611 us-gaap:TradeNamesMember 2024-03-31 0001505611 us-gaap:TradeNamesMember 2023-12-31 0001505611 us-gaap:DevelopedTechnologyRightsMember 2024-03-31 0001505611 us-gaap:DevelopedTechnologyRightsMember 2023-12-31 0001505611 dpsi:BacklogMember 2024-03-31 0001505611 dpsi:BacklogMember 2023-12-31 0001505611 us-gaap:RevolvingCreditFacilityMember dpsi:MUFGUnionBankLineOfCreditMember 2024-03-31 0001505611 dpsi:MUFGUnionBankLineOfCreditMember 2024-01-01 2024-03-31 0001505611 srt:MinimumMember us-gaap:RevolvingCreditFacilityMember 2023-03-31 0001505611 srt:MaximumMember us-gaap:RevolvingCreditFacilityMember 2023-03-31 0001505611 dpsi:InterestAndFeesMember 2024-03-31 0001505611 2023-03-27 0001505611 2023-06-30 0001505611 dpsi:MUFGNoteMember 2023-06-30 0001505611 dpsi:EidlNoteMember 2020-08-27 0001505611 dpsi:EidlNoteMember 2021-08-01 2021-08-27 0001505611 dpsi:MUFGPromissoryNoteMember 2024-03-31 0001505611 dpsi:EIDLPromissoryNoteMember 2024-03-31 0001505611 dpsi:EquityIncentivePlanMember 2024-03-31 0001505611 us-gaap:ShareBasedCompensationAwardTrancheOneMember 2024-01-01 2024-03-31 0001505611 us-gaap:OptionMember 2024-03-31 0001505611 us-gaap:OptionMember 2024-01-01 2024-03-31 0001505611 srt:ChiefExecutiveOfficerMember 2024-01-01 2024-03-31 0001505611 us-gaap:RestrictedStockMember 2024-01-01 2024-03-31 0001505611 us-gaap:RestrictedStockUnitsRSUMember 2023-12-31 0001505611 us-gaap:RestrictedStockUnitsRSUMember 2024-01-01 2024-03-31 0001505611 us-gaap:RestrictedStockUnitsRSUMember 2024-03-31 0001505611 dpsi:OneCustomerMember us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2024-01-01 2024-03-31 0001505611 dpsi:OneCustomerMember us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2023-01-01 2023-03-31 0001505611 dpsi:OneCustomerMember us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember 2024-01-01 2024-03-31 0001505611 dpsi:OneCustomerMember us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember 2023-01-01 2023-03-31 0001505611 us-gaap:CostOfGoodsTotalMember us-gaap:SupplierConcentrationRiskMember dpsi:TwoVendorsMember 2024-01-01 2024-03-31 0001505611 us-gaap:CostOfGoodsTotalMember us-gaap:SupplierConcentrationRiskMember dpsi:OneVendorsMember 2023-01-01 2023-03-31 0001505611 us-gaap:CostOfGoodsTotalMember us-gaap:SupplierConcentrationRiskMember dpsi:TwoVendorsMember 2023-01-01 2023-03-31 0001505611 us-gaap:CostOfGoodsTotalMember us-gaap:SupplierConcentrationRiskMember dpsi:ThreeVendorsMember 2023-01-01 2023-03-31 0001505611 us-gaap:CostOfGoodsTotalMember us-gaap:SupplierConcentrationRiskMember dpsi:VendorMember 2024-01-01 2024-03-31 0001505611 us-gaap:CostOfGoodsTotalMember us-gaap:SupplierConcentrationRiskMember dpsi:VendorMember 2023-01-01 2023-03-31 0001505611 dpsi:OneVendorsMember us-gaap:AccountsPayableMember us-gaap:SupplierConcentrationRiskMember 2024-01-01 2024-03-31 0001505611 us-gaap:AccountsPayableMember us-gaap:SupplierConcentrationRiskMember dpsi:TwoVendorsMember 2024-01-01 2024-03-31 0001505611 us-gaap:AccountsPayableMember us-gaap:SupplierConcentrationRiskMember dpsi:OneVendorsMember 2023-01-01 2023-03-31 0001505611 us-gaap:AccountsPayableMember us-gaap:SupplierConcentrationRiskMember dpsi:TwoVendorsMember 2023-01-01 2023-03-31 0001505611 us-gaap:AccountsPayableMember us-gaap:SupplierConcentrationRiskMember dpsi:ThreeVendorsMember 2023-01-01 2023-03-31 0001505611 us-gaap:AccountsPayableMember us-gaap:SupplierConcentrationRiskMember dpsi:VendorMember 2024-01-01 2024-03-31 0001505611 us-gaap:AccountsPayableMember us-gaap:SupplierConcentrationRiskMember dpsi:VendorMember 2023-01-01 2023-03-31 xbrli:shares iso4217:USD iso4217:USD xbrli:shares xbrli:pure

@@ -1,0 +1,3149 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+
+
+FORM 10-Q
+
+
+
+(Mark One)
+
+☒         QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+For the quarterly period ended March 31, 2024
+
+
+
+☐         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+For transition period from__________ to___________
+
+
+
+Commission file number      001-39043
+
+
+
+BROADWAY FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+
+
+                             Delaware                                                           95-4547287
+
+                 (State or other jurisdiction of                                            (I.R.S. Employer 
+
+                  incorporation or organization)                                           Identification No.)
+
+
+
+               4601 Wilshire Boulevard, Suite 150                                                 90010
+
+                     Los Angeles, California
+
+             (Address of principal executive offices)                                           (Zip Code)
+
+
+
+(323) 634-1700
+
+(Registrant’s telephone number, including area code)
+
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+            Title of each class:                          Trading Symbol(s)               Name of each exchange on which registered:
+
+   Common Stock, par value $0.01 per share                       BYFC                               Nasdaq Capital Market 
+
+(including attached preferred stock purchase
+
+                   rights)
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes ☒   No ☐
+
+
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes ☒   No ☐
+
+
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated, a smaller reporting company, or an emerging growth company. See the definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+
+
+Large accelerated filer                                      ☐     Accelerated filer                                            ☐
+
+                                                                                                                                 
+
+Non-accelerated filer                                        ☒     Smaller reporting company                                    ☒
+
+                                                                   Emerging growth company                                      ☐
+
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+
+Yes ☐   No ☒   
+
+
+
+As of April 30, 2024, 6,033,212 shares of the registrant’s Class A voting common stock, 1,425,574 shares of the registrant’s Class B non-voting common stock and 1,672,562 shares of the registrant’s Class C non-voting common stock were outstanding.
+
+
+
+
+
+
+
+                                                           TABLE OF CONTENTS
+
+                                                                                                                               Page
+
+PART I.   FINANCIAL STATEMENTS                                                                                                   
+
+                                                                                                                                
+
+          Item 1.   Consolidated Financial Statements (Unaudited)                                                               
+
+                                                                                                                                
+
+                    Consolidated Statements of Financial Condition as of March 31, 2024 and December 31, 2023                  1
+
+                                                                                                                                
+
+                    Consolidated Statements of Operations and Comprehensive Income (Loss) for the three months ended March     2
+
+                     31, 2024 and
+
+                     2023
+
+                                                                                                                                
+
+                    Consolidated Statements of Cash Flows for the three months ended March 31, 2024 and 2023                   3
+
+                                                                                                                                
+
+                    Consolidated Statements of Changes in Stockholders’ Equity for the three months ended March 31, 2024       4
+
+                     and
+
+                     2023
+
+                                                                                                                                
+
+                    Notes to Consolidated Financial Statements                                                                 5
+
+                                                                                                                                
+
+          Item 2.   Management’s Discussion and Analysis of Financial Condition and Results of Operations                      21
+
+                                                                                                                                
+
+          Item 3.   Quantitative and Qualitative Disclosures About Market Risk                                                 32
+
+                                                                                                                                
+
+          Item 4.   Controls and Procedures                                                                                    32
+
+                                                                                                                                
+
+PART II.  OTHER INFORMATION                                                                                                      
+
+                                                                                                                                
+
+          Item 1.   Legal Proceedings                                                                                          33
+
+                                                                                                                                
+
+          Item 1A.  Risk Factors                                                                                               33
+
+                                                                                                                                
+
+          Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds                                                33
+
+                                                                                                                                
+
+          Item 3.   Defaults Upon Senior Securities                                                                            33
+
+                                                                                                                                
+
+          Item 4.   Mine Safety Disclosures                                                                                    33
+
+                                                                                                                                
+
+          Item 5.   Other Information                                                                                          33
+
+                                                                                                                                
+
+          Item 6.   Exhibits                                                                                                   33
+
+                                                                                                                                
+
+          Signatures                                                                                                            34
+
+
+
+
+
+Table of Contents
+
+BROADWAY FINANCIAL CORPORATION AND SUBSIDIARY
+
+Consolidated Statements of Financial Condition
+
+(In thousands, except share and per share amounts)
+
+
+
+                                                                                                       March 31, 2024   December 31,  
+
+                                                                                                                             2023
+
+                                                                                                         (Unaudited)                  
+
+Assets:                                                                                                                               
+
+Cash and due from banks                                                                                $        6,037  $       5,460 
+
+Interest-bearing deposits in other banks                                                                       61,085         99,735 
+
+Cash and cash equivalents                                                                                      67,122        105,195 
+
+Securities available-for-sale, at fair value                                                                  293,243        316,950 
+
+Loans receivable held for investment, net of allowance of $7,552 and $7,348                                   926,497        880,457 
+
+Accrued interest receivable                                                                                     5,638          4,938 
+
+Federal Home Loan Bank (“FHLB”) stock                                                                          10,292         10,156 
+
+Federal Reserve Bank (“FRB”) stock                                                                             3,543          3,543  
+
+Office properties and equipment, net                                                                            9,731          9,840 
+
+Bank owned life insurance, net                                                                                  3,286          3,275 
+
+Deferred tax assets, net                                                                                        9,827          9,538 
+
+Core deposit intangible, net                                                                                   2,027          2,111  
+
+Goodwill                                                                                                      25,858         25,858  
+
+Other assets                                                                                                   13,400          3,543 
+
+Total assets                                                                                           $    1,370,464  $   1,375,404 
+
+                                                                                                                                     
+
+Liabilities and stockholders’ equity                                                                                                 
+
+Liabilities:                                                                                                                         
+
+Deposits                                                                                               $      695,494  $     682,635 
+
+Securities sold under agreements to repurchase                                                                 71,681         73,475 
+
+FHLB advances                                                                                                 209,280        209,319 
+
+Bank Term Funding Program (“BTFP”) borrowing                                                                  100,000        100,000 
+
+Notes payable                                                                                                      –         14,000  
+
+Accrued expenses and other liabilities                                                                         12,542         13,878 
+
+Total liabilities                                                                                           1,088,997      1,093,307 
+
+Non-Cumulative Redeemable Perpetual Preferred stock, Series C; authorized 150,000 shares at March 31,         150,000        150,000 
+
+ 2024 and December 31, 2023; issued and outstanding 150,000 shares at March 31, 2024 and December 31,
+
+ 2023; liquidation value $1,000 per
+
+ share
+
+Common stock, Class A, $0.01 par value, voting; authorized 75,000,000 shares at March 31, 2024 and                62             62  
+
+ December 31, 2023; issued 6,230,705 shares at March 31, 2024 and December 31, 2023; outstanding
+
+ 6,009,274 shares at March 31, 2024 and 5,914,861 shares at December 31,
+
+ 2023
+
+Common stock, Class B, $0.01 par value, non-voting; authorized 15,000,000 shares at March 31, 2024                14             14  
+
+ and December 31, 2023; issued and outstanding 1,425,574 shares at March 31, 2024 and December 31,
+
+ 2023
+
+Common stock, Class C, $0.01 par value, non-voting; authorized 25,000,000 shares at March 31, 2024                17             17  
+
+ and December 31, 2023; issued and outstanding 1,672,562 at March 31, 2024 and December 31, 2023
+
+ 
+
+Additional paid-in capital                                                                                    142,653        142,601 
+
+Retained earnings                                                                                              12,388         12,552 
+
+Unearned Employee Stock Ownership Plan (“ESOP”) shares                                                         (4,420)        (4,492)
+
+Accumulated other comprehensive loss, net of tax                                                              (14,096)       (13,525)
+
+Treasury stock-at cost, 327,228 shares at March 31, 2024 and at December 31, 2023                              (5,326)        (5,326)
+
+Total Broadway Financial Corporation and Subsidiary stockholders’ equity                                      281,292        281,903 
+
+Non-controlling interest                                                                                          175            194 
+
+Total liabilities and stockholders’ equity                                                             $    1,370,464  $   1,375,404 
+
+
+
+See accompanying notes to unaudited consolidated financial statements.
+
+
+
+1
+
+
+
+Table of Contents
+
+BROADWAY FINANCIAL CORPORATION AND SUBSIDIARY
+
+Consolidated Statements of Operations and Comprehensive (Loss) Income 
+
+(In thousands, except per share amounts) 
+
+ (Unaudited)
+
+
+
+                                                                                                        Three Months Ended March 31,   
+
+                                                                                                            2024           2023      
+
+Interest income:                                                                                                                     
+
+Interest and fees on loans receivable                                                                   $      11,129  $       8,666 
+
+Interest on available-for-sale securities                                                                       2,075          2,180 
+
+Other interest income                                                                                           1,589            328 
+
+Total interest income                                                                                          14,793         11,174 
+
+                                                                                                                                     
+
+Interest expense:                                                                                                                    
+
+Interest on deposits                                                                                            2,799          1,303 
+
+Interest on borrowings                                                                                          4,470          1,597 
+
+Total interest expense                                                                                          7,269          2,900 
+
+                                                                                                                                     
+
+Net interest income                                                                                             7,524          8,274 
+
+Provision for credit losses                                                                                       260             88 
+
+Net interest income after provision for credit losses                                                           7,264          8,186 
+
+                                                                                                                                     
+
+Non-interest income:                                                                                                                 
+
+Service charges                                                                                                    40             61 
+
+Other                                                                                                             266            228 
+
+Total non-interest income                                                                                         306            289 
+
+                                                                                                                                     
+
+Non-interest expense:                                                                                                                
+
+Compensation and benefits                                                                                       4,397          3,749 
+
+Occupancy expense                                                                                                 435            303 
+
+Information services                                                                                              707            715 
+
+Professional services                                                                                           1,410            505 
+
+Supervisory costs                                                                                                 177             94 
+
+Office services and supplies                                                                                       34             22 
+
+Advertising and promotional expense                                                                                28             68 
+
+Corporate insurance                                                                                                61             62 
+
+Appraisal and other loan expense                                                                                    –             43 
+
+Amortization of core deposit intangible                                                                            84             98 
+
+Travel expense                                                                                                     79             78 
+
+Other expense                                                                                                     398            469 
+
+Total non-interest expense                                                                                      7,810          6,206 
+
+                                                                                                                                     
+
+(Loss) income before income taxes                                                                                (240)         2,269 
+
+Income tax (benefit) expense                                                                                      (57)           674 
+
+Net (loss) income                                                                                       $        (183) $       1,595 
+
+Less: Net (loss) income attributable to non-controlling interest                                                  (19)            22 
+
+Net (loss) income attributable to Broadway Financial Corporation                                        $        (164) $       1,573 
+
+                                                                                                                                     
+
+Other comprehensive (loss) income, net of tax:                                                                                       
+
+Unrealized (losses) income on securities available-for-sale arising during the period                   $        (803) $       3,433 
+
+Income tax (benefit) expense                                                                                     (232)           988 
+
+Other comprehensive (loss) income, net of tax                                                                    (571)         2,445 
+
+                                                                                                                                     
+
+Comprehensive (loss) income                                                                             $        (735) $       4,018 
+
+                                                                                                                                     
+
+(Loss) earnings per common share-basic(1)                                                               $       (0.02) $        0.18 
+
+(Loss) earnings per common share-diluted(1)                                                             $       (0.02) $        0.17 
+
+
+
+(1)  Retroactively adjusted, as applicable, for the 1-for-8 reverse stock split effective November 1, 2023 - see Note 1
+
+
+
+See accompanying notes to unaudited consolidated financial statements.
+
+
+
+2
+
+
+
+Table of Contents
+
+BROADWAY FINANCIAL CORPORATION AND SUBSIDIARY
+
+Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+
+
+                                                                                                              Three Months Ended       
+
+                                                                                                                  March 31,
+
+                                                                                                            2024           2023      
+
+                                                                                                                (In thousands)         
+
+Cash flows from operating activities:                                                                                                
+
+Net (loss) income                                                                                       $        (183) $       1,595 
+
+Adjustments to reconcile net (loss) income to net cash (used in) provided by operating activities:                                   
+
+Provision for credit losses                                                                                       260             88 
+
+Depreciation                                                                                                      164            172 
+
+Net change of deferred loan origination costs                                                                     137           (223)
+
+Net amortization of premiums and discounts on available-for-sale securities                                      (253)          (253)
+
+Accretion of purchase accounting marks on loans                                                                   (32)             – 
+
+Amortization of core deposit intangible                                                                            84             98 
+
+Director compensation expense-common stock                                                                          –             96 
+
+(Accretion) amortization of premium on FHLB advances                                                               (4)             1 
+
+Stock-based compensation expense                                                                                   77             38 
+
+ESOP compensation expense                                                                                          47           (202)
+
+Earnings on bank owned life insurance                                                                             (11)            (9)
+
+Change in assets and liabilities:                                                                                                    
+
+Net change in deferred taxes                                                                                      (57)           569 
+
+Net change in accrued interest receivable                                                                        (700)          (246)
+
+Net change in other assets                                                                                     (9,857)            42 
+
+Net change in accrued expenses and other liabilities                                                           (1,336)         2,035 
+
+Net cash (used in) provided by operating activities                                                           (11,664)         3,801 
+
+                                                                                                                                     
+
+Cash flows from investing activities:                                                                                                
+
+Net change in loans receivable held for investment                                                            (46,405)        (9,681)
+
+Principal payments on available-for-sale securities                                                            23,157          3,409 
+
+Purchase of FHLB stock                                                                                           (136)        (1,765)
+
+Proceeds from redemption of FRB stock                                                                               –          1,721 
+
+Purchase of office properties and equipment                                                                       (55)            (3)
+
+Net cash used in investing activities                                                                         (23,439)        (6,319)
+
+                                                                                                                                     
+
+Cash flows from financing activities:                                                                                                
+
+Net change in deposits                                                                                         12,859        (29,374)
+
+Net change in securities sold under agreements to repurchase                                                   (1,794)         7,470 
+
+Purchase of unreleased ESOP shares                                                                                  –         (2,500)
+
+Repayment of notes payable                                                                                    (14,000)             – 
+
+Proceeds from FHLB advances                                                                                         –         40,500 
+
+Repayments of FHLB advances                                                                                       (35)           (35)
+
+Net cash (used in) provided by financing activities                                                            (2,970)        16,061 
+
+Net change in cash and cash equivalents                                                                       (38,073)        13,543 
+
+Cash and cash equivalents at beginning of the period                                                          105,195         16,105 
+
+Cash and cash equivalents at end of the period                                                          $      67,122  $      29,648 
+
+Supplemental disclosures of cash flow information:                                                                                   
+
+Cash paid for interest                                                                                  $       5,913  $       2,882 
+
+Cash paid for income taxes                                                                                         48              – 
+
+
+
+See accompanying notes to unaudited consolidated financial statements.
+
+
+
+3
+
+
+
+Table of Contents
+
+BROADWAY FINANCIAL CORPORATION AND SUBSIDIARY
+
+Consolidated Statements of Changes in Stockholders’ Equity
+
+(Unaudited)
+
+
+
+                                                    Three-Month Periods Ended March 31, 2024 and 2023                                   
+
+                   Preferred   Common     Common    Additional    Accumulated    Retained    Unearned   Treasury      Non-          Total      
+
+                     Stock      Stock      Stock     Paid-in         Other        Earnings     ESOP       Stock    Controlling  Stockholders’
+
+                      Non-     Voting       Non-     Capital     Comprehensive                Shares                 Interest       Equity
+
+                    Voting                Voting                      Loss
+
+                                                                      (In thousands)                                                    
+
+Balance at         $ 150,000  $      62  $      31  $  142,601  $       (13,525) $ 12,552  $  (4,492) $ (5,326) $      194  $     282,097 
+
+ December 31,
+
+ 2023
+
+Net loss                   –          –          –           –                –      (164)         –         –         (19)          (183)
+
+Release of                 –          –          –         (25)               –         –         72         –           –             47 
+
+ unearned ESOP
+
+ shares
+
+Stock-based               –          –          –          77                –         –          –         –           –             77  
+
+ compensation
+
+ expense
+
+ 
+
+Other                      –          –          –           –             (571)        –          –         –           –           (571)
+
+ comprehensive
+
+ loss, net of
+
+ tax
+
+Balance at March   $ 150,000  $      62  $      31  $  142,653  $       (14,096) $ 12,388  $  (4,420) $ (5,326) $      175  $     281,467 
+
+ 31,
+
+ 2024
+
+                                                                                                                                          
+
+Balance at         $ 150,000  $      64  $      31  $  144,157  $       (17,473) $  9,294  $  (1,265) $ (5,326) $      170  $     279,652 
+
+ December 31,
+
+ 2022
+
+Cumulative effect          –          –          –           –                –    (1,256)         –         –           –         (1,256)
+
+ of change
+
+ related to
+
+ adoption of ASU
+
+ 2016-13
+
+ 
+
+Adjusted balance,    150,000         64         31     144,157          (17,473)    8,038     (1,265)   (5,326)        170        278,396 
+
+ January 1, 2023
+
+ 
+
+Net income                 –          –          –           –                –     1,573          –         –          22          1,595 
+
+Release of                 –          –          –          (4)               –         –       (198)        –           –           (202)
+
+ unearned ESOP
+
+ shares
+
+Increase in                –          –          –           –                –         –     (2,500)        –           –         (2,500)
+
+ unreleased
+
+ shares
+
+ 
+
+Stock-based                –          –          –          38                –         –          –         –           –             38 
+
+ compensation
+
+ expense
+
+ 
+
+Director stock             –          1          –          95                –         –          –         –           –             96 
+
+ compensation
+
+ expense
+
+ 
+
+Other                      –          –          –           –            2,445         –          –         –           –          2,445 
+
+ comprehensive
+
+ income, net of
+
+ tax
+
+Balance at March   $ 150,000  $      65  $      31  $  144,286  $       (15,028) $  9,611  $  (3,963) $ (5,326) $      192  $     279,868 
+
+ 31,
+
+ 2023
+
+
+
+See accompanying notes to unaudited consolidated financial statements.
+
+
+
+4
+
+
+
+Table of Contents
+
+BROADWAY FINANCIAL CORPORATION AND SUBSIDIARY
+
+Notes to Unaudited Consolidated Financial Statements
+
+
+
+NOTE 1 – Basis of Financial Statement Presentation
+
+
+
+The accompanying unaudited consolidated financial statements include Broadway Financial Corporation (the “Company”) and its wholly owned subsidiary, City First Bank, National Association (the “Bank” and, together with the Company, “City First Broadway”). Also included in the unaudited consolidated financial statements are the following subsidiaries of City First Bank: 1432 U Street LLC, Broadway Service Corporation, City First Real Estate LLC, City First Real Estate II LLC, City First Real Estate III LLC, City First Real Estate IV LLC, and CF New Markets Advisors, LLC (“CFNMA”). In addition, CFNMA also consolidates CFC Fund Manager II, LLC; City First New Markets Fund II, LLC; City First Capital IX, LLC; and City First Capital 45, LLC (“CFC 45”) into its financial results. All significant intercompany balances and transactions have been eliminated in consolidation.
+
+
+
+The unaudited consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America for interim financial information and with the instructions for quarterly reports on Form 10-Q. These unaudited consolidated financial statements do not include all disclosures associated with the Company’s consolidated annual financial statements included in its Annual Report on Form 10-K for the year ended December 31, 2023 (“2023 Form 10-K”) and, accordingly, should be read in conjunction with such audited consolidated financial statements. In the opinion of management, all adjustments (all of which are normal and recurring in nature) considered necessary for a fair presentation have been included. Operating results for the three months ended March 31, 2024 are not necessarily indicative of the results that may be expected for the year ending December 31, 2024.
+
+
+
+Reverse Stock Split
+
+
+
+On October 30, 2023, the Company effected a reverse stock split of the Company’s outstanding shares of Class A common stock, Class B common stock, and Class C common stock, par value $0.01 per share at a ratio of 1-for-8 (the “Reverse Stock Split”). The shares of Class A common stock listed on The Nasdaq Capital Market commenced trading on The Nasdaq Capital Market on a post-Reverse Stock Split adjusted basis at the open of business on November 1, 2023.  As a result of the Reverse Stock Split, the number of issued and outstanding shares of common stock immediately prior to the Reverse Stock Split was reduced such that every 8 shares of common stock held by a stockholder immediately prior to the Reverse Stock Split were combined and reclassified into one share of common stock.  All common stock share amounts and per share numbers discussed herein have been retroactively adjusted for the Reverse Stock Split.
+
+
+
+Except as discussed below, our accounting policies are described in Note 1 – Summary of Significant Accounting Policies of our audited consolidated financial statements included in the 2023 Form 10-K. 
+
+
+
+NOTE 2 – Earnings Per Share of Common Stock
+
+
+
+Basic earnings per share of common stock is computed pursuant to the two-class method by dividing net income available to common stockholders less dividends paid on participating securities (unvested shares of restricted common stock) and any undistributed earnings attributable to participating securities by the weighted average common shares outstanding during the period. The weighted average common shares outstanding includes the weighted average number of shares of common stock outstanding less the weighted average number of unvested shares of restricted common stock. ESOP shares are considered outstanding for this calculation unless unearned. Diluted earnings per share of common stock includes the dilutive effect of unvested stock awards and additional potential common shares issuable under stock options. Unvested restricted awards are considered outstanding for this calculation.
+
+
+
+The following table shows how the Company computed basic and diluted earnings per share of common stock for the periods indicated:
+
+
+
+                                                                                                      Three Months Ended March 31,  
+
+                                                                                                          2024           2023      
+
+                                                                                                         (Dollars in thousands,     
+
+                                                                                                                  except
+
+                                                                                                                     
+
+                                                                                                            per share data) 
+
+Net (loss) income attributable to Broadway Financial Corporation                                      $        (164) $       1,573 
+
+Less net income attributable to participating securities                                                          4              7 
+
+(Loss) income available to common stockholders                                                        $        (168) $       1,566 
+
+                                                                                                                                   
+
+Weighted average common shares outstanding for basic earnings per common share(1)                         8,229,774      8,930,270 
+
+Add: dilutive effects of unvested restricted stock awards(1)                                                182,998         40,378 
+
+Weighted average common shares outstanding for diluted earnings per common share(1)                       8,412,772      8,970,648 
+
+                                                                                                                                   
+
+(Loss) earnings per common share - basic(1)                                                           $       (0.02) $        0.18 
+
+(Loss) earnings per common share - diluted(1)                                                         $       (0.02) $        0.17 
+
+(1) Retroactively adjusted, as applicable, for the 1-for-8 reverse stock split effective November 1, 2023 - see Note 1
+
+
+
+5
+
+
+
+Table of Contents
+
+NOTE 3 – Securities
+
+
+
+The following table summarizes the amortized cost and fair value of the available-for-sale investment securities portfolios as of the dates indicated and the corresponding amounts of unrealized gains and losses which were recognized in accumulated other comprehensive loss:
+
+
+
+                                                                      Amortized          Gross            Gross        Fair Value   
+
+                                                                         Cost          Unrealized      Unrealized 
+
+                                                                                         Gains            Losses
+
+                                                                                              (In thousands)                           
+
+March 31, 2024:                                                                                                                        
+
+Federal agency mortgage-backed securities                           $      74,240  $              2  $     (10,212) $      64,030 
+
+Federal agency collateralized mortgage obligations (“CMO”)                 23,977                 7         (1,455)        22,529 
+
+Federal agency debt                                                        50,945                 –         (3,099)        47,846 
+
+Municipal bonds                                                             4,824                 –           (473)         4,351 
+
+U. S. Treasuries                                                          147,305                 –         (2,861)       144,444 
+
+U.S. Small Business Administration (“SBA”) pools                           11,783                 3         (1,743)        10,043 
+
+Total available-for-sale securities                                 $     313,074  $             12  $     (19,843) $     293,243 
+
+December 31, 2023:                                                                                                                     
+
+Federal agency mortgage-backed securities                           $      76,091  $              3  $      (9,316) $      66,778 
+
+Federal agency CMOs                                                        24,720                 –         (1,381)        23,339 
+
+Federal agency debt                                                        50,893                 –         (3,057)        47,836 
+
+Municipal bonds                                                             4,833                 –           (460)         4,373 
+
+U. S. Treasuries                                                          167,055                 –         (3,175)       163,880 
+
+SBA pools                                                                  12,386                 4         (1,646)        10,744 
+
+Total available-for-sale securities                                 $     335,978  $              7  $     (19,035) $     316,950 
+
+
+
+As of March 31, 2024, investment securities with a fair value of $78.6 million were pledged as collateral for securities sold under agreements to repurchase and included $37.9 million of U.S. Treasuries, $30.3 million of federal agency mortgage-backed securities, and $10.4 million of federal agency debt securities. As of December 31, 2023, investment securities with a fair value of $89.0 million were pledged as collateral for securities sold under agreements to repurchase and included $47.8 million of U.S. Treasuries, $30.2 million of federal agency mortgage-backed securities, and $11.0 million of federal agency debt securities (See Note 6 – Borrowings). There were no securities pledged to secure public deposits at March 31, 2024 or December 31, 2023.  Accrued interest receivable on securities was $1.4 million and $1.2 million at March 31, 2024 and December 31, 2023, respectively, and is included in the consolidated statements of financial condition under accrued interest receivable. 
+
+At March 31, 2024, and December 31, 2023, there were no holdings of securities by any one issuer, other than the U.S. Government and its agencies, in an amount greater than 10% of stockholders’ equity.
+
+
+
+The amortized cost and estimated fair value of all investment securities available-for-sale at March 31, 2024, by contractual maturities are shown below. Contractual maturities may differ from expected maturities because borrowers may have the right to call or prepay obligations with or without call or prepayment penalties.
+
+
+
+                                                                      Amortized          Gross            Gross        Fair Value   
+
+                                                                         Cost          Unrealized       Unrealized
+
+                                                                                         Gains            Losses
+
+                                                                                              (In thousands)                           
+
+Due in one year or less                                             $     100,551  $              –  $      (1,115) $      99,436 
+
+Due after one year through five years                                     102,864                 –         (4,993)        97,871 
+
+Due after five years through ten years                                     27,891                 9         (1,820)        26,080 
+
+Due after ten years (1)                                                    81,768                 3        (11,915)        69,856 
+
+                                                                    $     313,074  $             12  $     (19,843) $     293,243 
+
+
+
+(1)  Mortgage-backed securities, collateralized mortgage obligations and SBA pools do not have a single stated maturity date and
+
+      therefore have been included in the “Due after ten years”
+
+      category.
+
+
+
+6
+
+
+
+Table of Contents
+
+The table below indicates the length of time individual securities had been in a continuous unrealized loss position:
+
+
+
+                                           Less than 12 Months             12 Months or Longer                    Total              
+
+                                                       Unrealized                     Unrealized                     Unrealized   
+
+                                       Fair Value        Losses       Fair Value        Losses       Fair Value        Losses
+
+                                                                               (In thousands)                                          
+
+March 31, 2024:                                                                                                                   
+
+Federal agency mortgage-backed        $           –  $            –  $      63,839  $     (10,212) $      63,839  $     (10,212)
+
+ securities
+
+Federal agency CMOs                               –               –         21,753         (1,455)        21,753         (1,455)
+
+Federal agency debt                               –               –         47,846         (3,099)        47,846         (3,099)
+
+Municipal bonds                                   –               –          4,351           (473)         4,351           (473)
+
+U. S. Treasuries                             53,568          (1,057)        90,875         (1,804)       144,443         (2,861)
+
+SBA pools                                       284              (1)         8,815         (1,742)         9,099         (1,743)
+
+Total unrealized loss position        $      53,852  $       (1,058) $     237,479  $     (18,785) $     291,331  $     (19,843)
+
+ investment
+
+ securities
+
+                                                                                                                                
+
+December 31, 2023:                                                                                                              
+
+Federal agency mortgage-backed        $           –  $            –  $      66,575  $      (9,316) $      66,575  $      (9,316)
+
+ securities
+
+Federal agency CMOs                               –               –         23,339         (1,381)        23,339         (1,381)
+
+Federal agency debt                           3,018             (37)        44,818         (3,020)        47,836         (3,057)
+
+Municipal bonds                                   –               –          4,373           (460)         4,373           (460)
+
+U. S. Treasuries                                  –               –        163,880         (3,175)       163,880         (3,175)
+
+SBA pools                                       286              (1)         9,439         (1,645)         9,725         (1,646)
+
+Total unrealized loss position        $       3,304  $          (38) $     312,424  $     (18,997) $     315,728  $     (19,035)
+
+ investment
+
+ securities
+
+
+
+At March 31, 2024, and December 31, 2023, there were no securities in nonaccrual status. All securities in the portfolio were current with their contractual principal and interest payments. At March 31, 2024, and December 31, 2023, there were no securities purchased with deterioration in credit quality since their origination. At March 31, 2024, and December 31, 2023, there were no collateral dependent securities.
+
+
+
+The Company’s assessment of available-for-sale investment securities as of March 31, 2024 and December 31, 2023, indicated that an allowance for credit losses (“ACL”) was not required. The Company analyzed available-for-sale investment securities that were in an unrealized loss position and determined the decline in fair value for those securities was not related to credit, but rather related to changes in interest rates and general market conditions. As such, no ACL was recorded for available-for-sale securities as of  March 31, 2024.
+
+
+
+7
+
+
+
+Table of Contents
+
+NOTE 4 – Loans Receivable Held for Investment
+
+
+
+Loans receivable held for investment were as follows as of the dates indicated:
+
+
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                             2024          2023
+
+                                                                                                                (In thousands)         
+
+Real estate:                                                                                                                         
+
+Single-family                                                                                           $      28,184  $      24,702 
+
+Multi-family                                                                                                  601,126        561,447 
+
+Commercial real estate                                                                                        124,717        119,436 
+
+Church                                                                                                         12,573         12,717 
+
+Construction                                                                                                   90,333         89,887 
+
+Commercial – other                                                                                             63,538         63,450 
+
+SBA loans (1)                                                                                                  12,475         14,954 
+
+Consumer                                                                                                           14             13 
+
+Gross loans receivable before deferred loan costs and premiums                                                932,960        886,606 
+
+Unamortized net deferred loan costs and premiums                                                                1,828          1,971 
+
+Gross loans receivable                                                                                        934,788        888,577 
+
+Credit and interest marks on purchased loans, net                                                                (739)          (772)
+
+Allowance for credit losses                                                                                    (7,552)        (7,348)
+
+Loans receivable, net                                                                                   $     926,497  $     880,457 
+
+
+
+(1)  Including Paycheck Protection Program (“PPP”) loans.
+
+
+
+As of March 31, 2024 and December 31, 2023, the SBA loan category above included $15 thousand and $2.5 million, respectively, of loans issued under the SBA’s PPP. PPP loans have terms of two to five years and earn interest at 1%. PPP loans are fully guaranteed by the SBA and have virtually no risk of loss. The bank expects the vast majority of the PPP loans to be fully forgiven by the SBA.
+
+
+
+Following the adoption of Accounting Standards Codification Topic (“ASC”) 326 – Financial Instruments-Credit Losses, on January 1, 2023, the Company analyzes all acquired loans at the time of acquisition for more-than-insignificant deterioration in credit quality since their origination date. Such loans are classified as purchased credit deteriorated (“PCD”) loans. Acquired loans classified as PCD are recorded at an initial amortized cost, which is comprised of the purchase price of the loans and the initial ACL determined for the loans, which is added to the purchase price, and any resulting discount or premium related to factors other than credit. PCI loans were considered to be PCD loans at the date of adoption of ASC 326. The Company accounts for interest income on PCD loans using the interest method, whereby any purchase discounts or premiums are accreted or amortized into interest income as an adjustment of the loan’s yield. An accretable yield is not determined for PCD loans.
+
+
+
+As part of the CFBanc merger, the Company acquired PCI loans. Prior to the CFBanc merger, there were no such acquired loans. The carrying amount of those loans was as follows:
+
+
+
+                                                                                                   March 31, 2024      December 31,   
+
+                                                                                                                           2023
+
+Real estate:                                                                                                (In thousands)             
+
+Single-family                                                                                    $               –  $              – 
+
+Commercial – other                                                                                              47                47 
+
+                                                                                                 $              47  $             47 
+
+
+
+8
+
+
+
+Table of Contents
+
+The following tables summarizes the discount on the PCI loans for the three months ended:
+
+
+
+                                                                                                March 31, 2024       March 31, 2023   
+
+                                                                                                           (In thousands)              
+
+Balance at the beginning of the period                                                        $                 2  $               27 
+
+Deduction due to payoffs                                                                                        –                 (12)
+
+Accretion                                                                                                      (2)                 (4)
+
+Balance at the end of the period                                                              $                 –  $               11 
+
+
+
+The Company accounts for credit losses on loans in accordance with ASC 326 – Financial Instruments-Credit Losses, to determine the ACL. ASC 326 requires the Company to recognize estimates for lifetime losses on loans and off-balance sheet loan commitments at the time of origination or acquisition. The recognition of losses at origination or acquisition represents the Company’s best estimate of the lifetime expected credit loss associated with a loan given the facts and circumstances associated with the particular loan, and involves the use of significant management judgement and estimates, which are subject to change based on management’s on-going assessment of the credit quality of the loan portfolio and changes in economic forecasts used in the model. The Company uses the WARM method when determining estimates for the ACL for each of its portfolio segments. The weighted average remaining life, including the effect of estimated prepayments, is calculated for each loan pool on a quarterly basis. The Company then estimates a loss rate for each pool using both its own historical loss experience and the historical losses of a group of peer institutions during the period from 2004 through the most recent quarter.
+
+
+
+The Company’s ACL model also includes adjustments for qualitative factors, where appropriate. Qualitative adjustments may be related to and include, but are not limited to, factors such as: (i) changes in lending policies and procedures, including changes in underwriting standards and collections, charge offs, and recovery practices; (ii) changes in international, national, regional, and local conditions; (iii) changes in the nature and volume of the portfolio and terms of loans; (iv) changes in the experience, depth, and ability of lending management; (v) changes in the volume and severity of past due loans and other similar conditions; (vi) changes in the quality of the organization’s loan review system; (vii) changes in the value of underlying collateral for collateral dependent loans; (viii) the existence and effect of any concentrations of credit and changes in the levels of such concentrations; and (ix) the effect of other external factors (i.e., competition, legal and regulatory requirements) on the level of estimated credit losses. These qualitative factors incorporate the concept of reasonable and supportable forecasts, as required by ASC 326.
+
+
+
+The following tables summarize the activity in the allowance for credit losses on loans for the periods indicated:
+
+
+
+                                                                                    March 31, 2024                                     
+
+                                                  Beginning       Charge-offs        Recoveries         Provision        Ending     
+
+                                                   Balance                                             (recapture)       Balance
+
+Loans receivable held for investment:                                                                                               
+
+Single-family                                   $         260  $            –  $               –  $           38  $        298 
+
+Multi-family                                            4,413               –                  –             (88)        4,325 
+
+Commercial real estate                                  1,094               –                  –              15         1,109 
+
+Church                                                     72               –                  –              18            90 
+
+Construction                                              932               –                  –              24           956 
+
+Commercial - other                                        529               –                  –             193           722 
+
+SBA loans                                                  48               –                  –               4            52 
+
+Consumer                                                    –               –                  –               –             – 
+
+Total                                           $       7,348  $            –  $               –  $          204  $      7,552 
+
+
+
+                                                                             March 31, 2023                                            
+
+                                    Beginning       Impact of      Charge-offs       Recoveries        Provision        Ending     
+
+                                     Balance          CECL                                             (benefit)        Balance
+
+                                                    Adoption
+
+                                                                             (In thousands)                                            
+
+Loans receivable held for                                                                                                          
+
+ investment:
+
+Single-family                     $         109  $         214  $            –  $               –  $          (62) $        261 
+
+Multi-family                              3,273            603               –                  –              56         3,932 
+
+Commercial real estate                      449            466               –                  –              97         1,012 
+
+Church                                       65             37               –                  –             (10)           92 
+
+Construction                                313            219               –                  –              61           593 
+
+Commercial - other                          175            254               –                  –             (72)          357 
+
+SBA loans                                     –             20               –                  –              18            38 
+
+Consumer                                      4             (4)              –                  –               –             – 
+
+Total                             $       4,388  $       1,809  $            –  $               –  $           88  $      6,285 
+
+
+
+9
+
+
+
+Table of Contents
+
+The ACL increased from March 31, 2023 to March 31, 2024 due to growth in the loan portfolio. Since the Company has no historical loss rates of its own, it uses peer historical loss rates, which decreased during the first quarter of 2024 and caused the Company to decrease the factor for historical losses in its computation, causing a decrease in the reserve on certain loan categories.
+
+The Company evaluates loans collectively for purposes of determining the ACL in accordance with ASC 326. Collective evaluation is based on aggregating loans deemed to possess similar risk characteristics. In certain instances, the Company may identify loans that it believes no longer possess risk characteristics similar to other loans in the loan portfolio. These loans are typically identified from those that have exhibited deterioration in credit quality, since the specific attributes and risks associated with such loans tend to become unique as the credit deteriorates. Such loans are typically nonperforming, downgraded to substandard or worse, and/or are deemed collateral dependent, where the ultimate repayment of the loan is expected to come from the operation of or eventual sale of the collateral. Loans that are deemed by management to no longer possess risk characteristics similar to other loans in the portfolio, or that have been identified as collateral dependent, are evaluated individually for purposes of determining an appropriate lifetime ACL. The Company uses a discounted cash flow approach, using the loan’s effective interest rate, for determining the ACL on individually evaluated loans, unless the loan is deemed collateral dependent, which requires evaluation based on the estimated fair value of the underlying collateral, less estimated selling costs. The Company may increase or decrease the ACL for collateral dependent loans based on changes in the estimated fair value of the collateral.
+
+
+
+The following table presents collateral dependent loans by collateral type as of the date indicated:
+
+  
+
+                                                                                      March 31, 2024                                   
+
+                                                    Single-Family    Multi-Family        Church        Business          Total     
+
+                                                                      Residential                        Assets
+
+Real estate:                                                                          (In thousands)                                   
+
+Single-family                                       $          42  $             –  $           –  $           –  $         42 
+
+Multi-family                                                    –              401              –              –           401 
+
+Commercial real estate                                          –                –             58              –            58 
+
+Church                                                          –                –            388              –           388 
+
+Commercial – other                                              –                –              –            267           267 
+
+Total                                               $          42  $           401  $         446  $         267  $      1,156 
+
+
+
+                                                                                    December 31, 2023                                  
+
+                                                    Single-Family   Multi-Family        Church        Business          Total     
+
+                                                                     Residential                        Assets
+
+Real estate:                                                                          (In thousands)                                   
+
+Single-family                                       $          45  $            –  $           –  $           –  $         45 
+
+Multi-family                                                    –           5,672              –              –         5,672 
+
+Commercial real estate                                          –               –             65              –            65 
+
+Church                                                          –               –            391              –           391 
+
+Commercial – other                                              –               –              –            268           268 
+
+Total                                               $          45  $        5,672  $         456  $         268  $      6,441 
+
+
+
+At March 31, 2024 and December 31, 2023, $1.2 million and $6.4 million, respectively of individually evaluated loans were evaluated based on the underlying value of the collateral and no individually evaluated loans were evaluated using a discounted cash flow approach. These loans had an associated ACL of $111 thousand and $112 thousand as of March 31, 2024 and December 31, 2023, respectively. The Company had one $410 thousand individually evaluated loan on nonaccrual status at March 31, 2024.
+
+
+
+10
+
+
+
+Table of Contents
+
+Past Due Loans
+
+
+
+The following tables present the aging of the recorded investment in past due loans by loan type as of the dates indicated:
+
+
+
+                                                                               March 31, 2024                                          
+
+                                        30-59 Days     60-89 Days     Greater than    Total Past       Current         Total     
+
+                                         Past Due       Past Due     90 Days Past         Due
+
+                                                                          Due
+
+                                                                               (In thousands)                                          
+
+Loans receivable held for investment:                                                                                            
+
+Single-family                         $            –  $          –  $            –  $          –  $      28,184  $      28,184 
+
+Multi-family                                       –             –             401           401        602,553        602,954 
+
+Commercial real estate                             –             –               –             –        124,717        124,717 
+
+Church                                             –             –               –             –         12,573         12,573 
+
+Construction                                       –             –               –             –         90,333         90,333 
+
+Commercial - other                                 –             –               –             –         63,538         63,538 
+
+SBA loans                                          9           360               –           369         12,106         12,475 
+
+Consumer                                           –             –               –             –             14             14 
+
+Total                                 $            9  $        360  $          401  $        770  $     934,018  $     934,788 
+
+
+
+                                                                             December 31, 2023                                         
+
+                                       30-59 Days     60-89 Days      Greater than     Total Past       Current         Total     
+
+                                        Past Due       Past Due      90 Days Past          Due
+
+                                                                          Due
+
+                                                                               (In thousands)                                          
+
+Loans receivable held for investment:                                                                                             
+
+Single-family                         $          –  $          –  $             –  $          –  $      24,702  $      24,702 
+
+Multi-family                                     –           401                –           401        563,017        563,418 
+
+Commercial real estate                           –             –                –             –        119,436        119,436 
+
+Church                                           –             –                –             –         12,717         12,717 
+
+Construction                                     –             –                –             –         89,887         89,887 
+
+Commercial - other                               –             –                –             –         63,450         63,450 
+
+SBA loans                                      379             –                –           379         14,575         14,954 
+
+Consumer                                         –             –                –             –             13             13 
+
+Total                                 $        379  $        401  $             –  $        780  $     887,797  $     888,577 
+
+
+
+The following table presents the recorded investment in non-accrual loans by loan type as of the dates indicated:
+
+
+
+                                                                                                   March 31, 2024    December 31,     
+
+                                                                                                                          2023
+
+                                                                                                             (In thousands)           
+
+Loans receivable held for investment:                                                                                                 
+
+Multi-family                                                                                       $         401  $               – 
+
+Total non-accrual loans                                                                            $         401  $               – 
+
+
+
+The non-accrual loan above had no related ACL at March 31, 2024. There were no loans 90 days or more delinquent that were accruing interest as of March 31, 2024 or December 31, 2023.
+
+
+
+Modified Loans to Troubled Borrowers 
+
+
+
+GAAP requires that certain types of modifications of loans in response to a borrower’s financial difficulty be reported, which consist of the following: (i) principal forgiveness, (ii) interest rate reduction, (iii) other-than-insignificant payment delay, (iv) term extension, or (v) any combination of the foregoing. The ACL for loans that were modified in response to a borrower’s financial difficulty is measured on a collective basis, as with other loans in the loan portfolio, unless management determines that such loans no longer possess risk characteristics similar to others in the loan portfolio. In those instances, the ACL for such loans is determined through individual evaluation. There were no loan modifications to borrowers that were experiencing financial difficulty during the three months ended March 31, 2024.
+
+
+
+Credit Quality Indicators
+
+
+
+The Company categorizes loans into risk categories based on relevant information about the ability of borrowers to service their debt such as current financial information, historical payment experience, credit documentation, public information, and current economic trends, among other factors.  For single-family residential, consumer, and other smaller balance homogenous loans, a credit grade is established at inception, and generally only adjusted based on performance.  Information about payment status is disclosed elsewhere herein. The Company analyzes all other loans individually by classifying the loans as to credit risk. This analysis is performed at least on a quarterly basis. The Company uses the following definitions for risk ratings:
+
+
+
+       ●    Watch. Loans classified as watch exhibit weaknesses that could threaten the current net worth and paying capacity of the
+
+             obligors. Watch graded loans are generally performing and are not more than 59 days past due. A watch rating is used when
+
+             a material deficiency exists, but correction is anticipated within an acceptable time
+
+             frame.
+
+
+
+11
+
+
+
+Table of Contents
+
+       ●    Special Mention. Loans classified as special mention have a potential weakness that deserves management’s close attention.
+
+             If left uncorrected, these potential weaknesses may result in deterioration of the repayment prospects for the loan or of
+
+             the institution’s credit position at some future
+
+             date.
+
+
+
+       ●    Substandard. Loans classified as substandard are inadequately protected by the current net worth and paying capacity of
+
+             the obligor or of the collateral pledged, if any. Loans so classified have a well-defined weakness or weaknesses that
+
+             jeopardize the liquidation of the debt. They are characterized by the distinct possibility that the institution will
+
+             sustain some loss if the deficiencies are not
+
+             corrected.
+
+
+
+       ●    Doubtful. Loans classified as doubtful have all the weaknesses inherent in those classified as substandard, with the added
+
+             characteristic that the weaknesses make collection or liquidation in full, on the basis of currently existing facts,
+
+             conditions, and values, highly questionable and
+
+             improbable.
+
+
+
+       ●    Loss. Loans classified as loss are considered uncollectible and of such little value that to continue to carry the loan as
+
+             an active asset is no longer
+
+             warranted.
+
+
+
+Loans not meeting the criteria above that are analyzed individually as part of the above-described process are considered to be pass rated loans.  Pass rated loans are generally well protected by the current net worth and paying capacity of the obligor and/or by the value of the underlying collateral.  Pass rated loans are not more than 59 days past due and are generally performing in accordance with the loan terms. 
+
+
+
+The following table stratifies the loans held for investment portfolio by the Company’s internal risk grading, and by year of origination as of the date indicated:
+
+
+
+                           Term Loans Amortized Cost Basis by Origination Year - As of March 31, 2024                                
+
+                             2024        2023        2022        2021        2020       Prior       Revolving        Total    
+
+                                                                                                       Loans
+
+                                                                         (In thousands)                                                
+
+Single-family:                                                                                                                
+
+Pass                      $        –  $      551  $    4,135  $    3,039  $    2,050  $   14,612  $             –  $   24,387 
+
+Watch                              –           –           –         745         869         714                –       2,328 
+
+Special Mention                    –           –           –           –           –         115                –         115 
+
+Substandard                        –           –           –           –       1,354           –                –       1,354 
+
+Total                     $        –  $      551  $    4,135  $    3,784  $    4,273  $   15,441  $             –  $   28,184 
+
+                                                                                                                              
+
+Multi-family:                                                                                                                 
+
+Pass                      $   39,797  $   86,356  $  182,415  $  144,826  $   27,195  $   92,345  $             –  $  572,934 
+
+Watch                              –           –       4,667       6,168           –       4,377                –      15,212 
+
+Special Mention                    –           –           –           –           –       2,039                –       2,039 
+
+Substandard                        –           –           –         894           –      11,875                –      12,769 
+
+Total                     $   39,797  $   86,356  $  187,082  $  151,888  $   27,195  $  110,636  $             –  $  602,954 
+
+                                                                                                                              
+
+Commercial real estate:                                                                                                       
+
+Pass                      $   15,000  $    1,751  $   21,406  $   25,877  $   24,477  $   22,487  $             –  $  110,998 
+
+Watch                              –           –         440           –       5,256       2,579                –       8,275 
+
+Special Mention                    –         884           –           –           –           –                –         884 
+
+Substandard                        –           –           –           –           –       4,560                –       4,560 
+
+Total                     $   15,000  $    2,635  $   21,846  $   25,877  $   29,733  $   29,626  $             –  $  124,717 
+
+                                                                                                                              
+
+Church:                                                                                                                       
+
+Pass                      $        –  $    2,892  $        –  $    2,196  $    1,735  $    2,649  $             –  $    9,472 
+
+Watch                              –           –           –           –           –       1,490                –       1,490 
+
+Special Mention                    –           –           –           –           –         648                –         648 
+
+Substandard                        –           –           –           –           –         963                –         963 
+
+Total                     $        –  $    2,892  $        –  $    2,196  $    1,735  $    5,750  $             –  $   12,573 
+
+                                                                                                                              
+
+Construction:                                                                                                                 
+
+Pass                      $        –  $        –  $        –  $        –  $        –  $        –  $             –  $        – 
+
+Watch                            954      43,787      31,126       8,094           –       1,841                –      85,802 
+
+Special Mention                    –         252       4,279           –           –           –                –       4,531 
+
+Substandard                        –           –           –           –           –           –                –           – 
+
+Total                     $      954  $   44,039  $   35,405  $    8,094  $        –  $    1,841  $             –  $   90,333 
+
+                                                                                                                              
+
+Commercial – other:                                                                                                           
+
+Pass                      $        –  $   15,000  $    9,033  $       80  $    6,196  $    7,632  $             –  $   37,941 
+
+Watch                         17,594           –         312           –           –       6,549                –      24,455 
+
+Special Mention                    –           –           –           –         972           –                –         972 
+
+Substandard                        –           –           –         170           –           –                –         170 
+
+Total                     $   17,594  $   15,000  $    9,345  $      250  $    7,168  $   14,181  $             –  $   63,538 
+
+                                                                                                                              
+
+SBA:                                                                                                                          
+
+Pass                      $        –  $    9,065  $      150  $       15  $        –  $    1,425  $             –  $   10,655 
+
+Watch                              –           –           –           –           –           –                –           – 
+
+Special Mention                    –           –           –           –           –           –                –           – 
+
+Substandard                        –           –           –           –         446       1,374                –       1,820 
+
+Total                     $        –  $    9,065  $      150  $       15  $      446  $    2,799  $             –  $   12,475 
+
+                                                                                                                              
+
+Consumer:                                                                                                                     
+
+Pass                      $       14  $        –  $        –  $        –  $        –  $        –  $             –  $       14 
+
+Watch                              –           –           –           –           –           –                –           – 
+
+Special Mention                    –           –           –           –           –           –                –           – 
+
+Substandard                        –           –           –           –           –           –                –           – 
+
+Total                     $       14  $        –  $        –  $        –  $        –  $        –  $             –  $       14 
+
+                                                                                                                              
+
+Total loans:                                                                                                                  
+
+Pass                      $   54,811  $  115,615  $  217,139  $  176,033  $   61,653  $  141,150  $             –  $  766,401 
+
+Watch                         18,548      43,787      36,545      15,007       6,125      17,550                –     137,562 
+
+Special Mention                    –       1,136       4,279           –         972       2,802                –       9,189 
+
+Substandard                        –           –           –       1,064       1,800      18,772                –      21,636 
+
+Total loans               $   73,359  $  160,538  $  257,963  $  192,104  $   70,550  $  180,274  $             –  $  934,788 
+
+
+
+12
+
+
+
+Table of Contents
+
+                          Term Loans Amortized Cost Basis by Origination Year - As of December 31, 2023                              
+
+                             2023        2022        2021        2020        2019       Prior       Revolving        Total    
+
+                                                                                                       Loans
+
+                                                                         (In thousands)                                                
+
+Single-family:                                                                                                                
+
+Pass                      $        –  $    2,474  $    1,862  $    2,940  $    1,485  $   12,374  $             –  $   21,135 
+
+Watch                              –           –         750           –           –         999                –       1,749 
+
+Special Mention                    –           –           –           –           –         116                –         116 
+
+Substandard                        –           –           –       1,365           –         337                –       1,702 
+
+Total                     $        –  $    2,474  $    2,612  $    4,305  $    1,485  $   13,826  $             –  $   24,702 
+
+                                                                                                                              
+
+Multi-family:                                                                                                                 
+
+Pass                      $   81,927  $  183,295  $  145,652  $   27,356  $   44,511  $   47,119  $             –  $  529,860 
+
+Watch                              –       4,686       6,203           –       1,186       6,474                –      18,549 
+
+Special Mention                    –           –         899           –           –       1,344                –       2,243 
+
+Substandard                        –           –           –           –         363      12,403                –      12,766 
+
+Total                     $   81,927  $  187,981  $  152,754  $   27,356  $   46,060  $   67,340  $             –  $  563,418 
+
+                                                                                                                              
+
+Commercial real estate:                                                                                                       
+
+Pass                      $    9,881  $   22,131  $   26,019  $   24,684  $    6,718  $   15,106  $             –  $  104,539 
+
+Watch                              –         442           –       5,286           –       2,599                –       8,327 
+
+Special Mention                    –           –           –           –         325           –                –         325 
+
+Substandard                        –           –           –  $        –  $        –       6,245  $             –  $    6,245 
+
+Total                     $    9,881  $   22,573  $   26,019  $   29,970  $    7,043  $   23,950  $             –  $  119,436 
+
+                                                                                                                              
+
+Church:                                                                                                                       
+
+Pass                      $    2,923  $        –  $    2,210  $    1,748  $        –  $    2,704  $             –  $    9,585 
+
+Watch                              –           –           –           –         636       1,525                –       2,161 
+
+Special Mention                    –           –           –           –           –           –                –           – 
+
+Substandard                        –           –           –           –           –         971                –         971 
+
+Total                     $    2,923  $        –  $    2,210  $    1,748  $      636  $    5,200  $             –  $   12,717 
+
+                                                                                                                              
+
+Construction:                                                                                                                 
+
+Pass                      $        –  $    1,109  $    1,198  $        –  $        –  $        –  $             –  $    2,307 
+
+Watch                         42,300      35,179       5,484           –           –       2,097                –      85,060 
+
+Special Mention                    –           –       2,520           –           –           –                –       2,520 
+
+Substandard                        –           –           –           –           –           –                –           – 
+
+Total                     $   42,300  $   36,288  $    9,202  $        –  $        –  $    2,097  $             –  $   89,887 
+
+                                                                                                                              
+
+Commercial – other:                                                                                                           
+
+Pass                      $   15,000  $    9,077  $       87  $    5,600  $        –  $   25,154  $             –  $   54,918 
+
+Watch                              –         312           –       1,500       6,550           –                –       8,362 
+
+Special Mention                    –           –         170           –           –           –                –         170 
+
+Substandard                        –           –           –           –           –           –                –           – 
+
+Total                     $   15,000  $    9,389  $      257  $    7,100  $    6,550  $   25,154  $             –  $   63,450 
+
+                                                                                                                              
+
+SBA:                                                                                                                          
+
+Pass                      $   11,809  $      109  $    2,453  $        –  $       16  $      100  $             –  $   14,487 
+
+Watch                              –           –           –           –           –           –                –           – 
+
+Special Mention                    –           –           –         467           –           –                –         467 
+
+Substandard                        –           –           –           –           –           –                –           – 
+
+Total                     $   11,809  $      109  $    2,453  $      467  $       16  $      100  $             –  $   14,954 
+
+                                                                                                                              
+
+Consumer:                                                                                                                     
+
+Pass                      $       13  $        –  $        –  $        –  $        –  $        –  $             –  $       13 
+
+Watch                              –           –           –           –           –           –                –           – 
+
+Special Mention                    –           –           –           –           –           –                –           – 
+
+Substandard                        –           –           –           –           –           –                –           – 
+
+Total                     $       13  $        –  $        –  $        –  $        –  $        –  $             –  $       13 
+
+                                                                                                                              
+
+Total loans:                                                                                                                  
+
+Pass                      $  121,553  $  218,195  $  179,481  $   62,328  $   52,730  $  102,557  $             –  $  736,844 
+
+Watch                         42,300      40,619      12,437       6,786       8,372      13,694                –     124,208 
+
+Special Mention                    –           –       3,589         467         325       1,460                –       5,841 
+
+Substandard                        –           –           –       1,365         363      19,956                –      21,684 
+
+Total loans               $  163,853  $  258,814  $  195,507  $   70,946  $   61,790  $  137,667  $             –  $  888,577 
+
+
+
+Allowance for Credit Losses for Off-Balance Sheet Commitments
+
+
+
+The Company maintains an allowance for credit losses on off-balance sheet commitments related to unfunded loans and lines of credit, which is included in other liabilities of the consolidated statements of financial condition. Upon the Company’s adoption of ASC 326 on January 1, 2023, the Company applies an expected credit loss estimation methodology for off-balance sheet commitments. This methodology is commensurate with the methodology applied to each respective segment of the loan portfolio in determining the ACL for loans held-for-investment. The loss estimation process includes assumptions for the probability that a loan will fund, as well as the expected amount of funding. These assumptions are based on the Company’s own historical internal loan data.
+
+
+
+The allowance for off-balance sheet commitments was $420 thousand and $364 thousand at March 31, 2024 and December 31, 2023, respectively.  This amount is included in accrued expenses and other liabilities on the consolidated statements of financial condition.  The provision for off-balance sheet commitments was $56 thousand for the quarter-ended March 31, 2024.
+
+
+
+13
+
+
+
+Table of Contents
+
+NOTE 5 – Goodwill and Core Deposit Intangible
+
+
+
+The Company recognized goodwill of $25.9 million and a core deposit intangible of $2.0 million as of March 31, 2024. The following table presents the changes in the carrying amounts of goodwill and core deposit intangibles for the three months ended March 31, 2024:
+
+
+
+                                                                                                          Goodwill      Core Deposit  
+
+                                                                                                                         Intangible
+
+                                                                                                               (In thousands)          
+
+Balance at the beginning of the period                                                                 $      25,858  $        2,111 
+
+Additions                                                                                                          –               – 
+
+Change in deferred tax estimate                                                                                    –               – 
+
+Amortization                                                                                                       –             (84)
+
+Balance at the end of the period                                                                       $      25,858  $        2,027 
+
+
+
+	
+
+
+
+The carrying amount of the core deposit intangible consisted of the following at March 31, 2024 (in thousands):
+
+
+
+Core deposit intangible acquired                                                                                         $       3,329 
+
+Less: accumulated amortization                                                                                                  (1,302)
+
+                                                                                                                         $       2,027 
+
+
+
+The following table outlines the estimated amortization expense for the core deposit intangible during the next five fiscal years (in thousands):
+
+
+
+Remainder of 2024                                                                                                        $         252 
+
+2025                                                                                                                               315 
+
+2026                                                                                                                               304 
+
+2027                                                                                                                               291 
+
+2028                                                                                                                               279 
+
+Thereafter                                                                                                                         586 
+
+                                                                                                                         $       2,027 
+
+
+
+14
+
+
+
+Table of Contents
+
+NOTE 6 – Borrowings
+
+
+
+The Company enters into agreements under which it sells securities subject to an obligation to repurchase the same or similar securities. Under these arrangements, the Company may transfer legal control over the assets but still retain effective control through an agreement that both entitles and obligates the Company to repurchase the assets. As a result, these repurchase agreements are accounted for as collateralized financing agreements (i.e., secured borrowings) and not as a sale and subsequent repurchase of securities. The obligation to repurchase the securities is reflected as a liability in the Company’s consolidated statements of financial condition, while the securities underlying the repurchase agreements remain in the respective investment securities asset accounts. In other words, there is no offsetting or netting of the investment securities assets with the repurchase agreement liabilities. These agreements mature on a daily basis. As of March 31, 2024 securities sold under agreements to repurchase totaled $71.7 million at an average rate of 3.62%. The fair value of securities pledged totaled $78.6 million as of March 31, 2024. As of December 31, 2023, securities sold under agreements to repurchase totaled $73.5 million at an average rate of 3.64%. The fair value of securities pledged totaled $89.0 million as of December 31, 2023.
+
+
+
+	
+
+At March 31, 2024 and December 31, 2023, the Company had outstanding advances from the FHLB totaling $209.3 million. The weighted interest rate was 4.91% as of both March 31, 2024 and December 31, 2023. The weighted average contractual maturity was 2 months as of both March 31, 2024 and December 31, 2023, respectively. The advances were collateralized by loans with a fair value of $419.2 million at March 31, 2024 and $435.4 million at December 31, 2023. The Company is currently approved by the FHLB of Atlanta to borrow up to 25% of total assets to the extent the Company provides qualifying collateral and holds sufficient FHLB stock. Based on collateral pledged and FHLB stock held, the Company was eligible to borrow an additional $105.0 million as of March 31, 2024.
+
+
+
+On December 27, 2023, the Company borrowed $100 million from the Federal Reserve under the BTFP. As of  both March 31, 2024 and December 31, 2023, $100 million was outstanding. The interest rate on this borrowing is fixed at 4.84% and the borrowing matures on December 29, 2024. Investment securities with a fair value of $98.3 million were pledged as collateral for this borrowing as of both March 31, 2024 and December 31, 2023. There are no prepayment penalties for early payoff. As the BTFP ended on March 11, 2024, no additional borrowings can be made under the program.
+
+
+
+In addition, the Company had additional lines of credit of $10.0 million with other financial institutions as of March 31, 2024 and December 31, 2023. These lines of credit are unsecured, bear interest at the Federal funds rate as of the date of utilization and mature in 30 days.  There were no amounts outstanding under these lines of credit as of March 31, 2024 or December 31, 2023.
+
+
+
+In connection with the New Market Tax Credit activities of the Bank, CFC 45 is a partnership whose members include CFNMA and City First New Markets Fund II, LLC. This community development entity (“CDE”) acts in effect as a pass-through for a Merrill Lynch allocation totaling $14.0 million that needed to be deployed. In December 2015, Merrill Lynch made a $14.0 million non-recourse loan to CFC 45, whereby CFC 45 passed that loan through to a Qualified Active Low-Income Business (“QALICB”). The loan to the QALICB was secured by a Leasehold Deed of Trust that, due to the pass-through, non-recourse structure, was operationally and ultimately for the benefit of Merrill Lynch rather than CFC 45. Debt service payments received by CFC 45 from the QALICB were passed through to Merrill Lynch in return for which CFC 45 received a servicing fee. The financial statements of CFC 45 are consolidated with those of the Bank and the Company.
+
+
+
+There were two notes for CFC 45. Note A was in the amount of $9.9 million with a fixed interest rate of 5.2% per annum. Note B was in the amount of $4.1 million with a fixed interest rate of 0.24% per annum. Quarterly interest only payments commenced in March 2016 and continued through March 2023 for Notes A and B. These notes were paid off during January 2024. 
+
+
+
+15
+
+
+
+Table of Contents
+
+NOTE 7 – Fair Value 
+
+
+
+The Company used the following methods and significant assumptions to estimate fair value:
+
+
+
+The fair values of securities available-for-sale are determined by obtaining quoted prices on nationally recognized securities exchanges (Level 1 inputs) or matrix pricing, which is a mathematical technique to value debt securities without relying exclusively on quoted prices for the specific securities, but rather by relying on the securities’ relationship to other benchmark quoted securities (Level 2 inputs).
+
+
+
+The fair value of loans that are collateral dependent is generally based upon the fair value of the collateral, which is obtained from recent real estate appraisals. These appraisals may utilize a single valuation approach or a combination of approaches including comparable sales and the income approach. Adjustments are routinely made in the appraisal process by the independent appraisers to adjust for differences between the comparable sales and income data available. Such adjustments are usually significant and typically result in a Level 3 classification of the inputs for determining fair value. Collateral dependent loans are evaluated on a quarterly basis for additional required calculation adjustments (taken as part of the ACL) and adjusted accordingly.
+
+
+
+Assets acquired through or by transfer in lieu of loan foreclosure are initially recorded at fair value less costs to sell when acquired, establishing a new cost basis. These assets are subsequently accounted for at the lower of cost or fair value less estimated costs to sell. Fair value is commonly based on recent real estate appraisals which are updated every nine months. These appraisals may utilize a single valuation approach or a combination of approaches, including comparable sales and the income approach. Adjustments are routinely made in the appraisal process by the independent appraisers to adjust for differences between the comparable sales and income data available. Such adjustments are usually significant and typically result in a Level 3 classification of the inputs for determining fair value. Real estate owned properties are evaluated on a quarterly basis for additional impairment and adjusted accordingly.
+
+
+
+Appraisals for collateral-dependent loans and assets acquired through or by transfer of in lieu of foreclosure are performed by certified general appraisers (for commercial properties) or certified residential appraisers (for residential properties) whose qualifications and licenses have been reviewed and verified by the Company. Once received, an independent third-party licensed appraiser reviews the appraisals for accuracy and reasonableness, reviewing the assumptions and approaches utilized in the appraisal as well as the overall resulting fair value in comparison with independent data sources such as recent market data or industry-wide statistics.
+
+
+
+Assets Measured on a Recurring Basis
+
+
+
+Assets measured at fair value on a recurring basis are summarized below:
+
+
+
+                                                                                        Fair Value Measurement                         
+
+                                                                 Quoted Prices   Significant        Significant           Total     
+
+                                                                  in Active         Other           Unobservable
+
+                                                                  Markets for     Observable      Inputs (Level 3)
+
+                                                                   Identical    Inputs (Level
+
+                                                                    Assets            2)
+
+                                                                     (Level
+
+                                                                       1)
+
+                                                                                            (In thousands)                             
+
+At March 31, 2024:                                                                                                                  
+
+Securities available-for-sale:                                                                                                      
+
+Federal agency mortgage-backed securities                        $          –  $       64,030  $                 –  $     64,030 
+
+Federal agency CMOs                                                         –          22,529                    –        22,529 
+
+Federal agency debt                                                         –          47,846                    –        47,846 
+
+Municipal bonds                                                             –           4,351                    –         4,351 
+
+U.S. Treasuries                                                       144,444               –                    –       144,444 
+
+SBA pools                                                                   –          10,043                    –        10,043 
+
+                                                                                                                                 
+
+At December 31, 2023:                                                                                                            
+
+Securities available-for-sale:                                                                                                   
+
+Federal agency mortgage-backed securities                        $          –  $       66,778  $                 –  $     66,778 
+
+Federal agency CMOs                                                         –          23,339                    –        23,339 
+
+Federal agency debt                                                         –          47,836                    –        47,836 
+
+Municipal bonds                                                             –           4,373                    –         4,373 
+
+U.S. Treasuries                                                       163,880               –                    –       163,880 
+
+SBA pools                                                                   –          10,744                    –        10,744 
+
+
+
+
+
+16
+
+
+
+Table of Contents
+
+There were no transfers between Level 1, Level 2, or Level 3 during the three months ended March 31, 2024 and 2023.
+
+
+
+As of March 31, 2024 and December 31, 2023, the Bank did not have any assets or liabilities carried at fair value on a nonrecurring basis.
+
+
+
+Fair Values of Financial Instruments
+
+
+
+The following tables present the carrying amount, fair value, and level within the fair value hierarchy of the Company’s financial instruments not recorded at fair value on a recurring basis as of March 31, 2024 and December 31, 2023. 
+
+
+
+
+
+                                                                                 Fair Value Measurements at March 31, 2024            
+
+                                                         Carrying        Level 1        Level 2        Level 3         Total     
+
+                                                           Value
+
+                                                                                       (In thousands)                                  
+
+Financial Assets:                                                                                                                
+
+Cash and cash equivalents                              $      67,122  $      67,122  $           –  $           –  $      67,122 
+
+Securities available-for-sale                                293,243        144,444        148,799              –        293,243 
+
+Loans receivable held for investment                         926,497              –              –        778,813        778,813 
+
+Accrued interest receivable                                    5,638            416          1,343          3,879          5,638 
+
+Bank owned life insurance                                      3,286          3,286              –              –          3,286 
+
+                                                                                                                                 
+
+Financial Liabilities:                                                                                                           
+
+Deposits                                               $     695,494  $           –  $     608,134  $              $     608,134 
+
+FHLB advances                                                209,280              –        208,213              –        208,213 
+
+BTFP borrowing                                               100,000              –        100,000              –        100,000 
+
+Securities sold under agreements to repurchase                71,681              –         70,510              –         70,510 
+
+Accrued interest payable                                       2,810              –          2,810              –          2,810 
+
+
+
+                                                                               Fair Value Measurements at December 31, 2023           
+
+                                                         Carrying        Level 1        Level 2        Level 3         Total     
+
+                                                           Value
+
+                                                                                       (In thousands)                                  
+
+Financial Assets:                                                                                                                
+
+Cash and cash equivalents                              $     105,195  $     105,195  $           –  $           –  $     105,195 
+
+Securities available-for-sale                                316,950        163,880        153,070              –        316,950 
+
+Loans receivable held for investment                         880,457              –              –        746,539        746,539 
+
+Accrued interest receivable                                    4,938            306          1,301          3,331          4,938 
+
+Bank owned life insurance                                      3,275          3,275              –              –          3,275 
+
+                                                                                                                                 
+
+Financial Liabilities:                                                                                                           
+
+Deposits                                               $     682,635  $           –  $     536,171  $           –  $     536,171 
+
+FHLB advances                                                209,319              –        208,107              –        208,107 
+
+BTFP borrowing                                               100,000              –        100,000              –        100,000 
+
+Securities sold under agreements to repurchase                73,475              –         72,597              –         72,597 
+
+Notes payable                                                 14,000              –              –         14,000         14,000 
+
+Accrued interest payable                                       1,420              –          1,420              –          1,420 
+
+
+
+In accordance with ASU No. 2016-01, the fair value of financial assets and liabilities was measured using an exit price notion. Although the exit price notion represents the value that would be received to sell an asset or paid to transfer a liability, the actual price received for a sale of assets or paid to transfer liabilities could be different from exit price disclosed.
+
+
+
+NOTE 8 – Stock-based Compensation
+
+
+
+Prior to June 21, 2023, the Company issued stock-based compensation awards to its directors and officers under the 2018 Long Term Incentive Plan (“LTIP”) which allowed the grant of non-qualified and incentive stock options, stock appreciation rights, full value awards and cash incentive awards.  The maximum number of shares available to be awarded under the LTIP was 161,638 shares.
+
+
+
+During February of 2023, the Company issued 9,230 shares of stock to its directors under the LTIP, which were fully vested.  During the three months ended March 31, 2024 and 2023, the Company recorded $0 and $96 thousand of director stock compensation expense, respectively, which was determined using the fair value of the stock on the dates of the awards.
+
+
+
+17
+
+
+
+Table of Contents
+
+During March of 2022, the Company issued 61,907 shares of restricted stock to its officers and employees under the LTIP, of which 17,012 shares have been forfeited as of March 31, 2024. Each restricted stock award was valued based on the fair value of the stock on the date of the award. These awarded shares of restricted stock fully vest over periods ranging from 36 months to 60 months from their respective dates of grant.
+
+
+
+On June 21, 2023, stockholders approved an Amendment and Restatement of the 2018 Long Term Incentive Plan (“Amended and Restated LTIP”) which allows the issuance of 487,500 additional shares and brought the number of shares that may be issued under the Amended and Restated LTIP to 649,138 shares. 
+
+
+
+On June 21, 2023, the Company issued 92,700 shares of restricted stock to its officers and employees under the Amended and Restated LTIP, of which 11,237 shares have been forfeited as of March 31, 2024. Each restricted stock award was valued based on the fair value of the stock on the date of the award. These awarded shares of restricted stock fully vest over periods ranging from 36 months to 60 months from their respective dates of grant.
+
+
+
+On March 26, 2024, the Company issued 94,413 shares of restricted stock to its officers and employees under the Amended and Restated LTIP. Each restricted stock award was valued based on the fair value of the stock on the date of the award. These awarded shares of restricted stock fully vest over periods ranging from 36 months to 60 months from their respective dates of grant.
+
+
+
+Stock-based compensation is recognized on a straight-line basis over the vesting period. During the three months ended March 31, 2024 and 2023, the Company recorded $77 thousand and $38 thousand of stock-based compensation expense, respectively.
+
+
+
+As of March 31, 2024, 293,681 shares had been awarded under the Amended and Restated LTIP and 355,458 shares were available to be awarded.
+
+
+
+No stock options were granted, exercised, forfeited or expired during the three months ended March 31, 2024 or the three months ended March 31, 2023.
+
+
+
+Options outstanding and exercisable at March 31, 2024 were as follows: 
+
+
+
+                                Outstanding                                                         Exercisable                        
+
+     Number        Weighted Average      Weighted           Aggregate            Number           Weighted          Aggregate       
+
+   Outstanding         Remaining          Average           Intrinsic          Outstanding        Average         Intrinsic Value
+
+                   Contractual Life   Exercise Price          Value                            Exercise Price
+
+          31,250     1.88 years      $         12.96  $                –            31,250  $         12.96  $                – 
+
+
+
+The Company did not record any stock-based compensation expense related to stock options during the three months ended March 31, 2024 and 2023.
+
+
+
+All common stock share amounts above have been retroactively adjusted, as applicable, for the 1-for-8 reverse stock split effective November 1, 2023.  See Note 1. 
+
+
+
+NOTE 9 – ESOP Plan
+
+
+
+Employees participate in an ESOP after attaining certain age and service requirements. During 2022, the ESOP purchased 58,369 shares of the Company’s common stock at an average cost of $8.57 per share for a total cost of $500 thousand which was funded with a $5 million line of credit from the Company. During 2023, the ESOP purchased 369,958 additional shares of the Company’s common stock at an average cost of $9.19 per share for a total cost of $3.4 million which was funded with the line of credit. Any loans or borrowings under the line of credit will be repaid from the Bank’s discretionary contributions to the ESOP, net of dividends paid, over a period of 20 years. Shares of the Company’s common stock purchased by the ESOP are held in a suspense account until released for allocation to participants. When loan payments are made, shares are allocated to each eligible participant based on the ratio of each such participant’s compensation, as defined in the ESOP, to the total compensation of all eligible plan participants. As the unearned shares are released from the suspense account, the Company recognizes compensation expense equal to the fair value of the ESOP shares during the periods in which they become committed to be released. To the extent that the fair value of the ESOP shares released differs from the cost of such shares, the difference is charged or credited to equity as additional paid-in capital. Dividends on allocated shares increase participant accounts. Dividends on unallocated shares will be used to repay the loan. At the end of employment, participants will receive shares for their vested balance. Compensation expense related to the ESOP was $47 thousand and $12 thousand for the three months ended March 31, 2024 and 2023, respectively.
+
+
+
+18
+
+
+
+Table of Contents
+
+Shares held by the ESOP were as follows:
+
+
+
+                                                                                                          March 31,    December 31,  
+
+                                                                                                             2024           2023
+
+                                                                                                            (Dollars in thousands)     
+
+Allocated to participants                                                                               $     148,778  $     134,444 
+
+Committed to be released                                                                                        7,509         28,669 
+
+Suspense shares                                                                                               451,320        458,829 
+
+Total ESOP shares                                                                                             607,607        621,942 
+
+Fair value of unearned shares                                                                           $       2,487  $       4,217 
+
+
+
+The value of unearned shares, which are reported as Unearned ESOP shares in the equity section of the consolidated statements of financial condition, were $4.4 million and $4.5 million at March 31, 2024 and December 31, 2023, respectively.
+
+
+
+All common stock share amounts above have been retroactively adjusted, as applicable, for the 1-for-8 reverse stock split effective November 1, 2023. See Note 1.
+
+
+
+NOTE 10 – Regulatory Matters 
+
+
+
+
+
+The Bank’s capital requirements are administered by the Office of the Comptroller of the Currency (“OCC”) and involve quantitative measures of assets, liabilities, and certain off-balance sheet items calculated under regulatory accounting practices. Capital amounts and classifications are also subject to qualitative judgments by the OCC. Failure to meet capital requirements can result in regulatory action.
+
+
+
+As a result of the Economic Growth, Regulatory Relief, and Consumer Protection Act, the federal banking agencies have developed a “Community Bank Leverage Ratio” (the ratio of a bank’s tier 1 capital to average total consolidated assets) for financial institutions with assets of less than $10 billion. A “qualifying community bank” that exceeds this ratio will be deemed to be in compliance with all other capital and leverage requirements, including the capital requirements to be considered “well capitalized” under Prompt Corrective Action statutes. The federal banking agencies have set the Community Bank Leverage Ratio at 9%. Actual and required capital amounts and ratios as of the dates indicated are presented below:
+
+
+
+                                                                                 Actual                  Minimum Required to Be     
+
+                                                                                                         Well Capitalized Under
+
+                                                                                                        Prompt Corrective Action
+
+                                                                                                               Provisions
+
+                                                                         Amount          Ratio          Amount          Ratio     
+
+                                                                                          (Dollars in thousands)                      
+
+March 31, 2024:                                                                                                                   
+
+Community Bank Leverage Ratio                                         $     185,389          13.65%  $     122,268           9.00%
+
+December 31, 2023:                                                                                                                
+
+Community Bank Leverage Ratio                                         $     185,773          14.97%  $     111,696           9.00%
+
+
+
+At March 31, 2024, the Company and the Bank met all the capital adequacy requirements to which they were subject. In addition, the Bank was “well capitalized” under the regulatory framework for prompt corrective action. Management believes that no conditions or events have occurred since March 31, 2024 that would materially adversely change the Bank’s capital classifications. From time to time, the Bank may need to raise additional capital to support its further growth and to maintain its “well capitalized” status.
+
+
+
+19
+
+
+
+Table of Contents
+
+NOTE 11 – Income Taxes
+
+
+
+The Company and its subsidiary are subject to U.S. federal and state income taxes. Income tax expense is the total of the current year income tax due or refundable and the change in deferred tax assets and liabilities. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date.
+
+
+
+Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion, or all, of the deferred tax asset will not be realized. In assessing the realization of deferred tax assets, management evaluated both positive and negative evidence, including any cumulative losses in the current year and the prior two years, the amount of taxes paid in available carry-back years, the forecasts of future income and tax planning strategies.
+
+
+
+At March 31, 2024, the Company maintained a $449 thousand valuation allowance on its deferred tax assets because the number of shares sold in the private placements completed on April 6, 2021 triggered limitations on the use of certain tax attributes under the Section 382 of the federal tax code. The ability to use net operating losses (“NOLs”) to offset future taxable income will be restricted and these NOLs could expire or otherwise be unavailable. In general, under Section 382 of the Code and corresponding provisions of state law, a corporation that undergoes an “ownership change” is subject to limitations on its ability to utilize its pre-change NOLs to offset future taxable income. For these purposes, an ownership change generally occurs where the aggregate stock ownership of one or more stockholders or groups of stockholders who owns at least 5% of a corporation’s stock increases its ownership by more than 50 percentage points over its lowest ownership percentage within a specified testing period.
+
+
+
+NOTE 12 – Concentration of Credit Risk
+
+
+
+The Bank has a significant concentration of deposits with two customers that accounted for approximately 12% of its deposits as of March 31, 2024. The Bank also has a significant concentration of short-term borrowings from one customer that accounted for 86% of the outstanding balance of securities sold under agreements to repurchase as of March 31, 2024. The Company expects to maintain the relationships with these customers for the foreseeable future.
+
+
+
+20
+
+
+
+Table of Contents
+
+
+
+ITEM 2.        MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to provide a reader of our financial statements with a narrative from the perspective of our management on our financial condition, results of operations, liquidity and certain other factors that may affect our future results. Our MD&A should be read in conjunction with the Consolidated Financial Statements and related Notes included in Part I, Item 1 “Financial Statements,” of this Quarterly Report on Form 10-Q and our Annual Report on Form 10-K for the year ended December 31, 2023. Certain statements herein are forward-looking statements within the meaning of Section 21E of the U.S. Securities Exchange Act of 1934, as amended (the “Exchange Act”) and Section 27A of the U.S. Securities Act of 1933, as amended that reflect our current views with respect to future events and financial performance. Forward-looking statements typically include words such as “expect,” “estimate,” “project,” “budget,” “forecast,” “anticipate,” “intend,” “plan,” “may,” “will,” “could,” “should,” “believes,” “predicts,” “potential,” “continue,” “poised,” “optimistic,” “prospects,” “ability,” “looking,” “forward,” “invest,” “grow,” “improve,” “deliver” and other similar expressions. These forward-looking statements are subject to risks and uncertainties, which could cause actual future results to differ materially from historical results or from those anticipated or implied by such statements. Readers should not place undue reliance on these forward-looking statements, which speak only as of their dates or, if no date is provided, then as of the date of this Form 10-Q. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except to the extent required by law.
+
+
+
+Critical Accounting Policies and Estimates
+
+
+
+Critical accounting policies are those that involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on our financial condition or results of operations under different assumptions and conditions. This discussion highlights those accounting policies that management considers critical. All accounting policies are important; therefore, you are encouraged to review each of the policies included in Note 1 “Summary of Significant Accounting Policies” of the Notes to Consolidated Financial Statements in our 2023 Form 10-K to gain a better understanding of how our financial performance is measured and reported. Management has identified the Company’s critical accounting policies as follows:
+
+
+
+Allowance for Credit Losses for Loans
+
+
+
+The Company accounts for credit losses on loans in accordance with ASC 326, which requires the Company to record an estimate of expected lifetime credit losses for loans at the time of origination or acquisition. The ACL is maintained at a level deemed appropriate by management to provide for expected credit losses in the portfolio as of the date of the consolidated statements of financial condition. Estimating expected credit losses requires management to use relevant forward-looking information, including the use of reasonable and supportable forecasts. The measurement of the ACL is performed by collectively evaluating loans with similar risk characteristics. The Company measures the ACL for each of its loan segments using the weighted-average remaining maturity (“WARM”) method. The weighted average remaining life, including the effect of estimated prepayments, is calculated for each loan pool on a quarterly basis. The Company then estimates a loss rate for each pool using both its own historical loss experience and the historical losses of a group of peer institutions. The Company’s ACL model also includes adjustments for qualitative factors, where appropriate.
+
+
+
+Certain loans, such as those that are nonperforming or are considered to be collateral dependent, are deemed to no longer possess risk characteristics similar to other loans in the loan portfolio, because the specific attributes and risks associated with the loan have likely become unique as the credit quality of the loan deteriorates. As such, these loans may require individual evaluation to determine an appropriate ACL for the loan. When a loan is individually evaluated, the Company typically measures the expected credit loss for the loan based on a discounted cash flow approach, unless the loan has been deemed collateral dependent in which case the ACL is determined using estimates of the fair value of the underlying collateral, less estimated selling costs.
+
+
+
+Goodwill and Intangible Assets
+
+
+
+Goodwill and intangible assets acquired in a purchase business combination and that are determined to have an indefinite useful life are not amortized but tested for impairment at least annually or more frequently if events and circumstances exist that indicate the necessity for such impairment tests to be performed. The Company has selected November 30th as the date to perform the annual impairment test. Intangible assets with definite useful lives are amortized over their estimated useful lives to their estimated residual values. Goodwill is the only intangible asset with an indefinite life on the Company’s consolidated statement of financial condition.
+
+
+
+21
+
+
+
+Table of Contents
+
+Income Taxes
+
+
+
+Deferred tax assets and liabilities are determined using the liability (or balance sheet) method. Under this method, the net deferred tax asset or liability is determined based on the tax effects of the temporary differences between the book and tax bases of the various balance sheet assets and liabilities and gives current recognition to changes in tax rates and laws. A valuation allowance is established against deferred tax assets when, based upon the available evidence including historical and projected taxable income, it is more likely than not that some or all the deferred tax asset will not be realized. In assessing the realization of deferred tax assets, management evaluates both positive and negative evidence, including the existence of any cumulative losses in the current year and the prior two years, the amount of taxes paid in available carryback years, forecasts of future income and available tax planning strategies. This analysis is updated quarterly.
+
+
+
+Fair Value Measurements
+
+
+
+Fair value is the exchange price that would be received for an asset or paid to transfer a liability (exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date.
+
+
+
+Fair values are estimated using relevant market information and other assumptions, as more fully disclosed in Note 7 “Fair Value” of the Notes to Consolidated Financial Statements of this Quarterly Report on Form 10-Q. Fair value estimates involve uncertainties and matters of significant judgment regarding interest rates, credit risk, prepayments, and other factors, especially in the absence of broad markets for items. Changes in assumptions or in market conditions could significantly affect the estimates.
+
+
+
+22
+
+
+
+Table of Contents
+
+Overview
+
+
+
+Total assets decreased by $4.9 million to $1.4 billion at March 31, 2024 from December 31, 2023, primarily due to decreases in cash and cash equivalents of $38.1 million and securities available-for-sale of $23.7 million, partially offset by growth in loans receivable held for investment of $46.0 million and other assets of $9.9 million.
+
+
+
+Total liabilities decreased by $4.3 million to $1.1 billion at March 31, 2024 from December 31, 2023. The decrease in total liabilities primarily consisted of decreases of $14.0 million in notes payable, $1.8 million in securities sold under agreements to repurchase, and $1.3 million in accrued expenses and other liabilities, which were partially offset by an increase in deposits of $12.9 million.
+
+
+
+During the first quarter of 2024, net interest income decreased by $750 thousand, or 9.1%, compared to the first quarter of 2023. This decrease resulted from additional interest expense, primarily due to an overall increase of 156 basis points in the average cost of funds, which reflected the higher rates that the Bank paid on deposits and borrowings because of the interest rate increases implemented by the FRB as well as to growth of $165.8 million in average interest-earning liabilities from the quarter ended March 31, 2023.  This decrease was partially offset by an increase in interest income due to a 46 basis point increase in the overall rate earned on interest-earning assets as the Bank earned higher rates on interest-earning deposits, securities and the loan portfolio.
+
+
+
+In addition, total non-interest expense increased by $1.6 million during the first quarter of 2024 compared to the first quarter of 2023, primarily due to increases of $905 thousand in non-recurring professional services and $648 thousand in compensation and benefits. Partially offsetting this increase was a decrease in income tax expense of $731 thousand, which reflected a decrease of $2.5 million in pre-tax income between the two periods.
+
+
+
+For the first quarter of 2024, the Company reported a net loss of $162 thousand compared to net income of $1.6 million for the first quarter of 2023.
+
+
+
+Results of Operations
+
+
+
+Net Interest Income
+
+
+
+Three Months Ended March 31, 2024 Compared to the Three Months Ended March 31, 2023
+
+
+
+Net interest income before provision for credit losses for the first quarter of 2024 totaled $7.5 million, representing a decrease of $750 thousand, or 9.1%, from net interest income before loan loss provision of $8.3 million for the first quarter of 2023.  The decrease resulted from additional interest expense, primarily due to an increase in the cost of average borrowings of 1.65% and an increase in the cost of average deposits of 1.05% during the first quarter of 2024, compared to the first quarter of 2023.  In addition, the decrease in net interest income before provision for credit losses was caused by an increase in average borrowings of $165.8 million during the first quarter of 2024, compared to the first quarter of 2023, which was due to the $100.0 million BTFP borrowing in December 2023 and an increase of $64.1 million in average FHLB advances during the first quarter of 2024. The net interest margin decreased to 2.27% for the first quarter of 2024, compared to 2.96% for the first quarter of 2023, primarily due to an overall increase of 156 basis points in the average cost of funds, which reflected higher rates paid on deposits and borrowings because of the increases in interest rates implemented by the Federal Open Market Committee of the Federal Reserve (the “Federal Reserve” or “FRB”) between March 2022 and September 2023.  The impact of the rising cost of funds was partially offset by an increase in the yield on interest-earnings assets of 46 basis points, primarily due to higher rates earned on interest-bearing deposits in other banks, securities and the loan portfolio.
+
+
+
+The following tables set forth the average balances, average yields and costs, and certain other information for the periods indicated. All average balances are daily average balances. The yields set forth below include the effect of deferred loan fees, and discounts and premiums that are amortized or accreted to interest income or expense. We do not accrue interest on loans on non-accrual status, but the balance of these loans is included in the total average balance of loans receivable, which has the effect of reducing average loan yields.
+
+
+
+23
+
+
+
+Table of Contents
+
+                                                                        For the Three Months Ended                                    
+
+                                                      March 31, 2024                                   March 31, 2023                 
+
+(Dollars in Thousands)                   Average       Interest        Average         Average       Interest        Average    
+
+                                         Balance                      Yield/Cost       Balance                      Yield/Cost
+
+Assets                                                                                                                          
+
+Interest-earning assets:                                                                                                        
+
+Interest-bearing deposits             $      99,103  $       1,344           5.42%  $      17,044  $         119           2.79%
+
+Securities                                  305,615          2,075           2.72%        328,767          2,180           2.65%
+
+Loans receivable (1)                        909,965         11,129           4.89%        762,669          8,666           4.55%
+
+FRB and FHLB stock                           13,733            245           7.14%         10,665            209           7.84%
+
+Total interest-earning assets             1,328,416  $      14,793           4.45%      1,119,145  $      11,174           3.99%
+
+Non-interest-earning assets                  52,561                                        67,947                               
+
+Total assets                          $   1,380,977                                 $   1,187,092                               
+
+                                                                                                                                
+
+Liabilities and Stockholders’ Equity                                                                                            
+
+Interest-bearing liabilities:                                                                                                   
+
+Money market deposits                 $     125,704  $       1,444           4.59%  $     134,047  $         771           2.30%
+
+Savings deposits                             59,056            102           0.69%         61,317             13           0.08%
+
+Interest checking and other demand          227,504            143           0.25%        239,024             77           0.13%
+
+ deposits
+
+Certificate accounts                        163,116          1,110           2.72%        147,260            442           1.20%
+
+Total deposits                              575,380          2,799           1.95%        581,648          1,303           0.90%
+
+FHLB advances                               209,299          2,598           4.97%        145,201          1,454           4.01%
+
+Bank Term Funding Program borrowing         100,000          1,203           4.81%              –              –              –%
+
+Other borrowings                             77,601            669           3.45%         69,618            143           0.82%
+
+Total borrowings                            386,900          4,470           4.62%        214,819          1,597           2.97%
+
+Total interest-bearing liabilities          962,280  $       7,269           3.02%        796,467  $       2,900           1.46%
+
+Non-interest-bearing liabilities            137,035                                       109,955                               
+
+Stockholders’ equity                        281,662                                       280,670                               
+
+Total liabilities and stockholders’   $   1,380,977                                 $   1,187,092                               
+
+ equity
+
+                                                                                                                                
+
+Net interest rate spread (2)                         $       7,524           1.43%                 $       8,274           2.54%
+
+Net interest rate margin (3)                                                 2.27%                                         2.96%
+
+Ratio of interest-earning assets to                                        138.05%                                       140.51%
+
+ interest-bearing
+
+ liabilities
+
+
+
+(1)   Amount is net of deferred loan fees, loan discounts and loans in process, and includes deferred origination costs and loan premiums.
+
+(2)   Net interest rate spread represents the difference between the yield on average interest-earning assets and the cost of average interest-bearing liabilities.
+
+(3)   Net interest rate margin represents net interest income as a percentage of average interest-earning assets.
+
+
+
+Credit Loss Provision
+
+
+
+For the three months ended March 31, 2024, the Company recorded a provision for credit losses of $260 thousand, compared to a provision for credit losses of $88 thousand for the three months ended March 31, 2023.  The provision for credit losses during the quarter ended March 31, 2024 increased by $172 thousand compared to the quarter ended March 31, 2023, due to an increase in loan origination volume. Since the Company has no historical loss rates of its own, it uses peer historical loss rates, which decreased during the first quarter of 2024 and caused the Company to decrease the factor for historical losses in its computation, causing a decrease in the provision on certain loan categories. The provision for credit losses during the quarter-ended March 31, 2024, included provisions for off-balance sheet loan commitments of $56 thousand.
+
+
+
+The ACL increased to $7.6 million as of March 31, 2024, compared to $7.3 million as of December 31, 2023.
+
+
+
+The Bank had non-accrual loans of $401 thousand at March 31, 2024, which were greater than 90 days past due.  Loan delinquencies for 30 days or more, but less than 90 days, decreased to $369 thousand at March 31, 2024, compared to $780 thousand at December 31, 2023. There were no loans past due by greater than 90 days at December 31, 2023.  No loan charge-offs were recorded during the three months ended March 31, 2024 or 2023.
+
+
+
+Non-interest Income
+
+
+
+Non-interest income for the first quarter of 2024 totaled $306 thousand, compared to $289 thousand for the first quarter of 2023.
+
+
+
+Non-interest Expense
+
+
+
+Total non-interest expense was $7.8 million for the first quarter of 2024, representing an increase of $1.6 million, or 25.8%, from $6.2 million for the first quarter of 2023.  The increase was primarily due to higher non-recurring professional services expense of $905 thousand, and compensation and benefits expense of $648 thousand.
+
+
+
+24
+
+
+
+Table of Contents
+
+The increase in professional services was primarily due to hiring a third party firm to assist with reviewing certain general ledger account reconciliations.  The increase in compensation and benefits expense was primarily attributable to additional full-time employees that the Bank hired over the past twelve months in various production and administrative support positions.  These hires were part of the Company’s overall efforts to expand its operational capabilities to strategically grow its balance sheet and fulfill the intersecting lending objectives of the Company’s mission and the funding received from the Emergency Capital Investment Program of the United States Department of the Treasury.
+
+
+
+Income Taxes
+
+
+
+Income taxes are computed by applying the statutory federal income tax rate of 21% and the combined California and Washington, D.C. income tax rate of 9.75% to taxable income.  The Company recorded an income tax benefit of $57 thousand for the first quarter of 2024 and income tax expense of $674 thousand for the first quarter of 2023.  The decrease in tax expense reflected a decrease of $2.5 million in pre-tax income between the two periods.  The effective tax rate was 23.75% for the first quarter of 2024, compared to 29.70% for the first quarter of 2023.
+
+
+
+Financial Condition
+
+
+
+Total Assets
+
+
+
+Total assets decreased by $4.9 million at March 31, 2024, compared to December 31, 2023, primarily due to decreases in cash and cash equivalents of $38.1 million and securities available-for-sale of $23.7 million, partially offset by growth in loans receivable held for investment of $46.0 million and other assets of $9.9 million.
+
+
+
+Securities Available-For-Sale
+
+
+
+Securities available-for-sale totaled $293.2 million at March 31, 2024, compared with $317.0 million at December 31, 2023. The $23.7 million decrease in securities available-for-sale during the three months ended March 31, 2024 was primarily due to principal paydowns of $23.2 million.
+
+
+
+The table below presents the carrying amount, weighted average yields and contractual maturities of our securities as of March 31, 2024. The table reflects stated final maturities and does not reflect scheduled principal payments or expected payoffs.
+
+
+
+                                                                       March 31, 2024                                                  
+
+                         One Year or Less      More Than One Year       More Than Five         More Than Ten              Total         
+
+                                                 to Five Years        Years to Ten Years           Years
+
+                       Carrying    Weighted    Carrying    Weighted    Carrying    Weighted    Carrying    Weighted    Carrying    Weighted  
+
+                        Amount     Average      Amount     Average      Amount     Average      Amount     Average      Amount     Average
+
+                                    Yield                   Yield                   Yield                   Yield                   Yield
+
+                                                                   (Dollars in thousands)                                              
+
+Availableforsale:                                                                                                                          
+
+Federal agency         $   4,979       2.82%  $   1,302       1.42%  $   9,025       1.54%  $  48,724       2.61%  $  64,030       2.58%
+
+ mortgagebacked
+
+ securities
+
+Federal agency CMO             –          –         505       0.91%     10,484       4.45%     11,540       3.34%     22,529       3.86%
+
+Federal agency debt        8,870       2.82%     34,292       1.83%      4,684       4.47%          –          –      47,846       2.35%
+
+Municipal bonds                –          –       2,849       1.60%          –          –       1,502       1.74%      4,351       1.73%
+
+U.S. Treasuries           85,587       3.00%     58,857       2.56%          –          –           –          –     144,444       2.81%
+
+SBA pools                      –          –          66       6.97%      1,887       2.77%      8,090       2.79%     10,043       2.90%
+
+Total                  $  99,436       2.95%  $  97,871       2.53%  $  26,080       3.05%  $  69,856       2.84%  $ 293,243       2.75%
+
+
+
+25
+
+
+
+Table of Contents
+
+Loans Receivable
+
+
+
+Loans receivable held for investment, net of the ACL, increased by $46.0 million to $926.5 million at March 31, 2024, compared to $880.5 million at December 31, 2023.  The increase was primarily due to loan originations of $71.5 million during the first three months of 2024, which consisted of $38.0 million of multi-family loans, $17.5 million of other commercial loans, $15.0 million of commercial real estate loans and $1.0 million of construction loans, offset in part by loan payoffs and repayments of $25.5 million.
+
+
+
+The following tables presents loan categories by maturity for the period indicated. Actual repayments historically have, and will likely in the future, differ significantly from contractual maturities because individual borrowers generally have the right to prepay loans, with or without prepayment penalties.
+
+
+
+                                                                                       March 31, 2024                                  
+
+                                                        One Year or     More Than      More Than      More Than        Total     
+
+                                                           Less        One Year to   Five Years to    15 Years
+
+                                                                       Five Years      15 Years
+
+ 
+
+                                                                                   (Dollars in thousands)                              
+
+Loans receivable held for investment:                                                                                            
+
+Single-family                                          $       3,432  $       8,984  $       5,779  $       9,989  $      28,184 
+
+Multi-family                                                  14,192         12,625          7,696        566,613        601,126 
+
+Commercial real estate                                        11,031         78,153         33,770          1,763        124,717 
+
+Church                                                         4,412          3,057          5,104              –         12,573 
+
+Construction                                                  26,586         37,569         26,178              –         90,333 
+
+Commercial - other                                             8,515         28,461         24,140          2,422         63,538 
+
+SBA loans                                                         12            552            150         11,761         12,475 
+
+Consumer                                                          14              –              –              –             14 
+
+                                                       $      68,194  $     169,401  $     102,817  $     592,548  $     932,960 
+
+                                                                                                                                 
+
+Loans maturities after one year with:                                                                                            
+
+Fixed rates                                                                                                                      
+
+Single-family                                                         $       8,627  $       3,595  $       6,140  $      18,362 
+
+Multi-family                                                                  8,282          4,177              –         12,459 
+
+Commercial real estate                                                       73,370         22,135              –         95,505 
+
+Church                                                                        2,423              –              –          2,423 
+
+Construction                                                                 10,564         22,260              –         32,824 
+
+Commercial - other                                                           13,461         23,076            221         36,758 
+
+SBA loans                                                                        15              –              –             15 
+
+Consumer                                                                          –              –              –              – 
+
+                                                                      $     116,742  $      75,243  $       6,361  $     198,346 
+
+                                                                                                                                 
+
+Variable rates                                                                                                                   
+
+Single-family                                                         $         357  $       2,184  $       3,849  $       6,390 
+
+Multi-family                                                                  4,343          3,519        566,613        574,475 
+
+Commercial real estate                                                        4,783         11,635          1,763         18,181 
+
+Church                                                                          634          5,104              –          5,738 
+
+Construction                                                                 27,005          3,918              –         30,923 
+
+Commercial - other                                                           15,000          1,064          2,201         18,265 
+
+SBA loans                                                                       537            150         11,761         12,448 
+
+Consumer                                                                          –              –              –              – 
+
+                                                                      $      52,659  $      27,574  $     586,187  $     666,420 
+
+                                                                                                                                 
+
+Total                                                                 $     169,401  $     102,817  $     592,548  $     864,766 
+
+
+
+Certain multi-family loans have adjustable-rate features based on the Secured Overnight Financing Rate but are fixed for the first five years. Our experience has shown that these loans typically payoff during the first five years and do not reach the adjustable-rate phase. However, in the current high interest rate environment, we have seen more borrowers maintain their loans instead of paying them off due to interest rate caps which make the adjusted interest rate on their existing loan more desirable than getting a new loan at current interest rates. Multi-family loans in their initial fixed period totaled $575.9 million or 61.7% of our loan portfolio as of March 31, 2024.
+
+
+
+26
+
+
+
+Table of Contents
+
+Allowance for Credit Losses
+
+
+
+The Company accounts for credit losses on loans in accordance with ASC 326 – Financial Instruments-Credit Losses, to determine the ACL. ASC 326 requires the Company to recognize estimates for lifetime losses on loans and off-balance sheet loan commitments at the time of origination or acquisition. The recognition of losses at origination or acquisition represents the Company’s best estimate of the lifetime expected credit loss associated with a loan given the facts and circumstances associated with the particular loan and involves the use of significant management judgment and estimates, which are subject to change based on management’s on-going assessment of the credit quality of the loan portfolio and changes in economic forecasts used in the model. The Company uses the WARM method when determining estimates for the ACL for each of its portfolio segments. The weighted average remaining life, including the effect of estimated prepayments, is calculated for each loan pool on a quarterly basis. The Company then estimates a loss rate for each pool using both its own historical loss experience and the historical losses of a group of peer institutions during the period from 2004 through the most recent quarter.
+
+
+
+Since historical information (such as historical net losses) may not always, by itself, provide a sufficient basis for determining future expected credit losses, the Company periodically considers the need for qualitative adjustments to the ACL.
+
+
+
+The Company has a credit portfolio review process designed to detect problem loans. Problem loans are typically those of a substandard or worse internal risk grade, and may consist of loans on nonaccrual status, loans that have recently been modified in response to a borrower’s deteriorating financial condition, loans where the likelihood of foreclosure on underlying collateral has increased, collateral dependent loans, and other loans where concern or doubt over the ultimate collectability of all contractual amounts due has become elevated. Such loans may, in the opinion of management, be deemed to no longer possess risk characteristics similar to other loans in the loan portfolio because the specific attributes and risks associated with the loan have likely become unique as the credit quality of the loan deteriorates. As such, these loans may require individual evaluation to determine an appropriate ACL for the loan. When a loan is individually evaluated, the Company typically measures the expected credit loss for the loan based on a discounted cash flow approach, unless the loan has been deemed collateral dependent. The ACL for collateral dependent loans is determined using estimates of the fair value of the underlying collateral, less estimated selling costs.
+
+
+
+The estimation of the appropriate level of the ACL requires significant judgment by management. Although management uses the best information available to make these estimates, future adjustments to the ACL may be necessary due to economic, operating, regulatory, and other conditions that may extend beyond the Company’s control. Changes in management’s estimates of forecasted net losses could materially change the level of the ACL. Additionally, various regulatory agencies, as an integral part of their examination process, periodically review the Company’s ACL and credit review process. Such agencies may require the Company to recognize additions to the ACL based on judgments different from those of management.
+
+
+
+The ACL was $7.6 million, or 0.81% of gross loans held for investment at March 31, 2024, compared to an ACL of $7.3 million, or .83% of gross loans held for investment, at December 31, 2023.
+
+
+
+There were no recoveries or charge-offs recorded during the three month periods ending March 31, 2024 and 2023.
+
+
+
+Collateral dependent loans at both March 31, 2024 and December 31, 2023 totaled $6.4 million, which had an associated ACL of $112 thousand.
+
+
+
+The Bank had non-accrual loans of $401 thousand at March 31, 2024, which were greater than 90 days past due.  Loan delinquencies for 30 days or more, but less than 90 days, decreased to $369 thousand at March 31, 2024, compared to $780 thousand at December 31, 2023. There were no loans past due by greater than 90 days at December 31, 2023.  No loan charge-offs were recorded during the three months ended March 31, 2024 or 2023.
+
+
+
+We believe that the ACL is adequate to cover currently expected losses in the loan portfolio as of March 31, 2024, but there can be no assurance that actual losses will not exceed the estimated amounts. The OCC and the Federal Deposit Insurance Corporation (“FDIC”) periodically review the ACL as an integral part of their examination process. These agencies may require an increase in the ACL based on their judgments of the information available to them at the time of their examinations.
+
+
+
+27
+
+
+
+Table of Contents
+
+The following table details our allocation of the ACL to the various categories of loans held for investment and the percentage of loans in each category to total loans at the dates indicated:
+
+
+
+                                            March 31, 2024                 December 31, 2023                March 31, 2023         
+
+    Amount       Percent of        Amount       Percent of        Amount       Percent of   
+
+                  Loans in                       Loans in                       Loans in
+
+                    Each                           Each                           Each
+
+                 Category to                    Category to                    Category to
+
+                    Total                          Total                          Total
+
+                    Loans                          Loans                          Loans
+
+                                                                          (Dollars in thousands)                                      
+
+Single-family                        $        298           3.02%  $        260           2.79%  $        261           3.74%
+
+Multifamily                                4,325          64.44%         4,413          63.33%         3,932          65.17%
+
+Commercial real estate                      1,109          13.37%         1,094          13.47%         1,012          16.50%
+
+Church                                         90           1.35%            72           1.43%            92           1.79%
+
+Construction                                  956           9.68%           932          10.14%           593           7.56%
+
+Commercial and SBA                            774           8.15%           577           8.84%           395           5.24%
+
+Consumer                                        –              –              –              –              –              – 
+
+Total allowance for loan losses      $      7,552         100.00%  $      7,348         100.00%  $      6,285         100.00%
+
+
+
+Goodwill and Intangible Assets
+
+
+
+The core deposit intangible asset is amortized on an accelerated basis reflecting the pattern in which the economic benefits of the intangible asset are consumed or otherwise used up. The estimated life of the core deposit intangible is approximately 10 years. During the three months ended March 31, 2024 and 2023, the Company recorded $84 thousand and $98 thousand, respectively, of amortization expense related to the core deposit intangible.
+
+
+
+An assessment of goodwill impairment was performed by a third party as of December 31, 2023, in which no impairment was determined. No impairment charges were recorded during the three months ended March 31, 2024 or 2023, for goodwill or the core deposit intangible.
+
+
+
+Total Liabilities
+
+
+
+Total liabilities decreased by $4.3 million to $1.1 billion at March 31, 2024 from December 31, 2023, largely due to decreases of $14.0 million in notes payable, $1.8 million in securities sold under agreements to repurchase, and $1.3 million in accrued expenses and other liabilities, which were partially offset by an increase in deposits of $12.9 million.
+
+
+
+Deposits
+
+
+
+Deposits increased by $12.9 million to $695.5 million at March 31, 2024, from $682.6 million at December 31, 2023. The increase in deposits was attributable to increases of $15.0 million in liquid deposits (demand, interest checking and money market accounts) and $12.4 million in Insured Cash Sweep (“ICS”) deposits (ICS deposits are the Bank’s money market deposit accounts in excess of FDIC insured limits whereby the Bank makes reciprocal arrangements for insurance with other banks), partially offset by decreases of $12.2 million in Certificate of Deposit Registry Services (“CDARS”) deposits (CDARS deposits are similar to ICS deposits, but involve certificates of deposit, instead of money market accounts), $1.7 million of savings deposits and $596 thousand in other certificates of deposit accounts.  As of March 31, 2024, our uninsured deposits, including deposits from affiliates, represented approximately 38% of our total deposits, as compared to approximately 37% as of December 31, 2023.
+
+
+
+The following table presents the maturity of time deposits as of the dates indicated:
+
+
+
+                                                           Three      Three to Six    Six Months      Over One         Total     
+
+                                                         Months or       Months       to One Year       Year
+
+                                                           Less
+
+                                                                                       (In thousands)                                  
+
+March 31, 2024                                                                                                                   
+
+Time deposits of $250,000 or less                      $      29,048  $      47,743  $      46,542  $       7,848  $     131,181 
+
+Time deposits of more than $250,000                            4,314          4,877          6,979          7,857         24,027 
+
+Total                                                  $      33,362  $      52,620  $      53,521  $      15,705  $     155,208 
+
+Not covered by deposit insurance                       $       2,314  $       3,127  $       4,479  $       6,607  $      16,527 
+
+December 31, 2023                                                                                                                
+
+Time deposits of $250,000 or less                      $      36,212  $      26,248  $      63,118  $      18,202  $     143,780 
+
+Time deposits of more than $250,000                            4,609          3,904          6,895          8,128         23,536 
+
+Total                                                  $      40,821  $      30,152  $      70,013  $      26,330  $     167,316 
+
+Not covered by deposit insurance                       $       3,109  $       2,154  $       4,395  $       6,628  $      16,286 
+
+
+
+28
+
+
+
+Table of Contents
+
+Borrowings
+
+
+
+At March 31, 2024 and December 31, 2023, the Company had outstanding advances from the FHLB totaling $209.3 million. The weighted interest rate was 4.91% as of both March 31, 2024 and December 31, 2023. The weighted average contractual maturity was 2 months as of both March 31, 2024 and December 31, 2023.  The advances were collateralized by loans with a fair value of $419.2 million at March 31, 2024 and $435.4 million at December 31, 2023. The Company is currently approved by the FHLB of Atlanta to borrow up to 25% of total assets to the extent the Company provides qualifying collateral and holds sufficient FHLB stock. Based on collateral pledged and FHLB stock as of March 31, 2024, the Company was eligible to borrow an additional $105.0 million as of March 31, 2024.
+
+
+
+The Company enters into agreements under which it sells securities subject to an obligation to repurchase the same or similar securities. Under these arrangements, the Company may transfer legal control over the assets but still retain effective control through an agreement that both entitles and obliges the Company to repurchase the assets. As a result, these repurchase agreements are accounted for as collateralized financing agreements (i.e., secured borrowings) and not as a sale and subsequent repurchase of securities. The obligation to repurchase the securities is reflected as a liability in the Company’s consolidated statements of financial condition, while the securities underlying the repurchase agreements remain in the respective investment securities asset accounts. In other words, there is no offsetting or netting of the investment securities assets with the repurchase agreement liabilities. These agreements mature on a daily basis. As of March 31, 2024 securities sold under agreements to repurchase totaled $71.7 million at an average rate of 3.62%.  The fair value of securities pledged totaled $78.6 million as of March 31, 2024. As of December 31, 2023, securities sold under agreements to repurchase totaled  $73.5 million at an average rate of 2.60%.  The fair value of securities pledged totaled $89.0 million as of December 31, 2023.
+
+
+
+One relationship accounted for 86% of our balance of securities sold under agreements to repurchase as of March 31, 2024. We expect to maintain this relationship for the foreseeable future.
+
+
+
+In connection with the New Market Tax Credit activities of the Company, CFC 45 is a partnership whose members include CFNMA and City First New Markets Fund II, LLC. This CDE acts in effect as a pass-through for a Merrill Lynch allocation totaling $14.0 million that needed to be deployed. In December 2015, Merrill Lynch made a $14.0 million non-recourse loan to CFC 45, whereby CFC 45 passed that loan through to a QALICB. The loan to the QALICB was secured by a Leasehold Deed of Trust that, due to the pass-through, non-recourse structure, is operationally and ultimately for the benefit of Merrill Lynch rather than CFC 45. Debt service payments received by CFC 45 from the QALICB are passed through to Merrill Lynch in return for which CFC 45 receives a servicing fee. This loan was paid off on January 18, 2024. The financial statements of CFC 45 are consolidated with those of the Company.
+
+
+
+Stockholders’ Equity
+
+
+
+Stockholders’ equity was $281.3 million, or 20.5%, of the Company’s total assets, at March 31, 2024, compared to $281.9 million, or 20.5% of the Company’s total assets at December 31, 2023. Stockholders’ equity decreased primarily due to an increase of $571 thousand in accumulated other comprehensive loss, net of tax.  Book value per share was $14.59 at March 31, 2024 and $14.65 at December 31, 2023.
+
+
+
+During the second quarter of 2023, the Company issued 92,720 shares of restricted stock to its officers and employees based on performance during 2022 under the Amended LTIP.  All the shares issued to officers and employees vest over periods ranging from 36 months to 60 months.
+
+
+
+On March 26, 2024, the Company issued 94,413 shares of restricted stock to its officers and employees under the Amended and Restated LTIP. Each restricted stock award was valued based on the fair value of the stock on the date of the award.
+
+
+
+During the first quarter of 2023, the Company issued 9,230 shares of stock to its directors which were fully vested. 
+
+
+
+All common stock share amounts and per share amounts above have been retroactively adjusted, as applicable, for the 1-for-8 reverse stock split effective November 1, 2023.  See Note 1.
+
+
+
+Tangible book value per common share is a non-GAAP measurement that excludes goodwill and the net unamortized core deposit intangible asset, which were both originally recorded in connection with the CFBanc merger. The Company uses this non-GAAP financial measure to provide supplemental information regarding the Company’s financial condition and operational performance. A reconciliation between common book value and tangible book value per common share is shown as follows:
+
+
+
+                                                                                     Common Equity      Shares         Per Share   
+
+                                                                                        Capital       Outstanding       Amount
+
+                                                                                                  (Dollars in thousands)               
+
+March 31, 2024:                                                                                                                    
+
+Common book value                                                                    $     131,292        9,001,613  $       14.59 
+
+Less:                                                                                                                              
+
+Goodwill                                                                                    25,858                                 
+
+Net unamortized core deposit intangible                                                      2,027                                 
+
+Tangible book value                                                                  $     103,407        9,001,613  $       11.49 
+
+                                                                                                                                   
+
+December 31, 2023:                                                                                                                 
+
+Common book value                                                                    $     131,903        9,001,613  $       14.65 
+
+Less:                                                                                                                              
+
+Goodwill                                                                                    25,858                                 
+
+Net unamortized core deposit intangible                                                      2,111                                 
+
+Tangible book value                                                                  $     103,934        9,001,613  $       11.55 
+
+
+
+29
+
+
+
+Table of Contents
+
+Liquidity
+
+
+
+The objective of liquidity management is to ensure that we have the continuing ability to fund operations and meet our obligations on a timely and cost-effective basis. The Bank’s sources of funds include deposits, advances from the FHLB and other borrowings, proceeds from the sale of loans and investment securities, and payments of principal and interest on loans and investment securities. The Bank is currently approved by the FHLB of Atlanta to borrow up to 25% of total assets, or $284.3 million, to the extent the Bank provides qualifying collateral and holds sufficient FHLB stock. Based on FHLB stock held and collateral pledged as of March 31, 2024, the Bank had the ability to borrow an additional $105.0 million from the FHLB of Atlanta. In addition, the Bank had additional lines of credit of $10.0 million with other financial institutions as of March 31, 2024.  The Bank had unpledged securities of $107.5 million as of March 31, 2024 which could be used as collateral for borrowings from the Federal Reserve Bank under the BTFP.
+
+
+
+The Bank’s primary uses of funds include originations of loans, withdrawals of and interest payments on deposits, purchases of investment securities, and the payment of operating expenses. Also, when the Bank has more funds than required for reserve requirements or short-term liquidity needs, the Bank invests in federal funds with the Federal Reserve Bank or in money market accounts with other financial institutions. The Bank’s liquid assets at March 31, 2024 consisted of $67.1 million in cash and cash equivalents and $107.5 million in securities available-for-sale that were not pledged, compared to $105.2 million in cash and cash equivalents and $173.3 million in securities available-for-sale that were not pledged at December 31, 2023. Currently, we believe the Bank has sufficient liquidity to support growth over the next twelve months and in the longer term.
+
+
+
+The Bank had commitments to fund $448 thousand in loans that were approved but unfunded as of March 31, 2024.  In addition, the bank had $5.7 million in unfunded line of credit loans and $49.3 million in unfunded construction loans as of March 31, 2024.
+
+
+
+The Bank has a significant concentration of deposits with two customers that accounted for approximately 12% of its deposits as of March 31, 2024. The Bank also has a significant concentration of short-term borrowings with one customer that accounted for 86% of the outstanding balance of securities sold under agreements to repurchase as of March 31, 2024. The Bank has long-term relationships with these customers and expects to maintain its relationships with them for the foreseeable future.
+
+
+
+The Company’s liquidity, separate from the Bank, is based primarily on the proceeds from financing transactions, such as the private placement completed in June of 2022 and previous private placements. The Bank is currently under no prohibition from paying dividends to the Company but is subject to restrictions as to the amount of the dividends based on normal regulatory guidelines.
+
+
+
+The Company recorded consolidated net cash outflows from investing activities of $23.4 million during the three months ended March 31, 2024, compared to consolidated net cash outflows from investing activities of $6.3 million during the three months ended March 31, 2023. Net cash outflows from investing activities for the three months ended March 31, 2024 were primarily due to the funding of new loans, net of repayments, of $46.4 million, partially offset by proceeds from principal paydowns on available-for-sale securities of $23.2 million. Net cash outflows from investing activities during the three months ended March 31, 2023 were primarily due to funding of new loans, net of repayments, of $9.7 million, partially offset by $3.4 million in proceeds from principal paydowns on available-for-sale securities.
+
+
+
+The Company recorded consolidated net cash outflows from financing activities of $3.0 million during the three months ended March 31, 2024, compared to consolidated net cash inflows of $16.1 million during the three months ended March 31, 2023. Net cash outflows from financing activities during the three months ended March 31, 2024 were primarily due to the $14.0 million repayment of notes payable, partially offset by a net increase in deposits of $12.9 million. Net cash inflows from financing activities during the three months ended March 31, 2023 were primarily attributable to proceeds from FHLB advances of $40.5 million, partially offset by a net decrease in deposits of $29.4 million.
+
+
+
+30
+
+
+
+Table of Contents
+
+Capital Resources and Regulatory Capital
+
+
+
+The Bank is subject to various regulatory capital requirements administered by the federal banking agencies. Failure to meet minimum capital requirements can initiate certain mandatory and possible additional discretionary, actions by the regulators that, if undertaken, could have a direct material effect on the Company’s financial statements. Under capital adequacy guidelines and the regulatory framework for prompt corrective action, the Bank must meet specific capital guidelines that involve quantitative measures of the Bank’s assets, liabilities, and certain off-balance sheet items as calculated under regulatory accounting practices. The Bank’s capital amounts and classifications are also subject to qualitative judgments by the regulators about components, risk-weightings, and other factors. As of March 31, 2024 and December 31, 2023, the Bank exceeded all capital adequacy requirements to which it is subject and meets the qualifications to be considered “well capitalized.” (See Note 10 – Stockholders’ Equity and Regulatory Matters.)
+
+
+
+31
+
+
+
+Table of Contents
+
+ITEM 3.        QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+
+
+Not Applicable
+
+
+
+ITEM 4.        CONTROLS AND PROCEDURES
+
+
+
+Evaluation of Disclosure Controls and Procedures
+
+
+
+Our disclosure controls and procedures are designed to provide reasonable assurance that the information that we are required to disclose in the reports that we file or submit under the Exchange Act is accumulated and communicated to our management, including our Principal Executive Officer (“PEO”) and Principal Financial Officer (“PFO”), as appropriate to allow timely decisions regarding required disclosures, and is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms.  There is no assurance that our disclosure controls and procedures will operate effectively under all circumstances.
+
+
+
+Under the supervision and with the participation of our PEO and PFO, management has evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934) as of March 31, 2024. Based on their evaluation as of March 31, 2024, the PEO and PFO have concluded that our disclosure controls and procedures were not effective at the reasonable assurance level because of the material weaknesses in our internal control over financial reporting described below.
+
+
+
+A material weakness is a control deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company's annual or interim financial statements will not be prevented or detected on a timely basis.
+
+
+
+The Company did not maintain a sufficient complement of personnel with appropriate levels of knowledge, experience, and training in internal control matters to perform assigned responsibilities and have appropriate accountability for the design and operation of internal control over financial reporting. The lack of sufficient appropriately skilled and trained personnel contributed to the Company’s failure to: (i) design and implement certain internal controls; and (ii) consistently operate its internal controls. This matter was considered to be a material weakness in the Company’s control environment.
+
+
+
+The control environment material weaknesses contributed to other material weaknesses within the Company’s system of internal control over financial reporting in the following COSO Framework components such that the Company did not design and implement effective controls, including the following:
+
+
+
+•         Risk assessment – The Company did not appropriately identify and analyze risks to achieve its control objectives. This
+
+           ineffective risk assessment process limited the Company’s ability to identify and remediate the weaknesses in the control
+
+           activities, as described
+
+           below.
+
+
+
+•         Control activities – The Company did not design and implement effective controls over the consolidation, financial statement
+
+           reporting, and the monthly close processes, including the lack of effectively designed and implemented controls related to
+
+           the preparation and review of account reconciliations with appropriate supporting documentation. Specifically, several
+
+           general ledger account reconciliations were discovered to have unidentified or stale reconciling
+
+           items.
+
+
+
+•         Monitoring activities – The Company’s ongoing evaluation of internal controls failed to detect the issues described above,
+
+           and as a result limited management’s ability to correct and remediate the internal control issues in a timely
+
+           manner.
+
+
+
+Remediation Plan
+
+
+
+In response to the material weaknesses that were identified, the Company has hired additional senior personnel with relevant experience and training in finance and accounting that will be able to assist the Company with appropriately assessing the risks of the Company and designing, implementing, and monitoring a system of internal control over financial reporting to address those risks. Related to the control over account reconciliations, the Company engaged a third-party firm to assist with reviewing general ledger account reconciliations to identify the population of account balance differences that were in need of correction. Such corrections were made to the consolidated financial statements as of December 31, 2023. Going forward, the Company’s controls over general ledger account reconciliations will be strengthened to require the use of a reconciliation checklist, with a formal signoff by the preparer and reviewer on each reconciliation, as well as by a separate member of management as evidence that every account reconciliation was reviewed each month. In addition, the Company will also request that its internal audit firm perform additional testing on the enhanced controls over general ledger account reconciliation during its audits.
+
+
+
+Management is actively engaged in the planning for, and implementation of, remediation efforts to address the material weaknesses. Additional time is required to complete the design and test the operating effectiveness of the applicable controls to demonstrate the effectiveness of the remediation efforts. The material weaknesses cannot be considered remediated until the applicable remedial controls operate for a sufficient period of time and management has concluded, through testing, that these controls are operating effectively.
+
+
+
+Changes in Internal Control Over Financial Reporting
+
+
+
+Except for the remediation activities discussed above, there were no other changes in the Company’s internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the three months ended March 31, 2024, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+
+
+Inherent Limitations on Effectiveness of Controls
+
+
+
+Our disclosure controls and procedures are designed to provide reasonable assurance of achieving their objectives as specified above. Management does not expect, however, that our disclosure controls and procedures will prevent or detect all error and fraud. Any control system, no matter how well designed and operated, is based upon certain assumptions, and can provide only reasonable, not absolute, assurance that its objectives will be met. Further, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, within the Company have been detected.
+
+
+
+32
+
+
+
+Table of Contents
+
+PART II. OTHER INFORMATION
+
+
+
+Item 1.        LEGAL PROCEEDINGS
+
+
+
+None
+
+
+
+Item 1A.       RISK FACTORS
+
+
+
+There have been no material changes to the risk factors disclosed under Part I, Item 1A “Risk Factors” in the 2023 Annual Report on Form 10-K, other than the risk factor presented below:
+
+
+
+Our failure to meet the continued listing requirements of Nasdaq could result in a delisting of our common stock, which would negatively impact the market price and liquidity of our common stock and our ability to access the capital markets.
+
+ 
+
+If we fail to satisfy the continued listing requirements of Nasdaq, such as the $1.00 minimum closing bid price or timely periodic financial reporting requirements, Nasdaq may take steps to delist the Company’s securities. For example, on May 14, 2024, we received a Staff Delisting Determination letter (the “Staff Determination”) from Nasdaq that it had initiated the delisting process with respect to the Company’s securities. Following the filing of the Company’s Quarterly Report on Form 10-Q for the three and nine months ended September 30, 2023 and Annual Report on From 10-K for the year ended December 31, 2023, we received a letter from Nasdaq on May 20, 2023, stating that the Company had regained compliance with Nasdaq continued listing requirements and the matter was closed. Any delisting of the Company’s securities, or threat of such delisting, would have a negative effect on the price of our common stock, impair the ability to sell or purchase our common stock when persons wish to do so, and any delisting materially adversely affect our ability to raise capital or pursue financing or other transactions on acceptable terms, or at all. Delisting from the Nasdaq Capital Market could also have other negative results, including the potential loss of institutional investor interest and fewer business development opportunities. In the event of a delisting, we would attempt to take actions to restore our compliance with Nasdaq’s listing requirements, but we can provide no assurance that any such action taken by us would allow our common stock to become listed again, stabilize the market price or improve the liquidity of our common stock, prevent our common stock from dropping below the Nasdaq minimum bid price requirement or prevent future non-compliance with Nasdaq’s listing requirements.
+
+
+
+Item 2.        UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+
+
+None
+
+
+
+Item 3.        DEFAULTS UPON SENIOR SECURITIES
+
+
+
+None
+
+
+
+Item 4.        MINE SAFETY DISCLOSURES
+
+
+
+Not Applicable
+
+
+
+Item 5.        OTHER INFORMATION
+
+
+
+None
+
+
+
+Item 6.        EXHIBITS
+
+
+
+   Exhibit     
+
+   Number*
+
+3.1           Amended and Restated Certificate of Incorporation of Registrant effective as of April 1, 2021 (Exhibit 3.1 to Form 8-K
+
+               filed by Registrant on April 5,
+
+               2021)
+
+3.2           Certificate of Amendment to Certificate of Incorporation of Registrant (Exhibit 3.1 to Form 8-K filed by the Registrant
+
+               on November 1,
+
+               2023)
+
+3.3           Bylaws of Registrant (Exhibit 3.2 to Form 8-K filed by Registrant on August 24, 2020)
+
+3.4           Certificate of Designations of Senior Non-Cumulative Perpetual Preferred Stock, Series C (Exhibit 3.1 to Form 8-K filed
+
+               by Registrant on June 8,
+
+               2022)
+
+31.1          Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+31.2          Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+32.1          Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+
+               Sarbanes-Oxley Act of
+
+               2002
+
+32.2          Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+
+               Sarbanes-Oxley Act of
+
+               2002
+
+
+
+101.INS       XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are
+
+               embedded within the Inline XBRL
+
+               document
+
+101.SCH       Inline XBRL Taxonomy Extension Schema Document
+
+101.CAL       Inline XBRL Taxonomy Extension Calculation Linkbase Document
+
+101.DEF       Inline XBRL Taxonomy Extension Definitions Linkbase Document
+
+101.LAB       Inline XBRL Taxonomy Extension Label Linkbase Document
+
+101.PRE       Inline XBRL Taxonomy Extension Presentation Linkbase Document
+
+104           Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+
+
+
+*    Exhibits followed by a parenthetical reference are incorporated by reference herein from the document filed by the Registrant with
+
+      the SEC described therein. Except as otherwise indicated, the SEC File No. for each incorporated document is
+
+      000-27464.
+
+
+
+**   Management contract or compensatory plan or arrangement.
+
+
+
+33
+
+
+
+Table of Contents
+
+SIGNATURES
+
+
+
+In accordance with the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+Date: May 24, 2024                                                  By: /s/ Brian Argrett
+
+                                                                        Brian Argrett
+
+                                                                        Chief Executive Officer
+
+                                                                         
+
+Date: May 24, 2024                                                  By: /s/ Zack Ibrahim
+
+                                                                        Zack Ibrahim
+
+                                                                        Chief Financial Officer
+
+
+
+
+
+34

@@ -1,0 +1,906 @@
+﻿ 
+ 
+UNITED STATES OF AMERICA
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+ 
+FORM 10-Q
+ 
+(Mark One)
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+FOR THE QUARTERLY PERIOD ENDED: MARCH 31, 2024
+ 
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the transition period from ______________ to ______________
+ 
+Commission File Number: 001-39973
+ 
+CUENTAS, INC.
+(Exact name of Registrant as specified in its charter)
+ 
+                             Florida                                                            20-3537265
+                 (State or Other Jurisdiction of                                             (I.R.S. Employer
+                  Incorporation or Organization)                                           Identification No.)
+ 
+235 Lincoln Rd., Suite 210, Miami Beach, FL 33139
+(Address of principal executive offices)
+ 
+800-611-3622
+(Registrant’s telephone number)
+ 
+Securities registered under Section 12(b) of the Act:
+ 
+            Title of each class                           Trading Symbol(s)                Name of each exchange on which registered
+ Common Stock, par value $0.001 per share                       CUEN                              The Nasdaq Stock Market LLC
+ Warrants, each exercisable for one share                       CUENW                             The Nasdaq Stock Market LLC
+              of Common Stock
+                      
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+ 
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes ☒ No ☐
+ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+ 
+Large accelerated filer           ☐                                 Accelerated filer                 ☐
+Non-accelerated filer             ☒                                 Smaller reporting company         ☒
+                                                                    Emerging growth company           ☐
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+ 
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+ 
+Indicate the number of shares outstanding of each of the issuer’s classes of common equity, as of the latest practicable date: As of May 20, 2024, the issuer had 2,730,058 shares of its common stock issued and outstanding.
+ 
+ 
+ 
+ 
+ 
+ 
+PART I – FINANCIAL INFORMATION
+ 
+ITEM 1. FINANCIAL STATEMENTS
+ 
+CUENTAS, INC.
+ 
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (UNAUDITED)
+ 
+AS OF MARCH 31, 2024
+IN U.S. DOLLARS
+ 
+TABLE OF CONTENTS
+ 
+                                                                                                                                Page
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (UNAUDITED):                                                                  
+                                                                                                                                  
+Unaudited Condensed Consolidated Interim Balance Sheets                                                                          1
+                                                                                                                                  
+Unaudited Condensed Consolidated Interim Statements of Comprehensive Loss                                                        2
+                                                                                                                                  
+Unaudited Condensed Consolidated Interim Statements of Stockholders’ Equity                                                      3
+                                                                                                                                  
+Unaudited Condensed Consolidated Interim Statements of Cash Flows                                                                4
+                                                                                                                                  
+Notes to Condensed Consolidated Interim Financial Statements                                                                   5 - 12
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i
+ 
+ 
+CUENTAS, INC.
+UNAUDITED CONDENSED CONSOLIDATED INTERIM BALANCE SHEETS
+(USD in thousands except share and per share data )
+ 
+                                                                                                          March 31,     December 31,  
+                                                                                                            2024            2023      
+                                                Assets                                                                                
+Current Assets                                                                                                                        
+Cash and cash equivalents                                                                               $          28  $         205 
+Accounts Receivables – related parties                                                                            290          1,300 
+Accounts Receivables – others                                                                                       -              7 
+Related parties receivables                                                                                       169            172 
+Other current assets                                                                                                5             76 
+Total Current Assets                                                                                              492          1,760 
+                                                                                                                                     
+Non-Current Assets                                                                                                                   
+Property and equipment, net                                                                                        11             13 
+Investment in unconsolidated entities                                                                           2,928          2,928 
+Intangible assets                                                                                                  17             19 
+Total Non-Current Assets                                                                                        2,956          2,960 
+                                                                                                                                     
+Total assets                                                                                            $       3,448  $       4,720 
+                                                                                                                                     
+                                 Liabilities and Stockholders’ Deficit                                                               
+Current Liabilities                                                                                                                  
+Short term loan                                                                                         $         163  $           - 
+Trade payable                                                                                                   2,107          1,497 
+Other accounts liabilities                                                                                      1,012          2,230 
+Warrants liability, net                                                                                           294            785 
+Deferred revenue                                                                                                  139            151 
+Notes and Loan payable                                                                                             26             26 
+Total Current Liabilities                                                                                       3,741          4,689 
+                                                                                                                                     
+Non-Current Liabilities                                                                                                              
+Other long-term loans                                                                                             102            101 
+Total Non-Current Liabilities                                                                                     102            101 
+                                                                                                                                     
+Total Liabilities                                                                                               3,843          4,790 
+                                                                                                                                     
+Stockholders’ Deficit                                                                                                                
+Common stock, 0.001 par value each: 50,000,000 and 11,076,923 shares authorized as of March 31, 2024                3              3 
+ and December 31, 2023, respectively; issued and outstanding 2,719,668 shares as of March 31, 2024 and
+ December 31,
+ 2023.
+Additional paid-in capital                                                                                     55,026         54,906 
+Treasury Stock                                                                                                    (33)           (33)
+Accumulated deficit                                                                                           (55,391)       (54,946)
+Total Stockholders’ Deficit                                                                                      (395)           (70)
+Total Liabilities and Stockholders’ Deficit                                                             $       3,448  $       4,720 
+ 
+The accompanying notes are an integral part of the condensed consolidated interim financial statements.
+ 
+1
+ 
+ 
+CUENTAS, INC.
+UNAUDITED CONDENSED CONSOLIDATED INTERIM STATEMENTS OF COMPREHENSIVE LOSS
+(USD in thousands except share and per share data)
+ 
+                                                                                                              Three months ended       
+                                                                                                                   March 31            
+                                                                                                            2024           2023      
+                                                                                                                                     
+Revenues from related party                                                                                        45             12 
+Revenues from other                                                                                               594             52 
+Total revenues                                                                                                    639             64 
+                                                                                                                                     
+Cost of revenues from related party                                                                              (565)             - 
+Other cost of revenues                                                                                           (143)          (123)
+Total cost of revenues                                                                                           (708)          (123)
+                                                                                                                                     
+Gross loss                                                                                                        (69)           (59)
+                                                                                                                                     
+Operating expenses                                                                                                                   
+Amortization of Intangible assets, net                                                                             (2)            (2)
+Selling, General and administrative expenses                                                                     (772)        (1,625)
+Total Operating expenses                                                                                         (774)        (1,627)
+                                                                                                                                     
+Operating loss                                                                                                   (843)        (1,686)
+Other income (expenses)                                                                                                              
+Other expenses, net                                                                                               (80)            (1)
+Interest expenses                                                                                                 (13)             - 
+Gain from Change in fair value of derivative warrants liability, net                                              491              1 
+Total other income                                                                                                398              - 
+                                                                                                                                     
+Net loss before equity losses                                                                                    (445)        (1,686)
+                                                                                                                                     
+Equity losses in unconsolidated entities                                                                            -             (9)
+Net loss                                                                                                         (445)        (1,695)
+                                                                                                                                     
+Loss per share (basic and diluted)                                                                              (0.15)         (1.00)
+                                                                                                                                     
+Basic and diluted weighted average number of shares of common stock outstanding                             2,719,668      1,696,022 
+ 
+The accompanying notes are an integral part of the condensed consolidated interim financial statements.
+ 
+2
+ 
+ 
+CUENTAS, INC.
+UNAUDITED CONDENSED CONSOLIDATED INTERIM STATEMENTS OF CHANGES IN STOCKHOLDERS’ DEFICIT
+(USD in thousands, except share and per share data)
+ 
+                                             Number of       Amount      Additional      Treasury       Accumulated          Total       
+                                             Share (**)                    paid-in         stock          deficit        stockholders’
+                                                                           capital                                          deficit
+                                                                                                                                         
+BALANCE AT DECEMBER 31, 2023                    2,719,668             3         54,906           (33)          (54,946)             (70)
+                                                                                                                                        
+Share based Compensation                                -             -            120             -                 -              120 
+Comprehensive loss for the period                       -             -              -             -              (445)            (445)
+                                                                                                                                        
+BALANCE AT MARCH 31, 2024                       2,719,668             3         55,026           (33)          (55,391)            (395)
+ 
+                                             Number of       Amount      Additional      Treasury       Accumulated          Total       
+                                            Shares (**)                    paid-in         stock          deficit        stockholders’
+                                                                           capital                                          deficit
+                                                                                                                                         
+BALANCE AT DECEMBER 31, 2022                    1,473,645             2         52,053           (29)          (52,750)             (724)
+                                                                                                                                         
+Issuance of Shares of Common Stock for            291,376             *          4,319             -                 -             4,319 
+ cash, net of issuance expenses
+ (***)
+Share based Compensation                                -             -             27             -                 -                27 
+Issuance of Shares of Common Stock due to         295,282             *            700             -                 -               700 
+ acquisition of an
+ asset
+Treasury stock                                       (227)            -              -            (4)                -                (4)
+Reverse split                                         145             *              *             -                 -                 - 
+Shares issued for services                         27,759             *            136             -                 -               136 
+Shares issued due to a settlement                  15,385             *            120             -                 -               120 
+Comprehensive loss for the period                       -             -              -             -            (1,695)           (1,695)
+BALANCE AT MARCH 31, 2023                       2,103,365             2         57,355           (33)          (54,445)            2,879 
+ 
+ (*)     represents amount less than $1 thousand.
+
+ (**)    Adjusted to reflect one (1) for thirteen (13) reverse stock split in March 2023 (see note 1).
+
+ (***)   Issuance expenses totaled $681
+ 
+The accompanying notes are an integral part of the condensed consolidated interim financial statements.
+ 
+3
+ 
+ 
+CUENTAS, INC.
+UNAUDITED CONDENSED CONSOLIDATED INTERIM STATEMENTS OF CASH FLOWS
+(USD in thousands)
+ 
+                                                                                                              Three months ended       
+                                                                                                                  March 31,            
+                                                                                                            2024           2023      
+CASH FLOWS FROM OPERATING ACTIVITIES:                                                                                                
+Net loss                                                                                                $        (445) $      (1,695)
+Adjustments required to reconcile net loss to net cash used in operating activities:                                                 
+Stock based compensation and shares issued for services                                                           120            283 
+Equity losses in non-consolidated entity                                                                            -              9 
+Interest                                                                                                            5              3 
+Gain from Change in on fair value of stock-based liabilities                                                        -              1 
+Change in fair value of derivative warrants liability                                                            (491)             - 
+Depreciation expense                                                                                                2              - 
+Impairment of prepaid expenses                                                                                     75              - 
+Amortization of intangible assets                                                                                   2              2 
+Changes in Operating Assets and Liabilities:                                                                                         
+Increase in accounts receivable – related parties                                                                (774)             - 
+Increase in accounts receivable – other                                                                             -            (13)
+Increase in other current assets                                                                                   (4)           (38)
+Decrease (increase) in related parties, net                                                                         3            (88)
+Increase (decrease) in accounts payable                                                                         1,741             (7)
+Increase (decrease) in other accounts liabilities                                                                (544)            94 
+Decrease in deferred revenue                                                                                        -             (4)
+Net cash used in operating activities                                                                            (310)        (1,453)
+CASH FLOWS FROM INVESTING ACTIVITIES:                                                                                                
+Net cash used in investing activities                                                                               -              - 
+CASH FLOWS FROM FINANCE ACTIVITIES:                                                                                                  
+Proceeds from issuance of common stock and warrants, net of issuance expense                                        -          4,319 
+Short term loans received                                                                                         150              - 
+Short term loans repaid                                                                                           (17)             - 
+Treasury stock                                                                                                      -             (4)
+Net cash provided by finance activities                                                                           133          4,315 
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                                                                 (177)         2,862 
+CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR                                                                    205            466 
+CASH AND CASH EQUIVALENTS AT END OF YEAR                                                                $          28  $       3,328 
+ 
+                                                                                                              Three months ended       
+                                                                                                                  March 31,            
+                                                                                                             2024           2023      
+SUPPLEMENTAL DISCLOSURE OF NON-CASH FINANCING ACTIVITIES:                                                                             
+Issuance of Shares of Common due to acquisition of an asset                                                         -            700 
+                                                                                                                                     
+Cash paid during the period for interest                                                                            5              - 
+Cash paid during the period for taxes                                                                               -              - 
+ 
+The accompanying notes are an integral part of the condensed consolidated interim financial statements
+ 
+4
+ 
+ 
+CUENTAS, INC.
+NOTES TO CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (unaudited)
+(USD in thousands, except share and per share data)
+ 
+NOTE 1 – GENERAL
+ 
+Cuentas, Inc. (the “Company”) together with its subsidiaries, is mainly focused on financial technology (“FINTECH”) services, delivering mobile financial services, prepaid debit and digital content services to unbanked, underbanked and underserved communities. During the first quarter of 2023, the Company initiated its first investment into the Real Estate market and, made its second, more significant investment in Real Estate in the second quarter of 2023. The Company derived its revenue from wholesale telecommunication services, GPR “Debit” Card fees and the sales of prepaid products and services including third party digital content, gift cards, remittances, mobile phone topups and other digital services.   Additionally, the Company has an agreement with Interactive Communications International, Inc. (“InComm”) a leading processor of general purpose reloadable (“GPR”) debit cards, to market and distribute a line of prepaid digital content and gift cards targeted towards the Latin American market. Cuentas is able to purchase InComm’s prepaid digital content and gift cards at a discount and resell these same products in real time through its mobile app and through the Cuentas SDI network of over 31,000 bodegas. Cuentas is able to offer these digital products to the public through its mobile app and the Cuentas SDI distribution network, many at discounted prices, while making a small profit margin which varies from product to product.
+ 
+The Company was incorporated under the laws of the State of Florida on September 21, 2005. Its subsidiary, Meimoun and Mammon, LLC (100% owned) (“M&M”), Tel3, a business segment of the Company, provides prepaid calling cards to consumers directly and operates in a complimentary space as Meimoun and Mammon, LLC. The Company invested $46, of which $20 were invested during 2023, for 50% of CUENTASMAX LLC which installs WiFi6 shared network (“WSN”) systems in locations in the New York metropolitan tristate area using access points and small cells to provide users with access to the WSN.
+ 
+NASDAQ
+ 
+On August 18, 2023, the Company received a deficiency letter from Nasdaq Regulation stating that based upon its Quarterly Report on Form 10-Q for the period ended June 30, 2023 which reported shareholders’ equity of $1,471, the Company was not in compliance with Nasdaq Marketplace Rule 5550(b)(1) which requires the Company to maintain shareholders’ equity of not less than $2,500 for continued listing on The Nasdaq Capital Market.
+ 
+On October 3 2023, the Company received a Staff Determination Letter from Nasdaq Regulation stating that due to the Company’s failure by October 2, 2023, to submit a plan to regain compliance with Nasdaq Listing Rule 5550(b)(1), the $2,500 stockholders’ equity requirement, the Company would be subject to delisting unless it timely requests a hearing before a Nasdaq Hearings Panel (the “Panel”). The Company has requested a hearing before the Panel which was held on December 7, 2023.
+ 
+On December 18, 2023, the Company received written notice from the Panel notifying the Company that the panel has determined to delist the Company’s shares and warrants from Nasdaq and that trading of its common stock and warrants will be suspended as of the opening of business on December 20, 2023. Company securities began trading on the Pink Current Information tier of the over-the-counter market operated by OTC Markets Group effective with the open of business on December 20, 2023, under its trading symbol: CUEN.
+ 
+5
+ 
+ 
+CUENTAS, INC.
+NOTES TO CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (unaudited)
+(USD in thousands, except share and per share data)
+ 
+NOTE 1 – GENERAL (continue)
+ 
+GOING CONCERN
+ 
+The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As of March 31, 2024, the Company had $28 in cash and cash equivalents, $3,249 in negative working capital, shareholder’s deficit of $395 and an accumulated deficit of $55,391. These conditions raise substantial doubt about the Company’s ability to continue as a going concern. Company’s ability to continue as a going concern is dependent upon raising capital from financing transactions and revenue from operations. Management anticipates their business will require substantial additional investments that have not yet been secured. Management is continuing in the process of fund raising in the private equity and capital markets as the Company will need to finance future activities. The Company, through M&M is negotiating to sell mobile services as a Mobile Virtual Network Operator (“MVNO”) through an operator on the largest 5G nationwide network and plans to offer low-cost mobile phone service with the ability to make international calls to specific Spanish speaking countries in Central and South America. In addition, as noted in note 3, on March 13, 2024, the Company approved the signing of a letter of intent to sell the “Brooksville Property” for gross proceeds of $7,200 (see note 3 for further information). These financial statements do not include any adjustments that may be necessary should the Company be unable to continue as a going concern.
+ 
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND BASIS OF PRESENTATION
+ 
+Basis of presentation 
+ 
+The accompanying unaudited consolidated financial statements include the accounts of the Company and its subsidiaries, prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) and with the instructions to Form 10-Q and Article 10 of U.S. Securities and Exchange Commission Regulation S-X. Accordingly, they do not include all the information and footnotes required by generally accepted accounting principles for complete financial statements. In the opinion of management, the financial statements presented herein have not been audited by an independent registered public accounting firm but include all material adjustments (consisting of normal recurring adjustments) which are, in the opinion of management, necessary for a fair statement of the financial condition, results of operations and cash flows for the for three-months ended March 31, 2024. However, these results are not necessarily indicative of results for any other interim period or for the year ended December 31, 2024. The preparation of financial statements in conformity with GAAP requires the Company to make certain estimates and assumptions for the reporting periods covered by the financial statements. These estimates and assumptions affect the reported amounts of assets, liabilities, revenues, and expenses. Actual amounts could differ from these estimates.
+ 
+Certain information and footnote disclosures normally included in financial statements in accordance with generally accepted accounting principles have been omitted pursuant to the rules of the U.S. Securities and Exchange Commission (“SEC”). The accompanying unaudited consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, filed with the SEC on April 15, 2024 (the “2023 Form 10-K”). For further information, reference is made to the consolidated financial statements and footnotes thereto included in the 2023 Form 10-K.
+ 
+6
+ 
+ 
+CUENTAS, INC.
+NOTES TO CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (unaudited)
+(USD in thousands, except share and per share data)
+ 
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND BASIS OF PRESENTATION (continue)
+ 
+Principles of Consolidation
+ 
+The accompanying unaudited condensed consolidated financial statements are prepared in accordance with GAAP. The unaudited condensed consolidated financial statements of the Company include the Company and its wholly- owned and majority-owned subsidiaries. All inter-company balances and transactions have been eliminated.
+ 
+Use of Estimates
+ 
+The preparation of unaudited condensed consolidated financial statements in conformity with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, certain revenues and expenses, and disclosure of contingent assets and liabilities as of the date of the financial statements. Actual results could differ from those estimates.
+ 
+Fair Value Measurement
+ 
+Fair value is the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Fair value is estimated by applying the following hierarchy, which prioritizes the inputs used to measure fair value into three levels, and bases the categorization within the hierarchy upon the lowest level of input that is available and significant to the fair value measurement:
+ 
+Level 1: Unadjusted quoted prices in active markets for identical assets and liabilities.
+ 
+Level 2: Observable inputs other than those included in Level 1. For example, quoted prices for similar assets or liabilities in active markets or quoted prices for identical assets or liabilities in inactive markets.
+ 
+Level 3: Significant unobservable inputs reflecting management’s own assumptions about the inputs used in pricing the asset or liability.
+ 
+Our financial instruments consist of cash, accounts receivable, accounts payable, accrued expenses, notes payables, and other accrued liabilities. The carrying value of these instruments approximates fair value as a result of the short duration of such instruments or due to the variability of the interest cost associated with such instruments.
+  
+Recently Adopted Accounting Standards 
+ 
+During the three months ended March 31, 2024, the Company was not required to adopt any recently issued accounting standards.
+ 
+Recently Issued Accounting Pronouncements Not Yet Adopted
+ 
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which is intended to provide enhanced segment disclosures. The standard will require disclosures about significant segment expenses and other segment items and identifying the Chief Operating Decision Maker and how they use the reported segment profitability measures to assess segment performance and allocate resources. These enhanced disclosures are required for all entities on an interim and annual basis, even if they have only a single reportable segment. The standard is effective for years beginning after December 15, 2023 and interim periods within annual periods beginning after December 15, 2024, and early adoption is permitted. The Company does not believe that adoption of this ASU will have a material impact on the Company’s consolidated financial statements.
+ 
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, which is intended to provide enhancements to annual income tax disclosures. The standard will require more detailed information in the rate reconciliation table and for income taxes paid, among other enhancements. The standard is effective for years beginning after December 15, 2024, early adoption is permitted. The Company does not believe that adoption of this ASU will have a material impact on the Company’s consolidated financial statements.
+ 
+7
+ 
+ 
+CUENTAS, INC.
+NOTES TO CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (unaudited)
+(USD in thousands, except share and per share data)
+ 
+NOTE 3 – EVENTS DURING THE PERIOD
+ 
+          A.   On February 7, 2024, the Company entered into an Agreement with 1800 Diagonal Lending LLC, an accredited investor,
+                pursuant to which the Company sold the investor an unsecured original issuance discount promissory note in the
+                principal amount of $178,250 (the “February Promissory Note”). The Company received net proceeds of $150,000 in
+                consideration of issuance of the February Promissory Note after original issue discount of $23,250 and legal fees of
+                $5,000. The aggregate debt discount of $28,250 is being amortized to interest expense over the respective term of the
+                note. The February Promissory Note shall incur a one-time interest charge of 12%, which is added to the principal
+                balance, has a maturity date of November 15, 2024, and requires monthly payments of $22,182 beginning on March 15,
+                2024. The February Promissory Note is convertible into common shares of the Company at any time following an event of
+                default at a rate of 65% of the lowest trading price of the Company’s common stock during the ten prior trading days.
+                In addition, upon default, the Company must repay an amount equal to 150% of the then outstanding amount of principal
+                and accrued interest combined. As of March 31, 2024, the balance of the note is $137,529, with a remaining unamortized
+                discount of
+                $22,941.
+ 
+          B.   On March 13, 2024, the Company through its 63% participation in Brooksville Development Partners, LLC approved the
+                signing of a Letter of Intent to sell the “Brooksville Property” located at 19200 Cortez Boulevard, Brooksville,
+                Florida
+                34601.
+ 
+The property was originally purchased on April 28, 2023 for $5,050. The $3,050 mortgage with Republic Bank of Chicago was amended and restated on January 27, 2024 for $3,055. Additionally, a $500 Loan Extension Agreement was executed between the Company and ALF Trust u/a/d 09/28/2023 to ensure the Promissory Note necessary to fund the interest reserve and fees relating to the Loan Extension Agreement and the working capital needs of the Company. On April 3, 2024 the Company entered into a provisional agreement to sell the “Brooksville Property” for a total consideration of $7,200 whereby the buyer placed a non-refundable $100k deposit in escrow and has 60 days to decide whether to complete the transaction.
+ 
+NOTE 4 – STOCK OPTIONS
+ 
+The following table presents the Company’s stock option activity for employees and directors of the Company for the three months ended March 31, 2024:
+ 
+                                                                                                          Number of       Weighted    
+                                                                                                           Options        Average
+                                                                                                                          Exercise
+                                                                                                                           Price
+Outstanding at December 31, 2023                                                                               84,999  $        36.97 
+Granted                                                                                                       270,920  $         0.32 
+Exercised                                                                                                           -               - 
+Forfeited or expired                                                                                                -               - 
+Outstanding at March 31, 2024                                                                                 355,919  $         9.07 
+Number of options exercisable at March 31, 2024                                                               355,919  $         9.07 
+ 
+The aggregate intrinsic value of the awards outstanding as of March 31, 2024 is $0. These amounts represent the total intrinsic value, based on the Company’s stock price of $0.3 as of March 31, 2024, less the weighted exercise price. This represents the potential amount received by the option holders had all option holders exercised their options as of that date.
+ 
+Costs incurred in respect of stock-options compensation for employees and directors, for the three months ended March 31, 2024 and 2023 were $120 and $283, respectively. These expenses are included in General and Administrative expenses in the Statements of Operations. 
+ 
+8
+ 
+ 
+CUENTAS, INC.
+NOTES TO CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (unaudited)
+(USD in thousands, except share and per share data)
+ 
+NOTE 4 – STOCK OPTIONS (continue)
+ 
+The stock options outstanding as of March 31, 2024, have been separated into exercise prices, as follows:
+ 
+Exercise price                             Stock options                   Weighted average                  Stock options           
+                                             outstanding                 remaining contractual                 exercisable
+                                                                             life – years
+                                                                          As of March 31, 2024                                         
+$                          67.99                           1,538                            0.02                           1,538 
+$                          36.40                          83,461                            5.82                          83,461 
+$                           0.32                         270,920                            9.90                         270,920 
+                                                         355,919                                                         355,919 
+ 
+The stock options outstanding as of March 31, 2023, have been separated into exercise prices, as follows:
+ 
+Exercise price                              Stock options                  Weighted average                  Stock options           
+                                             outstanding                 remaining contractual                   vested
+                                                                             life – years
+                                                                          As of March 31, 2023                                         
+$                          97.50                           2,769                            0.46                           2,769 
+$                          67.99                           1,538                            0.99                           1,538 
+$                          36.40                         118,077                            8.68                         110,382 
+                                                         122,384                                                         114,689 
+ 
+NOTE 5 – RELATED PARTIES
+ 
+          A.   Transactions and balances with related parties
+ 
+                                                                                                             Three months ended        
+                                                                                                                  March 31,
+                                                                                                            2024            2023      
+                                                                                                                                      
+Sales:                                                                                                                                
+Sales to SDI Cuentas LLC                                                                                $          45  $          12 
+Total sales to related parties                                                                          $          45  $          12 
+                                                                                                                                     
+Cost of sales:                                                                                                                       
+Cost of sales from Next Communications INC (a company controlled by Arik Maimon, Company’s Chairman of  $         565  $           - 
+ the Board and CEO)
+ (a)
+Total sales to related parties                                                                          $         565  $           - 
+                                                                                                                                     
+Consulting fees:                                                                                                                     
+Consulting fees to Angelo De Prado (b)                                                                  $           -  $           2 
+Consulting fees to Sima Maimon Bakhar (c)                                                                           -              2 
+Total Consulting fees to related parties                                                                $           -  $           4 
+ 
+9
+ 
+ 
+CUENTAS, INC.
+NOTES TO CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (unaudited)
+(USD in thousands, except share and per share data)
+ 
+NOTE 5 – RELATED PARTIES (continue)
+ 
+          B.   Balances with related parties and officers:
+ 
+                                                                                                         March 31,      December 31,  
+                                                                                                            2024            2023      
+                                                                                                                                      
+Arik Maimon (Chairman of the Board and the CEO)                                                        $           73  $           73 
+Michael De Prado (Vice Chairman of the Board and President)                                                        96              99 
+Current assets - Related parties                                                                                  169             172 
+                                                                                                                                      
+Next Communications INC (a company controlled by Arik Maimon Company’s Chairman of the Board and CEO)             271           1,300 
+SDI Cuentas LLC.                                                                                                   19               - 
+Current assets – Accounts receivables                                                                             290           1,300 
+                                                                                                                                      
+Total Due from related parties                                                                         $          459  $        1,472 
+ 
+          (a)  On June 26, 2009 the Company and Next Communications INC (“Next”) entered into Bilateral Wholesale Carrier Agreement
+                according to which the Company and Next will provide and purchase from time to time telecommunications transport
+                services from each other and to other carriers at price determined in the agreement and as may mutually change from
+                time to time. The Agreement shall continue on a month-to-month basis unless either Party notifies the other in writing
+                not less than 30 days prior of its intent to terminate this
+                Agreement.
+ 
+          (b)  Angelo De Prado is the son of Michael De Prado.
+ 
+          (c)  Sima Maimon Bakhar is the wife of Arik Maimon.
+ 
+10
+ 
+ 
+CUENTAS, INC.
+NOTES TO CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (unaudited)
+(USD in thousands, except share and per share data) 
+ 
+NOTE 6 – SEGMENTS OF OPERATIONS
+ 
+The Company reports segment information based on the “management” approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of the Company’s reportable operating segments. The Company manages its business primarily on a product basis. The accounting policies of the various segments are the same as those described in Note 2, “Summary of Significant Accounting Policies.” The Company evaluates the performance of its reportable operating segments based on net sales and gross profit.
+ 
+          A.    Revenue by product:
+ 
+                                                                                                              Three months ended       
+                                                                                                                  March 31,
+                                                                                                            2024            2023      
+                                                                                                                                      
+Telecommunications                                                                                      $          25  $          52 
+Wholesale telecommunication services                                                                              569              - 
+Digital products and General Purpose Reloadable Cards                                                              45             12 
+Total revenues                                                                                          $         639  $          64 
+ 
+          B.   Gross loss by product:
+ 
+                                                                                                              Three months ended       
+                                                                                                                  March 31,
+                                                                                                            2024           2023      
+                                                                                                                                     
+Telecommunications                                                                                      $          14  $          (7)
+Wholesale telecommunication services (*)                                                                            4              - 
+Digital products and General Purpose Reloadable Cards                                                             (87)           (52)
+Total Gross Loss                                                                                        $         (69) $         (59)
+ 
+ (*)  On July 17, 2023 the Company and ASAL Communication, S.A. DE C.V (“ASAL”) entered into an Interconnection Agreement according to
+       which ASAL shall provide the Company intermediary telecommunication services consisting of data, voice and other traffic though
+       ASAL’s public telecommunication network, in order to terminate them in Mexico at price determined in the agreement and as may
+       mutually change from time to time. The agreement shall be in effect for the initial period of one year and may be terminated by
+       either party after the laps of the initial period by providing a written notice of termination of at least 90 days in
+       advance.
+ 
+          C.   Long lived assets by product:
+ 
+                                                                                                       March 31,       December 31,   
+                                                                                                          2023             2023       
+                                                                                                                                      
+Telecommunications                                                                                   $           2  $              2 
+Wholesale telecommunication services                                                                             -                 - 
+Digital products and General Purpose Reloadable Cards                                                            9                11 
+                                                                                                     $          11  $             13 
+ 
+For the three months ended March 31, 2024 and 2023, the Company’s sales to Cuentas SDI LLC were approximately 7% and 19% of the Company’s total revenue, respectively. All of the Company’s sales were generated in the U.S in 2024 and 2023.
+ 
+11
+ 
+ 
+CUENTAS, INC.
+NOTES TO CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (unaudited)
+(USD in thousands, except share and per share data) 
+ 
+NOTE 7 – SUBSEQUENT EVENTS
+ 
+          1.   On May 1, 2024, the Company signed a Letter of Intent (LOI) with Sekur Private Data Ltd. (SWISF), a Canada corporation,
+                and its USA subsidiary, Sekur Private Data Inc., a Delaware corporation, whose common stock is quoted and traded on
+                the Canadian Securities Exchange, the OTC Market Group Inc’s OTCQB Market and the Frankfurt Stock Exchange under the
+                ticker symbols SKUR, SWISF and
+                GDT0.
+ 
+The LOI expresses the desire between the companies for the possible share issuance by SWISF pursuant to which the Company would acquire a number of restricted shares of SWISF common stock, representing 30,000,000 shares of SWISF common stock which would be issued by SWISF to the Company upon completion of the two transactions.
+ 
+The first transaction would create an SPA for the issuance of 5,000,000 shares of SWISF common stock, in exchange for $500,000 which will be used for SWISF working capital.
+ 
+The second transaction would be the issuance of 25,000,000 shares of SWISF common stock in exchange for transfer of the M&M Telecom MVNO Agreement and FCC 214 license, upon approval by the FCC, estimated by management to have valuation of $5 million, with a 50% discount for this transaction, yielding a transfer value of $2.5 million. All dollar figures in this letter of intent are US dollars unless specifically noted.
+ 
+The proposed Share Exchange is not a preliminary step towards a Corporate Merger or other business transaction between the parties. The parties are now engaged in negotiations with a view toward executing a mutually satisfactory definitive agreement on or before May 15, 2024, with the understanding that the Share Exchange and SPA will close on or before May 31, 2024.
+ 
+          2.   On May 16, 2024, the Company received a Notice of Termination of Contract from Sutton Bank which is integrated in part
+                as the Company’s prepaid issuing bank provider. Management has been evaluating other alternatives including replacing
+                issuing bank and other enhanced FinTech enabled
+                solutions.
+ 
+          3.   On May 20, 2024, the Company entered into a Membership Interest Purchase Agreement (the “Agreement”) dated as of May
+                20, 2024 with OLB Group, Inc. (“Buyer”) whereby it acquired 19.99% of the membership interests of Cuentas SDI, LLC, a
+                Florida limited liability company (the “LLC”) for a purchase price of $215,500.
+                
+ 
+12
+ 
+ 
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS AND RESULTS OF OPERATIONS
+ 
+You should read the following discussion and analysis of our financial condition and results of operations together with our financial statements and the related notes included elsewhere in this Form 10-Q and in our Annual Report on Form 10-K for the year ended December 31, 2023. Some of the information contained in this discussion and analysis, particularly with respect to our plans and strategy for our business and related financing, includes forward-looking statements within the meanings of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act, including statements regarding expectations, beliefs, intentions or strategies for the future. When used in this report, the terms “anticipate,” “believe,” “estimate,” “expect,” “can,” “continue,” “could,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “will,” “would” and words or phrases of similar import, as they relate to our company or our management, are intended to identify forward-looking statements. We intend that all forward-looking statements be subject to the safe-harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are only predictions and reflect our views as of the date they are made with respect to future events and financial performance, and we undertake no obligation to update or revise, nor do we have a policy of updating or revising, any forward-looking statement to reflect events or circumstances after the date on which the statement is made or to reflect the occurrence of unanticipated events, except as may be required under applicable law. Forward-looking statements are subject to many risks and uncertainties that could cause our actual results to differ materially from any future results expressed or implied by the forward-looking statements as a result of several factors including those set forth under “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2023 and in subsequent reports filed pursuant to Section 13(a) of the Exchange Act.
+ 
+The Company notes that in addition to the description of historical facts contained herein, this report contains certain forward-looking statements that involve risks and uncertainties as detailed herein and from time to time in the Company’s other filings with the Securities and Exchange Commission and elsewhere. Such statements are based on management’s current expectations and are subject to a number of factors and uncertainties, which could cause actual results to differ materially from those, described in the forward-looking statements. These factors include, among others: (a) the Company’s fluctuations in sales and operating results; (b) regulatory, competitive and contractual risks; (c) development risks; (d) the ability to achieve strategic initiatives, including but not limited to the ability to achieve sales growth across the business segments through a combination of enhanced sales force, new products, and customer service; and (e) pending litigation.
+ 
+OVERVIEW AND OUTLOOK
+ 
+The Company was incorporated under the laws of the State of Florida on September 21, 2005 to act as an operational company and as a holding company for its subsidiaries. Its subsidiaries are Meimoun and Mammon, LLC (100% owned) (“M&M”) which provides wholesale and retail telecommunications services, Tel3, a division of M&M, is a retail long distance calling platform which provides prepaid calling services to consumers directly and operates in a complimentary space as M&M. The Company also own 50% of CUENTASMAX LLC, which installs WiFi6 shared network (“WSN”) systems in locations in the New York metropolitan tristate area using access points and small cells to provide users with access to the WSN.
+ 
+The Company is focusing its business mainly on using proprietary technologies to integrate FinTech (Financial Technology), e-finance and e-commerce services into solutions that deliver mobile financial services, prepaid debit and digital content services to the unbanked, under-banked and underserved populations nationally in the USA. The Cuentas technology platform integrates Cuentas Mobile, the Company’s Telecommunications solution, with its core financial services offerings to help entire communities enter the modern financial marketplace. Our General Purpose Reloadable (GPR) “Debit Card” is designed to allow customers to purchase prepaid products and services, including third party digital content, gift cards, remittances, mobile phone topups and other digital services. An agreement with Interactive Communications International, Inc. (“InComm”) a leading processor of general purpose reloadable (“GPR”) debit cards, enables us to market and distribute a line of prepaid digital content and gift cards targeted towards the Latin American market. Cuentas is able to purchase InComm’s prepaid digital content and gift cards at a discount and resell these same products in real time through its mobile app and through the Cuentas SDI network of over 31,000 bodegas. Cuentas is able to offer these digital products to the public through its mobile app and the Cuentas SDI distribution network, many at discounted prices, while making a small profit margin which varies from product to product. The prepaid digital content and gift cards include Amazon Cash, XBox, PlayStation, Nintendo, Karma Koin, Transit System Loads & Reloads (LA TAP, NY Transit, Grand Rapids, CT GO), Burger King, Cabela’s, Bass Pro Shops, AT&T, Verizon, Mango Mobile, Black Wireless and other prepaid wireless carriers in the United States.
+ 
+13
+ 
+ 
+Since the first quarter of 2023, we have made two equity investments in real estate projects in Florida under the name Cuentas Casa. Cuentas Casa partners with leading edge developers and construction technology companies to create sustainable, inclusive and affordable residential communities specifically designed to provide high quality housing alternatives at extremely competitive pricing. Our goal is to source land zoned and ready for development of multi-family buildings in strategic areas where rental prices are increasing dramatically, placing financial stress and pressure on working class families. Our real estate investments are intended to broaden our reach into the unbanked, underbanked and underserved communities by using a patented, low cost, sustainable technology that should allow us to provide reasonably priced rental apartments to working class residents who have been priced out of rental communities due to severe rent hikes in Florida and other areas in the United States. We believe that providing affordable apartments to the Hispanic Latino and other immigrant communities in Florida will enable us to introduce them our fintech solutions and generate revenue. Due to liquidity issues impeding the operation and development of its core mobile fintech and carrier services, on April 3, 2024, the limited liability company in which Cuentas has a 63.9% equity interest (“Brooksville Development Partners, LLC” or “BDP”), entered into an agreement to sell the vacant land located in Brooksville, Florida (the “Brooksville Property”) for a purchase price of $7.2 million. The Brooksville Property was originally purchased by BDP on April 28, 2023 for $5.05 million, $2 million of which was contributed by Cuentas. Cuentas will use its pro rata portion of the net proceeds of the sale, estimated between $1.625 million and $1.9 million, as working capital and for other opportunities that may become available.
+ 
+Efforts to Upgrade our Technology Platforms and Increase Sales of our Fintech Products and Services Through Cuentas-SDI and Introduction of New Fintech Solutions
+ 
+In April 2023, CIMA Telecom, which provided maintenance and support services for our fintech mobile app technology platform, shut down access to the platform as we were transitioning to a new, improved platform. The Cuentas prepaid Mastercard platform has continued to be active and the associated prepaid fintech platform behind it has continued to function properly. Cuentas is working to integrate the fintech mobile app software with an industry-proven platform and expects to make an announcement in 2024-Q2 related to this development.
+ 
+During the first quarter of 2023, we reduced product availability to Cuentas-SDI to allow Cuentas-SDI to catch up on its payments and during the second quarter of 2023 we curtailed all services to Cuentas-SDI and marketing initiatives with Cuentas-SDI due to its inability to reduce its debt significantly. These disruptions to our fintech solutions and technology business were a major reason for the decline in revenue between the Q1-Q2 periods in 2022 and 2023.
+  
+In May 2023, The OLB Group (NASDAQ: OLB) (“OLB”) terminated a Software Licensing and Transaction Sharing Agreement with the Company for the purpose of upgrading the Cuentas Mobile App and digital distribution system. In June 2023, OLB acquired 80.01% of Cuentas-SDI. In July 2023, the Company and Cuentas-SDI settled certain payment issues and have re-opened the digital distribution network and systems through Cuentas-SDI’s convenience store distribution network of over 31,000 locations, including many across the New York, New Jersey and Connecticut tri-state area.
+ 
+A major factor that provides technical strength and reliability to Cuentas’ project is the fintech ecosystem that it had developed. The foundation of Cuentas’ ecosystem is the software developed for the fintech platform with mobile app, mobile wallet and associated integrations that Cuentas had developed, designed & implemented over the past 3 years. We believe that the upgraded, retooled & reengineered platform will prove to be a robust, reliable transactional, marketing, financial and predictive, Tier-1 transactional platform. Cuentas’ ecosystem currently integrates its prepaid platform via dedicated APIs with Sutton Bank (the issuing bank), IDology (AML & KYC) and InComm (Processor, Load Network & 3rd Party Digital Products). During the fourth quarter of 2022, the Company performed its annual impairment test for the impairment of those intangible assets. Based on the Company’s qualitative analysis, which considered the electronic products and General Purpose Reloadable Cards reporting unit results and additional business and industry specific considerations including the impact of the settlement agreement with CIMA Telecom, the Company performed a further revisions of the fair value of the acquired platforms. As a result of the factors discussed the Company recorded an impairment charge of $3.6 million whereas no amount was assigned to the acquired platforms on December 31, 2022.
+ 
+14
+ 
+ 
+Cuentas has agreed with Sutton Bank to wind down its relationship during 2024 and transition to a different US bank for issuance of its Prepaid Financial products. Cuentas is in the final stages of negotiation to determine the best banking partner for its future in the prepaid fintech marketplace. On May 16, 2024, the Company received a Notice of Termination of Contract from Sutton Bank. Management has been evaluating other alternatives including replacing issuing bank and other enhanced FinTech enabled solutions.
+ 
+Cuentas Prepaid Mastercard account holders may deposit funds to their account via (a) no-cost Direct Deposit, or (b) for a small charge, using InComm’s VanillaLoad network in over 200,000 locations at major retailers like Walmart, CVS, Walgreens, Dollar General, and more.
+ 
+Once account holders have available funds, they can use their Cuentas Prepaid Mastercard® wherever prepaid Mastercards are accepted worldwide and at most ATMs in the U.S., and many international ATMs.
+ 
+Cuentas e-commerce Distribution and Mobile Payments
+ 
+The Cuentas e-commerce Distribution and Mobile Payments ecosystem will allow consumers to purchase Cuentas’s line of digital products and services through a nationwide network of retailers that specifically serve Cuentas’ target market. Cuentas’ distribution network includes certain neighborhood markets known as “Bodegas” and convenience stores as well as other retail establishments. This brings previously unavailable digital products and services to those neighborhoods affected by the e-commerce digital divide.
+ 
+The Latino Market 
+ 
+The name “Cuentas” is a Spanish word that has multiple meanings and was chosen for strategic reasons, to develop a close relationship with the Spanish speaking population. It means “Accounts” as in “bank accounts” and it can also mean “You can count on me” as in “Cuentas conmigo”. Additionally, it can be used to “Pay or settle accounts” (saldar cuentas), “accountability” (rendición de cuentas), “to be accountable” (rendir cuentas) and other significant meanings.
+  
+The 2020 U.S. Census showed the Hispanic Latino population at over 62 million and at 18.7% of the total U.S. population. The FDIC defines the “unbanked” “as those adults without an account at a bank or other financial institution and are considered to be outside the mainstream for one reason or another. The Company believes that the Hispanic and Latino demographic generally have had more identification, credit, and former bank account issues than any other U.S. minority group leading to more difficulty in obtaining a traditional bank account.
+  
+Cuentas Mobile App and Wallet
+ 
+The Cuentas Mobile App and Wallet are positioned to service the Hispanic, Latino and immigrant demographics with comprehensive financial products. Additionally, we are able to accept various forms of U.S. and some foreign government issued identification to confirm qualification for opening an account with the Cuentas App. The Cuentas App is able to accept SSN or ITIN with U.S. identification, Matricula Consular or other qualified government issued forms of identification.
+ 
+The Cuentas Prepaid Mastercard® - General-Purpose Reloadable (GPR) Card
+ 
+The Cuentas Prepaid GPR Card allows each account holder to have a personalized Cuentas Mastercard® and will allow them to have an associated Cuentas Account with the Mobile App, Digital Wallet, Digital Store and Long Distance Telecom services included. It will act as a comprehensive banking solution which enables access to the U.S. financial system for those who are unbanked or underbanked, while also enabling greater functionality than a traditional bank account. The cardholders’ deposited funds are currently protected in an FDIC-insured bank account at Sutton Bank and should be protected likewise with the new issuing bank. 
+ 
+15
+ 
+ 
+RESULTS OF OPERATIONS
+ 
+Comparison of the three months ended March 31, 2024 to the three months ended March 31, 2023
+ 
+Revenue
+ 
+The Company generates revenues through the sale and distribution of Digital products, General Purpose Reloadable Cards, wholesale telecommunication services and other related telecom services. Revenues during the three months ended March 31, 2024, totaled $639,000 compared to $64,000 for the three months ended March 31, 2023. The increase in our sales is mainly related to the increase in wholesale telecommunication services in the amount of $569,000 from our Bilateral Wholesale Carrier Agreement with others including Next Communications INC., a company controlled by Arik Maimon our Chairman of the Board and our CEO and an increase of $30,000 in the sales of digital products and General-Purpose Reloadable Cards partially offset by the decrease in our sales of telecommunications with TEL3.
+ 
+Revenue by product for the three months ended March 31, 2024, and the three months ended March 31, 2023 are as follows:
+ 
+                                                                                                              Three Months Ended       
+                                                                                                                   March 31            
+                                                                                                            2024            2023      
+                                                                                                             Dollars in thousands      
+Telecommunications                                                                                      $          25  $          52 
+Wholesale telecommunication services                                                                              569              - 
+Digital products and General Purpose Reloadable Cards                                                              45             12 
+Total revenue                                                                                           $         639  $          64 
+ 
+Costs of Revenue and Gross profit 
+ 
+Cost of revenues during the three months ended March 31, 2024 totaled $708,000 compared to $123,000 for the three months ended March 31, 2023.
+ 
+Cost of revenue consists of the purchase of wholesale minutes for resale, related telecom platform costs and purchase of digital products in the amount of $565,000 during the three months ended March 31, 2024 and $0 during the three months ended March 31, 2023.
+ 
+Cost of revenue also consists of costs related to the sale of the Company’s Digital products and GPR Card in the amount of $131,000 during the three months ended March 31, 2024 and $67,000 during the three months ended March 31, 2023.
+ 
+Gross loss by product for the three months ended March 31, 2024, and the three months ended March 31, 2023 are as follows:
+ 
+                                                                                                              Three Months Ended       
+                                                                                                                   March 31            
+                                                                                                            2024           2023      
+                                                                                                             Dollars in thousands      
+Telecommunications                                                                                      $          14  $          (7)
+Wholesale telecommunication services                                                                                4              - 
+Digital products and General Purpose Reloadable Cards                                                             (87)           (52)
+Total Gross profit (loss)                                                                               $         (69) $         (59)
+ 
+16
+ 
+ 
+Gross profit margin for the three months ended March 31, 2024 was negative for the digital product and general purpose reloadable cards segment but slightly positive for wholesale which by its nature has a tiny markup and the telecommunications segment. The gross loss for the sale of digital product and general-purpose reloadable cards stemmed from ceasing all activities with Cuentas SDI LLC. In addition, in April 2023, CIMA, which provided maintenance and support services for our technology platform, shut down access to the platform as we were transitioning to a new, improved platform. During the first quarter of 2023, we reduced product availability to Cuentas-SDI to allow Cuentas-SDI to catch up on its payments and during the second quarter of 2023 we curtailed all services to Cuentas-SDI and marketing initiatives with Cuentas-SDI due to its inability to reduce its debt significantly. These disruptions to our fintech solutions and technology business were a major reason for the decline in revenues during the year ended December 31, 2023. In May 2023, The OLB Group terminated a Software Licensing and Transaction Sharing Agreement with the Company for the purpose of upgrading the Cuentas Mobile App and digital distribution system. In June 2023, OLB acquired 80.01% of Cuentas-SDI. In July 2023, the Company and Cuentas-SDI settled certain payment issues and renewed discussions and cooperation to re-open the digital distribution network and systems through Cuentas-SDI’s convenience store distribution network of over 31,000 locations, including many across the New York, New Jersey and Connecticut tri state area.
+ 
+Gross loss margin for the three months ended March 31, 2024 was 11% consisting of 48% gross profit margin for the telecommunications segment and offset by a gross loss margin of 65% for the digital product and general purpose reloadable cards segment. The gross loss for the sale of digital product and general-purpose reloadable cards in the three months ended march 31, 2024 stemmed from the lower margins of our digital products since these sales derived from the sale of digital products bears minimal gross margins.
+ 
+Operating Expenses
+ 
+Operating expenses consist of selling, general and administrative Expenses and amortization of Intangible assets as discussed below and totaled $774,000 during the three months ended March 31, 2024, compared to $1,627,000 during the three months ended March 31, 2023 representing a net decrease of $784,000.
+ 
+Selling, General and Administrative Expenses
+ 
+The table below summarizes our general and administrative expenses incurred during the periods presented:
+ 
+                                                                                                              Three Months Ended       
+                                                                                                                   March 31            
+                                                                                                            2024           2023      
+                                                                                                             Dollars in thousands      
+Officers compensation                                                                                   $         152  $         227 
+Directors fees                                                                                                     42             50 
+Share-based compensation                                                                                          121            283 
+Professional services                                                                                             149            258 
+Maintenance and support services                                                                                    -            120 
+Legal fees                                                                                                         73            100 
+Payments in accordance with the processing service agreement with Incomm                                           75             50 
+Selling and Marketing                                                                                              18            142 
+Settlements                                                                                                         -            299 
+Office expenses and other                                                                                         142             96 
+Total                                                                                                   $         772  $       1,625 
+ 
+Selling, general and administrative expenses totaled $772,000 during the three months ended March 31, 2024, a net decrease of $853,000, or 52% compared to $1,625,000 during the three months ended March 31, 2023. The decrease in our Selling, general and administrative expenses during the three months ended March 31, 2024 compare to the three months ended March 31, 2023, is primarily attributable to the decrease in the amount of $75,000 in officers compensation attributable to the departure of several directors during 2023 and the reduction in the number of the officers of the Company in 2023, decrease in the amount of $162,000 in Share-based compensation and shares issued for services, decrease in the amount of $120,000 in maintenance and support services that were provided by CIMA, decrease in the amount of $109,000 in professional services and a decrease in selling and marketing expenses of $124,000 since the Company reduced significantly its selling and marketing campaigns starting 2023 due to its ineffectiveness and lack of resources, partially offset by increase of approximately $25,000 in the agreed payments in accordance with the processing service agreement with Incomm.
+ 
+17
+ 
+ 
+Amortization of Intangible Assets
+ 
+Amortization of intangible assets totaled $2,000 during the three months ended March 31, 2024 and 2023. The amortization expense during the three months ended March 31, 2024, and are related to the amortization of domain name purchased on March 5, 2021.
+ 
+Other Income ( Expenses )
+ 
+Other income (expenses) totaled an income of $398,000 during the three months ended March 31, 2024. Other income (expenses) are mainly comprised of Gain from Change in fair value of derivative warrants liability issued as part of our February 2023 and August 2023 security offering, partially offset by impairment expenses of prepaid expenses, interest expenses and other expenses of $93,000.
+ 
+During the three months ended March 31, 2023, the Company recognized other income (expenses) totaled to $0.
+ 
+Net Loss
+ 
+We incurred a net loss of $445,000 for the three-month period ended March 31, 2024, as compared to a net loss of 1,695,000 for the three-month period ended March 31, 2023 due to the decrease in selling and general administrative expenses as described above.
+ 
+Liquidity and Capital Resources
+ 
+Liquidity is the ability of a company to generate funds to support its current and future operations, satisfy its obligations, and otherwise operate on an ongoing basis. Significant factors in the management of liquidity are funds generated by operations, levels of accounts receivable and accounts payable and capital expenditures.
+ 
+As of March 31, 2024, the Company had total current assets of $492,000, including $28,000 of cash, accounts receivables of $290,000, related parties in the amount of $169,000 and other current assets of $5,000 and total current liabilities of $3,741,000 creating a working capital deficit of $3,249,000.
+ 
+As of March 31, 2023, the Company had total current assets of $1,760,000, including $205,000 of cash, accounts receivables of $1,307,000, related parties in the amount of $172,000 and other current assets of $76,000. As of March 31, 2023, the Company had total current liabilities of $4,689,000 creating a negative working capital deficit of $2,929,000.
+ 
+The increase in our working capital deficit was mainly due the increase in our negative cash flow from operations activities in the amount of in the amount of $310,000 partially mitigated by our Cash and Cash equivalents from financing activities in the amount of $133,000 due to proceeds from short terms loan received.
+ 
+To date, we have principally financed our operations through the sale of our Common Stock. Nevertheless, management anticipates that our current cash and cash equivalents position and generating revenue from the sales of our digital products, General-Purpose Reloadable Cards and prepaid cellular phone services will provide us limited financial resources for the near future to continue implementing our business strategy of further developing our digital products, General Purpose Reloadable Card, enhance our digital products offering and increase our sales and marketing. Therefore management plans to secure additional financing sources, including but not limited to the sale of our Common Stock in future financings. This is expected to be used to further support our operations as described above and to complete the development of its new portal and financial technology capabilities. There can be no assurance, however, that the company will be successful in raising additional capital or that the company will have net income from operations to fund the business plan of the company for the near future or long term. As of March 31, 2024, the Company had approximately $28,000 in cash and cash equivalents, approximately $3,249,000 in negative working capital and an accumulated deficit of approximately $55,391,000. These conditions raise substantial doubt about the Company’s ability to continue as a going concern as of March 31, 2024.
+ 
+18
+ 
+ 
+Cash Flows – Operating Activities
+ 
+The Company’s operating activities for the three months ended March 31, 2024, resulted in net cash used of $310,000. Net cash used in operating activities consisted of a net loss of $445,000, partially offset by non-cash expenses mainly consisting of share-based compensation of $120,000, Changes in operating assets and liabilities utilized cash of $422,000, resulting mainly from an increase in accounts receivable - related parties of $774,000 offset by increase in accounts payables of $1,741,000 and Impairment of prepaid expenses of $75,000.
+ 
+The Company’s operating activities for the three months ended March 31, 2023, resulted in net cash used of $1,453,000. Net cash used in operating activities consisted of a net loss of $1,695,000, partially mainly offset by non-cash expenses mainly consisting of share-based compensation of $283,000. Changes in operating assets and liabilities utilized cash of $56,000, resulting mainly from an increase in related parties of $88,000.
+ 
+Cash Flows – Investing Activities
+ 
+The Company had no investing activities for the three months ended March 31, 2024 or 2023.
+ 
+Cash Flows – Financing Activities
+ 
+The Company’s financing activities for the three months ended March 31, 2024, resulted in net cash received of $133,000 mainly consisting of $150,000 received from short term loan received.
+ 
+The Company’s financing activities for the three months ended March 31, 2023, resulted in net cash received of $4,315,000, mainly consisting of $4,319,000 received from the sale of our common stock.
+ 
+On April 3, 2024, Brooksville Development Partners, LLC (“BDP”), in which Cuentas has a 63.9% equity interest, entered into an agreement to sell the Brooksville Property for a purchase price of $7.2 million. The sale, which is expected to close before the end of the second quarter of 2024, is subject to certain conditions customary for similar real estate transactions. The purchaser has the right to terminate the agreement during an inspection period prior to June 3, 2024 due to title defects or other issues identified in a title report or survey of the premises or the existence of monetary liens not remedied or removed by BDP at the request of purchaser. There can be no assurance that the sale will be completed on the terms set forth in the agreement, if at all. Cuentas will use its pro rata portion of the net proceeds of the sale, estimated between $1.625 million and $1.9 million, as working capital and for other opportunities that may become available.
+ 
+On May 20, 2024, the Company entered into a Membership Interest Purchase Agreement (the “Agreement”) dated as of May 20, 2024 with OLB Group, Inc. (“Buyer”) whereby it acquired 19.99% of the membership interests of Cuentas SDI, LLC, a Florida limited liability company (the “LLC”) for a purchase price of $215,500.
+ 
+Inflation and Seasonality
+ 
+In management’s opinion, our results of operations have not been materially affected by inflation or seasonality, and management does not expect that inflation risk or seasonality would cause material impact on our operations in the future.
+ 
+Off-Balance Sheet Arrangements
+ 
+As of March 31, 2024, we had no off-balance sheet arrangements of any nature.
+ 
+19
+ 
+ 
+Critical Accounting Policies
+ 
+The preparation of financial statements in conformity with GAAP in the United States requires our management to make assumptions, estimates and judgments that affect the amounts reported in the financial statements, including the notes thereto, and related disclosures of commitments and contingencies, if any. Note 2 to our consolidated audited financial statements filed with the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2022, describes the significant accounting policies and methods used in the preparation of our financial statements.
+ 
+Recently Issued Accounting Standards 
+ 
+New pronouncements issued but not effective as of March 31, 2024, are not expected to have a material impact on the Company’s consolidated financial statements.
+ 
+Other accounting standards that have been issued or proposed by the FASB or other standards-setting bodies that do not require adoption until a future date are not expected to have a material impact on our financial statements upon adoption.
+ 
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+ 
+As a smaller reporting company, we are not required to provide the information required by this item.
+ 
+ITEM 4. CONTROLS AND PROCEDURES.
+ 
+Evaluation of Disclosure Controls and Procedures 
+ 
+Evaluation of Disclosure Controls and Procedures. We maintain “disclosure controls and procedures” as such term is defined in Rule 13a-15(e) under the Securities Exchange Act of 1934. In designing and evaluating our disclosure controls and procedures, our management recognized that disclosure controls and procedures, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of disclosure controls and procedures are met. Additionally, in designing disclosure controls and procedures, our management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible disclosure controls and procedures. The design of any disclosure controls and procedures is also based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions.
+ 
+The Company’s Chief Executive Officer and Chief Financial Officer have evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report. Based on such evaluation, and as discussed in greater detail below, the Chief Executive Officer and Chief Financial Officer have concluded that, as of the end of the period covered by this report, disclosure controls and procedures are not effective: 
+ 
+     ●    to give reasonable assurance that the information required to be disclosed in reports that are file under the Securities
+           Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in the Securities and
+           Exchange Commission’s rules and forms,
+           and
+ 
+     ●    to ensure that information required to be disclosed in the reports that are file or submitted under the Securities Exchange
+           Act of 1934 is accumulated and communicated to management, including our CEO and our Treasurer, to allow timely decisions
+           regarding required
+           disclosure.
+ 
+Changes in Internal Control over Financial Reporting
+ 
+There were no changes in the Company’s internal control over financial reporting during the three-month period ended March 31, 2024, that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+ 
+20
+ 
+ 
+PART II – OTHER INFORMATION
+ 
+ITEM 1. LEGAL PROCEEDINGS
+ 
+From time to time, we may become involved in various lawsuits and legal proceedings which arise in the ordinary course of business. However, litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm our business.
+ 
+On May 1, 2019, the Company received a notice of demand for arbitration from Secure IP Telecom, Inc. (“Secure IP), who allegedly had a Reciprocal Carrier Services Agreement (“RCS”) exclusively with Limecom and not with the Company. The arbitration demand originated from another demand for arbitration that Secure IP received from VoIP Capital International (“VoIP”) in March 2019, demanding $1,053 in damages allegedly caused by unpaid receivables that Limecom assigned to VoIP based on the RCS. On or about October 5, 2020, the trial court appointed a receiver over Limecom, Inc. (“Limecom”) in the matter of Spectrum Intelligence Communications Agency, LLC. v. Limecom, Inc., case no. 2018-027150-CA-01 pending in the 11th Circuit for Miami-Dade County, Florida. On June 5, 2020, Secure IP Telecom, Inc. (“Secure IP”) filed a complaint against Limecom, Heritage Ventures Limited (“Heritage”), an unrelated third party and owner of Limecom, and the Company, case no. 20-11972-CA-01. Secure IP alleges that the Company received certain transfers from Limecom during the period that the Company wholly owned Limecom that may be an avoidable under Florida Statute § 725.105. On July 13, 2021, the two cases were consolidated, and are now pending before the same trial court under the former case number. The Company has answered and denied any liability with respect to both complaints. To the extent the Company has exposure for any transfers from Limecom, Heritage has indemnified the Company for any such liability and the Company has a pending cross-claim against Heritage for purposes of enforcing the indemnification obligation. A review of the books and records of the Company reflect aggregate transfers from Limecom to the Company or its affiliates of less than $600,000. The Company’s books and records reflect that the Company fully reimbursed Limecom through direct payment of expenses of Limecom and through issuance of shares by the Company to employees or other vendors on behalf of Limecom for settlement and release of claims the employees or vendors may have asserted against Limecom. The books and records of the Company therefore do not reflect an identifiable avoidable transfer, but this analysis may change as the discovery process continues. At this time, based upon an analysis of the Company’s books and records, the loss contingency is not capable of reasonable estimation under the above circumstances, and the likelihood of an adverse judgment is not probable at this time. An adverse judgment in this matter is reasonably possible and based upon an analysis of litigation costs and likelihood of a settlement. As of December 31, 2023, the company accrued $300,000 due to this matter.
+ 
+On October 4, 2022, Crosshair Media Placement, LLC, a Kentucky based marketing company, filed and served a complaint on Cuentas for breach of contract alleging breach of contract damages of $629,807.74, which case remains pending in the United States District Court for the Western District of Kentucky, case no. 3:22-CV-512-CHB. On May 9, 2023, the Company and the plaintiff attended a court settlement conference before the federal magistrate judge presiding over the matter. The parties reached a settlement that the Company will make the following installments in the amount of $630,000 to fully resolve the matter: $50,000 on or about June 1, $20,000 on or about July 1, and nine equal $15,000 monthly payments due the first of each month, then a final payment of $425,000 due May 1, 2024. As of December 31, 2023 the Company has paid $70,000 to the plaintiff under the above referenced settlement agreement.
+ 
+On February 8, 2023, a former employee of the Company, filed a complaint for breach of employment agreement alleging the Company failed to pay her certain compensation she alleges she was entitled to upon her resignation.. The Company and the employee are discussing a settlement agreement and estimates that the maximum amount the Company will be required to pay will not exceed $30,000.
+ 
+ITEM 1A. RISK FACTORS
+ 
+Reference is made to the risks and uncertainties disclosed in Item 1A (“Risk Factors”) of our Annual Report on Form 10-K for the year ended December 31, 2023 (the “2023 Form 10-K”). Prospective investors are encouraged to consider the risks described in our 2023 Form 10-K, our Management’s Discussion and Analysis of Financial Condition and Results of Operations contained in this Report and other information publicly disclosed or contained in reports and other documents we file with the Securities and Exchange Commission before purchasing our securities.
+ 
+21
+ 
+ 
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+ 
+Except as previously reported in the Company’s reports filed pursuant to Section 13(a) of the Exchange Act, there were no sales of unregistered securities during the period covered by this report.
+ 
+ITEM 3. DEFAULTS UPON SENIOR DEBT
+ 
+None.
+ 
+ITEM 4. MINE SAFETY DISCLOSURES
+ 
+None.
+ 
+ITEM 5. OTHER INFORMATION
+ 
+None.
+ 
+ITEM 6. EXHIBITS
+ 
+                                                                                                    Incorporated by reference
+Exhibit                             Exhibit Description                           Filed      Form    Period   Exhibit   Filing date
+ Number                                                                          herewith            ending
+31.1         Certification of Chief Executive Officer pursuant to Section 302       X                                         
+              of the Sarbanes-Oxley Act of 2002
+              
+31.2         Certification of Chief Financial Officer pursuant to Section 302       X                                         
+              of the Sarbanes-Oxley Act of
+              2002
+32.1         Certification of Chief Executive Officer pursuant to Section 906       X                                         
+              of the Sarbanes-Oxley Act of
+              2002
+32.2         Certification of Chief Financial Officer pursuant to Section 906       X                                         
+              of the Sarbanes-Oxley Act of
+              2002
+101.INS      Inline XBRL Instance Document.                                         X                                         
+101.SCH      Inline XBRL Taxonomy Extension Schema Document.                        X                                         
+101.CAL      Inline XBRL Taxonomy Extension Calculation Linkbase Document.          X                                         
+101.DEF      Inline XBRL Taxonomy Extension Definition Linkbase Document.           X                                         
+101.LAB      Inline XBRL Taxonomy Extension Label Linkbase Document.                X                                         
+ 
+22
+ 
+ 
+SIGNATURES
+ 
+In accordance with the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ 
+                                                                                 Cuentas, Inc.
+                                                                                 (Registrant)
+                                                                                  
+Date: May 20, 2024                                                               By:  /s/ Shalom Arik Maimon
+                                                                                      Chief Executive Officer
+                                                                                       
+                                                                                 By:  /s/ Shlomo Zakai 
+                                                                                      Chief Financial Officer
+ 
+ 
+23
+ 
+0.15 1.00 1696022 2719668 false --12-31 Q1 0001424657 0001424657 2024-01-01 2024-03-31 0001424657 cuen:CommonStockParValue0001PerShareMember 2024-01-01 2024-03-31 0001424657 cuen:WarrantsEachExercisableForOneShareOfCommonStockMember 2024-01-01 2024-03-31 0001424657 2024-05-20 0001424657 2024-03-31 0001424657 2023-12-31 0001424657 us-gaap:RelatedPartyMember 2024-03-31 0001424657 us-gaap:RelatedPartyMember 2023-12-31 0001424657 cuen:RevenuesFromRelatedPartyMember 2024-01-01 2024-03-31 0001424657 cuen:RevenuesFromRelatedPartyMember 2023-01-01 2023-03-31 0001424657 cuen:RevenuesFromOtherMember 2024-01-01 2024-03-31 0001424657 cuen:RevenuesFromOtherMember 2023-01-01 2023-03-31 0001424657 2023-01-01 2023-03-31 0001424657 cuen:CostofRevenuesFromRelatedPartyMember 2024-01-01 2024-03-31 0001424657 cuen:CostofRevenuesFromRelatedPartyMember 2023-01-01 2023-03-31 0001424657 cuen:OtherCostOfRevenuesMember 2024-01-01 2024-03-31 0001424657 cuen:OtherCostOfRevenuesMember 2023-01-01 2023-03-31 0001424657 us-gaap:CommonStockMember 2023-12-31 0001424657 us-gaap:AdditionalPaidInCapitalMember 2023-12-31 0001424657 us-gaap:TreasuryStockCommonMember 2023-12-31 0001424657 us-gaap:RetainedEarningsMember 2023-12-31 0001424657 us-gaap:CommonStockMember 2024-01-01 2024-03-31 0001424657 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-03-31 0001424657 us-gaap:TreasuryStockCommonMember 2024-01-01 2024-03-31 0001424657 us-gaap:RetainedEarningsMember 2024-01-01 2024-03-31 0001424657 us-gaap:CommonStockMember 2024-03-31 0001424657 us-gaap:AdditionalPaidInCapitalMember 2024-03-31 0001424657 us-gaap:TreasuryStockCommonMember 2024-03-31 0001424657 us-gaap:RetainedEarningsMember 2024-03-31 0001424657 us-gaap:CommonStockMember 2022-12-31 0001424657 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 0001424657 us-gaap:TreasuryStockCommonMember 2022-12-31 0001424657 us-gaap:RetainedEarningsMember 2022-12-31 0001424657 2022-12-31 0001424657 us-gaap:CommonStockMember 2023-01-01 2023-03-31 0001424657 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-03-31 0001424657 us-gaap:TreasuryStockCommonMember 2023-01-01 2023-03-31 0001424657 us-gaap:RetainedEarningsMember 2023-01-01 2023-03-31 0001424657 us-gaap:CommonStockMember 2023-03-31 0001424657 us-gaap:AdditionalPaidInCapitalMember 2023-03-31 0001424657 us-gaap:TreasuryStockCommonMember 2023-03-31 0001424657 us-gaap:RetainedEarningsMember 2023-03-31 0001424657 2023-03-31 0001424657 cuen:MeimounAndMammonLLCMember 2024-01-01 2024-03-31 0001424657 cuen:CUENTASMAXLLCMember 2024-01-01 2024-03-31 0001424657 2023-08-18 2023-08-18 0001424657 srt:MinimumMember 2023-08-18 2023-08-18 0001424657 2023-10-03 2023-10-03 0001424657 2024-03-13 2024-03-13 0001424657 2024-02-07 0001424657 2024-02-07 2024-02-07 0001424657 cuen:PromissoryNoteMember 2024-02-07 0001424657 cuen:PromissoryNoteMember 2024-03-15 2024-03-15 0001424657 cuen:PromissoryNoteMember 2024-01-01 2024-03-31 0001424657 cuen:PromissoryNoteMember 2024-03-31 0001424657 cuen:BrooksvilleDevelopmentPartnersLLCMember 2024-03-13 0001424657 2023-04-28 2023-04-28 0001424657 2024-01-27 2024-01-27 0001424657 2023-09-28 0001424657 2024-04-03 0001424657 cuen:ExercisePriceSixtySevenPointNineNineMember 2024-03-31 0001424657 cuen:ExercisePriceSixtySevenPointNineNineMember 2024-01-01 2024-03-31 0001424657 cuen:ExercisePriceThirtySixPointFourZeroMember 2024-03-31 0001424657 cuen:ExercisePriceThirtySixPointFourZeroMember 2024-01-01 2024-03-31 0001424657 cuen:ExercisePriceZeroPointThreeTwoMember 2024-03-31 0001424657 cuen:ExercisePriceZeroPointThreeTwoMember 2024-01-01 2024-03-31 0001424657 cuen:ExercisePriceNinetySevenPointFiveZeroMember 2023-03-31 0001424657 cuen:ExercisePriceNinetySevenPointFiveZeroMember 2023-01-01 2023-03-31 0001424657 cuen:ExercisePriceSixtySevenPointNinetyNineMember 2023-03-31 0001424657 cuen:ExercisePriceSixtySevenPointNinetyNineMember 2023-01-01 2023-03-31 0001424657 cuen:ExercisePriceThirtySixPointFourtyOneMember 2023-03-31 0001424657 cuen:ExercisePriceThirtySixPointFourtyOneMember 2023-01-01 2023-03-31 0001424657 cuen:SalesToSDICuentasLLCMember 2024-01-01 2024-03-31 0001424657 cuen:SalesToSDICuentasLLCMember 2023-01-01 2023-03-31 0001424657 us-gaap:RelatedPartyMember 2024-01-01 2024-03-31 0001424657 us-gaap:RelatedPartyMember 2023-01-01 2023-03-31 0001424657 cuen:CostOfSalesFromNextCommunicationsINCMember 2024-01-01 2024-03-31 0001424657 cuen:CostOfSalesFromNextCommunicationsINCMember 2023-01-01 2023-03-31 0001424657 cuen:CostOfRevenuesFromRelatedPartyMember 2024-01-01 2024-03-31 0001424657 cuen:CostOfRevenuesFromRelatedPartyMember 2023-01-01 2023-03-31 0001424657 cuen:ConsultingFeesToAngeloDePradoMember 2024-01-01 2024-03-31 0001424657 cuen:ConsultingFeesToAngeloDePradoMember 2023-01-01 2023-03-31 0001424657 cuen:ConsultingFeesToSimaMaimonBakharMember 2024-01-01 2024-03-31 0001424657 cuen:ConsultingFeesToSimaMaimonBakharMember 2023-01-01 2023-03-31 0001424657 cuen:ArikMaimonChairmanOfTheBoardAndTheCEOMember 2024-03-31 0001424657 cuen:ArikMaimonChairmanOfTheBoardAndTheCEOMember 2023-12-31 0001424657 cuen:MichaelDePradoViceChairmanOfTheBoardAndPresidentMember 2024-03-31 0001424657 cuen:MichaelDePradoViceChairmanOfTheBoardAndPresidentMember 2023-12-31 0001424657 cuen:NextCommunicationsINCaCompanyControlledByArikMaimonCompanysChairmanOfTheBoardAndCEOMember 2024-03-31 0001424657 cuen:NextCommunicationsINCaCompanyControlledByArikMaimonCompanysChairmanOfTheBoardAndCEOMember 2023-12-31 0001424657 cuen:SDICuentasLLCMember 2024-03-31 0001424657 cuen:SDICuentasLLCMember 2023-12-31 0001424657 2023-07-31 2023-07-31 0001424657 us-gaap:SalesRevenueNetMember us-gaap:RevenueFromRightsConcentrationRiskMember cuen:CuentasSDILLCMember 2024-01-01 2024-03-31 0001424657 us-gaap:SalesRevenueNetMember us-gaap:RevenueFromRightsConcentrationRiskMember cuen:CuentasSDILLCMember 2023-01-01 2023-03-31 0001424657 cuen:TelecommunicationsMember 2024-01-01 2024-03-31 0001424657 cuen:TelecommunicationsMember 2023-01-01 2023-03-31 0001424657 cuen:WholesaleTelecommunicationServicesMember 2024-01-01 2024-03-31 0001424657 cuen:WholesaleTelecommunicationServicesMember 2023-01-01 2023-03-31 0001424657 cuen:DigitalProductsAndGeneralPurposeReloadableCardsMember 2024-01-01 2024-03-31 0001424657 cuen:DigitalProductsAndGeneralPurposeReloadableCardsMember 2023-01-01 2023-03-31 0001424657 cuen:TelecommunicationsMember 2024-03-31 0001424657 cuen:TelecommunicationsMember 2023-12-31 0001424657 cuen:WholesaleTelecommunicationServicesMember 2024-03-31 0001424657 cuen:WholesaleTelecommunicationServicesMember 2023-12-31 0001424657 cuen:DigitalProductsAndGeneralPurposeReloadableCardsMember 2024-03-31 0001424657 cuen:DigitalProductsAndGeneralPurposeReloadableCardsMember 2023-12-31 0001424657 cuen:SekurPrivateDataLtdSWISFMember us-gaap:SubsequentEventMember 2024-05-01 2024-05-01 0001424657 cuen:SekurPrivateDataLtdSWISFMember us-gaap:SubsequentEventMember 2024-05-01 0001424657 cuen:MMTelecomMember us-gaap:SubsequentEventMember 2024-05-01 0001424657 cuen:MMTelecomMember us-gaap:SubsequentEventMember 2024-05-01 2024-05-01 0001424657 us-gaap:SubsequentEventMember 2024-05-20 xbrli:shares iso4217:USD iso4217:USD xbrli:shares xbrli:pure

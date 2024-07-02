@@ -1,0 +1,2469 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 10-Q
+
+ 
+
+(Mark One) 
+
+ 
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly period ended March 31, 2024
+
+ 
+
+OR
+
+ 
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the transition period from to
+
+ 
+
+Commission File No. 001-39040
+
+ 
+
+AST SPACEMOBILE, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+                                                      Delaware                                                                         84-2027232
+
+                                          (State or other jurisdiction of                                                          (I.R.S. Employer 
+
+                                           incorporation or organization)                                                         Identification No.)
+
+                                           Midland Intl. Air & Space Port                                                                   
+
+                                               2901 Enterprise Lane                                                                      79706
+
+                                                  Midland, Texas 
+
+                                      (Address of principal executive offices)                                                         (Zip Code)
+
+ 
+
+(432) 276-3966
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+                                   Title of each class                                        Trading        Name of each exchange on which
+
+                                                                                             Symbol(s)                 registered
+
+                    Class A common stock, par value $0.0001 per share                          ASTS           The Nasdaq Stock Market LLC
+
+    Warrants exercisable for one share of Class A common stock at an exercise price of         ASTSW          The Nasdaq Stock Market LLC
+
+                                          $11.50
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+
+Large accelerated filer                                         ☐      Accelerated filer                                               ☐
+
+                                                                                                                                        
+
+Non-accelerated filer                                           ☒      Smaller reporting company                                       ☒
+
+                                                                                                                                        
+
+Emerging growth company                                         ☒                                                                       
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): Yes ☐ No ☒
+
+ 
+
+As of May 13, 2024 there were 139,621,085 shares of Class A common stock, $0.0001 per value, 39,747,447 shares of Class B common stock, $0.0001 par value, and 78,163,078 shares of Class C common stock, $0.0001 par value, issued and outstanding.
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+AST SPACEMOBILE, INC.
+
+FORM 10-Q FOR THE QUARTER ENDED MARCH 31, 2024
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+                                                                                                                                 Page
+
+ Part I. Financial Information                                                                                                    1
+
+ Item 1. Interim Financial Statements                                                                                             1
+
+ Condensed Consolidated Balance Sheets as of March 31, 2024 and December 31, 2023 (Unaudited)                                     1
+
+ Condensed Consolidated Statements of Operations for the three months ended March 31, 2024 and 2023 (Unaudited)                   2
+
+ Condensed Consolidated Statements of Comprehensive Loss for the three months ended March 31, 2024 and 2023 (Unaudited)           3
+
+ Condensed Consolidated Statements of Stockholders’ Equity for the three months ended March 31, 2024 and 2023 (Unaudited)         4
+
+ Condensed Consolidated Statements of Cash Flows for the three months ended March 31, 2024 and 2023 (Unaudited)                   5
+
+ Notes to Condensed Consolidated Financial Statements (Unaudited)                                                                 6
+
+ Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations                                    22
+
+ Item 3. Quantitative and Qualitative Disclosures Regarding Market Risk                                                           33
+
+ Item 4. Controls and Procedures                                                                                                  33
+
+ Part II. Other Information                                                                                                       34
+
+ Item 1. Legal Proceedings                                                                                                        34
+
+ Item 1A. Risk Factors                                                                                                            34
+
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds                                                              34
+
+ Item 3. Defaults Upon Senior Securities                                                                                          34
+
+ Item 4. Mine Safety Disclosures                                                                                                  35
+
+ Item 5. Other Information                                                                                                        35
+
+ Item 6. Exhibits                                                                                                                 36
+
+ Part III. Signatures                                                                                                             37
+
+ 
+
+i
+
+
+
+ 
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. Interim Financial Statements.
+
+ 
+
+AST SPACEMOBILE, INC. 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+
+(Dollars in thousands, except share data) 
+
+ 
+
+                                                                                                                            As of            
+
+                                                                                                                  March 31,   December 31,  
+
+                                                                                                                     2024          2023
+
+                                                                                                                                            
+
+ASSETS                                                                                                                                      
+
+Current assets:                                                                                                                             
+
+Cash and cash equivalents                                                                                        $  209,973  $      85,622 
+
+Restricted cash                                                                                                       2,467          2,475 
+
+Prepaid expenses                                                                                                      5,033          4,591 
+
+Other current assets                                                                                                 22,036         14,194 
+
+Total current assets                                                                                                239,509        106,882 
+
+                                                                                                                                            
+
+Non-current assets:                                                                                                                         
+
+Property and equipment, net                                                                                         245,284        238,478 
+
+Operating lease right-of-use assets, net                                                                             12,796         13,221 
+
+Other non-current assets                                                                                              4,139          2,311 
+
+TOTAL ASSETS                                                                                                     $  501,728  $     360,892 
+
+                                                                                                                                            
+
+LIABILITIES AND STOCKHOLDERS' EQUITY                                                                                                        
+
+Current liabilities:                                                                                                                        
+
+Accounts payable                                                                                                 $   14,528  $      20,575 
+
+Accrued expenses and other current liabilities                                                                       15,593         23,926 
+
+Current operating lease liabilities                                                                                   1,505          1,468 
+
+Current portion of long-term debt                                                                                       255            252 
+
+Total current liabilities                                                                                            31,881         46,221 
+
+                                                                                                                                            
+
+Non-current liabilities:                                                                                                                    
+
+Warrant liabilities                                                                                                  11,746         29,960 
+
+Non-current operating lease liabilities                                                                              11,429         11,900 
+
+Long-term debt, net                                                                                                 160,827         59,252 
+
+Total liabilities                                                                                                   215,883        147,333 
+
+                                                                                                                                            
+
+Commitments and contingencies (Note 7)                                                                                                      
+
+                                                                                                                                            
+
+Stockholders' Equity:                                                                                                                       
+
+Class A Common Stock, $.0001 par value; 800,000,000 shares authorized; 138,153,310 and 90,161,309 shares issued          14              9 
+
+ and outstanding as of March 31, 2024 and December 31, 2023,
+
+ respectively.
+
+Class B Common Stock, $.0001 par value; 200,000,000 shares authorized; 39,747,447 and 50,041,757  shares issued           4              5 
+
+ and outstanding as of March 31, 2024 and December 31, 2023,
+
+ respectively.
+
+Class C Common Stock, $.0001 par value; 125,000,000 shares authorized; 78,163,078 shares issued and outstanding           8              8 
+
+ as of March 31, 2024 and December 31, 2023,
+
+ respectively.
+
+Additional paid-in capital                                                                                          373,773        288,404 
+
+Accumulated other comprehensive income                                                                                  121            227 
+
+Accumulated deficit                                                                                                (209,392)      (189,662)
+
+Noncontrolling interest                                                                                             121,317        114,568 
+
+Total stockholders' equity                                                                                          285,845        213,559 
+
+                                                                                                                                            
+
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                                                                       $  501,728  $     360,892 
+
+ 
+
+See accompanying notes to the unaudited condensed consolidated financial statements
+
+1
+
+
+
+ 
+
+AST SPACEMOBILE, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+
+(Dollars in thousands, except share and per share data) 
+
+ 
+
+                                                                                            For the Three Months ended              
+
+                                                                                                     March 31,
+
+                                                                                          2024                       2023          
+
+                                                                                                                                   
+
+Revenues                                                                        $                    500   $                    - 
+
+                                                                                                                                   
+
+Operating expenses:                                                                                                                
+
+Engineering services costs                                                                        19,511                   16,483 
+
+General and administrative costs                                                                  12,287                    9,857 
+
+Research and development costs                                                                     4,257                   16,381 
+
+Depreciation and amortization                                                                     19,945                    1,733 
+
+Total operating expenses                                                                          56,000                   44,454 
+
+                                                                                                                                   
+
+Other income (expense):                                                                                                            
+
+Gain on remeasurement of warrant liabilities                                                      18,214                    7,498 
+
+Interest (expense) income, net                                                                    (2,222)                   2,093 
+
+Other (expense) income, net                                                                           (2)                 (10,237)
+
+Total other income (expense), net                                                                 15,990                     (646)
+
+                                                                                                                                   
+
+Loss before income tax expense                                                                   (39,510)                 (45,100)
+
+Income tax expense                                                                                  (294)                    (116)
+
+Net loss before allocation to noncontrolling interest                                            (39,804)                 (45,216)
+
+                                                                                                                                   
+
+Net loss attributable to noncontrolling interest                                                 (20,074)                 (28,898)
+
+Net loss attributable to common stockholders                                    $                (19,730)  $              (16,318)
+
+Net loss per share attributable to holders of Class A Common Stock                                                                 
+
+Basic and diluted                                                               $                  (0.16)  $                (0.23)
+
+Weighted-average shares of Class A Common Stock outstanding                                                                        
+
+Basic and diluted                                                                            121,447,138               71,845,206 
+
+ 
+
+See accompanying notes to the unaudited condensed consolidated financial statements
+
+ 
+
+2
+
+
+
+ 
+
+AST SPACEMOBILE, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS (UNAUDITED)
+
+(Dollars in thousands) 
+
+ 
+
+                                                                                             For the Three Months ended              
+
+                                                                                                     March 31,
+
+                                                                                          2024                      2023           
+
+                                                                                                                                   
+
+Net loss before allocation to noncontrolling interest                            $              (39,804)   $              (45,216) 
+
+Other comprehensive loss                                                                                                           
+
+Foreign currency translation adjustments                                                           (216)                     (128) 
+
+Total other comprehensive loss                                                                     (216)                     (128) 
+
+Total comprehensive loss before allocation to noncontrolling interest                           (40,020)                  (45,344) 
+
+Comprehensive loss attributable to noncontrolling interest                                      (20,184)                  (28,980) 
+
+Comprehensive loss attributable to common stockholders                           $              (19,836)   $              (16,364) 
+
+                                                                                                                                   
+
+ 
+
+See accompanying notes to the unaudited condensed consolidated financial statements
+
+ 
+
+3
+
+
+
+ 
+
+AST SPACEMOBILE, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (UNAUDITED)
+
+(Dollars in thousands, except share data)
+
+ 
+
+                                                                                                                                                                                                 
+
+                             Class A                     Class B                   Class C            Additional        Accumulated                                                            
+
+                           Common Stock               Common Stock               Common Stock                              Other
+
+                        Shares        Values        Shares       Values        Shares       Values       Paid-in     Comprehensive Income     Accumulated       Noncontrolling     Total Equity 
+
+                                                                                                         Capital                                Deficit             Interest
+
+                                                                                                                                                                                                
+
+  Balance,                90,161,309  $      9      50,041,757  $      5      78,163,078  $      8  $     288,404  $               227  $       (189,662) $           114,568  $    213,559 
+
+   December 31,
+
+   2023
+
+  Stock-based                      -         -               -         -               -         -          4,775                    -                 -                  158         4,933 
+
+   compensation
+
+  Issuance of             37,096,773         4               -         -               -         -         69,551                    -                 -               38,132       107,687 
+
+   common stock,
+
+   net of issuance
+
+   costs
+
+  Vesting of                 288,259         -               -         -               -         -           (121)                   -                 -                 (193)         (314)
+
+   restricted
+
+   stock
+
+   units
+
+  Redemption of           10,606,969         1     (10,294,310)       (1)              -         -         11,164                    -                 -              (11,164)            - 
+
+   AST LLC Common
+
+   Units for Class
+
+   A Common
+
+   Stock
+
+  Foreign currency                 -         -               -         -               -         -              -                 (106)                -                 (110)         (216)
+
+   translation
+
+   adjustments
+
+  Net loss                         -         -               -         -               -         -              -                    -           (19,730)             (20,074)      (39,804)
+
+  Balance, March         138,153,310  $     14      39,747,447  $      4      78,163,078  $      8  $     373,773  $               121  $       (209,392) $           121,317  $    285,845 
+
+   31,
+
+   2024
+
+ 
+
+                                                                                                                                                                                                 
+
+                               Class A                   Class B                   Class C            Additional        Accumulated                                                            
+
+                             Common Stock              Common Stock              Common Stock                              Other
+
+                           Shares       Values        Shares       Values        Shares       Values       Paid-in     Comprehensive Income     Accumulated       Noncontrolling     Total Equity 
+
+                                                                                                           Capital                                Deficit             Interest
+
+  Balance, December        71,819,926  $      7      50,041,757  $      5      78,163,078  $      8  $     235,384  $               229  $       (102,101) $           226,294  $    359,826 
+
+   31,
+
+   2022
+
+  Stock-based                       -         -               -         -               -         -          2,307                    -                 -                  167         2,474 
+
+   compensation
+
+  Issuance of equity                -         -               -         -               -         -           (801)                   -                 -                  897            96 
+
+   under employee
+
+   stock
+
+   plan
+
+  Vesting of                   57,633         -               -         -               -         -             (4)                   -                 -                 (119)         (123)
+
+   restricted stock
+
+   units
+
+  Foreign currency                  -         -               -         -               -         -              -                  (46)                -                  (82)         (128)
+
+   translation
+
+   adjustments
+
+  Net loss                          -         -               -         -               -         -              -                    -           (16,318)             (28,898)      (45,216)
+
+  Balance, March 31,       71,877,559  $      7      50,041,757  $      5      78,163,078  $      8  $     236,886  $               183  $       (118,419) $           198,259  $    316,929 
+
+   2023
+
+                                                                                                                                                                                                 
+
+ 
+
+See accompanying notes to the unaudited condensed consolidated financial statements
+
+4
+
+
+
+ 
+
+AST SPACEMOBILE, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED) 
+
+(Dollars in thousands)
+
+                                                                                              For the Three Months ended       
+
+                                                                                                       March 31,
+
+                                                                                               2024               2023       
+
+                                                                                                                             
+
+Cash flows from operating activities:                                                                                        
+
+Net loss before allocation to noncontrolling interest                                    $        (39,804)  $        (45,216)
+
+Adjustments to reconcile net loss before noncontrolling interest to cash used in                                             
+
+ operating
+
+ activities:
+
+Depreciation and amortization                                                                      19,945              1,733 
+
+Gain on remeasurement of warrant liabilities                                                      (18,214)            (7,498)
+
+Amortization of debt issuance costs                                                                   900                  - 
+
+Stock-based compensation                                                                            4,933              2,474 
+
+Changes in operating assets and liabilities:                                                                                 
+
+Prepaid expenses and other current assets                                                          (8,306)           (12,168)
+
+Accounts payable and accrued expenses                                                              (8,396)             5,553 
+
+Operating lease right-of-use assets and operating lease liabilities                                    (8)                 6 
+
+Other assets and liabilities                                                                          828             17,383 
+
+Net cash used in operating activities                                                             (48,122)           (37,733)
+
+                                                                                                                             
+
+Cash flows from investing activities:                                                                                        
+
+Purchase of property and equipment and advance launch payments                                    (39,568)           (15,388)
+
+Net cash used in investing activities                                                             (39,568)           (15,388)
+
+                                                                                                                             
+
+Cash flows from financing activities:                                                                                        
+
+Proceeds from debt                                                                                110,000                  - 
+
+Repayments of debt                                                                                    (62)               (60)
+
+Payment for debt issuance costs                                                                    (5,162)                 - 
+
+Proceeds from issuance of common stock, net of issuance costs                                     107,718                  - 
+
+Issuance of equity under employee stock plan                                                            -                 96 
+
+Employee taxes paid for stock-based compensation awards                                              (314)                 - 
+
+Net cash provided by financing activities                                                         212,180                 36 
+
+                                                                                                                             
+
+Effect of exchange rate changes on cash, cash equivalents and restricted cash                        (147)              (475)
+
+                                                                                                                             
+
+Net increase (decrease) in cash, cash equivalents and restricted cash                             124,343            (53,560)
+
+Cash, cash equivalents and restricted cash, beginning of period                                    88,097            239,256 
+
+Cash, cash equivalents and restricted cash, end of period                                $        212,440   $        185,696 
+
+                                                                                                                             
+
+Supplemental disclosure of cash flow information:                                                                            
+
+Non-cash transactions:                                                                                                       
+
+Purchases of property and equipment in accounts payable and accrued expenses             $          5,734   $          4,077 
+
+Right-of-use assets obtained in exchange for operating lease liabilities                                -              5,507 
+
+Cash paid for:                                                                                                               
+
+Interest                                                                                 $          2,205   $             52 
+
+Income taxes, net                                                                                     710                282 
+
+ 
+
+ 
+
+See accompanying notes to the unaudited condensed consolidated financial statements 
+
+5
+
+
+
+ 
+
+AST SPACEMOBILE, INC.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+MARCH 31, 2024
+
+(Unaudited)
+
+ 
+
+1.Organization and Nature of Operations
+
+ 
+
+AST SpaceMobile, Inc., collectively with its subsidiaries (”SpaceMobile” or the “Company”) is currently designing and developing the constellation of BlueBird (“BB”) satellites in advance of launching its planned space-based Cellular Broadband network distributed through a constellation of Low Earth Orbit (“LEO”) satellites. Once deployed and operational, the BB satellites are designed to provide connectivity directly to off-the-shelf and unmodified devices at broadband speeds (the “SpaceMobile Service”). At that point, the Company intends to offer the SpaceMobile Service to cellular subscribers and others through wholesale commercial agreements with cellular service providers. The Company is headquartered in Texas where it operates 185,000 square feet satellite assembly, integrating and testing (“AIT”) facilities. The Company’s intellectual property (“IP”) portfolio is diverse, containing numerous and various innovations of the direct-to-cell satellite ecosystem from space to Earth. The Company’s IP portfolio consists of 36 patent families worldwide. As of March 31, 2024, the Company has more than 3,350 patent and patent pending claims worldwide, of which approximately 1,050 have been officially granted or allowed.    
+
+ 
+
+The Company launched its BlueWalker 3 (“BW3”) test satellite on September 10, 2022, and announced the completion of the deployment of the communication phased array antenna of the BW3 test satellite in orbit on November 14, 2022. On April 25, 2023, the Company announced that it had successfully completed two-way voice calls directly to standard unmodified smartphones using the BW3 test satellite. On June 21, 2023, the Company announced that it had achieved repeated successful 4G download speeds of above 10 megabits per second (“Mbps”) to standard unmodified smartphones using the BW3 test satellite. On September 19, 2023, the Company announced it had achieved repeated successful two-way voice calls directly to standard unmodified smartphones using 5G connectivity and successful download speeds of approximately 14 Mbps utilizing 5 megahertz (“Mhz”) of low band spectrum via the BW3 test satellite. The Company intends to continue testing capabilities of the BW3 test satellite, including further testing with cellular service providers and devices.    
+
+ 
+
+On April 6, 2021, the Company completed a business combination (the “Business Combination”) with AST & Science, LLC (“AST LLC”). Following the consummation of the Business Combination, the combined company was organized in an “Up-C” structure in which the business is operated by AST LLC and its subsidiaries and in which the Company's only direct assets consist of equity interests in AST LLC. As the managing member of AST LLC, the Company has full discretion to manage and control the business of AST LLC and to take all action it deems necessary to accomplish the purposes of AST LLC. The Company’s Class A Common Stock and Public Warrants are listed on the Nasdaq Capital Market under the symbols “ASTS” and “ASTSW”, respectively.    
+
+ 
+
+The Company operates from multiple locations that include its corporate headquarters and 185,000 square feet AIT facilities in Texas where the final AIT is performed, and engineering and development centers elsewhere in the United States, India, Scotland, Spain, and Israel.    
+
+ 
+
+The Company is an “emerging growth company,” as defined in Section 2(a) of the Securities Act of 1933, as amended (the “Securities Act”), as modified by the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”), and the Company may take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies, including, but not limited to, not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act, reduced disclosure obligations regarding executive compensation in the Company's periodic reports and proxy statements, and exemptions from the requirements of holding a non-binding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved.
+
+2.Summary of Significant Accounting Policies
+
+ 
+
+Basis of Presentation and Principles of Consolidation
+
+ 
+
+The accompanying unaudited condensed consolidated financial statements and related notes have been prepared by the Company in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”) and the requirements of the Securities and Exchange Commission (“SEC”). The unaudited condensed consolidated financial statements include the accounts of the Company, AST LLC and its subsidiaries. Intercompany transactions and balances have been eliminated upon consolidation. Certain comparative amounts have been reclassified to conform to the current period presentation. These reclassifications had no effect on the reported results of operations. In the opinion of management, these unaudited condensed consolidated financial statements contain all adjustments (consisting only of normal and recurring adjustments) necessary to fairly state the unaudited condensed consolidated financial statements.
+
+6
+
+
+
+ 
+
+ 
+
+The financial statements of AST LLC and its subsidiaries have been prepared on a consolidated basis with the Company as the Company is the sole managing member of AST LLC and has full discretion to manage and control the business of AST LLC and to take all action it deems necessary to accomplish the purposes of AST LLC. 
+
+ 
+
+The accompanying unaudited condensed consolidated financial statements and related notes should be read in conjunction with the Company’s audited consolidated financial statements and notes thereto as of and for the year ended December 31, 2023, included in its Annual Report on Form 10-K filed with the SEC on April 1, 2024 (the “2023 Annual Report on Form 10-K”). The results of operations for the periods presented are not indicative of the results to be expected for the year ending December 31, 2024 or for any other interim period or other future year.
+
+ 
+
+Use of Estimates
+
+ 
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported in the unaudited condensed consolidated financial statements and accompanying notes. The Company bases its estimates and assumptions on historical experience when available and on other market-specific or other relevant assumptions that it believes to be reasonable under the circumstances. Significant estimates and assumptions reflected in these financial statements include, but are not limited to, useful lives assigned to property and equipment, the fair values of warrant liabilities, potential impairment of long-lived assets, and equity-based compensation expense. The Company assesses estimates on an ongoing basis; however, actual results could materially differ from those estimates due to risks and uncertainties, including the continued uncertainty surrounding rapidly changing market and economic conditions due to geopolitical conflicts and macroeconomic conditions including changes in inflation and interest rates.
+
+ 
+
+The Company’s significant accounting policies are described in Note 2: Summary of Significant Accounting Policies of the 2023 Annual Report on Form 10-K, and there have been no significant changes in these significant accounting policies as compared to those described therein. 
+
+ 
+
+Revenue Recognition
+
+ 
+
+Revenue generated from sales of goods and services is recognized when a customer obtains control of promised goods or services in accordance with ASC 606, Revenue from Contracts with Customers (“ASC 606”). The Company recognizes revenue for services provided over time as the Company’s performance does not result in an asset with an alternative use and the Company is entitled to be compensated for performance completed to date. For performance obligations that do not meet the criteria for over time recognition, the Company recognizes revenue upon transfer of control of the performance obligation to the customer. The Company defers revenue in the event the performance obligations are not satisfied for which compensation has been received. Revenue associated with unsatisfied performance obligations are contract liabilities, and are recorded within accrued expenses and other current liabilities in the unaudited condensed consolidated balance sheets, and are recognized once performance obligations are satisfied. 
+
+ 
+
+To date, the Company has not generated any revenues from its SpaceMobile Service or from the resale of gateway equipment and associated services to mobile network operators and other third parties. During the three months ended March 31, 2024, the Company recognized $0.5 million of revenue from performance obligations completed to date under an agreement with a prime contractor for a U.S. government contract. As of March 31, 2024, $0.8 million of contract liabilities were recorded for unsatisfied performance obligations related to resale of gateway equipment and associated services to the customers.
+
+ 
+
+Recently Adopted Accounting Pronouncements
+
+ 
+
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280), Improvements to Reportable Segment Disclosures, that requires a public entity to disclose significant segment expenses and other segment items on an annual and interim basis and provide in interim periods all disclosures about a reportable segment’s profit or loss and assets that are currently required annually. It requires a public entity to also disclose the title and position of the Chief Operating Decision Maker. A public entity should apply the amendments in this ASU retrospectively to all prior periods presented in the financial statements. The ASU was effective for the Company on January 1, 2024, and interim periods within fiscal years beginning January 1, 2025. The adoption of this ASU did not have a material impact on the Company’s unaudited condensed consolidated financial statements.   
+
+ 
+
+7
+
+
+
+ 
+
+Future Adoption of Recently Issued Accounting Pronouncement
+
+ 
+
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740), Improvements to Income Tax Disclosures. ASU 2023-09 requires a public business entity (PBE) to disclose, on an annual basis, a tabular rate reconciliation using both percentages and currency amounts, broken out into specified categories with certain reconciling items further broken out by nature and jurisdiction to the extent those items exceed a specified threshold. In addition, all entities are required to disclose income taxes paid, net of refunds received disaggregated by federal, state/local, and foreign and by jurisdiction if the amount is at least 5% of total income tax payments, net of refunds received. The ASU is effective for the Company on January 1, 2025. Early adoption is permitted. The Company is currently evaluating the potential impact of adopting this ASU on its consolidated financial statements.
+
+ 
+
+All other new accounting pronouncements issued, but not yet effective or adopted, have been deemed to be not relevant to the Company and, accordingly, are not expected to have a material impact once adopted.
+
+3.Fair Value Measurement
+
+The Company’s financial assets and liabilities measured at fair value on a recurring basis were as follows (in thousands):
+
+                                                                                     As of March 31, 2024                  
+
+                                                                          Level 1          Level 2         Level 3     
+
+Assets:                                                                                                                
+
+Cash equivalents                                                     $         198,891  $            -  $            - 
+
+Total assets measured at fair value                                  $         198,891  $            -  $            - 
+
+                                                                                                                       
+
+Liabilities:                                                                                                           
+
+Public warrant liability                                             $           7,390  $            -  $            - 
+
+Private placement warrant liability                                                  -           4,356               - 
+
+Total liabilities measured at fair value                             $           7,390  $        4,356  $            - 
+
+ 
+
+                                                                                    As of December 31, 2023                
+
+                                                                         Level 1          Level 2         Level 3     
+
+Assets:                                                                                                               
+
+Cash equivalents                                                     $       69,661  $            -  $            - 
+
+Total assets measured at fair value                                  $       69,661  $            -  $            - 
+
+                                                                                                                      
+
+Liabilities:                                                                                                          
+
+Public warrant liability                                             $       18,707  $            -  $            - 
+
+Private placement warrant liability                                               -          11,253               - 
+
+Total liabilities measured at fair value                             $       18,707  $       11,253  $            - 
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the Company had $212.4 million and $88.1 million of cash and cash equivalents and restricted cash, respectively, of which $198.9 million and $69.7 million, respectively, is classified as cash equivalents, which consists principally of short-term money market funds with original maturities of 90 days or less. As of March 31, 2024 and December 31, 2023, restricted cash of $2.5 million represents a deposit into an interest reserve escrow account for the senior secured credit facility, and a deposit against the bank guaranty issued to the landlord for lease of a property. For certain instruments, including cash, accounts payable, and accrued expenses, it was estimated that the carrying amount approximated fair value because of the short maturities of these instruments.
+
+ 
+
+Warrant liabilities are comprised of both publicly issued warrants (“Public Warrants”) and private placement warrants (“Private Placement Warrants”), exercisable for shares of Class A Common Stock. Warrant liabilities are described in detail at Note 6: Warrant Liabilities. As of March 31, 2024 and December 31, 2023, the Public Warrants are classified as Level 1 due to the use of an observable market quote in an active market under the ticker “ASTSW”.
+
+ 
+
+The Private Placement Warrants are valued using a Black-Scholes-Merton Model. As of March 31, 2024 and December 31, 2023, the Private Placement Warrants are classified as Level 2 as the transfer of Private Placement Warrants to anyone outside of a small group of individuals who are permitted transferees would result in the Private Placement Warrants having substantially the same terms as the Public Warrants. For this reason, the Company determined that the volatility of each Private Placement Warrant is equivalent to that of each Public Warrant.
+
+ 
+
+8
+
+
+
+ 
+
+The Company’s Black-Scholes-Merton model to value Private Placement Warrants required the use of the following subjective assumption inputs:
+
+•The risk-free interest rate assumption was initially based on a weighted average of the three and five-year U.S. Treasury rate, which was commensurate with the contractual term of the Warrants, which expire on the earlier of (i) five years after the completion of the initial business combination and (ii) upon redemption or liquidation. As of March 31, 2024, the risk-free rate assumption was based on the two- and three-year U.S. Treasury rates as the estimated time to expire was 2.02 years (compared to an estimated time to expire of 2.26 years as of December 31, 2023). An increase in the risk-free interest rate, in isolation, would result in an increase in the fair value measurement of the warrant liabilities and vice versa.
+
+•The expected volatility assumption was based on the implied volatility of the Company’s publicly-traded warrants, which as of  March 31, 2024 and December 31, 2023 was 103.0% and 80.4%, respectively.
+
+4.Property and Equipment
+
+ 
+
+Property and equipment, net consisted of the following (in thousands): 
+
+ 
+
+                                                                                                        As of              
+
+                                                                                            March 31,      December 31,   
+
+                                                                                               2024            2023       
+
+Land                                                                                       $      1,350  $         1,350 
+
+Buildings                                                                                        14,711           14,555 
+
+Leasehold improvements                                                                            9,088            9,111 
+
+Satellite in orbit                                                                               92,464           92,464 
+
+Lab, assembly, and integration equipment                                                         40,371           31,957 
+
+Satellite antenna                                                                                 7,209            7,188 
+
+Computer hardware and software                                                                   14,233           11,112 
+
+Other                                                                                             1,325            1,230 
+
+Construction in progress                                                                                                  
+
+Satellite materials, satellites under construction, and advance launch payments                 142,996          125,428 
+
+Other                                                                                             2,616            5,256 
+
+Total property and equipment, gross                                                        $    326,363  $       299,651 
+
+Accumulated depreciation and amortization                                                       (81,079)         (61,173)
+
+Total property and equipment, net                                                          $    245,284  $       238,478 
+
+ 
+
+ 
+
+Depreciation expense for the three months ended March 31, 2024 and 2023 was approximately $19.9 million and $1.7 million, respectively.
+
+ 
+
+9
+
+
+
+ 
+
+ 
+
+5.Long-Term Debt
+
+ 
+
+Long-term debt consists of the following (in thousands):
+
+ 
+
+                                                                                         As of                             
+
+                                                                   March 31, 2024               December 31, 2023        
+
+Convertible notes                                             $                 110,000  $                             - 
+
+Senior secured credit facility(1)                                                52,023                           52,023 
+
+Capital equipment loan                                                           15,000                           15,000 
+
+Term loan                                                                         4,696                            4,758 
+
+Total debt                                                    $                 181,719  $                        71,781 
+
+Less: current portion of long-term debt                                            (255)                            (252)
+
+Less: unamortized debt issuance costs(1)                                        (20,637)                         (12,277)
+
+Long-term debt, net of issuance costs                         $                 160,827  $                        59,252 
+
+(1)Includes estimated exit fee of $3.5 million due at maturity.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the aggregate fair value of the Company’s debt was $166.6 million and $68.7 million, respectively. The fair value of debt, excluding convertible notes, have been determined under the discounted cash flow method using significant inputs derived from, or corroborated by, observable market data (Level 2 inputs). The fair value of the convertible notes has been determined based on a lattice-based binomial model using significant inputs derived from, or corroborated by, observable market data (Level 2 inputs). 
+
+ 
+
+Debt issuance costs are comprised of costs incurred in connection with debt issuance and are presented in the consolidated balance sheets as a deduction to the carrying amount of the debt and amortized using the effective interest method to interest expense over the term of the debt. During the three months ended March 31, 2024 and three months ended March 31, 2023, the Company recognized $4.4 million and less than $0.1 million of interest expense related to the debt noted above, respectively. The interest expense included amortization of debt issuance costs of $0.9 million for the three months ended March 31, 2024. Interest expense is included in interest (expense) income, net in the accompanying unaudited condensed consolidated statements of operations.
+
+ 
+
+As of March 31, 2024, the Company was in compliance with all debt covenants requirements.
+
+ 
+
+Convertible Notes
+
+ 
+
+On January 16, 2024, the Company entered into a Convertible Security Investment Agreement (the “Investment Agreement”) with AT&T, Google and Vodafone (the “Investors”). Pursuant to the Investment Agreement, the Investors have agreed to purchase the Company’s subordinated convertible notes for an aggregate principal amount of $110.0 million (such notes, the “Convertible Notes” and such investments, the “Investments”). The Company incurred debt issuance costs of $9.3 million upon closing of the Convertible Notes. As of March 31, 2024, $4.1 million of debt issuance cost remains due and is included in accrued expenses and other current liabilities in the accompanying unaudited condensed consolidated balance sheet.    
+
+ 
+
+The Convertible Notes bear interest at a rate of 5.50% per year, payable semi-annually in arrears on June 30 and December 30 of each year, beginning on June 30, 2024. The Company has the option to pay interest on the Convertible Notes in cash or in kind. If the Company elects to pay interest on the Convertible Notes in kind, the principal amount of the Convertible Notes will be increased by the amount of the interest payment, and interest will accrue on such increased principal amount in subsequent interest periods. The Convertible Notes have a ten-year term unless earlier converted.
+
+ 
+
+The holders of the Convertible Notes (the “Holders”) may convert the Convertible Notes (subject to certain exceptions) at an initial conversion rate of 173.9130 shares of Class A Common Stock per $1,000 principal amount of Convertible Notes (equivalent to an initial conversion price of $5.75 per share of Class A Common Stock). The Holders may convert their Convertible Notes at their option at any time on or after January 16, 2025. The Holders will also have the right to convert the Convertible Notes prior to January 16, 2025 in the event that the Company undergoes a fundamental change (defined to include change of control, certain mergers of the Company with another company, the sale of all or substantially all of the assets of the Company, and liquidation). The conversion rate is also subject to customary anti-dilution adjustments if certain events occur.
+
+ 
+
+On or after January 16, 2025, the Company may require the Holders to convert the Convertible Notes (subject to certain exceptions), at an initial conversion rate of 173.9130 shares of Class A Common Stock per $1,000 principal amount of Convertible Notes 
+
+10
+
+
+
+ 
+
+(equivalent to an initial conversion price of $5.75 per share of Class A Common Stock) at its option, if the VWAP of the Class A Common Stock has been at least 130% of the conversion price then in effect for 30 consecutive trading days, on the immediately succeeding trading day after the last trading day of such 30 day period.
+
+ 
+
+The Convertible Notes may be accelerated upon the occurrence of certain events of default and fundamental change. In the case of an event of default with respect to the Convertible Notes arising from specified events of bankruptcy or insolvency of the Company, 100% of the principal of, and accrued and unpaid interest on, the Convertible Notes will automatically become due and payable. If any other event of default with respect to the Convertible Notes occurs or is continuing (which include customary events of default, including the failure to pay principal or interest when due and the failure to comply with other covenants contained in the Investment Agreement), the Holders of at least 60% in aggregate principal amount of the then outstanding Subordinated Obligations (as defined in the Investment Agreement to include the obligations under the Convertible Notes) may declare the principal amount of the Convertible Notes to be immediately due and payable. In the case of fundamental change as defined in the Investment Agreement prior to the conversion or maturity of the Convertible Notes, the Company is required to repay the Convertible Notes immediately prior to the consummation of such fundamental change in an amount equal to the aggregate principal amount of such Convertible Notes, plus any accrued and unpaid interest thereon. 
+
+ 
+
+Other than as described above, there were no new debt issuances or significant changes related to the above listed debt during the three months ended March 31, 2024.  See Note 8: Debt to the Company’s Consolidated Financial Statements included in its 2023 Annual Report on Form 10-K for additional information regarding the debt listed above.
+
+ 
+
+6.Warrant Liabilities
+
+ 
+
+Warrant liabilities are comprised of both Public Warrants and Private Placement Warrants. Each whole Public Warrant entitles the registered holder to purchase one whole share of Class A Common Stock at a price of $11.50 per share. Pursuant to the warrant agreement, a holder of Public Warrants may exercise its warrants only for a whole number of shares of Class A Common Stock.
+
+ 
+
+This means that only a whole warrant may be exercised at any given time by a warrant holder. The Public Warrants expire on April 6, 2026, five years after the Business Combination, at 5:00 p.m., New York City time, or earlier upon redemption or liquidation. The Company may redeem the Public Warrants under the following conditions:
+
+•In whole and not in part;
+
+•At a price of $0.01 per warrant;
+
+•Upon not less than 30 days’ prior written notice of redemption (the “30-day redemption period”) to each warrant holder; and
+
+•If, and only if, the reported last sale price of the Class A Common Stock equals or exceeds $18.00 per share for any 20 trading days within a 30-trading day period ending three business days before the Company sends the notice of redemption to the warrant holders.
+
+The redemption criteria discussed above prevent a redemption call unless there is at the time of the call a significant premium to the warrant exercise price. If the foregoing conditions are satisfied and the Company issues a notice of redemption of the warrants, each warrant holder will be entitled to exercise its warrant prior to the scheduled redemption date. However, the price of the Class A Common Stock may fall below the $18.00 redemption trigger price (as adjusted for stock splits, stock dividends, reorganizations, recapitalizations and the like) as well as the $11.50 warrant exercise price after the redemption notice is issued.
+
+ 
+
+The Private Placement Warrants are identical to the Public Warrants, except that the Private Placement Warrants are exercisable on a cashless basis and are non-redeemable so long as they are held by the initial purchasers or their permitted transferees. If the Private Placement Warrants are held by someone other than the initial purchasers or their permitted transferees, the Private Placement Warrants will be redeemable by the Company and exercisable by such holders on the same basis as the Public Warrants.
+
+ 
+
+During the three months ended March 31, 2024 and 2023, there were no Public Warrants or Private Placement Warrants exercised. As of March 31, 2024 and December 31, 2023, there were 11,547,600 Public Warrants and 6,050,000 Private Placement Warrants outstanding, respectively.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the Company recorded warrant liabilities of $11.7 million and $30.0 million in the unaudited condensed consolidated balance sheets, respectively. For the three months ended March 31, 2024 and 2023, the Company recognized a gain of $18.2 million and a gain of $7.5 million, respectively, on the change in the fair value of the warrant liabilities in the unaudited condensed consolidated statements of operations.
+
+ 
+
+11
+
+
+
+ 
+
+7.Commitments and Contingencies
+
+ 
+
+Purchase Commitments
+
+ 
+
+As of March 31, 2024, the Company had contractual commitments with third parties of approximately $94.6 million, primarily related to procurement of BB satellite components, R&D programs, capital improvements and future launch payments for Block 2 Bluebird satellite.
+
+ 
+
+Legal Proceedings
+
+ 
+
+The Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business and that have not been fully adjudicated. In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material loss in excess of any recorded accrual, with respect to loss contingencies. However, the outcome of litigation is inherently uncertain. Therefore, although management considers the likelihood of such an outcome to be remote, if one or more of these legal matters were resolved against the Company in a reporting period for amounts in excess of management’s expectations, the Company’s consolidated financial statements for that reporting period could be materially adversely affected.
+
+ 
+
+Delaware Class Action Litigations
+
+ 
+
+Following books and records demands pursuant to 8 Del. C. § 220, two stockholders filed putative class action complaints in the Delaware Court of Chancery against the Company, certain current and former directors of the Company and its predecessor entity and manager, New Providence Acquisition Corp. and New Providence Management LLC, and Abel Avellan, alleging claims of breach of fiduciary duties and aiding and abetting such breaches, relating to the de-SPAC merger. The first of those complaints, Taylor v. Coleman, et al. (C.A. No. 2023-1292), was filed on December 27, 2023, and the second, Drulias v. New Providence Management LLC, et al., was filed on March 29, 2024 (collectively, the “Delaware Stockholder Class Actions”). Both complaints seek equitable relief and unspecified monetary damages. On March 15, 2024, prior to the filing of the Drulias action, Defendants had moved to dismiss the Taylor action. On April 29, 2024, the court entered a stipulation by the parties to both actions to be consolidated under the caption In re AST SpaceMobile, Inc. Stockholders Litigation (C.A. No. 2023-1292), and for the plaintiffs to file a consolidated amended complaint by May 29, 2024. Defendants must respond within 45 days of the filing of the consolidated amended complaint.    
+
+ 
+
+Federal Class Action Litigations
+
+ 
+
+A federal putative class action complaint was filed in the Western District of Texas on April 17, 2024 against the Company, Abel Avellan, and Sean Wallace (Klarkowskiv. AST SpaceMobile, Inc. et al. (No. 7:24-cv-00102)), which asserts claims for violations of the federal securities laws, and generally alleges that the Company and individual defendants made materially false and misleading statements relating to the status and timeline of satellite production in November 2023 - April 2024.
+
+ 
+
+ 
+
+8.Stockholders’ Equity
+
+ 
+
+Class A Common Stock
+
+ 
+
+As of March 31, 2024, there were 138,153,310 shares of Class A Common Stock issued and outstanding. Holders of Class A Common Stock are entitled to one vote for each share. The Company is authorized to issue 800,000,000 shares of Class A Common Stock with a par value of $0.0001 per share.
+
+ 
+
+Class B Common Stock
+
+ 
+
+As of March 31, 2024, there were 39,747,447 shares of Class B Common Stock issued and outstanding. Shares of Class B Common Stock were issued to then existing equity holders of AST LLC (other than Abel Avellan, the Company’s Chairman and Chief Executive Officer (“Mr. Avellan”)) at the time of Business Combination and are noneconomic, but entitle the holder to one vote per share. The Company is authorized to issue 200,000,000 shares of Class B Common Stock with a par value of $0.0001 per share.
+
+ 
+
+The existing equity holders of AST LLC (other than Mr. Avellan) at the time of Business Combination own economic interests in AST LLC which are redeemable into either shares of Class A Common Stock on a one-for-one basis or cash at the option of the Redemption Election Committee. Upon redemption of the AST LLC Common Units by the existing equity holders (other than Mr. Avellan), a corresponding number of shares of Class B Common Stock held by such existing equity holders will be cancelled. 
+
+12
+
+
+
+ 
+
+During the three months ended  March 31, 2024, the existing equity holders redeemed 10,294,310 AST LLC Common Units into Class A Common Stock and subsequently 10,294,310 Class B Common Stock held by such existing equity holders were cancelled. 
+
+ 
+
+Class C Common Stock
+
+ 
+
+As of March 31, 2024, there were 78,163,078 shares of Class C Common Stock issued and outstanding. Shares of Class C Common Stock were issued to Mr. Avellan in connection with the Business Combination and are non-economic, but entitle the holder to the lesser of ten votes per share and the Class C Share Voting Amount, the latter of which is a number of votes per share equal to (1) (x) an amount of votes equal to 88.3% of the total voting power of the outstanding voting stock, minus (y) the total voting power of the outstanding capital stock (other than Class C Common Stock) owned or controlled by Mr. Avellan and his permitted transferees, divided by (2) the number of shares of Class C Common Stock then outstanding (the “Super-Voting Rights”). The Company is authorized to issue 125,000,000 shares of Class C Common Stock with a par value of $0.0001 per share.
+
+ 
+
+Mr. Avellan owns economic interests in AST LLC which are redeemable into either shares of Class A Common Stock on a one-for-one basis or cash at the option of the Redemption Election Committee. Upon redemption of the AST LLC Common Units by Mr. Avellan, a corresponding number of shares of Class C Common Stock held by Mr. Avellan will be cancelled. Correspondingly, the Super-Voting Rights associated with the shares of Class C Common Stock cancelled will be terminated.
+
+ 
+
+Preferred Stock
+
+  
+
+As of March 31, 2024, there were no shares of preferred stock issued or outstanding. The Company is authorized to issue 100,000,000 shares of preferred stock with a par value of $0.0001 per share with such designation, rights and preferences as may be determined from time to time by the Company’s Board of Directors.
+
+ 
+
+Noncontrolling Interest
+
+The noncontrolling interests primarily represent the equity interest in AST LLC held by members other than the Company. Changes in the Company’s ownership interest in AST LLC while retaining control of AST LLC are accounted for as equity transactions. Income or loss is attributed to the noncontrolling interests based on their contractual distribution rights, and the relative percentages of equity interest held by the Company and the other members during the period.
+
+ 
+
+As the sole managing member of AST LLC controlling the operating decisions of AST LLC, the Company consolidates the financial position and results of operations of AST LLC and its subsidiaries. The Company reports equity interests in AST LLC held by members other than the Company as noncontrolling interest in the consolidated balance sheets. The noncontrolling interest is classified as permanent equity within the consolidated balance sheets as the Company may only elect to settle a redemption request in cash if the cash delivered in the exchange is limited to the amount of net proceeds from the issuance and sale of a Class A Common Stock from a new permanent equity offering.  
+
+ 
+
+Each issuance of the Company's Class A Common Stock is accompanied by a corresponding issuance of AST LLC Common Units to the Company, which results in changes in ownership and reduction in noncontrolling interest. As of March 31, 2024, there were 11,547,600 Public Warrants and 6,050,000 Private Placement Warrants outstanding (see Note 6: Warrant Liabilities for further details), each of which entitles the holder to purchase one whole share of Class A Common Stock at a price of $11.50 per share. Each warrant exercise is accompanied by a corresponding issuance of AST LLC Common Units to the Company, which results in a change in ownership and reduces the amount recorded as noncontrolling interest and increases additional paid-in capital.
+
+ 
+
+In addition, the Fifth Amended and Restated Limited Liability Company Operating Agreement of AST LLC permits the noncontrolling interest holders of AST LLC Common Units to exchange AST LLC Common Units, together with related shares of the Class B Common Stock or Class C Common Stock, for shares of the Class A Common Stock on a one-for-one basis or, at the election of the Company, for cash (a “Cash Exchange”). A Cash Exchange is limited to the amount of net proceeds from the issuance and sale of Class A Common Stock. Future redemptions or direct exchanges of AST LLC Common Units by the noncontrolling interest holders will result in a change in ownership and reduce the amount recorded as noncontrolling interest and increase additional paid-in capital. Certain members of AST LLC also hold incentive stock options that are subject to service or performance conditions (see Note 9: Stock-Based Compensation for further details), that are exercisable for AST LLC Common Units. The exercise of the options results in a change in ownership and increases the amount recorded as noncontrolling interest and decreases additional paid-in capital.
+
+ 
+
+As of March 31, 2024 and December 31, 2023, the noncontrolling interest in AST LLC was approximately 46.0% and 58.7%, respectively. The decrease in noncontrolling interest percentage during the three months ended March 31, 2024 was a result of the issuance of Class A Common Stock under the January 2024 Common Stock Offering, redemption of AST LLC Common Units in 
+
+13
+
+
+
+ 
+
+exchange for Class A Common Stock and the vesting of the Company’s restricted stock units, partially offset by exercise of options to AST LLC Common Units.
+
+ 
+
+Common Stock Purchase Agreement 
+
+ 
+
+On May 6, 2022, the Company entered into a Common Stock Purchase Agreement and a Registration Rights Agreement (collectively referred to as the “Common Stock Purchase Agreement”) with B. Riley Principal Capital, LLC (“B. Riley”). Pursuant to the Common Stock Purchase Agreement, the Company has the right, in its sole discretion, to sell to B. Riley up to $75.0 million of shares of the Class A Common Stock at 97% of the volume weighted average price (“VWAP”) of the Class A Common Stock calculated in accordance with the Common Stock Purchase Agreement, over a period of 24 months subject to certain limitations and conditions contained in the Common Stock Purchase Agreement. Sales and timing of any sales of Class A Common Stock are solely at the election of the Company, and the Company is under no obligation to sell any securities to B. Riley under the Common Stock Purchase Agreement. 
+
+ 
+
+Under the Common Stock Purchase Agreement, the Company had issued 1,756,993 shares of its Class A Common Stock as of December 31, 2023, aggregating to net proceeds of $13.4 million. The Company did not issue any shares of its Class A Common Stock under the Common Stock Purchase Agreement during the three months ended March 31, 2024. Proceeds from the sale of the Class A Common Stock under the Common Stock Purchase Agreement were and are expected to continue to be used for general corporate purposes.
+
+ 
+
+Equity Distribution Agreement
+
+ 
+
+On September 8, 2022, the Company entered into an Equity Distribution Agreement (the “Sales Agreement” or “At The Market Equity Program”) with Evercore Group L.L.C. and B. Riley Securities, Inc. (collectively, the “agents”) to sell shares of the Class A Common Stock having an aggregate sale price of up to $150.0 million through an “at the market offering” program under which the agents act as sales agents. The sales of the shares made under the Sales Agreement may be made by any method permitted by law deemed to be an “at the market offering” as defined in Rule 415 promulgated under the Securities Act of 1933, as amended (the “Securities Act”). The agents sell the Class A Common Stock based upon the Company’s instructions (including any price, time or size limits or other customary parameters or conditions the Company may impose). Under the Sales Agreement, the agents are entitled to total compensation at a commission rate of up to 3.0% of the gross sales price per share sold.
+
+ 
+
+Under the Sales Agreement, the Company had issued 4,225,000 shares of its Class A Common Stock as of December 31, 2023, aggregating to proceeds of $27.2 million, net of commissions paid to the agents and transaction costs. The Company did not issue any shares of its Class A Common Stock under the Sales Agreement during the three months ended March 31, 2024. Proceeds from the sale of the Class A Common Stock under the Sales Agreement were and are expected to continue to be used for general corporate purposes.
+
+ 
+
+January 2024 Common Stock Offering
+
+ 
+
+On January 23, 2024, the Company issued 32,258,064 shares of Class A Common Stock in a public offering and received proceeds of $93.6 million, net of underwriting commissions of $6.0 million and transaction costs of $0.4 million. The Company provided a 30-day option to the underwriting agent to purchase up to an additional 4,838,709 shares of Class A common stock (the “Option Shares”) from the Company on the same terms and conditions. On January 25, 2024 the Option Shares were exercised in full. The offering of the Option Shares closed on January 29, 2024 for proceeds of $14.1 million, net of underwriting commissions of $0.9 million. Proceeds from the sale of the Company’s Class A common stock under the January 2024 Common Stock Offering were and are expected to be used for general corporate purposes.
+
+ 
+
+9.Stock-Based Compensation
+
+ 
+
+Stock-Based Compensation Expense
+
+ 
+
+Stock-based compensation, measured at the grant date based on the fair value of the award, is typically recognized ratably over the requisite services period, using the straight-line method of expense attribution. The Company recorded stock-based compensation expense in the following categories of its unaudited condensed consolidated statements of operations(in thousands):
+
+ 
+
+14
+
+
+
+ 
+
+                                                                         For the Three Months Ended                       
+
+                                                                                  March 31,
+
+                                                                 2024                                  2023              
+
+Engineering services                                $                        1,607        $                        1,392 
+
+General and administrative costs                                             3,326                                 1,082 
+
+Total                                               $                        4,933        $                        2,474 
+
+ 
+
+The Company estimates the fair value of the stock option awards to employees, non-employees and non-employee members of the Board of Directors using the Black-Scholes option pricing model, which requires the input of subjective assumptions, including (i) the expected volatility of the Company's stock, (ii) the expected term of the award, (iii) the risk-free interest rate, and (iv) any expected dividends. Due to the lack of company-specific historical and implied volatility data, the Company based the estimate of expected volatility on the estimated and expected volatilities of a representative group of publicly traded companies. For these analyses, the Company selects companies with comparable characteristics including enterprise value, risk profiles, position within the industry, and with historical share price information sufficient to meet the expected life of the stock-based awards. The Company computes the historical volatility data using the daily closing prices for the selected companies’ shares during the equivalent period of the calculated expected term of the stock-based awards. The Company will continue to apply this process until a sufficient amount of historical information regarding the volatility of the Company’s stock price becomes available. For awards that qualify as “plain-vanilla” options, the Company estimates the expected life of the employee stock options using the “simplified” method, whereby, the expected life equals the average of the vesting term and the original contractual term of the option. The expected term of stock options granted to non-employees is equal to the contractual term of the option award. The risk-free interest rate is determined by reference to the U.S. Treasury yield curve in effect at the time of grant of the award for time periods approximately equal to the expected term of the award. Expected dividend yield is based on the fact that the Company has never paid cash dividends and does not expect to pay any cash dividends in the foreseeable future. The Company elects to account for forfeitures as they occur rather than apply an estimated forfeiture rate to stock-based compensation expense.   
+
+ 
+
+The fair value of restricted stock units granted to employees, non-employees, and non-employee members of the Board of Directors is based on the fair value of the Company’s stock on the grant date. The Company elects to account for forfeitures as they occur rather than apply an estimated forfeiture rate to stock-based compensation expense.
+
+ 
+
+AST LLC 2019 Equity Incentive Plan
+
+ 
+
+Prior to the Business Combination, under the 2019 Equity Incentive Plan (“AST LLC Incentive Plan”), AST LLC was authorized to issue ordinary shares, as well as options exercisable for ordinary shares, as incentives to its employees, non-employees, and non-employee members of its Board of Directors. Following the Business Combination, no further grants were made or will be made under the AST LLC Incentive Plan. In connection with the Business Combination, the existing AST LLC options were reclassified into options to acquire AST LLC Incentive Equity Units, and there was no incremental compensation cost and the terms of the outstanding awards, including fair value, vesting conditions and classification, were unchanged. Each AST LLC Incentive Equity Unit is convertible into one AST LLC Common Unit and each AST LLC Common Unit is redeemable for one share of Class A Common Stock on the later of the (i) 24-month anniversary of the consummation of the Business Combination and (ii) six-month anniversary from the vesting date. The AST LLC Incentive Plan continues to govern the terms and conditions of the outstanding awards granted under it, except that in lieu of ordinary shares, holders of options under the AST LLC Incentive Plan have the right to exercise for AST LLC Incentive Units, which may then be converted into AST LLC Common Units, which may further be converted into shares of the Class A Common Stock.    
+
+ 
+
+There were two types of options granted under the AST LLC Incentive Plan: (1) service-based options and (2) performance-based options. Service-based options typically vest over a five year service period with 20% of the award vesting on the first anniversary of the employee’s commencement date, and the balance thereafter in 48 equal monthly installments. Certain service-based options also provide for accelerated vesting if there is a change in control or other performance condition as defined by the AST LLC Incentive Plan Performance-based options typically vest on the earliest date that any of the following occurs: (i) AST LLC effects an initial public offering and becomes a reporting company, (ii) AST LLC experiences a change of control, or (iii) other specified performance conditions. Both service-based and performance-based options typically expire no later than 10 years from the date of grant.
+
+  
+
+As of March 31, 2024, AST LLC was authorized to issue a total of 12,812,959 Incentive Equity Units under a reserve set aside for equity awards. As of March 31, 2024, there were options to acquire 7,433,744 Incentive Equity Units outstanding under the AST LLC Incentive Plan.  
+
+ 
+
+15
+
+
+
+ 
+
+The following table summarizes AST LLC’s option activity for the three months ended March 31, 2024:
+
+ 
+
+                                         Options         Weighted-Average         Weighted-Average Remaining Contractual    
+
+                                                              Exercise                              Term
+
+                                                               Price                              (years)
+
+Outstanding as of December 31, 2023        7,770,421  $                    1.11                                        5.76 
+
+Granted                                            -                          -                                              
+
+Exercised                                   (319,033)                      0.06                                              
+
+Cancelled or forfeited                       (17,644)                      0.60                                              
+
+Outstanding as of March 31, 2024           7,433,744  $                    1.15                                        5.53 
+
+Options exercisable as of March 31,        5,709,500  $                    1.00                                        5.37 
+
+ 2024
+
+Vested and expected to vest as of          6,054,327  $                    1.30                                        5.43 
+
+ March 31,
+
+ 2024
+
+ 
+
+The following table summarizes the Company’s unvested option activity for the three months ended March 31, 2024:
+
+ 
+
+                                              Number of Shares              Weighted-Average Grant Date Fair Value         
+
+Unvested as of December 31, 2023                         1,809,555  $                                                0.80 
+
+Granted                                                          -                                                      - 
+
+Vested                                                     (81,685)                                                  1.98 
+
+Forfeited                                                   (3,626)                                                  0.60 
+
+Unvested as of March 31, 2024                            1,724,244  $                                                0.74 
+
+ 
+
+The fair value of each stock option is estimated on the date of grant using a Black-Scholes option-pricing model. There were no stock options granted during the three months ended March 31, 2024 and 2023.
+
+ 
+
+As of March 31, 2024, total unrecognized compensation expense related to the unvested stock options was $0.9 million, which is expected to be recognized over a weighted average period of 1.30 years.
+
+ 
+
+SpaceMobile 2020 Incentive Award Plan
+
+ 
+
+In connection with the Business Combination, the Company adopted the 2020 Incentive Award Plan (the “2020 Plan”). Awards may be made under the 2020 Plan covering an aggregate number of Class A Common Stock shares equal to 10,800,000. Any shares distributed pursuant to an award may consist, in whole or in part, of authorized and unissued common stock, treasury common stock or common stock purchased on the open market. The 2020 Plan provides for the grant of stock options, restricted stock, dividend equivalents, restricted stock units, incentive unit awards, stock appreciation rights, and other stock or cash-based awards. Each incentive unit issued pursuant to an award, if any, shall count as one share for purposes of calculating the aggregate number of shares available for issuance under the 2020 Plan.     
+
+ 
+
+Two types of equity awards have been granted under the 2020 Plan: (1) service-based options and (2) service-based and performance-based restricted stock units. Service-based options typically vest over a four year service period with 25% of the award vesting on the first anniversary of the employee’s commencement date, and the balance thereafter in 36 equal monthly installments. Service-based restricted stock units typically vest over a four year service period with 25% of the award vesting on each anniversary of the employee’s vesting commencement date. Performance-based restricted stock units typically vest on the earliest date that any of the following occurs: (i) the Company attains an incremental capital investment, or (ii) other specified performance conditions. Options typically expire no later than 10 years from the date of grant.
+
+ 
+
+Stock Options
+
+ 
+
+As of March 31, 2024, there were 3,817,605 service-based options outstanding under the 2020 Plan.
+
+ 
+
+The following table summarizes the Company’s option activity under the 2020 Plan for the three months ended March 31, 2024:
+
+ 
+
+16
+
+
+
+ 
+
+                                        Options         Weighted-Average         Weighted-Average Remaining Contractual   
+
+                                                             Exercise                             Term
+
+                                                              Price                              (years)
+
+Outstanding as of December 31, 2023       3,313,080  $                    9.27                                        8.29 
+
+Granted                                     629,000                       3.14                                             
+
+Exercised                                         -                          -                                             
+
+Cancelled or forfeited                     (124,475)                      8.96                                             
+
+Outstanding as of March 31, 2024          3,817,605  $                    8.28                                        8.35 
+
+Options exercisable as of March 31,       1,734,629  $                    9.62                                        7.73 
+
+ 2024
+
+Vested and expected to vest as of         3,817,605  $                    8.28                                        8.35 
+
+ March 31,
+
+ 2024
+
+ 
+
+The following table summarizes the Company’s unvested option activity for the period ended March 31, 2024:
+
+ 
+
+                                              Number of Shares              Weighted-Average Grant Date Fair Value         
+
+Unvested as of December 31, 2023                         1,729,909  $                                                3.96 
+
+Granted                                                    629,000                                                   1.64 
+
+Vested                                                    (230,076)                                                  3.80 
+
+Forfeited                                                  (45,857)                                                  3.74 
+
+Unvested as of March 31, 2024                            2,082,976  $                                                3.29 
+
+ 
+
+The weighted-average grant-date fair value per share of stock options granted during the three months ended March 31, 2024 under the 2020 Plan was $1.64. There were no stock options granted during the three months ended March 31, 2023 under the 2020 Plan.
+
+ 
+
+As of March 31, 2024, total unrecognized compensation expense related to the unvested stock options was $6.7 million, which is expected to be recognized over a weighted average period of 2.56 years.
+
+ 
+
+Restricted Stock Units
+
+ 
+
+As of March 31, 2024, there were 3,804,815 restricted stock units outstanding under the 2020 Plan.
+
+ 
+
+The following table summarizes the Company’s unvested restricted stock unit activity for the three months ended March 31, 2024:
+
+ 
+
+                                              Number of Shares              Weighted-Average Grant Date Fair Value         
+
+Unvested as of December 31, 2023                         2,879,418  $                                                8.51 
+
+Granted                                                  1,401,900                                                   3.27 
+
+Vested                                                    (386,503)                                                  8.53 
+
+Forfeited                                                  (90,000)                                                  5.08 
+
+Unvested as of March 31, 2024                            3,804,815  $                                                6.66 
+
+ 
+
+As of March 31, 2024, total unrecognized compensation expense related to the unvested restricted stock units was $16.7 million, which is expected to be recognized over a weighted average period of 2.14 years.
+
+ 
+
+SpaceMobile 2020 Employee Stock Purchase Plan
+
+ 
+
+In connection with the Business Combination, the Company adopted the 2020 Employee Stock Purchase Plan (the “ESPP”). The aggregate number of common stock shares that may be issued pursuant to rights granted under the ESPP is 2,000,000 shares. If any right granted under the ESPP shall for any reason terminate without having been exercised, the shares not purchased under such right shall again become available for issuance under the ESPP. As of March 31, 2024, the Company had not issued any awards under this plan.
+
+ 
+
+10.Income Taxes
+
+ 
+
+17
+
+
+
+ 
+
+The Company, organized as a C corporation, owns an equity interest in AST LLC in what is commonly referred to as an “Up-C” structure.  For U.S. federal and state income tax purposes, AST LLC has elected to be treated as a partnership and does not pay any income taxes since its income and losses are included in the returns of the members. The portion of the Company’s taxable income or loss attributable to the noncontrolling interests of AST LLC is taxed directly to such members. Consequently, no provision for income taxes, has been included in the financial statements related to this portion of taxable income. Certain foreign wholly-owned entities are taxed as corporations in the jurisdictions in which they operate, and accruals for such taxes are included in the consolidated financial statements. The Company has operations in India, Scotland, Spain and Israel with tax filings in each foreign jurisdiction.
+
+ 
+
+The consolidated effective tax rate for the three months ended March 31, 2024 and 2023 was (0.74%) and (0.26%), respectively. The difference between the federal statutory tax rate of 21% and the effective tax rate is primarily driven by the Company’s Up-C organizational structure and allocation of AST LLC results to noncontrolling interest holders and the valuation allowance recorded against the Company’s net deferred tax assets.  
+
+ 
+
+The Company recorded a net deferred tax asset for the difference between the book value and tax basis of the Company’s investment in AST LLC at the time of the Business Combination. The Company has assessed the realizability of their deferred tax assets and in that analysis has considered the relevant positive and negative evidence available to determine whether it is more likely than not that some portion or all of the deferred tax assets will be realized. As a result, the Company has recorded a full valuation allowance against its deferred tax asset resulting from the Business Combination. As of March 31, 2024, there is no valuation allowance recorded against the foreign deferred tax assets as it is more likely than not that the foreign deferred tax assets will be fully realized. The foreign deferred tax assets are subject to foreign exchange risk, which could reduce the amount the Company may ultimately realize.
+
+ 
+
+The Company had no uncertain tax positions as of March 31, 2024 and December 31, 2023.
+
+ 
+
+In conjunction with the Business Combination, the Company also entered into the Tax Receivable Agreement (“TRA”) with AST LLC. Pursuant to the TRA, the Company is required to pay TRA holders (as defined in the TRA) (i) 85% of the amount of savings, if any, in U.S. federal, state, local and foreign income tax that the Company actually realizes as a result of (A) existing tax basis of certain assets of AST LLC and its subsidiaries attributable to the AST LLC Common Units, (B) tax basis adjustments resulting from taxable exchanges of AST LLC Common Units acquired by the Company, (C) tax deductions in respect of portions of certain payments made under the TRA, and (D) certain tax attributes that are acquired directly or indirectly by the Company pursuant to a reorganization transaction. All such payments to the TRA holders (as defined in the TRA) are the obligations of the Company, and not those of AST LLC. As of March 31, 2024, there have been no TRA liabilities recorded.
+
+ 
+
+11.Net Loss per Share
+
+ 
+
+Basic and diluted net loss per share attributable to the holders of Class A Common Stock is computed by dividing net loss attributable to common stockholders by the weighted-average number of shares of Class A Common Stock outstanding during the period. 
+
+ 
+
+The following table sets forth reconciliations of the numerators and denominators used to compute basic and diluted net loss per share of Class A Common Stock (in thousands, except share and per share data):
+
+ 
+
+                                                                                         For the Three Months ended         
+
+                                                                                                  March 31,
+
+                                                                                          2024                 2023        
+
+Numerator                                                                                                                  
+
+Net loss before allocation to noncontrolling interest                             $           (39,804) $          (45,216)
+
+Net loss attributable to noncontrolling interest                                              (20,074)            (28,898)
+
+Net loss attributable to common stockholders - basic and diluted                  $           (19,730) $          (16,318)
+
+Denominator                                                                                                                
+
+Weighted-average shares of Class A Common Stock outstanding - basic and diluted           121,447,138          71,845,206 
+
+Net loss per share attributable to holders of Class A Common Stock - basic and    $             (0.16) $            (0.23)
+
+ diluted
+
+ 
+
+As of March 31, 2024, the Company excluded from the calculation of diluted earnings per share 39,747,447 shares of Class B Common Stock, 78,163,078 shares of Class C Common Stock, 11,547,600 Public Warrants, 6,050,000 Private Placement Warrants, 
+
+18
+
+
+
+ 
+
+and 1,020,125 unvested performance-based restricted stock units as their effect would have been to reduce the net loss per share. Therefore, the weighted-average number of shares of Class A Common Stock outstanding used to calculate both basic and diluted net loss per share of Class A Common Stock is the same.
+
+ 
+
+Shares of the Class B Common Stock and Class C Common Stock do not participate in the earnings or losses of the Company and are therefore not participating securities. As such, separate presentation of basic and diluted earnings per share of Class B Common Stock and Class C Common Stock under the two-class method has not been presented.
+
+ 
+
+12.Related Parties
+
+ 
+
+Vodafone 
+
+ 
+
+AST LLC and Vodafone have agreed to enter into one or more definitive agreements for a commercial partnership that is anticipated to use the SpaceMobile Service (the “Vodafone Commercial Agreements”). In connection with the commercial agreement, AST LLC, its subsidiaries, and affiliates have agreed not to enter into any agreement, term sheet, or letter of intent that grants another party the rights related to the provision of mobile services in the Vodafone markets or Vodafone partner markets prior to the execution of the Vodafone Commercial Agreements.
+
+ 
+
+The Vodafone Commercial Agreements are to include mutual exclusivity, conditioned upon Vodafone making the SpaceMobile Service available to all of its customers and certain promotional efforts, within all Vodafone markets for five years commencing on the launch of a commercial service in all of the Vodafone markets; preferential commercial terms in Vodafone partner markets; 50/50 revenue share for the SpaceMobile Service in Vodafone exclusivity markets; and the procurement, building and operating of mobile network ground stations at a mutually agreed cost by Vodafone. No payments have been made to date between AST LLC and Vodafone pursuant to the anticipated Vodafone Commercial Agreements. Vodafone has the right to designate one individual to the Company’s Board of Directors. Currently, Vodafone’s designee is Luke Ibbetson, Head of Group Research & Development, Vodafone. 
+
+ 
+
+AST LLC entered into a side letter with Vodafone dated December 15, 2020, under which AST LLC has agreed (i) not to enter into any material corporate strategic relationship or material commercial agreement with a party other than Vodafone and its affiliates that would be reasonably expected to materially frustrate AST LLC’s ability to satisfy the obligations under the Vodafone Commercial Agreements with certain exceptions; (ii) to allocate sufficient funds in the capital budget to facilitate compliance with the obligations under the Vodafone Commercial Agreements; and (iii) not to alter the business plan in a manner that is materially detrimental to AST LLC’s ability to satisfy the obligations under the Vodafone Commercial Agreements. 
+
+ 
+
+On January 16, 2024, the Company entered into the Investment Agreement with Vodafone, among others. Pursuant to the Investment Agreement, Vodafone agreed to purchase the Company’s Convertible Notes for an aggregate principal amount of $25.0 million. In connection with the Investments, Vodafone Group Services Limited (“Vodafone Group Services”) have entered into letter agreements with AST LLC and the Company (the “Letter Agreements”). The letter agreement between Vodafone Group Services and AST LLC provides, among other things, for an initial revenue commitment of $25.0 million to AST LLC to be paid by Vodafone Group Services over a two and a half year period to be defined in a future definitive agreement for AST LLC to provide connectivity services. Also, Vodafone submitted a purchase order for network equipment from AST LLC to support planned commercial service.
+
+ 
+
+American Tower 
+
+ 
+
+AST LLC and American Tower have entered into a side letter agreement which was subsequently amended and restated on December 15, 2020. The side letter contemplates that AST LLC and American Tower will enter into commercial agreements to use American Tower facilities for the terrestrial gateway facilities in certain markets. The term of the operational agreement with American Tower is for an anticipated five years after the initial launch of commercial mobile services by AST LLC.
+
+ 
+
+On March 22, 2022, AST LLC and American Tower entered into a non-binding term sheet reflecting the terms and conditions for the deployment of AST LLC gateway satellite technology equipment on property owned and operated by American Tower. Under the agreement, American Tower will provide AST LLC leased space and managed services at its current and future tower sites and data centers under the global master lease agreement to be entered into by the parties.
+
+ 
+
+The usage of any American Tower services in a Vodafone market will be memorialized in a commercial agreement among all three parties. In markets where Vodafone does not operate (“Carrier Neutral Markets”), AST LLC and American Tower may enter into an agreement for American Tower to manage the operation of our deployed gateway facility in such market. In Carrier Neutral Markets where the Company requires a third party to provide a gateway facility or services, AST LLC agrees to not accept any bid 
+
+19
+
+
+
+ 
+
+that is inferior to American Tower’s best and final proposal for such gateway facility or services. AST LLC also agrees to use commercially reasonable efforts to utilize American Tower facilities in (i) Vodafone markets where Vodafone decides to not use its facilities, (ii) in Carrier Neutral Markets, and (iii) instances where the Company requires a third-party vendor.     
+
+ 
+
+Additionally, AST LLC will work with American Tower to evaluate and plan gateway facility and radio access network data center deployments with preferred vendor status to offer carrier-neutral hosting facilities in certain equatorial markets. American Tower will serve as the preferred vendor for carrier neutral hosting facilities. AST LLC will pay American Tower a monthly connection fee for use of a carrier neutral hosting facility, which AST LLC expects will be charged back to each applicable Mobile Network Operator (“MNO”). If AST LLC and American Tower agree to construct a new carrier neutral hosting facility or improve an existing one and American Tower elects to fund all such capital expenditures, American Tower will provide AST LLC with a fair-market, long-term lease to such facility. No payments have been made to date between AST LLC and American Tower under the Amended and Restated Letter Agreement. American Tower has the right to designate one individual to the Company’s Board of Directors. Currently, American Tower's designee is Ed Knapp, Chief Technology Officer, American Tower.
+
+ 
+
+Rakuten 
+
+ 
+
+On February 4, 2020, AST LLC entered into a commercial agreement with Rakuten for the development of exclusive network capabilities in Japan compatible with the mobile network of Rakuten and its affiliates, which agreement was amended and restated as of December 15, 2020 (the “Rakuten Agreement”). Under the terms of the Rakuten Agreement, AST LLC agreed to make investments in building network capabilities in Japan that are compatible with the mobile network of Rakuten and its affiliates. Furthermore, AST LLC will collaborate with Rakuten to ensure network capability with Rakuten’s licensed frequencies, including full coverage in Japan with 3GPP Band 3 frequencies with multiple input multiple output (“MIMO”) capability. Upon the launch of such coverage, Rakuten will receive unlimited, exclusive rights and usage capacity in Japan in exchange for a $0.5 million annual maintenance fee payable to AST LLC or our successors. Furthermore, AST LLC will make $5.0 million (or such lesser amount as mutually agreed upon the parties) in capital investments towards the design, assembly, acquisition and implementation of ground communication assets. AST LLC and Rakuten will receive unlimited rights and usage of the ground assets for their respective operations, including, but not limited to, satellite and other telecommunication communications. The term of the Rakuten Agreement shall remain in effect until AST LLC fulfills obligations under the Rakuten Agreement. Rakuten has the right to designate two individuals to the Company’s Board of Directors. Currently, Rakuten has designated Hiroshi Mikitani, Founder, Chairman and Chief Executive Officer, Rakuten, Inc. as a director and has the right to designate another individual.      
+
+ 
+
+The Rakuten Agreement includes key performance indicators (“KPIs”) associated with the number of satellites launched, timing and coverage of the SpaceMobile Service in Japan in a phased manner that AST LLC was obligated to meet by June 2023. In connection with AST LLC’s inability to meet the applicable KPIs stated in the Rakuten Agreement by the deadline, the Company recognized an expense of $10.0 million recorded in Other (expense) income, net in the first quarter of 2023 and paid the amount in the third quarter of 2023.
+
+ 
+
+Invesat and Antares Technologies
+
+ 
+
+On March 4, 2024, the Company and Invesat LLC (“Invesat”), which is part of  the Cisneros Group of Companies, of which Ms. Adriana Cisneros, a member of the Company's Board of Directors, is the Chief Executive Officer, completed a series of transactions (including a Blocker Merger Transaction as defined in the A&R Operating Agreement, the “Antares Transactions”) resulting in the acquisition by Antares Technologies LLC (“Antares”) of 10,445,200 shares of the Company’s Class A Common Stock. As part of the Antares Transactions, Invesat exercised 319,033 AST Incentive Equity Options and 9,932,541 shares of the Company’s Class B Common Stock and 200,000 shares of the Company’s Class A Common Stock previously held by Invesat were cancelled. In addition, the Company received 10,245,200 AST LLC Common Units held by Invesat prior to the Antares Transaction. After giving effect to the Antares Transaction, the separate limited liability company existence of Invesat ceased.    
+
+ 
+
+In connection with the Antares Transactions, the Company has agreed to use commercially reasonable efforts to take steps necessary to allow for the amendment and/or assignment of each of the Stockholders’ Agreement and the Registration Rights Agreement, within seventy-five (75) days after the closings of the Antares Transactions, to add an affiliate of Invesat, Antares, and remove Invesat as a party thereto to allow Antares to benefit from all of the rights previously held by Invesat thereunder. In the event that the Registration Rights Agreement and the Stockholders’ Agreement are not amended and/or assigned with such seventy-five (75)-day period, the Company has agreed to enter into a separate letter agreement with Antares which provides Antares with substantially the same rights as those held by Invesat LLC under each of the Registration Rights Agreement and the Stockholders’ Agreement.
+
+ 
+
+13.Subsequent Events
+
+ 
+
+20
+
+
+
+ 
+
+Subsequent events have been evaluated through the date of the issuance of the financial statements. As of such date, there were no subsequent events identified that required recognition or disclosure other than as described in the footnotes herein. 
+
+21
+
+
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ 
+
+Except as otherwise noted or where the context requires otherwise, references in this report (the “Quarterly Report”) to “we,” “us” or the “Company” refer to AST SpaceMobile, Inc. and references to our “management” or our “management team” refer to our officers and directors. 
+
+ 
+
+The following discussion and analysis of the Company’s financial condition and results of operations should be read in conjunction with our unaudited condensed consolidated financial statements and related notes included in Item 1 of this Quarterly Report on Form 10-Q and with our Annual Report on Form 10-K for the year ended December 31, 2023, including our audited consolidated financial statements and related notes contained therein. Unless otherwise indicated, all references to “dollars” and “$” in this Annual Report are to, and all monetary amounts in this Annual Report are presented in, U.S. dollars.
+
+ 
+
+Cautionary Note Regarding Forward-Looking Statements
+
+ 
+
+This Quarterly Report includes “forward-looking statements” for the purposes of federal securities laws that are not historical facts and involve risks and uncertainties that could cause actual results to differ materially from those expected and projected. All statements, other than statements of historical fact included in this Form 10-Q including, without limitation, statements in this “Management’s Discussion and Analysis of Financial Condition and Results of Operations” regarding the Company’s financial position, business strategy and the plans and objectives of management for future operations, are forward-looking statements. Words such as “expect,” “believe,” “anticipate,” “intend,” “estimate,” “seek” “plan,” “predict,” “potential,” and variations and similar words and expressions are intended to identify such forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking. Such forward-looking statements relate to future events or future performance, but reflect management’s current beliefs, based on information currently available. A number of factors could cause actual events, performance or results to differ materially from the events, performance and results discussed in the forward-looking statements. For information identifying important factors that could cause actual results to differ materially from those anticipated in the forward-looking statements, please refer to Part I, Item 1A. Risk Factors included in our Annual Report on Form 10-K for the year ended December 31, 2023. The Company’s securities filings can be accessed on the EDGAR section of the SEC’s website at www.sec.gov. Except as expressly required by applicable securities law, the Company disclaims any intention or obligation to update or revise any forward-looking statements whether as a result of new information, future events or otherwise.
+
+ 
+
+Overview
+
+ 
+
+We are building the first and only global Cellular Broadband network in space to be accessible directly by everyday smartphones (2G/4G-LTE/5G devices) for commercial use, and other applications for government use utilizing our extensive intellectual property (“IP”) and patent portfolio. Our SpaceMobile Service is being designed to provide cost-effective, high-speed Cellular Broadband services to end-users who are out of terrestrial cellular coverage using existing mobile devices. The SpaceMobile Service currently is planned to be provided by a constellation of high-powered, large phased-array satellites in Low Earth Orbit (“LEO”) using low band and middle band spectrum controlled by Mobile Network Operators (“MNOs”). We are headquartered in Texas where we operate 185,000 square feet satellite assembly, integrating and testing (“AIT”) facilities. Our IP portfolio is diverse, containing numerous and various innovations of the direct-to-cell satellite ecosystem from space to Earth. Our IP portfolio consists of 36 patent families worldwide. As of March 31, 2024, we had more than 3,350 patent and patent pending claims worldwide, of which approximately 1,050 have been officially granted or allowed.
+
+ 
+
+We intend to work with MNOs to offer the SpaceMobile Service to the MNOs’ end-user customers. Our vision is that users will not need to subscribe to the SpaceMobile Service directly through us, nor will they need to purchase any new or additional equipment. Instead, users will be able to access the SpaceMobile Service when prompted on their mobile device that they are no longer within range of the land-based facilities of the MNO operator or will be able to purchase a plan directly with their existing mobile provider. We intend to seek to use a revenue-sharing business model for SpaceMobile Service in our agreements with MNOs.  
+
+ 
+
+The SpaceMobile Service is expected to be highly attractive to MNOs as it will enable them to improve and differentiate their service offering without significant incremental capital investments. The SpaceMobile Service is expected to enable MNOs to augment and extend their coverage without building towers or other land-based infrastructure, including where it is not cost-justified or is difficult due to geographical challenges. As a result of the incremental coverage created by the planned SpaceMobile Service, we believe that MNOs will have the opportunity to increase subscribers’ average revenue per user (“ARPU”).
+
+ 
+
+On April 1, 2019, we launched our first test satellite, BW1, which was used to validate our satellite to cellular architecture and was capable of managing communications delays from LEO and the effects of doppler in a satellite to ground cellular environment using the 4G-LTE protocol. 
+
+22
+
+
+
+ 
+
+ 
+
+We launched our BlueWalker 3 (“BW3”) test satellite on September 10, 2022, and announced the completion of the deployment of the communication phased array antenna of the BW3 test satellite in orbit on November 14, 2022. On April 25, 2023, we announced that we had successfully completed two-way voice calls directly to standard unmodified smartphones using the BW3 test satellite. On June 21, 2023, we announced that we had achieved repeated successful 4G download speeds of above 10 megabits per second (“Mbps”) to standard unmodified smartphones using the BW3 test satellite. On September 19, 2023, we announced that we had achieved repeated successful two-way voice calls directly to standard unmodified smartphones using 5G connectivity and successful download speeds of approximately 14 Mbps utilizing 5 megahertz (“Mhz”) of low band spectrum via the BW3 test satellite. We intend to continue testing capabilities of the BW3 test satellite, including further testing with cellular service providers and devices.
+
+ 
+
+We are leveraging skills, know-how and technological expertise derived from the design and assembly of our BW3 test satellite in the development and assembly of our first generation of commercial BB satellites (“Block 1 BB satellites”). The Block 1 BB satellites are of similar size and weight to the BW3 test satellite, includes our own designed array solar panels and battery systems, and are expected to have ten times higher throughput than the BW3 test satellite. We now have all the parts, including the subsystems from the two suppliers who were previously delayed in meeting their delivery contractual timelines, to complete the assembly, integration, and testing of the five Block 1 BB satellites. We are currently in the advanced stages of assembling and testing the Block 1 BB satellites and estimate to transport the five Block 1 BB satellites from our assembly facilities to the launch site between July and August 2024 with an orbital launch scheduled shortly thereafter. The exact timing of the launch is contingent on a number of factors, including satisfactory and timely completion of assembly, integrating and testing of the satellites, regulatory approvals, confirmation of the launch slot timing by the launch provider, logistics, weather conditions, and other factors, many of which are beyond our control. 
+
+ 
+
+The SpaceMobile Service has not been launched and therefore has not yet generated any revenue. Following the launch and deployment of five Block 1 BB satellites, we currently plan to initiate a limited, noncontinuous SpaceMobile Service in targeted geographical areas, including in the United States, and seek to generate revenue from such service. We are expanding our efforts on ground infrastructure development for commercial readiness and integrating our SpaceMobile service into the MNOs’ infrastructure to enable us to initiate commercial services. Prior to initiating such service, we will need to obtain regulatory approvals in each jurisdiction where we would provide such service and would need to enter into commercial agreements with MNOs relating to the offering of such service in each jurisdiction. Beginning in the first quarter of 2024, we have recognized revenue from completion of performance obligations under an agreement with a prime contractor for the U.S. government and expect to continue to recognize revenue throughout 2024 as and when we complete the remaining performance obligations under the agreement. In 2024, we expect to begin generating revenue from the resale of gateway equipment and associated services to MNOs and other third parties. We believe initiation of limited, noncontinuous SpaceMobile Service as well as completing the milestones under the agreement with a prime contractor for the U.S. government will help to demonstrate the advantages of our satellite-based Cellular Broadband service in the market. These market activities will commence while we continue the development and testing of the next generation of BB satellites. 
+
+ 
+
+Our next generation of commercial BB satellites (“Block 2 BB satellites”) are expected to derive greater performance through the introduction of our own AST5000 Application Specific Integrated Circuit (“ASIC”) chip, which we believe will enable materially greater throughput capacity of up to 40 MHz per beam to support 120 Mbps peak data rates and up to 10,000 MHz of processing bandwidth per Block 2 BB satellite, require less power and offer a lower overall unit cost. We have completed the design and have commenced the tape-out of our ASIC chip in March 2024. The Block 2 BB satellites are expected to be approximately 2,400 square feet in size, almost 3.5 times bigger than the Block 1 BB satellites, and will have the largest phased array ever deployed in a LEO for commercial use exceeding the phased array of the BW3 test satellite and planned Block 1 BB satellites. We believe the larger aperture array is expected to provide greater spectrum reuse, enhanced signal strength and increased capacity, thereby reducing the necessary number of satellites to achieve service coverage as compared to smaller apertures.
+
+ 
+
+We continue to make progress towards the completion of the design and development of our Block 2 BB satellites. We believe we will benefit from the skills, technological expertise, and manufacturing know-how derived from the assembly and testing of our Block 1 BB satellite in the development and assembly of our Block 2 BB satellites. We began the design and development of the Block 2 BB satellites prior to the design and development of Block 1 BB satellites. We have commenced planning and procurement activities to begin the assembly, integration and testing of the Block 2 BB satellites and have entered into agreements and placed orders for procurement of materials required for manufacturing the satellite components, and subsystems required for the assembly of Block 2 BB satellites. We plan to continue to manufacture the satellite components and subsystems for Block 2 BB satellites as soon as the assembly and testing of Block 1 BB satellites are complete. The first Block 2 BB satellite will be based on a FPGA chip. We expect to use the ASIC chip in the subsequent future Block 2 BB satellites, subject to completion of qualification and production of ASIC chips. We have entered into an agreement with a launch service provider to launch the first Block 2 BB satellite. The agreement has a launch window of December 15, 2024 to March 31, 2025. The exact timing of this launch is contingent on a number of factors, including satisfactory and timely completion of the design, assembly and testing of the Block 2 BB satellite, 
+
+23
+
+
+
+ 
+
+regulatory approvals, availability of launch windows by the launch providers, logistics, and other factors, many of which are beyond our control. We have a contractual right under the launch services agreement to reschedule the date of our dedicated launch, subject to the launch vehicle provider’s launch schedule availability.  
+
+ 
+
+We are developing a phased satellite deployment plan and corresponding commercial launch plan of the SpaceMobile Service based on targeted geographical areas to provide the SpaceMobile Service to the most commercially attractive MNO markets. This prioritization of coverage is designed to minimize the capital required to initiate and operate commercial service that generates cash flows from operating activities sooner. We expect that such a successful commercial service would enable us to attract additional capital to continue to assemble and launch additional BB satellites to expand our capacity and geographic coverage area, although there can be no assurance that such capital would be available on terms acceptable to us, or at all.  
+
+ 
+
+We plan to achieve service in the selected, targeted geographical areas with the launch and operation of 25 BB satellites and achieve substantial service in all targeted geographical areas to meet our long term business goals with the launch and operation of approximately 95 BB satellites. We anticipate launching and deploying additional satellites beyond the initial 95 satellites in order to enhance coverage and system capacity in response to incremental market demand. Our current plan is subject to numerous uncertainties, many of which are beyond our control, including satisfactory and timely completion of assembly and testing of the satellites, availability of launch windows by the launch providers, our ability to raise capital, proposed orbits and resulting satellite coverage, launch costs, ability to enter into agreements with MNOs, regulatory approvals, and other factors. We may adopt a strategy for commercial launch of the SpaceMobile Service, including the nature and type of services offered and the geographic areas where we may launch such services, that may differ materially from our current plan.
+
+ 
+
+We are an early stage and emerging growth company and, as such, we are subject to all of the risks associated with early stage and emerging growth companies. Please refer to Risk Factors contained in Part I, “Item 1A. Risk Factors” included in our Annual Report on Form 10-K for the year ended December 31, 2023.
+
+ 
+
+Recent Developments
+
+ 
+
+AT&T Commercial Agreement
+
+ 
+
+On May 10, 2024, pursuant to the terms of the letter agreement dated January 16, 2024 by and among the Company, AST LLC and AT&T Services, Inc. (“AT&T Services”), AST LLC and AT&T Services entered into a space-based wireless connectivity agreement (the “AT&T Commercial Agreement”) for AST LLC to provide, and AT&T Services to purchase access to and utilize our network and satellite services to provide service offerings to AT&T Services’ end users enabled by the satellite services for use within the continental United States (excluding Alaska), Hawaii and Puerto Rico. AT&T Services will pay to AST LLC a percentage of the gross monthly revenue AT&T Services bills to its end users for the services enabled by the satellite services. In addition, AT&T Services will make a non-refundable commercial payment to AST LLC after the launch and successful initial operation of the five Block 1 BB satellites, which will be credited against AST LLC’s future share of gross monthly revenue. The AT&T Commercial Agreement expires on December 31, 2030, subject to auto-renewal for successive two-year periods unless either party terminates in accordance with the terms of the AT&T Commercial Agreement. 
+
+ 
+
+Impact of Global Macroeconomic Conditions and Geopolitical Conflicts
+
+ 
+
+We continue to closely monitor the impact of macroeconomic conditions, including heightened inflation, changes to fiscal and monetary policies, higher interest rates, volatility in the capital markets, supply chain challenges, and geopolitical conflicts on all aspects of our business across geographies, including how it has and may continue to impact our operations, workforce, suppliers, and our ability to raise additional capital to fund operating and capital expenditures.
+
+ 
+
+Changes in the prices of satellite materials due to inflation, supply chain challenges, and other macroeconomic factors may affect our capital costs estimates to build and launch the satellite constellation and adversely affect our financial condition. The extent of impact of these factors on our business will depend on future developments that are highly uncertain and cannot be predicted with confidence at this time. To date, these factors have not had a material impact to our technology development efforts or results of our operations. However, if macroeconomic conditions deteriorate or there are unforeseen developments, our results of operations and financial condition may be adversely affected.
+
+ 
+
+We operate from multiple locations that include our corporate headquarters and 185,000 square feet AIT facilities in Texas where the final AIT is performed, and engineering and development centers elsewhere in the United States, India, Scotland, Spain and Israel. Our operations in Israel constitute approximately 2% of our total assets as of March 31, 2024 and approximately 11% of total operating expenses for the three months ended March 31, 2024. To date, our operations in Israel have not been materially 
+
+24
+
+
+
+ 
+
+impacted by the geopolitical conflict in the Middle East. We currently do not expect potential interruptions to our operations in Israel to have a material impact on the Company.
+
+ 
+
+Factors Affecting Comparability of Our Future Results of Operations to Our Historical Results of Operations
+
+ 
+
+Our historical financial performance has been, and we expect our financial performance in the future to be driven by our ability to execute on our strategy. Our future results of operations could differ materially from the historical results of operations as we expect to complete the assembly and launch the five Block 1 BB satellites, initiate the limited, noncontinuous SpaceMobile Service in certain targeted geographical areas, fulfill our obligations under the contracts for gateway stations and under an agreement with a prime contractor of a U.S. government contract, complete the tape-out of our ASIC chip, set up ground cellular and infrastructure for commercial readiness, complete the design of the Block 2 BB satellites, commence the assembly, integration and testing of the Block 2 BB satellites, and launch the first Block 2 BB satellite. 
+
+ 
+
+Components of Results of Operations
+
+ 
+
+Revenues
+
+ 
+
+To date, we have not generated any revenues from our SpaceMobile Service and do not expect to generate revenue until we launch the SpaceMobile Service. All revenues recognized during the three months ended March 31, 2024 were generated from completion of performance obligations under an agreement with a prime contractor for the U.S. government. We expect to continue to recognize revenue under this agreement throughout 2024 as and when we complete the remaining performance obligations under the agreement. We expect to generate revenue from the resale of gateway equipment and associated services to the MNOs and third parties as and when we complete our performance obligations under the contracts with the customers.  
+
+ 
+
+Engineering Services Costs
+
+ 
+
+Engineering services costs are charged to expense as incurred. Engineering services costs consist primarily of the cost of employees and consultants involved in the design and development of the BB satellites and fulfillment of performance obligations under contracts with the customers, managing the network and satellite operations centers, and indirect costs related to the assembly, integration and testing of the BB satellites, license cost, and general expenses related to AIT facilities and engineering development centers.
+
+ 
+
+General and Administrative Costs
+
+ 
+
+General and administrative costs include the costs of insurance, cost of non-engineering personnel and personnel related expenses, software licensing and subscriptions, office and facilities expenses, investor relations, and professional services, including public relations, accounting and legal fees.
+
+ 
+
+Research and Development Costs
+
+ 
+
+R&D costs are charged to expense as incurred. R&D costs consist principally of development activities in which we typically engage third-party vendors and are largely driven by the achievement of milestones that trigger payments and costs of materials and supplies consumed in the R&D activities. R&D costs are expected to fluctuate quarter over quarter depending on achievement of milestones.  
+
+ 
+
+Depreciation and Amortization
+
+ 
+
+Depreciation and amortization expense includes depreciation expense related to property and equipment including the BW3 test satellite, as well as definite lived intangible assets. We began depreciating the BW3 test satellite as of April 25, 2023 over its expected remaining useful life of approximately 16 months. We expect the BW3 test satellite to be fully depreciated by August 2024.
+
+ 
+
+Gain (Loss) on Remeasurement of Warrant Liabilities
+
+ 
+
+Public Warrants and Private Placement Warrants issued by us are accounted for as liability-classified instruments at their initial fair value on the date of issuance. They are remeasured on each balance sheet date and changes in the estimated fair value are recognized as an unrealized gain or loss in the unaudited condensed consolidated statements of operations.
+
+ 
+
+Interest (Expense) Income, Net
+
+25
+
+
+
+ 
+
+ 
+
+Interest (expense) income, net consists of interest expense and amortization of debt issuance costs associated with our debt arrangements, net of interest earned on cash and cash equivalents held in interest bearing demand deposit accounts.
+
+ 
+
+Other (Expense) Income, Net
+
+ 
+
+Other income (expense), net primarily consists of non-operating expense and income, including foreign exchange gains or losses. 
+
+ 
+
+Income Tax Expense
+
+ 
+
+AST LLC is treated as a partnership for U.S. federal and state income tax purposes. Accordingly, all income, losses, and other tax attributes pass through to the members’ income tax returns, and no U.S. federal and state and local provision for income taxes has been recorded for AST LLC in the unaudited condensed consolidated financial statements. Certain foreign wholly-owned entities are taxed as corporations in the jurisdictions in which they operate, and accruals for such taxes are included in the unaudited condensed consolidated financial statements. 
+
+ 
+
+Noncontrolling Interest
+
+ 
+
+Noncontrolling interest primarily represents the equity interest in AST LLC held by members other than us. As of March 31, 2024, noncontrolling interest in AST LLC was approximately 46.0%. We attribute a portion of net income or loss generated at AST LLC to the noncontrolling interest based on their ownership interests.
+
+ 
+
+Results of Operations
+
+ 
+
+We report our results of operations under one operating segment. The following table sets forth a summary of our unaudited condensed consolidated statements of operations for the three months ended March 31, 2024 and 2023 (in thousands) and the discussion that follows compares the three months ended March 31, 2024 to the three months ended March 31, 2023.
+
+ 
+
+                                                                                          For the Three months ended                   
+
+                                                                                                  March 31,
+
+                                                                                                    (unaudited)
+
+                                                                             2024           2023          $ Change        % Change
+
+Revenues                                                                 $        500  $          -  $         500         100  %
+
+                                                                                                                                    
+
+Operating expenses:                                                                                                                 
+
+Engineering services costs                                                     19,511        16,483          3,028          18   
+
+General and administrative costs                                               12,287         9,857          2,430          25   
+
+Research and development costs                                                  4,257        16,381        (12,124)        (74)  
+
+Depreciation and amortization                                                  19,945         1,733         18,212       1,051   
+
+Total operating expenses                                                       56,000        44,454         11,546          26   
+
+                                                                                                                                    
+
+Other income (expense):                                                                                                             
+
+Gain on remeasurement of warrant liabilities                                   18,214         7,498         10,716         143   
+
+Interest (expense) income, net                                                 (2,222)        2,093         (4,315)       (206)  
+
+Other (expense) income, net                                                        (2)      (10,237)        10,235         100   
+
+Total other income (expense), net                                              15,990          (646)        16,636      (2,575)  
+
+                                                                                                                                    
+
+Loss before income tax expense                                                (39,510)      (45,100)         5,590         (12)  
+
+Income tax expense                                                               (294)         (116)          (178)       (153)  
+
+Net loss before allocation to noncontrolling interest                         (39,804)      (45,216)         5,412         (12)  
+
+                                                                                                                                    
+
+Net loss attributable to noncontrolling interest                              (20,074)      (28,898)         8,824          31   
+
+Net loss attributable to common stockholders                             $    (19,730) $    (16,318) $      (3,412)        (21) %
+
+ 
+
+Revenues 
+
+ 
+
+Revenues for the three months ended March 31, 2024 were attributable to completion of performance obligations under an agreement with a prime contractor for a U.S. government contract, which was entered into in the first quarter of 2024. We had no such agreements in the three months ended March 31, 2023.
+
+ 
+
+26
+
+
+
+ 
+
+Engineering Services Costs
+
+ 
+
+Total engineering services costs increased by $3.0 million, or 18%, to $19.5 million for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023. The increase was primarily attributable to an increase of $2.4 million in AIT facilities and engineering development centers costs including managing mission operations and ground infrastructure, an increase of $0.4 million in travel expenses, and an increase of $0.2 million in payroll and employee related costs.
+
+ 
+
+General and Administrative Costs
+
+ 
+
+Total general and administrative costs increased by $2.4 million, or 25%, to $12.3 million for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023. The increase was primarily driven by an increase in stock-based compensation expense.
+
+ 
+
+Research and Development Costs
+
+ 
+
+Total R&D costs decreased by $12.1 million, or 74% to $4.3 million for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023. The decrease in R&D costs were driven by a decrease in R&D costs related to Block 2 BB satellites as design and development of several sub systems were completed in 2023, completion of design and development for Block 1 BB satellites, and completion of the design phase of ASIC chip.   
+
+ 
+
+Depreciation and Amortization
+
+ 
+
+Total depreciation and amortization expense increased by $18.2 million, or 1051%, to $19.9 million for the three months ended March 31, 2024 as compared to the three months ended March 31, 2023. The increase was primarily due to depreciation of the BW3 test satellite which did not commence until April 25, 2023, the date on which we determined that BW3 had met its intended use.  
+
+ 
+
+Changes in Fair Value of Warrant Liabilities
+
+ 
+
+Decrease in fair value of warrant liabilities resulted in a gain of $18.2 million for the three months ended March 31, 2024 as compared to the gain of $7.5 million for the three months ended March 31, 2023.
+
+ 
+
+Interest (Expense) Income, Net
+
+ 
+
+Total interest (expense) income, net was ($2.2) million for the three months ended March 31, 2024 as compared to $2.1 million for the three months ended March 31, 2023. The increase in interest expense, net by $4.3 million was driven by an increase of $4.4 million in interest expense and amortization of debt issuance costs incurred in connection with our debt arrangements, partially offset by an increase of $0.1 million in interest income earned on cash and cash equivalents held in interest bearing demand deposit accounts. 
+
+ 
+
+Other (Expense) Income, Net
+
+ 
+
+Total other expense, net was less than $0.1 million for the three months ended March 31, 2024, as compared to $10.2 million for the three months ended March 31, 2023. The decrease was primarily due to a nonrecurring $10.0 million payment due to a related party recognized in the first quarter of 2023, and a decrease of $0.2 million of foreign exchange loss.
+
+ 
+
+Income Tax Expense 
+
+ 
+
+The provision for income taxes was $0.3 million and $0.1 million for the three months ended March 31, 2024 and 2023, respectively. The consolidated effective tax rate for the three months ended March 31, 2024 and March 31, 2023 was (0.74)% and (0.26)%, respectively. Refer to Note 10: Income Taxes in the accompanying notes to the unaudited condensed consolidated financial statements for further information.
+
+ 
+
+Net Loss attributable to Noncontrolling Interest
+
+ 
+
+Net loss attributable to noncontrolling interest was $20.1 million for the three months ended March 31, 2024 as compared to $28.9 million in the three months ended March 31, 2023. This decrease in net loss correlates with the decrease in net loss generated at AST LLC given the noncontrolling interest represents a portion of such net loss.
+
+ 
+
+Liquidity and Capital Resources
+
+27
+
+
+
+ 
+
+ 
+
+Our current sources of liquidity are cash and cash equivalents on hand and access to the equity program currently in place, which consists of an ATM Equity Program (as defined herein). As of March 31, 2024, we had $212.4 million of cash and cash equivalents on hand, which included $2.5 million of restricted cash, which reflects proceeds of the issuance of the Convertible Notes and the January 2024 Common Stock Offering. We believe our cash and cash equivalents on hand, together with our ability to raise capital through access to the ATM Equity Program, will be sufficient to meet our current working capital needs, planned operating expenses and capital expenditures for a period of 12 months from the date of this Quarterly Report on Form 10-Q.
+
+ 
+
+The design, assembly, integration, testing and launch of satellites and related ground infrastructure is capital intensive. We currently estimate the capital expenditure, primarily direct materials and launch costs, required for the assembly, integration, testing and launch of the five Block 1 BB satellites to be approximately $115.0 million, and we have paid over 95% of this expenditure as of the date of this Quarterly Report on Form 10-Q.  
+
+ 
+
+We believe we need to launch and operate 25 BB satellites (five Block 1 BB satellites and 20 Block 2 BB satellites) in order to provide coverage to the most commercially attractive MNO markets. In addition to the cash and cash equivalents we had on hand as of March 31, 2024, we currently estimate we will need to raise approximately $350.0 million to $400.0 million to fund operating expenses and capital expenditures necessary to design, assemble and launch 20 Block 2 BB satellites and operate a constellation of 25 BB satellites.  
+
+ 
+
+We evaluate our market, product and coverage plans based upon the attractiveness of certain markets, our technology, regulatory concerns and our access to capital and other resources. We believe we can develop satellite configurations which target delivering service to certain attractive markets without the necessity of building a constellation which covers the entire globe. This modularity of our satellite configuration enables us to alter the timing and size of our satellite roll out and provides us flexibility to dynamically change our market plans and capital requirements. As a result, we believe we have the ability to accelerate or slow down our business plan depending upon the availability of capital to support our strategies.
+
+ 
+
+We plan to raise additional capital through the issuance of equity, equity-linked or debt securities (secured or unsecured), secured or unsecured loans or other debt facilities, and credit from government or financial institutions or commercial partners, including through our existing ATM Equity Program. We also intend to seek to draw the remaining available credit under the Senior Secured Credit Facility. Our ability to access the capital markets during this period of volatility may require us to modify our current expectations. There can be no assurance that additional funds will be available to us on favorable terms or at all. If we cannot raise additional funds when needed in the future, our financial condition, results of operations, business and prospects may be materially and adversely affected. 
+
+ 
+
+Commitments
+
+ 
+
+In January 2024, we entered into the Investment Agreement (as defined herein) to issue subordinated convertible notes in the amount of $110.0 million. The Convertible Notes bear interest at a rate of 5.50% per year, payable semi-annually in arrears beginning on June 30, 2024, in cash or in kind at our option. The Convertible Notes have a ten-year term unless earlier converted into Class A Common Stock at the option of the holder or us in accordance with the terms of the Investment Agreement. During the three months ended March 31, 2024, there were no material changes in the contractual minimum principal and interest payments required on all of our outstanding debt, other than above, and operating leases described in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+
+ 
+
+As of March 31, 2024, we had contractual commitments with third parties in the aggregate amount of $94.6 million related to the procurement of BB satellite components, R&D programs, capital improvements, and future launch payments for Block 2 BB satellite. We expect these commitments will continue to increase as we make progress to assemble, integrate and test Block 2 BB satellites, and enter into launch agreements for the launch of Block 2 BB satellites. 
+
+ 
+
+Common Stock Purchase Agreement 
+
+ 
+
+On May 6, 2022, we entered into the Common Stock Purchase Agreement (the “Common Stock Purchase Agreement” or “Equity Line of Credit”) with B. Riley Principal Capital, LLC (“B. Riley”) to sell, at our sole discretion, to B. Riley up to $75.0 million of shares of our Class A Common Stock at 97% of the volume weighted average price ("VWAP") of the Class A Common Stock calculated in accordance with the Common Stock Purchase Agreement, over a period of 24 months subject to certain limitations and conditions contained in the Common Stock Purchase Agreement. Sales and timing of any sales of Class A Common Stock are solely at our election, and we are under no obligation to sell any securities to B. Riley under the Common Stock Purchase Agreement. Proceeds from the sale of our Class A Common Stock under the Common Stock Purchase Agreement were used for general 
+
+28
+
+
+
+ 
+
+corporate purposes. This agreement will expire on August 1, 2024, unless terminated earlier pursuant to the terms of the Common Stock Purchase Agreement. We do not intend to renew the Common Stock Purchase Agreement thereafter.
+
+ 
+
+Equity Distribution Agreement
+
+ 
+
+On September 8, 2022, we entered into an Equity Distribution Agreement (the “Sales Agreement” or “ATM Equity Program”) with Evercore Group L.L.C. and B. Riley Securities, Inc. (collectively, the “agents”) to sell shares of our Class A Common Stock having an aggregate sales price of up to $150.0 million through an “at the market offering” program under which the agents will act as sales agents. The agents are entitled to total compensation at a commission rate of up to 3.0% of the gross sales price per share sold. We plan to raise capital, as and when needed, under the Sales Agreement at our sole discretion. Proceeds from the sale of our Class A Common Stock under the Sales Agreement were and will continue to be used for general corporate purposes. 
+
+ 
+
+Term Loan
+
+ 
+
+In December 2021, concurrent with the purchase of real property and equipment in Midland, Texas, our wholly-owned subsidiary, AST & Science Texas, LLC (“AST Texas”), entered into a credit agreement with Lone Star State Bank of West Texas (the “Term Loan Credit Agreement”) providing for a $5.0 million term loan secured by the property. Borrowings under the term loan bear interest at a fixed rate equal to 4.20% per annum until December 7, 2026, and from December 8, 2026 until December 8, 2028 at a fixed rate per annum equal to 4.20% plus adjustment if the index rate as defined in the Term Loan Credit Agreement is greater than 4.20%, subject to a maximum interest rate of 4.90% per annum. Refer to Note 5: Long-Term Debt in the accompanying notes to the unaudited condensed consolidated financial statements for further information. 
+
+ 
+
+The Term Loan Credit Agreement contains certain customary events of default, and certain covenants that limit AST Texas’ ability to, among other things, create liens on collateral, consolidate, merge, sell, or otherwise dispose of all or substantially all of their assets; and enter into certain transactions with their affiliates. If AST Texas fails to perform its obligations under these and other covenants, or should any event of default occur, the term loan may be terminated and any outstanding borrowings, together with unpaid accrued interest, could be declared immediately due and payable, and the lender will be authorized to take possession of the collateral. 
+
+ 
+
+Senior Secured Credit Facility
+
+ 
+
+On August 14, 2023, we entered into a senior secured term loan credit agreement with ACP Post Oak Credit II LLC as administrative agent and collateral agent and Atlas Credit Partners, LLC (“Atlas”) as lender, providing for a principal loan commitment of up to $100.0 million (the “Atlas Credit Agreement”), of which $48.5 million was borrowed upon closing. In addition, a two-year collateral protection insurance policy was issued to the lenders and a cash premium based on a single digit percentage of the amount drawn was paid to the insurance provider thereunder (the “Cash Premium”). An additional amount of $51.5 million may be borrowed only to the extent we raise additional capital through equity raises and receive additional insurance coverage such that we have insurance coverage equal to at least the amount of borrowings under the credit facility. 
+
+ 
+
+The initial borrowings of $48.5 million accrue interest at a fixed rate equal to three-month secured overnight financing rate (“SOFR”) as of the closing date plus 9.625% per annum equal to 14.75% (the “Atlas Fixed Rate”), payable on the last business day of each fiscal quarter. The borrowing amounts are payable at maturity on August 14, 2026 and are subject to mandatory prepayments upon the occurrence of certain specified events.
+
+ 
+
+Borrowings are secured by substantially all of our assets other than the assets of certain excluded subsidiaries. The Atlas Credit Agreement contains customary affirmative and negative covenants, requires us to maintain certain levels of liquidity, limits our ability to incur additional indebtedness, make restricted payments (including cash dividends on common stock), and sell or otherwise dispose of our assets, among other restrictions.
+
+ 
+
+Upon closing, we received net proceeds of $37.2 million, net of debt issuance costs of $9.5 million and deposit of $1.8 million into an interest reserve escrow account. Debt issuance costs of $9.5 million consist of agent fees, offering expenses, and two years of cash premium coverage. The net proceeds were and are expected to continue to be used for general corporate purposes as permitted under the Atlas Credit Agreement.
+
+ 
+
+Capital Equipment Loan 
+
+ 
+
+On August 14, 2023, we entered into a loan agreement with Lone Star State Bank of West Texas (“Lone Star”) as lender, providing for $15.0 million principal term loan commitment secured by certain real property fixtures and equipment in one of our Texas facilities (the “Lone Star Loan Agreement”).
+
+29
+
+
+
+ 
+
+ 
+
+Borrowings accrue interest at the Prime Rate plus 0.75%, subject to a ceiling rate. Interest payments are due and payable on a monthly basis. Interest payments began in September 2023 and principal payments will begin in April 2025. Principal repayments are thereafter due in 48 equal monthly installments until January 2029, the maturity date of the loan. In connection with the Lone Star Loan Agreement, we deposited a cash balance of $15.0 million in the Lone Star Bank Money Market Fund. This cash balance will be converted to restricted cash if we fail to maintain a consolidated balance of cash and cash equivalents of at least $75.0 million. This restricted cash will be used to offset against the term loan obligations if we fail to maintain a consolidated balance of cash and cash equivalents of at least $50.0 million. In addition, the Lone Star Loan Agreement includes certain customary affirmative and negative covenants.
+
+ 
+
+We drew the entire $15.0 million facility on September 19, 2023 and incurred $0.1 million of transaction costs. The net proceeds were and are expected to continue to be used for general corporate purposes.
+
+ 
+
+Convertible Security Investment Agreement
+
+ 
+
+On January 16, 2024, we entered into a Convertible Security Investment Agreement (the “Investment Agreement”) with AT&T Venture Investments, LLC (“AT&T”), Google LLC (“Google”) and Vodafone Ventures Limited (“Vodafone”, and together, the “Investors”) to issue subordinated convertible notes for an aggregate principal amount of $110.0 million (such notes, the “Convertible Notes” and such investments, the “Investments”) to the Investors. The Convertible Notes bear interest at a rate of 5.50% per year, payable semi-annually in arrears beginning on June 30, 2024, in cash or in kind at our option. We intend to elect to pay the contractual interest amount in kind. The Convertible Notes have a ten-year term unless earlier converted. The net proceeds are expected to be used for general corporate purposes.
+
+ 
+
+The holders of the Convertible Notes (the “Holders”) may at their option convert the Convertible Notes (subject to certain exceptions) at any time on or after January 16, 2025 at an initial conversion rate of 173.9130 shares of Class A Common Stock per $1,000 principal amount of Convertible Notes (equivalent to an initial conversion price of $5.75 per share of Class A Common Stock). On or after January 16, 2025, we also have an option to require the Holders to convert the Convertible Notes (subject to certain exceptions) at the same initial conversion rate of 173.9130 shares of Class A Common Stock per $1,000 principal amount of Convertible Notes if the VWAP of the Class A Common Stock has been at least 130% of the conversion price then in effect for 30 consecutive trading days, on the immediately succeeding trading day after the last trading day of such 30 day period. The Convertible Notes may be accelerated upon the occurrence of certain events of default and fundamental change.
+
+ 
+
+January 2024 Common Stock Offering
+
+ 
+
+On January 23, 2024, we issued 32,258,064 shares of Class A Common Stock in a public offering and received proceeds of $93.6 million, net of underwriting commissions of $6.0 million and transaction costs of $0.4 million. We provided a 30-day option to the underwriting agent to purchase up to an additional 4,838,709 shares of Class A Common Stock (the “Option Shares”) from us on the same terms and conditions. On January 25, 2024, the Option Shares were exercised in full. The offering of the Option Shares closed on January 29, 2024 for proceeds of $14.1 million, net of underwriting commissions of $0.9 million. Proceeds from the sale of our Class A common stock under the January 2024 Common Stock Offering were and are expected to be used for general corporate purposes.
+
+ 
+
+Cash Flows
+
+ 
+
+Historical Cash Flows
+
+ 
+
+The following table summarizes our sources and uses of cash for the three months ended March 31, 2024 and 2023 (in thousands) (unaudited):
+
+ 
+
+                                                                              For the Three Months ended                    
+
+                                                                                       March 31,
+
+                                                                                      (unaudited)                           
+
+                                                                        2024                             2023             
+
+Cash, cash equivalents and restricted cash                  $                   212,440     $                   185,696 
+
+Cash used in operating activities                                               (48,122)                        (37,733)
+
+Cash used in investing activities                                               (39,568)                        (15,388)
+
+Cash provided by financing activities                                           212,180                              36 
+
+ 
+
+Operating activities
+
+30
+
+
+
+ 
+
+ 
+
+Cash used in operating activities was $48.1 million for the three months ended March 31, 2024 as compared to cash used in operating activities of $37.7 million for the three months ended March 31, 2023. The $10.4 million increase in cash used in operating activities was attributable to an increase of $26.7 million in working capital offset by an decrease of $16.3 million in expenses to support operations during the three months ended March 31, 2024.
+
+ 
+
+Investing activities
+
+ 
+
+Cash used in investing activities was $39.6 million for the three months ended March 31, 2024, as compared to cash used in investing activities of $15.4 million for the three months ended March 31, 2023. The $24.2 million increase in cash used in investing activities was attributable to an increase in purchases of property and equipment, including procurement of BB satellite materials.
+
+ 
+
+Financing activities
+
+ 
+
+Cash provided by financing activities was $212.2 million and less than $0.1 million during the three months ended March 31, 2024 and 2023, respectively. Cash provided by financing activities for the three months ended March 31, 2024 was primarily related to the $104.8 million in net proceeds from the issuance of Convertible Notes and $107.7 million in net proceeds from the sale of Class A Common Stock under the January 2024 Common Stock Offering.
+
+ 
+
+Impact of inflation
+
+  
+
+While inflation may impact our capital and operating expenditures, we believe the effects of inflation, if any, on our results of operations and financial condition have not been significant. However, there can be no assurance that our results of operations and financial condition will not be materially impacted by inflation in the future, including by heightened levels of inflation experienced globally as a consequence of the rapidly changing market and economic conditions.
+
+ 
+
+Funding Requirements
+
+ 
+
+We believe our existing cash and cash equivalents on hand and access to the ATM Equity Program will be sufficient to meet anticipated cash requirements for the next 12 months from the date hereof. However, our forecast of the period of time through which our financial resources will be adequate to support operations is a forward-looking statement that involves risks and uncertainties, and actual results could vary materially. We have based this estimate on assumptions that may prove to be wrong, and we could expend capital resources sooner than we expect.
+
+ 
+
+Future capital requirements will depend on many factors, including:
+
+•Establishing and maintaining supply and manufacturing relationships with third parties that can provide adequate, in both amount and quality, products and services to support our satellite development;
+
+•Technological or manufacturing difficulties, design issues or other unforeseen matters;
+
+•Negotiation of launch agreements (including launch costs), launch delays or failures, deployment failures or in-orbit satellite failures;
+
+•Seeking and obtaining necessary regulatory approvals;
+
+•Timing of the launch of our satellites and subsequent initiation of service in various markets, delays in which will result in increased operating expenses;
+
+•Addressing any competing technological and market developments;
+
+•Ability to adjust our expenditures and contractual commitments based on capital availability;
+
+•Ability to operate under the covenants in our debt agreements; and
+
+•Attracting, hiring, and retaining qualified personnel.
+
+Until such time, if ever, as we can generate substantial revenues to support our cost structure, we expect to finance cash needs through a combination of equity offerings, debt financings, commercial and other similar arrangements. To the extent that we raise additional capital through the sale of equity or convertible debt securities, the ownership interest of stockholders will be, or could be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of common stockholders. Debt financing and equity financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends. 
+
+31
+
+
+
+ 
+
+If we raise funds through commercial agreements, or other similar arrangements with third parties, we may have to relinquish valuable rights to our technologies and/or future revenue streams, or grant licenses on terms that may not be favorable to us and/or may reduce the value of our common stock. Also, our ability to raise necessary financing could be impacted by recent geopolitical events, higher interest rates and inflationary economic conditions and their effects on the market conditions. If we are unable to raise additional funds through equity offerings, or debt financings or commercial arrangements when needed, we may be required to delay, limit, reduce or terminate our commercialization efforts or grant rights to develop and market other services even if we would otherwise prefer to develop and market these services ourselves or potentially discontinue operations.
+
+ 
+
+Critical Accounting Policies
+
+ 
+
+Our unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (U.S. GAAP). Preparation of the financial statements requires our management to make judgments, estimates and assumptions that impact the reported amount of revenue and expenses, assets and liabilities and the disclosure of contingent assets and liabilities. We consider an accounting judgment, estimate or assumption to be critical when (1) the estimate or assumption is complex in nature or requires a high degree of judgment and (2) the use of different judgments, estimates and assumptions could have a material impact on our unaudited condensed consolidated financial statements. For a discussion of our critical accounting policies, see “Critical Accounting Policies” in Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2023.
+
+ 
+
+Off-Balance Sheet Arrangements
+
+ 
+
+We did not have any off-balance sheet arrangements as of March 31, 2024. 
+
+32
+
+
+
+ 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+ 
+
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information otherwise required under this item.
+
+ 
+
+Item 4. Controls and Procedures
+
+ 
+
+Evaluation of Disclosure Controls and Procedures
+
+ 
+
+Our disclosure controls and procedures are designed to ensure that information required to be disclosed in the reports that we file or submit under the Securities Exchange Act of 1934 as amended (the “Exchange Act”) is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rule 13a–15(e) and 15d-15(e)) as of March 31, 2024. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Company’s disclosure controls and procedures were effective as of March 31, 2024.
+
+ 
+
+Changes in Internal Control over Financial Reporting
+
+ 
+
+There have not been any changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the fiscal quarter to which this report relates that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+33
+
+
+
+ 
+
+PART II - OTHER INFORMATION
+
+ 
+
+Item 1. Legal Proceedings.
+
+ 
+
+We are subject to various legal proceedings and claims that have arisen in the ordinary course of business and that have not been fully adjudicated. In the opinion of management, there was not at least a reasonable possibility we may have incurred a material loss, or a material loss in excess of any recorded accrual, with respect to loss contingencies. However, the outcome of litigation is inherently uncertain. Therefore, although management considers the likelihood of such an outcome to be remote, if one or more of these legal matters were resolved against us in a reporting period for amounts in excess of management’s expectations, our consolidated financial statements for that reporting period could be materially adversely affected. Refer to Note 7: Commitments and Contingencies in the accompanying notes to the unaudited condensed consolidated financial statements for further information.
+
+ 
+
+Delaware Class Action Litigations
+
+ 
+
+Following books and records demands pursuant to 8 Del. C. § 220, two stockholders filed putative class action complaints in the Delaware Court of Chancery against the Company, certain current and former directors of the Company and its predecessor entity and manager, New Providence Acquisition Corp. and New Providence Management LLC, and Abel Avellan, alleging claims of breach of fiduciary duties and aiding and abetting such breaches, relating to the de-SPAC merger. The first of those complaints, Taylor v. Coleman, et al. (C.A. No. 2023-1292), was filed on December 27, 2023, and the second, Drulias v. New Providence Management LLC, et al., was filed on March 29, 2024 (collectively, the “Delaware Stockholder Class Actions”).  Both complaints seek equitable relief and unspecified monetary damages. On March 15, 2024, prior to the filing of the Drulias action, Defendants had moved to dismiss the Taylor action. On April 29, 2024, the court entered a stipulation by the parties to both actions to be consolidated under the caption In re AST SpaceMobile, Inc. Stockholders Litigation (C.A. No. 2023-1292), and for the plaintiffs to file a consolidated amended complaint by May 29, 2024. Defendants must respond within 45 days of the filing of the consolidated amended complaint.    
+
+ 
+
+Federal Class Action Litigations
+
+ 
+
+A federal putative class action complaint was filed in the Western District of Texas on April 17, 2024 against the Company, Abel Avellan, and Sean Wallace (Klarkowskiv. AST SpaceMobile, Inc. et al. (No. 7:24-cv-00102)), which asserts claims for violations of the federal securities laws, and generally alleges that the Company and individual defendants made materially false and misleading statements relating to the status and timeline of satellite production in November 2023 - April 2024.
+
+ 
+
+Item 1A. Risk Factors.
+
+ 
+
+As of March 31, 2024, there have been no material changes from the risk factors previously disclosed in the section entitled “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2023 filed with the SEC on April 1, 2024.
+
+  
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+ 
+
+On January 16, 2024, we entered into the Investment Agreement with AT&T, Google and Vodafone to issue the Convertible Notes for an aggregate principal amount of $110.0 million to the Investors. The Convertible Notes bear interest at a rate of 5.50% per year, payable semi-annually in arrears beginning on June 30, 2024, in cash or in kind at our option. We intend to elect to pay the contractual interest amount in kind. The Convertible Notes have a ten-year term unless earlier converted. The net proceeds are expected to be used for general corporate purposes.
+
+ 
+
+The holders of the Convertible Notes (the “Holders”) may at their option convert the Convertible Notes (subject to certain exceptions) at any time on or after January 16, 2025 at an initial conversion rate of 173.9130 shares of Class A Common Stock per $1,000 principal amount of Convertible Notes (equivalent to an initial conversion price of $5.75 per share of Class A Common Stock). On or after January 16, 2025, we also have an option to require the Holders to convert the Convertible Notes (subject to certain exceptions) at the same initial conversion rate of 173.9130 shares of Class A Common Stock per $1,000 principal amount of Convertible Notes if the VWAP of the Class A Common Stock has been at least 130% of the conversion price then in effect for 30 consecutive trading days, on the immediately succeeding trading day after the last trading day of such 30 day period. The Convertible Notes may be accelerated upon the occurrence of certain events of default and fundamental change.
+
+ 
+
+The Convertible Notes were issued pursuant to the exemption from registration contained in Section 4(a)(2) of the Securities Act.
+
+ 
+
+Item 3. Defaults Upon Senior Securities.
+
+ 
+
+34
+
+
+
+ 
+
+None.
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+ 
+
+Not Applicable.
+
+ 
+
+Item 5. Other Information.
+
+ 
+
+In the quarter ended March 31, 2024, none of our directors or officers (as defined in Rule 16a-1(f) of the Exchange Act) adopted or terminated a plan for the purchase or sale of our securities intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or a non-Rule 10b5-1 trading arrangement for the purchase or sale of our securities, within the meaning of Item 408 of Regulation S-K. 
+
+35
+
+
+
+ 
+
+Item 6. Exhibits
+
+ 
+
+The following exhibits are filed as part of, or incorporated by reference into, this Quarterly Report on Form 10-Q.
+
+ 
+
+    10.1†    Employment Agreement, dated as of May 1, 2024, by and between AST SpaceMobile, Inc., AST & Science, LLC and Andrew M.
+
+              Johnson (incorporated by reference to Exhibit 10.1 to the registrant’s Current Report on Form 8-K filed with the SEC on
+
+              May 6,
+
+              2024).
+
+    10.2     Convertible Security Investment Agreement, dated as of January 16, 2024, by and among AST SpaceMobile, Inc. and the
+
+              parties named therein (Incorporated by reference to Exhibit 10.1 to the Company’s Form 8-K filed with the SEC on January
+
+              18,
+
+              2024).
+
+    10.3     Form of Investor and Registration Rights Agreement (Incorporated by reference to Exhibit 10.2 to the Company’s Form 8-K
+
+              filed with the SEC on January 18,
+
+              2024).
+
+    31.1*    Certification of Principal Executive Officer Pursuant to Securities Exchange Act Rules 13a-14(a), as adopted Pursuant to
+
+              Section 302 of the Sarbanes-Oxley Act of
+
+              2002
+
+    31.2*    Certification of Chief Financial Officer Pursuant to Securities Exchange Act Rules 13a-14(a), as adopted Pursuant to
+
+              Section 302 of the Sarbanes-Oxley Act of
+
+              2002
+
+    32.1*    Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of
+
+              the Sarbanes-Oxley Act of
+
+              2002
+
+    32.2*    Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the
+
+              Sarbanes-Oxley Act of
+
+              2002
+
+   101.INS   XBRL Instance Document
+
+   101.CAL   XBRL Taxonomy Extension Calculation Linkbase Document
+
+   101.SCH   XBRL Taxonomy Extension Schema Document
+
+   101.DEF   XBRL Taxonomy Extension Definition Linkbase Document
+
+   101.LAB   XBRL Taxonomy Extension Labels Linkbase Document
+
+   101.PRE   XBRL Taxonomy Extension Presentation Linkbase Document
+
+     104     Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+† Management contract or compensatory plan or arrangement 
+
+* Filed herewith
+
+36
+
+
+
+ 
+
+SIGNATURES
+
+ 
+
+In accordance with the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+                                         AST SPACEMOBILE, INC.
+
+                                                         
+
+ Date: May 15, 2024                      By:            /s/ Abel Avellan 
+
+                                         Name:          Abel Avellan
+
+                                         Title:         Chairman and Chief Executive Officer
+
+                                                        Principal Executive Officer 
+
+                                                         
+
+ Date: May 15, 2024                      By:            /s/ Sean R. Wallace 
+
+                                         Name:          Sean R. Wallace
+
+                                         Title:         Chief Financial Officer
+
+                                                        Principal Financial Officer
+
+ 
+
+ 
+
+37
