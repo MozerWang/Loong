@@ -7,9 +7,18 @@ if __name__ == '__main__':
 
     print("------------------ All metrics: ------------------")
     cal_metric(args, tag="eval_response")
+    print("")
 
-    for set in [1,2,3,4]:
+    print(f"------------------ Level metrics: ------------------")
+    for level in [1, 2, 3, 4]:
+        print(f"------------------ Level {level} metrics: ------------------")
+        cal_metric(args, tag="eval_response", level=level)
+    print("")
+
+    print(f"------------------ Set metrics: ------------------")
+    for set in [1, 2, 3, 4]:
         print(f"------------------ Set {set} metrics ------------------")
-        for level in [1,2,3,4]:
+        for level in [1, 2, 3, 4]:
             cal_metric(args, tag="eval_response", set=set, level=level)
+        cal_metric(args, tag="eval_response", set=set, level=None)
         print("")

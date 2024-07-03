@@ -3,15 +3,12 @@ import numpy as np
 
 
 def extract_number(text):
-    # 使用正则表达式搜索字符串中的数字
     match = re.search(r'\[\[([0-9]*\.?[0-9]+)\]\]', text)
-    # 如果搜到了数字，返回它
     if match:
         return float(match.group(1))
     match = re.search(r'\[([0-9]*\.?[0-9]+)\]', text)
     if match:
         return float(match.group(1))
-    # 如果没有找到数字，返回None
     return None
 
 
@@ -57,5 +54,5 @@ def cal_metric(args, tag, level=None, set=None):
     num_full_marks = sum(1 for x in scores if x == 100)
     metric = (len(effective_samples) / len(lines), np.mean(scores), f"{num_full_marks}/{len(effective_samples)}", num_full_marks / len(effective_samples))
 
-    print(f"level: {level}, set: {set}, 打分成功率:{metric[0]:.2f}, 平均打分:{metric[1]:.2f}, 准确率计算:{metric[2]}, 准确率:{metric[3]:.2f}")
+    print(f"level: {level}, set: {set}, scoring_success_rate:{metric[0]:.2f}, avg_score:{metric[1]:.2f}, perfect_rate_calculation:{metric[2]}, perfect_rate:{metric[3]:.2f}")
     return metric

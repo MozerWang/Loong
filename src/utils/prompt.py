@@ -5,10 +5,20 @@ import uuid
 from pathlib import Path
 import glob
 from .token_length import token_length
-import sys
+import io
+
+
+file_handle_cache = {}
+
+def close_cached_files():
+    for file, handle in file_handle_cache.items():
+        if isinstance(handle, io.IOBase):
+            handle.close()
+    file_handle_cache.clear()
 
 
 def get_content(args, item, doc_name, idx):
+    global file_handle_cache
     doc_type, doc_level = item['type'], item['level']
     docPath = Path(args.doc_path) / doc_type
 
@@ -35,8 +45,15 @@ def get_content(args, item, doc_name, idx):
             print(f"Error: File {path} could not be opened.")
 
     elif doc_type == 'legal':
-        with open(docPath / "legal.json", 'r') as txt_file:
-            legal_js = json.load(txt_file)
+        _file = docPath / "legal.json"
+        if _file in file_handle_cache:
+            legal_js = file_handle_cache[_file]
+            # txt_file.seek(0)
+        else:
+            with open(_file, 'r') as txt_file:
+                legal_js = json.load(txt_file)
+                file_handle_cache[_file] = legal_js
+
         if doc_level == 4 and ('阅读以上判决文书，我将给你若干份判决结果：' in item['instruction']):
             content = legal_js[doc_name]["content"]
         else:
@@ -94,6 +111,7 @@ def get_generate_prompt(args, item):
         prompt_template = prompt_template.replace(k, v)
     doc_str = get_doc_str(args, item, prompt_template)
     prompt_template = prompt_template.replace("{docs}", doc_str)
+    item['docs'] = doc_str
     item['prompt'] = prompt_template
     return item
 
@@ -112,7 +130,7 @@ def get_generate_prompts(args):
             random.shuffle(lines)
             lines = lines[int(len(prompts) * args.ratio):]
 
-        for line in tqdm(lines):
+        for line in tqdm(lines, desc="gen_prompts"):
             item = json.loads(line)
             doc_type, set_level, level = item['type'], item['set'], item['level']
             # filter
@@ -134,7 +152,7 @@ def get_generate_prompts(args):
 
             prompt = get_generate_prompt(args, item)
             prompts.append(prompt)
-
+    close_cached_files()
     return prompts
 
 
@@ -171,6 +189,7 @@ Now, start your evaluation:'''
     lines = open(args.output_path).readlines()
     for line in lines:
         line = json.loads(line.strip())
+        line.pop('docs', '')
         doc_type, question, instruction = line['type'], line['question'], line['instruction']
         prompt_template = line['prompt_template']
         if doc_type != "paper":
