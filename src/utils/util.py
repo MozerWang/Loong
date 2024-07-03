@@ -1,4 +1,5 @@
 import os
+import json
 
 
 def count_lines(file_path):
@@ -10,3 +11,23 @@ def create_path(file_path):
     directory = os.path.dirname(file_path)
     if not os.path.exists(directory):
         os.makedirs(directory)
+
+
+def continue_gen(input_path, gen_data, tag):
+    seen_id = dict()
+    with open(input_path, 'r') as f:
+        for item in f.readlines():
+            js = json.loads(item.strip())
+            if js[tag]:
+                seen_id[js['id']] = js
+    rewrite_data, continue_generate_data = [], []
+    for item in gen_data:
+        if item['id'] not in seen_id:
+            continue_generate_data.append(item)
+        else:
+            rewrite_data.append(seen_id[item['id']])
+    with open(input_path, 'w') as f:
+        for item in rewrite_data:
+            f.write(json.dumps(item, ensure_ascii=False) + '\n')
+    print(f"continue_gen: input_path={input_path}, rewrite_data_num={len(rewrite_data)}, tag={tag}")
+    return continue_generate_data

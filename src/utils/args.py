@@ -11,7 +11,8 @@ def parse_arguments():
     parser.add_argument('--shuffle_prompts', action="store_true")
     parser.add_argument('--debug_level', type=str, default="1,2,3,4", help="Represents the level to be evaluated, eg: 1,2 or 3")
     parser.add_argument('--debug_set', type=str, default="1,2,3,4", help="Represents the set level to be evaluated, eg: 1,2 or 3")
-    parser.add_argument('--process_num', type=int, default=10)
+    parser.add_argument('--process_num_gen', type=int, default=10)
+    parser.add_argument('--process_num_eval', type=int, default=10)
     parser.add_argument('--seed', type=int, default=1000000007)
     parser.add_argument('--ratio', type=float, default=1)
     parser.add_argument('--doc_path', type=str, default='./doc')
@@ -24,6 +25,7 @@ def parse_arguments():
     parser.add_argument('--add_noise', action="store_true", help="A boolean flag that defaults to False")
     parser.add_argument('--rag', action="store_true", help="whether to use rag model")
     parser.add_argument('--rag_num', type=int, help="recall top n")
+    parser.add_argument('--continue_gen', action="store_true", help="whether to continue_generate from exist file")
     parser.add_argument('--model_config_dir', type=str, default='../config/models')
 
     args = parser.parse_args()
