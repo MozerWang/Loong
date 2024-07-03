@@ -420,10 +420,10 @@ sh run.sh
 
 **Things To Know**
 - We provide a complete evaluation process:  
-`step1_load_data.py` Data loading  
-`step2_model_generate.py` Model generation  
-`step3_model_evaluate.py` GPT-4 evaluation    
-`step4_cal_metric.py` Result statistics  
+`step1_load_data.py` # Data loading  
+`step2_model_generate.py` # Model generation  
+`step3_model_evaluate.py` # GPT-4 evaluation    
+`step4_cal_metric.py` # Result statistics  
 
 - For `step2_model_generate.py`, you can design the model generation part yourself, modifying it to use your own model's inference method. Just make sure the input and output interfaces in `src/utils/generate.py` remain consistent:
 ```shell
@@ -436,6 +436,12 @@ result[tag] = response_content # Your LLM's response
 with open(output_path, 'a', encoding='utf-8') as fw:
     fw.write(json.dumps(result, ensure_ascii=False) + '\n')
 ```
+
+- In `data/loong.jsonl`, the `level` key means task:  
+`Spotlight Locating` # level1    
+`Comparison` # level2    
+`Clustering` # level3    
+`Chain of Reasoning` # level4   
 
 ## Citation
 ```
