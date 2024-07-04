@@ -21,11 +21,17 @@ def continue_gen(input_path, gen_data, tag):
             if js[tag]:
                 seen_id[js['id']] = js
     rewrite_data, continue_generate_data = [], []
+    seen_rewrite = set()
     for item in gen_data:
-        if item['id'] not in seen_id:
+        _id = item['id']
+        if _id in seen_rewrite:
+            continue
+        if _id not in seen_id:
             continue_generate_data.append(item)
         else:
-            rewrite_data.append(seen_id[item['id']])
+            rewrite_data.append(seen_id[_id])
+        # dedup
+        seen_rewrite.add(_id)
     with open(input_path, 'w') as f:
         for item in rewrite_data:
             f.write(json.dumps(item, ensure_ascii=False) + '\n')
