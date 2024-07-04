@@ -14,7 +14,7 @@ OUTPUT_PROCESS_PATH="../data/loong_process.jsonl"
 OUTPUT_PATH="../output/$MODEL/loong_generate.jsonl"
 OUTPUT_EVALUATE_PATH="../output/$MODEL/loong_evaluate.jsonl"
 # ARGUMENTS
-MAX_LENGTH="300000" # According to the context window of llm
+MAX_LENGTH="128000" # According to the context window of llm. The value of config takes precedence
 PROCESS_NUM_GEN="3" # Concurrency number of model generate
 PROCESS_NUM_EVAL="20" # Concurrency number of model eval
 DEBUG_NUM="-1" # -1 means all data
