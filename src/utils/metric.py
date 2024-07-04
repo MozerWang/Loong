@@ -54,5 +54,5 @@ def cal_metric(args, tag, level=None, set=None):
     num_full_marks = sum(1 for x in scores if x == 100)
     metric = (len(effective_samples) / len(lines), np.mean(scores), f"{num_full_marks}/{len(effective_samples)}", num_full_marks / len(effective_samples))
 
-    print(f"level: {level}, set: {set}, scoring_success_rate:{metric[0]:.2f}, avg_score:{metric[1]:.2f}, perfect_rate_calculation:{metric[2]}, perfect_rate:{metric[3]:.2f}")
+    print(f"level: {level}, set: {set}, scoring_success_rate: {metric[0]:.2f} , avg_score: {metric[1]:.2f} , perfect_rate_calculation: {metric[2]} , perfect_rate: {metric[3]:.2f}")
     return metric

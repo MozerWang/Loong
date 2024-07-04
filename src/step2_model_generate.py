@@ -4,7 +4,7 @@ import os
 from utils.args import parse_arguments
 from utils.config import load
 from utils.generate import generate
-from utils.util import create_path, continue_gen
+from utils.util import create_path, continue_gen, logger
 
 
 if __name__ == '__main__':
@@ -12,6 +12,11 @@ if __name__ == '__main__':
     random.seed(args.seed)
 
     config = load(open(f"{args.model_config_dir}/{args.models}"))
+    # The value of config takes precedence
+    if config.get('run_args', {}).get('max_length', None):
+        args.max_length = config.get('run_args', {}).get('max_length', None)
+        logger.debug(f"config value: max_length={args.max_length} takes precedences")
+
     tag = "generate_response"
 
     with open(args.output_process_path, "r") as f:
@@ -28,4 +33,4 @@ if __name__ == '__main__':
             # api
             generate(continue_generate_data, config, args.output_path, args.process_num_gen, tag=tag)
         else:
-            print(f"Path exist: {args.output_path}")
+            logger.debug(f"Path exist: {args.output_path}")
