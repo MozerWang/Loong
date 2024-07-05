@@ -1,5 +1,14 @@
-<img src="assets/logo.png" alt="Loong" width="120" align="left"><div align="center"><h1>&nbsp;Loong: Benchmarking Long-Context LLMs with Extended Multi-Doc QA</h1></div>
+<img src="assets/logo.png" alt="Loong" width="120" align="left"><div align="center"><h1>&nbsp; Loong: Benchmarking Long-Context LLMs with Extended Multi-Doc QA</h1></div>
 
+<p align="center" style="font-size:200%">
+    <img alt="GitHub" src="https://img.shields.io/github/license/MozerWang/Loong.svg?color=blue&style=flat-square">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MozerWang/Loong">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MozerWang/Loong">
+</p>
+
+<p align="center"><font size=6>📃</font> <a target="_self" href="https://arxiv.org/abs/2406.17419"> <img style="height:20pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a> <font size=6>•</font> <font size=6>🔔</font> <a target="_self" href="https://github.com/MozerWang/Loong"> <img style="height:20pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a></p>
+
+## 👀Overview
 This repository contains code for our paper [Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA](https://arxiv.org/abs/2406.17419). We propose a novel long-context benchmark, 🐉 **Loong**, aligning with realistic scenarios through extended multi-document question answering (QA). Loong typically consists of 11 documents per test instance on average, spanning three real-world scenarios in English and Chinese: (1) *Financial Reports*, (2) *Legal Cases*, and (3) *Academic Papers*. Meanwhile, Loong introduces new evaluation tasks from the perspectives of *Spotlight Locating*, *Comparison*, *Clustering*, and *Chain of Reasoning*, to facilitate a more realistic and comprehensive evaluation of long-context understanding. Furthermore, Loong features inputs of varying lengths (e.g., *10K-50K*, *50K-100K*, *100K-200K*, *beyond 200K*) and evaluation tasks of diverse difficulty, enabling fine-grained assessment of LLMs across different context lengths and task complexities.
 > *Please find more details of this work in our paper.*
 
