@@ -1,4 +1,4 @@
-<img src="assets/logo.png" alt="Loong" width="120" align="left"><div align="center"><h1>&nbsp;Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA</h1></div>
+<img src="assets/logo.png" alt="Loong" width="120" align="left"><div align="center"><h1>&nbsp; Loong: Benchmarking Long-Context LLMs with Extended Multi-Doc QA</h1></div>
 
 <p align="center" style="font-size:200%">
     <img alt="GitHub" src="https://img.shields.io/github/license/MozerWang/Loong.svg?color=blue&style=flat-square">
