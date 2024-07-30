@@ -16,6 +16,8 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
 > Showcase of four evaluation tasks in Loong (\<di>...\</di> marks the content of the i-th document). (a) *Spotlight Locating*: Locate the evidence. (b) *Comparison*: Locate and compare the evidence. (c) *Clustering*: Locate and cluster the evidence into groups. (d) *Chain of Reasoning*: Locate and reasoning along a logical chain.
 
 ## 📰News
+`[2024-07-30]` 🤖The performance of phi-3, llama-3.1-8B, gpt-4o-mini on Loong are updated.
+
 `[2024-07-03]` 🔥The code and benchmark are releasing. If you encounter any issues, please feel free to contact us.
 
 `[2024-06-25]` 👨‍💻The code is currently being refined, and we plan to release the evaluation code and benchmark within the next one or two weeks. If you encounter any issues, please feel free to contact me at wangminzheng2023@ia.ac.cn.
@@ -43,7 +45,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
       <td style="text-align: center;">64.97</td><td style="text-align: center;">0.37</td>
       <td style="text-align: center;">55.37</td><td style="text-align: center;">0.27</td>
     </tr>
-    <tr>
+    <tr style="background-color:#f0f0f0;">
       <td><a href="https://platform.openai.com/docs/models/gpt-4o">GPT-4o</a></td>
       <td style="text-align: center;">128K</td>
       <td style="text-align: center;">73.95</td><td style="text-align: center;">0.62</td>
@@ -61,7 +63,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
       <td style="text-align: center;">43.92</td><td style="text-align: center;">0.25</td>
       <td style="text-align: center;">48.85</td><td style="text-align: center;">0.23</td>
     </tr>
-    <tr>
+    <tr style="background-color:#f0f0f0;">
       <td><a href="https://docs.anthropic.com/en/docs/intro-to-claude#claude-3-family">Claude3-Haiku</a></td>
       <td style="text-align: center;">200K</td>
       <td style="text-align: center;">68.68</td><td style="text-align: center;">0.59</td>
@@ -71,7 +73,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
       <td style="text-align: center;">44.88</td><td style="text-align: center;">0.19</td>
     </tr>
     <tr>
-      <td><a href="https://huggingface.co/Qwen/Qwen2-72B-Instruct">Qwen2-72B-Instruct</a> (72B)</td>
+      <td><a href="https://huggingface.co/Qwen/Qwen2-72B-Instruct">Qwen2-72B-Instruct</a></td>
       <td style="text-align: center;">128K</td>
       <td style="text-align: center;">54.17</td><td style="text-align: center;">0.36</td>
       <td style="text-align: center;">42.38</td><td style="text-align: center;">0.20</td>
@@ -79,8 +81,17 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
       <td style="text-align: center;">47.76</td><td style="text-align: center;">0.18</td>
       <td style="text-align: center;">43.29</td><td style="text-align: center;">0.15</td>
     </tr>
+    <tr style="background-color:#f0f0f0;">
+      <td><a href="https://platform.openai.com/docs/models/gpt-4o-mini">GPT-4o-mini</a></td>
+      <td style="text-align: center;">128K</td>
+      <td style="text-align: center;">53.12</td><td style="text-align: center;">0.41</td>
+      <td style="text-align: center;">44.27</td><td style="text-align: center;">0.20</td>
+      <td style="text-align: center;">32.58</td><td style="text-align: center;">0.04</td>
+      <td style="text-align: center;">52.34</td><td style="text-align: center;">0.23</td>
+      <td style="text-align: center;">42.95</td><td style="text-align: center;">0.18</td>
+    </tr>
     <tr>
-      <td><a href="https://huggingface.co/THUDM/glm-4-9b-chat-1m">GLM4-Chat</a> (9B)</td>
+      <td><a href="https://huggingface.co/THUDM/glm-4-9b-chat-1m">GLM4-9B-Chat</a></td>
       <td style="text-align: center;">1000K</td>
       <td style="text-align: center;">57.35</td><td style="text-align: center;">0.47</td>
       <td style="text-align: center;">40.38</td><td style="text-align: center;">0.20</td>
@@ -88,7 +99,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
       <td style="text-align: center;">39.94</td><td style="text-align: center;">0.16</td>
       <td style="text-align: center;">38.31</td><td style="text-align: center;">0.16</td>
     </tr>
-    <tr>
+    <tr style="background-color:#f0f0f0;">
       <td><a href="https://kimi.moonshot.cn/">Kimi-Chat</a></td>
       <td style="text-align: center;">200K</td>
       <td style="text-align: center;">60.98</td><td style="text-align: center;">0.50</td>
@@ -96,6 +107,33 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
       <td style="text-align: center;">28.76</td><td style="text-align: center;">0.04</td>
       <td style="text-align: center;">38.52</td><td style="text-align: center;">0.15</td>
       <td style="text-align: center;">37.49</td><td style="text-align: center;">0.16</td>
+    </tr>
+    <tr>
+      <td><a href="https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct">Llama-3.1-8B-Instruct</a></td>
+      <td style="text-align: center;">128K</td>
+      <td style="text-align: center;">59.96</td><td style="text-align: center;">0.46</td>
+      <td style="text-align: center;">35.73</td><td style="text-align: center;">0.18</td>
+      <td style="text-align: center;">27.83</td><td style="text-align: center;">0.01</td>
+      <td style="text-align: center;">35.59</td><td style="text-align: center;">0.14</td>
+      <td style="text-align: center;">36.31</td><td style="text-align: center;">0.14</td>
+    </tr>
+    <tr style="background-color:#f0f0f0;">
+      <td><a href="https://huggingface.co/microsoft/Phi-3-small-128k-instruct">Phi-3-small</a></td>
+      <td style="text-align: center;">128K</td>
+      <td style="text-align: center;">29.23</td><td style="text-align: center;">0.10</td>
+      <td style="text-align: center;">20.12</td><td style="text-align: center;">0.06</td>
+      <td style="text-align: center;">17.53</td><td style="text-align: center;">0.00</td>
+      <td style="text-align: center;">14.36</td><td style="text-align: center;">0.01</td>
+      <td style="text-align: center;">19.03</td><td style="text-align: center;">0.03</td>
+    </tr>
+    <tr>
+      <td><a href="https://huggingface.co/microsoft/Phi-3-mini-128k-instruct">Phi-3-mini</a></td>
+      <td style="text-align: center;">128K</td>
+      <td style="text-align: center;">25.65</td><td style="text-align: center;">0.15</td>
+      <td style="text-align: center;">13.34</td><td style="text-align: center;">0.04</td>
+      <td style="text-align: center;">12.00</td><td style="text-align: center;">0.00</td>
+      <td style="text-align: center;">12.61</td><td style="text-align: center;">0.01</td>
+      <td style="text-align: center;">14.54</td><td style="text-align: center;">0.04</td>
     </tr>
   </tbody>
 </table>
@@ -146,6 +184,15 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">63.36</td><td style="text-align: center;">0.34</td>
         </tr>
         <tr style="background-color:#f0f0f0;">
+            <td><a href="https://platform.openai.com/docs/models/gpt-4o-mini">GPT-4o-mini</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">62.49</td><td style="text-align: center;">0.56</td>
+            <td style="text-align: center;">65.48</td><td style="text-align: center;">0.40</td>
+            <td style="text-align: center;">45.81</td><td style="text-align: center;">0.12</td>
+            <td style="text-align: center;">79.85</td><td style="text-align: center;">0.55</td>
+            <td style="text-align: center;">62.42</td><td style="text-align: center;">0.36</td>
+        </tr>
+        <tr>
             <td><a href="https://huggingface.co/Qwen/Qwen2-72B-Instruct">Qwen2-72B-Instruct</a></td>
             <td style="text-align: center;">200K</td>
             <td style="text-align: center;">68.49</td><td style="text-align: center;">0.55</td>
@@ -154,7 +201,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">70.39</td><td style="text-align: center;">0.36</td>
             <td style="text-align: center;">60.11</td><td style="text-align: center;">0.29</td>
         </tr>
-        <tr>
+        <tr style="background-color:#f0f0f0;">
             <td><a href="https://docs.anthropic.com/en/docs/intro-to-claude#claude-3-family">Claude3-Haiku</a></td>
             <td style="text-align: center;">200K</td>
             <td style="text-align: center;">60.94</td><td style="text-align: center;">0.55</td>
@@ -163,7 +210,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">66.85</td><td style="text-align: center;">0.34</td>
             <td style="text-align: center;">57.14</td><td style="text-align: center;">0.28</td>
         </tr>
-        <tr style="background-color:#f0f0f0;">
+        <tr>
             <td><a href="https://kimi.moonshot.cn/">Kimi-Chat</a></td>
             <td style="text-align: center;">200K</td>
             <td style="text-align: center;">81.11</td><td style="text-align: center;">0.74</td>
@@ -172,7 +219,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">53.77</td><td style="text-align: center;">0.17</td>
             <td style="text-align: center;">55.02</td><td style="text-align: center;">0.24</td>
         </tr>
-        <tr>
+        <tr style="background-color:#f0f0f0;">
             <td><a href="https://huggingface.co/THUDM/glm-4-9b-chat-1m">GLM4-9B-Chat</a></td>
             <td style="text-align: center;">1000K</td>
             <td style="text-align: center;">63.11</td><td style="text-align: center;">0.53</td>
@@ -180,6 +227,33 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">39.50</td><td style="text-align: center;">0.08</td>
             <td style="text-align: center;">56.32</td><td style="text-align: center;">0.28</td>
             <td style="text-align: center;">51.43</td><td style="text-align: center;">0.25</td>
+        </tr>
+        <tr>
+            <td><a href="https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct">Llama-3.1-8B-Instruct</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">67.91</td><td style="text-align: center;">0.57</td>
+            <td style="text-align: center;">41.62</td><td style="text-align: center;">0.20</td>
+            <td style="text-align: center;">36.55</td><td style="text-align: center;">0.04</td>
+            <td style="text-align: center;">54.74</td><td style="text-align: center;">0.34</td>
+            <td style="text-align: center;">48.10</td><td style="text-align: center;">0.24</td>
+        </tr>
+        <tr style="background-color:#f0f0f0;">
+            <td><a href="https://huggingface.co/microsoft/Phi-3-mini-128k-instruct">Phi-3-mini</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">46.13</td><td style="text-align: center;">0.30</td>
+            <td style="text-align: center;">22.18</td><td style="text-align: center;">0.05</td>
+            <td style="text-align: center;">19.30</td><td style="text-align: center;">0.02</td>
+            <td style="text-align: center;">20.44</td><td style="text-align: center;">0.03</td>
+            <td style="text-align: center;">24.58</td><td style="text-align: center;">0.07</td>
+        </tr>
+        <tr>
+            <td><a href="https://huggingface.co/microsoft/Phi-3-small-128k-instruct">Phi-3-small</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">35.00</td><td style="text-align: center;">0.15</td>
+            <td style="text-align: center;">26.83</td><td style="text-align: center;">0.12</td>
+            <td style="text-align: center;">17.01</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">15.87</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">21.44</td><td style="text-align: center;">0.05</td>
         </tr>
         <tr>
             <td colspan="12" style="text-align: center;"><b>Set2 (50K-100K)</b></td>
@@ -212,6 +286,15 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">52.73</td><td style="text-align: center;">0.24</td>
         </tr>
         <tr style="background-color:#f0f0f0;">
+            <td><a href="https://platform.openai.com/docs/models/gpt-4o-mini">GPT-4o-mini</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">63.54</td><td style="text-align: center;">0.46</td>
+            <td style="text-align: center;">51.48</td><td style="text-align: center;">0.26</td>
+            <td style="text-align: center;">36.56</td><td style="text-align: center;">0.04</td>
+            <td style="text-align: center;">56.51</td><td style="text-align: center;">0.25</td>
+            <td style="text-align: center;">47.74</td><td style="text-align: center;">0.19</td>
+        </tr>
+        <tr>
             <td><a href="https://huggingface.co/Qwen/Qwen2-72B-Instruct">Qwen2-72B-Instruct</a></td>
             <td style="text-align: center;">128K</td>
             <td style="text-align: center;">64.53</td><td style="text-align: center;">0.43</td>
@@ -220,7 +303,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">51.18</td><td style="text-align: center;">0.20</td>
             <td style="text-align: center;">45.71</td><td style="text-align: center;">0.17</td>
         </tr>
-        <tr>
+        <tr style="background-color:#f0f0f0;">
             <td><a href="https://docs.anthropic.com/en/docs/intro-to-claude#claude-3-family">Claude3-Haiku</a></td>
             <td style="text-align: center;">200K</td>
             <td style="text-align: center;">73.71</td><td style="text-align: center;">0.66</td>
@@ -229,7 +312,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">50.20</td><td style="text-align: center;">0.15</td>
             <td style="text-align: center;">45.45</td><td style="text-align: center;">0.17</td>
         </tr>
-        <tr style="background-color:#f0f0f0;">
+        <tr>
             <td><a href="https://kimi.moonshot.cn/">Kimi-Chat</a></td>
             <td style="text-align: center;">200K</td>
             <td style="text-align: center;">72.82</td><td style="text-align: center;">0.52</td>
@@ -237,6 +320,15 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">33.46</td><td style="text-align: center;">0.06</td>
             <td style="text-align: center;">40.51</td><td style="text-align: center;">0.15</td>
             <td style="text-align: center;">42.40</td><td style="text-align: center;">0.16</td>
+        </tr>
+        <tr style="background-color:#f0f0f0;">
+            <td><a href="https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct">Llama-3.1-8B-Instruct</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">72.79</td><td style="text-align: center;">0.59</td>
+            <td style="text-align: center;">44.51</td><td style="text-align: center;">0.27</td>
+            <td style="text-align: center;">32.98</td><td style="text-align: center;">0.01</td>
+            <td style="text-align: center;">40.53</td><td style="text-align: center;">0.15</td>
+            <td style="text-align: center;">41.98</td><td style="text-align: center;">0.16</td>
         </tr>
         <tr>
             <td><a href="https://huggingface.co/THUDM/glm-4-9b-chat-1m">GLM4-9B-Chat</a></td>
@@ -246,6 +338,24 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">30.72</td><td style="text-align: center;">0.02</td>
             <td style="text-align: center;">42.34</td><td style="text-align: center;">0.17</td>
             <td style="text-align: center;">40.19</td><td style="text-align: center;">0.17</td>
+        </tr>
+        <tr style="background-color:#f0f0f0;">
+            <td><a href="https://huggingface.co/microsoft/Phi-3-small-128k-instruct">Phi-3-small</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">34.17</td><td style="text-align: center;">0.16</td>
+            <td style="text-align: center;">22.08</td><td style="text-align: center;">0.08</td>
+            <td style="text-align: center;">20.51</td><td style="text-align: center;">0.01</td>
+            <td style="text-align: center;">16.20</td><td style="text-align: center;">0.01</td>
+            <td style="text-align: center;">21.40</td><td style="text-align: center;">0.04</td>
+        </tr>
+        <tr>
+            <td><a href="https://huggingface.co/microsoft/Phi-3-mini-128k-instruct">Phi-3-mini</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">44.71</td><td style="text-align: center;">0.29</td>
+            <td style="text-align: center;">22.81</td><td style="text-align: center;">0.09</td>
+            <td style="text-align: center;">16.37</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">15.39</td><td style="text-align: center;">0.01</td>
+            <td style="text-align: center;">20.84</td><td style="text-align: center;">0.05</td>
         </tr>
         <tr>
             <td colspan="12" style="text-align: center;"><b>Set3 (100K-200K)</b></td>
@@ -287,6 +397,15 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">41.41</td><td style="text-align: center;">0.18</td>
         </tr>
         <tr>
+            <td><a href="https://platform.openai.com/docs/models/gpt-4o-mini">GPT-4o-mini</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">58.27</td><td style="text-align: center;">0.49</td>
+            <td style="text-align: center;">33.46</td><td style="text-align: center;">0.09</td>
+            <td style="text-align: center;">27.33</td><td style="text-align: center;">0.01</td>
+            <td style="text-align: center;">35.67</td><td style="text-align: center;">0.04</td>
+            <td style="text-align: center;">35.63</td><td style="text-align: center;">0.11</td>
+        </tr>
+        <tr style="background-color:#f0f0f0;">
             <td><a href="https://huggingface.co/Qwen/Qwen2-72B-Instruct">Qwen2-72B-Instruct</a></td>
             <td style="text-align: center;">128K</td>
             <td style="text-align: center;">46.99</td><td style="text-align: center;">0.27</td>
@@ -295,7 +414,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">35.01</td><td style="text-align: center;">0.07</td>
             <td style="text-align: center;">35.94</td><td style="text-align: center;">0.09</td>
         </tr>
-        <tr style="background-color:#f0f0f0;">
+        <tr>
             <td><a href="https://huggingface.co/THUDM/glm-4-9b-chat-1m">GLM4-9B-Chat</a></td>
             <td style="text-align: center;">1000K</td>
             <td style="text-align: center;">69.19</td><td style="text-align: center;">0.56</td>
@@ -304,7 +423,7 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">32.30</td><td style="text-align: center;">0.09</td>
             <td style="text-align: center;">37.36</td><td style="text-align: center;">0.16</td>
         </tr>
-        <tr>
+        <tr style="background-color:#f0f0f0;">
             <td><a href="https://kimi.moonshot.cn/">Kimi-Chat</a></td>
             <td style="text-align: center;">200K</td>
             <td style="text-align: center;">62.13</td><td style="text-align: center;">0.54</td>
@@ -312,6 +431,33 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">21.98</td><td style="text-align: center;">0.01</td>
             <td style="text-align: center;">31.02</td><td style="text-align: center;">0.14</td>
             <td style="text-align: center;">31.37</td><td style="text-align: center;">0.14</td>
+        </tr>
+        <tr>
+            <td><a href="https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct">Llama-3.1-8B-Instruct</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">60.05</td><td style="text-align: center;">0.46</td>
+            <td style="text-align: center;">25.86</td><td style="text-align: center;">0.11</td>
+            <td style="text-align: center;">21.96</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">19.14</td><td style="text-align: center;">0.02</td>
+            <td style="text-align: center;">28.41</td><td style="text-align: center;">0.10</td>
+        </tr>
+        <tr style="background-color:#f0f0f0;">
+            <td><a href="https://huggingface.co/microsoft/Phi-3-small-128k-instruct">Phi-3-small</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">25.12</td><td style="text-align: center;">0.06</td>
+            <td style="text-align: center;">15.26</td><td style="text-align: center;">0.01</td>
+            <td style="text-align: center;">16.80</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">12.75</td><td style="text-align: center;">0.01</td>
+            <td style="text-align: center;">16.94</td><td style="text-align: center;">0.01</td>
+        </tr>
+        <tr>
+            <td><a href="https://huggingface.co/microsoft/Phi-3-mini-128k-instruct">Phi-3-mini</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">7.40</td><td style="text-align: center;">0.03</td>
+            <td style="text-align: center;">1.97</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">6.07</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">7.38</td><td style="text-align: center;">0.01</td>
+            <td style="text-align: center;">5.79</td><td style="text-align: center;">0.01</td>
         </tr>
         <tr>
             <td colspan="12" style="text-align: center;"><b>Set4 (200K-250K)</b></td>
@@ -361,6 +507,24 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">25.81</td><td style="text-align: center;">0.04</td>
             <td style="text-align: center;">28.92</td><td style="text-align: center;">0.06</td>
         </tr>
+        <tr style="background-color:#f0f0f0;">
+            <td><a href="https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct">Llama-3.1-8B-Instruct</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">31.72</td><td style="text-align: center;">0.13</td>
+            <td style="text-align: center;">27.27</td><td style="text-align: center;">0.10</td>
+            <td style="text-align: center;">15.17</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">22.89</td><td style="text-align: center;">0.02</td>
+            <td style="text-align: center;">22.51</td><td style="text-align: center;">0.05</td>
+        </tr>
+        <tr>
+            <td><a href="https://platform.openai.com/docs/models/gpt-4o-mini">GPT-4o-mini</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">20.66</td><td style="text-align: center;">0.09</td>
+            <td style="text-align: center;">19.18</td><td style="text-align: center;">0.03</td>
+            <td style="text-align: center;">16.03</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">27.81</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">20.41</td><td style="text-align: center;">0.02</td>
+        </tr>
         <tr  style="background-color:#f0f0f0;">
             <td><a href="https://huggingface.co/THUDM/glm-4-9b-chat-1m">GLM4-9B-Chat</a></td>
             <td style="text-align: center;">1000K</td>
@@ -378,6 +542,24 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
             <td style="text-align: center;">5.65</td><td style="text-align: center;">0.00</td>
             <td style="text-align: center;">22.61</td><td style="text-align: center;">0.11</td>
             <td style="text-align: center;">13.50</td><td style="text-align: center;">0.05</td>
+        </tr>
+        <tr style="background-color:#f0f0f0;">
+            <td><a href="https://huggingface.co/microsoft/Phi-3-small-128k-instruct">Phi-3-small</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">22.36</td><td style="text-align: center;">0.02</td>
+            <td style="text-align: center;">16.43</td><td style="text-align: center;">0.05</td>
+            <td style="text-align: center;">11.50</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">10.35</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">14.27</td><td style="text-align: center;">0.01</td>
+        </tr>
+        <tr>
+            <td><a href="https://huggingface.co/microsoft/Phi-3-mini-128k-instruct">Phi-3-mini</a></td>
+            <td style="text-align: center;">128K</td>
+            <td style="text-align: center;">5.21</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">2.20</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">3.45</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">2.58</td><td style="text-align: center;">0.00</td>
+            <td style="text-align: center;">3.38</td><td style="text-align: center;">0.00</td>
         </tr>
     </tbody>
 </table>
@@ -447,10 +629,10 @@ with open(output_path, 'a', encoding='utf-8') as fw:
 ```
 
 - In `data/loong.jsonl`, the `level` key means task:  
-`Spotlight Locating` # level1    
-`Comparison` # level2    
-`Clustering` # level3    
-`Chain of Reasoning` # level4   
+`level1` # Spotlight Locating    
+`level2` # Comparison    
+`level3` # Clustering    
+`level4` # Chain of Reasoning   
 
 ## Citation
 ```
