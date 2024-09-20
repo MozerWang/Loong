@@ -6,7 +6,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MozerWang/Loong">
 </p>
 
-<p align="center"><font size=6>📃</font> <a target="_self" href="https://arxiv.org/abs/2406.17419"> <img style="height:20pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a> <font size=6>•</font> <font size=6>🔔</font> <a target="_self" href="https://github.com/MozerWang/Loong"> <img style="height:20pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a></p>
+<p align="center"><font size=6>📃</font> <a target="_self" href="https://arxiv.org/abs/2406.17419"> <img style="height:14pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a> <font size=6>•</font> <font size=6>🔔</font> <a target="_self" href="https://github.com/MozerWang/Loong"> <img style="height:14pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a></p>
 
 ## 👀Overview
 This repository contains code for our paper [Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA](https://arxiv.org/abs/2406.17419). We propose a novel long-context benchmark, 🐉 **Loong**, aligning with realistic scenarios through extended multi-document question answering (QA). Loong typically consists of 11 documents per test instance on average, spanning three real-world scenarios in English and Chinese: (1) *Financial Reports*, (2) *Legal Cases*, and (3) *Academic Papers*. Meanwhile, Loong introduces new evaluation tasks from the perspectives of *Spotlight Locating*, *Comparison*, *Clustering*, and *Chain of Reasoning*, to facilitate a more realistic and comprehensive evaluation of long-context understanding. Furthermore, Loong features inputs of varying lengths (e.g., *10K-50K*, *50K-100K*, *100K-200K*, *beyond 200K*) and evaluation tasks of diverse difficulty, enabling fine-grained assessment of LLMs across different context lengths and task complexities.
@@ -16,6 +16,8 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
 > Showcase of four evaluation tasks in Loong (\<di>...\</di> marks the content of the i-th document). (a) *Spotlight Locating*: Locate the evidence. (b) *Comparison*: Locate and compare the evidence. (c) *Clustering*: Locate and cluster the evidence into groups. (d) *Chain of Reasoning*: Locate and reasoning along a logical chain.
 
 ## 📰News
+`[2024-09-20]` 📰Our paper has been accepted to the EMNLP Main Conference.
+
 `[2024-07-30]` 🤖The performance of phi-3, llama-3.1-8B, gpt-4o-mini on Loong are updated.
 
 `[2024-07-03]` 🔥The code and benchmark are releasing. If you encounter any issues, please feel free to contact us.
