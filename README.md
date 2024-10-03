@@ -6,7 +6,17 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MozerWang/Loong">
 </p>
 
-<p align="center"><font size=6>📃</font> <a target="_self" href="https://arxiv.org/abs/2406.17419"> <img style="height:14pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a> <font size=6>•</font> <font size=6>🔔</font> <a target="_self" href="https://github.com/MozerWang/Loong"> <img style="height:14pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a></p>
+<p align="center">
+<font size=6>📃</font>
+<a target="_self" href="https://arxiv.org/abs/2406.17419"> <img style="height:14pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a> 
+<font size=6>•</font> 
+<font size=6>💻</font> 
+<a target="_self" href="https://github.com/MozerWang/Loong"> <img style="height:14pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a>
+<font size=6>•</font> 
+<font size=6>🤗</font> 
+<a target="_self" href="https://modelscope.cn/datasets/iic/Loong">
+<img style="height:14pt" src="https://img.shields.io/badge/-🤗%20Dataset-red?style=flat"></a>
+</p>
 
 ## 👀Overview
 This repository contains code for our paper [Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA](https://arxiv.org/abs/2406.17419). We propose a novel long-context benchmark, 🐉 **Loong**, aligning with realistic scenarios through extended multi-document question answering (QA). Loong typically consists of 11 documents per test instance on average, spanning three real-world scenarios in English and Chinese: (1) *Financial Reports*, (2) *Legal Cases*, and (3) *Academic Papers*. Meanwhile, Loong introduces new evaluation tasks from the perspectives of *Spotlight Locating*, *Comparison*, *Clustering*, and *Chain of Reasoning*, to facilitate a more realistic and comprehensive evaluation of long-context understanding. Furthermore, Loong features inputs of varying lengths (e.g., *10K-50K*, *50K-100K*, *100K-200K*, *beyond 200K*) and evaluation tasks of diverse difficulty, enabling fine-grained assessment of LLMs across different context lengths and task complexities.
@@ -573,10 +583,12 @@ This repository contains code for our paper [Leave No Document Behind: Benchmark
 - We set `temperature = 0` to eliminate randomness and keep other hyper-parameters default. For API-Based LLMs, we directly utilize the official API for testing. Since the Kimi-Chat-200k currently does not provide an interface, we manually input content on the web. As for open-source models, we conduct experiments on a server with 8 $\times$ A100 80GB.
 
 ## 🔧Evaluate long-context LLMs
-**Step1** Download Loong benchmark
+**Step1** Download Loong benchmark and docs
 ```shell
 git clone https://github.com/MozerWang/Loong.git
 cd Loong
+wget -P data/ http://alibaba-research.oss-cn-beijing.aliyuncs.com/loong/doc.zip
+unzip data/doc.zip -d data/
 ```
 
 **Step2** Create a conda environment and Install other dependencies.
