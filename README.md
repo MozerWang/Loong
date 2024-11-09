@@ -650,10 +650,12 @@ with open(output_path, 'a', encoding='utf-8') as fw:
 
 ## Citation
 ```
-@article{wang2024loong,
+@inproceedings{wang2024loong,
   title={Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA},
   author={Minzheng Wang, Longze Chen, Cheng Fu, Shengyi Liao, Xinghua Zhang, Bingli Wu, Haiyang Yu, Nan Xu, Lei Zhang, Run Luo, Yunshui Li, Min Yang, Fei Huang, Yongbin Li},
   year={2024}
-  journal={arXiv preprint arXiv:2406.17419},
+  booktitle ={Proceedings of EMNLP},
+  url={https://aclanthology.org/2024.emnlp-main.322},
+  pages={5627--5646},
 }
 ```
