@@ -128,7 +128,8 @@ def get_generate_prompts(args):
             lines = lines[:args.debug_num]
         if args.ratio != 1:
             random.shuffle(lines)
-            lines = lines[int(len(prompts) * args.ratio):]
+            #prompts is empty, get first n lines
+            lines = lines[:int(len(lines) * args.ratio):]
 
         for line in tqdm(lines, desc="gen_prompts"):
             item = json.loads(line)

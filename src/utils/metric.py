@@ -52,7 +52,19 @@ def cal_metric(args, tag, level=None, set=None):
             no_effective_samples.append(line['id'])
 
     num_full_marks = sum(1 for x in scores if x == 100)
-    metric = (len(effective_samples) / len(lines), np.mean(scores), f"{num_full_marks}/{len(effective_samples)}", num_full_marks / len(effective_samples))
+    # if no effective samples, then the metric is (0.0, 0.0, "0/0", 0.0)
+    if len(effective_samples) == 0:
+        scoring_success_rate = 0.0
+        avg_score = 0.0
+        perfect_rate_calculation = "0/0"
+        perfect_rate = 0.0
+    else:
+        scoring_success_rate = len(effective_samples) / len(lines)
+        avg_score = np.mean(scores)
+        perfect_rate_calculation = f"{num_full_marks}/{len(effective_samples)}"
+        perfect_rate = num_full_marks / len(effective_samples)
+    
+    metric = (scoring_success_rate, avg_score, perfect_rate_calculation, perfect_rate)
 
     print(f"level: {level}, set: {set}, scoring_success_rate: {metric[0]:.2f} , avg_score: {metric[1]:.2f} , perfect_rate_calculation: {metric[2]} , perfect_rate: {metric[3]:.2f}")
     return metric
